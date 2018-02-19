@@ -1,0 +1,102 @@
+50 x
+-12.769864093593 -48.349850440552
+(S1 (S (VP (VB change) (NP (DT the) (NN rower)))))
+-14.539614159142 -51.256563342087
+(S1 (VP (VB change) (NP (DT the) (NN rower))))
+-15.097607606291 -56.384810721665
+(S1 (S (VP (VBP change) (NP (DT the) (NN rower)))))
+-15.667195631219 -58.633452221496
+(S1 (S (VP (NN change) (NP (DT the) (NN rower)))))
+-15.988194131535 -55.793843283024
+(S1 (S (VP (VB change) (NP (DT the) (JJR rower)))))
+-16.002384975536 -55.386785127118
+(S1 (S (VP (VB change) (NP (DT the) (JJ rower)))))
+-16.570490584366 -56.959510743303
+(S1 (S (NP (NN change)) (NP (DT the) (NN rower))))
+-17.226708563475 -56.796532598941
+(S1 (SINV (VB change) (NP (DT the) (NN rower))))
+-17.469406487839 -59.157443853990
+(S1 (SINV (VBP change) (NP (DT the) (NN rower))))
+-17.474119313154 -62.999930572598
+(S1 (VP (NN change) (NP (DT the) (NN rower))))
+-17.477042893217 -57.960814215964
+(S1 (VP (VB change) (NP (DT the) (JJR rower))))
+-17.605413219517 -56.467078432495
+(S1 (S (VP (VB change) (S (NP (DT the) (NN rower))))))
+-17.628770467141 -57.467321079510
+(S1 (VP (VB change) (NP (DT the) (JJ rower))))
+-17.831212986247 -60.783508074637
+(S1 (S (VP (VB change) (X (DT the) (JJR rower)))))
+-18.144749054501 -60.411498995602
+(S1 (S (NP (VB change)) (NP (DT the) (NN rower))))
+-18.502456411053 -63.053349485694
+(S1 (S (VP (VBP change) (NP (DT the) (JJR rower)))))
+-18.525421896472 -60.259038086508
+(S1 (SINV (VP (VB change)) (NP (DT the) (NN rower))))
+-18.542504135839 -63.996976610775
+(S1 (S (VP (VB change)) (NP (DT the) (NN rower))))
+-18.678074626707 -62.637224628369
+(S1 (S (VP (VBP change) (NP (DT the) (JJ rower)))))
+-18.768272961071 -66.826329001777
+(S1 (VP (VBP change) (NP (DT the) (NN rower))))
+-18.926334957378 -61.921635711795
+(S1 (SINV (VP (VBP change)) (NP (DT the) (NN rower))))
+-18.927468717729 -62.192631175297
+(S1 (VP (VB change) (X (DT the) (JJR rower))))
+-19.173911295409 -65.650280725158
+(S1 (S (VP (NN change) (NP (DT the) (JJR rower)))))
+-19.191387554441 -65.315898225442
+(S1 (S (VP (NN change) (NP (DT the) (JJ rower)))))
+-19.226887534542 -58.695133605163
+(S1 (VP (VB change) (S (NP (DT the) (NN rower)))))
+-19.331841942770 -60.534954388119
+(S1 (S (VP (VB change) (S (NP (DT the) (JJ rower))))))
+-19.365211989798 -61.164242274135
+(S1 (S (VP (VB change) (S (NP (DT the) (JJR rower))))))
+-19.483426725054 -62.845528850873
+(S1 (SINV (VBP change) (NP (DT the) (JJR rower))))
+-19.521663916001 -62.883515375845
+(S1 (S (VP (VBP change) (S (NP (DT the) (NN rower))))))
+-19.558684382444 -65.768799797044
+(S1 (S (VP (VBP change) (X (DT the) (JJR rower)))))
+-19.629556679134 -62.310929444705
+(S1 (S (VP (VB change) (NP (NP (DT the)) (NN rower)))))
+-19.687831917712 -62.706578681997
+(S1 (SINV (VBP change) (NP (DT the) (JJ rower))))
+-19.699275206973 -63.101606229050
+(S1 (SINV (VB change) (NP (DT the) (JJR rower))))
+-20.062497720551 -64.922247693135
+(S1 (S (NP (NN change)) (NP (DT the) (JJ rower))))
+-20.100828213062 -63.722761029592
+(S1 (SINV (VB change) (NP (DT the) (JJ rower))))
+-20.115401257546 -65.532426666470
+(S1 (S (NP (NN change)) (NP (DT the) (JJR rower))))
+-20.125201561867 -61.234861371865
+(S1 (S (VP (VB change) (ADVP (DT the) (JJR rower)))))
+-20.761750153827 -62.798836345867
+(S1 (VP (VB change) (S (NP (DT the) (JJR rower)))))
+-20.866948490596 -63.102687797676
+(S1 (S (VP (VB change) (ADJP (DT the) (JJR rower)))))
+-20.946638348432 -65.891486281495
+(S1 (SINV (VP (VBP change)) (NP (DT the) (JJR rower))))
+-21.296358018469 -66.183855209697
+(S1 (SINV (VP (VBP change)) (NP (DT the) (JJ rower))))
+-21.306406123788 -64.846737929894
+(S1 (S (VP (VB change) (ADVP (DT the) (NN rower)))))
+-21.426331932075 -65.217642507692
+(S1 (VP (VB change) (NP (NP (DT the)) (NN rower))))
+-21.448502777717 -63.379216346402
+(S1 (VP (VB change) (S (NP (DT the) (JJ rower)))))
+-21.624292691598 -64.011018017341
+(S1 (VP (VB change) (ADVP (DT the) (JJR rower))))
+-21.777496332099 -66.124525391322
+(S1 (S (VP (VB change) (ADJP (DT the) (JJ rower)))))
+-21.784536357702 -64.322569448054
+(S1 (VP (VB change) (ADJP (DT the) (JJR rower))))
+-22.034796424719 -66.790462718858
+(S1 (S (VP (VB change) (S (ADJP (DT the) (JJR rower))))))
+-22.186506262547 -65.718935666362
+(S1 (S (VP (VB change) (ADJP (NP (DT the)) (JJR rower)))))
+-23.164832224257 -66.938817484929
+(S1 (VP (VB change) (ADJP (NP (DT the)) (JJR rower))))
+

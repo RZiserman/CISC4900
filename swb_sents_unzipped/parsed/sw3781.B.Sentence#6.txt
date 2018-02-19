@@ -1,0 +1,102 @@
+50 x
+-31.096025150552 -119.971887997626
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-31.668175484052 -120.295060385504
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-32.250489435052 -120.461551787843
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-32.508704923648 -126.478839605738
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PRT (RP off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-32.549737116349 -127.975385255166
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (PP (TO to)))))))))
+-32.623236048552 -120.784724175721
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-32.626245873362 -126.623114177278
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-32.746017126478 -121.960609614970
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RP off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-32.786097251267 -127.508473016847
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (X (TO to)))))))))
+-33.121887421970 -128.298557643044
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (PP (TO to)))))))))
+-33.130582348149 -126.968503395955
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PRT (RP off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-33.198396206861 -126.946286565156
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-33.358247584767 -127.831645404725
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (X (TO to)))))))))
+-33.637962440213 -123.261083234472
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RP off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-33.704201372971 -128.465049045383
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (PP (TO to))))))))))
+-33.900481410979 -122.450273405186
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RP off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-33.940561535767 -127.998136807063
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (X (TO to))))))))))
+-34.313308149267 -128.321309194941
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (X (TO to))))))))))
+-34.351627212442 -125.288716069531
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (IN off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-34.426435876716 -124.147958288769
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-34.516112996777 -128.127081072400
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))))
+-34.562027096690 -127.459828107869
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PRT (RP off)) (SBAR (NP (DT any) (NN month)) (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-34.593023004713 -123.750747024688
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RP off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-34.998586210215 -124.471130676646
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-35.297815245583 -125.493774606683
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))))
+-35.306687776942 -125.778379859748
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (IN off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-35.377407123420 -124.675452406977
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RB off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-35.425109661190 -127.949491898085
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PRT (RP off)) (SBAR (NP (DT any) (NN month)) (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-35.498624718020 -126.387861858074
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))
+-35.525772037118 -121.504360139144
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (ADVP (RB off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-35.612735266202 -127.707074163233
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (RB probably) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-35.636525227215 -127.745966888489
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (SBAR (NP (DT any) (NN month)) (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-35.985068375924 -127.913555964084
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-36.076427852642 -126.136679906112
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RP off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-36.083939606758 -122.713765825006
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (ADVP (IN off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-36.088321210084 -125.983438396899
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))))
+-36.132334201618 -121.994023929361
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (ADVP (RB off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-36.184885571824 -128.030246530631
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (RB probably) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-36.531871407920 -125.165116197194
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RB off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-36.591630540424 -128.403219754300
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-36.676052800413 -127.362217019463
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RP off) (NP (DT any) (NN month) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))))
+-36.690501771258 -123.203429615223
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (ADVP (IN off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-36.744326091715 -128.235630678705
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RB off)) (SBAR (NP (DT any) (NN month)) (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-36.800964490702 -128.196738043332
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (RB probably) (VP (VB pay) (NP (PRP them)) (PP (IN off) (NP (DT any) (NN month))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-36.968373166377 -127.437153525614
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (ADVP (RP off)) (NP (DT any) (NN month)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-37.055992759928 -128.155586318796
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (ADVP (RB off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))))
+-37.148616693947 -128.376583475417
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RP off) (NP (DT any) (NN month))))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to))))))))
+-37.466558764913 -127.851880809679
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (PRP them)) (PP (RP off) (NP (DT any) (NN month) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))))
+-38.856182763282 -125.680430430286
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (ADVP (RB off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+-39.414350332922 -126.889836116148
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (MD could) (ADVP (RB probably)) (VP (VB pay) (NP (NP (PRP them)) (ADVP (IN off) (NP (DT any) (NN month)))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD wanted) (S (VP (TO to)))))))))))
+

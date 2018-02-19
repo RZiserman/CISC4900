@@ -1,0 +1,102 @@
+50 x
+-30.290674989260 -101.169894343615
+(S1 (S (CC And) (ADVP (RB then) (RB just)) (PP (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-30.703711314294 -99.583907539966
+(S1 (S (CC And) (ADVP (RB then) (RB just)) (PP (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-31.123274532849 -97.665198833901
+(S1 (S (CC And) (ADVP (RB then)) (PP (ADVP (RB just)) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-31.200391234482 -98.700995507663
+(S1 (S (CC And) (ADVP (RB then)) (PP (RB just) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-31.526034897731 -96.079212030253
+(S1 (S (CC And) (ADVP (RB then)) (PP (ADVP (RB just)) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-31.655273586577 -97.115008704015
+(S1 (S (CC And) (ADVP (RB then)) (PP (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-31.790467744712 -101.781000401781
+(S1 (S (CC And) (ADVP (RB then) (RB just)) (PP (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-31.967463421966 -100.124354047884
+(S1 (S (CC And) (PP (ADVP (RB then)) (RB just) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-32.206406360913 -100.071403214161
+(S1 (S (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (NN general)))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-32.210030966054 -99.862291695716
+(S1 (S (CC And) (ADVP (RB then)) (PP (ADVP (RB just)) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-32.249947487000 -98.538367244236
+(S1 (S (CC And) (PP (ADVP (RB then)) (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-32.287147673264 -100.898088369478
+(S1 (S (CC And) (ADVP (RB then)) (PP (RB just) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-32.500680925022 -101.806919927885
+(S1 (S (CC And) (ADVP (RB then)) (PP (ADVP (RB just)) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (ADJP (NP (DT a) (NN lot)) (JJR better)))))
+-32.607560534453 -100.844417536343
+(S1 (S (CC And) (RB then) (PP (ADVP (RB just)) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-32.612791328149 -98.276304892068
+(S1 (S (CC And) (ADVP (RB then)) (PP (ADVP (RB just)) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-32.625141241675 -101.233943067494
+(S1 (S (CC And) (PP (RB then) (RB just) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-32.672565733089 -98.786796335533
+(S1 (S (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (JJ general)))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-32.684677241662 -101.880214210105
+(S1 (S (CC And) (RB then) (PP (RB just) (IN in) (NP (NN general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-32.742030019783 -99.312101565829
+(S1 (S (CC And) (ADVP (RB then)) (PP (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-32.903441289905 -100.220933124236
+(S1 (S (CC And) (ADVP (RB then)) (PP (ADVP (RB just)) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADJP (NP (DT a) (NN lot)) (JJR better)))))
+-32.907625284407 -99.647956263845
+(S1 (S (CC And) (PP (RB then) (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-33.010320907699 -99.258430732694
+(S1 (S (CC And) (RB then) (PP (ADVP (RB just)) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-33.032679987114 -101.256729797998
+(S1 (S (CC And) (ADVP (RB then)) (PP (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADJP (NP (DT a) (NN lot)) (JJR better)))))
+-33.124111961768 -100.902110122844
+(S1 (S (CC And) (PP (ADVP (RB then) (RB just)) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-33.139559596545 -100.294227406456
+(S1 (S (CC And) (RB then) (PP (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-33.318865387203 -98.529281751090
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (JJ general) (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better))))))))
+-33.336703917418 -100.735460106051
+(S1 (S (CC And) (PP (ADVP (RB then)) (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-33.359051265364 -94.427817895663
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))))))
+-33.474548672767 -101.494402532284
+(S1 (S (CC And) (PP (ADVP (RB then)) (ADVP (RB just)) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))
+-33.525793756019 -101.918426745020
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (NN general))) (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better))))))
+-33.558389630275 -100.065763140513
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (NN general) (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better))))))))
+-33.759322163507 -100.983889197348
+(S1 (S (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (JJ general)))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-33.813107306704 -98.377150304937
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (NP (JJ general)) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))))))
+-33.968926684922 -100.633819866393
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (JJ general))) (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better))))))
+-33.994381709249 -101.845049125660
+(S1 (S (CC And) (PP (RB then) (RB just) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-34.049877059130 -101.328008067386
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (NN general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))))))
+-34.097077340904 -101.455523594509
+(S1 (S (CC And) (RB then) (PP (ADVP (RB just)) (IN in) (NP (JJ general))) (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))
+-34.157537001756 -100.726374536085
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (JJ general) (S (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better))))))))
+-34.523707508869 -101.659576689752
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (JJ general) (S (NP (PRP I)) (VP (VB sleep) (ADVP (NP (DT a) (NN lot)) (RBR better))))))))
+-34.648758485195 -100.574243069756
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (NP (NP (JJ general)) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))))))
+-34.657196185904 -96.624910660481
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))))))
+-34.900230795596 -97.649078480883
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (ADJP (JJ general)) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better)))))))))
+-34.914144865235 -98.569538891470
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (ADJP (NP (DT a) (NN lot)) (JJR better)))))))))
+-35.805413307832 -101.297191771350
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (ADJP (NP (DT a) (RB lot)) (JJR better)))))))))
+-36.039955871251 -100.928943330316
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot) (JJR better))))))))))
+-36.044003974596 -101.089416385716
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot)) (ADVP (RB better)))))))))
+-36.198375718924 -99.846171245701
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (ADJP (JJ general)) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (ADVP (NP (DT a) (NN lot)) (RBR better)))))))))
+-36.455324403831 -101.790799476691
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (ADJP (JJ general)) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (ADJP (NP (DT a) (NN lot)) (JJR better)))))))))
+-37.106388538106 -100.690515938099
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (NP (DT a) (NN lot)) (ADVP (RBR better)))))))))
+-37.756196510481 -101.572886617354
+(S1 (FRAG (CC And) (RB then) (ADVP (RB just)) (PP (IN in) (ADJP (JJ general) (SBAR (S (NP (PRP I)) (VP (VBP sleep) (ADJP (NP (DT a) (NN lot)) (RBR better)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-16.473697913390 -59.917675335765
+(S1 (NP (RB just) (PDT all) (PP (IN over) (NP (DT the) (NN place)))))
+-17.100894450517 -55.202473269752
+(S1 (PP (RB just) (RB all) (IN over) (NP (DT the) (NN place))))
+-17.110167301732 -55.763773343619
+(S1 (PP (RB just) (RB all) (PP (IN over) (NP (DT the) (NN place)))))
+-17.252459152233 -58.149635008842
+(S1 (NP (NP (RB just) (DT all)) (PP (IN over) (NP (DT the) (NN place)))))
+-17.364436342485 -57.015098026568
+(S1 (ADJP (RB just) (RB all) (PP (IN over) (NP (DT the) (NN place)))))
+-17.427792681970 -59.780565612585
+(S1 (NP (NP (RB just) (PDT all)) (PP (IN over) (NP (DT the) (NN place)))))
+-17.807919533493 -54.759452162389
+(S1 (FRAG (ADVP (RB just)) (RB all) (PP (IN over) (NP (DT the) (NN place)))))
+-17.987998823884 -60.400759617997
+(S1 (FRAG (ADVP (RB just) (RB all)) (PP (IN over) (NP (DT the) (NN place)))))
+-18.241038397867 -57.901549967503
+(S1 (S (ADJP (RB just) (DT all)) (PP (IN over) (NP (DT the) (NN place)))))
+-18.343197577615 -58.468196039766
+(S1 (FRAG (RB just) (RB all) (PP (IN over) (NP (DT the) (NN place)))))
+-18.445173746930 -57.938972852442
+(S1 (PP (RB just) (ADVP (DT all)) (PP (IN over) (NP (DT the) (NN place)))))
+-18.450171395182 -54.981111713365
+(S1 (PP (RB just) (PP (ADVP (DT all)) (IN over) (NP (DT the) (NN place)))))
+-18.575035275734 -60.729612650755
+(S1 (ADVP (ADVP (RB just) (RB all)) (PP (IN over) (NP (DT the) (NN place)))))
+-18.604135108036 -59.116954088379
+(S1 (PP (RB just) (PP (DT all) (IN over) (NP (DT the) (NN place)))))
+-18.627208814144 -62.017699624171
+(S1 (S (ADJP (RB just) (DT all) (PP (IN over) (NP (DT the) (NN place))))))
+-18.654216833301 -60.705620536828
+(S1 (ADJP (RB just) (DT all) (PP (IN over) (NP (DT the) (NN place)))))
+-18.821939226624 -59.316116592080
+(S1 (PP (ADVP (RB just)) (RB all) (PP (IN over) (NP (DT the) (NN place)))))
+-18.901640391784 -58.633882467034
+(S1 (FRAG (PP (RB just) (RB all) (PP (IN over) (NP (DT the) (NN place))))))
+-18.903012517877 -59.094019739846
+(S1 (FRAG (ADJP (RB just) (RB all) (PP (IN over) (NP (DT the) (NN place))))))
+-18.907039930125 -60.130428714232
+(S1 (S (NP (NP (RB just) (PDT all)) (PP (IN over) (NP (DT the) (NN place))))))
+-18.911650241048 -59.987201914518
+(S1 (FRAG (RB just) (PP (DT all) (IN over) (NP (DT the) (NN place)))))
+-18.951497882824 -61.745640932953
+(S1 (NP (RB just) (RB all) (IN over) (DT the) (NN place)))
+-18.999547853153 -58.536903376240
+(S1 (PP (RB just) (PP (RB all) (IN over) (NP (DT the) (NN place)))))
+-19.021396099178 -60.854129241728
+(S1 (ADVP (RB just) (RB all) (PP (IN over) (NP (DT the) (NN place)))))
+-19.115516227023 -58.658340264136
+(S1 (FRAG (PP (RB just) (RB all) (IN over) (NP (DT the) (NN place)))))
+-19.225918445010 -59.975660094150
+(S1 (PP (ADVP (RB just)) (RB all) (IN over) (NP (DT the) (NN place))))
+-19.358333936240 -60.576780953385
+(S1 (S (NP (RB just) (PDT all)) (PP (IN over) (NP (DT the) (NN place)))))
+-19.395964085012 -59.453588179068
+(S1 (FRAG (CONJP (RB just) (RB all) (IN over)) (NP (DT the) (NN place))))
+-19.610037040166 -58.391676668238
+(S1 (FRAG (RB just) (PP (ADVP (DT all)) (IN over) (NP (DT the) (NN place)))))
+-19.657851900522 -61.097534201933
+(S1 (ADJP (ADJP (RB just) (RB all)) (PP (IN over) (NP (DT the) (NN place)))))
+-19.670512443654 -61.783928851685
+(S1 (S (ADJP (RB just) (PP (RB all) (IN over) (NP (DT the) (NN place))))))
+-19.902718644861 -60.298257102294
+(S1 (FRAG (RB just) (PP (RB all) (IN over) (NP (DT the) (NN place)))))
+-19.913234082315 -60.918209392521
+(S1 (ADJP (ADJP (RB just) (DT all)) (PP (IN over) (NP (DT the) (NN place)))))
+-19.919001417958 -62.144365617819
+(S1 (FRAG (ADJP (RB just) (DT all) (PP (IN over) (NP (DT the) (NN place))))))
+-19.924282143664 -61.841660385232
+(S1 (FRAG (RB just) (ADVP (RB all)) (PP (IN over) (NP (DT the) (NN place)))))
+-19.939173744284 -62.001407451709
+(S1 (FRAG (RB just) (ADVP (DT all)) (PP (IN over) (NP (DT the) (NN place)))))
+-20.063943797111 -60.907304074266
+(S1 (ADJP (RB just) (PP (RB all) (IN over) (NP (DT the) (NN place)))))
+-20.144618636566 -60.809169788862
+(S1 (FRAG (PP (RB just) (ADVP (DT all)) (PP (IN over) (NP (DT the) (NN place))))))
+-20.145103872266 -57.851220652387
+(S1 (FRAG (PP (RB just) (PP (ADVP (DT all)) (IN over) (NP (DT the) (NN place))))))
+-20.226910292963 -62.336300264712
+(S1 (FRAG (NP (NP (RB just) (RB all)) (PP (IN over) (NP (DT the) (NN place))))))
+-20.285018359976 -60.162055218515
+(S1 (FRAG (ADVP (RB just)) (ADVP (RB all)) (PP (IN over) (NP (DT the) (NN place)))))
+-20.299067585120 -61.987063027400
+(S1 (FRAG (PP (RB just) (PP (DT all) (IN over) (NP (DT the) (NN place))))))
+-20.396072469851 -61.437441398681
+(S1 (FRAG (ADVP (RB just)) (ADVP (RB all) (PP (IN over) (NP (DT the) (NN place))))))
+-20.398821325593 -60.962850441634
+(S1 (FRAG (RB just) (ADJP (RB all) (PP (IN over) (NP (DT the) (NN place))))))
+-20.560514096555 -62.055631882326
+(S1 (FRAG (PP (ADVP (RB just)) (RB all) (PP (IN over) (NP (DT the) (NN place))))))
+-20.606277315149 -62.178125662432
+(S1 (FRAG (RB just) (PP (RB all) (PP (IN over) (NP (DT the) (NN place))))))
+-20.782475130237 -61.407012315262
+(S1 (FRAG (PP (RB just) (PP (RB all) (IN over) (NP (DT the) (NN place))))))
+-20.954216612953 -62.013478806343
+(S1 (ADJP (RB just) (PP (ADVP (DT all)) (IN over) (NP (DT the) (NN place)))))
+-20.986275507276 -60.763476577592
+(S1 (FRAG (ADVP (RB just)) (PP (ADVP (DT all)) (IN over) (NP (DT the) (NN place)))))
+-21.109329813524 -62.183923062075
+(S1 (FRAG (ADJP (ADJP (RB just) (DT all)) (PP (IN over) (NP (DT the) (NN place))))))
+

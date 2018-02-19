@@ -1,0 +1,102 @@
+50 x
+-11.557543352756 -49.844475218013
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (NP (NNP Monday)))))))
+-13.590798710591 -52.247927282149
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (S (NP (NNP Monday))))))))
+-13.706111254411 -58.589179681113
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VBP have) (VP (VBN gone) (NP (NNP Monday)))))))
+-14.085889467824 -52.821357718397
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (NP (NNP Monday))))))
+-15.916460500524 -61.449644780659
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VBP have) (VP (VBN gone) (S (NP (NNP Monday))))))))
+-16.081609899493 -59.959757499446
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (S (VP (VBN gone) (NP (NNP Monday))))))))
+-16.344106316725 -55.681822825371
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (S (NP (NNP Monday)))))))
+-16.789108956928 -56.724753125124
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (S (ADJP (NNP Monday))))))))
+-17.082580714543 -61.265884242797
+(S1 (S (NP (PRP I)) (MD could) (VP (VB have) (VP (VBN gone) (NP (NNP Monday))))))
+-17.434753501958 -62.029129603150
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (ADVP (NNP Monday)))))))
+-17.576801862000 -69.330406875043
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VBP have) (S (VP (VBN gone) (NP (NNP Monday))))))))
+-17.659032621469 -66.783807972379
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (PP (VBN gone) (NP (NNP Monday)))))))
+-17.730954495903 -63.863294923884
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (ADJP (VBN gone)) (NP (NNP Monday))))))
+-17.732604664236 -68.472121509650
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (S (VP (NP (NNP Monday)))))))))
+-17.943329755863 -60.719916815825
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (ADJP (NNP Monday)))))))
+-17.979707970170 -66.122841632306
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (S (VP (NNP Monday))))))))
+-17.993758844354 -63.441735496985
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (S (VP (VBN gone) (S (NP (NNP Monday)))))))))
+-18.176093768866 -65.694070377408
+(S1 (S (NP (NN I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (NP (NNP Monday)))))))
+-18.339414747414 -67.223485413324
+(S1 (S (NP (PRP I)) (VP (MD could) (S (VP (VB have) (VP (VBN gone) (NP (NNP Monday))))))))
+-18.541620867310 -70.135621037606
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (VP (NP (NNP Monday))))))))
+-18.569799065969 -65.908401502961
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (SBAR (S (VP (VBN gone) (NP (NNP Monday)))))))))
+-18.623926269155 -69.244891112566
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (SBAR (NNP Monday)))))))
+-18.667787947426 -67.499372462523
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (VP (NNP Monday)))))))
+-18.793380079031 -71.505128641877
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (NP (VBN gone) (NNP Monday))))))
+-18.966102205169 -71.383902223546
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (PRT (VBN gone)) (NP (NNP Monday))))))
+-19.163703641712 -63.669336185275
+(S1 (S (NP (PRP I)) (MD could) (VP (VB have) (VP (VBN gone) (S (NP (NNP Monday)))))))
+-19.230483024073 -65.926470623634
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VBP have) (VP (VBN gone) (S (ADJP (NNP Monday))))))))
+-19.273678318279 -71.787717381339
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VP (VB have)) (VP (VBN gone) (NP (NNP Monday)))))))
+-19.438339093974 -68.662962022650
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (S (ADJP (VBN gone)) (NP (NNP Monday)))))))
+-19.452951312333 -66.192433473550
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (S (VP (VBN gone) (NP (NNP Monday)))))))
+-19.658128840274 -60.158648668346
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (S (ADJP (NNP Monday)))))))
+-19.777864885168 -70.426408382591
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (NP (ADJP (VBN gone)) (NNP Monday))))))
+-19.932623760323 -70.832271477512
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (ADJP (VBN gone) (NP (NNP Monday)))))))
+-20.209349126701 -68.097522441544
+(S1 (S (NP (NN I)) (VP (MD could) (VP (VB have) (VP (VBN gone) (S (NP (NNP Monday))))))))
+-20.310500174279 -69.833695842392
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VBP have) (VP (VBN gone) (ADJP (NNP Monday)))))))
+-20.368454667582 -71.906017052872
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (S (VP (NP (NNP Monday))))))))
+-20.372670074583 -69.626937355801
+(S1 (S (NP (PRP I)) (VP (MD could) (S (VP (VB have) (VP (VBN gone) (S (NP (NNP Monday)))))))))
+-20.485734354730 -67.485758782950
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (SBAR (S (VP (VBN gone) (NP (NNP Monday))))))))
+-20.567452699115 -68.414506543824
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (ADJP (VBN gone) (S (NP (NNP Monday))))))))
+-20.757679404059 -64.065873575925
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (ADJP (NNP Monday))))))
+-20.768586876303 -69.556737175528
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (S (VP (NNP Monday)))))))
+-20.774677500177 -66.550257837847
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (ADVP (NNP Monday))))))
+-20.775509325255 -69.390379478312
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (SBAR (S (VP (VBN gone) (S (NP (NNP Monday))))))))))
+-20.861519460451 -67.492792256183
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (ADJP (VBN gone)) (NP (NNP Monday)))))
+-21.281409929290 -68.239033263299
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB have) (S (VP (VBN gone) (S (ADJP (NNP Monday)))))))))
+-21.312416345893 -69.277954060348
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (VP (VBN gone) (VP (NNP Monday))))))
+-21.414788507195 -69.674411471089
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (S (VP (VBN gone) (S (NP (NNP Monday))))))))
+-22.362013885261 -68.146162028250
+(S1 (S (NP (PRP I)) (MD could) (VP (VB have) (VP (VBN gone) (S (ADJP (NNP Monday)))))))
+-22.741132864016 -70.967736758300
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (SBAR (S (VP (VBN gone) (S (NP (NNP Monday)))))))))
+-22.773159199782 -70.902956281509
+(S1 (S (NP (PRP I)) (MD could) (VP (VBP have) (ADJP (VBN gone) (S (NP (NNP Monday)))))))
+

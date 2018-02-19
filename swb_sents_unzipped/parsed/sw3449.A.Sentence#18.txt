@@ -1,0 +1,102 @@
+50 x
+-17.294764444884 -58.420395995394
+(S1 (NP (CC Or) (NP (DT a) (NN population)) (CC or) (NP (NN anything))))
+-17.489170868660 -57.470322309292
+(S1 (FRAG (CC Or) (NP (DT a) (NN population) (CC or) (NN anything))))
+-17.782779764455 -58.636481204516
+(S1 (NP (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-18.147793310354 -58.613803145599
+(S1 (FRAG (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-18.647360285854 -62.620849261990
+(S1 (NP (CC Or) (DT a) (NN population) (CC or) (NN anything)))
+-19.204502092938 -66.578275892914
+(S1 (NP (CC Or) (NP (DT a) (NN population) (CC or) (NN anything))))
+-19.355688574581 -65.369419184529
+(S1 (S (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-19.463938883904 -63.280199261476
+(S1 (S (NP (CC Or) (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-19.603804148354 -62.244162204398
+(S1 (SQ (CC Or) (FRAG (NP (DT a) (NN population) (CC or) (NN anything)))))
+-19.623290311237 -60.156359015012
+(S1 (X (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-19.731713401736 -67.320421512604
+(S1 (S (CC Or) (NP (DT a) (NN population) (CC or) (NN anything))))
+-19.849986128990 -62.359949234746
+(S1 (X (CC Or) (NP (DT a) (NN population) (CC or) (NN anything))))
+-19.992962403501 -65.306441850221
+(S1 (SQ (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-19.996578773097 -67.070090830279
+(S1 (SQ (CC Or) (NP (DT a) (NN population) (CC or) (NN anything))))
+-20.066442424075 -64.569241380358
+(S1 (FRAG (NP (CC Or) (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-20.123650615453 -62.236444505135
+(S1 (FRAG (CC Or) (FRAG (NP (DT a) (NN population) (CC or) (NN anything)))))
+-20.554366851437 -65.127159019500
+(S1 (NP (CC Or) (NP (DT a) (NP (NN population)) (CC or) (NP (NN anything)))))
+-20.771981007172 -66.132403794602
+(S1 (SQ (CC Or) (FRAG (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.004212072949 -65.758867197338
+(S1 (FRAG (CC Or) (NP (DT a) (NP (NN population)) (CC or) (NP (NN anything)))))
+-21.104722591317 -64.375226028137
+(S1 (FRAG (PP (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.105179763090 -66.893505248176
+(S1 (FRAG (NP (CC Or) (DT a) (NN population) (CC or) (NN anything))))
+-21.185669939952 -69.044399216635
+(S1 (FRAG (CC Or) (NP (DT a) (NN population) (CC or) (NP (NN anything)))))
+-21.217878824504 -66.632823830065
+(S1 (PP (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-21.408134145716 -66.748202685054
+(S1 (X (CC Or) (S (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.527964996143 -66.705823473949
+(S1 (FRAG (NP (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.545773828587 -65.455715494944
+(S1 (X (PP (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.549981397460 -67.050702487812
+(S1 (FRAG (CC Or) (FRAG (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.628562993715 -73.053841023123
+(S1 (S (CC Or) (S (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.653343746819 -67.077214887314
+(S1 (FRAG (CC Or) (S (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-21.669633301477 -69.202959971693
+(S1 (S (NP (CC Or) (DT a) (NN population) (CC or) (NN anything))))
+-21.779245694604 -68.345826856009
+(S1 (X (NP (CC Or) (NP (DT a) (NN population)) (CC or) (NP (NN anything)))))
+-21.911155793313 -64.278633654433
+(S1 (X (CC Or) (NP (DT a) (NP (NN population)) (CC or) (NP (NN anything)))))
+-22.024706002346 -69.283189067693
+(S1 (X (CC Or) (S (NP (DT a) (NN population) (CC or) (NN anything)))))
+-22.099679525616 -69.997290654266
+(S1 (FRAG (PP (CC Or) (NP (DT a) (NN population) (CC or) (NN anything)))))
+-22.212835761590 -72.254888456194
+(S1 (PP (CC Or) (NP (DT a) (NN population) (CC or) (NN anything))))
+-22.273886843237 -69.612201284591
+(S1 (FRAG (CC Or) (S (NP (DT a) (NN population) (CC or) (NN anything)))))
+-22.365927374035 -70.317378345787
+(S1 (S (NP (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-22.540730765674 -71.077780121074
+(S1 (X (PP (CC Or) (NP (DT a) (NN population) (CC or) (NN anything)))))
+-22.893313416843 -68.333813559583
+(S1 (NP (NP (CC Or) (DT a) (NN population)) (CC or) (NP (NN anything))))
+-22.922035180559 -71.786906343418
+(S1 (NP (CC Or) (NP (DT a) (NP (NP (NN population)) (CC or) (NP (NN anything))))))
+-23.149851229126 -71.427357800043
+(S1 (FRAG (CC Or) (ADVP (DT a) (NN population) (CC or) (NN anything))))
+-23.153148149807 -72.283595082031
+(S1 (X (CC Or) (NP (DT a) (NN population) (CC or) (NP (NN anything)))))
+-23.197134247825 -72.880722826068
+(S1 (SQ (CC Or) (NP (DT a) (NP (NN population)) (CC or) (NP (NN anything)))))
+-23.335106144791 -72.064665202460
+(S1 (X (NP (CC Or) (DT a) (NN population) (CC or) (NN anything))))
+-23.460241197267 -72.476929024828
+(S1 (X (NP (CC Or) (NP (NP (DT a) (NN population)) (CC or) (NP (NN anything))))))
+-23.766626103385 -70.747092146512
+(S1 (FRAG (PP (CC Or) (NP (DT a) (NP (NN population)) (CC or) (NP (NN anything))))))
+-23.769948004882 -69.464382574342
+(S1 (NP (NP (CC Or) (NP (DT a) (NN population))) (CC or) (NP (NN anything))))
+-23.879782336571 -73.004689948440
+(S1 (PP (CC Or) (NP (DT a) (NP (NN population)) (CC or) (NP (NN anything)))))
+-24.207677340654 -71.827581613319
+(S1 (X (PP (CC Or) (NP (DT a) (NP (NN population)) (CC or) (NP (NN anything))))))
+-24.886709907742 -72.896261799204
+(S1 (FRAG (NP (NP (CC Or) (DT a) (NN population)) (CC or) (NP (NN anything)))))
+

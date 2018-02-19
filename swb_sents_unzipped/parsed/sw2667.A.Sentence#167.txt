@@ -1,0 +1,102 @@
+50 x
+-20.897182468228 -73.202682856851
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-21.442070525627 -73.543248785178
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-22.096431763473 -73.925208131580
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-23.443296626576 -77.125896165316
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))
+-23.475232346151 -73.259411665958
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-23.492861344928 -78.355986304489
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-23.534253111763 -73.599977594285
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-23.559996218707 -79.013886888180
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))
+-23.785517160312 -75.304847414658
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-23.950242946298 -75.158804673910
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (PP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-24.238698794617 -77.673099740975
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB about) (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))
+-24.314953376410 -75.371068455872
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (PP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-24.458044746393 -78.982944151392
+(S1 (X (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-24.469282111165 -79.736412150545
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-24.506595243159 -74.988581362111
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (NP (IN about) (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))
+-24.556878644760 -74.648015433784
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (NP (IN about) (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))
+-24.674481641396 -73.981936940687
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-24.866882665017 -78.013665669302
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (NP (RB about) (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))
+-25.107743439712 -77.182624974423
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))
+-25.262910162846 -75.881330022587
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))))
+-25.302586411097 -80.854520149345
+(S1 (X (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-25.315818390877 -81.938633684627
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-25.437948092651 -78.395625015704
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB about) (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-25.558368205630 -79.070615697287
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))
+-25.576509689573 -80.703616725751
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-25.585043933851 -78.412715113596
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-25.599617394447 -81.642463684634
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (QP (RB about) (CD eight) (NNS dollars)) (DT a) (NN month)))))
+-25.756127942793 -75.370540708513
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (IN about) (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-26.363567038235 -75.361576223765
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-26.413501386862 -80.515840080606
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (IN about) (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))
+-26.460574646673 -81.116051207360
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (QP (RB about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-26.467654098088 -79.793140959652
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-26.557386065248 -79.801318881422
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (NP (IN about) (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-26.573584749223 -80.411972788622
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (PP (IN about) (NP (CD eight) (NNS dollars))) (NP (DT a) (NN month)))))
+-26.574644986833 -81.348089083647
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (PP (IN about) (NP (CD eight) (NNS dollars))) (NP (DT a) (NN month)))))
+-26.608148828498 -80.183805975183
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (PP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))))
+-26.930661592292 -77.260969134473
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))))
+-27.030947293089 -81.604347018549
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (PRT (RP about)) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))
+-27.036094624316 -79.039672960499
+(S1 (X (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-27.127033489490 -79.775264298782
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB about) (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-27.394769000020 -80.911248958453
+(S1 (X (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-27.445213339632 -76.750179991591
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (IN about) (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-27.478379684431 -81.911417007169
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (ADVP (IN about)) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))
+-27.581171496142 -78.820637641619
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (VP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-27.603189186736 -80.939065904910
+(S1 (X (CC and) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))))
+-27.668692275708 -80.760345534859
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month)))))))
+-28.117740925713 -80.428276728325
+(S1 (X (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (IN about) (CD eight) (NNS dollars)) (NP (DT a) (NN month)))))))
+-28.458946633596 -81.172780016468
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (QP (IN about) (CD eight)) (NNS dollars)) (NP (DT a) (NN month))))))
+-28.855834263994 -79.543162738960
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (VP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))))
+-30.484933343711 -80.922802116151
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (VP (IN about) (NP (NP (CD eight) (NNS dollars)) (NP (DT a) (NN month))))))))
+

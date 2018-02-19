@@ -1,0 +1,102 @@
+50 x
+-57.566376417845 -192.498774470010
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-57.886439780084 -198.405095545912
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS JOURNALs)) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))))))))))))
+-58.530199669801 -196.862665205455
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-58.660437377092 -200.015112292369
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (PRT (RP in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-58.871344602856 -198.488708330108
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS JOURNALs)) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))))))))))))))
+-58.893030387040 -199.643324322388
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (ADVP (RB in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-58.957108948788 -197.136427715804
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (RB in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-58.973210233136 -198.532357765105
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-58.983526052399 -199.207509132591
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (PP (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-59.080262263918 -202.768986297963
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS JOURNALs)) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))))))))))))
+-59.140545782854 -197.629899823917
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (NN one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-59.553759746212 -198.180990365840
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really) (RB well)))))))))))
+-59.583710323095 -202.849533068083
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBP read) (ADVP (NP (CD three) (NNS articles)) (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-59.620898965478 -197.750128191498
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (ADVP (RB in)) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-59.629259979038 -199.180257749579
+(S1 (S (IN if) (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS JOURNALs)) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))))))))))))
+-59.629737548760 -201.756168118042
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (ADVP (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-59.745371475962 -199.240606059009
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (NP (CD three) (NNS articles)) (PP (IN in))) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-59.881174444174 -202.343643561606
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBP read) (NP (NP (CD three) (NNS articles)) (SBAR (IN in) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-59.893784495704 -199.873395491775
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))
+-59.905957333081 -199.768394721968
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (RB in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.065167086689 -202.852599082160
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS JOURNALs)) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))))))))))))))
+-60.104369062687 -201.993790559362
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (NN one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.117840030078 -200.817755753920
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))))))))))
+-60.122559006482 -200.263231842747
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.126131552016 -201.077359745866
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (ADVP (RP in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.130619433151 -202.463060928406
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBP read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.408378914358 -201.675939608484
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))
+-60.430816128739 -200.685714844741
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VB know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.517582998167 -202.544881101285
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (IN in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really) (RB well)))))))))))
+-60.529602211110 -202.574399980818
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (PRP one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.531278341675 -202.267553069712
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (RB in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (NN one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.612095423183 -202.414514573078
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBP read) (NP (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.881614825367 -200.737292468515
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NN one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.929182515341 -202.170170867339
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (NP (CD three) (NNS articles)) (ADVP (RB in))) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-60.944492277154 -202.818643611635
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (RB in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really) (RB well)))))))))))
+-61.031421553839 -202.270487192994
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (S (NP (PRP you)) (VP (VB know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))
+-61.037922881044 -201.363336465540
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))))))))))
+-61.071910979103 -202.185294565319
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))))))))))
+-61.102744824972 -200.901368538117
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))))))))))))
+-61.186143986875 -202.497435027908
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles) (RB in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-61.195068330486 -202.881253545405
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (ADVP (RB in)) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (NN one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-61.236531372992 -201.881285637169
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (NN figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-61.525261406049 -199.959186697859
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (SBAR (ADVP (NP (CD three) (NNS articles)) (IN in)) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-61.752946259052 -202.723679889433
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (PP (RP in)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-61.860660229032 -201.592917957587
+(S1 (S (IN if) (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs))) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well))))))))))))))))))
+-62.022827675937 -201.446949249736
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))))))))))
+-62.056815773997 -202.268907349515
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))))))))))
+-62.111609640524 -202.140556546099
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (SBAR (ADVP (NP (CD three) (NNS articles)) (RB in)) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+-62.780743079997 -202.138498669206
+(S1 (S (IN if) (NP (PRP I)) (VP (VBD read) (NP (CD three) (NNS articles)) (SBAR (IN in) (IN in) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))) (SBAR (S (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))))))))
+-62.814510547038 -202.834686272666
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD read) (ADVP (NP (CD three) (NNS articles)) (IN in)) (SBAR (WHNP (IN in)) (S (NP (PRP you)) (VP (VBP know) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS JOURNALs)))))))))) (NP (PRP I)) (VP (VBP figure) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBD did) (ADVP (RB really)) (ADVP (RB well)))))))))))
+

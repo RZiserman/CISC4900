@@ -1,0 +1,102 @@
+50 x
+-17.695040121997 -65.531980921799
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (PP (IN in)))))
+-18.265395513483 -64.256465371462
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (RB in)))))
+-18.334066240084 -66.958643423909
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (PP (IN in))))))
+-18.468450763699 -70.065792631574
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (PRT (RP in)))))
+-18.693118622598 -67.474311323312
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (ADVP (RB in)))))
+-18.841221299815 -72.841969748054
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (PRT (RP back)) (ADVP (RB in)))))
+-18.847001026917 -74.034432725149
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (PRT (RP back)) (PP (IN in)))))
+-19.216700141812 -74.859936005578
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (PRT (RP back)) (PRT (RP in)))))
+-19.753444501551 -67.931788823650
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (IN in)))))
+-19.905118948267 -69.186185939781
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (ADVP (IN in)))))
+-19.934762178068 -70.390327787196
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (PP (IN in)))))
+-19.994812602754 -72.396049264210
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RP back)) (PP (IN in)))))
+-20.033160339715 -69.028350520040
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (RP in)))))
+-20.202712618628 -71.678640193631
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (S (NP (PRP it)) (ADVP (RB back) (PP (IN in)))))))
+-20.505117642038 -69.114812495940
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (RB in)))))
+-20.573788368638 -71.816990548387
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (PP (IN in))))))
+-20.687234656894 -68.976074374980
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (ADVP (RP in)))))
+-20.708172850436 -74.924139614397
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (PRT (RP in)))))
+-20.709768214827 -69.291870326763
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (PP (RP in)))))
+-20.770454241896 -74.784475993943
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (PRT (RP back)) (ADVP (IN in)))))
+-20.866878671584 -75.423225319602
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (PRT (RP in))))))
+-20.919709704836 -71.016790880753
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (NN back) (IN in)))))
+-20.932840723275 -72.332658346265
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (ADVP (RB in)))))
+-21.062311773805 -71.487651015841
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (PP (RP in))))))
+-21.100506042912 -71.720359038257
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (RBR in)))))
+-21.229523400952 -75.571959985894
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (PRT (RB back)) (ADVP (RB in)))))
+-21.255869172767 -72.960351462064
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (ADVP (RB back)) (IN in)))))
+-21.290518707680 -75.645770856356
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (S (NP (PRP it)) (VP (VB back) (PRT (RP in)))))))
+-21.340250153113 -72.404193106148
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (S (NP (PRP it)) (ADVP (NN back) (IN in))))))
+-21.476027840059 -75.104805754818
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (PRT (RP back)) (ADVP (RP in)))))
+-21.497901820603 -75.061561746700
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RP back) (RB in)))))
+-21.518301204416 -75.790874677150
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBN sent) (S (NP (PRP it)) (ADVP (RB back) (PP (IN in)))))))
+-21.528445379123 -74.338379665723
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RP back)) (ADVP (RB in)))))
+-21.574094048635 -73.039588259020
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (ADVP (RB back)) (PP (IN in))))))
+-21.627804056241 -74.784226415967
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (S (NP (PRP it)) (ADJP (RB back) (PP (IN in)))))))
+-21.737792737665 -74.720023960643
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (ADVP (RB in))))))
+-21.801461373736 -74.662965903820
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (PP (RB back) (PP (IN in))))))
+-21.867140098676 -75.583993143057
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (S (NP (PRP it)) (VP (VB back) (ADVP (RB in)))))))
+-21.924035826097 -74.191546438863
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (S (NP (PRP it)) (ADVP (RB back) (RB in))))))
+-21.993166630105 -72.790135948128
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (IN in)))))
+-22.001837338026 -74.896288838327
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD sent) (NP (PRP it)) (ADVP (RB back) (RB in)))))
+-22.030299910776 -74.839265125546
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (PP (IN in)))))
+-22.144841046156 -74.044532962733
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (ADVP (IN in)))))
+-22.272882465482 -73.886697644519
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (RP in)))))
+-22.600655371958 -73.563749834290
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back) (RB in)))))
+-22.926956757571 -73.834421397932
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (ADVP (RP in)))))
+-22.929094172874 -75.461824095119
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back))) (PP (RP in))))
+-22.949490268111 -74.150217192160
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD sent) (NP (PRP it)) (ADVP (RB back)) (PP (RP in)))))
+-22.953740870526 -71.672559518281
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it))) (PP (RB back) (PP (IN in)))))
+-23.780018900439 -75.840142717391
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD sent) (NP (PRP it)) (ADVP (RP back)) (ADVP (RP in)))))
+

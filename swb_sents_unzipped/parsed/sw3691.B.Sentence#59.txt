@@ -1,0 +1,102 @@
+50 x
+-16.686697684204 -59.410064365759
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (NP (NNS kisses)))))
+-18.034077259192 -69.043961345550
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (ADVP (RB kisses)))))
+-18.270865939224 -64.846741339952
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (NP (NN kisses)))))
+-18.798104063904 -67.130730304704
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (NP (FW kisses)))))
+-18.813539402964 -66.102586268348
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (NP (VBZ kisses)))))
+-19.068309869331 -69.431404068068
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (SBAR (S (NP (PRP me)) (VP (VBZ kisses)))))))
+-19.837137523748 -67.637441322304
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me))) (VP (VBZ kisses))))
+-19.866498149322 -68.804421031451
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (NP (NNS kisses))))))
+-20.096047269958 -71.478178738742
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (NNS kisses)))))
+-20.403561558603 -67.964771659023
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (VBZ kisses)))))
+-20.449103580467 -72.543012231955
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (S (NP (PRP me)) (NP (NNS kisses))))))
+-20.493802330780 -71.929604930898
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (PRP me)) (ADVP (RB kisses))))))
+-20.547165399063 -70.321090534147
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (NP (JJ kisses)))))
+-20.772202884936 -71.215382691400
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (PRP me)) (NP (NNS kisses))))))
+-20.943022410865 -77.136456535548
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (SBAR (S (NP (PRP me)) (VP (NNS kisses)))))))
+-20.997973904085 -73.847318027750
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (FW me) (FW kisses)))))
+-21.082802975483 -75.381457586750
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (S (NP (PRP me)) (VP (VBZ kisses))))))
+-21.144798865058 -65.143870552493
+(S1 (S (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)))) (VP (VBZ kisses))))
+-21.319535139479 -73.703420409252
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (NN kisses)))))
+-21.578975922667 -73.858644993464
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (NP (NN kisses))))))
+-21.739864828397 -76.043641275742
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (PRP me)) (NNS kisses)))))
+-21.756803132022 -71.112939535802
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (JJ kisses)))))
+-21.785316271247 -77.097094306754
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (FW me) (NNS kisses)))))
+-21.919422152569 -74.357929096361
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (ADVP (NNS kisses)))))
+-21.938450546746 -73.359031327621
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (FW me)) (NP (NNS kisses)))))
+-22.000536872872 -75.287799450098
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (ADVP (FW kisses)))))
+-22.028824983423 -73.743225373426
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (ADVP (JJ kisses)))))
+-22.205807825166 -76.960667345457
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (S (NP (PRP me)) (NP (NN kisses))))))
+-22.216355041282 -70.798005826557
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (S (NP (NNS kisses))))))
+-22.220328611013 -75.082312524222
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (S (VP (NNS kisses))))))
+-22.350739352568 -73.029188560100
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (SBAR (S (VP (VBZ kisses)))))))
+-22.353724190571 -75.676068822704
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (ADJP (NP (PRP me)) (JJ kisses)))))
+-22.367351917766 -77.371152686491
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (PRP me)) (NP (FW kisses))))))
+-22.388482603174 -77.379290928542
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (NP (FW kisses))))))
+-22.390467548925 -75.744527174934
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (S (VP (VBZ kisses))))))
+-22.485270477694 -74.476184685313
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (ADJP (FW me) (FW kisses)))))
+-22.662018980259 -74.197744256776
+(S1 (S (NP (PRP He)) (VP (VP (VBZ gives) (NP (PRP me))) (NP (NNS kisses)))))
+-22.716746648406 -77.015558393932
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (PRP me)) (VBZ kisses)))))
+-22.720497118397 -75.713934806336
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (SBAR (S (NP (FW me)) (VP (VBZ kisses)))))))
+-22.741635351868 -76.607182087983
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me) (NP (VBZ kisses))))))
+-22.976913927991 -76.995011314601
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me))) (VP (NNS kisses))))
+-23.058065931197 -76.493762821574
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (PRP me)) (ADVP (NNS kisses))))))
+-23.099314247524 -76.713171069254
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (ADVP (FW me) (FW kisses)))))
+-23.136654239110 -69.625216294250
+(S1 (S (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)))) (VP (NNS kisses))))
+-23.227286133392 -77.432628184887
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (S (NP (PRP me) (NNS kisses))))))
+-23.462375961137 -77.380871962159
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me))) (NP (NN kisses))))
+-23.539025642186 -77.408129247051
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (SBAR (S (VP (NNS kisses)))))))
+-23.832664256058 -74.549007155639
+(S1 (S (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)))) (VP (VBD kisses))))
+-24.143310395494 -76.121633831053
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (PRP me)) (ADVP (JJ kisses))))))
+-24.561366305674 -77.277507715653
+(S1 (S (NP (PRP He)) (VP (VBZ gives) (NP (PRP me)) (SBAR (S (NP (NNS kisses)))))))
+

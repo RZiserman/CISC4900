@@ -1,0 +1,102 @@
+50 x
+-12.586816310555 -52.523377576379
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))
+-13.589990701512 -52.796198086542
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (JJ military) (PP (IN at) (NP (DT the) (NN time)))))))
+-14.032534690723 -55.127423465849
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN military)) (PP (IN at) (NP (DT the) (NN time))))))
+-14.443918960620 -54.498363438439
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))
+-14.501181824839 -56.618011085869
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-14.577977492066 -58.250265447819
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (NN military) (PP (IN at) (NP (DT the) (NN time)))))))
+-14.821242577423 -54.207969172719
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))
+-15.030531450186 -55.535129067298
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ military) (PP (IN at) (NP (DT the) (NN time)))))))
+-15.165948833557 -57.546810832843
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-15.801877617685 -54.861267397673
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (JJ military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-16.210656306201 -58.953570994064
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (NN military)) (PP (IN at) (NP (DT the) (NN time))))))
+-16.289217674070 -56.537288868270
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (ADVP (JJ military)) (IN at) (NP (DT the) (NN time))))))
+-16.367513530813 -58.674966231779
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN military)) (PP (IN at) (NP (DT the) (NN time))))))
+-16.579339495625 -61.832659746943
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (NP (NN military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-16.726365329186 -61.168746756735
+(S1 (S (NP (PRP I)) (VP (VBD was) (PRT (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))
+-16.946200310417 -60.963222406797
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (NN military) (PP (IN at) (NP (DT the) (NN time))))))))
+-17.029148166758 -59.519013446048
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (JJ military) (PP (IN at) (NP (DT the) (NN time)))))))
+-17.201206433768 -59.755200008530
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (NN military) (PP (IN at) (NP (DT the) (NN time)))))))
+-17.203290792397 -61.413258785736
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (JJ military) (PP (IN at) (NP (DT the) (NN time)))))))
+-17.263351698670 -59.473885431294
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (JJ military) (IN at) (NP (DT the) (NN time))))))
+-17.314841604617 -62.369199965510
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (JJ military) (PP (IN at) (NP (DT the) (NN time))))))))
+-17.366531442377 -61.065759381524
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-17.448775777119 -64.410297018653
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (ADVP (JJ military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-17.702024063752 -63.675594291795
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (ADJP (JJ military) (PP (IN at) (NP (DT the) (NN time))))))))
+-17.801665368006 -60.571323322985
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-18.046688096596 -60.749038483453
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (JJ military) (PP (IN at) (NP (DT the) (NN time))))))))
+-18.061373860782 -63.576294019212
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (NN military) (PP (IN at) (NP (DT the) (NN time)))))))
+-18.074489577880 -60.913757329685
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (ADVP (NN military)) (IN at) (NP (DT the) (NN time))))))
+-18.079225637523 -66.591436411801
+(S1 (S (NP (NN I)) (VP (VBD was) (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))
+-18.240856593409 -64.503803578076
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (NP (JJ military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-18.335812717544 -63.901952200242
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (VP (NN military) (PP (IN at) (NP (DT the) (NN time)))))))))
+-18.448395783546 -66.241426402874
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN military) (PP (IN at) (NP (DT the) (NN time)))))))
+-18.557893042192 -66.555155602367
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (ADJP (NN military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-18.827430653876 -67.534935215763
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))))
+-18.837935830986 -64.537035541831
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (ADJP (JJ military))) (PP (IN at) (NP (DT the) (NN time))))))
+-18.973443043827 -63.375763268700
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (NP (NN military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-19.166959535481 -66.864256921963
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (JJ military) (PP (IN at) (NP (DT the) (NN time)))))))
+-19.399023689042 -67.453984882908
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (ADJP (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))))
+-19.690381309209 -68.506738057115
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (NP (NN military)) (PP (IN at) (NP (DT the) (NN time))))))))
+-19.730004565681 -64.315240134124
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (NP (NN military)) (IN at) (NP (DT the) (NN time))))))
+-19.791356202463 -66.581647266182
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (NP (JJ military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-19.964730093942 -66.248323695595
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (ADJP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))))
+-20.043924177588 -68.566422273861
+(S1 (S (NP (NN I)) (VP (VBD was) (ADVP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))
+-20.098983187180 -68.276028008140
+(S1 (S (NP (NN I)) (VP (VBD was) (NP (JJ military)) (PP (IN at) (NP (DT the) (NN time))))))
+-20.174369192917 -65.388056890460
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (NP (NP (NN military)) (PP (IN at) (NP (DT the) (NN time))))))))
+-20.184133321337 -64.071077842958
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (NP (JJ military)) (IN at) (NP (DT the) (NN time))))))
+-20.467442905574 -65.463405410434
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (NP (NN military)) (PP (IN at) (NP (DT the) (NN time))))))))
+-20.474463000320 -68.717833707158
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (NN military)) (PP (IN at) (NP (DT the) (NN time)))))))
+-20.571116849891 -68.408687871518
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (NN military) (PP (IN at) (NP (DT the) (NN time))))))))
+-20.876558204768 -68.350290100848
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (NN military)) (PP (IN at) (NP (DT the) (NN time)))))))
+

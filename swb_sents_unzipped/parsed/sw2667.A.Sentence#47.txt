@@ -1,0 +1,102 @@
+50 x
+-15.050814665634 -56.334842556624
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine)) (NP (DT this) (NN week)))))
+-15.447164917683 -61.221727858482
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (VP (VB fine) (NP (DT this) (NN week))))))
+-15.674895442465 -53.551063006372
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week))))))
+-15.881302238872 -58.095856782574
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (VP (JJ fine) (NP (DT this) (NN week))))))
+-16.240502842577 -64.711627205556
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (VP (NN fine) (NP (DT this) (NN week))))))
+-16.602202636906 -63.594699343502
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (S (VP (VB fine) (NP (DT this) (NN week)))))))
+-16.832029208157 -64.945056713653
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (S (VP (NN fine) (NP (DT this) (NN week)))))))
+-17.227802820762 -64.044090937573
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (NN fine)) (NP (DT this) (NN week)))))
+-17.299282978955 -59.995782511485
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine)) (NP (DT this) (NN week))))))
+-17.817419116489 -64.882667736968
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (VB fine) (NP (DT this) (NN week)))))))
+-17.887008059725 -57.212003007208
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week)))))))
+-18.142704068232 -62.814314474391
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (ADVP (JJ fine)) (NP (DT this) (NN week)))))
+-18.151753487678 -61.756796661060
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (JJ fine) (NP (DT this) (NN week)))))))
+-18.238613221682 -66.205277406029
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (ADVP (NN fine)) (NP (DT this) (NN week)))))
+-18.250089673853 -67.656393649916
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (SBAR (S (VP (VB fine) (NP (DT this) (NN week))))))))
+-18.389192758595 -68.372567084042
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (NN fine) (NP (DT this) (NN week)))))))
+-18.550075984798 -63.227530553562
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (PP (JJ fine) (NP (DT this) (NN week))))))
+-18.826564336752 -67.950614286583
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (S (ADJP (JJ fine)) (NP (DT this) (NN week))))))
+-18.889904648105 -67.255639392843
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VB fine) (NP (DT this) (NN week))))))))
+-19.092134851256 -63.880059251871
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (JJ fine) (DT this) (NN week)))))
+-19.149613227204 -64.954056177172
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine)) (NP (DT this) (NN week)))))))
+-19.154210177548 -67.167865893930
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (PRT (JJ fine)) (NP (DT this) (NN week)))))
+-19.339298982339 -65.104288827544
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (JJ fine)) (NP (DT this) (NN week)))))
+-19.394018892223 -67.209325784158
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN fine)) (NP (DT this) (NN week))))))
+-19.461812518363 -66.715777586013
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (S (ADJP (JJ fine) (NP (DT this) (NN week)))))))
+-19.530096673112 -67.705031030018
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN fine)) (NP (DT this) (NN week))))))
+-19.664946515671 -62.170276604237
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week))))))))
+-19.683636495908 -61.868232585375
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (S (NP (DT this) (NN week)))))))
+-19.815217631642 -66.894789811345
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine)) (NP (DT this) (NN week))))))
+-19.921548445747 -62.371980063272
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine)) (NP (DT this) (NN week))))))
+-20.069749359852 -65.396005687851
+(S1 (X (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine)) (NP (DT this) (NN week))))))
+-20.119184517042 -63.291503158988
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (NP (JJ fine)) (NP (DT this) (NN week))))))
+-20.230821449442 -66.715070395665
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (JJ fine) (NP (DT this) (NN week))))))))
+-20.439298391746 -64.111010196769
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week)))))))
+-20.461978226946 -66.475254586732
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (JJ fine)) (NP (DT this) (NN week))))))
+-20.485023897705 -67.258865272936
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (VB fine) (NP (DT this) (NN week)))))))
+-20.533938205851 -59.588200448697
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week)))))))
+-20.682139128320 -62.612226114916
+(S1 (X (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week)))))))
+-20.905132341364 -67.513634102774
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (ADJP (JJ fine)) (DT this) (NN week)))))
+-20.911514713682 -64.132994197029
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (JJ fine) (NP (DT this) (NN week)))))))
+-20.971586716483 -66.888470525444
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (PP (JJ fine) (NP (DT this) (NN week)))))))
+-21.059715650090 -67.157019906344
+(S1 (X (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (JJ fine) (NP (DT this) (NN week)))))))
+-21.374825287642 -68.136862213406
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine)) (NP (DT this) (NN week)))))))
+-21.488924733915 -67.621486717714
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (ADVP (JJ fine)) (DT this) (NN week)))))
+-21.491633231789 -67.540999191182
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (NP (JJ fine) (DT this) (NN week))))))
+-21.950859348897 -65.353082640471
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week))))))))
+-22.016094328995 -67.527064054388
+(S1 (FRAG (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (NP (DT this) (NN week))))))))
+-22.195262913168 -65.529172586211
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (S (NP (DT this) (NN week))))))))
+-22.239048027575 -66.952443098299
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (JJ fine)) (NP (DT this) (NN week)))))))
+-24.542679259293 -67.905370027701
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ fine) (S (NP (DT this) (NN week))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-13.340350937126 -51.052385811931
+(S1 (S (CC or) (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache)))))
+-14.115469720357 -47.115151554635
+(S1 (FRAG (CC or) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache))))))
+-14.762700382678 -53.096425981290
+(S1 (FRAG (CC or) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache)))))))
+-14.962126165399 -54.606181002548
+(S1 (S (CC or) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache))))))
+-15.723799993275 -58.760015504477
+(S1 (S (CC or) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache)))))))
+-15.728588173566 -54.291906168212
+(S1 (S (NP (CC or) (NP (PRP I))) (VP (VBP have) (NP (DT a) (NN headache)))))
+-15.735717489641 -55.483419950361
+(S1 (S (CC or) (NP (PRP I)) (VP (VB have) (NP (DT a) (NN headache)))))
+-16.966405933985 -58.440906811244
+(S1 (S (CC or) (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN headache))))))
+-17.411217230140 -57.364391035697
+(S1 (S (NP (CC or) (PRP I)) (VP (VBP have) (NP (DT a) (NN headache)))))
+-18.427587645050 -63.526585790788
+(S1 (FRAG (S (CC or) (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache))))))
+-18.859795244355 -60.311974324424
+(S1 (FRAG (CC or) (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN headache))))))
+-19.007539579845 -62.498711023698
+(S1 (FRAG (CC or) (SBAR (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN headache)))))))
+-19.337136780426 -67.001916846690
+(S1 (FRAG (S (CC or) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache)))))))
+-19.633710816332 -67.386851979748
+(S1 (S (CC or) (SBAR (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN headache)))))))
+-19.879891560856 -62.005088565139
+(S1 (FRAG (S (NP (CC or) (NP (PRP I))) (VP (VBP have) (NP (DT a) (NN headache))))))
+-20.107589066941 -65.428518640754
+(S1 (FRAG (S (CC or) (NP (PRP I)) (VP (VB have) (NP (DT a) (NN headache))))))
+-20.239314329965 -68.938841877677
+(S1 (S (CC or) (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN headache))))))
+-20.430855158493 -71.219296730244
+(S1 (S (CC or) (NP (NN I)) (VP (VB have) (NP (DT a) (NN headache)))))
+-20.461116061652 -67.864715602295
+(S1 (S (CC or) (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN headache)))))
+-20.576190573229 -70.888531184153
+(S1 (S (CC or) (NP (NN I)) (VP (VBP have) (NP (DT a) (NN headache)))))
+-20.895242642218 -68.173320872546
+(S1 (S (NP (CC or) (NP (PRP I))) (VP (VB have) (NP (DT a) (NN headache)))))
+-21.010582585801 -65.001607778484
+(S1 (FRAG (CC or) (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN headache)))))))
+-21.192160622004 -69.982339802576
+(S1 (FRAG (S (CC or) (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN headache)))))))
+-21.230202564884 -63.927481344998
+(S1 (FRAG (CC or) (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN headache))))))
+-21.539901023771 -72.437930903101
+(S1 (S (CC or) (S (NP (NN I)) (VP (VB have) (NP (DT a) (NN headache))))))
+-21.543967586798 -69.513765027340
+(S1 (S (CC or) (NP (PRP I)) (VP (VB have) (S (NP (DT a) (NN headache))))))
+-21.546558170400 -76.082008187015
+(S1 (FRAG (S (CC or) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN headache))))))))
+-21.557606980351 -69.210749588449
+(S1 (S (NP (CC or) (PRP I)) (VP (VB have) (NP (DT a) (NN headache)))))
+-21.562520614642 -65.077573432624
+(S1 (FRAG (S (NP (CC or) (PRP I)) (VP (VBP have) (NP (DT a) (NN headache))))))
+-21.818443778441 -67.890742800638
+(S1 (FRAG (CC or) (S (NP (NN I)) (VP (VBP have) (NP (DT a) (NN headache))))))
+-21.946801991996 -72.492636940562
+(S1 (S (CC or) (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN headache)))))))
+-21.954223027205 -69.908755771653
+(S1 (FRAG (CC or) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN headache)))))))
+-22.065177278970 -70.982882168747
+(S1 (FRAG (CC or) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN headache))))))))
+-22.159681089925 -71.418510792911
+(S1 (S (CC or) (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN headache))))))
+-22.620776203617 -72.178362233957
+(S1 (S (NP (CC or) (NP (PRP I))) (VP (VBP have) (S (NP (DT a) (NN headache))))))
+-22.855170458093 -71.104235958575
+(S1 (S (NP (CC or) (NP (PRP I))) (VP (VBP have) (NP (NP (DT a)) (NN headache)))))
+-22.915322637801 -75.572345294840
+(S1 (S (CC or) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN headache)))))))
+-22.978885458992 -73.568059628839
+(S1 (FRAG (CC or) (S (NP (NN I)) (VP (VB have) (NP (DT a) (NN headache))))))
+-22.982534909352 -72.863442296380
+(S1 (S (NP (CC or) (NP (NN I))) (VP (VBP have) (NP (DT a) (NN headache)))))
+-23.016028452744 -72.365650664460
+(S1 (S (CC or) (NP (PRP I)) (VP (VB have) (NP (NP (DT a)) (NN headache)))))
+-23.026486971264 -72.471251786685
+(S1 (S (CC or) (S (NP (PRP I)) (VP (VB have) (S (NP (DT a) (NN headache)))))))
+-23.151544122972 -73.650468000930
+(S1 (FRAG (CC or) (SBAR (S (NP (NN I)) (VP (VBP have) (NP (DT a) (NN headache)))))))
+-23.531921971949 -74.906968919866
+(S1 (FRAG (CC or) (SBAR (S (NP (NN I)) (VP (VB have) (NP (DT a) (NN headache)))))))
+-23.669489244511 -72.722782706721
+(S1 (FRAG (CC or) (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (NN headache))))))))
+-24.041422845972 -72.366003794888
+(S1 (FRAG (S (NP (CC or) (NP (PRP I))) (VP (VB have) (NP (DT a) (NN headache))))))
+-24.310180620191 -75.250847101442
+(S1 (S (NP (CC or) (PRP I)) (VP (VBP have) (S (NP (DT a) (NN headache))))))
+-24.323506699876 -75.323137525343
+(S1 (S (CC or) (S (NP (PRP I)) (VP (VB have) (NP (NP (DT a)) (NN headache))))))
+-24.531982354667 -74.176720826060
+(S1 (S (NP (CC or) (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN headache)))))
+-24.703787184105 -73.403432510791
+(S1 (FRAG (S (NP (CC or) (PRP I)) (VP (VB have) (NP (DT a) (NN headache))))))
+-24.927936721635 -74.342319299865
+(S1 (FRAG (CC or) (S (NP (PRP I)) (VP (VB have) (S (NP (DT a) (NN headache)))))))
+

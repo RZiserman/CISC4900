@@ -1,0 +1,102 @@
+50 x
+-15.037615120162 -59.840882750411
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PP (IN in) (NP (JJ last))))))
+-15.636060053121 -60.203017104170
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PP (IN in) (NP (JJ last))))))
+-16.240785096164 -67.287479804125
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBD come) (PP (IN in) (NP (JJ last))))))
+-16.377817043620 -65.149650269650
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PP (IN in) (NP (NN last))))))
+-16.517875611053 -61.382505103763
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (ADVP (RB last)))))
+-16.715305855539 -66.481355657903
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBD come) (PP (IN in) (NP (JJ last))))))
+-16.976261976579 -65.511784623409
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PP (IN in) (NP (NN last))))))
+-17.116320546799 -61.744639457522
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (ADVP (RB last)))))
+-17.370437650275 -59.970853010776
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PP (IN in) (ADJP (JJ last))))))
+-17.472766064331 -66.366884249476
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VB come) (PP (IN in) (NP (JJ last))))))
+-17.492199062515 -66.864384821800
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBD come) (PRT (RP in)) (ADVP (RB last)))))
+-17.736448336496 -62.224438073754
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (NP (JJ last)))))
+-17.891896706698 -67.356501642955
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBN come) (PP (IN in) (NP (JJ last))))))
+-17.966719821890 -66.058260675578
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBD come) (PRT (RP in)) (ADVP (RB last)))))
+-17.968882583233 -60.332987364535
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PP (IN in) (ADJP (JJ last))))))
+-17.987042466112 -66.212181888947
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VB come) (PP (IN in) (NP (JJ last))))))
+-18.334893272243 -62.586572427513
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (NP (JJ last)))))
+-18.629092316053 -63.555574236995
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (VP (VB last)))))
+-18.729405618193 -67.629855373302
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBD come) (PP (IN in) (ADJP (JJ last))))))
+-18.760621631984 -60.927611789402
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (ADVP (JJ last)))))
+-18.962884816040 -65.222260594907
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (ADVP (RB last)))))
+-18.975413540763 -66.722062519431
+(S1 (FRAG (CC And) (RB then) (SBAR (S (NP (PRP they)) (VP (VBP come) (PP (IN in) (NP (JJ last))))))))
+-19.051724102179 -67.491486340993
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (VBP come) (PP (IN in) (NP (JJ last))))))))
+-19.203926377568 -66.823731227080
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBD come) (PP (IN in) (ADJP (JJ last))))))
+-19.227537249012 -63.917708590754
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (VP (VB last)))))
+-19.359066564943 -61.289746143161
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (ADVP (JJ last)))))
+-19.561329751786 -65.584394948666
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (ADVP (RB last)))))
+-19.817308753977 -62.380992322201
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (ADVP (RB in) (JJ last)))))
+-19.817314229350 -66.822731901418
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VB come) (PP (IN in) (ADJP (JJ last))))))
+-20.175697356622 -65.765082205562
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (ADJP (JJ last)))))
+-20.176437782340 -66.157203982909
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBD come) (ADVP (RB in) (JJ last)))))
+-20.268146660429 -66.875234031161
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PRT (IN in)) (ADVP (RB last)))))
+-20.312228016225 -66.074606037549
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (ADVP (IN in) (RB last)))))
+-20.331590631132 -66.668029540888
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VB come) (PP (IN in) (ADJP (JJ last))))))
+-20.415753689724 -62.743126675959
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (ADVP (RB in) (JJ last)))))
+-20.650958541715 -65.351079836687
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBD come) (ADVP (RB in) (JJ last)))))
+-20.774142289580 -66.127216559321
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (ADJP (JJ last)))))
+-20.836458633350 -66.385069816197
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (ADVP (IN in)) (VP (VB last)))))
+-20.866591593388 -67.237368384920
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PRT (IN in)) (ADVP (RB last)))))
+-20.910672949184 -66.436740391308
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (ADVP (IN in) (RB last)))))
+-20.988222648776 -65.996791827616
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (ADVP (JJ last)))))
+-21.247308946154 -67.682811341903
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (SBAR (IN in) (FRAG (ADJP (JJ last)))))))
+-21.408967475001 -67.047333476995
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (S (ADJP (JJ last))))))
+-21.434903566308 -66.747204169955
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (ADVP (IN in)) (VP (VB last)))))
+-21.560696611361 -66.420340716800
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBP come) (PRT (IN in)) (ADVP (JJ last)))))
+-21.570328400876 -66.852032779795
+(S1 (FRAG (CC And) (RB then) (SBAR (S (NP (PRP they)) (VP (VBP come) (PP (IN in) (ADJP (JJ last))))))))
+-21.586667581734 -66.358926181374
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (ADVP (RB in)) (ADVP (JJ last)))))
+-21.646638962291 -67.621456601358
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (VBP come) (PP (IN in) (ADJP (JJ last))))))))
+-22.007412407960 -67.409467830754
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PRT (RP in)) (S (ADJP (JJ last))))))
+-22.159141544320 -66.782475070559
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBP come) (PRT (IN in)) (ADVP (JJ last)))))
+

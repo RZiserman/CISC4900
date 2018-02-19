@@ -1,0 +1,102 @@
+50 x
+-15.418681655588 -61.121959056650
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (NP (ADJP (RBR more) (JJ expensive)) (DT that) (NN way))))))
+-16.321355492899 -63.002374530328
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way))))))
+-16.405104097244 -60.692004551126
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (NP (ADJP (RBR more) (JJ expensive)) (DT that) (NN way)))))))
+-17.307777934556 -62.572420024804
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way)))))))
+-17.497435376018 -68.954958380282
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RBR more) (RB expensive)) (NP (DT that) (NN way))))))
+-18.483857817675 -68.525003874758
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RBR more) (RB expensive)) (NP (DT that) (NN way)))))))
+-18.597923443264 -67.936387991304
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (NP (ADJP (JJR more) (JJ expensive)) (DT that) (NN way))))))
+-18.911712541632 -68.270612748738
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (S (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way)))))))
+-19.085285443102 -70.040375514276
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJR more) (JJ expensive)) (NP (DT that) (NN way))))))
+-19.353437398590 -69.547849636677
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RBR more) (JJ expensive)) (NP (DT that) (NN way))))))
+-19.460630621511 -67.561823661324
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (PP (IN that) (NP (NN way))))))))
+-19.492126497246 -66.502470556657
+(S1 (S (IN Because) (NP (PRP it)) (VP (VBZ is) (NP (ADJP (RBR more) (JJ expensive)) (DT that) (NN way)))))
+-19.584345887709 -67.506433485780
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (NP (ADJP (JJR more) (JJ expensive)) (DT that) (NN way)))))))
+-19.898134983289 -67.840658243214
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (S (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way))))))))
+-20.060127119667 -69.503312225402
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RBR more)) (ADJP (JJ expensive)) (NP (DT that) (NN way))))))
+-20.071707887547 -69.610421008752
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJR more) (JJ expensive)) (NP (DT that) (NN way)))))))
+-20.201853172521 -68.425246417957
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP it)) (VP (VBZ is) (NP (ADJP (RBR more) (JJ expensive)) (DT that) (NN way))))))
+-20.251441564213 -67.608994421007
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (IN that) (S (NP (NN way)))))))))
+-20.339859840246 -69.117895131153
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RBR more) (JJ expensive)) (NP (DT that) (NN way)))))))
+-20.384965815956 -67.131869155800
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (PP (IN that) (NP (NN way)))))))))
+-20.488142670799 -68.382886161736
+(S1 (S (IN Because) (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way)))))
+-20.495709381778 -71.164455705013
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive) (PP (IN that) (NP (NN way))))))))
+-20.592434959120 -69.674993345898
+(S1 (S (IN Because) (S (NP (PRP it)) (VP (VBZ is) (NP (ADJP (RBR more) (JJ expensive)) (DT that) (NN way))))))
+-20.797280783886 -68.404422372942
+(S1 (S (RB Because) (NP (PRP it)) (VP (VBZ is) (NP (ADJP (RBR more) (JJ expensive)) (DT that) (NN way)))))
+-20.962496610329 -70.704552310050
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (DT that) (NN way)))))))))
+-21.046549561324 -69.073357719878
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RBR more)) (ADJP (JJ expensive)) (NP (DT that) (NN way)))))))
+-21.104527009832 -70.305661891636
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way))))))
+-21.136163425728 -69.134864755231
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (IN that) (NN way))))))
+-21.175776758658 -67.179039915483
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (IN that) (S (NP (NN way))))))))))
+-21.225241149011 -67.396385738567
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP it)) (VP (VBZ is) (NP (ADJP (RBR more) (JJ expensive)) (DT that) (NN way)))))))
+-21.420044573435 -70.734501199489
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive) (PP (IN that) (NP (NN way)))))))))
+-21.495108829884 -71.555408943963
+(S1 (S (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way))))))
+-21.527958988267 -73.389722144147
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADVP (RBR more)) (JJ expensive)) (NP (DT that) (NN way)))))))
+-21.576770746339 -72.301493171184
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (DT that) (NN way))))))))
+-21.645075368072 -73.303511976279
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (VP (ADVP (RBR more)) (JJ expensive) (NP (DT that) (NN way))))))))
+-21.668585787926 -71.617736672627
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (S (NP (DT that) (NN way)))))))
+-21.712541210113 -73.725220709455
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (SBAR (S (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way)))))))))
+-21.793296960226 -70.284837978021
+(S1 (S (RB Because) (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way)))))
+-21.948919051986 -70.274597804526
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (DT that) (NN way))))))))))
+-22.060498617385 -68.704910249707
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (IN that) (NN way)))))))
+-22.127914986323 -69.276801212245
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way)))))))
+-22.225290793821 -73.602366236049
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (NP (ADVP (RBR more) (JJ expensive)) (DT that) (NN way)))))))
+-22.322925283987 -70.400505575607
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive) (S (NP (DT that) (NN way))))))))
+-22.563193190784 -71.871538665660
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (DT that) (NN way)))))))))
+-22.655008232370 -71.187782167103
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive)) (S (NP (DT that) (NN way))))))))
+-22.671368284923 -73.316899491311
+(S1 (S (IN Because) (NP (PRP it)) (VP (VBZ is) (NP (ADJP (JJR more) (JJ expensive)) (DT that) (NN way)))))
+-22.912488059503 -73.651124235813
+(S1 (S (IN Because) (NP (PRP it)) (VP (VBZ is) (S (ADJP (RBR more) (JJ expensive)) (NP (DT that) (NN way))))))
+-23.211638718925 -72.942335364342
+(S1 (S (IN Because) (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (PP (IN that) (NP (NN way)))))))
+-23.309347725644 -69.970551070083
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ expensive) (S (NP (DT that) (NN way)))))))))
+-24.020015311627 -72.989506124025
+(S1 (S (IN Because) (NP (PRP it)) (VP (VBZ is) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (IN that) (S (NP (NN way))))))))
+

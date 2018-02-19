@@ -1,0 +1,102 @@
+50 x
+-15.353630363165 -59.646166038297
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))
+-15.944899516553 -59.745838453422
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))))
+-16.878325235613 -64.536450026723
+(S1 (S (CC and) (NP (PRP they)) (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-17.196899621252 -64.579791029163
+(S1 (S (CC and) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-17.610725204187 -62.293027124335
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NN share)))))))
+-17.739448044112 -65.897059451540
+(S1 (S (CC and) (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))
+-17.868489957483 -63.406280028898
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (NN share))))))
+-17.882563302502 -68.502826784932
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (SBAR (S (VP (TO to) (VP (VB share))))))))
+-18.333651723252 -65.819894879712
+(S1 (X (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))))
+-18.369594035877 -67.167294042203
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VB learn) (S (VP (TO to) (VP (VB share)))))))
+-18.510148980008 -68.602499420144
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (SBAR (S (VP (TO to) (VP (VB share))))))))))
+-18.537994118362 -62.392699539460
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NN share)))))))))
+-18.610950149919 -70.845111859005
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (S (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-18.944468178871 -63.505952441173
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (NN share))))))))
+-19.041643825913 -67.540499582506
+(S1 (FRAG (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))))
+-19.294073586635 -67.183311112760
+(S1 (S (CC and) (NP (PRP they)) (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NN share))))))))
+-19.364145405061 -67.226652115201
+(S1 (S (CC and) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NN share))))))))
+-19.630402508977 -69.668903954990
+(S1 (X (CC and) (NP (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))))
+-19.717591261817 -71.585194994016
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (S (VP (VB learn) (S (VP (TO to) (VP (VB share))))))))
+-19.722938900104 -68.940456594963
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (VB share))))))
+-19.756103884356 -68.296564003094
+(S1 (S (CC and) (NP (PRP they)) (S (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (NN share)))))))
+-19.826175702783 -68.339905005534
+(S1 (S (CC and) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (NN share)))))))
+-19.848188089236 -67.592785306346
+(S1 (FRAG (CC and) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-19.996542887921 -68.543920537578
+(S1 (S (CC and) (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP learn) (S (VP (TO to) (VP (NN share)))))))
+-20.080200446181 -69.707689862551
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NP (NN share))))))))
+-20.108179544922 -70.067858951677
+(S1 (S (CC and) (ADVP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))
+-20.233031265792 -67.221146280741
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VB learn) (PP (TO to) (NP (NN share))))))
+-20.271485040948 -71.719105124442
+(S1 (S (CC and) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-20.273865068430 -69.657173442141
+(S1 (S (CC and) (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP learn) (PP (TO to) (NP (NN share))))))
+-20.303308324687 -71.968823267253
+(S1 (FRAG (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-20.455974486279 -69.040129007238
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (VB share))))))))
+-20.489331085303 -71.899317771835
+(S1 (X (CC and) (NP (PRP they)) (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-20.579539032542 -68.104270401482
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (NP (NN share)))))))
+-20.606978553177 -71.724742891346
+(S1 (X (CC and) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-20.734493599197 -71.168841690354
+(S1 (FRAG (CC and) (NP (PRP they)) (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-20.856847859686 -69.814155128240
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VB learn) (S (VP (TO to) (VP (NN share)))))))
+-20.878503599311 -71.149687870970
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (SBAR (S (VP (TO to) (VP (NN share))))))))
+-20.930423391252 -70.955548767041
+(S1 (FRAG (CC and) (S (NP (PRP they)) (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))))
+-20.997018105061 -68.466755965750
+(S1 (X (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NN share)))))))))
+-21.007469360356 -69.807362277675
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NP (NN share))))))))))
+-21.032669103000 -71.755078867075
+(S1 (S (CC and) (NP (PRP they)) (ADVP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (VB share)))))))
+-21.170892793576 -70.066198296848
+(S1 (FRAG (CC and) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP learn) (S (VP (TO to) (VP (VB share))))))))
+-21.291042985570 -69.580008867463
+(S1 (X (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (NN share))))))))
+-21.501149226717 -68.203942816607
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (NP (NN share)))))))))
+-21.604062687722 -70.187360668544
+(S1 (FRAG (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NN share)))))))))
+-21.842089034817 -71.249360506182
+(S1 (S (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (SBAR (S (VP (TO to) (VP (NN share))))))))))
+-21.865052875491 -71.639047096470
+(S1 (S (CC and) (NP (PRP they)) (NP (PRP they)) (S (VP (VB learn) (PP (TO to) (NP (NN share)))))))
+-21.903746288231 -71.300613570256
+(S1 (FRAG (CC and) (NP (PRP they)) (SBAR (S (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (NN share))))))))
+-21.976475430258 -70.239646392384
+(S1 (FRAG (CC and) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (S (VP (TO to) (VP (NN share))))))))
+-22.105104982101 -71.352899177349
+(S1 (FRAG (CC and) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP learn) (PP (TO to) (NP (NN share)))))))
+

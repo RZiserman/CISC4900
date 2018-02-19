@@ -1,0 +1,102 @@
+50 x
+-19.403883671920 -70.368193346913
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (NN um)))))))
+-19.410645189425 -69.846279745800
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (NNS um)))))))
+-19.889202294171 -72.443554159413
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (ADVP (RB um)))))))
+-20.331012029432 -70.916012747490
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (NN um)))))))
+-20.351631856938 -70.394099146377
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (NNS um)))))))
+-20.554447377915 -75.266173367101
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (S (VP (VBG um))))))))
+-20.831820802883 -72.991373559990
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (ADVP (RB um)))))))
+-20.946662199940 -76.788856556305
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VBP see) (NP (NNS um)))))))
+-20.971033287907 -76.005536027552
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (VBG um)))))))
+-21.172120333606 -75.199351509705
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (JJR um)))))))
+-21.215676711845 -76.871341646104
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VBP see) (NP (NN um)))))))
+-21.267137313075 -76.811469388784
+(S1 (S (VP (VB Let) (S (VP (POS 's) (VP (VB see) (NP (NNS um))))))))
+-21.546851549421 -72.543720541311
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (VP (VBN um)))))))
+-21.633879748428 -75.813992767678
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (S (VP (VBG um))))))))
+-21.728954837365 -72.294013460427
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (ADJP (JJ um)))))))
+-21.812948185253 -72.842916908062
+(S1 (S (VP (VB Let) (NP (PRP 's)) (S (VP (VB see) (NP (NNS um)))))))
+-21.820039597352 -75.010083250859
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (CD um)))))))
+-21.862906679420 -76.553355428129
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (VBG um)))))))
+-21.869248626454 -74.762279887618
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (S (VP (VB um))))))))
+-21.884523351119 -75.747170910282
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (JJR um)))))))
+-21.967512889348 -76.784138289273
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (RB um))))))
+-22.043507921468 -76.710418294687
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (VP (VBG um)))))))
+-22.056888330647 -75.324647302307
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (RB um)))))))
+-22.088755727747 -73.364830509176
+(S1 (S (VP (VB Let) (NP (PRP 's)) (S (VP (VB see) (NP (NN um)))))))
+-22.258412152059 -75.440191273787
+(S1 (S (VP (VB Let) (NP (PRP 's)) (S (VP (VB see) (ADVP (RB um)))))))
+-22.312213025933 -73.091539941888
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (VP (VBN um)))))))
+-22.385966091519 -76.997108827824
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (ADJP (JJR um)))))))
+-22.425015163853 -75.166859581233
+(S1 (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (NNS um))))))
+-22.499316955277 -75.565535397061
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (S (VP (VBN um))))))))
+-22.601519404864 -75.557902651436
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (CD um)))))))
+-22.632677246347 -75.688773182346
+(S1 (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (NN um))))))
+-22.642418073878 -72.841832861004
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (ADJP (JJ um)))))))
+-22.813221182967 -75.310099288194
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (S (VP (VB um))))))))
+-22.825682136962 -75.387506009479
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (S (ADJP (JJ um))))))))
+-22.934352300359 -75.872466702884
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (RB um)))))))
+-23.073005531539 -76.899649189678
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (NP (JJ um)))))))
+-23.083761284768 -77.258237695264
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (VP (VBG um)))))))
+-23.241891397676 -75.227015985693
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (ADVP (JJ um)))))))
+-23.257204875128 -76.915961726197
+(S1 (S (NP (VB Let) (POS 's)) (VP (VB see) (NP (NNS um)))))
+-23.303857441789 -76.113354797637
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (S (VP (VBN um))))))))
+-23.456402131365 -75.714678981810
+(S1 (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (NNS um))))))
+-23.578562584277 -75.540357843281
+(S1 (S (VP (VB Let) (NP (PRP 's)) (S (VP (VB see) (VP (VBN um)))))))
+-23.650205903860 -76.236592582923
+(S1 (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (NP (NN um))))))
+-23.778324383474 -75.935325410055
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (S (ADJP (JJ um))))))))
+-23.937667056315 -75.290650523282
+(S1 (S (VP (VB Let) (NP (PRP 's)) (S (VP (VB see) (ADJP (JJ um)))))))
+-23.993545234189 -75.774835386270
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (ADVP (JJ um)))))))
+-24.415097384474 -77.188004691250
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (S (ADJP (VBN um))))))))
+-24.457721615280 -76.754275606212
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see) (ADJP (VBN um)))))))
+-24.536973198129 -77.064323397115
+(S1 (VP (VB Let) (NP (PRP 's)) (S (VP (VB see) (NP (NNS um))))))
+-25.301667061793 -77.302095006789
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB see) (ADJP (VBN um)))))))
+

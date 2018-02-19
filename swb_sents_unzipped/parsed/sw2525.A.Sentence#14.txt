@@ -1,0 +1,102 @@
+50 x
+-8.192289645779 -42.227918924519
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN location))))))
+-14.747486191468 -57.091248740353
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PP (RP on) (NP (DT the) (NN location))))))
+-15.000062920637 -58.557029105737
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (VP (PP (IN on) (NP (DT the) (NN location)))))))
+-15.137803876084 -54.349410475779
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PP (IN on) (S (NP (DT the) (NN location)))))))
+-15.316879615857 -57.965879378597
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PRT (RP on)) (NP (DT the) (NN location)))))
+-15.592401528445 -64.019818624333
+(S1 (S (NP (PRP it)) (VP (VP (VBZ depends)) (PP (IN on) (NP (DT the) (NN location))))))
+-15.669144359341 -60.873729266926
+(S1 (S (NP (PRP it)) (VP (VBZ depends)) (PP (IN on) (NP (DT the) (NN location)))))
+-15.737533051601 -60.886631757841
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (ADVP (RB on)) (NP (DT the) (NN location)))))
+-16.418734158381 -60.101707781572
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (ADVP (IN on)) (NP (DT the) (NN location)))))
+-16.818700700259 -58.576615658091
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PP (RB on) (NP (DT the) (NN location))))))
+-17.368333488615 -62.110343459381
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (ADVP (RP on)) (NP (DT the) (NN location)))))
+-17.678710387698 -62.130320458612
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PRT (IN on)) (NP (DT the) (NN location)))))
+-18.275143653582 -65.026595327364
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (RB on) (NP (DT the) (NN location)))))
+-18.398328392994 -65.064528082168
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (VP (IN on) (NP (DT the) (NN location))))))
+-18.635331076442 -66.727561802726
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (NP (RB on) (DT the) (NN location)))))
+-18.818292265301 -66.230171170045
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (NP (IN on) (DT the) (NN location)))))
+-19.031257974811 -63.701069587616
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (ADVP (IN on) (NP (DT the) (NN location))))))
+-19.110306544384 -76.697672561107
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN location))))))
+-19.216461357240 -69.288436563078
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (SBAR (IN on) (S (NP (DT the) (NN location)))))))
+-19.662971466111 -68.436747101146
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (NP (ADVP (RB on)) (DT the) (NN location)))))
+-20.283326232974 -66.299376086635
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PRT (RP on)) (S (NP (DT the) (NN location))))))
+-20.584406750277 -75.886790423296
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (PP (IN on) (NP (DT the) (NN location)))))))
+-21.406075911559 -70.563094708253
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (NP (ADVP (RP on)) (DT the) (NN location)))))
+-21.620314518647 -72.634917568073
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (NP (ADVP (IN on)) (DT the) (NN location)))))
+-21.752137985916 -74.893462462085
+(S1 (S (NP (PRP it)) (VP (VBZ depends)) (PP (RP on) (NP (DT the) (NN location)))))
+-21.928422845752 -71.506327052255
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (VP (PP (IN on) (S (NP (DT the) (NN location))))))))
+-22.125650244682 -79.230188862648
+(S1 (S (NP (PRP it)) (VP (VP (VBZ depends)) (PP (RP on) (NP (DT the) (NN location))))))
+-22.198940919838 -74.703567515013
+(S1 (S (NP (PRP it)) (VP (VBZ depends)) (PP (IN on) (S (NP (DT the) (NN location))))))
+-22.463158468315 -70.463817166649
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (PRT (IN on)) (S (NP (DT the) (NN location))))))
+-22.517884332023 -76.141310117733
+(S1 (S (NP (PRP it)) (VP (VP (VBZ depends)) (PP (IN on) (S (NP (DT the) (NN location)))))))
+-22.581160799268 -80.538987074041
+(S1 (S (NP (PRP it)) (VP (VBZ depends) (VP (PP (RP on) (NP (DT the) (NN location)))))))
+-22.798220677360 -88.174972165763
+(S1 (NP (NP (PRP it)) (VP (VBZ depends)) (PP (IN on) (NP (DT the) (NN location)))))
+-23.279112043089 -74.181099013351
+(S1 (S (NP (PRP it)) (VP (VBZ depends)) (PP (RB on) (NP (DT the) (NN location)))))
+-24.335922601178 -87.550129242703
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (VP (PP (IN on) (NP (DT the) (NN location)))))))
+-24.439606198024 -80.664436004032
+(S1 (S (NP (PRP it)) (VP (VP (VBZ depends)) (PP (RB on) (NP (DT the) (NN location))))))
+-25.017903901457 -88.037415172175
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (PRT (RP on)) (NP (DT the) (NN location)))))
+-25.104760498407 -90.182472052841
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends)) (PP (IN on) (NP (DT the) (NN location))))))
+-25.626855502246 -91.402397984072
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (ADVP (RB on)) (NP (DT the) (NN location)))))
+-25.662660939471 -91.556647103375
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (PP (RP on) (NP (DT the) (NN location))))))
+-25.809514017071 -86.739247104892
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (VP (PP (IN on) (NP (DT the) (NN location))))))))
+-26.055820771902 -88.819164112367
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (PP (IN on) (S (NP (DT the) (NN location)))))))
+-26.255744998562 -90.544290764849
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (ADVP (IN on)) (NP (DT the) (NN location)))))
+-26.452013137350 -87.226533034364
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (PRT (RP on)) (NP (DT the) (NN location))))))
+-27.008452819927 -90.591515846261
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (ADVP (RB on)) (NP (DT the) (NN location))))))
+-27.034112028152 -90.745764965563
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (PP (RP on) (NP (DT the) (NN location)))))))
+-27.422324966841 -92.356918052774
+(S1 (NP (NP (PRP it)) (VP (VBZ depends) (PRT (IN on)) (NP (DT the) (NN location)))))
+-27.432393907795 -88.008281974556
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (PP (IN on) (S (NP (DT the) (NN location))))))))
+-27.637342316243 -89.733408627038
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (ADVP (IN on)) (NP (DT the) (NN location))))))
+-28.648450878640 -91.958380945069
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (ADVP (RP on)) (NP (DT the) (NN location))))))
+-28.856434202734 -91.546035914962
+(S1 (S (NP (NP (PRP it)) (VP (VBZ depends) (PRT (IN on)) (NP (DT the) (NN location))))))
+

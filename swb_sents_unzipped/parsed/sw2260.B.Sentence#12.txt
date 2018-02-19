@@ -1,0 +1,102 @@
+50 x
+-16.525033948739 -65.197322897936
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs))))))
+-17.829141947531 -67.045424790750
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs)))))))
+-18.814452204233 -66.721912341640
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (JJ theirs))))))
+-19.186161659753 -67.989221663148
+(S1 (FRAG (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs)))))))
+-19.374276360421 -69.944600717536
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs))))))))
+-19.687362959965 -69.037126807796
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADJP (JJ theirs))))))
+-19.711915551571 -70.736126147651
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs))))))))
+-19.895952390025 -68.570014234454
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (JJ theirs)))))))
+-19.922308948520 -77.484583031157
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VBP add) (NP (PRP theirs))))))
+-20.358255346742 -72.937342387952
+(S1 (FRAG (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs)))))))
+-20.758290729847 -75.369239113339
+(S1 (S (CC and) (NP (DT the) (NN city)) (MD can) (VP (VB add) (NP (PRP theirs)))))
+-20.946271897313 -79.332684923971
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VBP add) (NP (PRP theirs)))))))
+-20.950834345757 -70.885228700610
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADJP (JJ theirs)))))))
+-21.451262950035 -69.513811106852
+(S1 (FRAG (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (JJ theirs)))))))
+-21.486945480062 -73.966030578374
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (ADJP (JJ theirs)))))))
+-21.571068212245 -74.434033874245
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (NP (PRP theirs)))))))
+-21.625394813915 -71.469190161240
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (JJ theirs))))))))
+-21.655435202236 -75.620123638492
+(S1 (S (NP (CC and) (NP (DT the) (NN city))) (VP (MD can) (VP (VB add) (NP (PRP theirs))))))
+-21.864659968797 -79.211790833295
+(S1 (S (CC and) (NP (DT the) (NN city)) (MD can) (VP (VBP add) (NP (PRP theirs)))))
+-22.161324850065 -72.260715591355
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (JJ theirs))))))))
+-22.265822342705 -78.470726041440
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (S (VP (VB add) (NP (PRP theirs)))))))
+-22.275599672629 -79.188814800315
+(S1 (FRAG (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs))))))))
+-22.306508488719 -76.917154533593
+(S1 (S (NP (CC and) (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (PRP theirs))))))
+-22.398879892979 -71.829025573008
+(S1 (FRAG (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADJP (JJ theirs)))))))
+-22.430606791093 -78.601255784165
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VBP add) (NP (JJ theirs))))))
+-22.508325044056 -75.539403231405
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADVP (JJ theirs))))))
+-22.618110512322 -80.276481796370
+(S1 (FRAG (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VBP add) (NP (PRP theirs)))))))
+-22.629479749854 -75.814132471188
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (ADJP (JJ theirs))))))))
+-22.679536432236 -74.461931831657
+(S1 (FRAG (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (JJ theirs)))))))
+-22.776454509647 -73.784404627396
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADJP (JJ theirs))))))))
+-22.936210297825 -76.282135767059
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (NP (PRP theirs))))))))
+-23.151854224753 -77.723956139920
+(S1 (S (CC and) (NP (DT the) (NN city)) (MD can) (VP (VB add) (NP (JJ theirs)))))
+-23.254297929849 -77.387505124219
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADVP (JJ theirs)))))))
+-23.312384545797 -74.575930057511
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADJP (JJ theirs))))))))
+-23.407292110527 -80.318828068367
+(S1 (S (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (S (VP (VB add) (NP (PRP theirs))))))))
+-23.518998687968 -76.777146297812
+(S1 (FRAG (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADJP (JJ theirs)))))))
+-23.944853457729 -77.144713082197
+(S1 (S (NP (CC and) (NP (DT the) (NN city))) (VP (MD can) (VP (VB add) (NP (JJ theirs))))))
+-24.063279306632 -79.683904974300
+(S1 (S (CC and) (NP (DT the) (NN city)) (MD can) (VP (VBP add) (NP (JJ theirs)))))
+-24.119658208121 -79.600392528106
+(S1 (S (CC and) (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (NP (JJ theirs)))))))
+-24.211105197076 -76.757929343587
+(S1 (FRAG (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (ADJP (JJ theirs))))))))
+-24.239452688178 -80.209239332928
+(S1 (S (CC and) (NP (DT the) (NN city)) (MD can) (VP (VB add) (ADJP (JJ theirs)))))
+-24.319544900047 -77.225932639457
+(S1 (FRAG (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (NP (PRP theirs))))))))
+-24.443865713744 -78.713308397974
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (ADJP (JJ theirs)))))))))
+-24.566288247927 -79.181311693845
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (NP (PRP theirs)))))))))
+-24.595926747000 -78.441743977297
+(S1 (S (NP (CC and) (DT the) (NN city)) (VP (MD can) (VP (VB add) (NP (JJ theirs))))))
+-24.817764213461 -79.459927548352
+(S1 (S (NP (CC and) (NP (DT the) (NN city))) (VP (MD can) (VP (VB add) (ADJP (JJ theirs))))))
+-24.903927439076 -79.972837123960
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (NP (PRP theirs)))))))))
+-24.979795749894 -79.504833828089
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (S (ADJP (JJ theirs)))))))))
+-25.103480993738 -80.286681051005
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADVP (JJ theirs))))))))
+-25.205746679858 -78.331301996618
+(S1 (FRAG (CC and) (S (NP (DT the) (NN city)) (VP (MD can) (VP (VB add) (ADVP (JJ theirs)))))))
+

@@ -1,0 +1,102 @@
+50 x
+-26.069654372566 -94.356556310270
+(S1 (S (NP (NNP Well)) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-26.606929220053 -93.800354598577
+(S1 (S (NP (NNP Well)) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-26.805365094506 -95.928117027927
+(S1 (S (NP (NNP Well)) (VP (VBZ is) (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence))))))
+-27.557462159852 -95.408745924581
+(S1 (S (NP (NN Well)) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-27.829276334421 -96.907459769840
+(S1 (S (RB Well) (VP (VBZ is) (VP (VBG REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence)))))))
+-28.028191597340 -94.852544212888
+(S1 (S (NP (NN Well)) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-28.183626441793 -96.980306642238
+(S1 (S (NP (NN Well)) (VP (VBZ is) (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence))))))
+-28.276906931636 -97.424133139288
+(S1 (S (RB Well) (VP (VBZ is) (VP (VBD REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence)))))))
+-28.415627224669 -90.603947377420
+(S1 (S (RB Well) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-28.596309125157 -90.047745665727
+(S1 (S (RB Well) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-28.799938925979 -99.369463079937
+(S1 (S (NP (RB Well) (VBZ is)) (VP (VBP REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-28.966469568153 -94.420049850529
+(S1 (S (ADVP (RB Well)) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.046956086610 -92.175508095077
+(S1 (S (RB Well) (VP (VBZ is) (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.108394636519 -93.863848237151
+(S1 (S (ADVP (RB Well)) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.301693588997 -96.442505488012
+(S1 (S (RB Well) (VP (VBZ is) (NP (NN REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.597798446821 -95.991610630817
+(S1 (S (ADVP (RB Well)) (VP (VBZ is) (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.600573438044 -97.742245914989
+(S1 (SINV (ADVP (RB Well)) (VBZ is) (NP (NP (NN REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.696033994707 -95.161741186891
+(S1 (SINV (ADVP (RB Well)) (VBZ is) (NP (NP (NN REDBOOK)) (PP (ADVP (RB still)) (IN in) (NP (NN existence))))))
+-29.716384227283 -93.471390123915
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.721483563445 -99.326197666809
+(S1 (S (NP (RB Well)) (VP (VBZ is) (VP (VBG REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence)))))))
+-29.742668076375 -97.352797401022
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ is) (NP (NN REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.952778691430 -98.642916286428
+(S1 (S (NP (UH Well)) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-29.995098275513 -99.033058216943
+(S1 (S (RB Well) (VP (VBZ is) (SBAR (S (VP (VBP REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence)))))))))
+-30.103420007905 -93.022685274389
+(S1 (S (NP (RB Well)) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.152005420385 -99.334611971620
+(S1 (S (RB Well) (VP (VBZ is) (S (NP (NNP REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence)))))))
+-30.191315336130 -98.086714574735
+(S1 (S (NP (UH Well)) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.228989906294 -98.764499345325
+(S1 (S (RB Well) (VP (VBZ is) (NP (NNP REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.262011256284 -98.316053328303
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ is) (NP (NN REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.302998075393 -92.466483562696
+(S1 (S (NP (RB Well)) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.375934110270 -98.088590767033
+(S1 (S (RB Well) (VP (VBZ is) (NP (NP (NN REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence)))))))
+-30.413636500893 -96.407608125051
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.563177053172 -96.649028360372
+(S1 (S (RB Well) (VP (VBZ is) (NP (NP (NN REDBOOK)) (PP (ADVP (RB still)) (IN in) (NP (NN existence)))))))
+-30.734748869846 -94.594245992046
+(S1 (S (NP (RB Well)) (VP (VBZ is) (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.770615150996 -99.353136935976
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ is) (NP (NNP REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-30.844089883359 -97.375976606805
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ is) (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence))))))
+-31.098330901233 -98.861243384981
+(S1 (S (NP (RB Well)) (VP (VBZ is) (NP (NN REDBOOK)) (ADVP (RB still)) (PP (IN in) (NP (NN existence))))))
+-31.378563034971 -98.859837775875
+(S1 (SINV (ADVP (RB Well)) (VBZ is) (NP (NP (NN REDBOOK)) (ADVP (RB still) (PP (IN in) (NP (NN existence)))))))
+-31.392470785698 -97.587742183861
+(S1 (SINV (ADVP (RB Well)) (VBZ is) (NP (NP (NN REDBOOK) (RB still)) (PP (IN in) (NP (NN existence))))))
+-31.516553127163 -96.420611839554
+(S1 (S (RB Well) (VP (VBZ is) (ADVP (RB REDBOOK)) (PP (ADVP (RB still)) (IN in) (NP (NN existence))))))
+-31.632063648218 -97.023879918072
+(S1 (S (RB Well) (VP (VBZ is) (ADVP (RB REDBOOK) (RB still) (PP (IN in) (NP (NN existence)))))))
+-31.796621261668 -96.237044174012
+(S1 (S (RB Well) (VP (VBZ is) (ADVP (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence)))))))
+-31.872245777790 -97.116333026655
+(S1 (S (RB Well) (VP (VBZ is) (ADVP (RB REDBOOK)) (ADVP (RB still) (PP (IN in) (NP (NN existence)))))))
+-32.321777163094 -97.207851703602
+(S1 (S (RB Well) (VP (VBZ is) (RB REDBOOK) (PP (ADVP (RB still)) (IN in) (NP (NN existence))))))
+-32.360403381197 -99.067766257341
+(S1 (S (NP (RB Well)) (VP (VBZ is) (NP (NP (NN REDBOOK)) (PP (ADVP (RB still)) (IN in) (NP (NN existence)))))))
+-32.371314526187 -99.236231460234
+(S1 (S (RB Well) (VP (VBZ is) (PP (ADVP (RB REDBOOK) (RB still)) (IN in) (NP (NN existence))))))
+-32.377177536194 -95.047884873034
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ is) (RB REDBOOK) (PP (ADVP (RB still)) (IN in) (NP (NN existence))))))
+-32.768403741861 -99.075029273472
+(S1 (S (RB Well) (VP (VBZ is) (NP (NP (NN REDBOOK) (RB still)) (PP (IN in) (NP (NN existence)))))))
+-32.994354431422 -98.855575922499
+(S1 (S (RB Well) (VP (VBZ is) (RB REDBOOK) (ADVP (RB still) (PP (IN in) (NP (NN existence)))))))
+-33.204345913187 -98.839349736523
+(S1 (S (NP (RB Well)) (VP (VBZ is) (ADVP (RB REDBOOK)) (PP (ADVP (RB still)) (IN in) (NP (NN existence))))))
+-33.486009157693 -98.655782070981
+(S1 (S (NP (RB Well)) (VP (VBZ is) (ADVP (ADVP (RB REDBOOK) (RB still)) (PP (IN in) (NP (NN existence)))))))
+

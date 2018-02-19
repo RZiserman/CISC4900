@@ -1,0 +1,102 @@
+50 x
+-23.156340838922 -76.735463701318
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous)))))
+-23.308307545235 -74.978836988286
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (S (ADJP (RB absolutely) (JJ gorgeous))))))
+-23.493809963302 -68.591977233971
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)))) (ADJP (RB absolutely) (JJ gorgeous))))
+-24.136371585557 -78.026156709898
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous))))))
+-24.476364280747 -80.342720238615
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous) (NP (RB absolutely) (JJ gorgeous))))))
+-24.671241607554 -82.156119526126
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous)))))
+-24.710421787143 -80.093047680110
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (NP (RB absolutely) (JJ gorgeous)))))
+-24.803354594222 -79.773442567974
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (ADVP (RB absolutely) (JJ gorgeous)))))
+-24.849772790550 -80.901602174782
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (ADVP (RB absolutely)) (ADJP (JJ gorgeous)))))
+-24.903552632901 -83.298925876552
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ gorgeous) (RB absolutely)) (JJ gorgeous)))))
+-25.055657295570 -74.211673980402
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous)))))
+-25.114063361226 -80.439937984925
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADJP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous))))))
+-25.141224412629 -80.969604892527
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ gorgeous)) (S (ADJP (RB absolutely) (JJ gorgeous))))))
+-25.402532579044 -83.105084782652
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ gorgeous) (NP (RB absolutely) (JJ gorgeous))))))
+-25.503212812721 -80.161580895674
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (PP (RB absolutely) (ADJP (JJ gorgeous))))))
+-25.624384607015 -82.087742326773
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous) (ADVP (RB absolutely) (JJ gorgeous))))))
+-25.734372926284 -82.960350303773
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ gorgeous)) (ADVP (RB absolutely) (JJ gorgeous))))))
+-25.771075392814 -81.241706951172
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous) (PP (RB absolutely) (ADJP (JJ gorgeous)))))))
+-25.841870231082 -79.247779128190
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous) (RB absolutely)) (ADVP (JJ gorgeous)))))
+-25.912360398186 -82.943620645004
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ gorgeous) (RB absolutely)) (ADJP (JJ gorgeous)))))
+-25.955800291146 -82.787911921463
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ gorgeous) (RB absolutely) (JJ gorgeous)))))
+-25.971380402103 -78.466037180061
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ gorgeous)) (FRAG (ADJP (RB absolutely) (JJ gorgeous)))))))
+-25.977958627189 -77.497051361106
+(S1 (S (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ gorgeous)))) (ADJP (RB absolutely) (JJ gorgeous))))
+-26.131937428462 -81.059671525149
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (SBAR (RB absolutely) (FRAG (ADJP (JJ gorgeous)))))))
+-26.195736043023 -83.047981390250
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous) (S (ADJP (RB absolutely) (JJ gorgeous)))))))
+-26.224865939668 -81.380044173369
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (NP (JJ gorgeous)) (RB absolutely) (JJ gorgeous)))))
+-26.290950798979 -82.242466524322
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ gorgeous)) (FRAG (RB absolutely) (JJ gorgeous))))))
+-26.301494831624 -81.914910301704
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous)))))
+-26.369849148696 -83.182796399062
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous))))))
+-26.402381153421 -80.764007186848
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (JJ gorgeous)) (RB absolutely) (JJ gorgeous)))))
+-26.428945002234 -79.654334373801
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous) (RB absolutely)) (S (ADJP (JJ gorgeous))))))
+-26.468503324950 -82.990190952862
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ gorgeous) (ADJP (RB absolutely) (JJ gorgeous))))))
+-26.600313957276 -83.629665132956
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (NP (JJ gorgeous)) (RB absolutely) (JJ gorgeous)))))
+-26.786864810331 -83.571518733932
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous) (RB absolutely)) (NP (JJ gorgeous)))))
+-26.824402681501 -83.318795735315
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (S (VP (RB absolutely) (ADJP (JJ gorgeous)))))))
+-26.917812582968 -83.013628204668
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADVP (JJ gorgeous)) (RB absolutely) (JJ gorgeous)))))
+-26.963850506508 -81.271612769552
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADJP (JJ gorgeous)) (FRAG (ADJP (RB absolutely) (JJ gorgeous)))))))
+-27.037046719956 -82.165558837154
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (JJ gorgeous) (S (ADJP (RB absolutely) (JJ gorgeous)))))))
+-27.123291396462 -82.582545240852
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)) (SBAR (RB absolutely) (S (ADJP (JJ gorgeous)))))))
+-27.269056381703 -82.225549759744
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ gorgeous)) (NP (RB absolutely) (JJ gorgeous)))))
+-27.286815957213 -79.742859941600
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ gorgeous)) (RB absolutely) (ADJP (JJ gorgeous)))))
+-27.299029322371 -82.177603302694
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ gorgeous) (RB absolutely)) (ADJP (JJ gorgeous)))))
+-27.420795121842 -83.063779902638
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (JJ gorgeous)) (ADJP (RB absolutely) (JJ gorgeous))))))
+-27.655019247459 -83.437757199906
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ gorgeous)) (PP (RB absolutely) (ADJP (JJ gorgeous)))))))
+-27.883066646320 -79.228383435039
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)))) (ADJP (ADVP (RB absolutely)) (JJ gorgeous))))
+-28.132487295196 -83.656355448446
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ gorgeous)) (ADVP (RB absolutely)) (ADJP (JJ gorgeous)))))
+-28.168206735388 -75.874783217968
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ gorgeous)))) (ADJP (RB absolutely) (JJ gorgeous))))
+-28.591705557115 -83.073058707023
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)))) (RB absolutely) (ADJP (JJ gorgeous))))
+-28.862505815811 -80.579595646282
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ gorgeous)))) (ADJP (QP (RB absolutely) (JJ gorgeous)))))
+-29.096959910716 -79.062050108835
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ gorgeous)))) (ADJP (RB absolutely) (JJ gorgeous))))
+

@@ -1,0 +1,102 @@
+50 x
+-11.328390537362 -40.607846956181
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD liked) (NP (PRP him)))))
+-13.871766898453 -46.716419936432
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD liked) (NP (PRP him))))))
+-16.042674060465 -51.249213865864
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD liked) (NP (PRP him)))))
+-16.043159942426 -53.428341417448
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD liked) (NP (PRP him)))))))
+-16.692945747519 -53.990338150031
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBD liked) (NP (PRP him)))))))
+-16.974181866946 -56.729275716269
+(S1 (S (CC and) (NP (NN I)) (VP (VBD liked) (NP (PRP him)))))
+-17.022812658625 -57.738745681119
+(S1 (S (CC and) (NP (PRP I)) (VP (VBN liked) (NP (PRP him)))))
+-17.276632063706 -53.353582548919
+(S1 (S (NP (CC and) (PRP I)) (VP (VBD liked) (NP (PRP him)))))
+-17.386846460040 -54.086695792702
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD liked) (NP (PRP him))))))
+-17.502929508437 -52.253268524428
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD liked) (S (NP (PRP him))))))
+-17.788491376518 -56.514374760975
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VBD liked) (NP (PRP him))))))
+-18.862637244264 -59.624759982663
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (VP (VBD liked) (NP (PRP him)))))))
+-19.364803073263 -59.578349170723
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBN liked) (NP (PRP him)))))
+-19.583215487728 -62.509351412809
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBN liked) (NP (PRP him))))))
+-19.920183388112 -64.176687051988
+(S1 (S (NP (CC and) (NN I)) (VP (VBD liked) (NP (PRP him)))))
+-19.982897991757 -61.544212318957
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBN liked) (NP (PRP him)))))))
+-20.055226184892 -58.361841528465
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD liked) (S (NP (PRP him)))))))
+-20.425720033802 -64.100165602300
+(S1 (S (CC and) (S (NP (NN I)) (VP (VBD liked) (NP (PRP him))))))
+-20.531066529718 -61.790947164305
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBN liked) (NP (PRP him))))))
+-20.677772215076 -60.831355220953
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD liked) (SBAR (S (NP (PRP him)))))))
+-21.113222917293 -60.849096730813
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (VP (VBD liked) (NP (PRP him))))))
+-21.166982829321 -68.374772714039
+(S1 (S (CC and) (NP (NN I)) (VP (VBN liked) (NP (PRP him)))))
+-21.594713419487 -65.281348247642
+(S1 (S (CC and) (NP (PRP I)) (VP (VBN liked) (S (NP (PRP him))))))
+-21.896922112478 -67.083021226885
+(S1 (S (NP (CC and) (PRP I)) (VP (VBN liked) (NP (PRP him)))))
+-22.035467022804 -65.073763063454
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD liked) (S (NP (PRP him))))))))
+-22.063862108164 -70.522948762711
+(S1 (FRAG (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD liked) (NP (PRP him))))))))
+-22.217213031540 -62.894635434111
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD liked) (S (NP (PRP him))))))
+-22.347180920534 -62.953465413868
+(S1 (FRAG (S (NP (CC and) (PRP I)) (VP (VBD liked) (NP (PRP him))))))
+-22.348714447328 -71.402161322330
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBN liked) (NP (PRP him)))))))
+-22.532842602027 -70.693109557677
+(S1 (S (NP (CC and) (NN I)) (VP (VBN liked) (NP (PRP him)))))
+-22.697719292849 -69.131044348024
+(S1 (S (NP (CC and) (NP (NN I))) (VP (VBD liked) (NP (PRP him)))))
+-22.848558615745 -70.016233865481
+(S1 (S (CC and) (SBAR (S (NP (NN I)) (VP (VBD liked) (NP (PRP him)))))))
+-22.916573738021 -68.374697284516
+(S1 (S (CC and) (NP (NN I)) (VP (VBD liked) (S (NP (PRP him))))))
+-22.970692830684 -65.635759796037
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBD liked) (S (NP (PRP him))))))))
+-23.254260971563 -66.939928039668
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD liked) (SBAR (S (NP (PRP him))))))))
+-23.431697940172 -70.625179219719
+(S1 (FRAG (CC and) (S (NP (NN I)) (VP (VBD liked) (NP (PRP him))))))
+-23.437362650837 -70.578230598064
+(S1 (FRAG (CC and) (SBAR (S (NP (NN I)) (VP (VBD liked) (NP (PRP him)))))))
+-23.451171037569 -64.999004117166
+(S1 (S (NP (CC and) (PRP I)) (VP (VBD liked) (S (NP (PRP him))))))
+-23.709635486871 -65.732117548607
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD liked) (S (NP (PRP him)))))))
+-23.773242636518 -72.838579915357
+(S1 (S (CC and) (S (NP (NN I)) (VP (VBN liked) (NP (PRP him))))))
+-23.936703834125 -67.120951737247
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBN liked) (S (NP (PRP him))))))
+-23.974445903349 -68.159796516880
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VBD liked) (S (NP (PRP him)))))))
+-24.032876610954 -70.051954013136
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBN liked) (S (NP (PRP him)))))))
+-24.453095053651 -69.086814700889
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBN liked) (S (NP (PRP him))))))))
+-24.595874103629 -72.560090230569
+(S1 (FRAG (CC and) (SBAR (S (NP (NN I)) (VP (VBN liked) (NP (PRP him)))))))
+-24.744697375206 -73.144233410120
+(S1 (FRAG (CC and) (S (NP (NN I)) (VP (VBN liked) (NP (PRP him))))))
+-25.046096530703 -71.270181574695
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (VP (VBD liked) (S (NP (PRP him))))))))
+-25.115445161306 -69.333549792053
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBN liked) (S (NP (PRP him)))))))
+-25.392055738179 -71.472722130636
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD liked) (SBAR (S (NP (PRP him)))))))
+-27.299177444124 -72.494518486718
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (VP (VBD liked) (S (NP (PRP him)))))))
+

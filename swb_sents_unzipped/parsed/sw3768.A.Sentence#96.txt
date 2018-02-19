@@ -1,0 +1,102 @@
+50 x
+-16.530205433266 -60.862734593314
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon))))))
+-18.338167456463 -67.345234510982
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon))))))
+-18.951749368560 -66.535967601848
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon)))))))
+-19.884417094027 -71.079355670993
+(S1 (S (CC and) (SBAR (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon))))))))
+-20.552400507024 -74.472687042241
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NN Cameroon)))))))
+-20.560122581758 -73.018467519517
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon)))))))
+-20.675507143210 -71.810908104665
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon))))))))
+-21.137386985620 -73.100807596334
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NNP Cameroon)))))))
+-21.438030368026 -71.119037979390
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon)))))))
+-21.486586317972 -75.449938268292
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (VP (PP (TO to) (NP (NNP Cameroon)))))))
+-21.556516547225 -77.561855588662
+(S1 (S (CC and) (SBAR (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon))))))))
+-21.609364837618 -73.740022589201
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came)) (PP (TO to) (NP (NNP Cameroon)))))
+-21.807647234785 -76.494570612671
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NP (NNP Cameroon))))))))
+-21.952612944971 -72.131081764218
+(S1 (S (NP (CC and) (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon))))))
+-21.953422755752 -72.690099626252
+(S1 (S (NP (CC and) (NP (PRP she))) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon))))))
+-22.303589132070 -74.349346375625
+(S1 (FRAG (S (CC and) (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon)))))))
+-22.359408767408 -78.293408022333
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon))))))))
+-22.818693835296 -78.254632192491
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (PP (TO to) (NP (NNP Cameroon))))))))
+-22.849387874827 -79.465606533532
+(S1 (S (CC and) (NP (PRP she)) (VP (VP (VBD came)) (PP (TO to) (NP (NNP Cameroon))))))
+-22.859870474409 -80.145920136298
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NN Cameroon))))))))
+-22.963896419003 -81.007245782276
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NP (NN Cameroon))))))))
+-22.966840354521 -77.375733477742
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (NP (NNP Cameroon)))))))
+-23.058205752224 -77.601537897058
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon)))))))
+-23.139438246170 -81.932438185960
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (VP (PP (TO to) (NP (NN Cameroon)))))))
+-23.338874381939 -79.730293580952
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came)) (PP (TO to) (NP (NN Cameroon)))))
+-23.609966957124 -78.749734867730
+(S1 (FRAG (S (CC and) (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon))))))))
+-23.644445760218 -78.774040690391
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NNP Cameroon))))))))
+-23.684347956055 -80.308833776038
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (NP (NN Cameroon)))))))
+-23.760574968169 -78.613581681887
+(S1 (S (NP (CC and) (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon))))))
+-23.761384776162 -79.172599543921
+(S1 (S (NP (CC and) (NP (PRP she))) (VP (VBD came) (PP (TO to) (NP (NN Cameroon))))))
+-23.776650231480 -80.831846293293
+(S1 (FRAG (S (CC and) (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon)))))))
+-23.883241819328 -81.123171234703
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (VP (PP (TO to) (NP (NNP Cameroon))))))))
+-23.931066166384 -84.084117133194
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (VP (TO to) (VP (NN Cameroon))))))
+-24.018244848239 -84.689308237947
+(S1 (S (CC and) (SBAR (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NN Cameroon)))))))))
+-24.203222963494 -84.737132110159
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (S (VP (PP (TO to) (NP (NN Cameroon))))))))
+-24.283389571454 -84.603614784594
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (SBAR (S (VP (TO to) (VP (NN Cameroon))))))))
+-24.314706012170 -82.167803706728
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NP (NNP Cameroon)))))))))
+-24.408191532126 -83.039064274672
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (VP (TO to) (VP (NNP Cameroon))))))
+-24.755765124047 -83.317428792040
+(S1 (S (CC and) (SBAR (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NNP Cameroon)))))))))
+-24.883439249321 -85.232234785398
+(S1 (FRAG (S (CC and) (S (NP (PRP she)) (VP (VBD came) (PP (TO to) (NP (NN Cameroon))))))))
+-24.992675180050 -83.231735338688
+(S1 (S (CC and) (NP (PRP she)) (VP (VBD came) (SBAR (S (VP (TO to) (VP (NNP Cameroon))))))))
+-25.325752612681 -83.927865286548
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (S (VP (PP (TO to) (NP (NNP Cameroon)))))))))
+-25.360243530843 -84.728990709087
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NN Cameroon))))))))
+-25.473899129118 -83.048966571799
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (NP (NNP Cameroon))))))))
+-25.581635676018 -84.048981225711
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NNP Cameroon)))))))))
+-26.149687875652 -83.357111263181
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NNP Cameroon))))))))
+-26.400390071111 -79.486069358222
+(S1 (FRAG (S (NP (CC and) (PRP she)) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon)))))))
+-26.401199879104 -80.045087220256
+(S1 (FRAG (S (NP (CC and) (NP (PRP she))) (VP (VBD came) (PP (TO to) (NP (NNP Cameroon)))))))
+-26.559794497326 -84.369154767239
+(S1 (S (NP (CC and) (PRP she)) (VP (VBD came) (S (VP (TO to) (VP (NNP Cameroon)))))))
+-26.561792045319 -84.928172629273
+(S1 (S (NP (CC and) (NP (PRP she))) (VP (VBD came) (S (VP (TO to) (VP (NNP Cameroon)))))))
+

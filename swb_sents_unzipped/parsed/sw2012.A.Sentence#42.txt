@@ -1,0 +1,102 @@
+50 x
+-31.137873018327 -106.674931107810
+(S1 (S (NP (JJ ev-) (JJR more)) (VP (VBD harmed) (NP (CC or) (NP (NN something))))))
+-31.589478638374 -102.357633642525
+(S1 (NP (NP (NP (CD ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something))))
+-31.998075905177 -106.866181052239
+(S1 (S (NP (PRP ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-32.350818312553 -105.946534576747
+(S1 (S (NP (NNP ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-32.393935105352 -99.851072929836
+(S1 (UCP (ADJP (ADVP (RB ev-) (RBR more)) (VBN harmed)) (CC or) (NP (NN something))))
+-32.513964853881 -104.303411419689
+(S1 (NP (NP (NP (JJ ev-) (JJR more)) (VP (VBN harmed))) (CC or) (NP (NN something))))
+-32.611852515274 -105.182733587285
+(S1 (NP (NP (NN ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (NP (NN something)))))
+-32.626313975626 -102.565694020512
+(S1 (NP (NP (NP (NN ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something))))
+-32.742505341880 -105.832538106092
+(S1 (S (NP (NNS ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-32.975783163642 -105.129879893177
+(S1 (NP (NP (NNP ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (NP (NN something)))))
+-33.004303994085 -102.503415029013
+(S1 (NP (NP (NP (NNS ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something))))
+-33.010950593508 -104.598379617344
+(S1 (UCP (ADJP (JJ ev-) (RBR more) (VBN harmed)) (CC or) (NP (NN something))))
+-33.025956188707 -106.357505421561
+(S1 (NP (NP (NNS ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (NP (NN something)))))
+-33.094114089817 -106.567832491668
+(S1 (S (NP (NN ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-33.201077453999 -102.561426683208
+(S1 (NP (NP (NP (JJ ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something))))
+-33.239289078574 -106.324187932064
+(S1 (UCP (RB ev-) (ADJP (RBR more) (VBN harmed)) (CC or) (NP (NN something))))
+-33.264549592586 -105.430770238228
+(S1 (NP (NP (JJ ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (NP (NN something)))))
+-33.266856496840 -105.541114349882
+(S1 (S (NP (JJ ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-33.405945660968 -105.515792014626
+(S1 (UCP (ADJP (RB ev-) (RBR more) (VBN harmed)) (CC or) (NP (NN something))))
+-33.498885027288 -107.067790050895
+(S1 (S (NP (NP (NP (CD ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something)))))
+-33.618968643916 -107.263449686921
+(S1 (NP (NP (JJ ev-) (JJR more) (VP (VBN harmed))) (CC or) (NP (NN something))))
+-33.671037013164 -108.100152205488
+(S1 (UCP (ADJP (CD ev-) (RBR more) (VBN harmed)) (CC or) (NP (NN something))))
+-33.780682953501 -107.036991393620
+(S1 (NP (NP (NP (NNP ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something))))
+-33.849782681443 -105.851653158434
+(S1 (FRAG (ADJP (JJ ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (NP (NN something)))))
+-33.939453391465 -108.326080708085
+(S1 (UCP (ADJP (NNP ev-) (RBR more) (VBN harmed)) (CC or) (NP (NN something))))
+-34.057466226576 -103.306980243978
+(S1 (FRAG (UCP (ADJP (ADVP (RB ev-) (RBR more)) (VBN harmed)) (CC or) (NP (NN something)))))
+-34.128199804555 -107.684708817194
+(S1 (FRAG (`` ev-) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-34.267942047008 -107.050688233730
+(S1 (S (UCP (ADJP (ADVP (RB ev-) (RBR more)) (VBN harmed)) (CC or) (NP (NN something)))))
+-34.370581662606 -104.284168259933
+(S1 (FRAG (ADJP (JJ ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-34.371306754724 -107.345628413698
+(S1 (UCP (ADJP (NP (CD ev-)) (RBR more) (VBN harmed)) (CC or) (NP (NN something))))
+-34.413445609152 -106.565160373756
+(S1 (FRAG (NP (NP (NP (NN ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something)))))
+-34.460595573095 -108.054286931486
+(S1 (FRAG (UCP (ADJP (JJ ev-) (RBR more) (VBN harmed)) (CC or) (NP (NN something)))))
+-34.596132842998 -107.275525839086
+(S1 (S (NP (NP (NP (NN ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something)))))
+-34.609415410963 -106.404942744375
+(S1 (FRAG (NP (NN ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-34.824199973001 -106.773537144337
+(S1 (S (NP (NP (NP (NNS ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something)))))
+-34.866836897622 -106.364381848460
+(S1 (FRAG (NP (NP (NP (NNS ev-)) (ADJP (RBR more) (VBN harmed))) (CC or) (NP (NN something)))))
+-34.934079646861 -102.764486632502
+(S1 (UCP (ADJP (ADVP (RB ev-) (RBR more)) (VBN harmed)) (CC or) (VP (NN something))))
+-34.936466836871 -107.833939494735
+(S1 (NP (NP (NN ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (VP (NN something)))))
+-35.019857318034 -104.250518440638
+(S1 (UCP (ADJP (ADVP (RB ev-) (JJR more)) (VBN harmed)) (CC or) (NP (NN something))))
+-35.025978539418 -107.715560091767
+(S1 (FRAG (ADJP (JJ ev-)) (S (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (NP (NN something))))))
+-35.051210937749 -107.700512857605
+(S1 (UCP (ADJP (NP (NN ev-)) (RBR more) (VBN harmed)) (CC or) (NP (NN something))))
+-35.402481420650 -108.147268126086
+(S1 (NP (NP (NNP ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (VP (NN something)))))
+-35.434343027630 -107.591379536631
+(S1 (FRAG (NP (NNP ev-)) (ADJP (RBR more) (VBN harmed) (CC or) (NN something))))
+-35.526447805220 -108.054343766557
+(S1 (UCP (ADJP (ADVP (RB ev-) (RBR more)) (VBN harmed)) (CC or) (VP (NP (NN something)))))
+-35.551095143381 -107.511793320010
+(S1 (UCP (ADJP (JJ ev-) (RBR more) (VBN harmed)) (CC or) (VP (NN something))))
+-35.622003522824 -108.199774068714
+(S1 (NP (NP (JJ ev-)) (UCP (ADJP (RBR more) (VBN harmed)) (CC or) (VP (NN something)))))
+-36.239287988810 -106.582062385739
+(S1 (UCP (ADJP (ADVP (NP (JJ ev-)) (RBR more)) (VBN harmed)) (CC or) (NP (NN something))))
+-36.689316435498 -107.706425754780
+(S1 (FRAG (UCP (ADJP (ADVP (RB ev-) (JJR more)) (VBN harmed)) (CC or) (NP (NN something)))))
+-36.735388324627 -106.644994944370
+(S1 (FRAG (UCP (ADJP (ADVP (RB ev-) (RBR more)) (VBN harmed)) (CC or) (VP (NN something)))))
+-37.560001867906 -107.163932143304
+(S1 (UCP (ADJP (ADVP (RB ev-) (JJR more)) (VBN harmed)) (CC or) (VP (NN something))))
+

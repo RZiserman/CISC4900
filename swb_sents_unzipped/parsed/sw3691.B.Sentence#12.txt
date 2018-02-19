@@ -1,0 +1,102 @@
+50 x
+-30.856912875665 -97.006218622871
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um)))))))
+-30.981537352412 -98.624491804973
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-31.042938195741 -97.963216918234
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um)))))))
+-31.167562672488 -99.581490100337
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-31.267692290175 -100.393406915829
+(S1 (S (ADVP (RB Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um)))))))
+-31.392316772498 -102.011680097932
+(S1 (S (ADVP (RB Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-32.090616362916 -103.759987800131
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once)) (ADVP (RB um)))))))
+-32.229324025239 -105.378260986797
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once)) (ADVP (RB um))))))))
+-32.276641682992 -104.716986095495
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once)) (ADVP (RB um)))))))
+-32.574129296720 -104.751898110069
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once)) (VP (VBN um))))))))
+-32.583351136997 -103.133624928248
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once)) (VP (VBN um)))))))
+-32.656693518620 -101.541452412578
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-32.701674525073 -104.090623223612
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once)) (VP (VBN um)))))))
+-32.786438490313 -100.599346975867
+(S1 (S (INTJ (RB Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um)))))))
+-32.842718838695 -102.498450707941
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (SBAR (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-32.911062972636 -102.217620157969
+(S1 (S (INTJ (RB Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-32.945324365896 -103.109996425058
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (RB that) (VP (VB happen) (ADVP (RB once) (RB um))))))
+-33.008451477684 -100.667605480885
+(S1 (S (RB Well) (S (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-33.067472938705 -104.928640705536
+(S1 (S (ADVP (RB Well)) (NP (PRP we)) (VP (VBD had) (SBAR (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-33.131349685971 -104.066994720421
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (RB that) (VP (VB happen) (ADVP (RB once) (RB um))))))
+-33.266633165129 -102.285878555860
+(S1 (S (RB Well) (S (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once) (RB um)))))))))
+-33.628618102561 -105.561022821590
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once)) (NP (NNS um)))))))
+-33.820432674755 -104.035590670582
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um)))))))))
+-33.944197234322 -105.653863701576
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once) (RB um))))))))))
+-33.959471268779 -105.262219136715
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (VP (ADVP (RB once)) (VBN um))))))))
+-34.006229991063 -105.333978947509
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once)) (NP (NN um)))))))
+-34.019306306325 -103.107536895587
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (NP (CD um))))))))
+-34.075978224772 -105.394940421779
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um))))))))))
+-34.114747755056 -103.643945878788
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (VP (ADVP (RB once)) (VBN um)))))))
+-34.120965379382 -105.292839884115
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (WHNP (WDT that)) (S (VP (VBP happen) (ADJP (RB once) (JJ um))))))))
+-34.164791924401 -104.064535190951
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (NP (CD um))))))))
+-34.227788744648 -104.725810077690
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADVP (RB once) (NP (CD um)))))))))
+-34.233071143132 -104.600944174152
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (VP (ADVP (RB once)) (VBN um)))))))
+-34.298468307378 -103.305909610018
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADJP (RB once) (JJ um)))))))
+-34.393713420446 -104.180192124711
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um)))))))))
+-34.398048619303 -102.348911314654
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADJP (RB once) (JJ um)))))))
+-34.586219138843 -105.134580765574
+(S1 (S (INTJ (RB Well)) (NP (PRP we)) (VP (VBD had) (SBAR (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um))))))))
+-34.685130827579 -104.924182930954
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADJP (RB once) (JJ um))))))))
+-34.751918731337 -105.202839163464
+(S1 (S (RB Well) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (RB um)))))))))
+-34.784711139503 -103.967184635590
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (ADJP (RB once) (JJ um))))))))
+-34.801815424247 -105.507447302639
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VB happen) (SBAR (RB once) (S (VP (VBN um))))))))))
+-34.912415335901 -105.493491420070
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VBP happen) (ADJP (RB once) (JJ um))))))))
+-34.928820516046 -103.889174005238
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (SBAR (RB once) (S (VP (VBN um)))))))))
+-35.011995647825 -104.536493124706
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (SBAR (IN that) (S (VP (VBP happen) (ADJP (RB once) (JJ um))))))))
+-35.047143904122 -104.846172300602
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (SBAR (RB once) (S (VP (VBN um)))))))))
+-35.106357346941 -105.106351410552
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (RB that) (VP (VB happen) (SBAR (RB once) (S (VP (VBN um))))))))
+-35.144088437537 -105.498212538912
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (JJ um)))))))
+-35.243668749462 -104.541214243549
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (ADVP (RB once) (JJ um)))))))
+-35.367043564560 -105.398803830701
+(S1 (S (RB Well) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (S (ADJP (RB once) (JJ um))))))))
+-35.466623876485 -104.441805535337
+(S1 (S (INTJ (UH Well)) (NP (PRP we)) (VP (VBD had) (S (NP (DT that)) (VP (VB happen) (S (ADJP (RB once) (JJ um))))))))
+

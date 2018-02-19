@@ -1,0 +1,102 @@
+50 x
+-27.023569967057 -97.165591194036
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there)))))))))
+-27.586654468166 -97.512850563412
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (EX there)))))))))
+-27.654747282739 -98.904932808663
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (NP (JJ real) (JJ competitive) (EX there)))))))))
+-27.780654679094 -95.693191155668
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there))))))))))
+-28.074118049071 -96.752880036922
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there)))))
+-28.195031840203 -96.040450525044
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (EX there))))))))))
+-28.263124651988 -97.432532770295
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (NP (JJ real) (JJ competitive) (EX there))))))))))
+-28.920134829866 -102.756463490892
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there))))))))
+-29.235124149202 -99.804169041848
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive))))) (ADVP (RB there))))))
+-29.275945260659 -99.963383494809
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (ADVP (RB there)))))))))
+-29.317635155419 -98.492221773796
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (NP (JJ real) (JJ competitive) (EX there)))))
+-29.388252931018 -99.233584665361
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive))) (ADVP (RB there))))))))
+-29.394053316496 -98.748214090092
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (RB there)))))))))
+-29.411902348936 -97.100139612606
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (EX there)))))
+-29.673838825095 -103.103723136660
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (EX there))))))))
+-29.677219550267 -101.284063452525
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there)))))))))
+-29.951984535976 -102.124289666892
+(S1 (S (IN because) (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there))))))))
+-29.980038056555 -103.124954475787
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBN felt) (NP (JJ real) (JJ competitive) (EX there)))))))))
+-29.987821115242 -103.178488522967
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (NP (JJ real) (JJ competitive)) (ADVP (RB there)))))))))
+-29.992208858451 -98.331769003481
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive))))) (ADVP (RB there)))))))
+-30.003267868251 -103.023405249091
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBD felt) (NP (JJ real) (JJ competitive) (EX there)))))))))
+-30.033029972695 -98.490983456442
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (ADVP (RB there))))))))))
+-30.145337640267 -97.761184626994
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive))) (ADVP (RB there)))))))))
+-30.151138025745 -97.275814051724
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (RB there))))))))))
+-30.282216205495 -101.631323098292
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (EX there)))))))))
+-30.473352001641 -99.550672532649
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (ADVP (RB there)))))
+-30.476992291994 -103.130731684214
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBN felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there)))))))))
+-30.662072227422 -103.398236069867
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (JJ real) (JJ competitive)) (ADVP (RB there))))))))))
+-30.678641917266 -98.335503139286
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (RB there)))))
+-30.705737453550 -102.491759496241
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (NP (EX there)))))))))
+-30.744905835642 -101.706088484599
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (NP (JJ real) (JJ competitive)) (ADVP (RB there))))))))))
+-30.952483954950 -102.765777572211
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (NP (JJ real) (JJ competitive)) (ADVP (RB there)))))
+-30.994314020116 -103.429628279334
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (EX there))))))))))
+-31.152041437571 -102.471549036269
+(S1 (S (IN because) (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (EX there))))))))
+-31.159961520251 -102.666268961999
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (S (ADJP (RB real) (JJ competitive))) (ADVP (RB there))))))))))
+-31.263060132834 -102.187118406250
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)))) (ADVP (RB there)))))))
+-31.314114833950 -101.019359457873
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (NP (EX there))))))))))
+-31.393660098365 -102.492840664261
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (NP (RB real) (JJ competitive)) (ADVP (RB there))))))))))
+-31.416491347594 -102.946776530172
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (S (ADJP (RB real) (JJ competitive)) (ADVP (RB there)))))))))))
+-31.672816652940 -103.402150504616
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (ADJP (RB real) (JJ competitive)) (ADVP (RB there)))))))))))
+-31.908599396168 -101.566210060136
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (NP (RB there)))))))))
+-32.047702955461 -102.866686624972
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (RB there)))))))))
+-32.235448471412 -102.234718484818
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (ADVP (RB there))))))))))
+-32.258460487381 -102.079048491471
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (NP (EX there)))))
+-32.563608678196 -103.303096439079
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (RB real) (ADJP (JJ competitive) (NP (EX there)))))))))))
+-32.649825640884 -102.581977854195
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADJP (RB real) (JJ competitive)) (NP (EX there))))))))))
+-32.665684088690 -100.093810021768
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (NP (RB there))))))))))
+-32.920663149999 -101.153499055366
+(S1 (S (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel)))) (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive)) (NP (RB there)))))
+-33.003815926301 -102.268982776590
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive))) (ADVP (RB there)))))))))
+-33.294954152849 -102.839567153077
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBD felt) (ADVP (RB real) (JJ competitive))))) (ADVP (RB there)))))))
+

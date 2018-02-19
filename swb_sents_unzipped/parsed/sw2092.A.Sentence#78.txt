@@ -1,0 +1,102 @@
+50 x
+-20.126860317244 -84.203459261961
+(S1 (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (DT a) (NN backpack))))))
+-20.281450071589 -84.327345301511
+(S1 (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))
+-21.224327329511 -83.997668049572
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (DT a) (NN backpack)))))))
+-21.378917083856 -84.121554089122
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))))
+-23.085770933601 -92.733920719178
+(S1 (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (NN backpack))))))
+-23.194073428266 -91.890714771893
+(S1 (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (DT a) (JJ backpack))))))
+-23.348663182611 -92.014600811443
+(S1 (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (JJ backpack))))))
+-24.116209574826 -92.287694001927
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (NN backpack)))))))
+-24.189717390533 -91.684923559504
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (DT a) (JJ backpack)))))))
+-24.344307144878 -91.808809599054
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (JJ backpack)))))))
+-24.724551321685 -91.359158978103
+(S1 (S (IN because) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (DT a) (NN backpack)))))
+-24.971524220099 -92.346927112371
+(S1 (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (S (NP (DT a) (NN backpack)))))))
+-24.977746194824 -98.316471069102
+(S1 (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (JJ backpack))))))
+-25.147176474444 -92.470813151921
+(S1 (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (S (NP (DT a) (NN backpack)))))))
+-25.174130824957 -97.760481278481
+(S1 (SBAR (IN because) (S (NP (PRP I)) (NP (NN I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))
+-25.180772662904 -95.239023416714
+(S1 (S (PP (IN because) (NP (PRP I))) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))
+-25.207495505821 -94.349275735731
+(S1 (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (S (NP (DT a) (NN backpack)))))))
+-25.347637725329 -99.403360913239
+(S1 (SBAR (IN because) (S (NP (NN I)) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))
+-25.408384207231 -97.361583835089
+(S1 (PP (IN because) (NP (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))))
+-25.626547189102 -95.527378952787
+(S1 (FRAG (PP (IN because) (NP (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))))))
+-25.628624015809 -94.093835213405
+(S1 (FRAG (PP (IN because) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))))))
+-25.720701880198 -96.726679685171
+(S1 (PP (IN because) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))))
+-25.906361786049 -97.870244351850
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (JJ backpack)))))))
+-26.043964140731 -97.065920036574
+(S1 (PP (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (NN backpack))))))
+-26.068991232366 -92.141135899982
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (S (NP (DT a) (NN backpack))))))))
+-26.171492977726 -99.371381063434
+(S1 (SBAR (IN because) (S (NP (PRP I) (NN I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))
+-26.237934147047 -93.903049018480
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (S (NP (DT a) (NN backpack))))))))
+-26.242680458104 -97.245910482398
+(S1 (S (ADVP (RB because)) (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))
+-26.244643486711 -92.265021939532
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (S (NP (DT a) (NN backpack))))))))
+-26.244648312145 -92.582028706558
+(S1 (S (RB because) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (DT a) (NN backpack)))))
+-26.271597837225 -97.554690066092
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (NP (NN I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))))
+-26.329283999473 -99.143464153642
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBN needed) (NP (DT a) (NN backpack)))))))
+-26.428543286974 -96.816694784756
+(S1 (S (PP (IN because) (NP (NN I))) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))
+-26.447879667026 -96.574117257858
+(S1 (S (IN because) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (NN backpack)))))
+-26.532701637596 -99.197569700850
+(S1 (FRAG (SBAR (IN because) (S (NP (NN I)) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))))
+-27.268959989993 -99.165589851045
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I) (NN I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))))
+-27.319297641609 -98.989827019803
+(S1 (FRAG (PP (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (NN backpack)))))))
+-27.346348142508 -99.046414488035
+(S1 (S (IN because) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (DT a) (JJ backpack)))))
+-27.421099074548 -97.745051642980
+(S1 (FRAG (RB because) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))))
+-27.508695159444 -99.195895051656
+(S1 (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (SBAR (S (NP (DT a) (NN backpack))))))))
+-27.684347413789 -99.319781091207
+(S1 (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (SBAR (S (NP (DT a) (NN backpack))))))))
+-28.094256170817 -98.480441101559
+(S1 (S (RB because) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (NP (DT a) (NN backpack)))))
+-28.187410990164 -98.681275051036
+(S1 (PP (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (S (NP (DT a) (NN backpack)))))))
+-28.464666851545 -99.098130430410
+(S1 (S (ADVP (IN because) (NP (PRP I))) (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack)))))
+-28.570222890822 -98.189472297071
+(S1 (S (IN because) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN needed) (S (NP (DT a) (NN backpack))))))
+-28.606162171711 -98.990103839267
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (SBAR (S (NP (DT a) (NN backpack)))))))))
+-28.650540641523 -99.210373197378
+(S1 (FRAG (SBAR (IN because) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD needed) (NP (NP (DT a)) (NN backpack)))))))
+-28.781814426057 -99.113989878818
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (SBAR (S (NP (DT a) (NN backpack)))))))))
+-28.846694095868 -99.334259236928
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD needed) (NP (NP (DT a)) (NN backpack)))))))
+-28.855668831233 -99.175940354024
+(S1 (FRAG (ADVP (RB because)) (NP (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBD needed) (NP (DT a) (NN backpack))))))))
+

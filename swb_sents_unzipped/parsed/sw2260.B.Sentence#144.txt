@@ -1,0 +1,102 @@
+50 x
+-14.640871885175 -53.451651289583
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-14.884100000896 -54.259146847326
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-14.934380668165 -54.082335004128
+(S1 (S (RB well) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-15.903516003908 -54.191807605756
+(S1 (S (ADVP (RB well)) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-15.911047535907 -54.661527843020
+(S1 (S (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-15.953722762829 -54.064400135219
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-17.120705490821 -60.846011938011
+(S1 (S (ADJP (RB well) (SBAR (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))))
+-17.179413740292 -60.024675598515
+(S1 (FRAG (RB well) (SBAR (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))))
+-17.288878932535 -61.945160248550
+(S1 (SBAR (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-17.444114634801 -59.631263389223
+(S1 (ADJP (RB well) (SBAR (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))))
+-17.650581721817 -61.009937663405
+(S1 (S (NP (RB well) (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-18.411758584466 -62.079942782160
+(S1 (S (ADVP (UH well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-18.416203121351 -62.751081937840
+(S1 (SQ (RB well) (NP (PRP I)) (VP (VB know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-18.497121702269 -62.805712306403
+(S1 (FRAG (ADVP (RB well)) (SBAR (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))))
+-18.638250652607 -61.296459290926
+(S1 (FRAG (ADJP (RB well) (SBAR (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))))
+-18.676977972551 -62.583677193604
+(S1 (FRAG (SBAR (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))))
+-19.021357849921 -66.991710632300
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (VB know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-19.037962673853 -67.591728535754
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (VP (VB know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-19.153692006927 -67.444372050760
+(S1 (S (RB well) (NP (PRP I)) (VP (VB know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-19.271516467478 -62.012603540590
+(S1 (S (ADVP (UH well)) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-19.555868681049 -67.536419369425
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (VBP know) (S (NP (PRP they)) (VP (MD will))))))
+-19.606134751899 -68.579499104915
+(S1 (SQ (RB well) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-19.753486606530 -68.669641990075
+(S1 (SBAR (ADVP (RB well)) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-19.764453280437 -69.026806029335
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VB will)))))))
+-19.799096796770 -68.343914927167
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (VP (VBP know) (S (NP (PRP they)) (VP (MD will))))))
+-19.831879807370 -66.634911904288
+(S1 (FRAG (S (INTJ (UH well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-19.849377464039 -68.167103083969
+(S1 (S (RB well) (NP (PRP I)) (VP (VBP know) (S (NP (PRP they)) (VP (MD will))))))
+-19.928426085449 -67.560302991278
+(S1 (ADJP (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-19.988761716159 -69.834301587078
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VB will)))))))
+-20.039042383427 -69.657489743880
+(S1 (S (RB well) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VB will)))))))
+-20.160898452856 -69.161014859037
+(S1 (S (NP (RB well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-20.264457313897 -69.446672321565
+(S1 (S (VP (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))))
+-20.276326605456 -69.786834680588
+(S1 (SBAR (S (INTJ (UH well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-20.343585631916 -68.072994497841
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (VB know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))
+-20.376913915652 -68.014289715402
+(S1 (FRAG (S (RB well) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-20.488654805302 -67.678759129356
+(S1 (FRAG (S (ADVP (RB well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-20.530966672568 -69.760697162288
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (VBP know) (NP (PRP they)) (VP (MD will))))
+-20.709363906174 -68.687958583343
+(S1 (VP (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-20.804341311419 -68.276575657825
+(S1 (S (ADVP (RB well)) (S (NP (PRP I)) (VP (VBP know) (S (NP (PRP they)) (VP (MD will)))))))
+-20.811872846206 -68.746295895088
+(S1 (S (RB well) (S (NP (PRP I)) (VP (VBP know) (S (NP (PRP they)) (VP (MD will)))))))
+-20.849801773171 -69.766962345508
+(S1 (S (ADVP (RB well)) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VB will))))))))
+-20.868719558703 -68.149168215060
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (VBP know) (S (NP (PRP they)) (VP (MD will))))))
+-20.951416043409 -66.982631769686
+(S1 (FRAG (VP (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))))
+-21.058384475304 -69.639554874970
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VB will)))))))
+-21.078586376638 -67.921050007494
+(S1 (SBAR (S (NP (RB well) (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-21.170880281444 -69.492583420669
+(S1 (FRAG (ADJP (RB well) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will)))))))))
+-21.210686769438 -67.567743543273
+(S1 (S (RB well) (S (NP (PRP I)) (VP (VBP know) (NP (PRP they)))) (VP (MD will))))
+-21.406355724274 -65.874684866773
+(S1 (FRAG (S (NP (RB well) (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-21.487576120332 -67.439458855365
+(S1 (FRAG (S (INTJ (RB well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (MD will))))))))
+-21.669789293367 -69.216918703930
+(S1 (S (ADVP (RB well)) (S (NP (PRP I)) (VP (VBP know) (NP (PRP they)))) (VP (MD will))))
+

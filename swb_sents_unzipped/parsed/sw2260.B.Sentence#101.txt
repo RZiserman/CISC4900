@@ -1,0 +1,102 @@
+50 x
+-16.081223859641 -57.373914793024
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-16.449816799249 -59.233576700237
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-18.204120939454 -65.804645819025
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-18.711497525184 -65.027092557018
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-18.893511288201 -66.747848324899
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (NP (VBG talking)) (PP (TO to) (NP (PRP you))))))
+-18.993805302308 -67.491232176310
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (NP (NN talking)) (PP (TO to) (NP (PRP you))))))
+-19.295264090850 -62.976706105372
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-19.746282345059 -66.668409456802
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-20.088207600142 -70.146322572970
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (NP (NP (NN talking)) (PP (TO to) (NP (PRP you)))))))
+-20.245536387630 -71.021619144335
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (NP (NP (VBG talking)) (PP (TO to) (NP (PRP you)))))))
+-20.551915755306 -71.234426939411
+(S1 (S (NP (PRP I)) (VP (VP (VBD enjoyed)) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-20.868779655307 -70.258141185699
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-20.874336435823 -70.318727094012
+(S1 (S (NP (NN I)) (VP (VBD enjoyed) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-20.976286033071 -76.793508048102
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (NP (NN talking)) (PP (TO to) (NP (PRP you))))))
+-21.024532775431 -72.178389001226
+(S1 (S (NP (NN I)) (VP (VBD enjoyed) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-21.108636715361 -67.447024928117
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (ADJP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.128005671002 -76.081454380407
+(S1 (S (NP (NN I)) (VP (VBN enjoyed) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-21.201457289166 -72.543142370633
+(S1 (NP (NP (NN I)) (VP (VBN enjoyed) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-21.450053066283 -74.650337357496
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (NP (VBG talking)) (PP (TO to) (NP (PRP you))))))
+-21.713367816732 -75.303901118400
+(S1 (S (NP (NN I)) (VP (VBN enjoyed) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.809644403221 -73.739644699325
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (S (VP (VBG talking))) (PP (TO to) (NP (PRP you))))))
+-22.005599538658 -78.843339508428
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (NP (NP (NN talking)) (PP (TO to) (NP (PRP you)))))))
+-22.013330015870 -70.246186015932
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (ADJP (VBG talking)) (PP (TO to) (NP (PRP you))))))
+-22.225227548671 -74.681368823312
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (S (VP (NN talking) (PP (TO to) (NP (PRP you))))))))
+-22.236822105294 -75.421598939629
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (VP (NN talking) (PP (TO to) (NP (PRP you)))))))
+-22.384831849123 -73.152768451887
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (S (ADJP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.713313901414 -76.763510391298
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (NP (NP (VBG talking)) (PP (TO to) (NP (PRP you)))))))
+-22.883750276608 -76.945218018184
+(S1 (S (NP (NN I)) (VP (VBN enjoyed) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-22.903178193030 -78.476761810749
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (S (VP (VBG talking))) (PP (TO to) (NP (PRP you))))))
+-22.942744579371 -70.842663746631
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed)) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-23.010494553281 -72.552360627517
+(S1 (NP (NP (NN I)) (VP (VBN enjoyed) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-23.034063971158 -77.554341230105
+(S1 (S (NP (PRP I)) (VP (VP (VBN enjoyed)) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-23.064107764444 -75.249036001248
+(S1 (NP (NP (NN I)) (VP (VBD enjoyed) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.114444332195 -78.063953958421
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-23.252681413205 -75.033198528457
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (VP (PP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.419635882515 -77.150935860394
+(S1 (S (NP (NP (NN I)) (VP (VBN enjoyed) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-23.428992884672 -76.553679218773
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (S (ADJP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.606218978737 -74.913415942837
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (ADJP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-23.820443209339 -77.267706517458
+(S1 (NP (NP (NN I)) (VP (VBN enjoyed) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-23.928602698900 -76.270035785423
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (ADJP (VBG talking)) (PP (TO to) (NP (PRP you))))))
+-24.186181247031 -75.921518406360
+(S1 (S (NP (NN I)) (VP (VBD enjoyed) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-24.255446130049 -78.078944354330
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (SBAR (S (VP (NN talking) (PP (TO to) (NP (PRP you)))))))))
+-24.386395122200 -78.674059143956
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (S (VP (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-24.500921403816 -77.909495806693
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (S (NP (NP (NN talking)) (PP (TO to) (NP (PRP you))))))))
+-24.517283198869 -73.014274795908
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (ADJP (ADJP (VBG talking)) (PP (TO to) (NP (PRP you)))))))
+-24.689700225829 -77.325380819859
+(S1 (S (NP (PRP I)) (VP (VBD enjoyed) (S (PP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-24.696332797392 -77.414746781951
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed)) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-24.868972308068 -79.119634665788
+(S1 (NP (NP (NN I)) (VP (VBD enjoyed) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.370182220417 -77.160154125407
+(S1 (S (NP (NP (NN I)) (VP (VBN enjoyed) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-25.600397660668 -77.680801324900
+(S1 (S (NP (PRP I)) (VP (VBN enjoyed) (S (ADJP (ADJP (VBG talking)) (PP (TO to) (NP (PRP you))))))))
+

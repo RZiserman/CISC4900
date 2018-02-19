@@ -1,0 +1,102 @@
+50 x
+-22.132456344249 -72.806050409462
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (VP (VBN started)))))
+-22.189833875389 -75.397594441858
+(S1 (S (VP (VB Let) (S (VP (POS 's) (ADVP (RB just)) (VP (VB get) (VP (VBN started))))))))
+-22.247174150930 -69.882253618106
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (VP (VBN started)))))
+-22.544925708820 -77.666248960966
+(S1 (S (VP (VB Let) (S (VP (POS 's) (ADVP (RB just)) (VP (VB get) (VP (VBD started))))))))
+-22.731323157067 -76.140753586610
+(S1 (S (VP (VB Let) (S (VP (POS 's) (ADVP (RB just)) (VP (VB get) (S (VP (VBN started)))))))))
+-22.878094444093 -74.998784693421
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VBP get) (VP (VBN started)))))
+-22.881009634185 -76.629299933935
+(S1 (S (VP (VB Let) (S (VP (POS 's) (RB just) (VP (VB get) (VP (VBN started))))))))
+-22.926264685321 -76.460322257392
+(S1 (S (VP (VB Let) (S (VP (POS 's) (S (ADVP (RB just)) (VP (VB get) (VP (VBN started)))))))))
+-23.083074366719 -72.445615298750
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VBP get) (VP (VBN started)))))
+-23.119068216925 -76.928790070581
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (VP (VBD started)))))
+-23.292478693605 -74.004993279226
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (VP (VBD started)))))
+-23.363563737617 -78.897954453044
+(S1 (S (VP (VB Let) (S (VP (POS 's) (RB just) (VP (VB get) (VP (VBD started))))))))
+-23.453646005863 -77.372459078687
+(S1 (S (VP (VB Let) (S (VP (POS 's) (RB just) (VP (VB get) (S (VP (VBN started)))))))))
+-23.458381275052 -77.519082842609
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VBP get) (VP (VBD started)))))
+-23.722053867678 -74.965913447938
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VBP get) (VP (VBD started)))))
+-23.930104043343 -77.212913560242
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (S (VP (VBN started))))))
+-24.044821850024 -74.289116768886
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (S (VP (VBN started))))))
+-24.162424566599 -77.338796070078
+(S1 (S (NP (NNP Let) (POS 's)) (RB just) (VP (VB get) (VP (VBN started)))))
+-24.273656033279 -74.414999278722
+(S1 (S (NP (VB Let) (POS 's)) (RB just) (VP (VB get) (VP (VBN started)))))
+-24.388382513000 -78.125003438271
+(S1 (S (VP (VB Let) (S (VP (POS 's) (SBAR (S (ADVP (RB just)) (VP (VB get) (VP (VBN started))))))))))
+-24.652084394620 -78.215902847540
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VBP get) (S (VP (VBN started))))))
+-24.787842108226 -76.388718574385
+(S1 (S (VP (VB Let) (SBAR (S (VP (VBZ 's) (S (ADVP (RB just)) (VP (VB get) (VP (VBN started))))))))))
+-24.857064314458 -75.662733452869
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VBP get) (S (VP (VBN started))))))
+-24.903152888658 -78.256407162818
+(S1 (S (NP (VBP Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (VP (VBN started)))))
+-24.932171679209 -77.700044707182
+(S1 (S (VP (VB Let) (S (VP (POS 's) (ADVP (RB just)) (VP (VB get) (S (ADJP (VBN started)))))))))
+-24.970409216748 -78.814441323159
+(S1 (S (VP (VB Let) (S (VP (POS 's) (SBAR (S (ADVP (RB just)) (VP (VBP get) (VP (VBN started))))))))))
+-25.007590213469 -77.400479551171
+(S1 (S (VP (VB Let) (S (VP (POS 's) (ADVP (RB just)) (VP (VB get) (ADJP (VBN started))))))))
+-25.058186825996 -74.974638664145
+(S1 (S (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (S (VP (VBN started))))))))))
+-25.090207566375 -78.570909925432
+(S1 (S (VP (VB Let) (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (S (VP (VBN started)))))))))
+-25.097192523355 -76.487792829860
+(S1 (S (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (VP (VBN started)))))))))
+-25.446422845954 -78.537738939842
+(S1 (S (NP (VB Let) (POS 's)) (RB just) (VP (VB get) (VP (VBD started)))))
+-25.652125580934 -75.296949438408
+(S1 (S (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (S (VP (VB get) (VP (VBN started))))))))))
+-25.654494528006 -78.931750199260
+(S1 (S (VP (VB Let) (S (VP (POS 's) (RB just) (VP (VB get) (S (ADJP (VBN started)))))))))
+-25.700592532266 -78.632185043248
+(S1 (S (VP (VB Let) (S (VP (POS 's) (RB just) (VP (VB get) (ADJP (VBN started))))))))
+-25.823688848889 -78.893220725572
+(S1 (S (VP (VB Let) (S (VP (VBZ 's) (ADVP (RB just)) (S (VP (VB get) (VP (VBN started)))))))))
+-25.965942181786 -78.756447348969
+(S1 (S (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (VP (VBD started)))))))))
+-26.035007856607 -78.428044215848
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (S (ADJP (VBN started))))))
+-26.071303796492 -78.821862656349
+(S1 (S (NP (VB Let) (POS 's)) (RB just) (VP (VB get) (S (VP (VBN started))))))
+-26.149725660500 -75.504247424492
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (S (ADJP (VBN started))))))
+-26.177234551387 -77.666823271081
+(S1 (S (NP (NNP Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (ADJP (VBN started)))))
+-26.291952358068 -74.743026479726
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VB get) (ADJP (VBN started)))))
+-26.707586840713 -76.557237089458
+(S1 (S (NP (VB Let) (POS 's)) (ADVP (RB just)) (VP (VBP get) (S (ADJP (VBN started))))))
+-26.814803448082 -78.961953250303
+(S1 (S (NP (VB Let) (POS 's)) (VP (ADVP (RB just)) (VBP get) (S (VP (VBN started))))))
+-26.911600101716 -78.194574676778
+(S1 (VP (VB Let) (SBAR (S (VP (VBZ 's) (S (ADVP (RB just)) (VP (VB get) (VP (VBN started)))))))))
+-27.046535709486 -76.780494766539
+(S1 (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (S (VP (VBN started)))))))))
+-27.085541404056 -78.293648932254
+(S1 (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (VP (VBN started))))))))
+-27.259035348139 -76.533929784718
+(S1 (S (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (S (ADJP (VBN started))))))))))
+-27.722220675510 -77.639440859062
+(S1 (S (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (ADJP (VBN started)))))))))
+-28.121144571636 -77.102805540801
+(S1 (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (S (VP (VB get) (VP (VBN started)))))))))
+-29.247384231628 -78.339785887111
+(S1 (VP (VB Let) (SBAR (S (VP (VBZ 's) (ADVP (RB just)) (VP (VB get) (S (ADJP (VBN started)))))))))
+

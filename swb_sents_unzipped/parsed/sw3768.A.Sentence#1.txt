@@ -1,0 +1,102 @@
+50 x
+-41.197053753409 -140.859670968962
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WHNP (WDT what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx))))))))))))
+-41.441070017666 -140.327517829705
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WHNP (WDT what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx))))))))))))
+-41.825959737947 -139.956565356751
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WHNP (WDT what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-41.997186573831 -137.273525189343
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx))))))))))))
+-42.241202865966 -136.741372050086
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx))))))))))))
+-42.371552494705 -136.681831162548
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx))))))))))))
+-42.615568758962 -136.149678023291
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx))))))))))))
+-42.653253704004 -139.424412217494
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WHNP (WDT what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-42.831301170875 -143.687515458749
+(S1 (FRAG (RB Well) (SBAR (WHNP (WHNP (WDT what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-43.453402879378 -140.370718239576
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-43.658595136932 -143.155362319492
+(S1 (FRAG (RB Well) (SBAR (WHNP (WHNP (WDT what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-43.843308277252 -139.779024212781
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-43.844298655339 -143.986268626457
+(S1 (FRAG (RB Well) (SBAR (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-43.963753046841 -144.330988503517
+(S1 (SBAR (WHNP (RB Well) (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx))))))))))))
+-44.005332468777 -144.410035426446
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WDT what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-44.059262973313 -139.838565100319
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.121275619462 -139.670459890311
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-44.148009455723 -143.594682701269
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNS MUMBLEx))))))))))))
+-44.216126422715 -141.141675455136
+(S1 (FRAG (WHNP (RB Well) (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-44.233990276213 -143.394574599662
+(S1 (FRAG (RB Well) (SBAR (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-44.282743515275 -141.714388762319
+(S1 (FRAG (RB Well) (WHNP (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-44.292502293858 -142.985201999954
+(S1 (FRAG (WHNP (RB Well) (WDT what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-44.449168371187 -139.246871073524
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.450158749275 -143.454115487200
+(S1 (FRAG (RB Well) (SBAR (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.522375376597 -143.002988674473
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNS MUMBLEx))))))))))))
+-44.677033742712 -143.877882287188
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WDT what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.792976893397 -139.138306751053
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.839850370149 -142.862421460405
+(S1 (FRAG (RB Well) (SBAR (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.887827668772 -140.609522315879
+(S1 (FRAG (WHNP (RB Well) (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.954444761332 -141.182235623062
+(S1 (FRAG (RB Well) (WHNP (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-44.964203567793 -142.453048860696
+(S1 (FRAG (WHNP (RB Well) (WDT what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-45.046858021562 -144.687514193431
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT what) (NN kind)) (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-45.089483464378 -144.438363870413
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))
+-45.129441073348 -144.169157731723
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))
+-45.198112973064 -142.491588441352
+(S1 (FRAG (WHNP (ADVP (RB Well)) (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-45.297281441639 -144.497904757951
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))
+-45.474039151526 -144.242666413478
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (NP (NP (NN kind)) (PP (IN of) (NP (NNS vacations)))) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx))))))))))))
+-45.671647334635 -143.906210731155
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))
+-45.771273395661 -143.710513274220
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (NP (NP (NN kind)) (PP (IN of) (NP (NNS vacations)))) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx))))))))))))
+-45.833101485497 -144.155361054173
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT what) (NN kind)) (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-45.869814246999 -141.959435302095
+(S1 (FRAG (WHNP (ADVP (RB Well)) (WP what) (NN kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-46.000713952482 -144.532085569630
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WP what) (RB kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-46.634810722149 -142.685249111702
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (ADJP (JJ MUMBLEx))))))))))))
+-46.881639088540 -143.999932430373
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WP what) (RB kind)) (SBAR (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-46.919767384307 -144.343887260824
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WP what)) (SBAR (ADVP (RB kind)) (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NN MUMBLEx)))))))))))))
+-46.979145531887 -144.165698676819
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what) (NN kind)) (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-47.009176643023 -142.093555084907
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (ADJP (JJ MUMBLEx))))))))))))
+-47.315613230364 -143.811734121566
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WP what)) (SBAR (ADVP (RB kind)) (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-47.495866443300 -144.687072350819
+(S1 (FRAG (WHNP (RB Well) (WP what)) (SBAR (ADVP (RB kind)) (IN of) (S (NP (NNS vacations)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (NNP MUMBLEx)))))))))))))
+-47.803449041353 -144.677661294659
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what) (NN kind) (PP (IN of) (NP (NNS vacations)))) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP like) (S (VP (TO to) (VP (VB take) (NP (JJ MUMBLEx))))))))))))
+

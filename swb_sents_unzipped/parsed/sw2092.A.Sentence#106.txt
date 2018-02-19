@@ -1,0 +1,102 @@
+50 x
+-23.630989994359 -81.701317969382
+(S1 (S (CC and) (ADVP (RB so)) (PP (IN like) (NP (PRP$ my) (NN roommate))) (VP (VBD went) (ADVP (RB home)))))
+-24.037787719362 -77.620979717674
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-24.616744230410 -81.468117596369
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (NN home)))))))
+-24.694788125640 -76.878299234559
+(S1 (FRAG (CC and) (RB so) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-24.910285631954 -85.548455726651
+(S1 (S (CC and) (ADVP (RB so)) (PP (IN like) (NP (PRP$ my) (NN roommate))) (VP (VBD went) (NP (NN home)))))
+-25.155016670833 -80.301182605418
+(S1 (S (CC and) (ADVP (RB so)) (PP (IN like) (NP (PRP$ my) (NN roommate))) (VP (VBD went) (ADVP (NN home)))))
+-25.286698446689 -80.725437113254
+(S1 (FRAG (CC and) (RB so) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (NN home)))))))
+-25.322595033049 -76.220844353710
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-25.827042585591 -83.645773389091
+(S1 (S (CC and) (SBAR (RB so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-25.992549252115 -75.478163870595
+(S1 (FRAG (CC and) (RB so) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-26.260803336340 -88.118753525159
+(S1 (S (CC and) (ADVP (IN so)) (PP (IN like) (NP (PRP$ my) (NN roommate))) (VP (VBD went) (ADVP (RB home)))))
+-26.395125279678 -85.008611726053
+(S1 (S (CC and) (SBAR (IN so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-26.437910920773 -83.877957268051
+(S1 (FRAG (CC and) (SBAR (ADVP (RB so)) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-26.678162057041 -84.084080717350
+(S1 (FRAG (CC and) (SBAR (RB so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-26.729822918134 -88.078370571449
+(S1 (SINV (CC and) (ADVP (RB so)) (PP (IN like) (NP (PRP$ my) (NN roommate))) (VBD went) (NP (NN home))))
+-26.941145776639 -87.492911267786
+(S1 (S (CC and) (SBAR (RB so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (NN home)))))))
+-26.981741570279 -84.380714349520
+(S1 (FRAG (CC and) (SBAR (IN so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-27.001510028413 -88.164284514949
+(S1 (S (CC and) (ADVP (RB so) (IN like)) (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))
+-27.124327011822 -87.725095146746
+(S1 (FRAG (CC and) (SBAR (ADVP (RB so)) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (NN home)))))))
+-27.146326942741 -86.549649273006
+(S1 (S (CC and) (RB so) (VP (VBP like) (SBAR (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home))))))))
+-27.175523738457 -85.322361459273
+(S1 (FRAG (ADVP (CC and) (RB so)) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-27.249765859157 -86.479623950537
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (RB home)))))))
+-27.352792782065 -82.245638025127
+(S1 (S (CC and) (SBAR (RB so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-27.364578148089 -87.931218596045
+(S1 (FRAG (CC and) (SBAR (RB so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (NN home)))))))
+-27.466218150124 -86.498927991050
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (WHADVP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-27.544083344342 -87.197469986814
+(S1 (SINV (CC and) (ADVP (RB so)) (PP (IN like) (NP (PRP$ my) (NN roommate))) (VBD went) (NP (RB home))))
+-27.614139091664 -84.052358665158
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (WHNP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-27.774136673364 -83.608476362089
+(S1 (S (CC and) (SBAR (IN so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-27.784830010027 -86.718618161195
+(S1 (S (CC and) (ADVP (IN so)) (PP (IN like) (NP (PRP$ my) (NN roommate))) (VP (VBD went) (ADVP (NN home)))))
+-27.830177814460 -82.477821904086
+(S1 (FRAG (CC and) (SBAR (ADVP (RB so)) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-27.906766268223 -85.736943467422
+(S1 (FRAG (CC and) (RB so) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (RB home)))))))
+-28.070428950728 -82.683945353386
+(S1 (FRAG (CC and) (SBAR (RB so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-28.227269666753 -82.980578985556
+(S1 (FRAG (CC and) (SBAR (IN so) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-28.262464486039 -86.193500047101
+(S1 (FRAG (CC and) (RB so) (SBAR (WHADVP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-28.317359552686 -86.993069787447
+(S1 (S (CC and) (SBAR (ADVP (RB so)) (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-28.410385424791 -83.746930721209
+(S1 (FRAG (CC and) (RB so) (SBAR (WHNP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (RB home)))))))
+-28.463950864932 -83.922226095309
+(S1 (FRAG (ADVP (CC and) (RB so)) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-28.557864104888 -86.764149150985
+(S1 (S (CC and) (ADVP (RB so) (IN like)) (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))
+-28.562567847404 -88.116459624873
+(S1 (FRAG (CC and) (ADVP (IN so)) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-28.730771089216 -85.149513909042
+(S1 (S (CC and) (RB so) (VP (VBP like) (SBAR (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home))))))))
+-28.751025466599 -85.098792627086
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (WHADVP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-28.898946405351 -82.652223301193
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (WHNP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-29.165202099925 -87.899496543853
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (WHNP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (NN home)))))))
+-29.527863834990 -87.298021631753
+(S1 (S (CC and) (RB so) (VP (VB like) (SBAR (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home))))))))
+-29.551379238930 -87.682351900331
+(S1 (FRAG (CC and) (RB so) (SBAR (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADJP (RB home)))))))
+-29.560225609726 -84.793364683137
+(S1 (FRAG (CC and) (RB so) (SBAR (WHADVP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-29.708146551265 -82.346795357245
+(S1 (FRAG (CC and) (RB so) (SBAR (WHNP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-29.974402245839 -87.594068599904
+(S1 (FRAG (CC and) (RB so) (SBAR (WHNP (IN like)) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (NP (NN home)))))))
+-30.030773052409 -88.111011948008
+(S1 (FRAG (CC and) (ADVP (RB so)) (VP (IN like) (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home)))))))
+-30.084941043518 -86.886204491217
+(S1 (FRAG (CC and) (ADVP (RB so)) (VP (VB like) (SBAR (S (NP (PRP$ my) (NN roommate)) (VP (VBD went) (ADVP (NN home))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-23.265750163454 -76.264248670673
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-24.091272960665 -79.421218030605
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-24.204993724343 -75.149787676226
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NN state) (NN tax)))) (PP (IN in) (NP (NNP California)))))
+-24.428718419440 -78.730356382279
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-25.185908279439 -82.989837375606
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (NP (NP (NN pay) (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-25.293308443783 -81.635911299661
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (NN pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-25.501516739604 -81.488934871841
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-25.541476416651 -81.887325742212
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-25.807665422112 -85.771399805246
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (NP (NN pay) (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))
+-25.943811639845 -86.967726985376
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did)) (VP (VBP pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))
+-26.019073809604 -88.867123421489
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did)) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))
+-26.210614283957 -89.266670064098
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did)) (VP (VBP pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-26.312049224670 -84.519190182344
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-26.340465329769 -84.102019011267
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (VP (NN pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-26.544232379784 -82.434248168018
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did))) (VP (VBP pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))
+-26.682499589549 -84.209665480948
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (NP (NN pay) (NN state) (NN tax))) (PP (IN in) (NP (NNP California)))))
+-26.731703931972 -85.455944967618
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (NP (NP (NN pay) (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-26.795944376810 -84.745246023959
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did))) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))
+-26.843819429735 -88.237507490528
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (NP (NN pay) (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-26.962300026684 -84.733191246741
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did))) (VP (VBP pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-27.004149438165 -83.955042603378
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-27.245318242874 -89.048371342170
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VBP pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-27.361807376966 -90.068337034581
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VBP pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-27.394173539356 -84.342532781677
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-27.441232814626 -80.611888841318
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NN state) (NN tax))))) (PP (IN in) (NP (NNP California)))))
+-27.550787709112 -85.031847640483
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NN state) (NN tax)))) (PP (IN in) (NP (NNP California))))))
+-27.743259294545 -89.999695766356
+(S1 (S (CC And) (NP (PRP I)) (VP (VP (VBD did)) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-27.792997499088 -87.775501318292
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did))) (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-27.814681923232 -86.985297913881
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))))
+-27.897377926179 -84.086389190615
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-27.897687670492 -85.975660938209
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VBP pay) (NP (NN state) (NN tax)))) (PP (IN in) (NP (NNP California)))))
+-27.920596945796 -85.818397531390
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD did) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-28.191548709998 -87.372788111294
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))))
+-28.230590377884 -84.255144962824
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VBP pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-28.289878403061 -89.231770036655
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (S (VP (VBP pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-28.311778541109 -86.842286787122
+(S1 (FRAG (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-28.393863650029 -88.217091767401
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VB pay) (S (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-28.703491361815 -86.554087846004
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VBP pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))))
+-28.722900723390 -87.243358550547
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-28.746119743007 -88.975366891322
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD did) (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-28.861450887400 -87.497955432393
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NN state) (NN tax)))) (PP (IN in) (NP (NNP California)))))))
+-28.920998351403 -86.808640444696
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))))
+-29.137301338321 -89.999256147054
+(S1 (FRAG (S (CC And) (NP (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-29.348995949038 -87.922766214444
+(S1 (S (NP (CC And) (PRP I)) (VP (VBD did) (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))
+-29.625400647950 -88.205353443806
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD did) (S (VP (VBP pay) (NP (NN state) (NN tax))))) (PP (IN in) (NP (NNP California)))))
+-29.718373522045 -89.838895774313
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VB pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))))
+-29.757415192719 -86.721252625843
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VBP pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))))
+-29.961992846508 -89.458051819602
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBD did) (VP (NN pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California))))))))
+-30.047984856087 -89.311075258575
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBD did) (S (VP (VB pay) (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))
+-30.230316173862 -89.020195509023
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VBP pay) (NP (NP (NN state) (NN tax)) (PP (IN in) (NP (NNP California)))))))))))
+

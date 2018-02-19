@@ -1,0 +1,102 @@
+50 x
+-26.207117686610 -95.636413259245
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VBP play) (ADVP (RB racquetball)))))
+-26.229337654084 -92.984660214049
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VBP play) (NP (NN racquetball)))))
+-27.185370556532 -95.898654111441
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball)))))
+-27.281618244452 -96.517123785411
+(S1 (S (CC and) (VP (VB um) (S (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball)))))))
+-27.460011977533 -97.554343383823
+(S1 (S (CC and) (RB um) (NP (PRP I)) (VP (VBP play) (ADVP (RB racquetball)))))
+-27.482231947795 -94.902590338627
+(S1 (S (CC and) (RB um) (NP (PRP I)) (VP (VBP play) (NP (NN racquetball)))))
+-27.547597713878 -97.546816481483
+(S1 (S (CC and) (VBP um) (NP (PRP I)) (VP (VBP play) (ADVP (RB racquetball)))))
+-27.609209753253 -97.787398808592
+(S1 (S (CC and) (VP (VB um) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))))
+-27.684986021140 -94.895063436287
+(S1 (S (CC and) (VBP um) (NP (PRP I)) (VP (VBP play) (NP (NN racquetball)))))
+-27.820572148225 -96.981009475310
+(S1 (S (CC and) (NP (NNS um)) (NP (PRP I)) (VP (VBP play) (NP (NN racquetball)))))
+-27.847311707343 -93.519852786114
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball)))))
+-27.965929663071 -97.905084788488
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VB play) (NP (NN racquetball)))))
+-28.040957458034 -97.960067537569
+(S1 (S (CC and) (VP (VBP um) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))))
+-28.078558364020 -98.846189504067
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VBP play) (VP (VB racquetball)))))
+-28.104128631881 -96.264475204348
+(S1 (X (CC and) (S (VP (VBG um) (S (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball))))))))
+-28.237637622020 -97.899319231359
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VBP play) (RB racquetball))))
+-28.238336212998 -99.222598195642
+(S1 (FRAG (CC and) (NP (NP (NNS um)) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))))
+-28.306225463908 -96.258632182700
+(S1 (FRAG (CC and) (RB um) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball)))))))
+-28.359537517722 -98.523554196570
+(S1 (S (CC and) (VP (VB um) (S (NP (PRP I)) (VP (VB play) (NP (NN racquetball)))))))
+-28.580075914951 -98.991067685922
+(S1 (X (CC and) (S (VP (VBG um) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball)))))))))
+-28.636572469439 -96.363780638989
+(S1 (SQ (CC and) (VBZ um) (NP (PRP I)) (VP (VB play) (NP (NN racquetball)))))
+-28.666905683030 -97.340884657819
+(S1 (FRAG (CC and) (NP (NP (NN um)) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))))
+-28.694275032238 -98.270905615507
+(S1 (X (CC and) (S (VP (VBG um) (S (NP (PRP I)) (VP (VB play) (NP (NN racquetball))))))))
+-28.730927023661 -95.694045647237
+(S1 (SQ (CC and) (VBD um) (NP (PRP I)) (VP (VB play) (NP (NN racquetball)))))
+-28.742312918389 -98.701912535675
+(S1 (S (CC and) (RB um) (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball)))))
+-28.794937685141 -97.150216916898
+(S1 (S (CC and) (VBP um) (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball)))))
+-28.836482991335 -99.240058533058
+(S1 (S (CC and) (VP (VBD um) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))))
+-28.845677065800 -98.910384927326
+(S1 (FRAG (CC and) (RB um) (SBAR (S (NP (PRP I)) (VP (VBP play) (ADVP (RB racquetball)))))))
+-28.854802621953 -98.869575955642
+(S1 (S (CC and) (S (ADVP (RB um)) (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))
+-29.100205998267 -95.437782910692
+(S1 (S (CC and) (RB um) (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball)))))
+-29.188261666367 -98.840225580815
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VB play) (ADJP (JJ racquetball)))))
+-29.201761886612 -95.430256008352
+(S1 (S (CC and) (VBP um) (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball)))))
+-29.358801129893 -99.156647593945
+(S1 (S (CC and) (VBP um) (NP (PRP I)) (VP (VB play) (NP (NN racquetball)))))
+-29.438546198697 -97.516202047375
+(S1 (S (CC and) (NP (NNS um)) (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball)))))
+-29.507375851728 -97.101833306146
+(S1 (FRAG (CC and) (VP (VB um) (S (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball)))))))
+-29.540280728471 -98.963647276378
+(S1 (SQ (CC and) (VBD um) (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball)))))
+-29.630077024210 -98.322591308524
+(S1 (S (CC and) (VP (VB um) (SBAR (S (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball))))))))
+-29.858135894345 -96.843917492752
+(S1 (SQ (CC and) (VBZ um) (NP (PRP I)) (VP (VB play) (ADJP (JJ racquetball)))))
+-29.907277258991 -98.495260037501
+(S1 (S (CC and) (VP (VBP um) (SBAR (S (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball))))))))
+-29.910980765936 -99.176687026387
+(S1 (FRAG (CC and) (VP (VB um) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))))
+-29.913096648567 -96.174182500999
+(S1 (SQ (CC and) (VBD um) (NP (PRP I)) (VP (VB play) (ADJP (JJ racquetball)))))
+-29.956785217736 -97.819146488072
+(S1 (FRAG (CC and) (INTJ (UH um)) (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))
+-30.246965071866 -98.728326404827
+(S1 (S (CC and) (ADVP (RB um)) (NP (PRP I)) (VP (VBP play) (S (ADJP (JJ racquetball))))))
+-30.418629452998 -99.108263717305
+(S1 (FRAG (CC and) (VP (VB um) (S (NP (PRP I)) (VP (VB play) (NP (NN racquetball)))))))
+-30.632335035107 -98.797329966068
+(S1 (FRAG (CC and) (ADJP (JJ um) (SBAR (S (NP (PRP I)) (VP (VBP play) (NP (NN racquetball))))))))
+-30.724981997866 -96.793824682632
+(S1 (FRAG (CC and) (RB um) (SBAR (S (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball)))))))
+-30.794971878170 -99.206046384387
+(S1 (X (CC and) (S (VP (VBG um) (S (NP (PRP I)) (VP (VB play) (ADJP (JJ racquetball))))))))
+-31.046295457988 -97.876077157751
+(S1 (FRAG (CC and) (NP (NP (NN um)) (SBAR (S (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball))))))))
+-31.123096367897 -98.841124903015
+(S1 (FRAG (CC and) (VP (VBD um) (S (NP (PRP I)) (VP (VB play) (ADVP (RB racquetball)))))))
+-31.992082070542 -98.354338946720
+(S1 (FRAG (CC and) (INTJ (UH um)) (S (NP (PRP I)) (VP (VBP play) (ADJP (JJ racquetball))))))
+

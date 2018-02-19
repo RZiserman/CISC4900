@@ -1,0 +1,102 @@
+50 x
+-31.033636297841 -93.075459179846
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ different)))))))))
+-31.474683705327 -92.803411281334
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ different)))))))))
+-31.788481057402 -95.229818177259
+(S1 (S (ADJP (RB Well) (JJ criminal) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-32.248024942022 -91.035314967369
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (VP (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-32.584402220576 -95.818583636570
+(S1 (S (ADJP (ADJP (RB Well) (JJ criminal)) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-32.678361927791 -94.252122527700
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (S (NP (NP (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different))))))
+-32.758855881681 -97.081993303911
+(S1 (FRAG (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ different))))))))))
+-32.763905637976 -96.738399612573
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-32.770647486701 -95.177832349191
+(S1 (FRAG (ADJP (ADJP (RB Well) (JJ criminal)) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-32.846225048016 -90.751441919055
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (VP (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-32.885590209680 -96.698793705972
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ different)))))))))
+-32.887548086336 -93.823306848853
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-33.033560672954 -95.658694552308
+(S1 (FRAG (ADJP (RB Well) (JJ criminal) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-33.038803817631 -94.762502354437
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (NP (IN that) (S (VP (VBZ 's) (ADJP (JJ different)))))))))
+-33.057116840108 -97.299987787676
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-33.079344025445 -96.377490790277
+(S1 (FRAG (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ different))))))))))
+-33.097854306302 -96.404546193500
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))
+-33.148121821584 -97.505139980994
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-33.179463675704 -91.369572558457
+(S1 (S (RB Well) (NP (NP (NN criminal) (CC or) (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different)))))
+-33.277576219990 -95.641854391356
+(S1 (FRAG (NP (RB Well) (NN criminal) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-33.326637617166 -96.426745807460
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ different)))))))))
+-33.328595493822 -93.551258950341
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-33.448548588120 -93.709075247584
+(S1 (S (INTJ (UH Well)) (NP (NP (NN criminal) (CC or) (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different)))))
+-33.479851227904 -94.490454455925
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (NP (IN that) (S (VP (VBZ 's) (ADJP (JJ different)))))))))
+-33.480945083313 -95.889473287675
+(S1 (FRAG (NP (RB Well) (JJ criminal) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-33.498164247594 -97.027939889165
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-33.538901713788 -96.132498294988
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (PP (IN like) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))
+-33.654644664085 -93.734867580403
+(S1 (FRAG (ADVP (RB Well)) (NP (NN criminal) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-33.838520878827 -94.488969017260
+(S1 (FRAG (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (VP (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))
+-33.840779785523 -96.801917184449
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-34.093858175417 -97.969277298276
+(S1 (S (NP (NP (RB Well) (NN criminal) (CC or) (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different)))))
+-34.281827195797 -96.529869285937
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-34.314340751317 -97.901838067153
+(S1 (FRAG (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (S (NP (NP (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different)))))))
+-34.316161743402 -93.772641435347
+(S1 (FRAG (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (VP (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))
+-34.351134069430 -96.655471310993
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (SBAR (S (NP (NP (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different)))))))
+-34.355507434054 -97.294062198234
+(S1 (S (ADJP (ADJP (RB Well) (JJ criminal)) (CC or) (ADJP (NN something))) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-34.371937960886 -96.501511151437
+(S1 (FRAG (ADJP (ADJP (RB Well) (JJ criminal)) (CC or) (ADJP (NN something))) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-34.515237978064 -97.599449167029
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (SBAR (S (VP (VBP like) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))))
+-34.612767686902 -97.829841026281
+(S1 (FRAG (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (NP (NP (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))
+-34.631270177633 -95.669336910138
+(S1 (FRAG (ADVP (RB Well)) (NP (JJ criminal) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-34.680051520442 -97.175035512365
+(S1 (FRAG (ADVP (RB Well) (NP (NN criminal) (CC or) (NN something))) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-34.726008060593 -96.812209668186
+(S1 (S (ADVP (RB Well)) (NP (NP (NN criminal) (CC or) (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different)))))
+-34.923328346936 -95.283910294070
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ criminal) (CC or) (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))
+-34.933255827879 -97.125338512646
+(S1 (FRAG (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))
+-34.956285385549 -97.327401268518
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (NP (NP (NN something)) (SBAR (S (VP (VBP like) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different)))))))))))
+-35.206631170444 -97.765093330952
+(S1 (S (RB Well) (NP (NP (JJ criminal) (CC or) (NN something)) (PP (IN like) (NP (DT that)))) (VP (VBZ 's) (ADJP (JJ different)))))
+-35.539456028417 -97.170259200254
+(S1 (UCP (ADJP (RB Well) (JJ criminal)) (CC or) (VP (NN something) (SBAR (IN like) (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-35.550807133157 -95.747571779164
+(S1 (S (RB Well) (NP (NP (NN criminal) (CC or) (NN something)) (PP (IN like) (NP (IN that)))) (VP (VBZ 's) (ADJP (JJ different)))))
+-35.946336457580 -97.840305338611
+(S1 (UCP (ADJP (ADVP (RB Well)) (JJ criminal)) (CC or) (VP (NN something) (SBAR (IN like) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+-36.137656134411 -96.886386151940
+(S1 (UCP (RB Well) (ADJP (JJ criminal)) (CC or) (VP (NN something) (SBAR (IN like) (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ different))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-18.283215891958 -63.384023134415
+(S1 (NP (NP (NN farm) (NN report)) (CC and) (NP (NN oil) (NNS reports))))
+-19.371946012599 -62.973710733351
+(S1 (NP (NN farm) (NN report) (CC and) (NN oil) (NNS reports)))
+-20.146865816640 -67.088581129745
+(S1 (FRAG (NP (NP (NN farm) (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-20.484171378586 -67.913227530621
+(S1 (NP (NNP farm) (NN report) (CC and) (NN oil) (NNS reports)))
+-20.511234668899 -70.221824982671
+(S1 (NP (NP (NNP farm) (NN report)) (CC and) (NP (NN oil) (NNS reports))))
+-20.852633483917 -69.004893272761
+(S1 (S (NP (NP (NN farm) (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-21.934072617799 -72.670374124841
+(S1 (S (NP (NP (NN farm) (NN report)) (CC and) (NP (NN oil))) (VP (VBZ reports))))
+-22.045415509199 -65.619895661265
+(S1 (S (NP (NN farm) (NN report) (CC and) (NN oil) (NNS reports))))
+-22.359314987102 -70.342241026716
+(S1 (S (VP (VB farm) (NP (NN report) (CC and) (NN oil) (NNS reports)))))
+-22.409404655050 -68.087113804576
+(S1 (FRAG (NP (NN farm) (NN report) (CC and) (NN oil) (NNS reports))))
+-22.497820855384 -75.324753326244
+(S1 (NP (NP (VB farm) (NN report)) (CC and) (NP (NN oil) (NNS reports))))
+-22.691136934468 -73.469965712098
+(S1 (S (VP (VB farm) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports))))))
+-22.729722915704 -73.926382884663
+(S1 (FRAG (NP (NP (NNP farm) (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-23.055797992981 -75.842695017659
+(S1 (S (NP (NP (NNP farm) (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-23.083938346978 -75.645029828930
+(S1 (NP (NN farm) (NN report) (CC and) (NN oil) (VBZ reports)))
+-23.216363951509 -68.787410229331
+(S1 (S (NP (NNP farm)) (NP (NN report) (CC and) (NN oil) (NNS reports))))
+-23.296367926355 -71.232335503972
+(S1 (S (NP (NNP farm) (NN report) (CC and) (NN oil) (NNS reports))))
+-23.443482005330 -74.694020864267
+(S1 (S (NP (NNP farm)) (VP (NN report) (CC and) (NN oil) (NP (NNS reports)))))
+-23.683095891304 -75.446366496907
+(S1 (S (VP (NN farm) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports))))))
+-23.782915133131 -75.004334696889
+(S1 (NP (NP (NN farm) (NN report)) (CC and) (NP (NP (NN oil)) (NP (NNS reports)))))
+-23.962940258298 -75.060567157631
+(S1 (S (VP (NN farm) (NP (NN report) (CC and) (NN oil) (NNS reports)))))
+-23.977530608928 -73.166113897788
+(S1 (NP (NNP farm) (UCP (NN report) (CC and) (NN oil)) (NNS reports)))
+-24.037204705437 -73.074104308693
+(S1 (FRAG (NP (NNP farm) (NN report) (CC and) (NN oil) (NNS reports))))
+-24.095915248590 -74.316414753289
+(S1 (NP (NN farm) (UCP (NN report) (CC and) (NN oil)) (NNS reports)))
+-24.146747720232 -71.944803246822
+(S1 (VP (VB farm) (NP (NN report) (CC and) (NN oil) (NNS reports))))
+-24.155970977900 -74.567311630714
+(S1 (S (VP (NNP farm) (NP (NN report) (CC and) (NN oil) (NNS reports)))))
+-24.232730153260 -74.535490859245
+(S1 (VP (VB farm) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-24.570107384260 -75.205904208253
+(S1 (NP (NP (NNP farm)) (NN report) (CC and) (NN oil) (NNS reports)))
+-24.593105364162 -75.351392662873
+(S1 (S (VP (NNP farm) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports))))))
+-24.730398931208 -75.143311053342
+(S1 (NP (NP (NN farm)) (NP (NN report) (CC and) (NN oil) (NNS reports))))
+-24.785316436639 -77.255209552316
+(S1 (NP (NP (NN farm)) (NN report) (CC and) (NN oil) (NNS reports)))
+-24.823309878708 -76.873681319863
+(S1 (NP (NP (NN farm) (NN report) (CC and) (NN oil)) (NP (NNS reports))))
+-24.893254765855 -73.050364406184
+(S1 (S (NP (NN farm)) (NP (NN report) (CC and) (NN oil) (NNS reports))))
+-24.935689769836 -77.596520196983
+(S1 (S (NP (NN farm)) (VP (NN report) (CC and) (NN oil) (NP (NNS reports)))))
+-25.122790863329 -76.676578603418
+(S1 (FRAG (NP (NN farm)) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-25.134824974994 -74.675703692603
+(S1 (NP (NP (NP (NN farm) (NN report)) (CC and) (NP (NN oil))) (NNS reports)))
+-25.278464042019 -74.335349374410
+(S1 (S (VP (VB farm) (NP (UCP (NN report) (CC and) (NN oil)) (NNS reports)))))
+-25.280452417055 -77.092715266182
+(S1 (S (NP (NNP farm)) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-25.486612198752 -77.342888004781
+(S1 (NP (NP (NNP farm)) (NP (NN report) (CC and) (NN oil) (NNS reports))))
+-25.621896883075 -74.362336221536
+(S1 (S (NP (NP (NN farm) (NN report)) (CC and) (NP (NN oil))) (NP (NNS reports))))
+-25.770443824855 -75.273828623254
+(S1 (FRAG (VP (VB farm) (NP (NN report) (CC and) (NN oil) (NNS reports)))))
+-25.829476724136 -75.605927979277
+(S1 (NP (NP (NNP farm)) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-25.975988819674 -73.767917220315
+(S1 (FRAG (NP (NNP farm)) (NP (NN report) (CC and) (NN oil) (NNS reports))))
+-26.025873759507 -76.138445941201
+(S1 (FRAG (NP (NNP farm)) (NP (NP (NN report)) (CC and) (NP (NN oil) (NNS reports)))))
+-26.218561065942 -76.430457050852
+(S1 (FRAG (NP (NN farm)) (NP (NN report) (CC and) (NN oil) (NNS reports))))
+-26.443519508385 -74.690686991918
+(S1 (S (NP (NNP farm)) (NP (UCP (NN report) (CC and) (NN oil)) (NNS reports))))
+-26.634013100239 -75.937911678757
+(S1 (VP (VB farm) (NP (UCP (NN report) (CC and) (NN oil)) (NNS reports))))
+-26.719820625305 -77.502385503901
+(S1 (S (NP (NNP farm) (UCP (NN report) (CC and) (NN oil)) (NNS reports))))
+-27.264238179260 -78.278233533799
+(S1 (S (VP (NNP farm) (NP (UCP (NN report) (CC and) (NN oil)) (NNS reports)))))
+-27.308048276741 -77.822708318438
+(S1 (NP (NP (NP (NN farm) (NN report)) (CC and) (NP (NN oil))) (NP (NNS reports))))
+

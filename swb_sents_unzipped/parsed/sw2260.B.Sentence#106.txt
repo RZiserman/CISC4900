@@ -1,0 +1,102 @@
+50 x
+-17.753920385717 -51.507807929498
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-18.663576140715 -59.118291468960
+(S1 (S (WHNP (RB Well) (WP what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-18.993315866795 -57.201823102807
+(S1 (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-19.151754480203 -54.605000979731
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-19.216125373114 -62.063775502176
+(S1 (S (RB Well) (WHNP (WP what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-19.251808868377 -58.220551366612
+(S1 (FRAG (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-19.342667119151 -62.689888815312
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-19.404701703204 -63.947946270398
+(S1 (S (NP (RB Well) (WP what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-19.487888044707 -60.518297207700
+(S1 (SBAR (RB Well) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-19.492973525287 -63.783607297631
+(S1 (SBAR (WHNP (RB Well) (WDT what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-19.673625181608 -57.327216206465
+(S1 (SBAR (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-19.693506346404 -65.493872559574
+(S1 (S (NP (RB Well) (WDT what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-19.780141530206 -62.020704499025
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-20.029923462552 -65.776425920198
+(S1 (NP (NP (NNP Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-20.103254756763 -63.634600033372
+(S1 (S (ADVP (RB Well)) (WHNP (WP what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-20.150094010846 -62.763834363282
+(S1 (SBAR (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-20.192653940814 -61.868498755476
+(S1 (S (WHNP (ADVP (RB Well)) (WP what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-20.206979718225 -63.065435363399
+(S1 (S (ADJP (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))))
+-20.272170557509 -62.403451175782
+(S1 (FRAG (ADJP (JJ Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-20.299999216547 -61.071289965226
+(S1 (S (RB Well) (NP (WP what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-20.327391797731 -61.327525195797
+(S1 (FRAG (RB Well) (WP what) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-20.424104700961 -61.850687014226
+(S1 (ADJP (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-20.461352979133 -65.751654601023
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-20.636307625176 -60.317568569244
+(S1 (SBAR (WHNP (ADVP (RB Well)) (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-20.808357496945 -61.129048531837
+(S1 (SBAR (ADVP (UH Well)) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-20.839140803380 -60.516216561342
+(S1 (FRAG (WHNP (RB Well) (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-20.844291067762 -62.775501262406
+(S1 (FRAG (RB Well) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-20.903768440537 -65.229714215861
+(S1 (S (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-20.928571295676 -59.069819429815
+(S1 (FRAG (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-21.071417682716 -62.897861333786
+(S1 (FRAG (RB Well) (WP what) (SBAR (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-21.132507610012 -58.820367644050
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP her) (NN name))))))
+-21.204365600053 -61.638359172856
+(S1 (FRAG (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-21.470446600148 -65.761835263144
+(S1 (FRAG (SBAR (WHNP (RB Well) (WDT what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-21.532962813644 -65.251558850820
+(S1 (FRAG (RB Well) (WP what) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-21.654277626893 -65.499039403014
+(S1 (S (ADVP (RB Well)) (NP (WP what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-21.731119061555 -63.515882915929
+(S1 (FRAG (ADJP (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))))
+-21.766444377731 -65.825224792233
+(S1 (S (RB Well) (NP (WDT what)) (VP (VBD was) (NP (PRP$ her) (NN name)))))
+-21.805610526813 -61.944341844035
+(S1 (FRAG (ADJP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-22.017255571959 -64.682756789585
+(S1 (FRAG (SBAR (RB Well) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-22.158374007833 -62.326736906650
+(S1 (FRAG (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-22.352165907258 -65.486131319179
+(S1 (FRAG (ADVP (UH Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-22.357637993877 -64.514382817358
+(S1 (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBD was) (NP (PRP her) (NN name))))))
+-22.374071523479 -63.266423847858
+(S1 (FRAG (WHNP (ADVP (RB Well)) (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))
+-22.571563054057 -62.185564896252
+(S1 (FRAG (SBAR (WHNP (ADVP (RB Well)) (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-22.599250774497 -61.917560694283
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP her) (NN name)))))))
+-22.618244475231 -65.136892027753
+(S1 (FRAG (NP (NP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name))))))))
+-22.700724462671 -65.533111081164
+(S1 (FRAG (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP her) (NN name)))))))
+-23.075562685902 -64.639775921017
+(S1 (SBAR (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP her) (NN name)))))))
+-23.265602375417 -65.378775579193
+(S1 (FRAG (NP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (PRP$ her) (NN name)))))))
+-23.906122904410 -63.240968871832
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBD was) (S (NP (PRP$ her) (NN name)))))))
+

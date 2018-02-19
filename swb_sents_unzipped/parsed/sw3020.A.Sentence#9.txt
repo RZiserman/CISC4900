@@ -1,0 +1,102 @@
+50 x
+-31.507928302446 -107.936428260411
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VBP guess))))))
+-32.073595086393 -110.159021275063
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-32.250395391739 -113.994886743438
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NP (NNP Morocco)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))))
+-32.787688189887 -116.099180577486
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VB guess))))))
+-33.141813809622 -107.024145630127
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VBP guess))))
+-33.593801284110 -118.063244329724
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (SBAR (S (NP (PRP I)) (VP (VB guess)))))))
+-33.775822254503 -116.899438866081
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (PRN (S (NP (PRP I)) (VP (VBP guess)))))))
+-33.970892205683 -117.616104608217
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NP (NNP Morocco)) (PRN (S (NP (PRP I)) (VP (VBP guess)))))))))
+-34.338573441353 -111.227097541199
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually))) (PP (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VBP guess)))))
+-34.689071030781 -116.202711394324
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))))) (S (NP (PRP I)) (VP (VBP guess)))))
+-34.821027104053 -117.311134647260
+(S1 (S (SBAR (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))))) (NP (PRP I)) (VP (VBP guess))))
+-34.837794799134 -117.349055483403
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (RB actually) (PP (IN in) (NP (NNP Morocco))) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-34.856717052757 -113.808383049746
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))) (S (NP (PRP I)) (VP (VBP guess)))))
+-34.893660982033 -118.004836545711
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (VP (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VBP guess)))))))
+-34.983761738184 -115.478177909884
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually) (PP (IN in) (NP (NNP Morocco)))) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-35.105218441814 -119.982820339611
+(S1 (NP (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))
+-35.179977338145 -117.200291178581
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (SBAR (S (PP (IN in) (NP (NNP Morocco))) (NP (PRP I)) (VP (VBP guess)))))))
+-35.219509808825 -116.618829265463
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (S (PP (IN in) (NP (NNP Morocco))) (NP (PRP I)) (VP (VBP guess))))))
+-35.259748182968 -118.493519635212
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (S (VP (NNP Morocco) (S (NP (PRP I)) (VP (VBP guess)))))))))
+-35.292345315727 -119.823567309957
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (VP (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))
+-35.294617049951 -119.591187075362
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NP (NNP Morocco)) (S (NP (PRP I)) (VP (VBP guess))))))))
+-35.336921834984 -112.720050282521
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually) (PP (IN in) (NP (NNP Morocco)))) (S (NP (PRP I)) (VP (VBP guess))))))
+-35.611824215246 -120.182710220803
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (PRT (RB actually)) (PP (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VBP guess))))))
+-35.613413236469 -120.042183430504
+(S1 (NP (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))) (S (NP (PRP I)) (VP (VBP guess)))))
+-35.821117908637 -118.684103001475
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))
+-35.840696434910 -117.650526161426
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (S (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (NP (PRP I)) (VP (VBP guess))))))
+-36.160925551083 -116.549131331241
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (SBAR (S (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (NP (PRP I)) (VP (VBP guess)))))))
+-36.237270881347 -115.695002547081
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (SBAR (RB actually) (S (PP (IN in) (NP (NNP Morocco))) (NP (PRP I)) (VP (VBP guess)))))))
+-36.394028254348 -113.532084449122
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually) (PP (IN in) (NP (NNP Morocco)))))) (NP (PRP I)) (VP (VBP guess))))
+-36.736309149264 -116.572288369498
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (RB actually) (PP (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VBP guess))))
+-36.895596276002 -118.657956085698
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (PP (ADVP (RB actually)) (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VBP guess))))))
+-36.908161381264 -119.487534085528
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (PP (ADVP (RB actually)) (IN in) (NP (NNP Morocco))) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-36.943172645044 -119.976599781259
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VB guess))))
+-36.963500007177 -119.832608685550
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADJP (RB actually)) (PP (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VBP guess))))))
+-37.231120919272 -119.400168015876
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADJP (RB actually) (SBAR (S (PP (IN in) (NP (NNP Morocco))) (NP (PRP I)) (VP (VBP guess))))))))
+-37.239022802086 -116.325079721102
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (PP (ADVP (RB actually)) (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VBP guess))))
+-37.241993465754 -119.467007943072
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-37.486309630398 -120.589198165715
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADJP (RB actually) (PP (IN in) (NP (NNP Morocco)))) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-37.499583380274 -117.820033605712
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADJP (RB actually) (PP (IN in) (NP (NNP Morocco)))) (S (NP (PRP I)) (VP (VBP guess))))))
+-37.594530017454 -116.708880315709
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))) (S (NP (PRP I)) (VP (VBP guess))))))
+-37.630697531829 -116.262760506595
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADJP (RB actually)) (PP (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VBP guess))))
+-37.693718711452 -119.759669876977
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (PRT (RB actually)) (PP (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VBP guess))))
+-37.840232607482 -120.316321776884
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (RB actually) (PP (IN in) (NP (NNP Morocco))))) (S (NP (PRP I)) (VP (VBP guess)))))
+-38.031287236505 -118.563722643644
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (S (ADVP (RB actually) (PP (IN in) (NP (NNP Morocco)))) (NP (PRP I)) (VP (VBP guess))))))
+-38.171287497796 -117.520914482310
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADVP (ADVP (RB actually)) (PP (IN in) (NP (NNP Morocco)))))) (NP (PRP I)) (VP (VBP guess))))
+-38.646493839658 -118.071629585475
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADJP (RB actually) (PP (IN in) (NP (NNP Morocco)))))) (NP (PRP I)) (VP (VBP guess))))
+-38.730175211241 -118.681106613434
+(S1 (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (ADJP (RB actually))) (PP (IN in) (NP (NNP Morocco))) (S (NP (PRP I)) (VP (VBP guess)))))
+-39.266368406485 -120.117860677272
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (NP (RB actually)) (PP (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VBP guess))))
+-39.320884684749 -119.111158614242
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (PP (RB actually) (IN in) (NP (NNP Morocco))))) (NP (PRP I)) (VP (VBP guess))))
+-40.023272240275 -120.031034476997
+(S1 (S (S (NP (PRP$ My) (JJ last) (NN vacation)) (VP (VBD was) (NP (NP (RB actually)) (PP (IN in) (NP (NNP Morocco)))))) (NP (PRP I)) (VP (VBP guess))))
+

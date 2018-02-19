@@ -1,0 +1,102 @@
+50 x
+-22.641620083944 -78.720392017402
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-22.804982047336 -83.614685720686
+(S1 (S (CC but) (NP (NNP uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-24.482816263542 -81.352154020185
+(S1 (S (CC but) (ADVP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-24.990706548170 -87.032520087693
+(S1 (S (CC but) (S (NP (NNP uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-25.012689699219 -90.675825207468
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VB know)))))))
+-25.212628601256 -83.072128207384
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-25.337079364648 -87.966421910668
+(S1 (S (CC but) (NP (NNP uh)) (VP (VBZ seems) (PP (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-25.499121926865 -82.462230250748
+(S1 (S (CC but) (S (NP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-26.424173509555 -87.816633779961
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-26.473244809408 -83.317561502682
+(S1 (FRAG (CC but) (INTJ (UH uh) (VBZ seems)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))
+-26.781730169431 -88.911524794229
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))
+-26.783861413624 -88.591360752356
+(S1 (S (CC but) (INTJ (UH uh) (VBZ seems)) (VP (VBP like) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-26.911596738464 -89.873886267417
+(S1 (S (ADVP (CC but) (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-27.029453255915 -85.703890155106
+(S1 (S (CC but) (ADVP (UH uh)) (VP (VBZ seems) (PP (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-27.134696764265 -91.084536718245
+(S1 (FRAG (CC but) (S (NP (NNP uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-27.159268383494 -87.941176501923
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems)) (PP (IN like) (S (NP (PRP you)) (VP (VBP know))))))
+-27.201642274386 -86.773338752303
+(S1 (S (CC but) (S (ADVP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-27.267063433903 -90.724560444963
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (SBAR (WHADVP (IN like)) (S (NP (PRP you)) (VP (VBP know)))))))
+-27.312034708842 -87.708516098847
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (ADJP (JJ like) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-27.390083206610 -90.580801626166
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (NP (PRP you))) (VP (VB know)))))
+-27.444116316681 -88.858035968563
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (S (VP (VB like) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.492081447993 -89.874532523935
+(S1 (FRAG (S (CC but) (NP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-27.497948049993 -84.164809673916
+(S1 (FRAG (CC but) (ADVP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-27.558458671193 -87.687155783548
+(S1 (S (CC but) (VP (ADVP (UH uh)) (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-27.651966256059 -86.575949007540
+(S1 (FRAG (CC but) (S (NP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-27.682005457421 -86.813966244875
+(S1 (S (CC but) (S (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-27.915498693938 -87.440969420220
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (VP (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-28.187732064773 -89.836581840058
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (VP (VB like) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-28.226493549904 -90.726341929728
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (ADJP (JJ like)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-28.240998164214 -90.448395727683
+(S1 (S (CC but) (ADVP (UH uh)) (VP (VBZ seems) (PP (IN like) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-28.299510070850 -90.326669821183
+(S1 (S (CC but) (S (INTJ (UH uh) (VBZ seems)) (VP (VBP like) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-28.521159480607 -90.588523094525
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (SBAR (S (VP (VBP like) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-28.580292883707 -90.764992049061
+(S1 (FRAG (CC but) (INTJ (UH uh) (VBZ seems)) (PP (IN like) (S (NP (PRP you)) (VP (VBP know))))))
+-28.769423347906 -87.227549790291
+(S1 (S (S (CC but) (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (NP (PRP you))))) (VP (VBP know))))
+-28.955661762344 -88.466063599586
+(S1 (FRAG (CC but) (S (ADVP (UH uh)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-29.031280891414 -90.920980662424
+(S1 (S (CC but) (S (NP (NNP uh)) (VP (VBZ seems) (PP (IN like) (NP (PRP you))))) (VP (VBP know))))
+-29.080154713530 -90.340278185278
+(S1 (S (CC but) (ADVP (UH uh)) (VP (VBZ seems) (ADJP (JJ like) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-29.259170322897 -86.350690825479
+(S1 (S (CC but) (S (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (NP (PRP you))))) (VP (VBP know))))
+-29.384525793791 -91.125074696390
+(S1 (S (CC but) (S (ADVP (UH uh)) (VP (VBZ seems) (PP (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-29.585278716506 -89.356414004983
+(S1 (FRAG (CC but) (ADVP (UH uh)) (VP (VBZ seems) (PP (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-29.610208474363 -90.013460802009
+(S1 (FRAG (CC but) (INTJ (UH uh) (VBZ seems)) (VP (VB like) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-29.751709048446 -90.072731325634
+(S1 (S (CC but) (ADVP (UH uh)) (VP (VBZ seems) (VP (IN like) (S (NP (PRP you)) (VP (VBP know)))))))
+-29.751723460831 -89.737292032102
+(S1 (FRAG (CC but) (ADVP (UH uh)) (SBAR (S (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know)))))))))
+-29.915357347521 -87.908030036453
+(S1 (S (CC but) (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (NP (PRP you))) (SBAR (S (VP (VBP know)))))))
+-30.220931481109 -88.510441681989
+(S1 (FRAG (CC but) (S (VP (ADVP (UH uh)) (VBZ seems) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-30.251092058469 -89.628902813473
+(S1 (FRAG (CC but) (INTJ (UH uh) (VBZ seems)) (SBAR (WHNP (IN like)) (S (NP (PRP you)) (VP (VBP know))))))
+-30.484138767586 -90.927684864812
+(S1 (FRAG (CC but) (S (NP (UH uh)) (VP (VBZ seems) (PP (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-30.486782235528 -91.182807432478
+(S1 (S (CC but) (S (NP (UH uh)) (VP (VBZ seems) (VP (IN like) (S (NP (PRP you)) (VP (VBP know))))))))
+-30.849680670358 -90.507498969550
+(S1 (S (CC but) (S (ADVP (UH uh)) (VP (VBZ seems) (PP (IN like) (NP (PRP you))))) (VP (VBP know))))
+-31.732181965939 -90.539791858873
+(S1 (S (CC but) (ADVP (UH uh)) (VP (VBZ seems) (PP (IN like) (NP (PRP you))) (SBAR (S (VP (VBP know)))))))
+

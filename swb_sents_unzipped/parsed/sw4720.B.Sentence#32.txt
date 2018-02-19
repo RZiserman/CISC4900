@@ -1,0 +1,102 @@
+50 x
+-21.787384427148 -66.135693896710
+(S1 (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day) (CC and) (NN age))))
+-22.039678190278 -58.369518200810
+(S1 (UCP (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age))))
+-22.590838114379 -66.950763488063
+(S1 (PP (RB Especially) (IN in) (NP (DT this) (NN day) (CC and) (NN age))))
+-22.673095444354 -68.354001339207
+(S1 (PP (ADVP (RB Especially)) (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age)))))
+-22.729198485846 -68.266413228936
+(S1 (S (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-22.874101204263 -66.455303884514
+(S1 (FRAG (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-22.899775870808 -60.664584761495
+(S1 (UCP (ADVP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age))))
+-22.976857967068 -67.231313131779
+(S1 (PP (RB Especially) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-23.264264651946 -68.344606762526
+(S1 (FRAG (RB Especially) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-23.321608736603 -59.854566912974
+(S1 (UCP (PP (RB Especially) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age))))
+-23.356961838496 -60.833705902638
+(S1 (FRAG (UCP (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age)))))
+-23.446689652353 -71.035147953211
+(S1 (PP (ADVP (RB Especially)) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-23.476549131584 -69.169070930560
+(S1 (PP (RB Especially) (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age)))))
+-23.582096780988 -68.443546931135
+(S1 (PP (RB Especially) (PP (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age))))))
+-23.645165461683 -68.262365276479
+(S1 (FRAG (PP (ADVP (RB Especially)) (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age))))))
+-23.723524181679 -64.632182904709
+(S1 (S (UCP (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age)))))
+-23.797201083881 -70.817074787697
+(S1 (FRAG (ADVP (RB Especially)) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-23.869883478564 -69.923079797199
+(S1 (ADVP (RB Especially) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-23.949294206579 -70.151668154491
+(S1 (FRAG (RB Especially) (PP (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age))))))
+-23.993610890508 -70.608761908738
+(S1 (S (PP (RB Especially) (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-24.032415130513 -69.855904238752
+(S1 (ADVP (RB Especially) (PP (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age))))))
+-24.094064296954 -70.888045731102
+(S1 (S (PP (ADVP (RB Especially)) (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age))))))
+-24.183469107887 -69.993333592474
+(S1 (PP (RB Especially) (PP (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age))))
+-24.219994462769 -71.786473075372
+(S1 (S (ADJP (RB Especially)) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-24.287129510179 -70.951304030999
+(S1 (FRAG (RB Especially) (RB in) (NP (DT this) (NN day) (CC and) (NN age))))
+-24.297317334767 -72.138466526301
+(S1 (S (ADJP (RB Especially) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age))))))
+-24.532226694557 -63.760753679921
+(S1 (FRAG (UCP (ADVP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age)))))
+-24.634783854506 -69.843808836637
+(S1 (FRAG (PP (RB Especially) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age))))))
+-24.638892384821 -62.318754614802
+(S1 (FRAG (UCP (PP (RB Especially) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age)))))
+-24.700003109457 -66.688494631853
+(S1 (UCP (ADJP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age))))
+-24.707478166001 -71.325856507989
+(S1 (ADJP (RB Especially) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-24.857093378929 -71.482386787989
+(S1 (ADVP (ADVP (RB Especially)) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-24.889688525710 -71.443099912036
+(S1 (FRAG (PP (RB Especially) (IN in) (NP (DT this) (NN day) (CC and) (NN age)))))
+-25.056612571245 -69.631651558487
+(S1 (S (UCP (ADVP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age)))))
+-25.105659730878 -71.415211229542
+(S1 (ADVP (ADVP (RB Especially)) (PP (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age))))))
+-25.152137321816 -67.757597528300
+(S1 (FRAG (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age))))
+-25.210438962914 -66.117231517604
+(S1 (S (UCP (PP (RB Especially) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age)))))
+-25.218500146701 -67.226368135329
+(S1 (UCP (ADVP (ADVP (RB Especially)) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age))))
+-25.240022668427 -71.056042635993
+(S1 (FRAG (PP (RB Especially) (PP (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age)))))))
+-25.313691552558 -71.345339921363
+(S1 (FRAG (ADVP (RB Especially) (PP (IN in) (NP (DT this) (NN day) (CC and) (NN age))))))
+-25.389059089370 -66.008367916437
+(S1 (FRAG (S (UCP (PP (ADVP (RB Especially)) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age))))))
+-25.476223204506 -71.278164362916
+(S1 (FRAG (ADVP (RB Especially) (PP (IN in) (NP (NP (DT this) (NN day)) (CC and) (NP (NN age)))))))
+-26.268102596054 -69.553830747748
+(S1 (FRAG (UCP (ADJP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age)))))
+-26.503642964057 -66.111355400793
+(S1 (UCP (PP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age))))
+-26.829725972148 -71.007836570215
+(S1 (FRAG (S (UCP (ADVP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age))))))
+-26.875973867817 -67.493416529332
+(S1 (FRAG (S (UCP (PP (RB Especially) (IN in) (NP (DT this) (NN day))) (CC and) (NP (NN age))))))
+-26.902873976662 -70.322537053754
+(S1 (FRAG (UCP (ADVP (ADVP (RB Especially)) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age)))))
+-27.459080987866 -72.025168659465
+(S1 (UCP (PP (ADVP (RB Especially)) (IN in) (NP (NP (DT this)) (NN day))) (CC and) (NP (NN age))))
+-27.820926612275 -68.575543102621
+(S1 (FRAG (UCP (PP (RB Especially) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age)))))
+-28.065224938204 -71.756369532457
+(S1 (FRAG (NP (NP (NP (RB Especially)) (PP (IN in) (NP (DT this) (NN day)))) (CC and) (NP (NN age)))))
+

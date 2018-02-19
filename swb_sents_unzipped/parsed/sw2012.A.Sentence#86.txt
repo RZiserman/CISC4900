@@ -1,0 +1,102 @@
+50 x
+-16.525450773963 -55.152470528780
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PRT (RP in)) (ADVP (RB out)))))
+-16.952340453494 -60.705633423074
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (NP (NN out))))))
+-17.516642555345 -61.988107584085
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (NP (RB out))))))
+-17.519728954463 -63.724920260951
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (NP (RP out))))))
+-17.676185833775 -63.495690520896
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (NP (IN out))))))
+-17.832511114608 -62.145182860366
+(S1 (S (NP (PRP you)) (NP (NNS people)) (VP (VBP walk) (PRT (RP in)) (ADVP (RB out)))))
+-17.842680101857 -64.430537116361
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PRT (RP in)) (PRT (RP out)))))
+-17.948155662358 -60.835060868855
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PRT (RP in)) (PP (IN out)))))
+-18.218937804586 -56.845237436261
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in)) (ADVP (RB out)))))
+-18.344509770670 -60.422951541701
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in)) (PP (IN out)))))
+-18.377812965324 -56.259156585247
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in)) (ADVP (RB out)))))
+-18.379958814414 -62.645533243405
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (PP (IN out))))))
+-18.662905702581 -60.075425649803
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in)) (PP (IN out)))))
+-18.870891214082 -62.571922205164
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (ADJP (JJ out))))))
+-18.979347766583 -56.053189938484
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in) (RB out)))))
+-19.070573585418 -59.975348470591
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (ADVP (IN out))))))
+-19.096619926777 -64.586754217056
+(S1 (S (NP (PRP you)) (S (NP (NNS people)) (VP (VBP walk) (PRT (RP in)) (ADVP (RB out))))))
+-19.394649375569 -60.066853665866
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RP in) (RB out)))))
+-19.409024795002 -61.251849221835
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in)) (PP (IN out)))))
+-19.521367845231 -63.837949767847
+(S1 (S (NP (PRP you)) (NP (NNS people)) (VP (VBP walk) (PP (IN in)) (ADVP (RB out)))))
+-19.626133010202 -61.178044288203
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PRT (RP in)) (ADVP (RP out)))))
+-19.626701385411 -62.384830535086
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RBR in) (RB out)))))
+-19.724510005969 -63.251868916833
+(S1 (S (NP (PRP you)) (NP (NNS people)) (VP (VBP walk) (ADVP (RB in)) (ADVP (RB out)))))
+-19.732864437501 -61.941048135684
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PRT (RP in)) (ADVP (IN out)))))
+-19.809311841517 -61.531931186534
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in) (RB out)))))
+-19.924998060117 -59.319340506623
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PRT (IN in)) (ADVP (RB out)))))
+-20.098331957728 -63.716371636583
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RP in)) (PP (IN out)))))
+-20.099718201232 -64.203850665704
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (ADJP (RP out))))))
+-20.281777807228 -63.045902270070
+(S1 (S (NP (PRP you)) (NP (NNS people)) (VP (VBP walk) (ADVP (IN in) (RB out)))))
+-20.309896520662 -59.900102572028
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RP in)) (ADVP (RB out)))))
+-20.335345187836 -63.385237891388
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PRT (RB in)) (ADVP (RB out)))))
+-20.335984050311 -62.375127095952
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in)) (ADJP (JJ out)))))
+-20.337429069639 -63.826552216181
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in) (ADJP (RB out))))))
+-20.391851004725 -57.435580157279
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in)) (ADVP (RB out)))))
+-20.407512828026 -62.985430203395
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in) (RP out)))))
+-20.701054715426 -63.156948297815
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in)) (ADVP (IN out)))))
+-20.818775715397 -61.961978790960
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (RP in)) (ADVP (RB out)))))
+-20.825102924726 -63.544846166428
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in)) (ADVP (IN out)))))
+-20.850555373202 -63.864280670878
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RBR in) (IN out)))))
+-20.946009314165 -63.689475947937
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in) (IN out)))))
+-21.036565337273 -63.437767590891
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (PP (IN in)) (ADVP (RP out)))))
+-21.075968170860 -62.976680945905
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in)) (ADVP (RP out)))))
+-21.202239534093 -63.278095008721
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in)) (ADJP (RP out)))))
+-21.694281045370 -64.428292488865
+(S1 (S (NP (PRP you)) (NP (NNS people)) (VP (VBP walk) (ADVP (IN in)) (ADVP (RB out)))))
+-21.720443571636 -62.502102099538
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (RB in)) (ADJP (RB out)))))
+-21.723783428532 -63.551550667984
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in)) (ADJP (JJ out)))))
+-22.307064067847 -64.333371869847
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in)) (ADVP (IN out)))))
+-22.747747661514 -64.454518580753
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in)) (ADJP (RP out)))))
+-22.815897928281 -64.153104517937
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in)) (ADVP (RP out)))))
+-23.434469205057 -63.678525671569
+(S1 (S (NP (PRP you) (NNS people)) (VP (VBP walk) (ADVP (IN in)) (ADJP (RB out)))))
+

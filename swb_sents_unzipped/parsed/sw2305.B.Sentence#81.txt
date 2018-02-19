@@ -1,0 +1,102 @@
+50 x
+-23.706134487303 -83.123728991601
+(S1 (S (NP (PRP She)) (VP (POS 's) (S (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))))
+-23.918612025044 -79.034109709749
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-24.715997367525 -82.391959932357
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-24.793345882107 -87.885201554721
+(S1 (S (NP (PRP She)) (VP (POS 's) (S (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-24.967564488787 -85.832756436661
+(S1 (S (NP (PRP She)) (VP (POS 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-25.563022785341 -86.938018228953
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (S (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))))
+-25.744372755186 -91.751821061843
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (POS 's) (S (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-25.963934788238 -89.748831906722
+(S1 (S (NP (PRP She)) (VP (POS 's) (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-26.186278842979 -94.140045385253
+(S1 (S (NP (PRP She)) (VP (POS 's) (S (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (S (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))))
+-26.247866363371 -92.360496422481
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (POS 's) (S (VP (VBG going) (PP (IN into) (NP (NN law))))))))))))
+-26.287708692105 -90.843373866015
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she) (POS 's)) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))
+-26.386612991020 -87.778461902088
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she) (VBZ 's)) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))
+-26.398756377932 -90.050426103401
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (S (VP (VBG going) (PP (IN into) (NP (NN law))))))))))))
+-26.557406130145 -91.699490792073
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (S (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-26.601618690180 -85.207824753613
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (ADJP (VBG studying)) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-26.654007379284 -88.637458079695
+(S1 (S (NP (PRP She) (VBZ 's)) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-26.773514684122 -92.928029222206
+(S1 (S (NP (PRP She) (POS 's)) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-26.785855246322 -92.708945601856
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (POS 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-26.883237592333 -86.795243383617
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (ADJP (VBG studying)) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))
+-26.966858528883 -95.423388632149
+(S1 (S (NP (PRP She)) (VP (POS 's) (S (VP (VBG studying) (S (NP (PRP she) (VBZ 's)) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-26.969491730413 -93.408276323449
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (S (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-27.289348854508 -93.317620962493
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (POS 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-27.441491398360 -93.687872755441
+(S1 (S (NP (PRP She)) (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-27.537602811733 -95.135333876452
+(S1 (S (NP (PRP She)) (VP (POS 's) (VP (VBG studying) (S (NP (PRP she) (VBZ 's)) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))
+-27.826144056496 -93.071346854974
+(S1 (S (NP (PRP She)) (VP (POS 's) (S (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (PP (VBG going) (PP (IN into) (NP (NN law))))))))))))
+-27.830084375545 -93.398930431833
+(S1 (S (NP (PRP She) (VBZ 's)) (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))
+-27.872015213025 -91.810425858772
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (NN she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-28.038621594237 -88.981727573122
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (PP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-28.202294810457 -94.385694633241
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (SBAR (S (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))))
+-28.223119824809 -95.854500323519
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (ADJP (VBG studying)) (SBAR (S (NP (PRP she)) (VP (POS 's) (S (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-28.304428390221 -95.030038642755
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (NN she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-28.313880375383 -91.022791664170
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (NP (PRP she)))) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))
+-28.489670250194 -93.446253244254
+(S1 (S (NP (PRP She)) (VP (POS 's) (SBAR (S (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))))
+-28.554005468113 -95.622892699114
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (ADJP (VBG studying)) (S (NP (PRP she) (POS 's)) (VP (VBG going) (PP (IN into) (NP (NN law))))))))
+-28.574763395398 -91.879905976945
+(S1 (S (NP (NN She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-28.638156386986 -94.882321056625
+(S1 (NP (NP (PRP She) (POS 's)) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-28.722701779816 -92.557980735186
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (ADJP (VBG studying)) (S (NP (PRP she) (VBZ 's)) (VP (VBG going) (PP (IN into) (NP (NN law))))))))
+-28.996643653635 -86.498425355431
+(S1 (S (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (NP (PRP she))))) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))
+-29.001513366440 -94.540344930157
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (NP (NN she)))) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))
+-29.087574057980 -95.780374300034
+(S1 (S (NP (PRP She)) (VP (POS 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (PP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-29.192394496053 -92.339577682206
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (PP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-29.311067552905 -90.015978621419
+(S1 (S (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (NP (NN she))))) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law)))))))
+-29.372148737880 -95.237756199553
+(S1 (S (NP (NN She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-29.435746887782 -92.133121796864
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (POS 's) (PP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-29.677699803809 -94.745641274848
+(S1 (NP (NP (PRP She) (VBZ 's)) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-29.734967850044 -91.520529533792
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going)))) (PP (IN into) (NP (NN law)))))))
+-29.760824508968 -92.741797157502
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (POS 's) (PP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+-30.565615874242 -93.695124111246
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG going) (PRT (IN into)) (NP (NN law))))))))))
+-30.797915612161 -95.155442616986
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (ADJP (VBG studying)) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (PP (VBG going) (PP (IN into) (NP (NN law))))))))))
+-30.860350258070 -93.716697236151
+(S1 (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG studying) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (ADJP (VBG going) (PP (IN into) (NP (NN law)))))))))))
+

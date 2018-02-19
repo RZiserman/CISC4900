@@ -1,0 +1,102 @@
+50 x
+-11.829977485493 -47.315835550679
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))
+-14.183894709622 -53.365206777169
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))))
+-16.984741034810 -62.110083118394
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (SBAR (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))))
+-17.215226107513 -57.884137089763
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope)))) (PP (IN with) (NP (PRP them)))))))
+-18.006311863188 -66.051931053715
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))
+-18.074009707628 -66.454363037133
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VP (VB cope)) (PP (IN with) (NP (PRP them))))))))))
+-18.399925227641 -61.510180719729
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PP (IN with) (S (NP (PRP them)))))))))))
+-18.438529020940 -62.343928547817
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (S (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))))
+-18.668156206488 -64.875125887462
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))
+-18.977186071064 -68.555551785735
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))))
+-19.126875330811 -63.534618914473
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope)))) (PP (IN with) (NP (PRP them))))))))
+-19.190450324839 -65.598506520456
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope))) (PP (IN with) (NP (PRP them))))))))
+-19.329647596435 -63.013192826613
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PRT (RP with)) (NP (PRP them)))))))))
+-19.400364099726 -68.072000880879
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (SBAR (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))))
+-19.482832404454 -71.964696675105
+(S1 (S (NP (PRP they)) (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))
+-19.625634097546 -66.257208478392
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (IN with) (NP (PRP them)))))))))
+-19.794768662794 -63.854790569278
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PRT (IN with)) (NP (PRP them)))))))))
+-20.107089543059 -73.518850321120
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (NP (VBG trying)) (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))
+-20.285345572157 -74.384569652112
+(S1 (S (NP (PRP they)) (VP (VBP 're) (NP (VBG trying)) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))
+-20.427926928969 -72.503734263623
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VP (VB cope)) (PP (IN with) (NP (PRP them)))))))))))
+-20.573173700617 -73.213824717239
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (VP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))
+-20.587709544883 -69.576805007529
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))
+-20.620306518014 -71.135585407363
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (VP (TO to) (VP (VB cope))) (PP (IN with) (NP (PRP them)))))))))
+-20.753842451769 -67.559551946219
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PP (IN with) (S (NP (PRP them))))))))))))
+-20.792446242281 -68.393299774307
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (S (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))))
+-21.165482689107 -74.038383855789
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (PP (TO to) (VP (VB cope) (PP (IN with) (NP (PRP them)))))))))
+-21.360262082406 -74.190507116441
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (PP (TO to) (S (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))
+-21.544367560118 -71.647877794511
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope))) (PP (IN with) (NP (PRP them)))))))))
+-21.585130027775 -69.062564053104
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PRT (RP with)) (NP (PRP them))))))))))
+-21.674262546123 -72.784256406806
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (PP (TO to) (NP (VB cope))) (PP (IN with) (NP (PRP them)))))))
+-21.979551318886 -72.306579704882
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (IN with) (NP (PRP them))))))))))
+-22.148685886922 -69.904161795768
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (PRT (IN with)) (NP (PRP them))))))))))
+-22.270732023091 -73.771307867306
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (PP (TO to) (NP (NP (VB cope)) (PP (IN with) (NP (PRP them)))))))))
+-22.787997056896 -72.491219249359
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (SBAR (IN with) (S (NP (PRP them)))))))))))
+-22.907469869355 -77.184956633853
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (VP (TO to) (VP (VB cope))) (PP (IN with) (NP (PRP them))))))))))
+-23.258744665210 -77.880321447056
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (S (VP (VP (VB cope)) (PP (IN with) (NP (PRP them)))))))))))
+-23.554688776958 -76.304428287445
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (SBAR (S (VP (TO to) (VP (VB cope) (PP (IN with) (S (NP (PRP them))))))))))))
+-23.725155008310 -77.262996466440
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (PP (TO to) (NP (VB cope))) (PP (IN with) (NP (PRP them))))))))
+-23.776638073894 -77.138176087739
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (SBAR (S (VP (TO to) (S (VP (VB cope) (PP (IN with) (NP (PRP them))))))))))))
+-23.894369306336 -72.470174093805
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope)))) (PP (IN with) (S (NP (PRP them))))))))
+-23.900443206809 -77.697803759281
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope) (ADVP (IN with) (NP (PRP them))))))))))
+-24.050071283152 -78.055393159127
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (PP (TO to) (NP (NP (VB cope)) (PP (IN with) (NP (PRP them))))))))))
+-24.355894906103 -75.760717774414
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (S (VP (VB cope) (IN with) (NP (PRP them))))))))))
+-24.486507899780 -76.546932942511
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VB cope))) (PP (IN with) (S (NP (PRP them)))))))))
+-24.683116592206 -78.291915305505
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (TO to) (VP (VB cope) (IN with) (NP (PRP them))))))))
+-24.774055704964 -77.807440394329
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (SBAR (S (VP (TO to) (VP (VB cope) (PRT (RP with)) (NP (PRP them))))))))))
+-24.900217721331 -75.876050904747
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (S (VP (VB cope) (PRT (RP with)) (NP (PRP them))))))))))
+-25.008476757512 -76.538273700419
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (S (VP (VB cope) (PP (IN with) (S (NP (PRP them))))))))))))
+-25.646025249984 -76.465820392142
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (S (VP (VB cope) (PRT (IN with)) (NP (PRP them))))))))))
+-25.806018498968 -78.120655803242
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cope)))) (PP (IN with) (S (NP (PRP them)))))))))
+

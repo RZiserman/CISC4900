@@ -1,0 +1,102 @@
+50 x
+-21.052616699973 -69.554426233986
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-21.784456233324 -70.526895231702
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind) (IN of)) (VP (VBG roughing) (NP (PRP it))))))
+-22.938646202484 -76.621604187315
+(S1 (S (NP (PRP you)) (VP (VBP 're) (VP (ADVP (NN kind) (IN of)) (VBG roughing) (NP (PRP it))))))
+-23.282682884361 -75.227990038284
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind) (IN of)) (S (VP (VBG roughing) (NP (PRP it)))))))
+-23.361069672203 -78.407513020758
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))
+-23.795978289968 -76.963826069401
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NN kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))
+-23.835254839104 -81.665425135667
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-24.265384769882 -73.757603698451
+(S1 (S (NP (PRP you)) (VP (VBP 're) (S (ADVP (RB kind) (IN of)) (VP (VBG roughing) (NP (PRP it)))))))
+-24.513585697855 -79.723490699256
+(S1 (S (NP (PRP you)) (VP (VBP 're) (PP (RB kind) (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))
+-24.656910173950 -82.507295702898
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (NP (NN roughing)))) (NP (PRP it)))))
+-24.785089821650 -79.846677596463
+(S1 (S (NP (PRP you)) (VP (VBP 're) (RB kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))
+-24.890995638275 -78.578764231809
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-25.341291333133 -85.481967946960
+(S1 (S (NP (PRP you)) (VP (VBP 're) (PP (ADVP (RB kind)) (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))
+-25.457879547688 -83.017516387656
+(S1 (S (NP (PRP you)) (VP (VBP 're) (S (ADVP (NN kind) (IN of)) (VP (VBG roughing) (NP (PRP it)))))))
+-25.493848237918 -81.322176475315
+(S1 (S (NP (PRP you)) (VP (VBP 're) (VP (ADVP (RB kind) (IN of)) (VBG roughing) (NP (PRP it))))))
+-25.507080715098 -81.235183537970
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB kind) (IN of)) (VP (VBG roughing) (NP (PRP it))))))
+-25.532391690869 -82.394506252519
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADJP (NN kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-25.747298302139 -83.410503075702
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (NP (VBG roughing)))) (NP (PRP it)))))
+-25.769312741998 -86.536242593550
+(S1 (S (NP (PRP you)) (VP (VBP 're) (VP (NN kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-25.775307538788 -86.100093537025
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NN roughing)) (NP (PRP it))))))))
+-25.789884550250 -84.066879732140
+(S1 (S (NP (PRP you)) (VP (VBP 're) (PP (RB kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-25.813222042401 -84.731958231840
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind) (IN of)) (VP (VB roughing) (NP (PRP it))))))
+-25.866345387416 -80.941000972794
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (RB kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-25.955392901435 -83.171183098162
+(S1 (S (NP (PRP you)) (VP (VBP 're) (S (VP (ADVP (NN kind) (IN of)) (VBG roughing) (NP (PRP it)))))))
+-26.153321529487 -83.882859877393
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (NP (NP (VBG roughing)) (NP (PRP it))))))))
+-26.301085282424 -86.896965906243
+(S1 (S (NP (PRP you)) (VP (VBP 're) (PP (NN kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-26.324153826170 -78.222765785211
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (S (VP (VBG roughing) (S (NP (PRP it))))))))))
+-26.335355155390 -84.142822935672
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind) (IN of)) (PP (VBG roughing) (NP (PRP it))))))
+-26.337796208665 -83.972256125157
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (S (VP (NN roughing) (NP (PRP it)))))))))
+-26.502858258702 -86.402934559105
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (ADVP (RB kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-26.580427971087 -85.991208610557
+(S1 (S (NP (PRP you)) (VP (VBP 're) (S (VP (NN kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))))
+-26.611370085634 -85.741406359940
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NN kind)) (PP (IN of)) (S (VP (VBG roughing) (NP (PRP it)))))))
+-26.613405564528 -77.584855256714
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind) (IN of)) (VP (VBG roughing) (S (NP (PRP it)))))))
+-26.650048727739 -84.638660821408
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of))) (S (VP (VBG roughing) (NP (PRP it)))))))
+-26.659694131004 -84.589938081805
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))
+-26.778453731853 -83.531651391130
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADJP (ADVP (RB kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))))
+-26.829775705782 -84.724082573545
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (VP (VBG roughing) (NP (PRP it))))))))
+-26.931363122459 -82.088835656986
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind) (IN of)) (VP (VBN roughing) (NP (PRP it))))))
+-26.962487497971 -83.107795111035
+(S1 (S (NP (PRP you)) (VP (VBP 're) (S (NP (NP (NN kind)) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))))
+-26.999788563347 -85.936278344551
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB kind) (IN of)) (S (VP (VBG roughing) (NP (PRP it)))))))
+-27.087235961741 -86.515288504227
+(S1 (S (NP (PRP you)) (VP (VBP 're) (RB kind) (ADVP (IN of)) (VP (VBG roughing) (NP (PRP it))))))
+-27.115254484414 -85.098025054984
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (SBAR (S (VP (VBG roughing) (NP (PRP it))))))))))
+-27.247268431157 -85.313125674921
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (S (VP (JJ roughing) (NP (PRP it)))))))))
+-27.341095212861 -84.704719362674
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NN kind))) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it)))))))
+-27.460707601783 -84.808396411722
+(S1 (S (NP (PRP you)) (VP (VBP 're) (S (ADJP (RB kind) (PP (IN of) (S (VP (VBG roughing) (NP (PRP it))))))))))
+-28.215966586783 -86.419794689731
+(S1 (S (NP (PRP you)) (VP (VBP 're) (SBAR (S (ADVP (RB kind) (IN of)) (VP (VBG roughing) (NP (PRP it))))))))
+-28.554220044012 -83.896329719814
+(S1 (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN kind) (IN of)) (S (VP (VBG roughing) (S (NP (PRP it))))))))
+-28.752403620993 -86.007427364829
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of) (NP (NN roughing)))) (S (NP (PRP it))))))
+-29.067515413378 -85.632165620626
+(S1 (S (NP (PRP you)) (VP (VBP 're) (NP (NN kind)) (PP (IN of) (S (VP (VBG roughing) (S (NP (PRP it)))))))))
+-29.537238129533 -82.425943379981
+(S1 (S (NP (PRP you)) (VP (VBP 're) (S (ADVP (RB kind) (IN of)) (VP (VBG roughing) (S (NP (PRP it))))))))
+

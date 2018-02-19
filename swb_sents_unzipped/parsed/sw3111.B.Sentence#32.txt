@@ -1,0 +1,102 @@
+50 x
+-43.269995534235 -138.452564988667
+(S1 (S (ADVP (RB Though)) (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PP (IN by))))))))))
+-44.119801167498 -139.653798209825
+(S1 (S (ADVP (IN Though) (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PP (IN by))))))))))
+-44.148453822708 -138.022870086154
+(S1 (S (ADVP (RB Though)) (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by))))))))))
+-44.300264893206 -134.564568349712
+(S1 (S (ADVP (RB Though)) (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-44.396326780096 -138.721560160625
+(S1 (S (ADVP (RB Though)) (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PP (IN by))))))))))
+-44.713013324309 -138.616925298508
+(S1 (S (PP (IN Though) (NP (NNP uh) (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-44.713211157161 -139.183958960515
+(S1 (S (ADVP (RB Though)) (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (IN by))))))))))
+-44.998259455971 -139.224103307312
+(S1 (S (ADVP (IN Though) (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by))))))))))
+-45.014171888457 -139.244055422093
+(S1 (S (ADVP (RB Though)) (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RB by))))))))))
+-45.126158704346 -135.765801570871
+(S1 (S (ADVP (IN Though) (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-45.274785068569 -138.291865258112
+(S1 (S (ADVP (RB Though)) (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by))))))))))
+-45.416451046007 -138.526203478556
+(S1 (S (PP (IN Though) (NP (NNP uh) (NNP Washington))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))
+-45.426596139067 -134.833563521671
+(S1 (S (ADVP (RB Though)) (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-45.563016790424 -140.385192181674
+(S1 (S (ADVP (IN Though) (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (IN by))))))))))
+-45.839542375144 -139.452954132474
+(S1 (S (ADVP (RB Though)) (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (IN by))))))))))
+-45.923891193193 -140.185330832769
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by))))))))))
+-45.929392135714 -139.034111745176
+(S1 (S (ADVP (RB Though) (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-46.051790441569 -136.727029096328
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-46.090231249760 -139.966421895680
+(S1 (FRAG (SBAR (IN Though) (S (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))))
+-46.119393377132 -137.663762280836
+(S1 (S (ADVP (RB Though)) (S (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))))))
+-46.140503134318 -139.513050594051
+(S1 (S (ADVP (RB Though)) (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RB by))))))))))
+-46.476939133152 -137.522506056627
+(S1 (S (ADVP (RB Though)) (INTJ (UH uh) (NNP Washington)) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by))))))))))
+-46.765270948900 -136.508061934082
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))
+-46.806353021674 -137.033106045233
+(S1 (S (PP (IN Though) (ADVP (UH uh)) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-46.864801168636 -140.068865941391
+(S1 (S (ADVP (RB Though)) (S (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by)))))))))))
+-46.942827737012 -136.610564204950
+(S1 (S (ADVP (RB Though)) (S (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))))))
+-46.966685751433 -139.868645129018
+(S1 (S (ADVP (RB Though)) (NP (NNP uh) (NNP Washington) (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))
+-47.027946459929 -140.396058573036
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PP (IN by)))))))
+-47.252271952291 -137.206147114408
+(S1 (S (ADVP (RB Though)) (NP (UH uh)) (VP (NNP Washington) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))))
+-47.272376770560 -138.183458073854
+(S1 (FRAG (ADVP (RB Though)) (NP (NNP uh) (NNP Washington)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))))))
+-47.293892720813 -139.959746969361
+(S1 (FRAG (SBAR (IN Though) (S (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))))
+-47.302832916415 -138.723739277786
+(S1 (S (ADVP (IN Though) (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by))))))))))
+-47.416183424761 -136.814139035926
+(S1 (S (PP (IN Though) (ADVP (UH uh)) (NP (NNP Washington))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))
+-47.426942250584 -140.193196012592
+(S1 (S (IN Though) (NP (UH uh)) (VP (NNP Washington) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))))
+-47.484164758561 -140.410949452477
+(S1 (FRAG (PP (IN Though) (NP (UH uh))) (NP (NNP Washington)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by)))))))))))
+-47.603270351135 -137.791501228586
+(S1 (S (ADVP (RB Though)) (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by))))))))))
+-47.770583538058 -136.952647716035
+(S1 (FRAG (PP (IN Though) (NP (UH uh))) (NP (NNP Washington)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))))))
+-47.906404748402 -139.966363670523
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by)))))))
+-48.228464653637 -139.684966803243
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by))))))))))
+-48.273833294182 -139.796957971219
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))))))
+-48.368623907669 -139.909056668558
+(S1 (S (ADVP (RB Though)) (ADVP (UH uh)) (VP (NNP Washington) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by))))))))))))
+-48.414545527593 -139.449812744142
+(S1 (S (ADVP (RB Though)) (NP (UH uh)) (VP (NNP Washington) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))))))))
+-48.557317224263 -140.272440772368
+(S1 (S (PP (IN Though) (ADVP (UH uh)) (NP (NNP Washington))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (NP (IN by)))))))
+-48.941945160968 -139.465999640997
+(S1 (S (PP (IN Though) (ADVP (UH uh) (NP (NNP Washington)))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by)))))))
+-48.983027261620 -139.991043752148
+(S1 (S (PP (IN Though) (ADVP (UH uh)) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by))))))))))
+-49.020460514287 -140.103034920125
+(S1 (S (PP (IN Though) (ADVP (UH uh)) (NP (NNP Washington))) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (PRT (RP by)))))))))))
+-49.119501949080 -139.568501911865
+(S1 (S (ADVP (RB Though)) (S (ADVP (UH uh) (NP (NNP Washington))) (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by)))))))))))
+-49.428946164359 -140.164084821323
+(S1 (S (ADVP (RB Though)) (NP (UH uh)) (VP (NNP Washington) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by))))))))))))
+-49.592857636829 -139.772076742841
+(S1 (S (PP (IN Though) (ADVP (UH uh)) (NP (NNP Washington))) (S (NP (PRP I)) (VP (VBP think))) (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by)))))))
+-49.947257750127 -139.910585422950
+(S1 (FRAG (PP (IN Though) (NP (UH uh))) (NP (NNP Washington)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (VP (VBZ is) (S (INTJ (UH uh)) (VP (VB close) (ADVP (RP by)))))))))))
+

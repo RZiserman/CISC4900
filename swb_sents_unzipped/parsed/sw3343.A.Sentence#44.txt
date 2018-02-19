@@ -1,0 +1,102 @@
+50 x
+-14.197064421481 -58.174754074620
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say)))))))))
+-14.273504385683 -58.062519673733
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say)))))))))
+-14.289636633883 -56.247721386325
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say)))))))
+-15.524983493744 -63.695631703730
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB say))))))))
+-15.669856963536 -52.798323643328
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))
+-15.674758315336 -54.613121917487
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-15.785291589033 -58.036753287272
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say))))))))
+-15.822674992804 -62.737566497053
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say)))))))
+-15.900551256580 -58.270147596410
+(S1 (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say)))))))))
+-15.910322799348 -58.336908965296
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say))))))))
+-15.992945339177 -63.410361694266
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB say))))))))
+-16.041049472342 -60.084945833652
+(S1 (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say)))))))))))
+-16.068354430752 -59.027242303763
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say)))))))))
+-16.155209049301 -60.842040541005
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say)))))))))))
+-16.422408767393 -62.780009672992
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-16.808865967926 -59.371759524575
+(S1 (NP (NN I) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))
+-16.959065928810 -61.664365427835
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (ADJP (RB hard) (SBAR (S (VP (TO to) (VP (VB say)))))))))
+-17.001694779726 -61.186557798733
+(S1 (NP (NN I) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-17.002515846688 -63.075685353776
+(S1 (S (NP (NN I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say)))))))
+-17.073963624806 -62.265037255496
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))
+-17.186545515898 -54.587355531025
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))
+-17.213148814303 -64.079835458603
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-17.281545099557 -59.591930830278
+(S1 (NP (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))
+-17.351054818771 -62.621580044242
+(S1 (S (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))))
+-17.351505768008 -60.510184763015
+(S1 (FRAG (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))))
+-17.373165657678 -59.960963899505
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB say)))))))))
+-17.474373908569 -61.406729104436
+(S1 (NP (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-17.492003986557 -62.324983000258
+(S1 (FRAG (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))))
+-17.553345765692 -60.059179447191
+(S1 (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say))))))))))
+-17.667505339863 -60.816274154544
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say))))))))))
+-17.738817936533 -61.669246407766
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-17.901800711204 -63.150174280733
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (ADJP (RB hard) (S (VP (TO to) (VP (VB say))))))))
+-18.064664413333 -63.989442065422
+(S1 (FRAG (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say)))))))))
+-18.136176232472 -62.942164563667
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))
+-18.158921837267 -64.311763504558
+(S1 (FRAG (NP (PRP I)) (NP (PRP it)) (S (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))
+-18.513991070288 -61.160791412272
+(S1 (NP (NN I) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))
+-18.594247025986 -61.585181827012
+(S1 (S (ADVP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say)))))))))
+-18.610379271398 -59.770383539603
+(S1 (S (ADVP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say)))))))
+-18.725445104866 -64.054069072142
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))
+-18.756649094255 -61.934382511105
+(S1 (FRAG (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB say))))))))
+-18.794160446055 -63.749180785263
+(S1 (FRAG (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-18.986670201919 -61.380962717975
+(S1 (NP (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))
+-19.003849330670 -64.410611895023
+(S1 (S (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))))
+-19.004300277119 -62.299216613797
+(S1 (FRAG (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))))
+-19.794267450899 -62.454505573695
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB hard) (SBAR (S (VP (TO to) (VP (VB say))))))))))
+-20.106034226548 -61.559415440550
+(S1 (S (ADVP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say))))))))
+-20.305947646618 -63.723414398802
+(S1 (FRAG (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB say)))))))))
+-20.542158240320 -62.403396378402
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB hard)) (S (VP (TO to) (VP (VB say))))))))
+-20.772102925245 -64.196842064507
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB hard) (S (VP (TO to) (VP (VB say)))))))))
+-21.958688206902 -63.404844472413
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (PP (TO to) (NP (VB say))))))))
+

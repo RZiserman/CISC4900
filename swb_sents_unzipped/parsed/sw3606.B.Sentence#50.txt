@@ -1,0 +1,102 @@
+50 x
+-29.958899554723 -97.829225782550
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (NP (RB too) (RB long)) (PP (IN with) (NP (PRP it)))))))))
+-30.140072633611 -98.824242714083
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (NP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-30.328820399460 -94.368651217591
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it)))))))
+-30.416036916037 -99.169552138880
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (NP (RB too) (RB long)) (PP (IN with) (NP (PRP it)))))))))
+-30.597210003289 -100.164569070413
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (NP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-30.785957757987 -95.708977573921
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it)))))))
+-30.902590256582 -97.456029993793
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-31.054009827924 -96.981343059979
+(S1 (S (ADVP (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it)))))))
+-31.359727617897 -98.796356350123
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-31.627779676682 -100.068721836181
+(S1 (S (ADVP (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-31.705949175104 -100.033421676882
+(S1 (S (INTJ (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (NP (RB too) (RB long)) (PP (IN with) (NP (PRP it)))))))))
+-31.859634497052 -99.960976374640
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADVP (ADVP (RB too) (RB long)) (PP (IN with) (NP (PRP it)))))))))
+-32.063083416342 -98.815111347996
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long) (IN with) (NP (PRP it))))))))
+-32.075870011479 -96.572847111924
+(S1 (S (INTJ (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it)))))))
+-32.140359818818 -97.626030775486
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long))) (PP (IN with) (NP (PRP it)))))))
+-32.276067853792 -98.805618677942
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (NP (NP (RB too) (RB long)) (PP (IN with) (NP (PRP it)))))))))
+-32.441997229459 -97.181342128884
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-32.488950005429 -97.300388508306
+(S1 (S (ADVP (RB well)) (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it))))))))
+-32.494140424438 -98.452653035688
+(S1 (ADJP (RB well) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it)))))))))
+-32.520220774868 -100.155437704326
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long) (IN with) (NP (PRP it))))))))
+-32.560688763684 -100.171710275988
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (NP (NP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-32.569306403430 -99.667401450316
+(S1 (S (ADJP (RB well) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it))))))))))
+-32.570197534824 -97.998112019238
+(S1 (S (RB well) (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it))))))))
+-32.597497177344 -98.966357131816
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long))) (PP (IN with) (NP (PRP it)))))))
+-32.598979853129 -95.844985483188
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-32.649639871388 -99.660225888126
+(S1 (S (INTJ (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-32.733205203955 -100.145945034272
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (NP (NP (RB too) (RB long)) (PP (IN with) (NP (PRP it)))))))))
+-32.739177295106 -99.745042005781
+(S1 (FRAG (RB well) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it)))))))))
+-32.865549241705 -100.238722617874
+(S1 (S (ADVP (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long))) (PP (IN with) (NP (PRP it)))))))
+-32.899134590774 -98.521668485214
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-33.056117214443 -97.185311839518
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-33.167186657923 -99.794033971272
+(S1 (S (ADVP (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-33.324169284380 -98.457677325576
+(S1 (S (ADVP (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-33.728393861093 -100.117848937391
+(S1 (FRAG (ADJP (RB well) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (NP (RB too) (RB long))) (PP (IN with) (NP (PRP it))))))))))
+-33.887409430836 -99.830226669818
+(S1 (S (INTJ (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long))) (PP (IN with) (NP (PRP it)))))))
+-34.189046841478 -99.385538023217
+(S1 (S (INTJ (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it)))))))))
+-34.346029467935 -98.049181377521
+(S1 (S (INTJ (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-34.393835486141 -96.486610038652
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-34.440724319348 -99.936439596362
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (NP (RB too) (RB long) (IN with) (NP (PRP it))))))))
+-34.570682655513 -98.982820706000
+(S1 (S (INTJ (UH well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (NP (RB too) (RB long)))) (PP (IN with) (NP (PRP it))))))
+-34.717782747731 -100.113079496133
+(S1 (S (ADVP (RB well)) (S (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (RB too) (JJ long) (PP (IN with) (NP (PRP it))))))))))
+-34.798971559098 -98.776722773903
+(S1 (S (ADVP (RB well)) (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it))))))))))
+-34.804161978107 -99.928987301284
+(S1 (ADJP (RB well) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))))
+-34.850972844668 -97.826936394982
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-34.880219088492 -99.474446284835
+(S1 (S (RB well) (S (NP (PRP they)) (VP (VBP 're) (RB not) (VP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it))))))))))
+-35.027820025191 -100.323147062330
+(S1 (S (RB well) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (NP (RB too) (RB long)))) (PP (IN with) (NP (PRP it))))))
+-35.119024914605 -99.099301881040
+(S1 (S (ADVP (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-36.140885098160 -98.690805932985
+(S1 (S (INTJ (RB well)) (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it)))))))))
+-36.669621004412 -99.418347405901
+(S1 (S (ADVP (RB well)) (S (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it))))))))))
+-36.750868528231 -100.116070916833
+(S1 (S (RB well) (S (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (VBN entertained) (PP (IN for) (ADJP (ADJP (RB too) (JJ long)) (PP (IN with) (NP (PRP it))))))))))
+

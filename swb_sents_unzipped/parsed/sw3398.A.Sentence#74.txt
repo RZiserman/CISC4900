@@ -1,0 +1,102 @@
+50 x
+-20.667165219925 -71.688786632049
+(S1 (S (CC and) (VP (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-21.375999885933 -72.281966636832
+(S1 (S (CC and) (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-21.658997002433 -71.230738625628
+(S1 (SINV (CC and) (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))
+-22.054571690924 -70.492087039410
+(S1 (FRAG (CC and) (VP (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-22.844931653425 -77.673163779877
+(S1 (S (CC and) (S (VP (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-23.118096322547 -75.625453771937
+(S1 (X (CC and) (VP (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-23.471168412550 -73.138740090199
+(S1 (FRAG (CC and) (S (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-23.689399088753 -79.268829847252
+(S1 (VP (CC and) (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))
+-24.044211524172 -82.322908948375
+(S1 (S (VP (CC and) (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-24.095916312164 -76.849821162493
+(S1 (X (CC and) (S (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-24.217544436842 -76.353806186434
+(S1 (FRAG (CC and) (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-24.351618152987 -78.752148252453
+(S1 (X (CC and) (S (VP (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-24.353514648169 -78.431199365785
+(S1 (X (CC and) (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-24.656793758933 -81.317383021904
+(S1 (S (CC and) (S (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-24.687904979355 -80.509280793956
+(S1 (FRAG (VP (CC and) (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-24.814419830135 -79.087902921476
+(S1 (FRAG (CC and) (S (VP (VB have) (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-25.191724727831 -81.621800634362
+(S1 (S (CC and) (VP (VB have) (S (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-25.257645269648 -82.560968021393
+(S1 (S (NP (CC and)) (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))
+-25.427340867508 -82.694099830890
+(S1 (S (CC and) (VP (VBP have) (NP (DT a) (NP (JJ happy) (NNP Thanksgiving))))))
+-25.573509218034 -79.954764099869
+(S1 (S (CC and) (VP (VB have) (NP (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving))))))
+-25.780401223963 -79.309987085885
+(S1 (S (CC and) (VP (VBP have) (NP (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving))))))
+-25.788751921207 -80.649904992418
+(S1 (S (CC and) (VP (VBP have) (DT a) (ADJP (JJ happy) (NNP Thanksgiving)))))
+-25.831483433290 -78.078964303594
+(S1 (SINV (CC and) (VBP have) (NP (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))
+-25.974804317459 -82.272668419944
+(S1 (S (CC and) (VP (VB have) (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))
+-25.977770215838 -82.329240096423
+(S1 (S (CC and) (VP (VBP have) (S (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-26.023963532998 -78.061911138865
+(S1 (SINV (CC and) (VBP have) (NP (DT a)) (ADJP (JJ happy) (NNP Thanksgiving))))
+-26.063052969855 -78.624084635387
+(S1 (S (CC and) (VP (VB have) (NP (DT a) (ADJP (JJ happy)) (NNP Thanksgiving)))))
+-26.126511437864 -81.253073332810
+(S1 (S (CC and) (VP (VBP have) (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))
+-26.205229089563 -81.802144834514
+(S1 (FRAG (CC and) (SBAR (S (VP (VBP have) (NP (DT a) (JJ happy) (NNP Thanksgiving)))))))
+-26.343447143518 -82.644699331223
+(S1 (S (CC and) (VP (VB have) (NP (NP (DT a) (JJ happy)) (NNP Thanksgiving)))))
+-26.354412489920 -79.786163623457
+(S1 (SINV (CC and) (VBP have) (NP (NP (DT a) (JJ happy)) (NNP Thanksgiving))))
+-26.508530905837 -77.764488336544
+(S1 (SINV (CC and) (VBP have) (NP (DT a) (ADJP (JJ happy)) (NNP Thanksgiving))))
+-26.750296576961 -76.950012893702
+(S1 (SINV (CC and) (VBP have) (NP (DT a) (JJ happy)) (ADJP (NNP Thanksgiving))))
+-26.857300083768 -78.426155801904
+(S1 (FRAG (CC and) (VP (VB have) (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))
+-27.068380783754 -81.305147128516
+(S1 (FRAG (CC and) (VP (VB have) (S (NP (DT a) (JJ happy) (NNP Thanksgiving))))))
+-27.102588190684 -78.479325732256
+(S1 (FRAG (CC and) (VP (VB have) (NP (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving))))))
+-27.139851974932 -80.713724379617
+(S1 (S (CC and) (VP (VB have) (S (NP (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))))
+-27.151414636246 -81.147801603663
+(S1 (S (CC and) (VP (VBP have) (NP (DT a) (ADJP (JJ happy)) (NNP Thanksgiving)))))
+-27.520198507156 -77.427385131802
+(S1 (FRAG (CC and) (VP (VB have) (NP (DT a) (ADJP (JJ happy)) (NNP Thanksgiving)))))
+-27.586815247508 -83.375373128062
+(S1 (SINV (CC and) (VBP have) (NP (NP (DT a)) (NP (JJ happy) (NNP Thanksgiving)))))
+-27.614081752990 -82.434304843640
+(S1 (X (CC and) (VP (VB have) (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))
+-27.875569750581 -80.166760539252
+(S1 (FRAG (CC and) (S (VP (VBP have) (NP (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))))
+-27.917213571278 -81.506678561450
+(S1 (FRAG (CC and) (S (VP (VBP have) (DT a) (ADJP (JJ happy) (NNP Thanksgiving))))))
+-28.037783277517 -81.447999741964
+(S1 (FRAG (CC and) (VP (VB have) (NP (NP (DT a) (JJ happy)) (NNP Thanksgiving)))))
+-28.148955673607 -83.186013591980
+(S1 (FRAG (CC and) (S (VP (VBP have) (S (NP (DT a) (JJ happy) (NNP Thanksgiving)))))))
+-28.221679986784 -82.109846855093
+(S1 (FRAG (CC and) (S (VP (VBP have) (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving))))))
+-28.583723138779 -82.560751864329
+(S1 (X (CC and) (VP (VB have) (NP (DT a) (ADJP (JJ happy)) (NNP Thanksgiving)))))
+-29.246583165652 -82.004575057030
+(S1 (FRAG (CC and) (S (VP (VBP have) (NP (DT a) (ADJP (JJ happy)) (NNP Thanksgiving))))))
+-29.261510862048 -81.293434851804
+(S1 (FRAG (CC and) (VP (VB have) (S (NP (NP (DT a) (JJ happy)) (NP (NNP Thanksgiving)))))))
+-31.918602949007 -81.154221778702
+(S1 (SINV (CC and) (VBP have) (NP (NP (DT a)) (ADJP (JJ happy))) (ADJP (NNP Thanksgiving))))
+

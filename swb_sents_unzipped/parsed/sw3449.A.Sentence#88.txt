@@ -1,0 +1,102 @@
+50 x
+-37.377270891683 -115.464475124733
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NNP T) (CD I) (NN thing))))))))
+-38.190988772874 -116.125149772213
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (FW T) (FW I) (NN thing))))))))
+-38.247875193040 -119.217103809396
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN on) (NP (DT this) (NNP T) (CD I) (NN thing)))))))))
+-38.256328488919 -116.856595321558
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (JJ T) (CD I) (NN thing))))))))
+-38.322000297690 -121.033155677278
+(S1 (SBAR (WHADVP (WRB How)) (S (VBD did) (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (ADJP (FW T) (FW I)) (NN thing))))))
+-38.422226265605 -121.222295022245
+(S1 (SBAR (WHADVP (WRB How)) (S (VBD did) (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (ADJP (JJ T) (NP (PRP I))) (NN thing))))))
+-38.561476911904 -120.145701743481
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NNP T) (NN I) (NN thing))))))))
+-38.629445886201 -119.562553290654
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NNP T) (NNP I) (NN thing))))))))
+-38.732473700965 -119.156333145362
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (JJ T) (NN I) (NN thing))))))))
+-38.798283065495 -118.976503136750
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (VBG T) (CD I) (NN thing))))))))
+-38.823177006017 -118.321939157843
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NN T) (CD I) (NN thing))))))))
+-38.850898426601 -117.915317131508
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (ADJP (FW T) (FW I)) (NN thing))))))))
+-38.935480735323 -120.173880810244
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NNP T) (FW I) (NN thing))))))))
+-38.983431689076 -118.681505908017
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (ADJP (JJ T) (NP (PRP I))) (NN thing))))))))
+-39.045299912488 -120.801688168465
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (VBN T) (CD I) (NN thing))))))))
+-39.046732626231 -119.877778456876
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN on) (NP (DT this) (FW T) (FW I) (NN thing)))))))))
+-39.124960059192 -120.359484159076
+(S1 (SBAR (WHADVP (WRB How)) (S (VBD did) (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (ADJP (CD T) (NN I)) (NN thing))))))
+-39.126932790276 -120.609224006221
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN on) (NP (DT this) (JJ T) (CD I) (NN thing)))))))))
+-39.285714782163 -117.562949396237
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (ADJP (CD T) (NN I)) (NN thing))))))))
+-39.437172455468 -118.726390117250
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (NNP T) (CD I) (NN thing)))))))
+-39.456020662728 -120.748330088100
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NNP T) (CD I) (NN thing)))))))))
+-39.514434532617 -121.195157252456
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NN T) (NN I) (NN thing))))))))
+-39.761331151187 -120.537169181570
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NN T))) (NP (CD I) (NN thing)))))))
+-39.788518334456 -121.357971574378
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (S (NP (DT this)) (VP (VBG T) (NP (CD I) (NN thing))))))))))
+-39.876201335320 -118.854505659327
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (JJ T) (CD I) (NN thing))))))))
+-39.931998577271 -120.329967140647
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NN T))) (S (NP (PRP I)) (NP (NN thing))))))))
+-39.983401098109 -120.275514817336
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (NNP T) (NN I) (NN thing)))))))
+-40.070185555037 -119.173319161266
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (FW T) (FW I) (NN thing))))))))
+-40.072406710627 -117.649938727393
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (JJ T) (CD I) (NN thing)))))))
+-40.075392458719 -120.321951506980
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NN T))) (S (NP (PRP I)) (VP (NN thing))))))))
+-40.127653528196 -121.361031582266
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (NN T)) (NP (CD I) (NN thing))))))))
+-40.141741426084 -117.976139830166
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (FW T) (FW I) (NN thing)))))))
+-40.217511693736 -118.550273457680
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (JJ T) (NN I) (NN thing)))))))
+-40.254878068041 -121.409004735581
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (FW T) (FW I) (NN thing)))))))))
+-40.259495460389 -118.348525261306
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (ADJP (FW T) (FW I)) (NN thing))))))))
+-40.278057453520 -121.315578080900
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN on) (NP (DT this) (ADJP (CD T) (NN I)) (NN thing)))))))))
+-40.285208320056 -117.476962134011
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (ADJP (FW T) (FW I)) (NN thing)))))))
+-40.305214841878 -120.101243905717
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (JJ T) (NN I) (NN thing))))))))
+-40.319580307848 -117.666101478979
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (ADJP (JJ T) (NP (PRP I))) (NN thing)))))))
+-40.382821528303 -118.537664606274
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (ADJP (JJ T) (NP (PRP I))) (NN thing))))))))
+-40.775811645378 -119.476007655313
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PP (IN on) (NP (DT this) (NN T))))) (NP (CD I) (NN thing)))))
+-40.809511603557 -116.803290615810
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (ADJP (CD T) (NN I)) (NN thing)))))))
+-41.048412994012 -117.674853743105
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (RP on)) (NP (DT this) (ADJP (CD T) (NN I)) (NN thing))))))))
+-41.454602379158 -120.748500130796
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (NN T) (CD I) (NN thing)))))))
+-41.527868845499 -121.194170496448
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)) (NP (DT this) (NN T) (NN I) (NN thing)))))))
+-42.550021288492 -120.810964199094
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (IN on)) (NP (DT this) (JJ T) (CD I) (NN thing)))))))
+-42.619356003949 -121.137165301866
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (IN on)) (NP (DT this) (FW T) (FW I) (NN thing)))))))
+-42.751775597920 -120.637987605712
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (IN on)) (NP (DT this) (ADJP (FW T) (FW I)) (NN thing)))))))
+-42.786147585713 -120.827126950679
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (IN on)) (NP (DT this) (ADJP (JJ T) (NP (PRP I))) (NN thing)))))))
+-43.276078881422 -119.964316087510
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (PRT (IN on)) (NP (DT this) (ADJP (CD T) (NN I)) (NN thing)))))))
+

@@ -1,0 +1,102 @@
+50 x
+-13.541294317320 -56.275707417380
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too))))))
+-14.985524690229 -65.125642627123
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (PRT (RB too))))))
+-16.947231908972 -65.998405325075
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (NP (PRP it)) (ADVP (RB too)))))))
+-17.083549891208 -66.852443628075
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it)) (ADVP (RB too)))))))
+-17.254105953501 -66.050328729781
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (S (NP (PRP it)) (ADJP (RB too)))))))
+-17.366462848920 -66.409281539602
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (NP (PRP it)) (NP (RB too)))))))
+-17.391450824261 -67.370854068471
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it) (RB too))))))
+-17.506552983296 -66.623723817800
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (S (NP (PRP it)) (ADVP (RB too)))))))
+-17.610114572340 -68.881128365298
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (PP (RB too))))))
+-17.928584394979 -69.256390905603
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (NP (RB too))))))
+-18.169821567995 -73.634904412915
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (NP (PRP it)) (RB too))))))
+-18.219398970522 -70.784735919154
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (ADVP (NP (PRP it)) (RB too))))))
+-18.271756878927 -73.386546892237
+(S1 (S (NP (JJ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too))))))
+-18.588941314900 -67.794236022919
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (ADVP (PRP it) (RB too))))))
+-19.060758734946 -64.421644267978
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)))) (ADVP (RB too))))
+-19.143818374631 -75.586129773309
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it)) (PRT (RB too)))))))
+-19.207026950007 -72.993906117080
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (SBAR (S (VP (VBG doing) (NP (PRP it)) (ADVP (RB too))))))))
+-19.646413868399 -73.095200227811
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADJP (RB too))))))
+-20.441781604958 -75.885563902022
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it)) (PP (RB too)))))))
+-20.537469804675 -74.776698115505
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (NP (PRP it)) (ADVP (RB too))))))))
+-20.540086662733 -69.438626816650
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too))))))
+-20.931371011790 -74.568128101252
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it)))) (ADVP (RB too)))))
+-20.956700744623 -75.187574330031
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (NP (PRP it)) (NP (RB too))))))))
+-20.975297899964 -76.149146858900
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it) (RB too)))))))
+-21.042086139016 -77.962185306040
+(S1 (S (NP (PRP$ My) (NN husband)) (S (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too)))))))
+-21.058091335056 -75.747361686156
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (S (NP (PRP it)) (ADJP (RB too))))))))
+-21.082863366183 -78.905586317524
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (NP (NP (PRP it)) (PP (RB too)))))))
+-21.220948922006 -78.006233635783
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (S (NP (PRP it)) (NP (RB too)))))))
+-21.310538362064 -76.320756774175
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (S (NP (PRP it)) (ADVP (RB too))))))))
+-21.329919070262 -76.257038176233
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it)) (ADJP (RB too)))))))
+-21.333781794221 -79.823200538664
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VP (VBZ is)) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too))))))
+-21.597114076763 -78.579773564180
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it)) (NP (RB too)))))))
+-21.662436630599 -76.853871085813
+(S1 (S (NP (PRP$ My) (NN husband)) (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too)))))
+-21.824311177879 -76.098740048457
+(S1 (NP (PRP$ My) (NN husband) (S (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too)))))))
+-21.964127206529 -78.598632717349
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (S (NP (NP (PRP it)) (ADVP (RB too))))))))
+-21.984317035641 -78.288562026393
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (PRT (RB too))))))
+-22.660946880202 -80.918160672380
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (SBAR (S (VP (VBG doing) (NP (NP (PRP it)) (ADVP (RB too)))))))))
+-22.742546945245 -78.877494049390
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (ADVP (PRP it) (RB too)))))))
+-22.756999203586 -80.808018745812
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (PP (VBG doing) (NP (PRP it))) (ADVP (RB too)))))
+-22.918438796650 -80.262289047261
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (S (NP (NP (PRP it)) (NP (RB too))))))))
+-22.996956771284 -79.860475824111
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (VP (VBG doing) (S (ADVP (PRP it) (RB too)))))))
+-23.255806607310 -78.724766564353
+(S1 (S (NP (PRP$ My) (NN husband) (S (VP (VBZ is) (VP (VBG doing) (NP (PRP it)) (ADVP (RB too))))))))
+-23.615220597998 -73.641924259878
+(S1 (S (NP (PRP$ My) (NN husband)) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it))))) (ADVP (RB too))))
+-23.917506336620 -80.015363027345
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (S (VP (VBG doing) (NP (PRP it)) (ADVP (RB too)))))))
+-23.946024251597 -79.161324724345
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (NP (NP (PRP it)) (ADVP (RB too)))))))
+-24.252898298913 -79.213248129051
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (S (NP (PRP it)) (ADJP (RB too)))))))
+-24.365255194332 -79.572200938872
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (NP (NP (PRP it)) (NP (RB too)))))))
+-24.390243169673 -80.533773467741
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (NP (PRP it) (RB too))))))
+-24.505345328708 -79.786643217070
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (S (NP (PRP it)) (ADVP (RB too)))))))
+-26.029823680359 -77.584563667248
+(S1 (S (NP (PRP$ My) (NX (NN husband))) (VP (VBZ is) (VP (VBG doing) (NP (PRP it)))) (ADVP (RB too))))
+

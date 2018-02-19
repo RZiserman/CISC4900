@@ -1,0 +1,102 @@
+50 x
+-11.965356575333 -42.369730438132
+(S1 (PP (IN With) (NP (DT those) (NNS degrees))))
+-12.010408116786 -39.352890020506
+(S1 (FRAG (PP (IN With) (NP (DT those) (NNS degrees)))))
+-13.713039791109 -44.715182222248
+(S1 (S (PP (IN With) (NP (DT those) (NNS degrees)))))
+-14.633484921195 -46.219623103029
+(S1 (FRAG (IN With) (NP (DT those) (NNS degrees))))
+-15.058616374528 -49.971323808707
+(S1 (SBAR (IN With) (S (NP (DT those) (NNS degrees)))))
+-15.745749788542 -53.587433788773
+(S1 (X (PP (IN With) (NP (DT those) (NNS degrees)))))
+-16.251017461826 -55.318876312572
+(S1 (NP (IN With) (NP (DT those) (NNS degrees))))
+-16.332501290681 -55.344835970077
+(S1 (S (VP (IN With) (NP (DT those) (NNS degrees)))))
+-16.371244370796 -49.020612374720
+(S1 (FRAG (PP (IN With) (NP (DT those) (NP (NNS degrees))))))
+-16.402542156736 -52.311323231260
+(S1 (PP (IN With) (NP (DT those) (NP (NNS degrees)))))
+-16.430166760661 -49.184837865246
+(S1 (FRAG (SBAR (IN With) (S (NP (DT those) (NNS degrees))))))
+-16.448473956540 -54.957922079221
+(S1 (S (IN With) (NP (DT those) (NNS degrees))))
+-16.449838140224 -52.775838307733
+(S1 (SBAR (S (PP (IN With) (NP (DT those) (NNS degrees))))))
+-17.098646313563 -56.524185781368
+(S1 (NP (IN With) (DT those) (NNS degrees)))
+-17.130110030539 -52.328400052864
+(S1 (FRAG (X (IN With)) (NP (DT those) (NNS degrees))))
+-17.161049688937 -56.610198245904
+(S1 (X (IN With) (NP (DT those) (NNS degrees))))
+-17.585205619724 -53.820457723238
+(S1 (FRAG (S (PP (IN With) (NP (DT those) (NNS degrees))))))
+-17.908677523464 -56.427217306917
+(S1 (PP (IN With) (NP (NP (DT those)) (NNS degrees))))
+-17.965080459342 -53.410376873915
+(S1 (FRAG (PP (IN With) (NP (NP (DT those)) (NNS degrees)))))
+-18.034785549631 -54.809290718977
+(S1 (S (PP (IN With) (NP (DT those) (NP (NNS degrees))))))
+-18.139168361836 -53.488274496533
+(S1 (FRAG (ADVP (IN With) (NP (DT those) (NNS degrees)))))
+-18.313385193411 -54.830946916369
+(S1 (FRAG (SBAR (S (PP (IN With) (NP (DT those) (NNS degrees)))))))
+-18.368686006661 -55.613652529444
+(S1 (S (ADVP (IN With) (NP (DT those) (NNS degrees)))))
+-18.476438321970 -51.307259317108
+(S1 (S (PP (IN With) (NP (DT those))) (NP (NNS degrees))))
+-18.697950881947 -56.927098161834
+(S1 (X (ADVP (IN With)) (NP (DT those) (NNS degrees))))
+-18.741391008689 -62.086510818030
+(S1 (SBAR (S (VP (IN With) (NP (DT those) (NNS degrees))))))
+-18.767599763033 -55.904635188088
+(S1 (SBAR (IN With) (S (NP (DT those)) (NP (NNS degrees)))))
+-18.783208924485 -56.916430067616
+(S1 (FRAG (ADVP (IN With)) (NP (DT those) (NNS degrees))))
+-18.900016533982 -57.471169215842
+(S1 (PP (IN With) (NP (NP (DT those)) (NP (NNS degrees)))))
+-19.063626606393 -54.879606637587
+(S1 (FRAG (PP (IN With) (NP (NP (DT those)) (NP (NNS degrees))))))
+-19.238182637804 -59.312554455999
+(S1 (NP (ADVP (IN With)) (DT those) (NNS degrees)))
+-19.329995882993 -61.550519576248
+(S1 (ADVP (IN With) (NP (DT those) (NNS degrees))))
+-19.351018565082 -59.408031712299
+(S1 (FRAG (IN With) (NP (DT those) (NP (NNS degrees)))))
+-19.463326805750 -61.435397827103
+(S1 (PP (IN With) (S (NP (DT those) (NNS degrees)))))
+-19.480837798851 -62.316157783707
+(S1 (SBAR (IN With) (S (NP (DT those) (NP (NNS degrees))))))
+-19.482543554894 -60.117138168735
+(S1 (FRAG (NP (IN With) (NP (DT those) (NNS degrees)))))
+-19.516341875231 -59.691601940819
+(S1 (S (ADVP (IN With)) (NP (DT those) (NNS degrees))))
+-19.763059384997 -58.772669287792
+(S1 (S (PP (IN With) (NP (NP (DT those)) (NNS degrees)))))
+-19.997832089064 -59.503286267003
+(S1 (NP (QP (IN With) (DT those)) (NNS degrees)))
+-20.057042297050 -61.658369822557
+(S1 (S (NP (IN With) (NP (DT those) (NNS degrees)))))
+-20.139150146378 -55.118149244627
+(S1 (FRAG (SBAR (IN With) (S (NP (DT those)) (NP (NNS degrees))))))
+-20.203893813936 -56.594502101478
+(S1 (FRAG (PP (IN With) (NP (DT those))) (NP (NNS degrees))))
+-20.205188495658 -60.349942952133
+(S1 (S (NP (IN With) (DT those) (NNS degrees))))
+-20.382054083997 -59.299829645049
+(S1 (S (PP (IN With) (NP (NP (DT those)) (NP (NNS degrees))))))
+-20.428919876519 -61.232596794382
+(S1 (FRAG (NP (IN With) (DT those) (NNS degrees))))
+-20.641325057326 -59.905908662229
+(S1 (FRAG (IN With) (NP (NP (DT those)) (NNS degrees))))
+-20.852388184983 -61.529671840246
+(S1 (FRAG (SBAR (IN With) (S (NP (DT those) (NP (NNS degrees)))))))
+-20.929110661567 -59.052038515498
+(S1 (PP (IN With) (NP (DT those)) (NP (NNS degrees))))
+-21.204590104775 -61.488554321828
+(S1 (FRAG (IN With) (NP (NP (DT those)) (NP (NNS degrees)))))
+-21.714900893086 -61.419434002185
+(S1 (S (NP (ADVP (IN With)) (DT those) (NNS degrees))))
+

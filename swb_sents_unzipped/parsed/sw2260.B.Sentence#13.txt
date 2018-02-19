@@ -1,0 +1,102 @@
+50 x
+-16.589358421456 -62.912085132965
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs)))))
+-18.462514642620 -66.360244214978
+(S1 (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs))))))
+-18.996072109092 -72.209038085700
+(S1 (S (CC and) (NP (DT the) (NNP county)) (VP (VBZ adds) (NP (PRP theirs)))))
+-19.408037675555 -65.033582514399
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (NP (JJ theirs)))))
+-19.413477715457 -66.869829109701
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (ADJP (JJ theirs)))))
+-20.011881688920 -67.515940770305
+(S1 (FRAG (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs))))))
+-20.051314312074 -70.729220664275
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs)))))))
+-20.185088882998 -70.219024079651
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs)))))))
+-21.291890479506 -68.481741596411
+(S1 (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (JJ theirs))))))
+-21.292971509489 -77.214869873552
+(S1 (S (CC and) (S (NP (DT the) (NNP county)) (VP (VBZ adds) (NP (PRP theirs))))))
+-21.403892430074 -70.317988305632
+(S1 (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (ADJP (JJ theirs))))))
+-21.416547378477 -68.987830240185
+(S1 (S (NP (CC and) (NP (DT the) (NN county))) (VP (VBZ adds) (NP (PRP theirs)))))
+-21.706242356309 -71.342272309170
+(S1 (S (NP (CC and) (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs)))))
+-21.709492903721 -74.662928319239
+(S1 (FRAG (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs))))))
+-21.986297023191 -74.330535467134
+(S1 (S (CC and) (NP (DT the) (NNP county)) (VP (VBZ adds) (NP (JJ theirs)))))
+-22.053197816811 -73.497205558996
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (S (NP (PRP theirs))))))
+-22.371401867872 -73.189461527960
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (S (ADJP (JJ theirs))))))
+-22.439520730305 -76.166782062436
+(S1 (S (CC and) (NP (DT the) (NNP county)) (VP (VBZ adds) (ADJP (JJ theirs)))))
+-22.492856869083 -75.512680027890
+(S1 (S (NP (CC and) (NP (DT the) (NNP county))) (VP (VBZ adds) (NP (PRP theirs)))))
+-22.660079000630 -77.570768688006
+(S1 (FRAG (CC and) (S (NP (DT the) (NNP county)) (VP (VBZ adds) (NP (PRP theirs))))))
+-22.842915028019 -69.637438151739
+(S1 (FRAG (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (JJ theirs))))))
+-22.852303023191 -71.473685016528
+(S1 (FRAG (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (ADJP (JJ theirs))))))
+-22.959811446961 -72.850718045709
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (JJ theirs)))))))
+-23.054691969650 -74.686964658149
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN county)) (VP (VBZ adds) (ADJP (JJ theirs)))))))
+-23.093976200097 -72.340521461085
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (JJ theirs)))))))
+-23.103767538578 -79.262185444887
+(S1 (FRAG (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (NP (PRP theirs)))))))
+-23.128933039589 -73.597513845978
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (VP (JJ theirs)))))
+-23.280889222787 -74.176768073525
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN county)) (VP (VBZ adds) (ADJP (JJ theirs)))))))
+-23.336588405382 -76.156028681473
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (ADVP (JJ theirs)))))
+-23.735569612115 -79.379980247168
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (ADVP (PRP theirs)))))
+-23.866263122399 -76.945364620725
+(S1 (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (S (NP (PRP theirs)))))))
+-24.195163753460 -76.637620589690
+(S1 (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (S (ADJP (JJ theirs)))))))
+-24.293893003588 -79.336367254986
+(S1 (S (CC and) (S (NP (DT the) (NNP county)) (VP (VBZ adds) (NP (JJ theirs))))))
+-24.349566542576 -71.109327621619
+(S1 (S (NP (CC and) (NP (DT the) (NN county))) (VP (VBZ adds) (NP (JJ theirs)))))
+-24.355006582477 -72.945574216921
+(S1 (S (NP (CC and) (NP (DT the) (NN county))) (VP (VBZ adds) (ADJP (JJ theirs)))))
+-24.452721744992 -78.620672565461
+(S1 (FRAG (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (ADJP (JJ theirs))))))
+-24.531398620409 -73.463769690604
+(S1 (S (NP (CC and) (DT the) (NN county)) (VP (VBZ adds) (NP (JJ theirs)))))
+-24.536838660310 -75.300016285906
+(S1 (S (NP (CC and) (DT the) (NN county)) (VP (VBZ adds) (ADJP (JJ theirs)))))
+-24.558849977820 -76.784425700672
+(S1 (FRAG (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (NP (JJ theirs))))))
+-24.937219923540 -77.045672942687
+(S1 (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (VP (JJ theirs))))))
+-24.997625691635 -79.604187852955
+(S1 (S (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (ADVP (JJ theirs))))))
+-25.474253686691 -78.814509182837
+(S1 (S (CC and) (NP (DT the) (NN county)) (VP (VBZ adds) (S (NP (JJ theirs))))))
+-25.510307186092 -78.101061348371
+(S1 (FRAG (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (S (NP (PRP theirs)))))))
+-25.597421693182 -77.634177409324
+(S1 (S (NP (CC and) (NP (DT the) (NNP county))) (VP (VBZ adds) (NP (JJ theirs)))))
+-25.840865322152 -77.793317317336
+(S1 (FRAG (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (S (ADJP (JJ theirs)))))))
+-26.050645400296 -79.470424004626
+(S1 (S (NP (CC and) (NP (DT the) (NNP county))) (VP (VBZ adds) (ADJP (JJ theirs)))))
+-26.574568395326 -78.201369427556
+(S1 (FRAG (CC and) (S (NP (DT the) (NN county)) (VP (VBZ adds) (VP (JJ theirs))))))
+-26.880386773832 -79.572950666215
+(S1 (S (NP (CC and) (NP (DT the) (NN county))) (VP (VBZ adds) (S (NP (PRP theirs))))))
+-27.312930734893 -79.265206635180
+(S1 (S (NP (CC and) (NP (DT the) (NN county))) (VP (VBZ adds) (S (ADJP (JJ theirs))))))
+-28.087511503822 -79.673258953198
+(S1 (S (NP (CC and) (NP (DT the) (NN county))) (VP (VBZ adds) (VP (JJ theirs)))))
+

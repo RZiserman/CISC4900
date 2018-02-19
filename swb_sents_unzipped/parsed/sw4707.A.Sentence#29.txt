@@ -1,0 +1,102 @@
+50 x
+-13.744285650163 -44.892837954528
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true))))))))
+-15.759085725623 -55.699332248519
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (POS 's) (ADJP (JJ true))))))))
+-15.970617122559 -49.990012809749
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true))))))))
+-16.217367143564 -50.986632382566
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-16.246655546526 -53.286410375285
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-16.264854070074 -53.439927537904
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)))))))
+-16.502696673783 -50.886014918569
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (DT that) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-17.089707945816 -55.995122097426
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (IN that) (S (VP (POS 's) (ADJP (JJ true))))))))
+-17.710885783529 -61.886695387440
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (S (NP (DT that)) (VP (POS 's) (ADJP (JJ true)))))))
+-18.000339327862 -56.479490941285
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-18.028877538346 -51.027782187413
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ true))))))))
+-18.330486579338 -57.556410368643
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (UH true))))))))
+-18.426674557780 -60.316383804095
+(S1 (S (NP (PRP I)) (VP (VB suppose) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)))))))
+-18.449245236681 -61.838032118942
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (POS 's) (S (ADJP (JJ true)))))))))
+-18.516302139104 -58.376895816076
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-18.554991947326 -63.110707889568
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (ADJP (JJ true))))))))
+-18.620362629628 -61.229899243552
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (DT that) (S (VP (POS 's) (ADJP (JJ true))))))))
+-18.752332644965 -56.716969475146
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (JJ true))))))))
+-18.759613572181 -56.133907545110
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (ADJP (JJ true)))))))))
+-18.773613576760 -56.401410682857
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (IN that)) (VP (POS 's) (ADJP (JJ true))))))))
+-18.774549694466 -52.173091510274
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ true))))))))
+-18.801814573309 -56.085196876954
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (JJ true))))))))
+-18.835209030239 -57.576664263763
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (DT that) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-19.035991969483 -58.560936047461
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-19.475503344477 -58.749699200251
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (WDT that) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-19.792424894875 -62.133821967849
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (IN that) (S (VP (POS 's) (S (ADJP (JJ true)))))))))
+-19.866786418989 -60.180421678093
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (WDT that)) (VP (POS 's) (ADJP (JJ true))))))))
+-19.912079733989 -58.186540141440
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (JJ true))))))))
+-20.309368357341 -58.895155740890
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ true)))))))
+-20.347825151954 -56.124957042634
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ true))))))))
+-20.541689668946 -62.653585223864
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (UH true))))))))
+-20.636270440862 -57.270266365495
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ true))))))))
+-20.752405916147 -62.971419291582
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (S (NP (IN that)) (VP (POS 's) (ADJP (JJ true)))))))
+-20.791803209808 -62.115884760823
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (ADJP (JJ true)))))))))
+-20.978664114573 -61.814144330367
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (JJ true))))))))
+-20.985945041790 -61.231082400331
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (ADJP (JJ true)))))))))
+-21.028146042918 -61.182371732175
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (JJ true))))))))
+-21.103559446068 -62.227701911153
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (IN that) (S (VP (VBZ 's) (S (ADJP (JJ true)))))))))
+-21.282318620287 -62.127084447156
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (DT that) (S (VP (VBZ 's) (S (ADJP (JJ true)))))))))
+-21.334537249822 -62.810763702383
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (IN that) (S (VP (VBZ 's) (ADVP (JJ true))))))))
+-21.347276941833 -62.178991214479
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (IN that) (S (VP (VBZ 's) (NP (JJ true))))))))
+-21.476330525818 -62.540110553280
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (IN that)) (VP (POS 's) (S (ADJP (JJ true)))))))))
+-21.517388114041 -62.710146238386
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (DT that) (S (VP (VBZ 's) (ADVP (JJ true))))))))
+-21.527527504852 -61.449817317271
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (S (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ true)))))))
+-21.604432994987 -62.483147838495
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (RB that) (S (VP (VBZ 's) (ADJP (JJ true))))))))
+-21.640679323051 -62.078373750482
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (DT that) (S (VP (VBZ 's) (NP (JJ true))))))))
+-22.138411206385 -63.283714996661
+(S1 (S (NP (PRP I)) (VP (VB suppose) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (JJ true))))))))
+-23.071665021705 -62.220141109838
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (JJ true))))))))
+-23.089699047577 -62.268851777994
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (IN that)) (VP (VBZ 's) (S (ADJP (JJ true)))))))))
+-23.108263510360 -62.851913708031
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (IN that)) (VP (VBZ 's) (ADVP (JJ true))))))))
+

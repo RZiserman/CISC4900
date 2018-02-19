@@ -1,0 +1,102 @@
+50 x
+-63.262449709818 -200.524869576246
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (RB s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (IN before)))))))))))))))
+-64.013710951081 -200.819975179555
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (IN before))))))))))))))))
+-64.340666849087 -198.694607301562
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (RB s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-64.409099269244 -200.664963585581
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (JJ s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (IN before)))))))))))))))
+-64.483818404862 -195.681532320179
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-64.634372882326 -201.302112065333
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (NN s-)) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-64.885217722416 -199.476115365321
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (POS 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-64.920691742133 -201.085127025214
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (NN s-)) (VP (VBN started) (VP (VBG doing) (NP (NN stuff)) (ADVP (IN before)))))))))))))))
+-64.932403245610 -201.327471876050
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (RB s-)) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-64.939795236349 -198.989712904871
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-65.123861469100 -200.712354298646
+(S1 (S (S (VP (VB Um) (ADVP (RB well)) (SBAR (S (NP (DT that)) (VP (VBZ 's)))))) (CC but) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))
+-65.202593974606 -199.734950236186
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (RB s-)) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before)))))))))))))
+-65.587541118513 -198.834701310898
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (JJ s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-65.611070525347 -199.820474900182
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (NN s-)) (VP (VBN started) (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-65.637009608140 -200.109741422181
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-65.669582533658 -196.828947663478
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before))))))))))))))
+-65.697606324018 -201.859769641946
+(S1 (S (S (VP (VB Um) (ADVP (RB well)) (SBAR (S (NP (DT that)) (VP (VBZ 's)))))) (CC but) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before))))))))))))
+-65.698785207619 -201.684170515730
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (IN that) (S (S (VP (VBZ 's))) (CC but) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-65.717087740992 -201.355329871536
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (NN s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-65.848317425006 -200.704795911500
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (ADVP (RB s-)) (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-65.933779867813 -200.233565122332
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (VP (VBG s-) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))))
+-65.945020103965 -201.254380720827
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBG s-) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-65.978015025402 -200.882365579486
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (RB s-)) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before)))))))))))))
+-66.011064917810 -201.635153849208
+(S1 (FRAG (RB Um) (RB well) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (RB s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-66.070981823335 -200.623530708620
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (POS 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before))))))))))))))
+-66.088532021284 -201.996887442609
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (VP (VBG s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before)))))))))))))))
+-66.109469516748 -201.560175759042
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (RB s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-66.154216501463 -198.622078867825
+(S1 (FRAG (RB Um) (RB well) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-66.192853562752 -201.674769872796
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (NNS s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-66.210152570836 -201.467565885385
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (JJ s-)) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-66.439057576832 -199.875044245522
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (JJ s-)) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before)))))))))))))
+-66.610193332950 -201.930259452518
+(S1 (FRAG (RB Um) (RB well) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-66.669841660482 -201.250903682895
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (DT that) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-66.752250174031 -201.126507090756
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (NNS s-)) (VP (VBN started) (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-66.759516927973 -201.414587032974
+(S1 (FRAG (NP (NNP Um)) (ADVP (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-66.786769964011 -201.855281362351
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NP (NN stuff)) (ADVP (RB before)))))))))))))))))
+-66.846638750895 -201.833460245693
+(S1 (FRAG (ADJP (JJ Um)) (ADVP (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-66.962089778937 -201.257156765480
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before))))))))))))))
+-66.971831924009 -201.249089130786
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-66.973267191878 -202.035636274256
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (NN s-)) (VP (VBD started) (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-67.138143017432 -200.861526094519
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (VP (VB s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before)))))))))))))))
+-67.257345959869 -201.537147182664
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (IN before))))))))))))))
+-67.257939215114 -201.775247858544
+(S1 (FRAG (RB Um) (RB well) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (JJ s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-67.314703337628 -201.022459588821
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (JJ s-)) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before)))))))))))))
+-67.339980602382 -199.769494211124
+(S1 (FRAG (RB Um) (RB well) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before))))))))))))))
+-67.356343786174 -201.700269768378
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (ADVP (JJ s-)) (VP (VBD started) (S (VP (VBG doing) (NP (NP (NN stuff)) (ADVP (RB before))))))))))))))))
+-67.727690225563 -201.006542714341
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (NP (JJ s-)) (VP (VBN started) (VP (VBG doing) (NP (NN stuff)) (ADVP (RB before)))))))))))))))
+-67.780479680993 -200.474903245465
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (ADVP (NN stuff)))) (ADVP (IN before))))))))))))))
+-68.442704890350 -202.008941437818
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (S (VP (VB s-) (VP (VBN started) (S (VP (VBG doing) (NP (NN stuff)))) (ADVP (RB before)))))))))))))))
+-69.628405159789 -201.622318588764
+(S1 (FRAG (ADVP (RB Um) (RB well)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN s-) (VP (VBN started) (S (VP (VBG doing) (ADVP (NN stuff)))) (ADVP (RB before))))))))))))))
+

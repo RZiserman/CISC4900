@@ -1,0 +1,102 @@
+50 x
+-22.952386943126 -79.601238386285
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-23.773810848824 -81.354324552158
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-23.862461172666 -82.921249250993
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP they)) (DT all) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-24.649819916519 -79.141648059335
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-24.723089266831 -87.424507101403
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RB up))))))
+-24.912705125849 -84.024494804184
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (RB up))))))
+-24.973636637867 -83.792745396449
+(S1 (S (CC and) (ADVP (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-24.974587596732 -82.556927816274
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-25.359629196650 -80.494364656844
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-25.482336445162 -84.424068088732
+(S1 (S (CC and) (ADVP (UH uh)) (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-25.622471684438 -79.963284486502
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up))))))))
+-25.626164064075 -83.909644413783
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-25.715567958645 -86.719374413677
+(S1 (S (CC and) (ADVP (UH uh)) (NP (PRP they)) (DT all) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-25.734129034336 -85.777580970057
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (ADVP (RB up))))))
+-25.782933130115 -87.455150933131
+(S1 (S (CC and) (NP (UH uh)) (NP (PRP they)) (DT all) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-25.822779358177 -87.344505668892
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP they)) (DT all) (VP (MD can) (VP (VB build) (ADVP (RB up))))))
+-25.831310713073 -84.239913292499
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-25.948051638532 -82.304058857769
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they)) (DT all) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-26.274048151781 -81.316001084011
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up))))))))
+-26.427251299455 -86.980184234174
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (RB up)))))))
+-26.652734621559 -85.992999458373
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-26.666174694827 -86.256736264556
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (IN up))))))
+-26.781055608224 -86.964916774453
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RB up)))))))
+-26.885043943187 -86.335774128615
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they)) (ADVP (RB all)) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-26.976541960030 -83.564904477234
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (RB up)))))))
+-26.978833501439 -86.367772452243
+(S1 (FRAG (CC and) (S (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-27.148159066161 -85.634988733908
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (RP up))))))
+-27.336182955161 -84.386540904401
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (RB up))))))))
+-27.411788238307 -83.589131276279
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP they)) (DT all) (VP (MD can) (VP (VB build) (PRT (RP up))))))))
+-27.686351237374 -84.917621074743
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (ADVP (RB up)))))))
+-27.747443015547 -87.449696026913
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PP (RP up))))))
+-27.864781395561 -87.397329273190
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (RB all))) (VP (MD can) (VP (VB build) (PRT (RP up))))))
+-27.969582974647 -87.388074899781
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (ADVP (RP up))))))
+-27.987759425293 -85.739257501910
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (ADVP (RB up))))))))
+-28.009355289611 -86.279473214921
+(S1 (FRAG (CC and) (ADVP (UH uh)) (SBAR (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PRT (RP up))))))))
+-28.056831966680 -87.510462674411
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADJP (RP up))))))
+-28.206149904138 -86.618782364773
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (IN up))))))))
+-28.208016579007 -85.797145937607
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (IN up)))))))
+-28.268903192043 -86.727315275668
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they)) (DT all) (VP (MD can) (VP (VB build) (ADVP (RB up)))))))
+-28.312871762470 -87.523687738178
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (PRP they)) (ADVP (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-28.584325902567 -86.127638522968
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they)) (ADVP (DT all)) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-28.648664127175 -86.984969389292
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they)) (VP (DT all) (VP (MD can) (VP (VB build) (PRT (RP up))))))))
+-28.851462532341 -85.175398406958
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (RP up)))))))
+-28.917825859139 -87.149862535115
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (ADVP (IN up)))))))
+-29.373047357473 -85.997034834124
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADVP (RP up))))))))
+-29.451879578940 -86.990105699964
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (PP (RP up)))))))
+-29.528621071742 -86.937738946240
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (RB all))) (VP (MD can) (VP (VB build) (PRT (RP up)))))))
+-29.561271809685 -86.528115004467
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (ADVP (RP up)))))))
+-29.774230732861 -87.050872347462
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NP (PRP they)) (NP (DT all))) (VP (MD can) (VP (VB build) (ADJP (RP up)))))))
+-30.024623827604 -87.349751431633
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP they) (DT all)) (VP (MD can) (VP (VB build) (ADVP (RP up))))))))
+

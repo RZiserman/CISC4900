@@ -1,0 +1,102 @@
+50 x
+-17.054453282491 -55.966797958486
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB just) (DT a) (NN train) (NN ride)))))
+-17.147206240671 -56.963214523429
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB just) (DT a) (NN train) (NN ride)))))
+-17.585297018258 -53.492056300676
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (NP (DT a) (NN train) (NN ride)))))
+-20.318476594164 -63.241940570413
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADVP (RB just)) (DT a) (NN train) (NN ride)))))
+-20.483283040957 -63.369376120474
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB just)) (NP (DT a) (NN train) (NN ride)))))
+-20.563654119032 -62.079214880426
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (NP (DT a) (NN train) (NN ride)))))
+-20.602421825524 -63.354818083004
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (ADVP (RB just)) (DT a) (NN train) (NN ride)))))
+-21.498753874305 -68.472996306112
+(S1 (S (NP (PRP It)) (VP (POS 's) (PRT (RB just)) (NP (DT a) (NN train) (NN ride)))))
+-21.704566945763 -71.136202164010
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (RB just) (DT a) (NN train) (NN ride))))
+-21.788542142710 -66.216178779547
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB just) (NP (DT a) (NN train) (NN ride)))))
+-21.939036418502 -69.335684105678
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (PRT (RB just)) (NP (DT a) (NN train) (NN ride)))))
+-22.112223843545 -71.591098984583
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (RB just) (DT a) (NN train) (NN ride))))))
+-22.605709964539 -66.813501772475
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (PP (RB just) (NP (DT a) (NN train) (NN ride))))))
+-22.627677952152 -72.270517733669
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (RB just) (DT a) (NN train) (NN ride))))))
+-22.678283974027 -75.988407836199
+(S1 (S (NP (PRP It) (POS 's)) (NP (RB just) (DT a) (NN train) (NN ride))))
+-23.149221664469 -72.568984708342
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (RB just) (DT a) (NN train)) (NN ride)))))
+-23.262134240738 -75.396797432285
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (RB just) (DT a) (NN train)) (NN ride)))))
+-23.306258215556 -75.011701923900
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (NP (DT a) (NN train) (VB ride)))))
+-23.369826550780 -68.225590676155
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just) (NP (DT a) (NN train) (NN ride))))))
+-23.444600981396 -68.513605904472
+(S1 (S (NP (PRP It)) (VP (POS 's) (PP (RB just) (NP (DT a) (NN train) (NN ride))))))
+-23.451974015965 -72.719454406107
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (QP (RB just) (DT a) (NN train)) (NN ride)))))
+-23.494006856686 -69.742853818037
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (RB just) (NP (DT a) (NN train) (NN ride))))))
+-23.711069157936 -75.627747804036
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (NP (RB just) (DT a) (NN train)) (NN ride)))))
+-23.717723772892 -75.390225146585
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (RB just) (DT a) (NN train) (NN ride)))))))
+-23.801554816945 -72.841841648662
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (RB just) (NP (DT a) (NN train) (NN ride)))))))
+-23.917588321910 -70.255501630579
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just)) (NP (DT a) (NN train) (NN ride)))))
+-24.024589934362 -76.943430165955
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADVP (RB just)) (NP (DT a) (NN train) (NN ride))))))
+-24.046178483569 -73.794104527154
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (ADVP (RB just)) (NP (DT a) (NN train) (NN ride)))))))
+-24.110332567910 -72.510498191571
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB just) (NP (DT a) (NN train)) (NN ride)))))
+-24.327290527575 -73.065685364533
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB just) (NP (DT a) (NN train) (NN ride))))))
+-24.374236556773 -73.946039168896
+(S1 (S (NP (PRP It) (VBZ 's)) (ADVP (RB just)) (NP (DT a) (NN train) (NN ride))))
+-24.395774932118 -72.424355352813
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB just) (NP (DT a) (NN train)) (NN ride)))))
+-24.421515726745 -77.308400702566
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADVP (RB just)) (NP (DT a) (NN train) (NN ride))))))
+-24.459768235169 -74.816204525500
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (NP (DT a) (NN train) (NN ride))))))
+-24.679340703270 -73.565798550926
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (RB just) (NP (DT a) (NN train) (NN ride)))))))
+-24.805469496138 -77.318967522583
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (RB just) (DT a) (NN train) (NN ride)))))))
+-24.828398086316 -72.005643636529
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (DT a) (NN train)) (NN ride)))))
+-24.857467472989 -75.305562993085
+(S1 (S (NP (PRP It) (VBZ 's)) (VP (ADVP (RB just)) (NP (DT a) (NN train) (NN ride)))))
+-24.939652585544 -77.489401524763
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (ADVP (RB just)) (NP (DT a) (NN train) (NN ride)))))))
+-25.016054702170 -75.536475702184
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just) (DT a) (NN train)) (NP (NN ride)))))
+-25.123616688786 -68.755689605618
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (DT a)) (NN train) (NN ride)))))
+-25.173582412815 -75.722846903152
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (ADVP (RB just)) (NP (DT a) (NN train) (NN ride)))))))
+-25.181649873525 -71.246089664156
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (S (NP (DT a) (NN train) (NN ride))))))
+-25.271227693535 -72.237789567353
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (SBAR (S (NP (DT a) (NN train) (NN ride)))))))
+-26.243940286377 -75.774059969642
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (RB just) (S (NP (DT a) (NN train) (NN ride)))))))
+-26.253835710357 -75.780591189969
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (DT a) (NN train)) (NP (NN ride))))))
+-26.318135044049 -76.526053849795
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (S (NP (DT a) (NN train)) (VP (VB ride))))))
+-27.008046850837 -74.025642225766
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just) (NP (DT a) (NN train))) (NP (NN ride)))))
+-27.425019882465 -76.287475948434
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just) (NP (DT a) (NN train))) (VP (VB ride)))))
+-27.988075684470 -77.342848098432
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (NP (NP (DT a)) (NN train) (NN ride)))))
+

@@ -1,0 +1,102 @@
+50 x
+-20.654976729474 -73.984190926201
+(S1 (S (ADVP (RB Usually)) (ADJP (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-20.695278442499 -73.548735296852
+(S1 (FRAG (ADJP (RB Usually) (JJ busy)) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-20.724789969102 -79.106828087608
+(S1 (S (ADJP (RB Usually) (JJ busy)) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-20.849910558277 -67.500272502195
+(S1 (FRAG (RB Usually) (ADJP (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-21.671188038409 -77.634714979394
+(S1 (NP (RB Usually) (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-21.873158145061 -73.083583568004
+(S1 (ADJP (RB Usually) (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-21.888552427470 -79.693969635195
+(S1 (S (ADVP (RB Usually)) (VP (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-22.089718708843 -75.394748043776
+(S1 (NP (NP (ADJP (RB Usually) (JJ busy)) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-22.160954516936 -72.824360735789
+(S1 (FRAG (ADVP (RB Usually)) (ADJP (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-22.170991972563 -74.600925014773
+(S1 (FRAG (ADVP (RB Usually)) (ADJP (JJ busy)) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-22.586333658785 -79.306713689043
+(S1 (S (ADJP (RB Usually) (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-22.657086425866 -73.099417798404
+(S1 (FRAG (ADJP (RB Usually) (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-22.722936799467 -72.754845935392
+(S1 (NP (NP (RB Usually) (JJ busy)) (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))
+-22.889083618354 -76.175721247122
+(S1 (NP (NP (RB Usually) (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-23.011285939530 -79.092901454420
+(S1 (S (VP (ADVP (RB Usually)) (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-23.147072432218 -75.218581638130
+(S1 (S (ADVP (RB Usually)) (NP (NP (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival))))))
+-23.344825448579 -76.521356612026
+(S1 (ADJP (ADVP (RB Usually)) (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-23.451254530753 -79.905450976665
+(S1 (S (VP (ADJP (RB Usually) (JJ busy)) (VBG fighting) (PP (IN for) (NP (NN survival))))))
+-23.604128901347 -79.843239112791
+(S1 (FRAG (ADJP (ADVP (RB Usually)) (JJ busy)) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-23.791456648987 -74.589641775476
+(S1 (FRAG (ADVP (RB Usually)) (NP (NP (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival))))))
+-23.898378426133 -77.434666234546
+(S1 (NP (ADVP (RB Usually)) (NP (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-23.928599390401 -78.867214250951
+(S1 (NP (NP (RB Usually) (JJ busy) (VBG fighting)) (PP (IN for) (NP (NN survival)))))
+-24.004488413471 -77.656458913455
+(S1 (S (NP (NP (ADJP (RB Usually) (JJ busy)) (NN fighting)) (PP (IN for) (NP (NN survival))))))
+-24.220171080858 -76.753366213169
+(S1 (FRAG (ADJP (ADVP (RB Usually)) (JJ busy) (S (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))))
+-24.278199680159 -76.220005932105
+(S1 (FRAG (NP (ADJP (RB Usually) (JJ busy)) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-24.479930104030 -76.091692847678
+(S1 (FRAG (RB Usually) (NP (NP (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival))))))
+-24.582431785565 -78.061738441666
+(S1 (FRAG (NP (NP (ADJP (RB Usually) (JJ busy)) (NN fighting)) (PP (IN for) (NP (NN survival))))))
+-24.595541730672 -79.911945693387
+(S1 (NP (NP (ADJP (RB Usually) (JJ busy))) (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))
+-24.638263743320 -79.979361895605
+(S1 (FRAG (ADVP (RB Usually)) (NP (JJ busy) (VBG fighting)) (PP (IN for) (NP (NN survival)))))
+-24.706482389912 -77.814633155453
+(S1 (FRAG (ADVP (RB Usually)) (NP (NP (JJ busy)) (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-24.843377032602 -79.668818181999
+(S1 (S (ADVP (RB Usually)) (ADJP (JJ busy) (NN fighting) (PP (IN for) (NP (NN survival))))))
+-25.094874904355 -77.788164823160
+(S1 (FRAG (RB Usually) (NP (NP (JJ busy)) (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-25.233484290679 -78.437432042106
+(S1 (S (NP (NP (RB Usually) (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival))))))
+-25.269713869037 -78.377090062331
+(S1 (FRAG (ADVP (RB Usually)) (NP (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-25.296037419655 -78.025102331177
+(S1 (S (ADVP (RB Usually)) (ADJP (JJ busy) (PP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-25.409779343527 -79.796244454643
+(S1 (FRAG (RB Usually) (ADJP (JJ busy) (SBAR (S (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))))
+-25.445167074651 -78.842711668853
+(S1 (FRAG (NP (NP (RB Usually) (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival))))))
+-25.452571208561 -79.463340540660
+(S1 (NP (NP (QP (RB Usually) (JJ busy))) (VP (VBG fighting) (PP (IN for) (NP (NN survival))))))
+-25.517820294332 -79.570019223482
+(S1 (S (ADVP (RB Usually)) (NP (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-25.526654636650 -79.367810770679
+(S1 (FRAG (NP (RB Usually) (JJ busy) (VBG fighting)) (PP (IN for) (NP (NN survival)))))
+-25.589509160029 -78.391495934780
+(S1 (FRAG (NP (NP (RB Usually) (JJ busy)) (VP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-25.611222584023 -79.496874512537
+(S1 (FRAG (RB Usually) (ADJP (JJ busy) (VBG fighting) (PP (IN for) (NP (NN survival))))))
+-25.674907403797 -79.350575758008
+(S1 (FRAG (RB Usually) (NP (JJ busy) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-25.807873056383 -75.867513195678
+(S1 (FRAG (RB Usually) (ADJP (JJ busy) (PP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-25.828986512705 -79.875971735614
+(S1 (S (NP (ADJP (RB Usually) (JJ busy)) (NN fighting)) (PP (IN for) (NP (NN survival)))))
+-25.879155858000 -79.197583623967
+(S1 (S (ADJP (RB Usually) (JJ busy) (PP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+-25.974782294207 -77.856570513897
+(S1 (ADJP (RB Usually) (JJ busy) (PP (VBG fighting) (PP (IN for) (NP (NN survival))))))
+-26.655360222345 -79.718725682119
+(S1 (FRAG (ADJP (ADVP (RB Usually) (JJ busy)) (VBG fighting) (PP (IN for) (NP (NN survival))))))
+-26.707426283947 -78.430091278137
+(S1 (FRAG (RB Usually) (ADJP (JJ busy) (S (VP (NN fighting) (PP (IN for) (NP (NN survival))))))))
+-27.233217996143 -79.780953196909
+(S1 (FRAG (ADJP (RB Usually) (JJ busy) (PP (VBG fighting) (PP (IN for) (NP (NN survival)))))))
+

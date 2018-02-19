@@ -1,0 +1,102 @@
+50 x
+-14.639704007369 -52.349774804405
+(S1 (S (NP (PRP They)) (VP (VBD had) (SBAR (S (NP (PRP you)) (VP (VBD pegged)))))))
+-14.951232928377 -52.792469467800
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (NP (PRP you)) (VP (VBD pegged))))))
+-15.817022184409 -56.341424892787
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (NP (PRP you)) (VP (VBN pegged))))))
+-16.079771955545 -57.776194641304
+(S1 (S (NP (PRP They)) (VP (VBD had) (SBAR (S (NP (PRP you)) (VP (VBN pegged)))))))
+-16.464778198095 -58.261931289086
+(S1 (S (NP (PRP They)) (VBD had) (NP (PRP you)) (VP (VBD pegged))))
+-16.581315004597 -60.194274037009
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)) (VP (VBN pegged)))))
+-16.999180553675 -61.842944406169
+(S1 (S (NP (PRP They)) (VP (VBD had) (VP (NP (PRP you)) (VBN pegged)))))
+-17.426459081091 -56.949368640943
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (NP (PRP you)) (ADJP (VBN pegged))))))
+-17.552206689795 -59.761603276904
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADVP (PRP you)) (VP (VBN pegged)))))
+-17.729789161704 -64.124620394524
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)) (VP (VBD pegged)))))
+-17.801912471456 -60.541754089013
+(S1 (S (NP (PRP They)) (VP (VBD had) (VP (ADVP (PRP you)) (VBN pegged)))))
+-18.205771686721 -65.894294251671
+(S1 (S (NP (PRP They)) (VBD had) (NP (PRP you)) (VP (VBN pegged))))
+-18.804563558639 -63.061084983142
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)) (S (VP (VBN pegged))))))
+-18.839839805038 -65.786995707117
+(S1 (S (NP (PRP They)) (VP (VBN had) (S (NP (PRP you)) (VP (VBN pegged))))))
+-19.011582025090 -58.321906555219
+(S1 (S (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)))) (VP (VBD pegged))))
+-19.149161427982 -64.058305831000
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (NP (PRP you)) (ADJP (VBD pegged))))))
+-19.203301577835 -64.488143460582
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you))) (VP (VBD pegged))))
+-19.270808469341 -63.548159592345
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)) (S (VP (VBD pegged))))))
+-19.318651385012 -67.243309897160
+(S1 (S (NP (PRP They)) (VP (VBN had) (SBAR (S (NP (PRP you)) (VP (VBD pegged)))))))
+-19.383032495531 -67.623460994713
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (NP (PRP you)) (VP (VBN pegged))))))
+-19.689803107597 -60.982678793786
+(S1 (S (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)))) (VP (VBN pegged))))
+-19.929245380335 -68.845986130606
+(S1 (S (NP (PRP They)) (VP (VBN had) (S (NP (PRP you)) (VP (VBD pegged))))))
+-20.011391260354 -65.778424275468
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADJP (NP (PRP you)) (VBN pegged)))))
+-20.034604378547 -70.158081775314
+(S1 (S (NP (PRP They)) (VP (VBN had) (SBAR (S (NP (PRP you)) (VP (VBN pegged)))))))
+-20.059188130149 -70.121981863847
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (NP (PRP you)) (VP (VBD pegged))))))
+-20.204851493675 -67.129728034264
+(S1 (S (NP (PRP They)) (VP (VP (VBD had) (NP (PRP you))) (VP (VBN pegged)))))
+-20.253427847802 -69.300710399077
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you))) (VP (VBN pegged))))
+-20.253578462250 -63.290340502361
+(S1 (S (NP (PRP They)) (VP (VBD had) (SBAR (S (NP (PRP you)) (ADJP (VBN pegged)))))))
+-20.265955025033 -69.505900708350
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADVP (PRP you)) (VP (VBD pegged)))))
+-20.455159029771 -66.567783479099
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)) (SBAR (S (VP (VBN pegged)))))))
+-20.486884641970 -66.293969230312
+(S1 (S (NP (PRP They)) (VP (VBN had) (S (NP (PRP you)) (ADJP (VBN pegged))))))
+-20.818755369603 -68.181809172624
+(S1 (S (NP (PRP They)) (VP (VBN had) (NP (PRP you))) (VP (VBD pegged))))
+-20.886012130256 -68.305541152144
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (ADVP (PRP you)) (VP (VBD pegged))))))
+-20.991616191096 -69.927245131228
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (ADJP (NP (PRP you)) (VBN pegged))))))
+-21.114799071619 -66.611156245989
+(S1 (S (NP (PRP They)) (VP (VBD had) (SBAR (S (NP (PRP you)) (ADJP (VBD pegged)))))))
+-21.203977128805 -65.618414411614
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)) (S (ADJP (VBN pegged))))))
+-21.232135282862 -68.142507728742
+(S1 (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)) (SBAR (S (VP (VBD pegged)))))))
+-21.627968918828 -69.324671231149
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (VP (ADVP (PRP you)) (VBN pegged))))))
+-21.689790583085 -69.468880516362
+(S1 (S (NP (NP (PRP They)) (VP (VBD had) (NP (PRP you)))) (VP (VBD pegged))))
+-21.840996005140 -63.476900951249
+(S1 (S (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)))) (ADJP (VBN pegged))))
+-21.872611521715 -69.160090157900
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADVP (PRP you)) (S (VP (VBN pegged))))))
+-22.157347544911 -69.399171081217
+(S1 (S (NP (PRP They)) (VP (VBD had) (SBAR (S (ADVP (PRP you)) (VP (VBD pegged)))))))
+-22.340899809757 -69.853696345417
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADVP (PRP you)) (S (VP (VBD pegged))))))
+-22.658799747747 -68.830298162859
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADJP (ADVP (PRP you)) (VBN pegged)))))
+-23.008745154256 -70.661793726094
+(S1 (S (NP (PRP They)) (VP (VBD had) (S (ADJP (ADVP (PRP you)) (VBN pegged))))))
+-23.101537971133 -67.408539939810
+(S1 (S (S (NP (PRP They)) (VP (VBD had) (NP (PRP you)))) (ADJP (VBD pegged))))
+-23.151415721828 -69.287254850939
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADVP (PRP you)) (ADJP (VBN pegged)))))
+-23.331580951330 -68.343979906069
+(S1 (S (NP (PRP They)) (VP (VBD had) (ADVP (PRP you)) (S (ADJP (VBN pegged))))))
+-23.513198262151 -69.304331078010
+(S1 (S (S (NP (PRP They)) (VP (VBD had) (ADVP (PRP you)))) (VP (VBD pegged))))
+-24.109989423726 -70.532531917263
+(S1 (S (NP (NP (PRP They)) (VP (VBD had) (NP (PRP you)))) (ADJP (VBN pegged))))
+

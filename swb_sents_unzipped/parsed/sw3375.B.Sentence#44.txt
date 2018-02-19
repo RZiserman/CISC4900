@@ -1,0 +1,102 @@
+50 x
+-25.296562657061 -89.237423213059
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))
+-25.715775976485 -92.693300335958
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor)))))
+-26.752170338175 -93.545328437053
+(S1 (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))
+-27.160771664698 -94.393940872266
+(S1 (S (NP (PRP he)) (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-27.171383654811 -97.001205559952
+(S1 (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor)))))
+-27.621809933783 -99.372816225049
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNP physics) (NN professor)))))
+-27.677097364122 -97.849817995165
+(S1 (S (NP (PRP he)) (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor))))))
+-27.780823474373 -94.910611570229
+(S1 (S (NP (PRP he)) (SBAR (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))))
+-28.060715880812 -99.657027995287
+(S1 (S (NP (PRP he)) (NP (JJ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))
+-28.274279271009 -98.366488693128
+(S1 (S (NP (PRP he)) (SBAR (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor)))))))
+-28.479929191873 -103.112905118186
+(S1 (S (NP (PRP he)) (NP (JJ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor)))))
+-29.077417598171 -103.680721449043
+(S1 (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (NP (DT a) (NNP physics) (NN professor)))))
+-29.711714733252 -97.715291443343
+(S1 (FRAG (NP (PRP he)) (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-29.782906276076 -102.284307824058
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (S (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-29.942170721862 -103.501387458069
+(S1 (S (NP (PRP he)) (NP (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-30.018640583334 -96.181211517237
+(S1 (S (ADVP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))
+-30.034360660460 -100.444821888764
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics)) (NP (NN professor)))))
+-30.057576124208 -104.529333884257
+(S1 (S (NP (PRP he)) (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNP physics) (NN professor))))))
+-30.099145817891 -99.383268228553
+(S1 (S (NP (PRP he)) (VP (NP (PRP$ my) (NN professor)) (VBD was) (NP (DT a) (NN physics) (NN professor)))))
+-30.103600561039 -101.171168566242
+(S1 (FRAG (NP (PRP he)) (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor))))))
+-30.157556287461 -103.679886579306
+(S1 (S (NP (NP (PRP he)) (NP (JJ my) (NN professor))) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))
+-30.289592448467 -102.839145351452
+(S1 (S (NP (PRP he)) (VP (NP (PRP$ my) (NN professor)) (VBD was) (NP (DT a) (NNS physics) (NN professor)))))
+-30.295572501302 -104.956256068822
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics)) (NP (NN professor)))))
+-30.301533282336 -103.771183989208
+(S1 (S (NP (PRP he)) (NP (NP (PRP$ my) (NN professor)) (SBAR (S (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))))
+-30.322673597478 -104.813545826729
+(S1 (S (NP (PRP he)) (S (NP (JJ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-30.350891120799 -99.567295664220
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (S (NP (DT a) (NN physics) (NN professor))))))
+-30.437853899971 -99.637088640136
+(S1 (S (ADVP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor)))))
+-30.482713233883 -105.046004582219
+(S1 (S (NP (PRP he)) (SBAR (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNP physics) (NN professor)))))))
+-30.537321944183 -101.227713231449
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (NP (DT a) (NN physics)) (NP (NN professor))))))
+-30.682094334420 -101.272907636905
+(S1 (FRAG (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-30.846562723037 -102.660893454622
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (NP (DT a) (NN physics)) (NN professor)))))
+-30.953602422137 -103.252612529448
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (S (NP (DT a) (NNS physics) (NN professor))))))
+-31.006274441926 -102.515639736364
+(S1 (FRAG (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))
+-31.073980173359 -104.728784759804
+(S1 (FRAG (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor))))))
+-31.181301560047 -104.448820645449
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NP (NNS physics)) (NN professor)))))
+-31.262159380276 -105.330216355612
+(S1 (S (NP (PRP he)) (SBAR (S (NP (JJ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))))
+-31.323931896430 -101.543497551407
+(S1 (FRAG (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-31.349330484552 -102.040842298104
+(S1 (FRAG (NP (PRP he)) (NP (PRP$ my) (NN professor)) (S (VP (VBD was) (NP (DT a) (NN physics) (NN professor))))))
+-31.430287541730 -103.042115708956
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor) (S (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))))
+-31.489968333211 -104.752727112758
+(S1 (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (NP (DT a) (NN physics)) (NP (NN professor)))))
+-31.634845656257 -105.211064932113
+(S1 (FRAG (NP (PRP he)) (SBAR (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (DT a) (NN physics) (NN professor)))))))
+-31.710597695613 -105.496719421003
+(S1 (FRAG (NP (PRP he)) (NP (PRP$ my) (NN professor)) (S (VP (VBD was) (NP (DT a) (NNS physics) (NN professor))))))
+-31.711065924701 -103.875200888214
+(S1 (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (S (NP (DT a) (NN physics) (NN professor))))))
+-31.715817707491 -104.999374674306
+(S1 (FRAG (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (NP (DT a) (NNS physics) (NN professor))))))
+-31.805907342604 -103.484630276786
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (SBAR (S (NP (DT a) (NN physics) (NN professor)))))))
+-31.977167694812 -105.535618455443
+(S1 (S (NP (NP (PRP he)) (NP (PRP$ my) (NN professor))) (VP (VBD was) (NP (NP (DT a) (NN physics)) (NP (NN professor))))))
+-32.427124640868 -105.325646298167
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (S (NP (DT a) (NN physics)) (NP (NN professor))))))
+-32.571320227739 -104.723813434704
+(S1 (S (NP (PRP he)) (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (S (NP (DT a) (NN physics) (NN professor)))))))
+-32.905932037414 -105.240484092506
+(S1 (S (NP (PRP he)) (SBAR (S (NP (PRP$ my) (NN professor)) (VP (VBD was) (S (NP (DT a) (NN physics) (NN professor))))))))
+-33.367534791803 -104.561493237143
+(S1 (S (NP (PRP he)) (NP (PRP$ my) (NN professor)) (VP (VBD was) (NP (NP (DT a)) (NN physics) (NN professor)))))
+

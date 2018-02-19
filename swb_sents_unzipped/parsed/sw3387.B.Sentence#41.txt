@@ -1,0 +1,102 @@
+50 x
+-16.206550019878 -56.814703130801
+(S1 (S (CC And) (RB then) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-17.189177284271 -64.220443844904
+(S1 (S (CC And) (ADVP (RB then)) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-17.249057047177 -61.208956123073
+(S1 (S (CC And) (RB then) (VP (VB add) (ADVP (RB on)) (PP (TO to) (NP (PRP it))))))
+-18.081143712316 -62.916766494739
+(S1 (S (CC And) (RB then) (VP (VB add) (PRT (RB on)) (PP (TO to) (NP (PRP it))))))
+-18.224490617425 -64.789601286968
+(S1 (S (CC And) (RB then) (VP (VB add) (PP (IN on) (PP (TO to) (NP (PRP it)))))))
+-18.472394288361 -66.648788730096
+(S1 (S (CC And) (RB then) (VP (VBP add) (PP (IN on) (PP (TO to) (NP (PRP it)))))))
+-18.477449798779 -61.523000997472
+(S1 (S (CC And) (RB then) (VP (VBP add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-18.486828876544 -63.828185142932
+(S1 (S (CC And) (RB then) (VP (VB add) (PP (IN on)) (PP (TO to) (NP (PRP it))))))
+-18.567847999423 -67.186310709255
+(S1 (S (CC And) (ADVP (RB then)) (S (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-18.603805414873 -61.992137858935
+(S1 (S (CC And) (RB then) (VP (VB add) (PRT (IN on)) (PP (TO to) (NP (PRP it))))))
+-18.712256910702 -64.765985422636
+(S1 (S (CC And) (RB then) (VP (VB add) (PP (RP on) (PP (TO to) (NP (PRP it)))))))
+-18.773625691003 -64.435163469700
+(S1 (S (CC And) (S (ADVP (RB then)) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-18.803253311517 -65.555511777211
+(S1 (S (CC And) (RB then) (VP (VBP add) (ADVP (RB on)) (PP (TO to) (NP (PRP it))))))
+-18.910675914825 -64.154686220807
+(S1 (S (CC And) (RB then) (VP (VB add) (NP (IN on)) (PP (TO to) (NP (PRP it))))))
+-19.002264560035 -63.053440427356
+(S1 (S (CC And) (RB then) (VP (VB add) (ADVP (IN on)) (PP (TO to) (NP (PRP it))))))
+-19.275012659232 -63.968301532646
+(S1 (S (CC And) (VP (ADVP (RB then)) (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-19.305272799179 -65.930976425501
+(S1 (S (CC And) (RB then) (VP (VBP add) (PP (IN on)) (PP (TO to) (NP (PRP it))))))
+-19.415951079449 -64.147273672797
+(S1 (S (CC And) (RB then) (VP (VB add) (ADVP (RP on)) (PP (TO to) (NP (PRP it))))))
+-19.458937133925 -65.949448705905
+(S1 (S (CC And) (RB then) (S (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-19.461030644341 -62.609618232067
+(S1 (FRAG (CC And) (RB then) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-19.470632377564 -66.746960394476
+(S1 (S (CC And) (RB then) (VP (VBP add) (PP (RP on) (PP (TO to) (NP (PRP it)))))))
+-19.654241153169 -66.916124351541
+(S1 (S (CC And) (ADVP (RB then)) (VP (VBP add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-19.788235671111 -66.243783123229
+(S1 (S (CC And) (RB then) (VP (VB add) (ADVP (RB on) (PP (TO to) (NP (PRP it)))))))
+-19.825137339792 -66.119634647179
+(S1 (S (CC And) (RB then) (VP (VB add) (ADVP (RP on) (PP (TO to) (NP (PRP it)))))))
+-20.023618677063 -63.798091838263
+(S1 (S (CC And) (VP (RB then) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-20.046910071897 -66.228821869312
+(S1 (FRAG (CC And) (RB then) (VP (VB add) (ADVP (RB on)) (PP (TO to) (NP (PRP it))))))
+-20.051213243746 -65.263964088834
+(S1 (S (CC And) (RB then) (VP (VB add) (NP (RB on)) (PP (TO to) (NP (PRP it))))))
+-20.087468000922 -62.043165834963
+(S1 (FRAG (CC And) (VP (ADVP (RB then)) (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-20.349729829689 -61.967328507737
+(S1 (X (CC And) (S (RB then) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-20.364627642100 -64.245405159916
+(S1 (S (CC And) (VP (RB then) (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-20.387026838524 -65.874155998824
+(S1 (FRAG (CC And) (VP (ADVP (RB then)) (VB add) (ADVP (RB on)) (PP (TO to) (NP (PRP it))))))
+-20.525126373284 -66.816172739415
+(S1 (S (CC And) (RB then) (VP (VBP add) (PRT (IN on)) (PP (TO to) (NP (PRP it))))))
+-20.559151809076 -65.244076764383
+(S1 (S (CC And) (NP (RB then)) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-20.560046400348 -65.380141734643
+(S1 (S (CC And) (S (RB then) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-20.590979366290 -65.160456111278
+(S1 (S (ADVP (CC And) (RB then)) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-20.593533274806 -65.795533821341
+(S1 (S (CC And) (RB then) (VP (VB add) (PP (RP on)) (PP (TO to) (NP (PRP it))))))
+-20.617428187265 -66.418987166616
+(S1 (S (CC And) (RB then) (VP (VB add) (PP (ADVP (RB on)) (TO to) (NP (PRP it))))))
+-20.685048721097 -67.142323586812
+(S1 (S (CC And) (RB then) (VP (VBP add) (ADVP (IN on)) (PP (TO to) (NP (PRP it))))))
+-20.891622492095 -67.343236039120
+(S1 (S (CC And) (RB then) (VP (VB add) (ADVP (IN on) (PP (TO to) (NP (PRP it)))))))
+-21.191489534478 -66.315017792455
+(S1 (FRAG (CC And) (VP (ADVP (RB then)) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-21.400666879230 -66.361581625049
+(S1 (X (CC And) (S (RB then) (VP (VB add) (ADVP (RB on)) (PP (TO to) (NP (PRP it)))))))
+-21.719816607685 -64.106134413769
+(S1 (FRAG (CC And) (VP (RB then) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-21.721503561212 -67.192549536622
+(S1 (S (CC And) (NP (RB then)) (VP (VBP add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-21.764609031607 -67.235252407971
+(S1 (S (CC And) (S (VP (ADVP (RB then)) (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-21.780153398484 -63.515109353287
+(S1 (FRAG (CC And) (VP (RB then) (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))
+-21.877966826554 -67.440814371117
+(S1 (FRAG (CONJP (CC And) (RB then)) (S (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+-22.144120323300 -67.180018103936
+(S1 (FRAG (CC And) (VP (ADVP (RB then)) (VB add) (PRT (IN on)) (PP (TO to) (NP (PRP it))))))
+-22.557846646484 -67.454024009682
+(S1 (S (CC And) (S (VP (RB then) (VP (VB add) (PRT (RP on)) (PP (TO to) (NP (PRP it))))))))
+-22.746985224684 -67.144763235871
+(S1 (X (CC And) (S (RB then) (VP (VB add) (PRT (IN on)) (PP (TO to) (NP (PRP it)))))))
+-22.822985813806 -67.266697622312
+(S1 (FRAG (CC And) (S (RB then) (VP (VBP add) (PRT (RP on)) (PP (TO to) (NP (PRP it)))))))
+

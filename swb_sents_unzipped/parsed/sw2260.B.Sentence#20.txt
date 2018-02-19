@@ -1,0 +1,102 @@
+50 x
+-25.732682018860 -88.686596016308
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point) (QP (CD seven) (CD five))))))
+-28.217395410393 -90.422706640831
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (NP (QP (CD seven) (CD five)))))))
+-28.400248241546 -88.491464090906
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (NP (CD seven) (CD five))))))
+-28.684023388446 -98.034069253152
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point) (CD seven) (CD five)))))
+-28.717094719483 -94.830498536109
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (QP (CD seven) (CD five))))))
+-29.506007378506 -95.465535539604
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point)) (NP (QP (CD seven) (CD five))))))
+-29.512702936209 -94.869657648690
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point)) (NP (CD seven) (CD five)))))
+-29.544797993168 -94.050428196193
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (QP (NP (CD seven) (NN point)) (CD seven) (CD five))))))
+-29.976771350010 -97.834643891298
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven)) (VP (NN point) (NP (QP (CD seven) (CD five))))))))
+-30.098722849705 -101.609640746753
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven)) (VP (VB point) (NP (QP (CD seven) (CD five))))))))
+-30.218499580534 -97.384824866263
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (ADVP (CD seven) (NN point)) (NP (CD seven) (CD five)))))
+-30.335252688385 -101.124751166772
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (ADJP (CD seven) (NN point)) (CD seven) (CD five)))))
+-30.380983128990 -99.016445789807
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (ADVP (CD seven) (NN point)) (NP (QP (CD seven) (CD five))))))
+-30.517550100677 -100.999053466805
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven)) (VP (VB point) (NP (CD seven) (CD five)))))))
+-30.545046875338 -102.489667723348
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (ADJP (CD seven) (NN point)) (QP (CD seven) (CD five))))))
+-30.572463678154 -92.901166947168
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (ADJP (QP (CD seven) (CD five)))))))
+-30.601511763636 -102.468374469842
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (SBAR (S (NP (CD seven)) (VP (VBP point) (NP (QP (CD seven) (CD five)))))))))
+-30.615286614884 -97.053958485806
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven)) (VP (NN point) (NP (CD seven) (CD five)))))))
+-30.788021029087 -102.595843487277
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (QP (CD seven) (NN point) (CD seven) (CD five))))))
+-31.143149781820 -101.956661916675
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (CD seven) (CD five)))))
+-31.291317054480 -101.844183772942
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (SBAR (S (NP (CD seven)) (VP (VBP point) (NP (CD seven) (CD five))))))))
+-31.558874563423 -102.179955129577
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (ADJP (CD seven) (NN point)) (NP (QP (CD seven) (CD five))))))
+-31.662061264235 -95.725705945767
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (ADJP (CD seven) (CD five))))))
+-31.685134474095 -101.584077399892
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (ADJP (CD seven) (NN point)) (NP (CD seven) (CD five)))))
+-31.824431650738 -102.345267719928
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (ADJP (CD seven) (NN point)) (NP (QP (CD seven) (CD five)))))))
+-31.922535989848 -100.215948160655
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (ADJP (CD seven) (NN point)) (NP (CD seven) (CD five))))))
+-31.972154361064 -98.648791427149
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (NP (CD seven) (NN point)) (NP (CD seven) (CD five))))))
+-32.028347020827 -102.577476775810
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (NP (CD seven) (NN point) (QP (CD seven) (CD five)))))))
+-32.087624074065 -100.877989255571
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (NP (CD seven) (NN point)) (NP (QP (CD seven) (CD five)))))))
+-32.262109893418 -97.469178201360
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point))) (NP (CD seven) (CD five))))
+-32.423999131619 -99.135414894970
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point))) (NP (QP (CD seven) (CD five)))))
+-32.932981228941 -100.668390896294
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (SBAR (S (NP (CD seven) (CD five))))))))
+-33.092588439929 -103.942687230747
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (NP (CD seven) (NN point) (CD seven) (CD five))))))
+-33.219240751671 -103.384260913148
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (SBAR (S (NP (QP (CD seven) (CD five)))))))))
+-33.283404925032 -102.624617496667
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (QP (CD seven) (NN point))) (NP (QP (CD seven) (CD five)))))))
+-33.380103985780 -98.217657510053
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point)) (S (NP (CD seven) (CD five))))))
+-33.456547272247 -100.693374946743
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (QP (CD seven) (NN point))) (NP (CD seven) (CD five))))))
+-33.498416185069 -101.448829113002
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven)) (VP (NN point) (ADJP (CD seven) (CD five)))))))
+-33.614276887403 -101.075529388017
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (S (NP (CD seven) (CD five)))))))
+-33.619715733895 -102.086168786869
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven)) (VP (NN point) (ADJP (QP (CD seven) (CD five))))))))
+-33.684698338028 -101.064741498298
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point)) (S (NP (QP (CD seven) (CD five)))))))
+-33.889673184733 -103.791399404872
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (NP (CD seven) (NN point)) (S (NP (QP (CD seven) (CD five))))))))
+-34.240868816526 -104.158993954689
+(S1 (S (NP (PRP Ourselves)) (VP (VP (VBZ is) (NP (CD seven) (NN point))) (NP (QP (CD seven) (CD five))))))
+-34.367128699320 -103.563116225004
+(S1 (S (NP (PRP Ourselves)) (VP (VP (VBZ is) (NP (CD seven) (NN point))) (NP (CD seven) (CD five)))))
+-34.524688756558 -102.855020074012
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (ADVP (CD seven) (NN point)) (ADJP (CD seven) (CD five)))))
+-34.590927547906 -103.492359747879
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (ADVP (CD seven) (NN point)) (ADJP (QP (CD seven) (CD five))))))
+-34.830855909280 -103.534292438690
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (ADJP (CD seven) (NN point)) (S (NP (CD seven) (CD five))))))
+-34.856180839448 -103.947321521120
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (NP (QP (NP (CD seven) (NN point)) (CD seven) (CD five)))))))
+-34.874756817450 -104.127468122990
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (NP (CD seven) (NN point)) (ADJP (CD seven) (CD five)))))
+-34.954379881616 -104.203504039850
+(S1 (S (NP (PRP Ourselves)) (VP (VBZ is) (S (NP (NP (CD seven) (NN point)) (NP (CD seven) (CD five)))))))
+

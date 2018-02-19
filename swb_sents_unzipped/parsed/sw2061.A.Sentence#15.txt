@@ -1,0 +1,102 @@
+50 x
+-11.042452248337 -43.989811192852
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP North) (NNP Carolina))))))
+-14.237534706370 -49.253251130784
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN in) (NP (NNP North) (NNP Carolina)))))))
+-16.232602219752 -56.748327642855
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP North) (NNP Carolina)))))
+-17.051372018001 -60.893317692898
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNPS North) (NNP Carolina))))))
+-17.271581023799 -58.299059457812
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNP North) (NNP Carolina)))))
+-17.791587380566 -57.676860878243
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (RP in) (NP (NNP North) (NNP Carolina))))))
+-18.348113742881 -62.987258408460
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (S (NP (NNP North) (NNP Carolina)))))))
+-18.396885927906 -60.915197620698
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (IN in)) (NP (NNP North) (NNP Carolina)))))
+-18.549037925613 -60.566694830974
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (IN in) (NP (NNP North) (NNP Carolina))))))
+-18.788053033601 -60.101228495374
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in)) (NP (NNP North) (NNP Carolina)))))
+-19.634061001022 -70.271986552979
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NP (NNP North)) (NNP Carolina))))))
+-19.659129441399 -62.144708603400
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RP in)) (NP (NNP North) (NNP Carolina)))))
+-19.746824461108 -70.637045117205
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NP (NNP North)) (NP (NNP Carolina)))))))
+-19.764687884793 -62.505404916141
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (S (NP (NNP North) (NNP Carolina))))))
+-19.844322655010 -64.051373622035
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (RB in) (NP (NNP North) (NNP Carolina)))))
+-20.188258784790 -70.137321218371
+(S1 (S (NP (NN I)) (VP (VBP 'm) (PP (IN in) (NP (NNP North) (NNP Carolina))))))
+-20.241128486034 -66.156757630830
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN in) (NP (NNPS North) (NNP Carolina)))))))
+-20.615770497791 -66.030804434688
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in) (NP (NNP North) (NNP Carolina))))))
+-21.121858192070 -72.483145066839
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNPS North) (NNP Carolina)))))
+-21.229863682073 -71.190242609066
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (IN in) (S (NP (NNP North) (NNP Carolina)))))))
+-21.491744968036 -68.963882694637
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN in) (S (NP (NNP North) (NNP Carolina))))))))
+-21.729235124159 -66.672274893984
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (IN in)) (S (NP (NNP North) (NNP Carolina))))))
+-22.141308601059 -77.750611504843
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NP (NNPS North)) (NNP Carolina))))))
+-22.165738106127 -70.358341006657
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (IN in) (FRAG (NP (NNP North) (NNP Carolina)))))))
+-22.452731934966 -74.033876853697
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNPS North) (NNP Carolina)))))
+-22.556324728543 -76.532733379041
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (S (NP (NNP North)) (NP (NNP Carolina)))))))
+-22.786480633272 -74.623167996848
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (PP (IN in) (NP (NNP North) (NNP Carolina))))))
+-22.792280479056 -75.535426490911
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN in) (NP (NP (NNP North)) (NNP Carolina)))))))
+-22.905043939142 -75.900485055138
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN in) (NP (NP (NNP North)) (NP (NNP Carolina))))))))
+-23.139732508194 -73.859233825611
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (RP in) (NP (NNP North) (NNP Carolina)))))))
+-23.247800264038 -80.548059916925
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNPS North)) (NP (NNP Carolina)))))
+-23.356427389511 -78.335956422864
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (S (NP (NNPS North) (NNP Carolina)))))))
+-23.401411362132 -77.927127818890
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP North)) (NP (NNP Carolina)))))
+-23.449781624321 -74.499827006309
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (RP in) (NP (NNPS North) (NNP Carolina))))))
+-23.481239942824 -75.400761156303
+(S1 (S (NP (NN I)) (VP (VBP 'm) (VP (PP (IN in) (NP (NNP North) (NNP Carolina)))))))
+-23.521312127536 -76.650015044682
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (IN in)) (NP (NNPS North) (NNP Carolina)))))
+-23.758344171800 -75.961963802412
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (S (NP (NNP North)) (NP (NNP Carolina))))))
+-23.785184122444 -76.040120925073
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (IN in) (NP (NNPS North) (NNP Carolina))))))
+-23.801880883458 -79.873208884761
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP North) (NNP Carolina)))))))
+-23.817538996512 -77.388559448290
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NP (NNP North)) (NP (NNP Carolina))))))
+-23.836749160868 -75.836045891260
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in)) (NP (NNPS North) (NNP Carolina)))))
+-24.098416331290 -77.854103120533
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (S (NP (NNPS North) (NNP Carolina))))))
+-24.636353116354 -77.879525999285
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RP in)) (NP (NNPS North) (NNP Carolina)))))
+-24.739732554692 -79.795187643278
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NP (NNP North)) (NP (NNP Carolina))))))
+-25.103733734328 -79.786191046019
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (RB in) (NP (NNPS North) (NNP Carolina)))))
+-25.111425584207 -77.894215310362
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (RP in) (NP (NP (NNP North)) (NP (NNP Carolina)))))))
+-25.360961585080 -80.184431625820
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in) (NP (NNPS North) (NNP Carolina))))))
+-25.452640099175 -79.883595274225
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (PP (IN in) (NP (NNP North) (NNP Carolina)))))))
+-25.528848365955 -80.128833780255
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (IN in)) (S (NP (NNP North)) (NP (NNP Carolina))))))
+-26.582009465161 -80.542340903938
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (VP (PP (IN in) (NP (NNP North) (NNP Carolina)))))))
+

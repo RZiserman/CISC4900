@@ -1,0 +1,102 @@
+50 x
+-29.182460745170 -103.813420499023
+(S1 (S (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))
+-29.290187930845 -98.842736898404
+(S1 (S (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-29.493208820742 -104.293379859502
+(S1 (NP (NP (NN MUMBLEx)) (PP (IN for) (NP (NN example))) (SBAR (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))))
+-30.016892936998 -105.594798220744
+(S1 (S (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (NN test) (NP (DT a) (NN chip)))))
+-30.077446937626 -103.914530222148
+(S1 (S (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example) (SBAR (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))))))
+-30.123017078936 -102.744183981543
+(S1 (S (ADVP (RB MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))
+-30.235807490948 -102.133093878420
+(S1 (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-30.279063537103 -104.804038883889
+(S1 (NP (NP (NN MUMBLEx)) (PP (IN for) (NP (NN example))) (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-30.583082971765 -105.687053138632
+(S1 (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (SBAR (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))))
+-30.615398332632 -101.220453727321
+(S1 (S (ADVP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))
+-30.652131617508 -105.897924356224
+(S1 (S (NP (NNS MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))
+-30.666522953032 -103.911562324840
+(S1 (S (ADVP (JJ MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))
+-30.668482931497 -102.790724862347
+(S1 (NP (NP (NNP MUMBLEx)) (SBAR (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))))
+-30.849449961038 -103.402849642501
+(S1 (S (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example) (SBAR (S (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))))))
+-30.951820738402 -104.901165587366
+(S1 (S (NP (NP (NN MUMBLEx)) (PP (IN for) (NP (NN example)))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-30.962400010165 -105.533698826971
+(S1 (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example) (SBAR (S (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))))))
+-31.222908579143 -102.503880797734
+(S1 (NP (NP (NNP MUMBLEx)) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-31.295073036553 -103.269670772644
+(S1 (S (NP (NN MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-31.316760848020 -105.232816213683
+(S1 (S (RB MUMBLEx) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))
+-31.460408922986 -102.590543526355
+(S1 (S (ADVP (RB MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-31.460689692682 -101.013003720800
+(S1 (FRAG (NP (NNP MUMBLEx)) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-31.505328368820 -102.799180027749
+(S1 (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (S (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-31.570996088507 -105.531833049453
+(S1 (FRAG (NP (NN MUMBLEx)) (PP (IN for) (NP (NN example))) (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-31.592337153840 -105.291805659553
+(S1 (NP (NP (NN MUMBLEx)) (SBAR (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))))
+-31.618257156341 -103.374206619180
+(S1 (FRAG (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-31.651017308868 -105.598410118789
+(S1 (NP (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example)))) (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-31.732304219760 -105.594630501125
+(S1 (S (VP (NNP MUMBLEx) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))))
+-31.772125931244 -104.796026482657
+(S1 (S (VP (NNP MUMBLEx) (SBAR (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))))
+-32.062466502726 -103.170630151073
+(S1 (FRAG (NP (NN MUMBLEx)) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-32.110168530235 -105.769819324862
+(S1 (S (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example)))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-32.177456988793 -105.695585097391
+(S1 (S (NP (NNS MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-32.297787707749 -101.898194754420
+(S1 (S (ADVP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-32.342650504400 -102.336200002183
+(S1 (NP (NP (NNP MUMBLEx)) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-32.389130404238 -104.128521982617
+(S1 (S (RB MUMBLEx) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-32.395017016723 -104.669245633399
+(S1 (FRAG (NP (NN MUMBLEx)) (PP (IN for) (NP (NN example))) (S (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-32.411398190176 -105.253498327012
+(S1 (FRAG (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example)))) (S (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip))))))
+-32.494760173819 -100.258551525447
+(S1 (FRAG (NP (NNP MUMBLEx)) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-32.548011987043 -105.455980812839
+(S1 (S (ADVP (JJ MUMBLEx)) (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-32.596167664160 -102.714803797537
+(S1 (FRAG (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example))) (S (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-32.616768714649 -104.962967181059
+(S1 (S (PP (ADVP (RB MUMBLEx)) (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-32.777913480093 -105.200603187208
+(S1 (FRAG (NP (NP (NN MUMBLEx)) (PP (IN for) (NP (NN example)))) (S (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-32.851248962447 -104.889365399463
+(S1 (S (PP (NP (NN MUMBLEx)) (IN for) (NP (NN example))) (NP (PRP you)) (VP (VBP test) (NP (DT a) (NN chip)))))
+-32.880545704259 -102.212993361309
+(S1 (FRAG (NP (NN MUMBLEx)) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-32.995138763903 -105.277075100266
+(S1 (S (VP (NNP MUMBLEx) (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))))
+-33.216622033698 -104.333180057924
+(S1 (S (PP (JJ MUMBLEx) (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-33.348393179234 -105.901246006350
+(S1 (S (VP (NNP MUMBLEx) (SBAR (S (PP (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))))
+-33.432829613143 -104.703553197326
+(S1 (S (PP (NP (NNP MUMBLEx)) (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-33.619950899520 -104.931807560283
+(S1 (FRAG (NP (NP (NNP MUMBLEx)) (PP (IN for) (NP (NN example)))) (S (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip))))))
+-33.830071585873 -103.282668917700
+(S1 (S (PP (NP (NN MUMBLEx)) (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+-33.830670948170 -104.991584329330
+(S1 (S (PP (ADVP (JJ MUMBLEx)) (IN for) (NP (NN example))) (NP (PRP you)) (VP (VB test) (NP (DT a) (NN chip)))))
+

@@ -1,0 +1,102 @@
+50 x
+-19.660313769622 -65.308663696956
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been)) (NP (EX there))))
+-21.135659036864 -70.976738852341
+(S1 (S (VP (VB Have) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there))))))))
+-21.217598229145 -66.850884733698
+(S1 (S (VP (VB Have) (NP (PRP you)) (RB ever) (VP (VBN been) (ADVP (RB there))))))
+-21.267859722202 -67.608809987044
+(S1 (VP (VB Have) (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there)))))
+-21.341131099129 -72.134528152225
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there)))))))
+-21.395622137371 -71.333050314172
+(S1 (S (VP (VB Have) (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there))))))
+-21.744938277580 -63.810934661068
+(S1 (S (VP (VBP Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (ADVP (RB there))))))
+-21.912532260584 -72.795325731300
+(S1 (S (VP (VBP Have) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there))))))))
+-22.264347958438 -70.941100872974
+(S1 (S (VP (VB Have) (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there))))))
+-22.276520667532 -70.699529539501
+(S1 (S (VP (VBP Have) (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there))))))
+-22.336264390195 -72.786834727753
+(S1 (S (VP (VB Have) (SBAR (S (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there))))))))
+-22.407062254281 -66.018466596137
+(S1 (S (VP (VB Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (ADVP (RB there))))))
+-22.442131067054 -70.743850567026
+(S1 (VP (VB Have) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there)))))))
+-22.492043732137 -72.547916346269
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there)))))))
+-22.492111998936 -73.853740024374
+(S1 (S (VP (VBP Have) (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there))))))
+-22.503767174655 -72.281066132460
+(S1 (VP (VB Have) (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there))))))
+-22.632925467715 -73.817670343350
+(S1 (SINV (VB Have) (NP (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there))))))
+-22.688542270129 -70.726476881652
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (RB ever) (VBN been)) (NP (EX there))))
+-22.827351710411 -67.793656825839
+(S1 (S (VP (VBP Have) (VP (ADVP (PRP you) (RB ever)) (VBN been) (ADVP (RB there))))))
+-22.896811434688 -68.029308200521
+(S1 (S (VP (VB Have) (VP (ADVP (PRP you) (RB ever)) (VBN been) (ADVP (RB there))))))
+-23.030115886119 -74.120508829713
+(S1 (S (VP (VB Have) (NP (PRP you)) (SBAR (S (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there))))))))
+-23.055692061100 -70.086394838866
+(S1 (S (VP (VBP Have) (ADVP (NP (PRP you)) (RB ever)) (VP (VBN been) (ADVP (RB there))))))
+-23.095351543914 -74.605421606712
+(S1 (S (VP (VBP Have) (SBAR (S (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there))))))))
+-23.149724389058 -71.112338198017
+(S1 (S (VP (VB Have) (NP (PRP you)) (RB ever) (VP (VBN been) (NP (EX there))))))
+-23.153757790964 -71.870263417880
+(S1 (VP (VB Have) (NP (PRP you)) (ADVP (RB ever)) (VP (VBN been) (NP (EX there)))))
+-23.176277579259 -70.306455475418
+(S1 (VP (VB Have) (NP (PRP you)) (RB ever) (VP (VBN been) (ADVP (RB there)))))
+-23.291437882525 -66.528142239534
+(S1 (S (VP (VBP Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (NP (EX there))))))
+-23.309580123062 -71.958989627086
+(S1 (S (VP (VBP Have) (VP (ADVP (NP (PRP you)) (RB ever)) (VBN been) (ADVP (RB there))))))
+-23.327097517339 -72.194641001768
+(S1 (S (VP (VB Have) (VP (ADVP (NP (PRP you)) (RB ever)) (VBN been) (ADVP (RB there))))))
+-23.476418016307 -72.345641187805
+(S1 (VP (VB Have) (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there)))))
+-23.513623506626 -71.746158209910
+(S1 (S (VP (VB Have) (ADVP (NP (PRP you)) (RB ever)) (VP (VBN been) (ADVP (RB there))))))
+-23.687437000451 -72.694454341484
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there))))))
+-23.932330724597 -72.553946442438
+(S1 (VP (VB Have) (SBAR (S (NP (PRP you)) (VP (ADVP (RB ever)) (VBN been) (ADVP (RB there)))))))
+-24.233477870099 -73.588749956411
+(S1 (S (VP (VP (VB Have) (NP (PRP you))) (RB ever) (VP (VBN been) (ADVP (RB there))))))
+-24.312808436357 -70.136963177239
+(S1 (VP (VB Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (ADVP (RB there)))))
+-24.340942142558 -70.279920099337
+(S1 (S (VP (VB Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (NP (EX there))))))
+-24.456968172540 -74.244471625691
+(S1 (S (VP (VB Have) (NP (PRP you)) (SBAR (RB ever) (S (VP (VBN been) (ADVP (RB there))))))))
+-24.598492460959 -71.243468830269
+(S1 (VP (VB Have) (VP (ADVP (PRP you) (RB ever)) (VBN been) (ADVP (RB there)))))
+-24.602191666045 -72.803602417332
+(S1 (S (VP (VBP Have) (ADVP (NP (PRP you)) (RB ever)) (VP (VBN been) (NP (EX there))))))
+-24.685903969647 -73.162309377290
+(S1 (S (VP (VB Have) (NP (NP (PRP you)) (ADVP (RB ever))) (VP (VBN been) (ADVP (RB there))))))
+-24.702878690359 -74.679061948584
+(S1 (VP (VB Have) (NP (PRP you)) (SBAR (S (ADVP (RB ever)) (VP (VBN been) (ADVP (RB there)))))))
+-24.878960021294 -74.506381245551
+(S1 (S (VP (VBP Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (PRT (RB there))))))
+-25.053697901474 -74.567909028403
+(S1 (VP (VB Have) (NP (PRP you)) (RB ever) (VP (VBN been) (NP (EX there)))))
+-25.273303441868 -73.291806662803
+(S1 (S (VP (VB Have) (VP (ADVP (PRP you) (RB ever)) (VBN been) (NP (EX there))))))
+-25.322691866866 -73.195165221517
+(S1 (S (VP (VBP Have) (VP (ADVP (PRP you) (RB ever)) (VBN been) (NP (EX there))))))
+-25.683902199319 -74.460421364632
+(S1 (VP (VB Have) (NP (PRP you)) (SBAR (RB ever) (S (VP (VBN been) (ADVP (RB there)))))))
+-25.952997356635 -71.883045590350
+(S1 (S (VP (VBP Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (ADJP (RB there))))))
+-26.040801563397 -74.566849470727
+(S1 (VP (VB Have) (NP (NP (PRP you)) (ADVP (RB ever))) (VP (VBN been) (ADVP (RB there)))))
+-26.191982445119 -74.398416608075
+(S1 (VP (VB Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (NP (EX there)))))
+-28.062019849186 -74.054690017037
+(S1 (S (VP (VBP Have) (ADVP (PRP you) (RB ever)) (VP (VBN been) (S (ADJP (RB there)))))))
+

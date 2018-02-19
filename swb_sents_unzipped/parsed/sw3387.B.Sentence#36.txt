@@ -1,0 +1,102 @@
+50 x
+-14.315103421649 -51.351588327493
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-15.193035537571 -54.461283481146
+(S1 (S (NP (DT That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-17.193706776615 -55.678032419827
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-17.447268181362 -60.265225830002
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-17.522225306472 -62.258891264987
+(S1 (S (DT That) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-17.605236643605 -58.250965273929
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest))))))))
+-17.985783689865 -55.478708713589
+(S1 (S (NP (IN That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-18.164899037496 -62.382940377149
+(S1 (SBAR (IN That) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-18.329301849239 -57.451549191309
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-18.338527925291 -58.014463484720
+(S1 (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-18.383299775215 -61.360660427581
+(S1 (S (NP (DT That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest))))))))
+-18.383819847944 -64.993859256760
+(S1 (S (DT That) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-18.575426497384 -58.949284781622
+(S1 (SBAR (DT That) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-18.590553527376 -60.524676755424
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-18.710142915779 -63.037229009667
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (VP (NN interest))))))))
+-18.855439505825 -60.676374995021
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))))
+-18.953176368943 -65.507005780992
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (VP (NP (NN interest)))))))))
+-18.972852174168 -57.570154490139
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))))
+-19.128533814695 -60.394367492253
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-19.215209131837 -60.807981101164
+(S1 (SBAR (WHNP (WDT That)) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-19.239938385786 -59.025719337643
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-19.329073333697 -64.566485670596
+(S1 (PP (IN That) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-19.381379759755 -62.066197580181
+(S1 (FRAG (SBAR (IN That) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))))
+-19.462852561847 -63.487181775095
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-19.513190668443 -59.389397175799
+(S1 (S (NP (WDT That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-19.537665212714 -65.031221606170
+(S1 (PP (IN That) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-19.591896681701 -66.146924163319
+(S1 (S (NP (DT That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (VP (NN interest))))))))
+-19.838123264120 -62.582381720586
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-19.946880230718 -63.855343717816
+(S1 (S (WHNP (WDT That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-19.994416166854 -63.390306589394
+(S1 (S (RB That) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-20.017248219447 -62.003704625987
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-20.113013511495 -65.317034323707
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-20.150018773800 -64.730794844589
+(S1 (SBAR (DT That) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-20.488731842201 -65.637638823003
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (S (NP (NN interest)))))))))
+-20.548075911359 -62.577409366263
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest)))))))))
+-20.569174439406 -63.283202776628
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-20.649307879720 -65.071176555512
+(S1 (S (RB That) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))
+-20.827484337287 -66.273189196958
+(S1 (FRAG (S (NP (DT That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-20.868573474098 -64.552358564983
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))))
+-20.962105724890 -62.648316105339
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))))
+-21.176047927509 -62.378085660024
+(S1 (S (NP (IN That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest))))))))
+-21.619450951983 -64.350926137744
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest)))))))))
+-21.628661150035 -64.913840431155
+(S1 (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest))))))))
+-21.643610773157 -65.327677841967
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (ADJP (NN interest))))))))
+-21.929795632128 -65.848661728057
+(S1 (SBAR (DT That) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest)))))))))
+-22.217722574457 -64.178387746838
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+-22.327237186912 -64.469531436574
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest))))))))))
+-22.530071607742 -65.925096284079
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VB have) (NP (NN interest))))))))
+-22.588592918990 -65.259785434798
+(S1 (FRAG (SBAR (S (NP (IN That)) (VP (POS 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest))))))))))
+-22.922689541777 -65.157036982209
+(S1 (FRAG (S (NP (WDT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBP have) (NP (NN interest)))))))))
+

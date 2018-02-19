@@ -1,0 +1,102 @@
+50 x
+-16.529887723441 -53.943780314724
+(S1 (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ single) (CC and) (JJ female)))))
+-19.539092587436 -62.572490875661
+(S1 (S (NP (PRP I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (JJ female))))))
+-21.574138406267 -66.811277747631
+(S1 (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ single) (CC and) (NN female)))))
+-21.818652958025 -64.793451743649
+(S1 (S (NP (PRP I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female))))))
+-23.283205524837 -74.113397837672
+(S1 (S (NP (PRP I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (NN female))))))
+-23.350460237898 -69.850315890946
+(S1 (S (NP (PRP I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female)))))))
+-24.536413541007 -78.619168429096
+(S1 (S (NP (PRP I)) (VP (VBP am) (SBAR (S (ADJP (JJ single) (CC and) (JJ female)))))))
+-25.023925801724 -79.816144370431
+(S1 (S (NP (NN I)) (VP (VBP am) (ADJP (JJ single) (CC and) (JJ female)))))
+-25.372990304081 -74.708786831774
+(S1 (S (NP (PRP I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (NN female))))))
+-25.708318617015 -80.628723868961
+(S1 (S (NP (PRP I)) (VP (VBP am) (SBAR (S (ADJP (JJ single) (CC and) (NN female)))))))
+-26.800147876333 -79.873717501412
+(S1 (S (NP (PRP I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (NN female)))))))
+-27.902098022930 -88.444854931367
+(S1 (S (NP (NN I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (JJ female))))))
+-27.947190285532 -85.203101121256
+(S1 (NP (NP (NN I)) (VP (VBP am) (ADJP (JJ single) (CC and) (JJ female)))))
+-28.480117366711 -91.737193929128
+(S1 (NP (NP (PRP I)) (VP (VBP am) (ADJP (JJ single) (CC and) (JJ female)))))
+-28.529640031256 -87.009571422392
+(S1 (S (NP (PRP I)) (VP (VBP am) (SBAR (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female))))))))
+-29.818164427445 -90.453142060796
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (ADJP (JJ single) (CC and) (JJ female))))))
+-29.884099339762 -92.683641803337
+(S1 (S (NP (NN I)) (VP (VBP am) (ADJP (JJ single) (CC and) (NN female)))))
+-29.995606245253 -90.571436324364
+(S1 (NP (NP (NN I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (JJ female))))))
+-30.072458616308 -90.665815799355
+(S1 (S (NP (NN I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female))))))
+-30.506431444314 -90.463528488519
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (ADJP (JJ single) (CC and) (JJ female))))))
+-30.607532276432 -97.105529132236
+(S1 (NP (NP (PRP I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (JJ female))))))
+-31.462133818332 -99.985761893379
+(S1 (S (NP (NN I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (NN female))))))
+-31.541156946181 -95.722679946653
+(S1 (S (NP (NN I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female)))))))
+-31.548997527165 -95.821477263904
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (JJ female)))))))
+-32.158265594035 -95.831863691627
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (JJ female)))))))
+-32.189122193690 -97.032973032859
+(S1 (S (NP (PRP I)) (VP (VBP am) (SBAR (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (NN female))))))))
+-32.488386213576 -97.640437527915
+(S1 (NP (NP (NN I)) (VP (VBP am) (ADJP (JJ single) (CC and) (NN female)))))
+-32.898757238334 -95.622611523933
+(S1 (NP (NP (NN I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female))))))
+-32.970710422077 -104.491532484803
+(S1 (S (NP (NN I)) (VP (VBP am) (SBAR (S (ADJP (JJ single) (CC and) (JJ female)))))))
+-33.347579148095 -102.080041219154
+(S1 (NP (NP (NN I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (NN female))))))
+-33.367794983604 -104.174530335787
+(S1 (NP (NP (PRP I)) (VP (VBP am) (ADJP (JJ single) (CC and) (NN female)))))
+-33.442718823151 -100.581150887481
+(S1 (S (NP (NN I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (NN female))))))
+-33.596385831150 -102.156704331805
+(S1 (NP (NP (PRP I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female))))))
+-33.640843530033 -97.871423556683
+(S1 (NP (NP (NN I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female)))))))
+-33.958538344934 -106.501087924668
+(S1 (S (NP (NN I)) (VP (VBP am) (SBAR (S (ADJP (JJ single) (CC and) (NN female)))))))
+-34.305986876486 -108.614134027026
+(S1 (NP (NP (PRP I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (NN female))))))
+-34.417471089576 -104.405516364555
+(S1 (NP (NP (PRP I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female)))))))
+-34.465120748151 -102.890478467455
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (ADJP (JJ single) (CC and) (NN female))))))
+-34.806767453766 -105.746081557119
+(S1 (S (NP (NN I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (NN female)))))))
+-34.822330765398 -100.872652463473
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female)))))))
+-34.907877434657 -102.900864895178
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (ADJP (JJ single) (CC and) (NN female))))))
+-35.149803649734 -107.330082158694
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (NN female)))))))
+-35.239313697137 -106.902608660040
+(S1 (NP (NP (NN I)) (VP (VBP am) (SBAR (S (ADJP (JJ single) (CC and) (JJ female)))))))
+-35.345896253903 -100.883038891196
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female)))))))
+-35.358936331946 -103.121464496223
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female))))))))
+-35.513561386239 -107.340468586417
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (S (ADJP (JJ single) (CC and) (NN female)))))))
+-35.803502870451 -103.131850923946
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (JJ female))))))))
+-35.846265431822 -108.259968458999
+(S1 (NP (NP (NN I)) (VP (VBP am) (SBAR (S (ADJP (JJ single) (CC and) (NN female)))))))
+-36.069959688602 -105.537946612059
+(S1 (NP (NP (NN I)) (VP (VBP am) (ADJP (ADJP (JJ single)) (CC and) (ADJP (NN female))))))
+-36.707396283831 -107.894825167150
+(S1 (NP (NP (NN I)) (VP (VBP am) (S (ADJP (ADJP (JJ single)) (CC and) (ADJP (NN female)))))))
+

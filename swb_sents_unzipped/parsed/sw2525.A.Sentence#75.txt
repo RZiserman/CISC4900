@@ -1,0 +1,102 @@
+50 x
+-49.894890052123 -187.451173151803
+(S1 (S (PP (IN at) (PP (IN at) (NP (NP (DT the) (NN T)) (SBAR (NP (PRP I)) (RB there) (S (NP (PRP I)) (VP (VBD said))))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))
+-50.942634061128 -186.644186320665
+(S1 (S (PP (IN at) (PP (IN at) (NP (NP (DT the) (NN T)) (NP (PRP I))))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-51.585223493900 -186.037027632099
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NN T)))) (S (NP (PRP I)) (ADVP (RB there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-51.861650656043 -185.514571316954
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (NP (DT the) (NN T)) (NP (PRP I)))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-51.923151719394 -186.759122182176
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T)))) (S (NP (PRP I)) (ADVP (RB there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-52.439948088952 -187.346042348438
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (JJ T) (NN I)))) (NP (NP (EX there)) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))
+-52.445292415963 -185.272706469520
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (JJ T) (NN I)))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-52.539597357949 -184.706421497577
+(S1 (S (PP (IN at) (PP (IN at) (NP (NP (DT the) (NN T)) (ADVP (NP (PRP I)) (RB there))))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-52.815096748153 -187.500152699049
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NN T)))) (NP (NP (PRP I)) (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-52.822733854296 -183.652860167894
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-52.939644435748 -186.932375809187
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NN T))) (NP (NP (PRP I)) (NP (RB there))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-52.950838799234 -185.652245966386
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NN T))) (NP (NP (PRP I)) (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.015832475267 -186.711764406900
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NN I)))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-53.030007854884 -185.726196046812
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)))) (NP (NP (EX there)) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))
+-53.064757809354 -183.618771729831
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (JJ T) (NN I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.138614881847 -186.901292995803
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NN T) (NN I)))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-53.166120028823 -187.071473183812
+(S1 (S (PP (IN at) (PP (IN at) (NP (NP (DT the) (NNS T)) (ADVP (NP (PRP I)) (RB there))))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-53.425650863618 -184.599069580090
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NN T)))) (NP (PRP I)) (S (NP (NP (EX there)) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-53.502369770780 -185.057829472762
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NNP T) (NN I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.528128150277 -184.017217320642
+(S1 (S (PP (IN at) (PP (IN at) (NP (NP (DT the) (NN T)) (ADVP (PRP I) (RB there))))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-53.559880554472 -182.720004204137
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NNP T) (NNP I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.602617977937 -187.247166836445
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NNP T))) (NP (NP (PRP I)) (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.633098650688 -186.520235759539
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NN T)))) (NP (PRP I)) (NP (EX there)) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.756465905238 -185.247358169852
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NN T) (NN I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.836431604979 -186.178810476176
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NN T))) (NP (PRP I)) (NP (RB there) (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-53.836978081234 -185.321164130166
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NNP T)))) (NP (PRP I)) (S (NP (NP (EX there)) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-53.880885798111 -185.566263256867
+(S1 (S (PP (IN at) (PP (IN at) (NP (NP (DT the) (NNS T)) (ADVP (PRP I) (RB there))))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-53.920289614350 -186.729004339846
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (CD T)))) (NP (PRP I)) (S (NP (NP (EX there)) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-54.032341118304 -187.242330309616
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NNP T)))) (NP (PRP I)) (NP (EX there)) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-54.110238069847 -187.004138690657
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)))) (NP (EX there) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))
+-54.216462845679 -186.273110478613
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NN T))) (NP (PRP I) (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-54.234095932719 -187.055542948535
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (CD T) (NN I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-54.286897200057 -187.189955358365
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (JJ T) (NNP I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-54.366548779487 -186.847453037850
+(S1 (S (PP (IN at) (PP (IN at) (NP (NP (DT the) (NNP T)) (ADVP (PRP I) (RB there))))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-54.405400182764 -186.513761698949
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)))) (NP (EX there) (S (NP (PRP I)) (VP (VBD said)))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))
+-54.473509275355 -187.536026929551
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)))) (NP (NP (RB there)) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))
+-54.829006901206 -187.286068287178
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NNS T)))) (NP (PRP I)) (S (NP (NP (EX there)) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-54.858793373138 -186.686076296789
+(S1 (S (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)) (ADVP (RB there)))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+-54.920472700704 -185.877012223934
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NN T)))) (NP (PRP I)) (S (NP (EX there) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-55.041018035038 -186.421476278967
+(S1 (FRAG (SBAR (IN at) (S (PP (IN at) (NP (DT the) (JJ T) (NN I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))))
+-55.185018838900 -187.401027573664
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (NP (DT the) (NN T)) (ADVP (PRP I) (RB there)))) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-55.215634813621 -185.386635232226
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NN T)))) (NP (PRP I)) (S (NP (EX there) (S (NP (PRP I)) (VP (VBD said)))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-55.249128375827 -187.211831136270
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (JJ T) (NN I)))) (NP (EX there)) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-55.322207233308 -186.919015824605
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)))) (RB there) (SBAR (S (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))))
+-55.328541676197 -186.599106774011
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NNP T)))) (NP (PRP I)) (S (NP (EX there) (SBAR (S (NP (PRP I)) (VP (VBD said))))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-55.466386214159 -185.591984834644
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NNP T) (NNP I)))) (NP (EX there)) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid)))))))))))))
+-55.536140780155 -185.522708753273
+(S1 (FRAG (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NNP T) (NNP I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))))
+-55.623703789114 -186.108729782303
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (NNP T)))) (NP (PRP I)) (S (NP (EX there) (S (NP (PRP I)) (VP (VBD said)))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-55.707015322230 -187.516569991982
+(S1 (FRAG (PP (IN at) (PP (IN at) (NP (DT the) (CD T)))) (NP (PRP I)) (S (NP (EX there) (S (NP (PRP I)) (VP (VBD said)))) (VP (VBZ is) (ADVP (RB there)) (NP (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))
+-56.019689615993 -187.630030788413
+(S1 (SBAR (IN at) (S (PP (IN at) (NP (DT the) (NNP T) (NNP I))) (NP (EX there)) (NP (PRP I)) (VP (VBD said) (SBAR (S (VP (VBZ is) (ADVP (RB there)) (NP (DT any) (NN area)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB avoid))))))))))))
+

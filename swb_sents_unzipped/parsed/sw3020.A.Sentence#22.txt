@@ -1,0 +1,102 @@
+50 x
+-23.780221139481 -77.435485108168
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (ADJP (NP (RB about) (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-25.198831738968 -78.380088965366
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (NP (RB about) (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-26.247428270500 -88.549629731312
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (NP (RB about) (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks))))))
+-26.591680960165 -91.646005265411
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (NP (RB about) (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks))))))
+-26.906679402064 -90.798330662915
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (RB about) (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks)))))
+-27.318865227849 -87.111290048326
+(S1 (S (NP (PRP We)) (VP (VBD had) (PP (IN about) (NP (NP (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks)))))))
+-27.503280274851 -86.687972439735
+(S1 (S (NP (PRP We)) (VP (VBD had) (PRT (RP about)) (ADJP (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-27.588162922155 -83.289368260372
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (ADJP (NP (IN about) (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-27.602134430565 -86.892438033051
+(S1 (S (NP (PRP We)) (VP (VBN had) (PP (IN about) (NP (NP (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks)))))))
+-27.686292875557 -90.040428697467
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (NP (IN about) (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks))))))
+-27.887391959241 -84.684339765534
+(S1 (S (NP (PRP We)) (VP (VBD had) (RB about) (ADJP (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-27.891921406499 -88.272674116507
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (NP (RB about) (DT a) (JJ little) (NN bit)) (RBR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-27.898240479340 -85.584924210434
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (ADJP (RB about) (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-27.908561513044 -87.303240753020
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADVP (RB about)) (ADJP (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.206475816670 -88.819602397960
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (NP (QP (RB about) (DT a) (JJ little) (NN bit) (JJR less))) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.249071578831 -88.946653212520
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (ADJP (NP (RB about) (DT a) (JJ little) (NN bit)) (RBR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.268002077847 -92.695737387052
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (IN about) (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks)))))
+-28.429727005927 -92.871547479133
+(S1 (S (NP (PRP We)) (VP (VBD had) (PRT (RP about)) (NP (NP (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks))))))
+-28.488881882156 -84.233972188359
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (NP (IN about) (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.509549817009 -90.559934803524
+(S1 (S (NP (PRP We)) (VP (VBD had) (SBAR (IN about) (S (ADJP (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))))
+-28.530345766734 -93.733316681703
+(S1 (S (NP (PRP We)) (VP (VBD had) (PRT (RP about)) (NP (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks)))))
+-28.567702593100 -93.556145704403
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (RB about) (DT a) (JJ little) (NN bit)) (ADVP (RBR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.592910350637 -94.206132730176
+(S1 (S (NP (PRP We)) (VP (VBD had) (PP (IN about) (NP (NP (DT a) (JJ little) (NN bit)) (QP (JJR less) (IN than) (CD two)) (NNS weeks))))))
+-28.611022977370 -93.842367919432
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (RB about) (DT a) (JJ little) (NN bit)) (ADVP (ADVP (RBR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.662641780206 -93.498342005517
+(S1 (S (NP (PRP We)) (VP (VBD had) (IN about) (NP (NP (DT a) (JJ little) (NN bit)) (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks))))))
+-28.697674577732 -90.406678676140
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (ADJP (NP (ADVP (RB about)) (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.710545383353 -93.987280714901
+(S1 (S (NP (PRP We)) (VP (VBN had) (PP (IN about) (NP (NP (DT a) (JJ little) (NN bit)) (QP (JJR less) (IN than) (CD two)) (NNS weeks))))))
+-28.767476108442 -91.438503156080
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (RB about) (DT a) (JJ little) (NN bit)) (NP (NP (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-28.920369239532 -92.243326191097
+(S1 (S (NP (PRP We)) (VP (VBD had) (PRT (RP about)) (S (ADJP (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks))))))))
+-29.213301005833 -88.247844694453
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADVP (RB about)) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-29.214127265912 -91.446887048485
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (NP (RB about) (DT a) (JJ little) (NN bit)) (NP (QP (RBR less) (IN than) (CD two)) (NNS weeks))))))
+-29.418067743644 -89.032388173459
+(S1 (S (NP (PRP We)) (VP (VBD had) (PRT (RP about)) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-29.592108683034 -87.028755499258
+(S1 (S (NP (PRP We)) (VP (VBD had) (RB about) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-29.748777469073 -88.348995190743
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADVP (IN about)) (ADJP (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-29.816096295696 -90.874358477093
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (RB about) (NP (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-30.128798781437 -93.335909880217
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (IN about) (DT a) (JJ little) (NN bit)) (NP (NP (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-30.136525629826 -91.351282374043
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (NP (ADVP (RB about)) (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-30.166765576476 -93.695587980088
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (RB about) (DT a) (JJ little) (NN bit)) (NP (QP (RBR less) (IN than) (CD two)) (NNS weeks)))))
+-30.192989555261 -90.008547365499
+(S1 (S (NP (PRP We)) (VP (VBD had) (PP (IN about) (NP (NP (DT a) (JJ little) (NN bit)) (NP (QP (RBR less) (IN than) (CD two)) (NNS weeks)))))))
+-30.230704016949 -94.359183173090
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (NP (IN about) (DT a) (JJ little) (NN bit)) (ADVP (RBR less) (PP (IN than) (NP (CD two) (NNS weeks))))))))
+-30.273889434053 -92.316485461616
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (ADJP (ADVP (RB about)) (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-30.391142470323 -94.373489174867
+(S1 (S (NP (PRP We)) (VP (VBD had) (PRT (RP about)) (NP (DT a) (JJ little) (NN bit)) (NP (NP (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-30.475660037879 -93.592529005296
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (RB about) (DT a) (JJ little) (NN bit)) (S (NP (QP (JJR less) (IN than) (CD two)) (NNS weeks))))))
+-30.476258757978 -89.789695350224
+(S1 (S (NP (PRP We)) (VP (VBN had) (PP (IN about) (NP (NP (DT a) (JJ little) (NN bit)) (NP (QP (RBR less) (IN than) (CD two)) (NNS weeks)))))))
+-30.509718340825 -90.657135774902
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (ADJP (NP (ADVP (IN about)) (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-30.525926604182 -92.937686014639
+(S1 (S (NP (PRP We)) (VP (VBD had) (NP (NP (IN about) (DT a) (JJ little) (NN bit)) (NP (QP (RBR less) (IN than) (CD two)) (NNS weeks))))))
+-30.898890846862 -89.293599132175
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADVP (IN about)) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-31.094118128781 -94.126557098206
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (NP (IN about) (DT a) (JJ little) (NN bit)) (RBR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-31.226616232546 -94.253860650452
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADVP (IN about) (ADVP (NP (DT a) (JJ little) (NN bit)) (JJR less)) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+-31.409955895707 -91.601739472806
+(S1 (S (NP (PRP We)) (VP (VBD had) (ADJP (NP (ADVP (IN about)) (DT a) (JJ little) (NN bit)) (JJR less) (PP (IN than) (NP (CD two) (NNS weeks)))))))
+

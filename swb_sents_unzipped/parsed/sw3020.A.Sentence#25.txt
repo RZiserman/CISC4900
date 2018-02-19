@@ -1,0 +1,102 @@
+50 x
+-33.541797565961 -113.618351408550
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADVP (RB everywhere))))))
+-34.757186082455 -115.558563102010
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much) (RB everywhere))))))
+-34.941818575349 -118.081421479141
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (JJ much)) (ADVP (RB everywhere))))))
+-35.156910803072 -118.947682260045
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (RB pretty) (JJ much)) (ADVP (RB everywhere))))))
+-35.606952125381 -120.421740864785
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (RB pretty) (RB much)) (ADVP (RB everywhere))))))
+-35.958983021023 -117.652918924830
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (RB pretty) (RB much) (RB everywhere))))))
+-36.075721133166 -119.276901629362
+(S1 (S (NP (PRP We)) (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADVP (RB everywhere)))))
+-36.311281121012 -119.841857460901
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (NP (RB pretty) (RB much)) (ADVP (RB everywhere)))))))
+-36.402691230339 -119.315682910058
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (NP (RB pretty) (JJ much)) (ADVP (RB everywhere)))))))
+-36.421515646740 -121.655352396448
+(S1 (S (NP (PRP We)) (VP (VBN rented) (UCP (NP (DT a) (NN car)) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADVP (RB everywhere)))))))
+-36.577247981124 -120.706188435023
+(S1 (S (NP (PRP We)) (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (RB pretty) (JJ much)) (ADVP (RB everywhere)))))
+-36.680196439315 -124.303739285251
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (S (ADJP (RB pretty) (JJ much)) (ADVP (RB everywhere)))))))
+-36.842441662984 -121.938843599741
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (RB much)) (ADVP (RB everywhere))))))
+-36.956106998283 -119.123742719723
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADVP (RB everywhere))))))
+-37.063550562397 -122.065142965157
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty)) (NP (RB much) (RB everywhere))))))
+-37.085737017441 -119.917851417022
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (ADVP (RB pretty) (RB much)) (RB everywhere))))))
+-37.096483487737 -117.565012499329
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADJP (RB everywhere))))))
+-37.170666554452 -122.153053717702
+(S1 (S (NP (PRP We)) (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (RB pretty) (RB much)) (ADVP (RB everywhere)))))
+-37.209757850319 -120.976260969333
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (NP (RB pretty) (RB much)) (RB everywhere))))))
+-37.354380060407 -119.130087284642
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (RB much) (RB everywhere))))))
+-37.373876391213 -124.725148896944
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (PRT (RB pretty)) (ADVP (RB much) (RB everywhere))))))
+-37.473453746518 -117.997452500275
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much))) (ADVP (RB everywhere)))))
+-37.506820571215 -125.267839264980
+(S1 (S (NP (PRP We)) (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (JJ much)) (ADVP (RB everywhere)))))
+-37.701073400938 -124.515303924949
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (PRT (RB pretty)) (NP (RB much) (RB everywhere))))))
+-37.738086247481 -122.848184726916
+(S1 (S (NP (PRP We)) (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much) (RB everywhere)))))
+-37.764671729892 -122.536067968737
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (S (ADVP (RB everywhere)))))))
+-37.951989350834 -121.908209835337
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (S (ADJP (RB pretty) (RB much) (RB everywhere)))))))
+-38.171495514778 -121.063954413183
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much) (RB everywhere))))))
+-38.210379318119 -125.224297236792
+(S1 (S (NP (PRP We)) (VP (VBN rented) (UCP (NP (DT a) (NN car)) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much) (RB everywhere)))))))
+-38.232032731951 -124.087032783297
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (JJ much) (RB everywhere))))))
+-38.356128007671 -123.586812790314
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (JJ much)) (ADVP (RB everywhere))))))
+-38.500962490603 -123.174407489192
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (RB pretty) (JJ much))) (ADVP (RB everywhere)))))
+-38.559229480208 -124.257024399832
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (ADVP (RB pretty)) (RB much) (RB everywhere))))))
+-38.571220235394 -124.453073571218
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (NP (RB pretty) (JJ much)) (ADVP (RB everywhere))))))
+-38.713606386875 -120.679752584733
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (S (ADJP (RB everywhere)))))))
+-38.720136963178 -123.294618194730
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (JJ much))) (ADVP (RB everywhere)))))
+-38.764613315643 -125.166413166514
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (NP (RB pretty) (JJ much)) (RB everywhere))))))
+-38.899974788441 -122.405588489876
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (RB pretty) (ADJP (RB much) (RB everywhere))))))
+-39.040363235296 -124.241898333303
+(S1 (S (NP (PRP We)) (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADVP (RB everywhere)))))
+-39.188411892912 -124.648466093931
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (NP (RB pretty) (RB much))) (ADVP (RB everywhere)))))
+-39.373292453346 -123.158310236003
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (NP (RB pretty) (RB much) (RB everywhere))))))
+-39.394121824522 -123.970354154824
+(S1 (S (NP (PRP We)) (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (RB much) (RB everywhere)))))
+-39.764020836274 -124.615996506356
+(S1 (S (NP (PRP We)) (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADJP (RB everywhere)))))
+-39.817000662662 -124.821074221231
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (NP (NP (RB pretty) (JJ much)) (ADVP (RB everywhere)))))))
+-40.210698666905 -124.980796945171
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much))) (S (ADVP (RB everywhere))))))
+-40.510792920060 -123.070403810502
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much)) (ADJP (RB everywhere))))))
+-40.768689492729 -124.635478595815
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (ADJP (RB pretty) (RB much) (RB everywhere))))))
+-40.887763178840 -123.502843811448
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (S (NP (DT a) (NN car)))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much))) (ADVP (RB everywhere)))))
+-41.073845503860 -124.345012371293
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much))) (ADJP (RB everywhere)))))
+-41.292366192511 -121.994227126051
+(S1 (S (NP (PRP We)) (VP (VP (VBN rented) (NP (DT a) (NN car))) (CC and) (VP (VBD drove) (ADVP (RB pretty) (RB much))) (S (ADJP (RB everywhere))))))
+

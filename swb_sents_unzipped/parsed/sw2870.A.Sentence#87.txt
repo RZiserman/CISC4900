@@ -1,0 +1,102 @@
+50 x
+-26.160132296811 -106.575881412439
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (JJR more))))))
+-27.531895506339 -105.039722930387
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))
+-28.004543891982 -108.358421789554
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (RBR more)))))
+-28.224913435430 -106.881006175646
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADJP (JJR more))))))
+-28.269645312907 -109.113914864122
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (RBR more))))))
+-28.765652798984 -112.657286487258
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NN politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (JJR more))))))
+-29.197671328841 -113.172615197989
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (JJR more)))))))
+-29.561705123802 -113.684090440256
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (JJR more)))))))))))
+-29.742072755612 -110.620982330248
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (JJR more))))))
+-29.820631687737 -110.330439220305
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (S (ADJP (JJR more)))))))
+-30.137416008512 -111.121128005205
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NN politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))
+-30.221691901208 -112.147931958203
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))))))
+-30.261055493497 -109.892879223127
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADJP (RBR more))))))
+-30.346359138369 -111.636456715937
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))
+-30.444622251324 -113.865017853765
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (JJR more))))))))))))
+-30.571864362167 -109.158527345855
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (S (ADJP (RBR more)))))))
+-30.610064394155 -114.439826864372
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NN politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (RBR more)))))
+-30.786638619042 -115.585814222422
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))))))))
+-30.830433937603 -112.962411250464
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NN politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADJP (JJR more))))))
+-30.875165787202 -115.195319938941
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NN politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (RBR more))))))
+-30.909345787726 -113.594912132723
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (VP (ADVP (RB probably)) (MD would) (VP (VB vote) (NP (JJR more))))))
+-31.050324988973 -115.466630817370
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (RBR more))))))))))
+-31.079790970853 -112.328859371712
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))))))))
+-31.182731814012 -114.955155575104
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (RBR more))))))
+-31.266878719898 -116.222123891939
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (RBR more)))))))))))
+-31.386187717059 -115.710648649673
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (NP (RBR more)))))))
+-31.477872167460 -113.477739961196
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADJP (JJR more)))))))
+-31.644737688686 -115.766741635931
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))))))))
+-31.654371919193 -114.814728876753
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))))))))
+-31.846816062421 -113.989215203462
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADJP (JJR more)))))))))))
+-31.908424058618 -115.647558230879
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (RBR more)))))))))))
+-31.980327209919 -114.978240979745
+(S1 (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (SBAR (NN politics) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))))))
+-32.137981477089 -115.894300505456
+(S1 (FRAG (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))
+-32.161223535132 -112.058753650671
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (VP (ADVP (RB probably)) (MD would) (VP (VB vote) (ADVP (RBR more))))))
+-32.439357178177 -115.625208663860
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (S (VP (VB understand) (NP (NNS politics))))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))
+-32.512470988838 -114.995656290262
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))))))))
+-32.633871892897 -115.377452509838
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (VP (ADVP (RB probably)) (MD would) (VP (VB vote) (RBR more)))))
+-32.652624076245 -115.361491242886
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (NP (PRP I)) (ADVP (RB probably))) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))
+-32.729733162065 -114.170142616971
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADJP (JJR more))))))))))))
+-32.838426279564 -115.159168393254
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (SBAR (NN politics) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))))))))
+-32.865524813822 -116.132945584406
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (VP (ADVP (RB probably)) (MD would) (VP (VB vote) (NP (RBR more))))))
+-32.866575995670 -115.974284297946
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NN politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADJP (RBR more))))))
+-32.901630050883 -115.941504597559
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand))))) (VP (NNS politics) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))))
+-33.007575426345 -113.900036895929
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (VP (ADVP (RB probably)) (MD would) (VP (VB vote) (ADJP (JJR more))))))
+-33.177384864340 -115.239932420673
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NN politics)))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (S (ADJP (RBR more)))))))
+-33.414398530518 -116.230723870932
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (VP (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more)))))))
+-33.639199359383 -115.713011319864
+(S1 (S (IN if) (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)) (SBAR (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))))))
+-33.783736294197 -115.755261131405
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (S (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (S (ADJP (RBR more))))))))
+-34.294618793388 -116.055307714425
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (SBAR (S (VP (VBP understand) (NP (NNS politics)))))))) (NP (PRP I)) (ADVP (RB probably)) (VP (MD would) (VP (VB vote) (ADVP (RBR more))))))
+-35.202039306960 -116.177558066138
+(S1 (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBD did) (VP (VB understand) (NP (NNS politics)))))) (NP (PRP I)) (VP (ADVP (RB probably)) (MD would) (VP (VB vote) (S (ADJP (RBR more)))))))
+

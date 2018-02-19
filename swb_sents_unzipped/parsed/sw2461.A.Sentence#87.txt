@@ -1,0 +1,102 @@
+50 x
+-19.000561432888 -67.745870277691
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values))))))))
+-19.371437827191 -70.432876421335
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values))))))))
+-21.137326365913 -74.555937089687
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (NN good) (NNS values))))))))
+-21.380556627195 -71.036139479948
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values)))))))
+-21.508202760216 -77.242943233330
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (NN good) (NNS values))))))))
+-22.345360217438 -79.393920277479
+(S1 (S (VP (NN need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values))))))))
+-22.665299608817 -80.245431192704
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (S (NP (PRP them)) (NP (JJ good) (NNS values)))))))))
+-22.788355482157 -74.205891188472
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (ADJP (JJ good)) (NNS values))))))))
+-22.930897305908 -82.932437336347
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (S (NP (PRP them)) (NP (JJ good) (NNS values)))))))))
+-23.015682860105 -83.160490246802
+(S1 (S (NP (NN need)) (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values))))))
+-23.159231876460 -76.892897332115
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (ADJP (JJ good)) (NNS values))))))))
+-23.190102646717 -80.552609645650
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (DT them) (JJ good) (NNS values))))))))
+-23.289511041020 -83.239615789294
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (DT them) (JJ good) (NNS values))))))))
+-23.329432089184 -79.685922285732
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (NP (PRP them)) (NP (JJ good) (NNS values)))))))))
+-23.361567760220 -77.846206291944
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (NN good) (NNS values)))))))
+-23.395513947681 -82.800006235630
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (RB good) (NNS values))))))))
+-23.520142243851 -81.987116834182
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them) (NP (JJ good) (NNS values)))))))))
+-23.687582683487 -82.372928429376
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (NP (PRP them)) (NP (JJ good) (NNS values)))))))))
+-23.738944408191 -83.999538497029
+(S1 (S (VBP need) (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values))))))
+-23.775982651552 -79.166017321679
+(S1 (S (VP (VB need) (SBAR (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values)))))))))
+-23.938590262720 -80.794101540858
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (ADVP (RB good)) (NP (NNS values))))))))
+-24.035303337884 -81.456099437172
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (NP (PRP them)) (JJ good) (NNS values))))))))
+-24.250944863571 -83.788605016697
+(S1 (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values)))))))
+-24.315645898627 -81.378782725796
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them))))) (NP (JJ good) (NNS values)))))
+-24.571858657023 -83.481107684501
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (ADVP (RB good)) (NP (NNS values))))))))
+-24.616886181672 -79.605385153691
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)))))) (NP (JJ good) (NNS values))))
+-24.771337254676 -83.554117708574
+(S1 (S (VP (VBP need) (SBAR (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values)))))))))
+-24.875283582874 -82.331288309812
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (ADJP (RB good)) (NNS values))))))))
+-24.916130347531 -78.835572616198
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (S (NP (JJ good) (NNS values)))))))))
+-24.917805221637 -82.488593864034
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them))))) (NP (JJ good) (NNS values)))))
+-24.945015250834 -83.218169616586
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)))) (NP (JJ good) (NNS values))))))
+-25.149258050966 -79.576089252441
+(S1 (SINV (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)))))) (NP (JJ good) (NNS values))))
+-25.168350676464 -77.496160390729
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (ADJP (JJ good)) (NNS values)))))))
+-25.180241453124 -83.535700394961
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (S (NP (PRP them)) (NP (JJ good) (NNS values))))))))
+-25.287006741834 -81.522578759842
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (S (NP (JJ good) (NNS values)))))))))
+-25.470172136402 -82.416749990541
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)))))) (NP (JJ good) (NNS values))))
+-25.743443227717 -80.311192324530
+(S1 (SINV (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)))))) (NP (JJ good) (NNS values))))
+-25.800373991024 -83.842878847908
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (DT them) (JJ good) (NNS values)))))))
+-25.939703433491 -82.976191487990
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (NP (PRP them)) (NP (JJ good) (NNS values))))))))
+-25.966605682140 -80.819005701274
+(S1 (VP (VB need) (SBAR (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (NP (JJ good) (NNS values))))))))
+-26.151505878223 -80.841323113311
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them))))) (NP (JJ good) (NNS values))))
+-26.165176230912 -77.944864196022
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them) (JJ good)) (NP (NNS values))))))))
+-26.385584464154 -84.080906594021
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (S (NP (NN good) (NNS values)))))))))
+-26.536052625215 -80.631870339666
+(S1 (S (VP (VBP need) (S (VP (TO to) (VP (VB teach) (NP (PRP them) (JJ good)) (NP (NNS values))))))))
+-26.833776746665 -82.651889303922
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (NP (PRP them)) (ADVP (RB good))) (NP (NNS values))))))))
+-27.210691200448 -83.219715032917
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (ADVP (JJ good)) (NP (NNS values))))))))
+-27.499695321838 -82.125841818456
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them)) (S (NP (JJ good) (NNS values))))))))
+-28.545171425219 -81.235133398280
+(S1 (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (PRP them) (JJ good)) (NP (NNS values)))))))
+-28.995804564184 -82.616424010932
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (NP (PRP them)) (ADJP (JJ good))) (NP (NNS values))))))))
+-29.285705949608 -82.934970099985
+(S1 (S (VP (VB need) (S (VP (TO to) (VP (VB teach) (NP (NP (PRP them)) (ADVP (JJ good))) (NP (NNS values))))))))
+

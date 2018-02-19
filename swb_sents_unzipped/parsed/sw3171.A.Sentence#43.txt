@@ -1,0 +1,102 @@
+50 x
+-62.774070164751 -211.173205151894
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))))))
+-63.149488762984 -212.519523583932
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))))))
+-64.098454876889 -209.042154814767
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (INTJ (UH okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-64.495718470800 -207.695836241255
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-64.538345832214 -212.844729761528
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (SBAR (IN that) (S (VP (POS 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))
+-64.703724255772 -211.303731822615
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))))))))
+-64.822755023549 -212.431849128653
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))))
+-65.047797827365 -210.891244457366
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))
+-65.315857838898 -213.078667737147
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (INTJ (UH okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (NP (PRP$ my) (NN favorite)))))))))))
+-65.525662426143 -213.213826474304
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (IN that) (S (VP (POS 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-65.531451206299 -212.020617175464
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (S (INTJ (UH okay)) (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-65.635570695523 -212.895964589465
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (ADJP (ADJP (JJ okay)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))))))))
+-65.713121460687 -211.732349163634
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (NP (PRP$ my) (NN favorite)))))))))))
+-65.797026965854 -211.524735518325
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH okay)) (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))
+-66.107598248820 -212.200807631235
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))
+-66.158581789677 -207.826362996127
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-66.265712958093 -212.251640276339
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADVP (UH okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-66.272245103439 -210.164686708157
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (INTJ (UH okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))
+-66.330351137623 -212.295737045283
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite))))))))))))))))
+-66.343027908418 -212.924478154700
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (ADJP (JJ okay)) (SBAR (IN that) (S (VP (POS 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-66.345694218861 -211.754386626263
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-66.365038464986 -213.208270198758
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (INTJ (UH okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-66.686416817346 -212.552683527663
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (S (ADJP (JJ okay)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-66.750376197350 -208.818368134644
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))
+-66.762302058896 -211.861951625245
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-66.853341822448 -212.562375799374
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))))))
+-67.112970501135 -211.465038306660
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (ADJP (JJ okay)) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-67.141264089428 -209.418595762976
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (ADJP (JJ okay)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-67.375984751686 -211.862875918506
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-67.376289011409 -212.336344258422
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))
+-67.552981703915 -212.013776350756
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite))))))))))))
+-67.558434942849 -213.143149068853
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (S (INTJ (UH okay)) (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))
+-67.675143222405 -212.647267411714
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH okay)) (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite))))))))))))
+-67.678787456522 -212.426263716004
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (NP (PRP$ my) (NN topic) (NN today)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite))))))))))))))))))
+-67.772935974602 -213.433347531217
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-) (SBAR (IN that) (S (VP (POS 's) (NP (PRP$ my) (NN favorite)))))))))))
+-67.832021716227 -208.948894889516
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))))
+-68.264545265370 -213.323339524624
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite))))))))))))
+-68.337359934067 -213.151064444241
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (IN that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-68.367371005411 -212.876918519652
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))))
+-68.425165377773 -211.992478380117
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-68.439503184644 -213.374172169728
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADVP (UH okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))
+-68.814704015978 -210.541127656366
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (ADJP (JJ okay)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))))
+-69.016959785446 -212.984483518635
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))
+-69.134647287686 -212.587570200049
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (ADJP (JJ okay)) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))))
+-69.140840674531 -212.466870939043
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (NN favorite))))))))))))
+-69.735207802547 -212.162402471888
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))
+-70.098605304324 -213.115010273507
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN fav-) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))))
+-71.398071093547 -212.292929226760
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (NN favorite)))))))))))))
+-71.866640146097 -213.284934365278
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))
+-72.948285637097 -213.415461120150
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD heard) (NP (PRP$ my) (NN topic) (NN today))))) (NP (PRP I)) (VP (VBD thought) (ADJP (JJ okay) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ my) (NN fav-)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (JJ favorite)))))))))))))
+

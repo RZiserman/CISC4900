@@ -1,0 +1,102 @@
+50 x
+-23.380359556248 -98.883247785405
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-25.011092107407 -102.780033037371
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-25.959354520335 -104.981392564442
+(S1 (S (NP (PRP they)) (VP (ADVP (RB now)) (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-26.454480115264 -107.556225511176
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-26.812215017340 -111.395778078995
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like)) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like)))))))))))
+-26.994713568923 -110.100482674252
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (SBAR (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-27.215441457242 -105.059961815965
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADVP (IN like))))))))))))
+-27.485860284408 -109.660852027571
+(S1 (S (NP (PRP they)) (VP (ADVP (RB now)) (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-27.558791800513 -111.453010763142
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-27.608782206091 -109.210492828856
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (SBAR (WHPP (IN like) (WHNP (WP what))) (S (NP (PRP I)) (VP (VBP live) (PP (IN like)))))))))))
+-27.992840796214 -108.720866021420
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PRT (IN like))))))))))))
+-28.072995340396 -109.996542087535
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (SBAR (WHPP (IN like) (WHNP (WDT what))) (S (NP (PRP I)) (VP (VBP live) (PP (IN like)))))))))))
+-28.108066268694 -108.597740313104
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (NP (IN like))))))))))))
+-28.240932000402 -112.210265568784
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (S (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like)))))))))))))
+-28.305146463941 -112.415606602646
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WDT what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-28.479399200126 -109.731066373709
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (SBAR (S (VP (VBP like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))))
+-28.771178856097 -108.159088706083
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (VP (VB like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-28.846174033491 -108.956747067931
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADVP (IN like))))))))))))
+-28.940637684813 -109.774201269200
+(S1 (S (NP (PRP they)) (RB now) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-28.949671710283 -105.173458857512
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (VP (VB like))))))))))))
+-29.623573372463 -112.617651273386
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PRT (IN like))))))))))))
+-29.738798844942 -112.494525565070
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (NP (IN like))))))))))))
+-29.759180861024 -108.645410331494
+(S1 (S (NP (PRP they)) (RB now) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-29.794436418541 -111.158106595002
+(S1 (S (NP (PRP they)) (VP (ADVP (RB now)) (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADVP (IN like))))))))))))
+-29.867077328618 -108.692151466950
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADJP (IN like))))))))))))
+-30.037306467594 -106.092849811756
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (ADVP (RB live)) (VP (VBP like)))))))))))
+-30.369181582346 -112.055873958049
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (VP (VB like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (PP (IN like))))))))))))
+-30.395633154931 -108.886252845425
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (NP (VB like))))))))))))
+-30.448540718654 -109.070244109478
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (VP (VB like))))))))))))
+-30.735480597945 -112.588064456282
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (S (ADVP (IN like)))))))))))))
+-30.751475810216 -109.853831641887
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADVP (VB like))))))))))))
+-30.771754391105 -111.084431213098
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (S (VP (VB like)))))))))))))
+-30.926144123097 -111.889715368032
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (S (ADJP (IN like)))))))))))))
+-31.229713573704 -111.271603636550
+(S1 (S (NP (PRP they)) (VP (ADVP (RB now)) (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (VP (VB like))))))))))))
+-31.454846075843 -109.989635063722
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (ADVP (RB live)) (VP (VBP like)))))))))))
+-31.497809876989 -112.588936718916
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADJP (IN like))))))))))))
+-31.665858873929 -110.392614836982
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (ADVP (RB live)) (VBP like)))))))))))
+-32.312520021813 -112.109610774487
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADJP (VB like))))))))))))
+-32.355423355116 -104.402013533163
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADJP (JJ like))))))))))))
+-32.654812775893 -112.190994590794
+(S1 (S (NP (PRP they)) (VP (ADVP (RB now)) (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (ADVP (RB live)) (VP (VBP like)))))))))))
+-32.835194779180 -106.044347619748
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (NP (JJ like))))))))))))
+-33.111599314095 -107.518141190031
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (SBAR (S (VP (VBP like))))))))))))))
+-33.266422733501 -106.856164666661
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADVP (JJ like))))))))))))
+-33.520027131365 -108.298798785129
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADJP (JJ like))))))))))))
+-33.999798555429 -109.941132871714
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (NP (JJ like))))))))))))
+-34.234914610239 -109.021095302864
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (S (ADJP (JJ like)))))))))))))
+-34.431026481872 -110.752949918627
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADVP (JJ like))))))))))))
+-34.529138894466 -111.414926441997
+(S1 (S (NP (PRP they)) (ADVP (RB now)) (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (SBAR (S (VP (VBP like))))))))))))))
+-35.110593746416 -110.500158312200
+(S1 (S (NP (PRP they)) (VP (ADVP (RB now)) (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (ADJP (JJ like))))))))))))
+-35.590365170480 -112.142492398785
+(S1 (S (NP (PRP they)) (VP (ADVP (RB now)) (VBP see) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP look) (PP (IN like) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP live) (NP (JJ like))))))))))))
+

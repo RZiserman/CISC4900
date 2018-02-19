@@ -1,0 +1,102 @@
+50 x
+-42.382814822005 -140.134613089762
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-43.038742187853 -139.662043198168
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-43.150107449580 -140.730501883812
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-43.782206436118 -144.744487729879
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh)) (ADVP (RB then))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-43.806034815428 -140.257931992218
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-43.834494969534 -144.318373644787
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (CD four) (CD million)))))))))
+-44.487362036417 -142.075204853635
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (INTJ (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-44.490422363260 -143.845803753193
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (CD four) (CD million)))))))))
+-44.518935415341 -142.156715229777
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-44.601787597110 -144.914262438837
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (CD four) (CD million)))))))))
+-44.674198605762 -145.945268454068
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (SBAR (IN then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-44.869518265707 -146.230387314779
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh) (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-44.989979214177 -145.499808676861
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (FRAG (INTJ (UH uh)) (RB then))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.194568198037 -144.348066778784
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh))))) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.254654636114 -142.671093647684
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (INTJ (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.257714962957 -144.441692547243
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (CD four) (CD million)))))))))
+-45.270405106696 -147.107505892741
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh)) (ADVP (RB then))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.317709794836 -146.679120211857
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (FRAG (INTJ (UH uh)) (ADVP (RB then)))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.499910831726 -145.713275866191
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh) (INTJ (RB then))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.559473672456 -143.860736383529
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (RB then) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-45.611528990556 -143.493518265926
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-45.636810893282 -146.826276108829
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh) (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.766792153099 -147.282071490216
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (SBAR (IN then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-45.791481600760 -146.881285747671
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (NP (UH uh))))) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.794454870897 -143.837570582702
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (SBAR (RB then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-45.807901011981 -144.517084666205
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh))))) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.905901703129 -146.350660531081
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh))) (ADVP (RB then))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-45.939042183947 -146.258965408660
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (INTJ (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (CD four) (CD million)))))))))
+-45.970615590748 -146.340475784802
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (CD four) (CD million)))))))))))
+-46.075275452993 -145.197539419677
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (RB then) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-46.097051691292 -146.756629948865
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (FRAG (INTJ (UH uh)) (ADVP (RB then)))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-46.139003805378 -146.339018191315
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (SBAR (S (INTJ (UH uh)) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))))))
+-46.193814924767 -147.060936830516
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (NP (UH uh))) (ADVP (RB then))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-46.267203459301 -146.309164660240
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh) (INTJ (RB then))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-46.323959323703 -146.605711328714
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (S (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million)))))))))))
+-46.367115271113 -147.273901290212
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (ADVP (RB then)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million)))))))))))
+-46.628805959332 -146.758262305585
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh))))) (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-46.667143344511 -146.112036635854
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (S (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million)))))))))))
+-46.699753369976 -146.155189658263
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (SBAR (S (INTJ (UH uh)) (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))))))
+-46.706334811522 -146.854854202709
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (INTJ (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (CD four) (CD million)))))))))
+-46.708535400808 -145.972270141472
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (RB then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million)))))))))))
+-46.840923807986 -147.306379701808
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (S (INTJ (UH uh)) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))))
+-46.887048418234 -145.174373618851
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (SBAR (RB then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))
+-46.905041843767 -145.168445394737
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh)))))) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-46.967881051404 -145.878721694172
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (NP (UH uh)))))) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-47.007063022240 -147.217996246909
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars))))) (INTJ (UH uh)) (NP (RB then) (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-47.242138773276 -146.927280193005
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh))))) (RB then) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-47.270206695701 -146.618846570665
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh)))))) (ADVP (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))
+-47.613135712922 -147.238799909963
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (QP (CD forty) (CD million)) (NNS dollars)) (ADVP (UH uh)) (SBAR (RB then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million)))))))))))))))
+-47.825458154280 -147.006919970547
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP make) (NP (NP (QP (CD forty) (CD million)) (NNS dollars)) (SBAR (S (INTJ (UH uh)) (INTJ (RB then)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (NP (QP (CD four) (CD million))))))))))))))))
+

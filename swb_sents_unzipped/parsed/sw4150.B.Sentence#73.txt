@@ -1,0 +1,102 @@
+50 x
+-24.033827807482 -81.269962746715
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (JJ half) (NN time)))))
+-24.472111086026 -84.632171154158
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (DT half) (NN time)))))
+-25.296360010220 -83.817405876329
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD worked) (NP (JJ half) (NN time)))))
+-25.561467916195 -85.514373962738
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN worked) (NP (JJ half) (NN time)))))
+-25.666072475764 -87.179614283772
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD worked) (NP (DT half) (NN time)))))
+-25.764614563136 -82.201005128691
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (QP (PDT half)) (NN time)))))
+-26.083962250246 -86.875195536804
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (NN half) (NN time)))))
+-26.121125771637 -88.804334450824
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN worked) (NP (DT half) (NN time)))))
+-26.125784442294 -85.519291161737
+(S1 (S (NP (PRP I)) (NP (NP (NN sort)) (PP (IN of) (NP (VBD worked) (JJ half) (NN time))))))
+-26.174980088417 -85.812608336198
+(S1 (S (NP (PRP I)) (NP (NP (NN sort)) (PP (IN of) (NP (VBN worked) (JJ half) (NN time))))))
+-26.880909306188 -86.782955620614
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN worked) (NP (JJ half) (NN time)))))
+-26.950889622875 -84.748448258304
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD worked) (NP (QP (PDT half)) (NN time)))))
+-26.972688632219 -89.289483853958
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (RB half) (NN time)))))
+-26.983998138606 -86.084992869758
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (ADVP (RB half)) (NP (NN time)))))
+-27.045420458383 -88.301632614449
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (PDT half) (NP (NN time))))))
+-27.234363063007 -90.842826527525
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN worked) (NP (NN half) (NN time)))))
+-27.398570770950 -89.723494393104
+(S1 (S (NP (PRP I)) (VP (NN sort) (PP (IN of) (NP (VBD worked) (JJ half) (NN time))))))
+-27.399688289984 -89.422638666418
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD worked) (NP (NN half) (NN time)))))
+-27.445332090804 -86.738554455681
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN worked) (NP (QP (PDT half)) (NN time)))))
+-27.482708785436 -90.016811604196
+(S1 (S (NP (PRP I)) (VP (NN sort) (PP (IN of) (NP (VBN worked) (JJ half) (NN time))))))
+-27.689475421630 -90.072916108701
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN worked) (NP (DT half) (NN time)))))
+-27.779158995016 -91.884643226947
+(S1 (S (NP (PRP I)) (NP (NP (NN sort)) (PP (IN of) (NP (VBN worked) (NN half) (NN time))))))
+-27.819069216084 -90.065123602778
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (ADVP (RB half)) (NN time)))))
+-27.944627797101 -88.961347012379
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (ADVP (PDT half)) (NN time)))))
+-28.132382481957 -91.836926983571
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD worked) (NP (RB half) (NN time)))))
+-28.146136159955 -89.966107078924
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN worked) (ADVP (RB half)) (NP (NN time)))))
+-28.153844923743 -86.477560977694
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (RB half) (NP (NN time)))))
+-28.199310983695 -91.895334727865
+(S1 (S (NP (PRP I)) (NP (NP (NN sort)) (PP (IN of) (S (VP (VBN worked) (NP (JJ half) (NN time))))))))
+-28.231695518121 -90.849075744063
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD worked) (NP (PDT half) (NP (NN time))))))
+-28.304531396831 -90.271282529520
+(S1 (S (NP (PRP I)) (VP (VB sort) (PP (IN of) (NP (VBD worked) (JJ half) (NN time))))))
+-28.388669411317 -90.564599740611
+(S1 (S (NP (PRP I)) (VP (VB sort) (PP (IN of) (NP (VBN worked) (JJ half) (NN time))))))
+-28.719430563946 -91.985227889601
+(S1 (S (NP (PRP I)) (NP (NP (VB sort)) (PP (IN of) (NP (VBD worked) (JJ half) (NN time))))))
+-28.780313958010 -88.007136113558
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN worked) (NP (QP (PDT half)) (NN time)))))
+-28.864428542556 -90.374401506559
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (NP (DT half)) (NN time)))))
+-28.876225253000 -92.111408185401
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN worked) (NP (NN half) (NN time)))))
+-28.947283285578 -91.681047515176
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (ADJP (JJ half)) (NN time)))))
+-29.060563966084 -89.335676588490
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (ADVP (JJ half)) (NP (NN time)))))
+-29.061685945262 -89.930113787696
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (NN half)) (NP (NN time)))))
+-29.094895357437 -90.180490063283
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (S (NP (JJ half) (NN time))))))
+-29.105602353867 -91.828828607745
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (ADVP (NN half)) (NN time)))))
+-29.125041249906 -91.275694176094
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (S (NP (DT half) (NN time))))))
+-29.130902856839 -91.508790141993
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD worked) (NP (ADVP (PDT half)) (NN time)))))
+-29.372351873115 -88.653441024186
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (ADVP (NN half)) (NP (NN time)))))
+-29.434744262559 -92.206189552476
+(S1 (S (NP (PRP I)) (NP (NN sort)) (PP (IN of) (NP (VBD worked) (JJ half) (NN time)))))
+-29.515311743561 -92.141827551949
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (ADJP (RB half)) (NN time)))))
+-29.548467215819 -91.316188596751
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (SBAR (S (NP (DT half) (NN time)))))))
+-29.602985864048 -90.220984403235
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (SBAR (S (NP (JJ half) (NN time)))))))
+-29.645639458728 -92.185648379770
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN worked) (S (NP (JJ half) (NN time))))))
+-30.141947837966 -91.432655715638
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD worked) (NP (DT half)) (NP (NN time)))))
+-30.367069928733 -92.014572700194
+(S1 (S (NP (PRP I)) (ADVP (NN sort)) (PP (IN of) (NP (VBD worked) (JJ half) (NN time)))))
+

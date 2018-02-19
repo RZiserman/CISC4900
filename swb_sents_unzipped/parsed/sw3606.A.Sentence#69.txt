@@ -1,0 +1,102 @@
+50 x
+-48.563520836180 -155.855896216642
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-48.768046153816 -153.497698305151
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-50.109935810716 -163.175780153107
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBP does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-50.493842297786 -162.608619668815
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (NP (PRP it)))))) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.017509442426 -158.791370169613
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))
+-51.022728690991 -160.619587110955
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (ADJP (JJ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.041450970060 -160.461780002759
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (NN does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.242484203423 -159.603404567160
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you)))))))))
+-51.252146654136 -162.324351608897
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (NNS does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.294579919198 -161.394638158785
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (S (NP (PRP it)) (NP (PRP it))))))) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.311519628320 -161.228129516423
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (S (NP (PRP it)) (VP (VB does-) (NP (PRP it)))))))) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))
+-51.331525013754 -162.093838401944
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VB does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.364923447685 -160.224818849857
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))
+-51.404054920106 -161.003444541714
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (JJ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.439164521059 -157.245206655669
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you)))))))))
+-51.527558139578 -158.476776270240
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))
+-51.528525266386 -162.280937836552
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBZ does-) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))
+-51.748932069332 -164.103220423341
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (S (NP (PRP it)) (ADJP (NP (PRP it)) (JJ does-))))))) (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))
+-51.837207749448 -163.329879610202
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (S (NP (PRP it)) (VP (NN does-) (NP (PRP it)))))))) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))
+-51.844419500485 -161.832564539265
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (NP (PRP it)))))) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.855758049944 -163.211839753610
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (VP (VBP does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))
+-51.942733726176 -161.426429679604
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (ADJP (JJ does-)) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.969039849459 -163.896315328039
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (VP (ADVP (RB really)) (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-51.972935012602 -158.106078026163
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (ADJP (JJ does-)) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))
+-52.152168797095 -161.538117416548
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (VP (ADVP (RB really)) (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-52.223962702429 -164.348318586620
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (NN does-) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))
+-52.358003161561 -162.309335233270
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (JJ does-) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))
+-52.358129341235 -164.097350654696
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (NNS does-) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))
+-52.429978784423 -161.789358871666
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))))))))
+-52.459999866375 -162.427519309710
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (RB really) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-52.496540452382 -164.149334174810
+(S1 (S (CC but) (S (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))
+-52.638463314772 -161.761317452364
+(S1 (S (CC but) (S (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))
+-52.732261073897 -160.618583029235
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (S (NP (PRP it)) (NP (PRP it))))))) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-52.759029152279 -164.211340984763
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))))))))
+-53.006220648477 -163.042057311368
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VBN hit) (NP (PRP you)))))))))
+-53.142375666113 -160.683859399877
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VBN hit) (NP (PRP you)))))))))
+-53.259242108738 -163.812852544049
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (S (NP (PRP it)) (NP (PRP it)) (ADJP (JJ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))))))
+-53.291413953527 -158.040607329152
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (ADJP (JJ does-)) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))
+-53.348495327091 -161.723696627811
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (S (NP (PRP it)) (VP (NN does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))))))
+-53.492551061826 -164.324006412360
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (SBAR (S (NP (PRP it)) (ADJP (JJ does-)) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))))))
+-53.502197337304 -164.209288353277
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (NN does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you)))))))))
+-53.650058585844 -162.381994090650
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (S (NP (PRP it)) (VP (VB does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))))))
+-53.655471816492 -163.657033737396
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)) (S (NP (PRP it)) (ADJP (JJ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you))))))))))))))
+-53.696472781792 -162.538878520131
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (VP (VBZ does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you))))))))))
+-53.995232840685 -163.972327374519
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you))))))))
+-54.033085855308 -161.699164395674
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (ADJP (JJ does-)) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-54.198676478943 -162.224284620758
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you))))))))))
+-54.485396077724 -161.853586535088
+(S1 (S (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (ADJP (JJ does-)) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you))))))))
+-54.554448353492 -164.130588037489
+(S1 (S (CC but) (SBAR (WHNP (IN until)) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (NP (PRP it)) (VP (VBD does-) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB really)) (VP (VB hit) (NP (PRP you)))))))))
+-55.947304988648 -161.788115838077
+(S1 (FRAG (CC but) (SBAR (IN until) (S (NP (PRP you)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN seen) (NP (PRP it)))))) (S (NP (PRP it)) (ADJP (JJ does-)) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (ADVP (RB really)) (VB hit) (NP (PRP you))))))))
+

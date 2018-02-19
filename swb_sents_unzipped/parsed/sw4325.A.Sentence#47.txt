@@ -1,0 +1,102 @@
+50 x
+-6.843174323556 -29.462910112059
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (ADJP (JJ hard))))))
+-8.243082684046 -35.658800292153
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (ADVP (RB hard))))))
+-9.309890459939 -36.061631498225
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (ADJP (RB hard))))))
+-9.973307179482 -43.444713605065
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (VP (ADVP (RB hard)))))))
+-10.234957197119 -45.802795481978
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (VP (RB hard))))))
+-10.377696323802 -46.662844880640
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (PRT (RB hard))))))
+-10.875004255629 -43.102819958848
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (NP (RB hard))))))
+-11.088226917423 -39.743901205409
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (ADJP (JJ hard)))))))
+-11.184859410226 -41.923715130004
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (VP (JJ hard))))))
+-11.427142363652 -43.025899215797
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (NP (JJ hard))))))
+-11.577829572853 -38.254443196838
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (ADVP (JJ hard))))))
+-11.758153090948 -44.191118468413
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (VP (ADJP (JJ hard)))))))
+-13.091454434901 -47.182338823862
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (FRAG (ADJP (JJ hard)))))))
+-13.283594896252 -48.504507414001
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (PRT (JJ hard))))))
+-13.342800359356 -45.816731244757
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (ADJP (RB hard)))))))
+-13.425097676054 -48.309601426151
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (FRAG (JJ hard))))))
+-13.511659810220 -49.136975249654
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (FRAG (ADVP (RB hard)))))))
+-13.598481907622 -48.061900310342
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (ADVP (RB hard)))))))
+-13.624831169015 -52.436391472518
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (VP (ADJP (RB hard)))))))
+-14.382740833156 -50.761351062162
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (VP (ADVP (RB hard))))))))
+-14.438941802296 -49.984263642984
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (ADVP (RB hard)))))))
+-14.450428498144 -47.251891612773
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (VP (JJ hard)))))))
+-14.484592049630 -48.268929050327
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (VP (ADVP (JJ hard)))))))
+-14.618984981589 -56.595781497717
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (SBAR (RB hard))))))
+-14.630475950701 -54.550156505815
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (FRAG (RB hard))))))
+-14.642123501312 -44.784464202732
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (ADVP (JJ hard)))))))
+-14.643795527685 -46.804926219124
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (ADJP (JJ hard)))))))
+-14.722148896894 -52.770182556919
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (VP (RB hard)))))))
+-14.760851311596 -45.863752012616
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (NP (JJ hard)))))))
+-15.153068156494 -49.442833829744
+(S1 (S (NP (PRP It)) (MD would) (VP (VB be) (ADJP (JJ hard)))))
+-15.397172333860 -52.978425341937
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (NP (ADJP (JJ hard)))))))
+-15.536256716951 -54.657534516209
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (FRAG (ADJP (RB hard)))))))
+-15.605572370985 -52.622171022371
+(S1 (S (NP (PRP It)) (MD would) (VP (VB be) (ADVP (RB hard)))))
+-15.663782093068 -55.923698875737
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (NP (ADJP (RB hard)))))))
+-15.986484395929 -52.838479008377
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (VP (ADJP (JJ hard))))))))
+-16.286197867175 -53.839536634911
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (FRAG (ADVP (JJ hard)))))))
+-17.042422541042 -53.201237641268
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (ADJP (RB hard)))))))
+-17.480846640231 -57.810311852106
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (VP (ADJP (RB hard))))))))
+-17.483549072656 -54.209468746621
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (S (ADJP (JJ hard))))))))
+-17.674854422028 -58.160768195183
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (NP (RB hard)))))))
+-17.765312546860 -56.847376199032
+(S1 (S (NP (PRP It)) (MD would) (VP (VB be) (S (ADJP (JJ hard))))))
+-17.901869051323 -52.997868039488
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (ADVP (JJ hard)))))))
+-17.907381977554 -57.356982015167
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (NP (RB hard)))))))
+-18.023968183850 -55.839145251887
+(S1 (S (NP (PRP It)) (MD would) (VP (VB be) (ADJP (RB hard)))))
+-18.281961778082 -58.239195507779
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (NP (JJ hard)))))))
+-18.309008627511 -56.651014162741
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (VP (JJ hard)))))))
+-18.596226606012 -55.635775418875
+(S1 (S (NP (PRP It)) (MD would) (VP (VB be) (ADVP (JJ hard)))))
+-18.743958756849 -56.988868919755
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (VP (ADVP (JJ hard))))))))
+-19.200404358134 -57.630066364567
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (S (NP (ADJP (JJ hard))))))))
+-20.745284846377 -58.202030239173
+(S1 (S (NP (PRP It)) (VP (MD would) (S (VP (VB be) (S (ADVP (JJ hard))))))))
+

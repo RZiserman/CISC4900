@@ -1,0 +1,102 @@
+50 x
+-24.090408615864 -86.017246446200
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-24.940913362770 -92.114222937519
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-26.173846952246 -95.700253822747
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WP what) (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-26.363518652743 -90.343690529813
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-26.687772206489 -94.930883939988
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-27.043485174713 -93.871483741242
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))
+-27.372395746387 -96.924549383693
+(S1 (S (DT That) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-27.641282730389 -93.879482038688
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WP what)) (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-27.748607077864 -93.131648169962
+(S1 (S (NP (IN That)) (VP (POS 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-27.815494705511 -93.614942891607
+(S1 (SBAR (DT That) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-27.937169397143 -98.043059489027
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WDT what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-28.010768030953 -95.342033105006
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))
+-28.057488550295 -92.235812600124
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))
+-28.083831367280 -97.554860175927
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))
+-28.098972364908 -92.117207430825
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-28.114345932206 -92.680121603426
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-28.198393490866 -99.310430380461
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (WP what)) (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-28.370467632504 -95.190334874130
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-28.408188302601 -96.999767550192
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (WP what)) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-28.421649233036 -98.460920557537
+(S1 (SBAR (WHNP (WDT That)) (S (VP (POS 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-28.531942746842 -96.845333426110
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (WP what)) (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-28.705116012247 -95.060025583481
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-28.813113556548 -98.152839828852
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-28.938195103701 -93.691377456349
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-29.001066000248 -97.248039830571
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-29.038281862744 -96.295184957034
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NX (NNP Utah))) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-29.259985533652 -99.696879631882
+(S1 (PP (IN That) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-29.271697398526 -92.995717714049
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP the) (NP (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))))
+-29.284803596855 -97.042336632172
+(S1 (S (NP (WDT That)) (VP (POS 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-29.351453311380 -98.197927833575
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))))
+-29.507136447164 -96.742757904578
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-29.588071272177 -98.205926026531
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (WP what)) (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-29.598008949999 -96.669362717215
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-29.706672132769 -98.055964708100
+(S1 (S (RB That) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-29.816111787533 -97.948860886613
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-30.369269229652 -98.587500580414
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's)))) (X (WP what)) (NP (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))
+-30.549975085156 -99.299817436250
+(S1 (S (NP (DT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (VP (VBP the) (NP (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))))
+-30.632550594982 -94.426886955543
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (DT the) (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))
+-31.044678970422 -95.883981619324
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (FRAG (NP (DT the) (NNP Utah) (CC and) (DT the) (JJ large) (NN family)))))))
+-31.390325473994 -99.357670573730
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (FRAG (NP (DT the) (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))
+-31.579665537980 -97.322161806383
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP the) (NP (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))))
+-31.782454301282 -97.888399901821
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (WP what)) (NP (DT the) (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-31.965442748567 -98.067721366594
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WP what)) (NP (DT the) (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))
+-31.974969904832 -99.551668585244
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (WP what)) (NP (DT the) (NNP Utah) (CC and) (DT the) (JJ large) (NN family)))))
+-31.987905902826 -98.844045986354
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ 's) (NP (WP what) (NP (DT the) (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))
+-32.858723426104 -99.633939617135
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WDT what) (FRAG (NP (DT the) (NNP Utah) (CC and) (DT the) (JJ large) (NN family)))))))
+-32.940518731648 -98.753331047876
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (DT the) (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))))
+-33.200720328904 -99.095678577865
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP the) (NP (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family))))))))))
+-33.262887045656 -99.658592871275
+(S1 (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP the) (NP (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))))
+-33.273635435533 -99.214283876695
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP the) (NP (NP (NNP Utah)) (CC and) (NP (DT the) (JJ large) (NN family)))))))))))
+

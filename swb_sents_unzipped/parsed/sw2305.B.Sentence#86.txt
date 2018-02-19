@@ -1,0 +1,102 @@
+50 x
+-22.994584080539 -72.500635838466
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-23.033764054633 -68.656536496248
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-24.229908148533 -76.795828718263
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))
+-24.457671810539 -80.639928060481
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))
+-24.763021934515 -70.572856992273
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))))
+-24.979312914121 -75.453055020712
+(S1 (S (NP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-25.394913530419 -72.680492453109
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-25.601675673848 -77.869915025523
+(S1 (S (WHNP (WDT what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-25.959166028415 -78.712149214288
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))
+-26.123937702299 -76.321123670493
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (EX there)))))))))))))
+-26.311701860789 -78.029002625587
+(S1 (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-26.422294038205 -80.165223012711
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (EX there))))))))))))
+-26.442400644120 -83.592347242727
+(S1 (S (NP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))
+-26.651492364544 -84.211317895405
+(S1 (S (X (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-26.858001263206 -80.819784675124
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))
+-26.907410408217 -81.308183356441
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VP (VB happen)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-27.109957762984 -78.771911066349
+(S1 (FRAG (X (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-27.276512117193 -80.064968309592
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (RB there))))))))))))
+-27.315692091288 -76.220868967373
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (RB there)))))))))))))
+-27.422939780725 -80.034868530059
+(S1 (FRAG (WHNP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-27.444474886198 -84.460415892507
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (EX there))))))))))
+-27.466524787366 -82.601275535463
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-27.467730351923 -80.499859850006
+(S1 (FRAG (WP what) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-27.707379912663 -79.348942697497
+(S1 (FRAG (WHNP (WDT what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-27.713021104968 -78.237444166518
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (EX there))))))))))))))
+-27.976445255939 -81.990529367752
+(S1 (S (NP (WDT what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))
+-27.986950241741 -79.921124701935
+(S1 (FRAG (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))))
+-28.045682318687 -81.041854042673
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (EX there)))))))))))))
+-28.156295963767 -83.330605761476
+(S1 (SBAR (WDT what) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-28.401044308476 -82.577956938089
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (RB there))))))))))))
+-28.407022871786 -83.117642194957
+(S1 (S (NP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (EX there))))))))))))
+-28.511836185187 -84.360161189388
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (RB there))))))))))
+-28.518140510872 -80.345079627354
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (EX there)))))))))))))
+-28.548108522964 -81.435472017240
+(S1 (FRAG (S (NP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-28.636668288099 -83.224503852466
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VP (VB happen)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))))
+-28.750735760074 -82.469258173905
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADJP (RB there))))))))))))
+-28.789915734169 -78.625158831686
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADJP (RB there)))))))))))))
+-28.822199164565 -81.915374643261
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (S (ADVP (RB there))))))))))))))
+-29.044949971169 -78.137189463399
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (RB there))))))))))))))
+-29.134985258042 -82.824514382174
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there))))))))))))))
+-29.210263696247 -84.517596031488
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (RB there)))))))))))))
+-29.261240950775 -83.017387491838
+(S1 (S (NP (WP what)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (RB there))))))))))))
+-29.634765721357 -82.958174538698
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADVP (EX there))))))))))))))
+-29.676841567073 -80.244824924235
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (NP (RB there)))))))))))))
+-30.130302188358 -84.494277434115
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (RB there)))))))))))))
+-30.153390322666 -82.236897978183
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (S (ADJP (RB there))))))))))))))
+-30.519173616838 -80.541479327712
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADJP (RB there))))))))))))))
+-30.551457047234 -83.831695139286
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (S (ADVP (RB there)))))))))))))))
+-31.151065212741 -82.649114788548
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (ADJP (RB there)))))))))))))
+-31.882648202548 -84.153218474208
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ gets) (S (ADJP (RB there)))))))))))))))
+

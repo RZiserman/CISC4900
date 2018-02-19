@@ -1,0 +1,102 @@
+50 x
+-18.154428819509 -72.171280497646
+(S1 (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))
+-19.112298392857 -71.725053679385
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))))
+-20.726912923339 -72.456350911451
+(S1 (S (IN because) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-20.908998772512 -80.768082303859
+(S1 (SBAR (IN because) (S (NP (JJ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))
+-21.487475216646 -80.949067116143
+(S1 (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (NN chase) (NP (PRP them))))))
+-21.581982907426 -76.988684086319
+(S1 (S (PP (IN because) (NP (PRP$ my) (NNS dogs))) (VP (VB chase) (NP (PRP them)))))
+-21.685490173595 -78.163352831331
+(S1 (S (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))
+-21.886055948647 -80.321855485597
+(S1 (FRAG (SBAR (IN because) (S (NP (JJ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))))
+-21.937250331712 -82.201621122035
+(S1 (PP (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))
+-22.110325439338 -81.596025032332
+(S1 (PP (IN because) (SBAR (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))))
+-22.410309503733 -83.408617092997
+(S1 (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (JJ chase) (NP (PRP them))))))
+-22.445344787206 -80.502840294322
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (NN chase) (NP (PRP them)))))))
+-22.483096614011 -80.804077962081
+(S1 (FRAG (PP (IN because) (SBAR (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))))
+-22.535112348938 -79.401344847257
+(S1 (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (S (NP (PRP them)))))))
+-22.711507338996 -78.855892963323
+(S1 (SINV (PP (IN because) (NP (PRP$ my) (NNS dogs))) (VP (VB chase)) (NP (PRP them))))
+-22.764470652675 -73.480609934637
+(S1 (S (RB because) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-22.821195755213 -75.771778038822
+(S1 (S (ADVP (RB because)) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-22.846619812808 -82.542588197444
+(S1 (FRAG (SBAR (IN because) (SBAR (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))))
+-23.140014823256 -84.125528207676
+(S1 (FRAG (PP (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))))
+-23.214343834249 -78.368429281690
+(S1 (S (X (IN because)) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-23.350743981728 -77.199607434362
+(S1 (S (NP (RB because) (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-23.368179071505 -82.962390246906
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (JJ chase) (NP (PRP them)))))))
+-23.479806055766 -81.053152685947
+(S1 (S (IN because) (NP (JJ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-23.492981922285 -78.955118028995
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (S (NP (PRP them))))))))
+-23.620832431685 -81.060859393687
+(S1 (S (PP (IN because) (NP (PRP$ my) (NNS dogs))) (S (VP (VB chase) (NP (PRP them))))))
+-23.904206978366 -79.574916084172
+(S1 (FRAG (PP (IN because) (NP (PRP$ my) (NNS dogs))) (VP (VB chase) (NP (PRP them)))))
+-23.922812916269 -82.215906246349
+(S1 (PP (IN because) (NP (PRP$ my) (NNS dogs) (S (VP (VB chase) (NP (PRP them)))))))
+-23.924734892160 -81.089830092656
+(S1 (S (VP (PP (IN because) (NP (PRP$ my) (NNS dogs))) (VB chase) (NP (PRP them)))))
+-23.939888892782 -82.954367495835
+(S1 (SINV (PP (IN because) (NP (PRP$ my) (NNS dogs))) (VB chase) (NP (PRP them))))
+-23.947394681341 -78.137442797820
+(S1 (S (RB because) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))
+-23.998613194885 -80.445562831397
+(S1 (FRAG (PP (IN because) (NP (PRP$ my) (NNS dogs) (S (VP (VB chase) (NP (PRP them))))))))
+-24.331037521203 -83.898381566193
+(S1 (S (PP (IN because)) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-24.642176103743 -80.608940263344
+(S1 (S (ADVP (IN because)) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-24.837373525609 -82.389651586057
+(S1 (S (ADVP (RB because)) (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))
+-24.838174940731 -84.559170895632
+(S1 (FRAG (PP (IN because) (NP (NP (PRP$ my) (NNS dogs)) (ADJP (JJ chase) (NP (PRP them)))))))
+-24.977386451314 -79.686415143705
+(S1 (S (IN because) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (S (NP (PRP them))))))
+-25.029018075647 -81.460365403416
+(S1 (FRAG (PP (IN because) (NP (PRP$ my) (NNS dogs))) (S (VP (VB chase) (NP (PRP them))))))
+-25.110813643035 -81.763458527195
+(S1 (VP (PP (IN because) (NP (PRP$ my) (NNS dogs))) (VB chase) (NP (PRP them))))
+-25.322819481102 -82.077411709132
+(S1 (S (RB because) (NP (JJ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-25.451362354052 -84.368579813318
+(S1 (S (ADVP (RB because)) (NP (JJ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-25.532825805118 -82.900498021812
+(S1 (S (ADVP (IN because) (NP (PRP$ my) (NNS dogs))) (VP (VB chase) (NP (PRP them)))))
+-25.836283098977 -84.218748337376
+(S1 (S (PP (IN because) (NP (PRP$ my) (NNS dogs))) (VP (VB chase) (S (NP (PRP them))))))
+-25.912946582687 -84.096939651799
+(S1 (FRAG (ADVP (RB because)) (SBAR (S (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))))
+-26.046955993966 -84.309401829747
+(S1 (S (X (RB because)) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-26.206745698951 -84.887874163178
+(S1 (S (PP (IN because) (NP (PRP$ my))) (NP (NNS dogs)) (VP (VB chase) (NP (PRP them)))))
+-27.014944183438 -80.710674166890
+(S1 (S (RB because) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (S (NP (PRP them))))))
+-27.042711082411 -84.605376243460
+(S1 (S (VP (ADVP (IN because) (NP (PRP$ my) (NNS dogs))) (VB chase) (NP (PRP them)))))
+-27.071669283188 -83.001842271076
+(S1 (S (ADVP (RB because)) (NP (PRP$ my) (NNS dogs)) (VP (VB chase) (S (NP (PRP them))))))
+-27.120571341431 -82.815197194816
+(S1 (FRAG (S (NP (RB because) (PRP$ my) (NNS dogs)) (VP (VB chase) (NP (PRP them))))))
+-27.601217512491 -84.429671666616
+(S1 (S (NP (RB because) (PRP$ my) (NNS dogs)) (VP (VB chase) (S (NP (PRP them))))))
+

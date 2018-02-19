@@ -1,0 +1,102 @@
+50 x
+-15.913041687584 -54.788173151858
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-17.349551831529 -56.158541085546
+(S1 (S (RB So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-17.912249772346 -60.176165807594
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding))))))
+-18.501272393367 -66.350417390990
+(S1 (SBAR (IN So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding)))))))
+-18.527106440627 -66.897557388720
+(S1 (S (CC So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-18.609636353979 -61.195882904608
+(S1 (S (ADVP (RB So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-19.361303444503 -61.546533741282
+(S1 (S (RB So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding))))))
+-19.431905468329 -61.614570823944
+(S1 (S (IN So) (NP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-19.508491592665 -65.670591020993
+(S1 (S (NP (RB So) (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-19.683200495950 -67.329253615647
+(S1 (S (RB So) (ADVP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-19.836083953736 -66.871527975608
+(S1 (S (NP (RB So) (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-19.952843990475 -66.631985360130
+(S1 (FRAG (SBAR (IN So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))))
+-20.031474258298 -61.374307701236
+(S1 (S (RB So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding)))))))
+-20.102220657030 -64.384522174505
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (VP (VBG flooding)))))))
+-20.187227372529 -64.553786792034
+(S1 (S (ADVP (IN So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-20.345172513360 -68.951512397568
+(S1 (S (CC So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding)))))))
+-20.500900031663 -62.398871122247
+(S1 (S (RB So) (NP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-20.621387969741 -66.583875560344
+(S1 (S (ADVP (RB So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding))))))
+-20.675184740737 -66.680655173795
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some)) (VP (VBG flooding)))))))
+-21.065421886191 -63.696435883336
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (NN flooding))))))
+-21.242270784947 -70.980169740006
+(S1 (S (CONJP (RB So) (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-21.335644493091 -67.002563479680
+(S1 (S (IN So) (NP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding))))))
+-21.345086356729 -70.764672132644
+(S1 (S (NP (IN So) (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-21.424774148427 -71.058583676729
+(S1 (S (NP (RB So) (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding))))))
+-21.521946721647 -64.167245578018
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some) (NN flooding)))))))
+-21.551274331976 -65.754890108194
+(S1 (S (RB So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (VP (VBG flooding)))))))
+-21.767922359167 -68.447138524045
+(S1 (S (ADVP (RB So)) (NP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-21.821686249371 -67.622105018168
+(S1 (S (ADVP (RB So)) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding)))))))
+-21.862699995829 -68.171326432865
+(S1 (S (INTJ (RB So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-21.890594614060 -66.762300356972
+(S1 (S (RB So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding)))))))
+-22.124238415683 -68.051023107484
+(S1 (S (RB So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some)) (VP (VBG flooding)))))))
+-22.186435457292 -69.941779447770
+(S1 (S (ADVP (IN So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding))))))
+-22.364482848851 -67.382046146224
+(S1 (FRAG (RB So) (SBAR (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))))
+-22.417182587425 -67.786863777982
+(S1 (S (RB So) (NP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (VBG flooding))))))
+-22.501932030136 -65.066803817025
+(S1 (S (RB So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (NN flooding))))))
+-22.566156790574 -70.960440475283
+(S1 (S (RB So) (ADVP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))
+-22.807726197921 -70.980008905594
+(S1 (S (ADVP (IN So)) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding)))))))
+-22.811358857213 -70.792231927255
+(S1 (S (ADVP (RB So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (VP (VBG flooding)))))))
+-22.958456862804 -65.537613511707
+(S1 (S (RB So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some) (NN flooding)))))))
+-23.010418459129 -69.922323399057
+(S1 (ADJP (RB So) (SBAR (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding))))))))
+-23.038990436368 -67.253837697250
+(S1 (S (RB So) (S (NP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (DT some) (NN flooding)))))))
+-23.762016555374 -70.104145636086
+(S1 (S (ADVP (RB So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (NN flooding))))))
+-23.840708844983 -70.029541209016
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (VP (NN flooding)))))))
+-24.080565498745 -70.970656723883
+(S1 (S (RB So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (VP (VBG flooding))))))))
+-24.218541388042 -70.574955330768
+(S1 (S (ADVP (RB So)) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some) (NN flooding)))))))
+-24.536771956157 -70.183638609362
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some)) (VP (NN flooding)))))))
+-24.584285669723 -70.522833555422
+(S1 (S (IN So) (NP (RB there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (NN flooding))))))
+-25.040810502392 -70.993643250104
+(S1 (S (IN So) (NP (RB there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some) (NN flooding)))))))
+-25.183854456905 -70.282570432714
+(S1 (S (RB So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT some)) (NN flooding)))))))
+-25.592511692361 -70.753380127396
+(S1 (S (RB So) (S (NP (EX there)) (VP (VBZ has) (VP (VBN been) (S (NP (DT some) (NN flooding))))))))
+

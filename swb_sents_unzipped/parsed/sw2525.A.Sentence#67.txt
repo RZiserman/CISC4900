@@ -1,0 +1,102 @@
+50 x
+-8.587287409835 -33.040943464308
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ amazing)))))
+-11.707172924285 -41.674838255528
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (JJ amazing)))))
+-12.354895679995 -42.534232601878
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ amazing)))))
+-12.725346783390 -45.437072076141
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (ADJP (JJ amazing))))))
+-12.806405724558 -44.280916660021
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (JJ amazing)))))
+-12.922267279765 -40.284241474472
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADJP (JJ amazing))))))
+-15.011292364817 -50.118286797613
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (ADVP (JJ amazing))))))
+-15.243039420537 -46.782587928474
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (VP (JJ amazing))))))
+-16.367548454063 -52.485757356337
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (ADJP (JJ amazing))))))
+-16.453107120999 -47.494905572794
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADVP (JJ amazing))))))
+-16.740433351872 -52.129505921315
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (VP (ADJP (JJ amazing)))))))
+-17.179146076123 -48.515743884909
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (JJ amazing))))))
+-19.057414385717 -56.883300149801
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (VP (ADVP (JJ amazing)))))))
+-20.044479162938 -65.192969416271
+(S1 (NP (NP (PRP It)) (VP (VBD was) (ADJP (JJ amazing)))))
+-20.255967522391 -63.491405286705
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (ADJP (JJ amazing)))))))
+-21.133201502195 -64.382087307298
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (ADJP (JJ amazing))))))
+-21.662030070527 -65.552773364800
+(S1 (NP (NP (PRP It)) (VP (VBD was) (S (ADJP (JJ amazing))))))
+-21.759751033002 -60.634129037675
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (ADJP (JJ amazing)))))))
+-22.275020679842 -69.513123644553
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (VP (JJ amazing)))))))
+-22.424929553335 -70.377982693896
+(S1 (NP (NP (PRP It)) (VP (VBD was) (ADVP (JJ amazing)))))
+-22.546502063469 -70.138407971707
+(S1 (NP (NP (PRP It)) (VP (VBD was) (NP (JJ amazing)))))
+-22.707783569572 -64.741891255827
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (S (ADJP (JJ amazing)))))))
+-23.594750752725 -69.327525862734
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (NP (JJ amazing))))))
+-23.614078942592 -69.567100584923
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (ADVP (JJ amazing))))))
+-23.758714897725 -76.067938800660
+(S1 (NP (NP (PRP It)) (VP (VBD was) (VP (JJ amazing)))))
+-23.794487756944 -74.860041637393
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (VP (ADJP (JJ amazing))))))))
+-23.988800850826 -71.138112107602
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (JJ amazing)))))))
+-24.000897734381 -72.047102569403
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (ADVP (JJ amazing)))))))
+-24.065096966428 -72.346316926736
+(S1 (NP (NP (PRP It)) (VP (VBD was) (S (VP (JJ amazing))))))
+-24.691338186982 -75.257056691687
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (VP (JJ amazing))))))
+-24.776888756831 -79.830172621272
+(S1 (NP (NP (PRP It)) (VP (VBD was) (VP (ADJP (JJ amazing))))))
+-25.110850462685 -71.535434817763
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (S (VP (JJ amazing)))))))
+-25.138082369772 -72.566910673022
+(S1 (NP (NP (PRP It)) (VP (VBD was) (S (ADVP (JJ amazing))))))
+-25.562490897763 -77.693234919576
+(S1 (NP (NP (PRP It)) (VP (VBD was) (S (VP (ADJP (JJ amazing)))))))
+-25.709512046087 -79.019290512299
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (VP (ADJP (JJ amazing)))))))
+-25.730164817800 -73.107237507476
+(S1 (NP (NP (PRP It)) (VP (VBD was) (S (NP (JJ amazing))))))
+-26.111894076584 -79.613835865879
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (VP (ADVP (JJ amazing))))))))
+-26.183835866028 -71.756028564049
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (S (ADVP (JJ amazing)))))))
+-26.528173419168 -79.978800186953
+(S1 (NP (NP (PRP It)) (VP (VBD was) (NP (ADJP (JJ amazing))))))
+-26.608244394019 -76.882352810603
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (S (VP (ADJP (JJ amazing))))))))
+-26.775918314057 -72.296355398503
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (S (NP (JJ amazing)))))))
+-27.062834338258 -84.511387342744
+(S1 (NP (NP (PRP It)) (VP (VBD was) (VP (ADVP (JJ amazing))))))
+-27.576422108424 -79.167918077980
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (NP (ADJP (JJ amazing)))))))
+-27.879471931608 -82.447029148062
+(S1 (NP (NP (PRP It)) (VP (VBD was) (S (VP (ADVP (JJ amazing)))))))
+-27.995457627514 -83.700505233771
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (VP (ADVP (JJ amazing)))))))
+-28.305532887822 -82.276917281484
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (ADJP (JJ amazing))))))))
+-28.925225427864 -81.636147039089
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (S (VP (ADVP (JJ amazing))))))))
+-30.310769771892 -85.225622660242
+(S1 (NP (NP (PRP It)) (VP (VBD was) (S (NP (ADJP (JJ amazing)))))))
+-31.356523268148 -84.414740551269
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (S (NP (ADJP (JJ amazing))))))))
+-31.507504812558 -91.811635621324
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (SBAR (S (ADJP (JJ amazing))))))))
+

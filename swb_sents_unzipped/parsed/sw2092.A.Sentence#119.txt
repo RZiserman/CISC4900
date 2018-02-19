@@ -1,0 +1,102 @@
+50 x
+-19.548350353492 -69.808029900474
+(S1 (S (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-19.650890876696 -71.736361923241
+(S1 (S (ADJP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-19.922004918855 -68.018292423892
+(S1 (FRAG (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.229477854546 -73.016593817541
+(S1 (S (S (ADJP (RB Well) (JJ nice))) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-21.301186311359 -69.941181361626
+(S1 (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.314484262098 -72.021201639149
+(S1 (S (ADJP (RB Well) (JJ nice)) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-21.667011593199 -72.828649962716
+(S1 (FRAG (S (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.178235383287 -66.650756027291
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.218926375390 -71.172625074339
+(S1 (ADJP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-22.224400540436 -70.569772455178
+(S1 (S (ADJP (RB Well) (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-22.401370058083 -68.482472789535
+(S1 (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-22.461132061677 -75.272518609654
+(S1 (FRAG (ADJP (RB Well) (JJ nice)) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.599865960077 -74.364691009518
+(S1 (S (ADJP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.686309613777 -76.010985082425
+(S1 (S (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-22.857699822493 -73.049306233503
+(S1 (ADVP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-22.886767361490 -70.360885431026
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-22.911500155836 -71.230684004115
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.089645632075 -74.999759484537
+(S1 (S (RB Well) (VP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.143631055965 -74.207253098044
+(S1 (FRAG (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-23.186043857252 -73.055116008181
+(S1 (S (ADJP (RB Well) (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-23.526537827836 -71.650682694946
+(S1 (S (VP (ADVP (RB Well)) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.587597517872 -75.567264564833
+(S1 (ADJP (ADJP (RB Well) (JJ nice)) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.761873236069 -70.835834352981
+(S1 (S (ADJP (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-23.821858399837 -73.997056891421
+(S1 (ADJP (RB Well) (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.873364850639 -73.797917742321
+(S1 (FRAG (ADVP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.905263534326 -76.438558207741
+(S1 (S (ADJP (ADJP (RB Well) (JJ nice)) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-24.195721634480 -76.524904932092
+(S1 (FRAG (RB Well) (JJ nice) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-24.308110337866 -74.265544086330
+(S1 (FRAG (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-24.378022301603 -74.291276821043
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (VBG talking) (PP (TO to) (NP (PRP you))))))
+-24.438568139689 -72.246030230713
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-24.463898120876 -75.942773317711
+(S1 (FRAG (ADJP (ADVP (RB Well)) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-24.489359116582 -72.733981354903
+(S1 (ADJP (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-24.516636404199 -73.152688420140
+(S1 (NP (NP (QP (RB Well) (JJ nice))) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-24.609494307837 -73.799283683666
+(S1 (ADJP (ADJP (RB Well) (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-24.766700916698 -74.055807786991
+(S1 (FRAG (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-24.841204846351 -73.789294071528
+(S1 (S (ADJP (ADJP (RB Well) (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.019277533284 -73.950763235100
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (VBG talking) (PP (TO to) (NP (PRP you))))))
+-25.129560458590 -76.138931129004
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-25.164816580948 -74.119122861335
+(S1 (FRAG (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.230897745318 -73.524415707123
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-25.286965944025 -75.372716447960
+(S1 (FRAG (RB Well) (ADJP (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-25.303648368269 -76.282599781381
+(S1 (ADJP (ADVP (RB Well)) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.503672934755 -74.171300612158
+(S1 (FRAG (ADJP (ADVP (RB Well) (JJ nice)) (VBG talking) (PP (TO to) (NP (PRP you))))))
+-25.513460698080 -72.336873979305
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.658802250380 -75.245167916922
+(S1 (FRAG (ADJP (ADJP (RB Well) (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.804334785588 -75.231096661151
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.844509293769 -75.960310230003
+(S1 (S (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.996866049131 -73.908474429535
+(S1 (S (VP (ADVP (RB Well)) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-26.075868174001 -76.514609496760
+(S1 (FRAG (ADJP (ADVP (RB Well)) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-26.678544527359 -74.179229191729
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (NP (VBG talking)) (PP (TO to) (NP (PRP you))))))
+

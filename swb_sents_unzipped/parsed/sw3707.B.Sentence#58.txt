@@ -1,0 +1,102 @@
+50 x
+-15.102892640029 -51.471962634735
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB just) (JJ pretty)))))
+-16.211691103613 -54.292709076261
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADJP (RB just) (JJ pretty)))))
+-16.385706064808 -53.064550688017
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB just) (RB pretty)))))
+-16.512776809958 -52.499100282909
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (NP (RB just) (RB pretty)))))
+-17.096204562216 -51.789523815375
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ pretty)))))
+-17.142764498203 -56.565747272597
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (ADVP (RB pretty)))))
+-17.148924552804 -54.426308763581
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADJP (RB just) (RB pretty)))))
+-17.244359647242 -54.530532478105
+(S1 (S (NP (PRP she)) (VP (POS 's) (NP (RB just) (RB pretty)))))
+-17.346417219274 -54.086697036768
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (NP (RB just) (JJ pretty)))))
+-17.360777978993 -57.369188540781
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADVP (RB just) (RB pretty)))))
+-17.478559178796 -53.416008933125
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (NP (RB pretty)))))
+-17.515470795011 -57.816923661100
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just) (RB pretty)))))
+-17.992262555401 -55.426660134324
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (ADVP (RB pretty))))))
+-18.099409773785 -57.394837491177
+(S1 (S (NP (PRP she)) (VP (POS 's) (NP (RB just) (JJ pretty)))))
+-18.146011298777 -54.793775944424
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just) (JJ pretty)))))
+-18.167212179270 -55.188469640035
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (NP (JJ pretty)))))
+-18.285243215260 -57.192653347913
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (RB pretty)))))
+-18.398571352236 -57.277521512447
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADVP (RB just)) (JJ pretty)))))
+-18.479197661320 -60.923321127575
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADVP (RB just)) (ADVP (RB pretty)))))
+-18.609994758370 -54.224190361879
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (RB pretty)))))
+-18.668834486808 -60.682168379940
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (ADJP (RB just) (JJ pretty))))))
+-18.707269214372 -62.183533702356
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (PP (RB just) (ADVP (RB pretty))))))
+-19.000922186622 -54.615986554867
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (JJ pretty)))))
+-19.043050919803 -62.506689942209
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB just) (ADVP (RB pretty)))))
+-19.070738516287 -62.980930149044
+(S1 (NP (NP (PRP she) (POS 's)) (RB just) (RB pretty)))
+-19.094565354873 -61.933860707695
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (RB pretty))))
+-19.184967699772 -59.919550079676
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just) (ADVP (RB pretty))))))
+-19.252765512324 -57.923406856224
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (PP (RB just) (NP (RB pretty))))))
+-19.265796265098 -61.130593042653
+(S1 (S (NP (PRP she) (VBZ 's)) (ADJP (RB just) (JJ pretty))))
+-19.360690821919 -59.507241180126
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB just) (ADJP (JJ pretty)))))
+-19.379014809907 -61.285123094263
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (NP (QP (RB just) (RB pretty))))))
+-19.531852653339 -59.870759102247
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADJP (ADVP (RB just)) (JJ pretty)))))
+-19.613248327465 -62.089291015805
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADVP (RB just)) (ADJP (JJ pretty)))))
+-19.704932160610 -61.432545607319
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (ADJP (RB just) (JJ pretty))))))
+-19.721206554360 -62.534877509630
+(S1 (S (NP (PRP she) (POS 's)) (ADJP (RB just) (RB pretty))))
+-19.749483533820 -62.015699407957
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (ADJP (RB just) (RB pretty))))))
+-19.753242694333 -61.367430029114
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADVP (RB just) (JJ pretty)))))
+-19.901047056999 -61.769768061005
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADJP (QP (RB just) (JJ pretty))))))
+-19.933839209726 -60.245016846481
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB just) (NP (RB pretty)))))
+-19.957798462257 -61.814684313863
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADJP (QP (RB just) (JJ pretty))))))
+-20.175505701256 -62.839950648288
+(S1 (S (NP (PRP she)) (VP (POS 's) (NP (QP (RB just) (RB pretty))))))
+-20.233625571583 -61.685514512739
+(S1 (S (NP (PRP she) (VBZ 's)) (ADJP (RB just) (RB pretty))))
+-20.316015849076 -59.736789703400
+(S1 (S (NP (PRP she)) (VP (POS 's) (PP (RB just) (NP (RB pretty))))))
+-20.524337191881 -62.967798637203
+(S1 (S (NP (PRP she)) (VP (POS 's) (NP (RB just)) (ADVP (RB pretty)))))
+-20.524898745387 -63.127946115509
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (ADJP (RB just) (RB pretty))))))
+-20.528053689496 -60.564551603746
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB just) (ADJP (RB pretty)))))
+-20.648535780672 -60.835281349167
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (ADVP (JJ pretty)))))
+-20.648933296682 -62.709974375965
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADVP (RB just)) (ADJP (RB pretty)))))
+-20.834423006205 -62.651455773500
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (ADVP (RB just) (RB pretty))))))
+-22.819356793979 -62.847997555931
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (ADVP (JJ pretty))))))
+

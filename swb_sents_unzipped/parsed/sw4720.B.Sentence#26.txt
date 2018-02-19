@@ -1,0 +1,102 @@
+50 x
+-10.374061912694 -40.461180660694
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (VP (VBN recovered)))))
+-12.689324600838 -45.855208876364
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (VP (VBD recovered)))))
+-13.865781040354 -49.566805998162
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (RB n't) (VBN recovered)))))
+-14.775514556001 -51.976204161484
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (S (VP (VBN recovered))))))
+-15.075171191628 -45.560133537957
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (ADJP (VBN recovered)))))
+-15.700316661025 -51.696812332374
+(S1 (S (NP (PRP She)) (VP (VBZ is) (ADJP (RB n't) (VBN recovered)))))
+-16.021875512114 -58.090621428103
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (ADVP (RB n't)) (VBN recovered)))))
+-16.174168121266 -59.810529254770
+(S1 (S (NP (PRP She)) (VP (VBZ is) (ADVP (RB n't)) (VP (VBN recovered)))))
+-16.289829307628 -59.737877517126
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (RB n't) (VP (VBN recovered))))))
+-16.547278431516 -52.141907261340
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (ADJP (VBD recovered)))))
+-17.100703804785 -60.733188120550
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (RB n't) (S (VP (VBN recovered)))))))
+-17.140363224183 -59.487983290436
+(S1 (S (NP (PRP She)) (VP (VBZ is) (SBAR (RB n't) (S (VP (VBN recovered)))))))
+-17.160555487584 -59.746462649280
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (RB n't) (VBD recovered)))))
+-17.237336368410 -57.211591535975
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (VP (RB n't) (VBN recovered))))))
+-17.556070890932 -59.225307409829
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (RB n't) (VP (VBN recovered))))))
+-17.575929949299 -62.717921357241
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (ADVP (RB n't)) (VP (VBN recovered))))))
+-17.658425696988 -56.732850278404
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (SBAR (S (VP (VBN recovered)))))))
+-18.016395572257 -54.893325490009
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (S (ADJP (VBN recovered))))))
+-18.133317870843 -58.360595690558
+(S1 (S (NP (PRP She)) (VP (VBZ is) (ADJP (RB n't) (VBD recovered)))))
+-18.252013772455 -60.201989209762
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (S (VP (VBD recovered))))))
+-18.331805835547 -62.492553178319
+(S1 (S (NP (PRP She)) (VP (VBZ is) (SBAR (S (RB n't) (VP (VBN recovered)))))))
+-18.360256293107 -61.911156982748
+(S1 (S (NP (PRP She)) (VP (VBZ is) (SBAR (S (VP (RB n't) (VBN recovered)))))))
+-18.430267888549 -57.177637293690
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (ADJP (RB n't) (VBN recovered))))))
+-18.909648884809 -64.674533494715
+(S1 (S (NP (PRP She)) (VBZ is) (VP (RB n't) (VBN recovered))))
+-18.967681450234 -66.123714780043
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (ADVP (RB n't)) (VP (VBN recovered))))))
+-18.985592830173 -66.206837496434
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (VP (RB n't) (VP (VBN recovered)))))))
+-19.059455555679 -65.747486155845
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (RB n't) (VP (VBD recovered))))))
+-19.200310201081 -59.789055201078
+(S1 (S (NP (PRP She)) (VP (VBZ is) (ADJP (ADVP (RB n't)) (VBN recovered)))))
+-19.397756403150 -62.778810184021
+(S1 (S (NP (PRP She)) (VP (VBZ is) (ADJP (RB n't) (S (VP (VBN recovered)))))))
+-19.412041064582 -63.329476748785
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (RB n't) (S (VP (VBD recovered)))))))
+-19.757795265250 -65.493741813981
+(S1 (S (NP (PRP She)) (VBZ is) (VP (RB n't) (VBD recovered))))
+-20.167293417672 -64.782020400254
+(S1 (S (NP (PRP She)) (VP (VBZ is) (SBAR (RB n't) (S (VP (VBD recovered)))))))
+-20.186481764840 -66.258882853809
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (VP (ADVP (RB n't)) (VBN recovered))))))
+-20.349315614339 -62.849061175308
+(S1 (S (NP (PRP She)) (VP (VBZ is) (VP (RB n't) (S (ADJP (VBN recovered)))))))
+-20.378731480314 -64.219128402934
+(S1 (S (NP (PRP She)) (VP (VBZ is) (SBAR (S (ADJP (RB n't) (VBN recovered)))))))
+-20.394186706021 -66.678618824209
+(S1 (S (NP (NP (PRP She)) (VP (VBZ is) (RB n't))) (VP (VBD recovered))))
+-20.426070131023 -62.328356143547
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (SBAR (S (VP (VBD recovered)))))))
+-20.564571532513 -64.535017268058
+(S1 (S (NP (PRP She) (VBZ is)) (VP (RB n't) (VBN recovered))))
+-20.968372681317 -66.794134449981
+(S1 (S (NP (PRP She)) (VP (VBZ is) (ADVP (RB n't)) (ADJP (VBN recovered)))))
+-21.085412583984 -67.362735048087
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (RB n't) (VP (VBD recovered))))))
+-21.151977972109 -63.890850816882
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (S (ADJP (VBD recovered))))))
+-21.238523071657 -62.522777392963
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (ADJP (RB n't) (VBD recovered))))))
+-21.436122593849 -61.441245655557
+(S1 (S (NP (PRP She) (VBZ is)) (ADJP (RB n't) (VBN recovered))))
+-21.548811011656 -65.436073319773
+(S1 (S (NP (PRP She)) (VP (VBZ is) (SBAR (RB n't) (S (ADJP (VBN recovered)))))))
+-21.725002297231 -66.935245018908
+(S1 (S (NP (PRP She) (VBZ is)) (VP (RB n't) (VBD recovered))))
+-21.795815128153 -61.899493881065
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (SBAR (S (ADJP (VBN recovered)))))))
+-22.720929270222 -67.413672872215
+(S1 (S (NP (PRP She)) (VP (VBZ is) (S (ADJP (ADVP (RB n't)) (VBN recovered))))))
+-22.987139814484 -67.253728169046
+(S1 (S (NP (PRP She)) (VP (VBZ is) (ADJP (RB n't) (S (ADJP (VBN recovered)))))))
+-23.300408716165 -65.604143866317
+(S1 (S (NP (PRP She)) (VP (VBZ is) (RB n't) (SBAR (S (ADJP (VBD recovered)))))))
+-23.603446586710 -67.151144116082
+(S1 (S (NP (PRP She) (VBZ is)) (ADJP (RB n't) (VBD recovered))))
+

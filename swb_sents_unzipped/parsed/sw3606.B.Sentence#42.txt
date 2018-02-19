@@ -1,0 +1,102 @@
+50 x
+-19.041674318288 -64.018175025964
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-19.233248988988 -65.046277155339
+(S1 (S (INTJ (UH Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-19.276874345998 -64.530129237489
+(S1 (S (RB Well) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-20.094892584110 -63.721563706950
+(S1 (S (INTJ (RB Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-20.801424517135 -67.972356807354
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VBP do) (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))
+-20.855989039893 -68.403727362390
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))))))
+-21.000737704668 -69.789770464463
+(S1 (SBAR (RB Well) (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))))
+-21.043480851388 -67.188978876786
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))))
+-21.132579011027 -67.145081547486
+(S1 (S (RB Well) (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))))
+-21.356881776401 -69.212284521353
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))))
+-21.509446338702 -70.459391888060
+(S1 (S (RB Well) (NP (PRP they)) (VBP do) (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))
+-21.753325059802 -70.582113427167
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))
+-21.839436068202 -69.238365597101
+(S1 (S (ADVP (RB Well)) (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))))
+-21.944899730501 -71.610215556542
+(S1 (S (INTJ (UH Well)) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))
+-21.983384614530 -73.905398006332
+(S1 (SQ (RB Well) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-21.988525087512 -71.094067638692
+(S1 (S (RB Well) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))
+-22.001871181305 -70.458688533904
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VB watch) (NP (PRP it))))))))
+-22.046037637724 -71.165027993294
+(S1 (SQ (RB Well) (NP (PRP they)) (VP (VB do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-22.193445852004 -71.486790663279
+(S1 (S (INTJ (UH Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VB watch) (NP (PRP it))))))))
+-22.237071211802 -70.970642745429
+(S1 (S (RB Well) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VB watch) (NP (PRP it))))))))
+-22.268446329194 -68.854174778489
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))))))
+-22.383115208556 -71.583841146200
+(S1 (S (ADVP (UH Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-22.399042897472 -70.428287409517
+(S1 (FRAG (SBAR (RB Well) (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))))
+-22.442631929899 -73.141810320533
+(S1 (S (INTJ (UH Well)) (NP (PRP they)) (VP (VB do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-22.547257036398 -73.943286565763
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VP (VB do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-22.602657850086 -73.594471917778
+(S1 (S (RB Well) (NP (PRP they)) (VP (VB do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-22.653355743095 -72.163755855497
+(S1 (FRAG (ADVP (RB Well)) (SBAR (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))))
+-22.710048560831 -71.038277367896
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))
+-22.767931898682 -72.760517046591
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VBP do) (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))
+-22.806543325624 -70.285502108153
+(S1 (S (INTJ (RB Well)) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))
+-22.901623231531 -72.066379497271
+(S1 (S (INTJ (UH Well)) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))
+-22.945248588541 -71.550231579421
+(S1 (S (RB Well) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))
+-23.055089447127 -70.162077214889
+(S1 (S (INTJ (RB Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VB watch) (NP (PRP it))))))))
+-23.155170589968 -71.482773903648
+(S1 (SQ (RB Well) (NP (PRP they)) (VP (VB do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))
+-23.277012091461 -74.533934427616
+(S1 (S (RB Well) (NP (PRP they)) (VBP do) (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))
+-23.537326479694 -73.441582972735
+(S1 (SQ (RB Well) (NP (PRP they)) (VP (VB do) (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))
+-23.763266826653 -70.741666048881
+(S1 (S (INTJ (RB Well)) (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))
+-23.824552831894 -74.223094186074
+(S1 (S (INTJ (RB Well)) (NP (PRP they)) (VP (VB do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-23.830058300419 -73.709020046180
+(S1 (S (RB Well) (S (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it))))))))
+-23.846395535203 -73.752917361291
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VBP watch) (NP (PRP it)))))))))
+-23.898677095807 -74.852126531020
+(S1 (S (INTJ (UH Well)) (NP (PRP they)) (VP (VB do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))
+-23.985374446698 -74.844240870329
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))))))
+-24.082159005404 -73.629492384725
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VB watch) (NP (PRP it))))))))))
+-24.183483126832 -73.585595055425
+(S1 (S (RB Well) (S (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))))
+-24.404482066661 -73.546870219277
+(S1 (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (S (NP (PRP it)))))))))
+-24.596056737361 -74.574972348652
+(S1 (S (INTJ (UH Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (S (NP (PRP it)))))))))
+-24.639682094371 -74.058824430802
+(S1 (S (RB Well) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (S (NP (PRP it)))))))))
+-24.877489051448 -74.165183986909
+(S1 (S (RB Well) (S (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it))))))))
+-24.881600327233 -74.209081302020
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP they)) (VP (VBP do) (S (NP (PRP they)) (VP (VB watch) (NP (PRP it)))))))))
+-25.457700332483 -73.250258900263
+(S1 (S (INTJ (RB Well)) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP they)) (VP (VBP watch) (S (NP (PRP it)))))))))
+

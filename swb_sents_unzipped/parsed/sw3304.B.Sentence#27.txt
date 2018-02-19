@@ -1,0 +1,102 @@
+50 x
+-25.396279339875 -86.561487080975
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (NP (RB really) (RB not))))))
+-26.783646849712 -84.068190485540
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really) (RB not)))))))
+-26.875697503031 -85.454135114215
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (ADJP (RB really) (RB not))))))
+-27.143682842107 -92.955744217208
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like)) (ADVP (RB really) (RB not)))))
+-27.473414561376 -86.270917707110
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (RB not))))))
+-27.545933369139 -91.840457384377
+(S1 (S (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (NP (RB really) (RB not)))))))
+-27.556656473760 -91.847899643830
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (VP (IN like) (NP (RB really) (RB not))))))
+-27.777776954375 -87.849485360213
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are)) (PP (IN like) (NP (RB really) (RB not)))))
+-27.840822502660 -88.866387418567
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (RB really) (RB not))))))
+-28.107237926537 -88.360545672679
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really)) (RB not))))))
+-28.164888198177 -88.620872911604
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really) (RB not)))))))
+-28.308048917962 -90.775821976193
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (ADJP (IN like) (RB really) (RB not)))))
+-28.337507529413 -89.266956914423
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (NP (RB really) (RB not)))))))
+-28.550394871364 -91.307694871345
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (RB really) (RB not))))))
+-28.753152568683 -90.910573562954
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (VP (IN like) (S (ADJP (RB really) (RB not)))))))
+-28.815742992609 -89.347161092001
+(S1 (S (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really) (RB not))))))))
+-28.843205703906 -92.018968298846
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (VP (VB like) (S (ADJP (RB really) (RB not)))))))
+-28.847363452633 -86.171641837631
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (ADVP (RB not)))))))
+-28.960093339027 -92.992319877153
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (VP (VB like) (FRAG (ADVP (RB really) (RB not)))))))
+-29.144764598542 -90.224488271339
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (RB really) (FRAG (ADVP (RB not)))))))
+-29.153124225983 -90.590652430466
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (PP (IN like) (NP (RB really) (RB not))))))
+-29.162624974156 -90.823287025510
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (VP (VB like) (FRAG (ADVP (RB really)) (ADVP (RB not)))))))
+-29.249783126604 -93.219147988073
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (S (ADJP (RB really) (RB not)))))))
+-29.287443865082 -90.733105417617
+(S1 (S (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (ADJP (RB really) (RB not)))))))
+-29.505510704273 -91.549888313570
+(S1 (S (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (RB not)))))))
+-29.816925695356 -88.159604947662
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (ADJP (RB really) (RB not)))))))
+-29.956902419735 -86.773660250500
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really) (RB not))))))))
+-29.959176616185 -89.913215593489
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really)) (ADVP (RB not)))))))
+-30.040129436126 -91.405097030324
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (ADJP (RB really) (RB not)))))))
+-30.143576287921 -91.835730042055
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADJP (RB really) (RB not)))))))
+-30.454446634710 -90.176109815874
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are)) (PP (IN like) (ADJP (RB really) (RB not)))))
+-30.540491735819 -88.097355835031
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really) (RB not)))))))
+-30.609559553753 -92.877266049557
+(S1 (S (CC and) (SBAR (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really) (RB not)))))))))
+-30.632542389138 -89.483300463705
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (PP (IN like) (ADJP (RB really) (RB not))))))
+-30.646670131399 -88.976387472069
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (RB not)))))))
+-30.879459595531 -91.450612444091
+(S1 (S (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (ADVP (RB not))))))))
+-31.012759076670 -93.524867508291
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (RB really) (ADJP (RB not)))))))
+-31.014078072683 -91.571857183527
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (RB really) (RB not)))))))
+-31.048466118862 -91.066015506126
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really)) (RB not)))))))
+-31.106116390502 -91.326342745051
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really) (RB not))))))))
+-31.230259447484 -90.300083056600
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (RB not))))))
+-31.240637694227 -93.481291865766
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (ADJP (IN like) (RB really) (RB not))))))
+-31.397973335361 -93.171483570139
+(S1 (S (CC and) (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (ADVP (IN like) (RB really)) (ADJP (RB not)))))
+-31.597667388768 -92.895552768058
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (SBAR (IN like) (FRAG (RB really) (RB not))))))
+-31.864082812645 -92.389711022169
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really)) (RB not))))))
+-31.921733084285 -92.650038261094
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really) (RB not)))))))
+-32.020619022656 -88.877111602590
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (ADVP (RB not))))))))
+-32.318398301353 -92.929958036298
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (SBAR (IN like) (RB really) (FRAG (ADVP (RB not))))))))
+-32.604208338741 -90.200807187121
+(S1 (S (NP (CC and) (NP (DT the) (JJ other) (NN half))) (VP (VBP are) (SBAR (IN like) (FRAG (ADVP (RB really)) (ADVP (RB not)))))))
+-32.900404808510 -92.618685426937
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ other) (NN half)) (VP (VBP are) (PP (IN like) (FRAG (ADVP (RB really)) (ADVP (RB not))))))))
+

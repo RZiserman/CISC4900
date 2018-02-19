@@ -1,0 +1,102 @@
+50 x
+-25.250777694351 -89.269860627673
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city))))))
+-25.985329177111 -88.535293753873
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city))))))
+-26.414163693809 -84.460703174311
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-26.586882240522 -90.703783342885
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (ADJP (JJ right)) (PP (IN outside) (NP (DT the) (NN city))))))
+-26.785054770674 -91.449680844534
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-26.790050443476 -91.699225312351
+(S1 (S (CC and) (ADVP (UH uh)) (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city))))))
+-26.937505738750 -83.726136470117
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city)))))))
+-27.232333149840 -90.579720180564
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city))))))
+-27.278611127737 -90.715114036497
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city)))))))
+-27.437610724880 -91.002268551076
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (RB right) (IN outside) (NP (DT the) (NN city))))))
+-27.524601929025 -90.964658438551
+(S1 (S (CC and) (ADVP (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city))))))
+-27.553492978707 -85.894625940684
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (ADJP (JJ right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-27.692864338003 -90.954299084726
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city))))))))
+-27.966884635388 -89.845153306764
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city))))))
+-28.068432200482 -92.883603522423
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (ADJP (JJ right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-28.095277591127 -90.219732233785
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city))))))))
+-28.126154992435 -93.133148027562
+(S1 (S (CC and) (ADVP (UH uh)) (NP (PRP we)) (VP (VBP live) (ADJP (JJ right)) (PP (IN outside) (NP (DT the) (NN city))))))
+-28.362788337570 -94.594924664609
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (ADVP (JJ right)) (PP (IN outside) (NP (DT the) (NN city))))))
+-28.367908171917 -92.256506034825
+(S1 (FRAG (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-28.389787286519 -86.193111267319
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PP (RB right) (IN outside) (NP (DT the) (NN city)))))))
+-28.568437698799 -92.013642895776
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (PRP we)) (VP (VBP live) (ADJP (JJ right)) (PP (IN outside) (NP (DT the) (NN city))))))
+-28.698058718466 -92.520205989160
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (RB right) (PP (IN outside) (NP (DT the) (NN city)))))))
+-28.870227072901 -92.388221848865
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (ADJP (JJ right)) (PP (IN outside) (NP (DT the) (NN city))))))))
+-28.891250216858 -91.521939330630
+(S1 (FRAG (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city)))))))
+-28.976883476794 -93.431633235753
+(S1 (S (CC and) (ADVP (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (RB right) (IN outside) (NP (DT the) (NN city))))))
+-29.187118272719 -93.182088833700
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (RB right) (IN outside) (NP (DT the) (NN city)))))))
+-29.419166180370 -92.312128103967
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (PRP we)) (VP (VBP live) (PP (RB right) (IN outside) (NP (DT the) (NN city))))))
+-29.425355415330 -90.114275883451
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (RB right) (PP (IN outside) (NP (DT the) (NN city)))))))
+-29.507237456815 -93.690428801198
+(S1 (FRAG (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (ADJP (JJ right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-29.519924169817 -89.785767211246
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (ADVP (JJ right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-29.650235280105 -87.711048705404
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PP (RB right) (PP (IN outside) (NP (DT the) (NN city))))))))
+-29.775881918551 -90.932776596754
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (NP (NN right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-29.806797370583 -93.268370347612
+(S1 (S (CC and) (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (ADVP (JJ right)) (IN outside) (NP (DT the) (NN city))))))
+-29.889516053715 -91.722096039977
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city))))))))
+-30.003784738896 -92.686707030988
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (PP (RB right) (IN outside) (NP (DT the) (NN city))))))))
+-30.047400343623 -93.530041570463
+(S1 (FRAG (CC and) (INTJ (UH uh)) (FRAG (S (NP (PRP we)) (VP (VBP live) (ADVP (RB right)) (PP (IN outside) (NP (DT the) (NN city))))))))
+-30.231224667304 -94.700026271784
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (RB right) (PP (IN outside) (NP (DT the) (NN city))))))))
+-30.284302028344 -94.671503064505
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PRT (RB right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-30.285663232722 -93.810538952635
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (ADVP (RB right) (RB outside)) (NP (DT the) (NN city))))))
+-30.343531764627 -93.988914127833
+(S1 (FRAG (CC and) (S (INTJ (UH uh)) (NP (PRP we)) (VP (VBP live) (PP (RB right) (IN outside) (NP (DT the) (NN city)))))))
+-30.345696943418 -90.200771137770
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (ADJP (JJ right) (PP (IN outside) (NP (DT the) (NN city))))))))
+-30.440991483806 -92.275741831815
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (ADVP (NN right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-30.679614173956 -93.830065542051
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (PRP we)) (VP (VBP live) (PP (RB right) (PP (IN outside) (NP (DT the) (NN city)))))))
+-30.717452300272 -90.275015240938
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (ADJP (RB right)) (PP (IN outside) (NP (DT the) (NN city)))))))
+-30.758973929434 -88.459213063855
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (JJ right)) (IN outside) (NP (DT the) (NN city)))))))
+-30.774246488564 -92.795474866268
+(S1 (FRAG (CC and) (INTJ (UH uh)) (FRAG (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB right)) (IN outside) (NP (DT the) (NN city))))))))
+-30.998184260206 -90.007665993285
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (NN right)) (IN outside) (NP (DT the) (NN city)))))))
+-31.047891133482 -94.204644469072
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (PP (RB right) (PP (IN outside) (NP (DT the) (NN city)))))))))
+-31.729325290458 -93.310858737271
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (PRP we)) (VP (VBP live) (PP (JJ right) (IN outside) (NP (DT the) (NN city)))))))
+-31.788352826072 -94.578229900503
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (PRP we)) (VP (VBP live) (PP (ADVP (JJ right)) (IN outside) (NP (DT the) (NN city))))))
+

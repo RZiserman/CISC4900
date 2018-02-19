@@ -1,0 +1,102 @@
+50 x
+-15.579018147562 -58.408972837507
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids)))))
+-17.723971384752 -62.476545329722
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids))))))
+-18.267505302406 -64.879492870749
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids)))))))
+-19.655340101610 -72.016418011910
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (VP (NP (JJ wonderful) (NNS kids))))))
+-19.827090248983 -66.410024418343
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (VP (JJ wonderful) (NP (NNS kids))))))
+-20.179514442147 -63.206745172124
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids))))))
+-20.233866356438 -66.876190962227
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids)))))))
+-20.696408937167 -65.332017391815
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ wonderful)) (NNS kids)))))
+-21.107890274461 -71.678029267996
+(S1 (FRAG (S (CC But) (NP (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids))))))
+-21.375743193382 -68.823563162773
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful)) (NP (NNS kids)))))
+-21.947702390346 -76.083990380010
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (VP (NP (JJ wonderful) (NNS kids)))))))
+-22.077623587719 -70.477596786443
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (VP (JJ wonderful) (NP (NNS kids)))))))
+-22.192220156403 -72.149125545099
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful) (NP (NNS kids))))))
+-22.275008429289 -69.855051362734
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (S (NP (JJ wonderful) (NNS kids))))))
+-22.598030694357 -69.399589884030
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ wonderful)) (NNS kids))))))
+-22.644373572527 -75.852417754006
+(S1 (FRAG (S (CC But) (S (NP (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids)))))))
+-22.744657262929 -73.795367376384
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (SBAR (S (NP (JJ wonderful) (NNS kids)))))))
+-22.761733841665 -78.486938030087
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (NP (JJ wonderful) (NNS kids))))))))
+-22.887001608039 -72.880544436520
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (JJ wonderful) (NP (NNS kids))))))))
+-23.141564614798 -71.802537425057
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ wonderful)) (NNS kids)))))))
+-23.643519878664 -80.060729353527
+(S1 (S (NP (CC But) (PRP they)) (VP (VBP are) (NP (JJ wonderful) (NNS kids)))))
+-23.725914577118 -72.891135531216
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful)) (NP (NNS kids))))))
+-24.219855426408 -75.294083044488
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful)) (NP (NNS kids)))))))
+-24.384414832927 -76.216697931253
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful) (NP (NNS kids)))))))
+-24.392997359590 -76.814190183611
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (VP (NP (JJ wonderful) (NNS kids)))))))
+-24.542792483026 -73.922623730982
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (S (NP (JJ wonderful) (NNS kids)))))))
+-24.560009568964 -71.207796590044
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (VP (JJ wonderful) (NP (NNS kids)))))))
+-24.725318809574 -79.861944186487
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (VP (NP (ADJP (JJ wonderful)) (NNS kids))))))
+-24.758738732071 -74.877242527998
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (JJ wonderful) (NP (NNS kids))))))))
+-24.812035727974 -78.619645636990
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful) (NP (NNS kids))))))))
+-25.010856708270 -71.822545068246
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (S (ADJP (JJ wonderful)) (NP (NNS kids))))))
+-25.107118355209 -77.862939955407
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (SBAR (S (NP (JJ wonderful) (NNS kids))))))))
+-25.107925668830 -73.799235516535
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ wonderful)) (NNS kids)))))))
+-25.181598659708 -76.325571414178
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (S (NP (JJ wonderful) (NNS kids))))))))
+-25.296905234540 -70.129789726432
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ wonderful)) (NNS kids))))))
+-25.448509336277 -79.679080685916
+(S1 (FRAG (S (CC But) (NP (PRP they)) (VP (VBP are) (VP (JJ wonderful) (NP (NNS kids)))))))
+-25.516872436709 -78.161335206297
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (S (VP (JJ wonderful) (NP (NNS kids)))))))
+-25.638912903528 -80.265887612449
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (SBAR (S (NP (JJ wonderful) (NNS kids)))))))))
+-25.842041006330 -73.621335524642
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful)) (NP (NNS kids))))))
+-26.044422161177 -76.463094035825
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (SBAR (S (ADJP (JJ wonderful)) (NP (NNS kids)))))))
+-26.223463013228 -77.290781135966
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful)) (NP (NNS kids)))))))
+-26.225281064066 -78.601073822304
+(S1 (FRAG (S (CC But) (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ wonderful)) (NNS kids))))))
+-26.652898712625 -76.946897850465
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ wonderful) (NP (NNS kids)))))))
+-26.891311391389 -74.652823757411
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (S (NP (JJ wonderful) (NNS kids)))))))
+-27.256898392006 -75.890117436494
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP are) (S (ADJP (JJ wonderful)) (NP (NNS kids)))))))
+-27.285968696528 -78.322269505656
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (S (NP (JJ wonderful) (NNS kids))))))))
+-27.451282515697 -78.593139557136
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (SBAR (S (NP (JJ wonderful) (NNS kids))))))))
+-27.717554500884 -78.371756772990
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (S (NP (ADJP (JJ wonderful)) (NNS kids))))))
+-27.890802798688 -78.293065119691
+(S1 (S (CC But) (SBAR (S (NP (PRP they)) (VP (VBP are) (S (ADJP (JJ wonderful)) (NP (NNS kids))))))))
+-29.622257897581 -76.620317462923
+(S1 (FRAG (CC But) (S (NP (PRP they)) (VP (VBP are) (S (ADJP (JJ wonderful)) (NP (NNS kids)))))))
+

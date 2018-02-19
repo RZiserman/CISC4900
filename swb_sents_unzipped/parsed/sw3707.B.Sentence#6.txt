@@ -1,0 +1,102 @@
+50 x
+-24.218388946141 -77.509474427428
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))
+-24.287932101539 -78.188429549705
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))
+-25.344466081477 -80.350498069956
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CC and) (CD three) (NNS cats))))))
+-26.412284364659 -79.672006521409
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-26.480775261903 -81.049671842680
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (CD two) (CC and) (CD three) (NNS cats))))))
+-26.661832810058 -80.350961643685
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-27.220380875424 -82.499758314974
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-27.470630711344 -89.221522111781
+(S1 (S (RB Right) (ADVP (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))
+-27.538361499995 -82.513030163937
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CC and) (CD three) (NNS cats)))))))
+-27.540173866742 -89.900477234058
+(S1 (S (RB Right) (ADVP (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))
+-27.849747427833 -87.254386229396
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (CD two) (CC and) (CD three)) (NNS cats))))))
+-28.116448566469 -87.608778826293
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (CD two) (CC and) (CD three)) (NNS cats))))))
+-28.488691499482 -84.333214197888
+(S1 (ADVP (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-28.610826041372 -91.241544023358
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (CD two)) (CC and) (NP (CD three) (NNS cats)))))))
+-28.663474620334 -85.818370751082
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (S (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-28.738239944880 -85.012169320165
+(S1 (ADVP (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-28.854675973209 -83.212203936660
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (CD two) (CC and) (CD three) (NNS cats)))))))
+-29.026605482679 -85.392591272482
+(S1 (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-29.127342005788 -85.583032946689
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (CD two) (CC and) (CD three) (NNS cats)))))))
+-29.258263538078 -86.071546394758
+(S1 (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-29.268047371755 -90.013924052115
+(S1 (SBAR (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-29.517595817153 -90.692879174391
+(S1 (SBAR (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-29.546413986729 -84.662290408955
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-29.607872011411 -88.901645382797
+(S1 (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (S (NP (CD two) (CC and) (CD three) (NNS cats)))))))
+-29.614768634817 -87.174237840416
+(S1 (ADVP (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CC and) (CD three) (NNS cats))))))))
+-29.690554275908 -89.696950462416
+(S1 (FRAG (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-29.760097431307 -90.375905584693
+(S1 (FRAG (S (ADVP (RB Right) (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-29.848963758860 -88.519465164884
+(S1 (FRAG (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-30.098512207046 -89.198420287161
+(S1 (FRAG (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-30.152682620803 -88.233614915010
+(S1 (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CC and) (CD three) (NNS cats))))))))
+-30.206202933140 -89.290525703262
+(S1 (ADVP (RB Right) (RB now) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-30.223648136351 -89.416918323377
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-30.275746091327 -89.969480825539
+(S1 (ADVP (RB Right) (RB now) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-30.310343984987 -89.771310920273
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (CD two) (CC and) (CD three)) (NNS cats)))))))
+-30.822253324250 -88.926904655577
+(S1 (ADJP (RB Right) (SBAR (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-30.931083105244 -87.873411613139
+(S1 (ADVP (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (CD two) (CC and) (CD three) (NNS cats))))))))
+-30.969717452727 -87.942367478051
+(S1 (FRAG (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))))
+-30.975040896983 -91.360488807412
+(S1 (FRAG (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CC and) (CD three) (NNS cats))))))))
+-30.985116611640 -87.980902845062
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (S (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-31.053911379649 -89.605859777853
+(S1 (ADJP (RB Right) (SBAR (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-31.169109921955 -91.047642151195
+(S1 (ADJP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-31.201375508125 -88.621322600327
+(S1 (FRAG (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))))
+-31.396027605331 -90.943203838249
+(S1 (FRAG (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats))))))))
+-31.451106701230 -88.932788687733
+(S1 (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (CD two) (CC and) (CD three) (NNS cats))))))))
+-31.453375114306 -87.745565040670
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (CD two) (CC and) (CD three) (NNS cats))))))))
+-31.471507597099 -91.135735068615
+(S1 (FRAG (ADVP (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))))
+-31.622821121552 -89.323498085434
+(S1 (ADVP (ADVP (RB Right) (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))))
+-31.929514002717 -91.064177476777
+(S1 (S (ADVP (RB Right) (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (S (NP (CD two) (CC and) (CD three) (NNS cats))))))))
+-32.095794588062 -90.783391120579
+(S1 (FRAG (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CC and) (CD three) (NNS cats)))))))))
+-32.188061494750 -90.382875160028
+(S1 (ADVP (RB Right) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (QP (CD two) (CC and) (CD three)) (NNS cats)))))))))
+

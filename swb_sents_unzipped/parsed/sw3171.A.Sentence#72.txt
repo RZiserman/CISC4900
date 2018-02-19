@@ -1,0 +1,102 @@
+50 x
+-25.215311488221 -83.866295969274
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))
+-26.290800339266 -91.186857436480
+(S1 (SBAR (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-26.795693601161 -88.080074066824
+(S1 (S (IN once) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))
+-26.842245061520 -86.485999405798
+(S1 (S (RB once) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))
+-27.267751709849 -86.273044348591
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))
+-27.515164810497 -88.508630055255
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-27.754125635224 -91.324493512120
+(S1 (FRAG (SBAR (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))))
+-27.842298031808 -92.768915799660
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-28.023607606804 -93.593605728511
+(S1 (SBAR (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-28.031900285899 -93.405564615049
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (S (VP (TO to) (VP (NNP Colorado) (PP (TO to) (NP (NNP Denver)))))))))
+-28.226574823110 -89.022874932951
+(S1 (S (ADVP (RB once)) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-28.471054127452 -95.829191435176
+(S1 (SBAR (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))))
+-28.848133822789 -90.486822446141
+(S1 (S (IN once) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))
+-28.894685283148 -88.892747785115
+(S1 (S (RB once) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))
+-29.095546920649 -92.722408152805
+(S1 (S (IN once) (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-29.132798306887 -91.516196984954
+(S1 (S (INTJ (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))
+-29.139291480097 -93.718654627621
+(S1 (S (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-29.142098381009 -91.128333491779
+(S1 (S (RB once) (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-29.280339755018 -90.221322175895
+(S1 (S (RB once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-29.422680144748 -96.982693897210
+(S1 (S (IN once) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-29.469231605108 -95.388619236184
+(S1 (S (RB once) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-29.486932902762 -93.731241804151
+(S1 (FRAG (SBAR (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))))
+-29.658833856411 -96.025268051573
+(S1 (S (RB once) (NP (PRP we)) (VP (VBD flew) (S (VP (TO to) (VP (NNP Colorado) (PP (TO to) (NP (NNP Denver)))))))))
+-29.687515308664 -95.385406496620
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)))) (PP (TO to) (NP (NNP Denver))))))
+-29.728876574120 -97.374952400820
+(S1 (SBAR (RB once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-29.770272103583 -97.135012789448
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)))) (PP (TO to) (NP (NNP Denver)))))
+-29.778558179157 -96.394535577836
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (S (VP (TO to) (VP (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))))
+-29.934379423410 -95.966827510816
+(S1 (FRAG (SBAR (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))))
+-29.945000122862 -93.784524114371
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (TO to) (NP (NNP Denver))))))
+-29.959382107375 -91.429623282849
+(S1 (S (ADVP (RB once)) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-30.081266364026 -94.986621598298
+(S1 (FRAG (ADVP (RB once)) (SBAR (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))))
+-30.103108239720 -95.714844208445
+(S1 (S (ADVP (IN once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))
+-30.154173276171 -94.024089950607
+(S1 (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NP (NNP Colorado)) (TO to) (NP (NNP Denver)))))))
+-30.392390155256 -95.148824355793
+(S1 (FRAG (RB once) (SBAR (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))))
+-30.398971217627 -94.884191458828
+(S1 (FRAG (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-30.406828628023 -93.665208989513
+(S1 (S (ADVP (RB once)) (S (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))))
+-30.764226633423 -95.008686144692
+(S1 (ADJP (RB once) (SBAR (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))))
+-30.872098764361 -96.125402977519
+(S1 (S (IN once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-30.876090827953 -97.268339757569
+(S1 (S (NP (RB once) (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))
+-30.996175988990 -96.223434574817
+(S1 (S (ADJP (RB once) (SBAR (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))))
+-31.013147039283 -92.628070525793
+(S1 (S (RB once) (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-31.185238528516 -93.922945364271
+(S1 (S (INTJ (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))
+-31.432651629164 -96.158531070936
+(S1 (S (INTJ (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))
+-31.460593557143 -94.863656232457
+(S1 (S (RB once) (S (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver))))))))
+-31.571933696161 -96.404227550895
+(S1 (S (RB once) (NP (PRP we)) (VP (VBD flew) (PP (PP (TO to) (NP (NNP Colorado))) (TO to) (NP (NNP Denver))))))
+-31.781106849471 -96.643793387131
+(S1 (S (RB once) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NP (NNP Colorado)) (TO to) (NP (NNP Denver)))))))
+-31.814073631564 -97.393369890329
+(S1 (FRAG (ADVP (RB once)) (SBAR (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))))
+-32.348461524017 -96.673882046395
+(S1 (FRAG (ADJP (RB once) (SBAR (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado))) (PP (TO to) (NP (NNP Denver)))))))))
+-32.451411433680 -97.290939818270
+(S1 (FRAG (S (ADVP (RB once)) (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver))))))))
+-32.477507703749 -97.415434436723
+(S1 (ADJP (RB once) (SBAR (S (NP (PRP we)) (VP (VBD flew) (PP (TO to) (NP (NNP Colorado)) (PP (TO to) (NP (NNP Denver)))))))))
+

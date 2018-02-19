@@ -1,0 +1,102 @@
+50 x
+-21.775843253542 -70.535812658696
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-22.118878925448 -76.697831824893
+(S1 (NP (UH Oh) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.254944737379 -83.775020412786
+(S1 (NP (UH Oh) (SBAR (IN that) (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.322073405190 -75.696814753380
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.447955365703 -78.979110891067
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.524904640575 -75.852071108790
+(S1 (FRAG (INTJ (UH Oh)) (IN that) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.712784337274 -78.790745635685
+(S1 (NP (INTJ (UH Oh)) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.740921508664 -77.507524191376
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.774412612350 -75.674200864050
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.912305365600 -83.103193526161
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-23.968807921233 -77.129707590102
+(S1 (S (INTJ (UH Oh)) (IN that) (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))
+-24.574316817702 -79.600438002168
+(S1 (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-24.627384597915 -74.087978115772
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))
+-24.762241487634 -83.044151155015
+(S1 (INTJ (UH Oh) (PP (IN that) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))))
+-24.921193899264 -76.543959981669
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-24.925799127534 -82.240057628491
+(S1 (FRAG (NP (UH Oh) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))))
+-25.038322912184 -82.454415414305
+(S1 (INTJ (UH Oh) (PP (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.059824936081 -81.515575203416
+(S1 (FRAG (INTJ (UH Oh)) (PP (IN that) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))))
+-25.135056675937 -76.670756891581
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.160695002836 -83.817079253548
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.440488439014 -78.130611703593
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.452026984257 -81.939131365581
+(S1 (FRAG (INTJ (UH Oh)) (IN that) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.478092350631 -82.832776057778
+(S1 (NP (UH Oh) (SBAR (IN that) (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.537760255158 -77.816066214442
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.605688554361 -80.705819364135
+(S1 (FRAG (NP (UH Oh)) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.608928345438 -79.681189325405
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.730859148393 -80.529332930345
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (SBAR (IN that) (S (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.796600309733 -81.761261120842
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.877205510965 -81.317331557875
+(S1 (FRAG (INTJ (UH Oh)) (FRAG (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))))
+-25.886400541397 -82.422090833241
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.910665006792 -82.394749723235
+(S1 (FRAG (INTJ (UH Oh)) (PP (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.912697859723 -81.801331835034
+(S1 (FRAG (INTJ (UH Oh)) (IN that) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-25.936773953482 -79.361263155587
+(S1 (FRAG (INTJ (UH Oh)) (IN that) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-26.402850755547 -83.805271960499
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-26.515681329401 -80.900217692459
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (WHNP (WDT that)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-26.547841707962 -83.049749994974
+(S1 (FRAG (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))))
+-26.705315630373 -81.831758986265
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (IN that) (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-26.718662458009 -83.460200320642
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (NP (WDT that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-27.042352419593 -82.977068309126
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (IN that) (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-27.100631167188 -83.878670687414
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (SBAR (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-27.299221748540 -83.157999225773
+(S1 (S (INTJ (UH Oh)) (IN that) (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))
+-27.366593087394 -83.443105817247
+(S1 (S (INTJ (UH Oh)) (IN that) (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))
+-27.431946964059 -83.642468424261
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-28.079854829946 -79.998941243462
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ remarkable)) (NN number)))))))
+-28.376945934131 -83.124169267579
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-28.456815472668 -83.824213537415
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-28.468612145439 -81.786925297492
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))
+-28.596853777867 -80.809468246831
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number))))))
+-28.612219354660 -82.678904214554
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ remarkable) (NN number)))))))
+-30.969647584319 -83.551106700537
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ remarkable)) (NN number))))))
+

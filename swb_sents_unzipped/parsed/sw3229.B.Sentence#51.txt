@@ -1,0 +1,102 @@
+50 x
+-15.827457757726 -55.888921600260
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing)))))
+-17.007792018825 -60.007931021168
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing)))))
+-17.175824052972 -56.611446874989
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-18.484804194599 -57.991086158067
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-18.768891283230 -60.658414385819
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing)))))))
+-18.920134719104 -61.018043243353
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing)))))))
+-19.207699840913 -64.820668540479
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-19.321782865891 -61.669182894801
+(S1 (X (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-19.888535338016 -67.786226847331
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NNP delicious) (NN thing)))))
+-20.133660347365 -65.667657847857
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-20.699403784108 -67.809697698928
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing)))))))
+-20.794373437082 -67.319202385335
+(S1 (X (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-20.813302614084 -71.507632196494
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NNP delicious) (NN thing)))))
+-20.903845624770 -67.168298961741
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-21.360389392772 -67.844097323153
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing)))))
+-21.382119653262 -68.508752122060
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NNP delicious) (NN thing))))))
+-21.532488302957 -72.162861865112
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing)))))))
+-21.621348936356 -63.364975629262
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing)))))
+-21.714892151075 -69.740726719820
+(S1 (FRAG (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing)))))))
+-21.878358236598 -69.105468472466
+(S1 (S (NP (CC and) (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing)))))
+-22.540704849590 -74.903298775561
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (S (NP (DT a) (JJ delicious) (NN thing))))))
+-22.628426794888 -69.888391405138
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NNP delicious) (NN thing))))))
+-22.630498943557 -75.815520924374
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (S (NP (DT a) (JJ delicious) (NN thing))))))
+-22.699748100732 -72.555719632890
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NNP delicious) (NN thing)))))))
+-22.797447749182 -75.519828680938
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-22.857218040746 -67.867180883770
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing)))))
+-22.925541721809 -72.992652898063
+(S1 (S (NP (CC and) (PRP it)) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing)))))
+-22.931463821601 -64.087500903991
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))))
+-23.119259719394 -72.915348490423
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NNP delicious) (NN thing)))))))
+-23.158428456172 -76.320369715805
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NNP delicious) (NN thing))))))
+-23.340672201181 -73.566488141871
+(S1 (X (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NNP delicious) (NN thing))))))
+-23.344050343851 -73.547849589340
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (POS 's) (NP (DT a) (JJ delicious) (NN thing)))))
+-23.587673051249 -72.852552128683
+(S1 (S (CC and) (NP (PRP it) (VBZ 's)) (NP (DT a) (JJ delicious) (NN thing))))
+-23.793249769288 -76.538046115225
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (NP (DT a) (JJ delicious) (NN thing)))))))
+-23.879880576561 -75.982224932178
+(S1 (FRAG (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing))))))))
+-24.278695373228 -65.467140187069
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))))
+-24.524531049071 -68.134468414821
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing)))))))
+-24.675774487733 -68.494097272355
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing)))))))
+-24.877376685242 -73.334399305771
+(S1 (FRAG (S (NP (CC and) (NP (PRP it))) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-25.018874452834 -72.679918403081
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))))
+-25.115674044521 -69.145236923803
+(S1 (X (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))))
+-25.395345529068 -74.595770455085
+(S1 (FRAG (S (NP (CC and) (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ delicious) (NN thing))))))
+-25.628219293179 -75.466638508877
+(S1 (X (CC and) (NP (PRP it) (VBZ 's)) (NP (DT a) (JJ delicious) (NN thing))))
+-25.927551525995 -73.143711876859
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))))
+-26.510578396029 -75.668947561530
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing)))))))
+-26.643799459003 -75.178452247937
+(S1 (X (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))))
+-26.753271646691 -75.027548824343
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))))
+-27.154280571402 -75.320151352155
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing)))))
+-27.672249415228 -76.581522501469
+(S1 (S (NP (CC and) (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ delicious)) (NN thing)))))
+-28.458003882694 -77.117842021582
+(S1 (S (CC and) (NP (PRP it) (VBZ 's)) (NP (DT a) (ADJP (JJ delicious)) (NN thing))))
+

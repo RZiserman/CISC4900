@@ -1,0 +1,102 @@
+50 x
+-11.911470868497 -37.361462824522
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (ADJP (JJ right)))))
+-12.402476333060 -44.200686112805
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (ADVP (RB right)))))
+-13.697163599450 -38.835799140500
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ right))))))
+-13.769118994135 -45.675022331296
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB right))))))
+-14.009377608088 -45.159577160824
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (NP (NN right)))))
+-14.404505394393 -42.690350616735
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (ADJP (RB right)))))
+-14.608136597908 -47.143566661381
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (RB right))))
+-14.739167569266 -43.132427707061
+(S1 (S (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ right)))))))
+-14.746113968086 -37.515932282951
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ right))))))
+-14.760656222314 -49.971650931758
+(S1 (S (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB right)))))))
+-15.172902641343 -46.633913558656
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (NP (NN right))))))
+-15.181612848799 -51.328343494192
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (VP (ADVP (RB right))))))
+-15.287519819012 -44.355155595820
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB right))))))
+-15.637470095506 -43.310253641843
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ right)))))))
+-15.846649451342 -50.149476866540
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB right)))))))
+-15.891150102558 -44.164686932712
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB right))))))
+-15.948206412742 -48.617902754837
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (RB right)))))
+-16.187065669080 -48.998151449720
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (VP (JJ right)))))
+-16.388850315584 -50.930542106964
+(S1 (S (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (NN right)))))))
+-16.512575506642 -48.892630757365
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (NP (JJ right)))))
+-16.621306509860 -49.113131810731
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (NP (RB right)))))
+-16.657266922767 -45.314046707666
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (NP (NN right))))))
+-16.712858975798 -52.196665028518
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (ADVP (NN right)))))
+-16.765921103223 -49.953725776381
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (ADVP (JJ right)))))
+-16.844803232375 -48.461315499274
+(S1 (S (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB right)))))))
+-17.031241361977 -52.751853496723
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (S (ADVP (RB right))))))
+-17.064695443982 -42.844820075163
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB right))))))
+-17.143418079610 -48.921152492278
+(S1 (FRAG (S (CC And) (NP (PRP you)) (VP (VBP 're) (ADJP (JJ right))))))
+-17.319687553656 -50.386059253450
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (S (ADJP (JJ right))))))
+-17.326699041823 -51.108368041746
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (NN right)))))))
+-17.337535384819 -48.662616605861
+(S1 (S (CC And) (NP (PRP you)) (VP (VBP 're) (S (ADJP (RB right))))))
+-17.371622614954 -47.298035914287
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (RB right)))))
+-17.792431253701 -50.472487547775
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (VP (JJ right))))))
+-17.861450558614 -48.639141434055
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB right)))))))
+-17.938954453116 -50.587468208563
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (NP (RB right))))))
+-18.028244797722 -51.482812839141
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (VP (ADVP (RB right)))))))
+-18.129271469898 -50.366967155197
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (NP (JJ right))))))
+-18.389273989529 -52.507711774098
+(S1 (S (NP (CC And) (PRP you)) (VP (VBP 're) (ADJP (JJ right)))))
+-18.431611781510 -51.428061994873
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADVP (JJ right))))))
+-18.558827061212 -52.104884021941
+(S1 (S (NP (CC And) (NP (PRP you))) (VP (VBP 're) (ADJP (JJ right)))))
+-18.619274778560 -50.136952935907
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (S (ADJP (RB right)))))))
+-18.900474967397 -51.860395583496
+(S1 (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (S (ADJP (JJ right)))))))
+-18.938040102496 -52.737484766115
+(S1 (FRAG (S (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ right)))))))
+-19.214652855215 -49.152620794669
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (VP (JJ right))))))
+-19.405478954539 -49.267601357573
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (NP (RB right))))))
+-19.461619328963 -52.351134511533
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADVP (NN right))))))
+-19.471200998534 -49.047100304208
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (NP (JJ right))))))
+-19.825417636388 -50.108195259396
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (ADVP (JJ right))))))
+-20.133270631743 -48.817085963124
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (S (ADJP (RB right)))))))
+-20.289875853367 -50.540528610713
+(S1 (FRAG (CC And) (S (NP (PRP you)) (VP (VBP 're) (S (ADJP (JJ right)))))))
+

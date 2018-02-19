@@ -1,0 +1,102 @@
+50 x
+-31.278839083849 -98.689159193006
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-32.272372269396 -102.751398321570
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (NP (QP (RB about) (CD two)) (NNS years)))))))
+-33.366779567899 -98.839504441927
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-33.380223079469 -104.589185317998
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (NP (IN about) (CD two) (NNS years)))))))
+-33.553152214011 -97.752569953720
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (VBN married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-33.871645837907 -101.756798698456
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years)))))))
+-33.977687226289 -102.080411025344
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years))))))))
+-33.988628007090 -101.497084318120
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (JJ married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-34.301216961436 -108.713704005218
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBD married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-34.354667351965 -105.726327373227
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (NP (VBN married) (QP (RB about) (CD two)) (NNS years))))))
+-34.516362658891 -107.221048966216
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (NP (JJ married) (QP (RB about) (CD two)) (NNS years))))))
+-34.717726616643 -106.635346517200
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (NP (QP (IN about) (CD two)) (NNS years)))))))
+-34.921294626840 -104.084907563750
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-34.988405079618 -106.907543949709
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (PRT (RP about)) (NP (CD two) (NNS years)))))))
+-35.027076564557 -104.768475392092
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (S (VP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-35.570145171360 -104.704460010373
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-35.654428567841 -108.769644680235
+(S1 (S (NP (PRP$ my) (NN wife) (CC and) (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-35.751418941038 -107.059023945875
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (PP (RB about) (NP (CD two) (NNS years))))))))
+-35.817396312874 -107.628380254363
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (PP (RP about) (NP (CD two) (NNS years))))))))
+-35.909798689599 -108.147146692313
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (NP (QP (RB about) (CD two)) (NNS years))))))))
+-36.180040396602 -102.408012282988
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (S (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-36.272204482740 -103.770871424459
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years))))))))
+-36.309645577183 -108.693869385707
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (S (VP (VBN married) (NP (QP (RB about) (CD two)) (NNS years))))))))
+-36.370131535362 -104.301361777538
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (VBN married)) (PP (IN about) (NP (CD two) (NNS years)))))))
+-36.534378253567 -108.708492538137
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VBP 've) (VP (ADVP (RB just)) (VBN been) (S (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-36.558649234119 -108.766699138937
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN married) (NP (QP (RB about) (CD two)) (NNS years))))))))
+-36.727881171956 -106.966502086453
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (PP (VBN married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-36.740489150243 -108.910045063091
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VBP 've) (VP (ADVP (RB just)) (VBN been) (PP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))
+-37.093305861111 -107.152547069199
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years))))))))
+-37.111093881719 -108.157462860419
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (RB just) (VP (VBN been) (ADJP (VBN married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-37.116004772402 -105.947776142726
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (NP (NP (JJ married)) (PP (IN about) (NP (CD two) (NNS years))))))))
+-37.142368399951 -104.235252812671
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-37.143119195943 -106.504000798183
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (S (ADJP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-37.164997562212 -108.890602258680
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (VP (ADVP (RB just)) (VBN been) (S (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-37.328741043276 -103.148318324464
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-37.615113646493 -107.476159396088
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-37.626054427293 -106.892832688863
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (JJ married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-37.707578054462 -107.274443741324
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (ADJP (VBN married)) (PP (IN about) (NP (CD two) (NNS years))))))))
+-37.742369037952 -108.919989929156
+(S1 (S (NP (PRP$ my) (NN wife) (CC and) (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-37.767897761631 -107.772099515823
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years))))))))
+-37.816960328349 -104.854805259294
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-37.928741681276 -107.833055440949
+(S1 (S (NP (PRP$ my) (NN wife) (CC and) (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (VBN married) (PP (IN about) (NP (CD two) (NNS years))))))))
+-38.003332971673 -103.767870771088
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-38.178156946366 -108.998492119315
+(S1 (S (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been)))) (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years))))))
+-38.226076414472 -107.907297517690
+(S1 (S (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (S (ADJP (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-38.263964191012 -108.095711842712
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (ADJP (JJ married)) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-38.274904971813 -107.512385135487
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (JJ married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-39.194416288439 -108.362670969222
+(S1 (NP (PRP$ my) (NN wife) (S (CC and) (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (ADJP (VBN married) (PP (IN about) (NP (CD two) (NNS years)))))))))
+-40.015334416805 -107.803760653731
+(S1 (S (S (NP (PRP$ my) (NN wife))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (S (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years))))))))))
+-40.689926317325 -108.423313100355
+(S1 (NP (NP (PRP$ my) (NN wife)) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (S (ADJP (JJ married) (PP (IN about) (NP (CD two) (NNS years))))))))))
+

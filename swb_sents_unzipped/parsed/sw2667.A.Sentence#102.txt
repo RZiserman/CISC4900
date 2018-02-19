@@ -1,0 +1,102 @@
+50 x
+-22.766377542506 -81.668761239120
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-23.536050888163 -81.107089940311
+(S1 (S (RB well) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-23.622524185187 -85.512254536396
+(S1 (S (RB well) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-24.280753109770 -88.835233258516
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-24.421707857508 -87.372231998330
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBP got) (PP (IN over) (NP (DT the) (NN flu))))))
+-24.441209478292 -87.108540942977
+(S1 (SBAR (RB well) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-24.504181122870 -84.351829412817
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-24.761768549469 -83.092728506791
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-24.833112159961 -86.536819184312
+(S1 (S (ADVP (RB well)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-25.088652997303 -84.335084420416
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-25.115614123801 -85.896239945074
+(S1 (FRAG (RB well) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))))
+-25.116388362302 -85.456596461237
+(S1 (S (NP (RB well) (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-25.211151060151 -85.268126146759
+(S1 (S (RB well) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-25.402317472221 -87.161353115233
+(S1 (S (ADJP (RB well) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu)))))))))
+-25.439791317034 -87.469899707925
+(S1 (S (ADVP (RB well)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-25.496179832521 -86.895090625195
+(S1 (S (RB well) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-25.500945311017 -85.946604717732
+(S1 (ADJP (RB well) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))))
+-25.592132226584 -86.633333334561
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PP (IN over) (NP (DT the) (NN flu))))))
+-25.655826185374 -87.984980843965
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBP got) (PP (IN over) (NP (DT the) (NN flu))))))
+-25.814443810078 -85.545963724606
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PP (IN over) (NP (DT the) (NN flu))))))
+-25.831987836495 -88.128629390856
+(S1 (FRAG (S (INTJ (UH well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-25.884473248910 -86.097030364003
+(S1 (S (RB well) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PP (IN over) (NP (DT the) (NN flu))))))
+-25.906136136719 -83.773412993176
+(S1 (S (RB well) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PRT (RP over)) (NP (DT the) (NN flu))))))
+-25.923799784880 -88.439643982401
+(S1 (FRAG (ADVP (RB well)) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))))
+-25.944799639984 -88.178577717692
+(S1 (S (RB well) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-25.978190251096 -87.747057888031
+(S1 (FRAG (SBAR (RB well) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))))
+-26.005722367512 -83.206157143393
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-26.403925929834 -85.775796680487
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-26.455104878194 -85.381554783361
+(S1 (S (RB well) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-26.609354414150 -88.405736465242
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (ADVP (RB over)) (NP (DT the) (NN flu)))))
+-26.758665410451 -87.552198137117
+(S1 (S (RB well) (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-26.826456577668 -87.018152594113
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-26.845550228823 -87.611800619435
+(S1 (FRAG (ADJP (RB well) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu)))))))))
+-26.952915940732 -86.158712570241
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PP (IN over) (NP (DT the) (NN flu))))))
+-27.275320059265 -88.640593869603
+(S1 (S (INTJ (UH well)) (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD got) (PP (IN over) (NP (DT the) (NN flu))))))
+-27.386673903566 -87.844065035094
+(S1 (S (RB well) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (ADVP (RB over)) (NP (DT the) (NN flu))))))
+-27.438663817100 -88.122919642532
+(S1 (S (NP (RB well) (PRP I)) (ADVP (RB just)) (VP (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-27.470850646476 -88.562563231303
+(S1 (FRAG (RB well) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))))
+-27.635631521723 -88.876088985360
+(S1 (S (RB well) (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PP (IN over) (NP (DT the) (NN flu)))))))
+-27.647879750664 -85.889225317089
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-27.856181833692 -88.612928003961
+(S1 (ADJP (RB well) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (PRT (RP over)) (NP (DT the) (NN flu)))))))
+-27.930115776162 -87.665626546420
+(S1 (S (RB well) (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PRT (RP over)) (NP (DT the) (NN flu))))))
+-27.945444656030 -88.620354926417
+(S1 (S (RB well) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD got) (NP (IN over) (DT the) (NN flu))))))
+-27.997673384014 -88.986302021514
+(S1 (S (ADVP (RB well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-28.164549949651 -88.129521171059
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (NP (IN over) (DT the) (NN flu)))))
+-28.219984967507 -87.898932411559
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-28.290014406340 -88.449999050957
+(S1 (S (RB well) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+-28.371106446586 -88.604173635931
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (NP (RB over) (DT the) (NN flu)))))
+-28.717919713983 -89.052578540928
+(S1 (S (INTJ (UH well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBD got) (PRT (IN over)) (NP (DT the) (NN flu)))))
+-29.358457098162 -88.511681257195
+(S1 (S (INTJ (RB well)) (NP (PRP I)) (VP (ADVP (RB just)) (VBP got) (PRT (RP over)) (NP (DT the) (NN flu)))))
+

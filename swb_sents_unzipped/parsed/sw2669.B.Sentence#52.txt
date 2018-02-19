@@ -1,0 +1,102 @@
+50 x
+-28.068603131467 -87.136305757231
+(S1 (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-29.398766640151 -92.321501757643
+(S1 (S (ADVP (RB somewhere)) (PP (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-29.520544977274 -96.557587309204
+(S1 (FRAG (ADVP (RB somewhere) (RB down)) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))
+-29.617907320807 -98.340377209104
+(S1 (PP (ADVP (RB somewhere)) (IN down) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))
+-29.650600446397 -92.675061097891
+(S1 (S (PP (RB somewhere) (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-29.797510385833 -97.793835006355
+(S1 (PP (RB somewhere) (IN down) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))
+-29.979789592711 -91.573728817919
+(S1 (S (ADVP (RB somewhere)) (PP (IN down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-29.999225050618 -97.210743125854
+(S1 (FRAG (RB somewhere) (PP (IN down) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))))))
+-30.136462125668 -95.847180778454
+(S1 (S (PP (ADVP (RB somewhere)) (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-30.352060229642 -96.885986190097
+(S1 (PP (RB somewhere) (PP (IN down) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))))))
+-30.352591963402 -92.874285826588
+(S1 (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADVP (JJ standardized)))))
+-30.352725629988 -91.631168560945
+(S1 (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-30.455647711283 -98.419196234941
+(S1 (FRAG (PP (ADVP (RB somewhere)) (IN down) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))))))
+-30.459960908673 -95.864930983704
+(S1 (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (NP (JJ standardized)))))
+-30.590841016639 -95.679863670712
+(S1 (FRAG (RB somewhere) (RB down) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))
+-30.717527947494 -93.953917039177
+(S1 (S (ADVP (RB somewhere) (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-30.728960150547 -95.745580061711
+(S1 (FRAG (ADVP (RB somewhere) (RB down)) (NP (DT the) (NN line)) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-30.751473822931 -95.864785967768
+(S1 (S (ADVP (ADVP (RB somewhere)) (PP (IN down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-30.912218757711 -93.349479683468
+(S1 (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ standardized))))))
+-31.315439463459 -94.583917558965
+(S1 (S (ADVP (RB somewhere) (PP (RP down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-31.446043045588 -98.164824578187
+(S1 (S (RB somewhere) (PP (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-31.526198398509 -91.770086068278
+(S1 (S (ADVP (RB somewhere) (PP (RB down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-31.526519215435 -97.749084641489
+(S1 (FRAG (CONJP (RB somewhere) (RB down)) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))
+-31.664989579476 -98.216697708475
+(S1 (FRAG (ADVP (RB somewhere) (RB down)) (NP (DT the) (NN line) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))
+-31.682755472086 -98.059481826999
+(S1 (S (ADVP (RB somewhere)) (PP (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADVP (JJ standardized)))))
+-31.690037251612 -97.771975420195
+(S1 (S (ADVP (RB somewhere)) (ADVP (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-31.727309453927 -98.973215849313
+(S1 (FRAG (PP (RB somewhere) (PP (IN down) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))))
+-31.779225452077 -98.303512317509
+(S1 (S (ADVP (RB somewhere)) (ADVP (RB down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-31.901339067420 -96.850979998326
+(S1 (S (PP (RB somewhere) (IN down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-31.934589278331 -98.413041167247
+(S1 (S (PP (RB somewhere) (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADVP (JJ standardized)))))
+-32.242382266395 -98.534675683879
+(S1 (S (ADVP (RB somewhere)) (PP (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ standardized))))))
+-32.371213986767 -97.311708787584
+(S1 (S (ADVP (RB somewhere)) (PP (IN down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (ADVP (JJ standardized))))))
+-32.444543894655 -97.578741973966
+(S1 (S (PP (ADVP (RB somewhere)) (RB down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-32.494216072641 -98.888235024127
+(S1 (S (PP (RB somewhere) (IN down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ standardized))))))
+-32.624635280540 -98.180300951998
+(S1 (S (PP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-32.635220282920 -96.757415606594
+(S1 (FRAG (RB somewhere) (RB down) (NP (DT the) (NN line) (SBAR (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))))
+-32.708149425290 -99.021849644422
+(S1 (S (ADVP (RB somewhere)) (PP (RP down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-32.744150024045 -97.369148530610
+(S1 (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (S (NP (PRP they)) (VP (VBD went) (ADVP (JJ standardized))))))
+-32.790237168077 -97.786902636785
+(S1 (S (ADVP (RB somewhere)) (PP (IN down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ standardized)))))))
+-32.939889313880 -98.194805340290
+(S1 (FRAG (CONJP (RB somewhere) (RB down)) (NP (DT the) (NN line)) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-32.988494016015 -98.448779842891
+(S1 (S (ADVP (RB somewhere) (IN down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-33.012310205689 -98.728454804583
+(S1 (FRAG (PP (ADVP (RB somewhere)) (IN down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-33.099493628356 -98.466621331995
+(S1 (FRAG (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-33.111758399013 -96.498319400300
+(S1 (S (ADVP (RB somewhere)) (PP (RB down) (NP (DT the) (NN line))) (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized)))))
+-33.163173205354 -97.844342379811
+(S1 (S (ADVP (RB somewhere) (PP (IN down) (NP (DT the) (NN line)))) (S (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ standardized)))))))
+-33.289172377849 -98.274076704698
+(S1 (S (ADVP (RB somewhere)) (PP (RP down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-33.692781351572 -95.750546460576
+(S1 (S (ADVP (RB somewhere)) (PP (RB down) (NP (DT the) (NN line))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-33.810187230443 -97.508066137634
+(S1 (S (ADVP (RB somewhere) (PP (RB down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (ADVP (JJ standardized)))))
+-33.810320897030 -96.264948871992
+(S1 (S (ADVP (RB somewhere) (PP (RB down) (NP (DT the) (NN line)))) (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ standardized))))))
+-34.369814024752 -97.983259994515
+(S1 (S (ADVP (RB somewhere) (PP (RB down) (NP (DT the) (NN line)))) (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ standardized))))))
+

@@ -1,0 +1,102 @@
+50 x
+-18.464505998390 -61.484249636427
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-18.806852854326 -62.750707352370
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-20.137456915348 -66.995807245216
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-20.176295622441 -65.771543207743
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VBP know))))))
+-20.360827508485 -68.922080933863
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VB know))))))
+-20.887874225859 -66.012022716393
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-21.027115636408 -71.509025712082
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (SBAR (WHNP (JJ terrible)) (S (NP (PRP you)) (VP (VBP know)))))))
+-21.074926313492 -66.431538501128
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-21.170523909220 -64.263770503699
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-21.245953702449 -69.977515480013
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-21.507928314004 -65.530228169302
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-21.552656558534 -74.962011516462
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VB know)))))))
+-21.620218520917 -69.437565667170
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (VP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-21.724018774222 -67.501565421297
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-21.839212031309 -68.768023167217
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-21.901905817835 -74.502192604967
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (NP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-22.250529986823 -71.401869764484
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADVP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-22.340875996586 -72.745350383192
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (NP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-22.437095561873 -68.107690026275
+(S1 (FRAG (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-22.447180508141 -71.701601851301
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VB know))))))))
+-22.681335848774 -72.380341790611
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VBP know))))))
+-22.682669608472 -71.601062843587
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-22.687039903286 -70.697776667802
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (VP (JJ terrible) (S (NP (PRP you)) (VP (VBP know)))))))
+-22.688844806315 -73.013189749542
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (POS 's) (NP (NP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-22.688880809853 -72.063194060545
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (POS 's) (ADJP (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-22.702955596629 -73.726106609176
+(S1 (S (NP (PRP it)) (NP (PRP it)) (S (VP (POS 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-22.779442406658 -69.374147703702
+(S1 (FRAG (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-22.859832172097 -68.551064125181
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VBP know))))))))
+-22.989840295804 -69.143441928476
+(S1 (S (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)))) (NP (PRP you)) (VP (VBP know))))
+-23.023192511620 -73.408776560610
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (S (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-23.168655709407 -74.939396803035
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VB know)))))))
+-23.360996463363 -71.788859076915
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VBP know)))))))
+-23.369092961899 -74.149246930936
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-23.460056131779 -68.791543671914
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-23.564012865807 -75.370472229719
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (NP (JJ terrible) (S (NP (PRP you)) (VP (VBP know)))))))
+-23.704275014982 -74.986503699679
+(S1 (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible) (S (NP (PRP you)) (VP (VBP know)))))))
+-23.730108367109 -69.211059368400
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-23.730933221843 -74.288546732552
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (WHNP (JJ terrible)) (S (NP (PRP you)) (VP (VBP know)))))))))
+-23.769192413361 -74.582771078384
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-23.808170142232 -72.217086455375
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-23.921518488418 -72.029338560282
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-24.099220589909 -75.064606793562
+(S1 (FRAG (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-24.148885188712 -72.394983610841
+(S1 (FRAG (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ terrible)) (S (NP (PRP you)) (VP (VBP know)))))))
+-24.283603232112 -72.448854285998
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-24.542963793296 -75.454881333671
+(S1 (S (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (VP (JJ terrible) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-24.819864577396 -74.106610646940
+(S1 (S (S (NP (PRP it)) (NP (PRP it)) (VP (POS 's) (ADJP (JJ terrible)))) (NP (PRP you)) (VP (VBP know))))
+-24.870824736069 -72.635463173573
+(S1 (FRAG (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-25.047515876975 -73.054978890976
+(S1 (FRAG (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-25.053486444601 -73.477297456006
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (JJ terrible) (S (NP (PRP you)) (VP (VBP know)))))))))
+-25.061839058319 -74.181390726674
+(S1 (S (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (JJ terrible)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+

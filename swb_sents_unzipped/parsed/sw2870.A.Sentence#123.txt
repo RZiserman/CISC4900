@@ -1,0 +1,102 @@
+50 x
+-14.657774637968 -54.171738112037
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (NNP Carter)))))
+-15.322437192814 -56.096403917029
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (NNP Carter)))))
+-16.907264632926 -58.231374178984
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (NNP Carter))))))
+-17.340113023215 -59.523648802480
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VB remember) (NP (NNP Carter))))))
+-18.358319214159 -63.456001184019
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (NP (NNP Carter)))))))
+-18.981621547073 -61.796685284747
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (S (NP (NNP Carter))))))
+-19.763728092049 -67.815535746240
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VB remember) (NP (NNP Carter)))))))
+-19.889709640920 -60.330968775655
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (NNP Carter))))))
+-19.901279853882 -66.299338175273
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (ADVP (NNP Carter)))))
+-19.993026197289 -65.713633670603
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (S (NP (NNP Carter))))))
+-20.195379252322 -64.320206780418
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (ADJP (NNP Carter)))))
+-20.494250594095 -65.924603692542
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (NNP Carter))))))
+-20.873260062019 -66.366008830878
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (NP (NNP Carter)))))))
+-20.945377362013 -72.855589667619
+(S1 (S (CC but) (NP (NN I)) (VP (VB remember) (NP (NNP Carter)))))
+-20.959384305055 -67.897126903182
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (NNP Carter))))))
+-21.036386542077 -70.603247930288
+(S1 (S (NP (CC but) (NP (PRP I))) (VP (VBP remember) (NP (NNP Carter)))))
+-21.128680435760 -64.728010679853
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (S (ADJP (NNP Carter))))))
+-21.176669646510 -64.901506383294
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VB remember) (NP (NNP Carter))))))
+-21.195202936761 -65.856321080380
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (S (NP (NNP Carter)))))))
+-21.486700891686 -67.695568479291
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP I)) (VP (VB remember) (NP (NNP Carter)))))))
+-21.921618313491 -69.588860037599
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (ADVP (NNP Carter)))))
+-22.076681817510 -67.672929639883
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (S (ADJP (NNP Carter))))))
+-22.140912023568 -69.140878653957
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VB remember) (S (NP (NNP Carter)))))))
+-22.199764647506 -70.358974364695
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (ADVP (NNP Carter))))))
+-22.252493480370 -69.433890773128
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (ADJP (NNP Carter)))))
+-22.259102367244 -74.566983424640
+(S1 (S (NP (CC but) (NP (PRP I))) (VP (VB remember) (NP (NNP Carter)))))
+-22.453881595288 -71.313537520053
+(S1 (FRAG (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (NNP Carter)))))))
+-22.493431278651 -73.675732797774
+(S1 (S (NP (CC but) (PRP I)) (VP (VBP remember) (NP (NNP Carter)))))
+-22.552613035609 -71.553105478635
+(S1 (FRAG (S (CC but) (S (NP (PRP I)) (VP (VB remember) (NP (NNP Carter)))))))
+-22.613866023341 -68.379842800404
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (ADJP (NNP Carter))))))
+-22.743308985387 -71.080948248274
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (S (NP (NNP Carter))))))))
+-22.762591053895 -74.543981743853
+(S1 (S (CC but) (S (NP (NN I)) (VP (VB remember) (NP (NNP Carter))))))
+-22.865405275377 -75.604412140543
+(S1 (S (NP (CC but) (PRP I)) (VP (VB remember) (NP (NNP Carter)))))
+-23.062853653464 -75.591743601620
+(S1 (S (CC but) (NP (NN I)) (VP (VBP remember) (NP (NNP Carter)))))
+-23.342261825448 -68.787646475486
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (S (ADJP (NNP Carter)))))))
+-23.640415109045 -75.583601110464
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (ADVP (NNP Carter)))))))
+-23.964590020436 -73.016105129837
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VB remember) (ADVP (NNP Carter))))))
+-24.024097896211 -73.604469766820
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (ADJP (NNP Carter)))))))
+-24.204022872935 -67.955915858215
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (S (NP (NNP Carter)))))))
+-24.224567643789 -71.100174623236
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VB remember) (S (ADJP (NNP Carter)))))))
+-24.307939165013 -72.861135782229
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VB remember) (ADJP (NNP Carter))))))
+-24.890367871286 -74.012273643380
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (S (ADJP (NNP Carter))))))))
+-25.168666284448 -75.541833544019
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VB remember) (S (NP (NNP Carter)))))))
+-25.204446560230 -72.458568688631
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (ADVP (NNP Carter))))))
+-25.288164261858 -75.522073985742
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBP remember) (S (NP (NNP Carter)))))))
+-25.308020856244 -70.479437310925
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (ADJP (NNP Carter))))))
+-25.396258813246 -73.990955895133
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (S (NP (NNP Carter))))))))
+-26.074495436863 -74.518736234771
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VB remember) (S (NP (NNP Carter)))))))
+-26.351081758834 -70.887241253321
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (S (ADJP (NNP Carter)))))))
+-28.158151057084 -76.478032204051
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VB remember) (S (ADJP (NNP Carter)))))))
+

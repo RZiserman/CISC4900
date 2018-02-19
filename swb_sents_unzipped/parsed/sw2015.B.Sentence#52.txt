@@ -1,0 +1,102 @@
+50 x
+-15.086597922947 -64.154197746734
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there)))))
+-16.799119634294 -64.849773057175
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there)))))))
+-17.169182938856 -70.919334269952
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there)))))
+-17.180473396913 -67.428901301697
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (RB there)))))))
+-17.199847134111 -67.154889182976
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there))))))
+-17.552611226380 -69.419251451708
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (NP (EX there)))))
+-18.115963191871 -73.771291665147
+(S1 (S (NP (PRP I)) (NP (PRP I)) (S (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there))))))
+-18.212302542690 -71.600580682581
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (SBAR (IN with) (S (NP (PRP you)) (ADVP (RB there)))))))
+-18.507281565078 -72.250121639186
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (NP (EX there)))))))
+-19.127388154320 -71.041476555350
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you) (RB there))))))
+-19.259488850381 -68.124476508885
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (RB there)))))))))
+-19.263058412822 -74.194037824915
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (RB there)))))))
+-19.355707141625 -76.055059929354
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VB agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there)))))
+-19.376378396440 -70.429592763473
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (RB there))))))))
+-19.491204877452 -74.047669897699
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you)) (ADVP (RB there))))))
+-19.539502791668 -70.114826482440
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (NP (EX there)))))))
+-19.591548842014 -73.731087125683
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you)))) (ADVP (RB there))))
+-19.635196242289 -76.184387974926
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (NP (EX there)))))
+-19.794144853119 -72.419942900483
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (NP (EX there))))))
+-19.855784033050 -71.467220268142
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there))))))
+-20.153096630992 -74.943987229068
+(S1 (FRAG (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there))))))
+-20.292494484865 -77.045995362221
+(S1 (S (NP (PRP I)) (NP (PRP I)) (S (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (RB there))))))))
+-20.305952305847 -74.734013863882
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (EX there)))))
+-20.375428604216 -72.296156170494
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (SBAR (IN with) (S (NP (PRP you)) (ADVP (RB there)))))))))
+-20.467160970546 -72.945696846374
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (NP (EX there)))))))))
+-20.473692586431 -74.159269585368
+(S1 (S (NP (PRP I)) (ADVP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there)))))
+-20.498953779074 -77.077627126331
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (S (NP (PRP you)) (NP (EX there)))))))
+-20.552765142741 -74.772762624361
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (SBAR (IN with) (S (NP (PRP you)) (ADJP (RB there)))))))
+-20.557692402883 -74.601272247167
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (SBAR (IN with) (S (NP (PRP you)) (ADVP (RB there))))))))
+-20.569133051572 -76.914741712220
+(S1 (NP (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there)))))))
+-20.594454974647 -74.156302499996
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP agree) (PP (IN with) (NP (PRP you)))) (NP (EX there))))
+-20.663101490907 -74.757775668614
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (EX there)))))))
+-20.801643694605 -75.250813100962
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (NP (EX there))))))))
+-21.127131091474 -76.782479713703
+(S1 (FRAG (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there))))))
+-21.201597626980 -77.148613122125
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP agree) (PP (IN with) (NP (PRP you)))) (ADVP (RB there))))
+-21.206403605001 -71.737051762538
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you) (RB there))))))))
+-21.323293153848 -74.042168017125
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you) (RB there)))))))
+-21.372854358133 -74.743245104887
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you)) (ADVP (RB there))))))))
+-21.489743906979 -77.048361359475
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you)) (ADVP (RB there)))))))
+-21.661349779776 -75.628312554774
+(S1 (S (ADVP (PRP I)) (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (RB there)))))
+-21.899337969194 -75.429589174324
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (EX there)))))))
+-21.947080703743 -74.741923882790
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (RB there))))))))
+-21.968105165331 -76.732273934551
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (NP (EX there))))))
+-22.361306111755 -77.773202333519
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (S (NP (PRP you)) (NP (EX there)))))))))
+-22.517658649799 -77.734705300124
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))) (ADVP (EX there))))))
+-22.567568060396 -77.433973140331
+(S1 (S (NP (PRP I)) (ADVP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (RB there)))))))
+-22.622980896376 -75.453350875802
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (EX there)))))))))
+-22.715891204268 -75.468338112274
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP agree) (SBAR (IN with) (S (NP (PRP you)) (ADJP (RB there)))))))))
+-22.748785366438 -77.724309058551
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you))))) (NP (EX there))))
+-22.957463620434 -77.758467130390
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (PRP you)) (ADVP (EX there))))))))
+

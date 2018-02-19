@@ -1,0 +1,102 @@
+50 x
+-14.703185251478 -49.232853988653
+(S1 (S (RB well) (VP (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-14.848510058875 -50.229246130009
+(S1 (S (INTJ (UH well)) (VP (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-14.905160504560 -51.814349905267
+(S1 (S (ADVP (RB well)) (VP (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-16.490702926496 -49.346350289578
+(S1 (S (RB well) (VP (VB let) (NP (PRP me)) (VP (VB think)))))
+-16.513835799315 -51.574855273404
+(S1 (S (RB well) (VP (VB let) (S (NP (PRP me)) (NP (VB think))))))
+-16.615290736845 -52.285758030829
+(S1 (S (INTJ (RB well)) (VP (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-16.617146051285 -50.342742603405
+(S1 (S (INTJ (UH well)) (VP (VB let) (NP (PRP me)) (VP (VB think)))))
+-16.659160606712 -52.571247414761
+(S1 (S (INTJ (UH well)) (VP (VB let) (S (NP (PRP me)) (NP (VB think))))))
+-16.692678193517 -51.927846257024
+(S1 (S (ADVP (RB well)) (VP (VB let) (NP (PRP me)) (VP (VB think)))))
+-16.715811052397 -54.156351190019
+(S1 (S (ADVP (RB well)) (VP (VB let) (S (NP (PRP me)) (NP (VB think))))))
+-16.784837700218 -54.118166566615
+(S1 (S (INTJ (UH well)) (VP (VBD let) (S (NP (PRP me)) (VP (VB think))))))
+-17.081508415232 -55.551888594409
+(S1 (S (INTJ (UH well)) (VP (VBP let) (S (NP (PRP me)) (VP (VB think))))))
+-17.204132565963 -57.119369396577
+(S1 (S (RB well) (S (VP (VB let) (S (NP (PRP me)) (VP (VB think)))))))
+-17.452557977260 -57.069892174758
+(S1 (S (VP (ADVP (RB well)) (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-17.488629966730 -59.707876880542
+(S1 (S (ADVP (RB well)) (S (VP (VB let) (S (NP (PRP me)) (VP (VB think)))))))
+-17.625515734610 -51.316805074314
+(S1 (FRAG (ADVP (RB well)) (VP (VBD let) (S (NP (PRP me)) (VP (VB think))))))
+-17.723701455847 -55.939908066575
+(S1 (VP (ADVP (RB well)) (VB let) (S (NP (PRP me)) (VP (VB think)))))
+-17.857413729386 -56.570973637781
+(S1 (S (RB well) (VP (VBD let) (S (NP (PRP me)) (VP (VB think))))))
+-17.865975449364 -56.044327634822
+(S1 (S (RB well) (VP (VBP let) (S (NP (PRP me)) (VP (VB think))))))
+-18.130535448032 -56.919040760649
+(S1 (S (ADVP (RB well)) (VP (VBP let) (S (NP (PRP me)) (VP (VB think))))))
+-18.130717197183 -54.982003286024
+(S1 (S (INTJ (UH well)) (VP (VBD let) (NP (PRP me)) (VP (VB think)))))
+-18.187563594826 -58.723449613953
+(S1 (S (RB well) (VP (VB let) (S (NP (PRP me)) (VP (VBP think))))))
+-18.358934031075 -57.894008618388
+(S1 (S (ADVP (UH well)) (VP (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-18.402808459256 -52.399254504225
+(S1 (S (INTJ (RB well)) (VP (VB let) (NP (PRP me)) (VP (VB think)))))
+-18.425941287470 -54.627759315580
+(S1 (S (INTJ (RB well)) (VP (VB let) (S (NP (PRP me)) (NP (VB think))))))
+-18.476533655011 -59.719841755310
+(S1 (S (INTJ (UH well)) (VP (VB let) (S (NP (PRP me)) (VP (VBP think))))))
+-18.557657403081 -59.209956686356
+(S1 (FRAG (ADVP (RB well)) (VP (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-18.578665610162 -59.215179722699
+(S1 (FRAG (RB well) (VP (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-18.818211592148 -54.447921907178
+(S1 (FRAG (VP (ADVP (RB well)) (VBD let) (S (NP (PRP me)) (VP (VB think))))))
+-18.819111047886 -56.164637440044
+(S1 (S (INTJ (RB well)) (VP (VBP let) (S (NP (PRP me)) (VP (VB think))))))
+-18.864667338582 -56.801234740311
+(S1 (S (INTJ (RB well)) (VP (VBD let) (S (NP (PRP me)) (VP (VB think))))))
+-18.910187625399 -60.603859457417
+(S1 (S (ADVP (RB well)) (VP (VBD let) (S (NP (PRP me)) (VP (VB think))))))
+-18.943904125405 -57.232865679054
+(S1 (S (RB well) (S (VP (VB let) (NP (PRP me)) (VP (VB think))))))
+-19.077731342778 -58.611468651014
+(S1 (S (RB well) (VP (VB let) (NP (PRP me)) (S (VP (VB think))))))
+-19.142300923800 -59.461370681329
+(S1 (S (RB well) (S (VP (VB let) (S (NP (PRP me)) (NP (VB think)))))))
+-19.204174453629 -59.607860908928
+(S1 (S (INTJ (UH well)) (VP (VB let) (NP (PRP me)) (S (VP (VB think))))))
+-19.228401526172 -59.821373163019
+(S1 (S (ADVP (RB well)) (S (VP (VB let) (NP (PRP me)) (VP (VB think))))))
+-19.234061596350 -57.434810357191
+(S1 (S (RB well) (VP (VBD let) (NP (PRP me)) (VP (VB think)))))
+-19.263208527885 -59.411893459510
+(S1 (S (VP (ADVP (RB well)) (VB let) (S (NP (PRP me)) (NP (VB think))))))
+-19.423012919441 -58.842301846580
+(S1 (FRAG (VP (ADVP (RB well)) (VB let) (S (NP (PRP me)) (VP (VB think))))))
+-19.606792280295 -60.289103284866
+(S1 (FRAG (RB well) (VP (VBD let) (S (NP (PRP me)) (VP (VB think))))))
+-19.760461070296 -60.497424002686
+(S1 (S (INTJ (UH well)) (VP (VBD let) (S (NP (PRP me)) (NP (VB think))))))
+-19.941825363977 -60.064545309468
+(S1 (VP (ADVP (RB well)) (VB let) (S (NP (PRP me)) (NP (VB think)))))
+-20.127569990032 -58.007504970145
+(S1 (S (ADVP (UH well)) (VP (VB let) (NP (PRP me)) (VP (VB think)))))
+-20.169584578912 -60.236009903139
+(S1 (S (ADVP (UH well)) (VP (VB let) (S (NP (PRP me)) (NP (VB think))))))
+-20.241315205547 -57.665071459721
+(S1 (S (INTJ (RB well)) (VP (VBD let) (NP (PRP me)) (VP (VB think)))))
+-20.511650997475 -57.696062510385
+(S1 (FRAG (ADVP (RB well)) (VP (VBD let) (S (NP (PRP me)) (NP (VB think))))))
+-20.919709678587 -60.054288794611
+(S1 (S (S (INTJ (UH well)) (VP (VB let) (NP (PRP me)))) (VP (VBP think))))
+-21.126762750945 -60.063869662115
+(S1 (S (RB well) (S (VP (VB let) (NP (PRP me)))) (VP (VBP think))))
+-22.079252996017 -60.357834220705
+(S1 (S (S (VP (ADVP (RB well)) (VB let) (NP (PRP me)))) (VP (VBP think))))
+

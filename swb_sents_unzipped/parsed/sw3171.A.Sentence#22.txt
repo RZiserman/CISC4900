@@ -1,0 +1,102 @@
+50 x
+-24.504622958347 -82.775624219532
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once))))))))
+-24.557455993947 -83.583119882784
+(S1 (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once))))))))
+-24.785315957762 -83.406307906137
+(S1 (S (RB Well) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once))))))))
+-25.453293426259 -81.946976609108
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once))))))))
+-25.506126461858 -82.754472272361
+(S1 (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once))))))))
+-25.733986425674 -82.577660295713
+(S1 (S (RB Well) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once))))))))
+-25.795421888002 -83.388373065168
+(S1 (S (INTJ (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once))))))))
+-25.832263475642 -85.599824286528
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (EX there)) (ADVP (RB once))))))))
+-25.885096511241 -86.407319949780
+(S1 (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (EX there)) (ADVP (RB once))))))))
+-25.972910569717 -83.153746435760
+(S1 (S (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once)))))))))
+-26.112956472269 -86.230507973132
+(S1 (S (RB Well) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (EX there)) (ADVP (RB once))))))))
+-26.134517561716 -83.623466673023
+(S1 (S (RB Well) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once)))))))))
+-26.744092353126 -82.559725454744
+(S1 (S (INTJ (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once))))))))
+-26.921581037629 -82.325098825336
+(S1 (S (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once)))))))))
+-27.056093107761 -87.320734613947
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once))))))))))
+-27.083188029628 -82.794819062600
+(S1 (S (RB Well) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once)))))))))
+-27.123062402508 -86.212573132163
+(S1 (S (INTJ (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (EX there)) (ADVP (RB once))))))))
+-27.239885606224 -85.977946502755
+(S1 (S (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (EX there)) (ADVP (RB once)))))))))
+-27.291634431290 -88.142070953443
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once)))))))))))
+-27.401492601010 -86.447666740019
+(S1 (S (RB Well) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (EX there)) (ADVP (RB once)))))))))
+-27.480549237270 -86.927322404655
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once))))))))))
+-27.607605628086 -86.945585452944
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (RB there)) (ADVP (RB once))))))))
+-27.660438666473 -87.753081116196
+(S1 (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (RB there)) (ADVP (RB once))))))))
+-27.721659873353 -87.612791925604
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (NP (EX there)) (RB once))))))))
+-27.774492908953 -88.420287588856
+(S1 (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (NP (EX there)) (RB once))))))))
+-27.888298627500 -87.576269139549
+(S1 (S (RB Well) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (RB there)) (ADVP (RB once))))))))
+-27.902831512915 -88.412571653559
+(S1 (SBAR (RB Well) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once)))))))))
+-28.002352869980 -88.243475612208
+(S1 (S (RB Well) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (NP (EX there)) (RB once))))))))
+-28.004763575673 -86.492087003524
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once))))))))))
+-28.240304899202 -87.313423343019
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once)))))))))))
+-28.402629309237 -87.793678434607
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (NP (RB once))))))))
+-28.429219705181 -86.098674794231
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once))))))))))
+-28.496256034451 -86.738326923227
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there))))) (ADVP (RB once)))))
+-28.549089072838 -87.545822586479
+(S1 (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there))))) (ADVP (RB once)))))
+-28.683322308652 -88.424362121212
+(S1 (S (RB Well) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (NP (RB once))))))))
+-28.732279851784 -88.394419261596
+(S1 (S (INTJ (UH Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (S (NP (EX there)) (ADVP (RB once)))))))))
+-28.776949033865 -87.369010609832
+(S1 (S (RB Well) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there))))) (ADVP (RB once)))))
+-28.792995417864 -88.592518306358
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (ADVP (RB once)))))))))))
+-28.898404557740 -87.558334298580
+(S1 (S (INTJ (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (RB there)) (ADVP (RB once))))))))
+-29.012458800220 -88.225540771239
+(S1 (S (INTJ (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (NP (EX there)) (RB once))))))))
+-29.075893239455 -87.323707669172
+(S1 (S (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (RB there)) (ADVP (RB once)))))))))
+-29.129282003935 -87.990914141832
+(S1 (S (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (NP (EX there)) (RB once)))))))))
+-29.237500234242 -87.793427906435
+(S1 (S (RB Well) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (NP (RB there)) (ADVP (RB once)))))))))
+-29.290888998722 -88.460634379095
+(S1 (S (RB Well) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (NP (EX there)) (RB once)))))))))
+-29.693428238891 -88.406427280242
+(S1 (S (INTJ (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (NP (RB once))))))))
+-29.741665885775 -87.763870695934
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there) (RB once)))))))))))
+-29.787054964105 -87.351075768863
+(S1 (S (INTJ (RB Well)) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there))))) (ADVP (RB once)))))
+-29.870916920606 -88.171800650835
+(S1 (S (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there)) (NP (RB once)))))))))
+-29.989538700910 -87.116449232688
+(S1 (S (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there))))) (ADVP (RB once))))))
+-30.151145695697 -87.586169469951
+(S1 (S (RB Well) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD went) (ADVP (RB there))))) (ADVP (RB once))))))
+

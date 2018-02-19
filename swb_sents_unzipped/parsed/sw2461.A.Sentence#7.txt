@@ -1,0 +1,102 @@
+50 x
+-30.659340495641 -109.464079021659
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (NN teaching)))))
+-30.910558315961 -112.280404682972
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (VP (VBG teaching)))))
+-31.230108847845 -112.258318765168
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (NP (NN teaching)))))
+-31.290745897158 -114.664501993683
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (VBG teaching)))))
+-31.455182616047 -114.917674895370
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (S (VP (VBG teaching))))))
+-31.500093577116 -112.295504031402
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (SBAR (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))))))
+-31.500323975548 -116.168312047300
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NP (NN college)) (SBAR (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))))))))
+-31.632371665758 -115.111829619857
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (SBAR (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))))))
+-31.769733402985 -115.982414991220
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (SBAR (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (VP (VBG teaching)))))))))
+-31.870046954343 -113.166089402765
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (SBAR (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (NN teaching)))))))))
+-31.940141809955 -115.421326934291
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (S (VP (VBG teaching))))))
+-31.973904424897 -117.038897318974
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NP (NN college)) (SBAR (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (NN teaching)))))))))))
+-32.564757447926 -113.428693989671
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (NP (PRP I))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-32.679035117162 -115.894177981896
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (SBAR (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))))))))
+-32.779147185941 -113.662588532652
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (SBAR (IN in) (NN college) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))))))
+-32.873449327420 -115.334489507752
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (VP (VBG teaching)))))
+-33.009018566511 -116.764763253569
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (SBAR (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (NN teaching)))))))))))
+-33.020152749892 -116.378648048518
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (NP (VBG teaching)))))
+-33.048566908246 -116.245019650983
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (NP (PRP I))))) (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))
+-33.093684750044 -114.289945545558
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (SBAR (PP (IN in) (NP (NN college))) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))))))
+-33.476836482271 -115.160530916921
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (SBAR (PP (IN in) (NP (NN college))) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (NN teaching)))))))))
+-33.509835392153 -114.156734585379
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (PRP I)) (ADVP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-33.513384300296 -115.805169731653
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (SBAR (IN in) (NN college) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (NN teaching)))))))))
+-33.622773131016 -115.083367808886
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (VP (NN I) (SBAR (S (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching))))))))
+-33.687394538584 -116.478914121107
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (SBAR (IN in) (NN college) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))))))
+-33.742424784026 -112.038312123607
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (NN I)))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-33.778529609872 -114.979104217270
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (S (NP (NN teaching))))))
+-33.780985195688 -113.328772023353
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (NP (NNP I))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-33.842596834526 -115.690621643368
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (SBAR (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching))))))))))
+-33.889298630330 -114.936861426041
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (PRP I)) (VP (ADVP (PRP I)) (VBD enjoyed) (NP (NN teaching)))))
+-33.971557404055 -114.532981242079
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (ADJP (VBG teaching)))))
+-34.008220358687 -117.106271134013
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (SBAR (PP (IN in) (NP (NN college))) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))))))
+-34.072104897371 -114.300821404345
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NP (NN college)) (NP (PRP I))))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-34.075475971811 -116.136308990326
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (ADVP (NN teaching)))))
+-34.079436131425 -114.318929286738
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (S (ADJP (VBG teaching))))))
+-34.185711624596 -116.973060240246
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (PRP I)) (ADVP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))
+-34.212550211753 -116.561207014731
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (SBAR (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD enjoyed) (NP (NN teaching))))))))))
+-34.226234244346 -114.854637784920
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (NN I)))))) (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))
+-34.264794656008 -116.145097684666
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (NP (NNP I))))) (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))
+-34.417882986610 -116.387099528763
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (NP (NN I))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-34.512093326275 -117.074134535577
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (NN I))) (SBAR (S (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))))))
+-34.535680079692 -113.900175607631
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (ADVP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-34.779648959406 -115.182732149430
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (FW I)))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-35.019489540013 -116.716501268944
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (ADVP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (VP (VBG teaching)))))
+-35.121650443352 -117.057706144618
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (SBAR (IN in) (NN college) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching))))))))))
+-35.315169562944 -116.749072152518
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college)))))) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN enjoyed) (ADJP (VBG teaching)))))
+-35.471614139834 -115.405264072932
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (NNP I)))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-36.270176803795 -116.699650653540
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college))) (S (NP (PRP I)) (NP (PRP I)))))) (VP (VBD enjoyed) (NP (NN teaching)))))
+-36.720187191143 -116.482335055358
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (S (VP (NN college) (NP (PRP I)))))))) (NP (PRP I)) (VP (VBD enjoyed) (NP (NN teaching)))))
+-37.287233332440 -117.107214344027
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN college) (NN I)))))) (NP (PRP I)) (VP (VBD enjoyed) (ADJP (VBG teaching)))))
+

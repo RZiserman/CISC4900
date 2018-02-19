@@ -1,0 +1,102 @@
+50 x
+-20.945118963814 -71.150577219468
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-21.421596739393 -72.142194597321
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))
+-22.087558709569 -75.792468327303
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))
+-22.250614816426 -76.594325445368
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-22.684449000107 -74.583138157490
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (RB Fish)))))
+-23.284667620404 -74.266277312167
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (NP (NN Fish)))))
+-24.045269650518 -75.783985981322
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish))))))
+-24.072977625272 -76.468638680934
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish))))))
+-24.085588506439 -75.477021177237
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish))))))
+-24.335285747125 -82.057880156961
+(S1 (S (DT that) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-24.427603171373 -81.538613285405
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question) (RB Fish)))))
+-24.434413383018 -81.055832091109
+(S1 (SBAR (IN that) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish))))))
+-24.867808117474 -81.709240067372
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question)) (NP (NN Fish)))))
+-24.870558392571 -79.092898138383
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN question)) (NP (NN Fish))))))
+-24.887019154073 -76.809893559746
+(S1 (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))
+-24.982027694186 -80.064214587412
+(S1 (SBAR (IN that) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish))))))
+-25.130109102678 -77.250538016681
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish))))))
+-25.227911289944 -77.813452376694
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-25.374877510930 -77.611750677812
+(S1 (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-25.379586812735 -78.805069754547
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))
+-25.379753551851 -79.873887098679
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ good) (NN question)) (NN Fish)))))
+-25.569448788437 -78.242155581946
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish))))))
+-25.635373963241 -80.323665647399
+(S1 (S (WHNP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-25.709587328185 -78.909582241103
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (RB Fish))))))
+-25.747234158820 -81.315283025252
+(S1 (S (WHNP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))
+-25.833128438135 -82.139165947321
+(S1 (SBAR (WHNP (WDT that)) (S (VP (POS 's) (NP (DT a) (JJ good) (NN question) (NN Fish))))))
+-25.896697507482 -81.466981256127
+(S1 (FRAG (SBAR (IN that) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))))
+-25.906235822824 -78.360760751246
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))))
+-25.992088613992 -77.369143247548
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))))
+-26.027181114776 -81.184973734603
+(S1 (NP (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish))))))
+-26.097684141651 -78.824708229618
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-26.110514821193 -78.592721300011
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (NP (NN Fish))))))
+-26.209544337230 -79.816325607471
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))
+-26.420468556954 -80.720582021956
+(S1 (S (NP (WDT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question) (NN Fish)))))
+-26.482694885861 -80.475363752430
+(S1 (FRAG (SBAR (IN that) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))))
+-26.689618167423 -79.767235693227
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ good)) (NN question) (NN Fish)))))
+-26.850966141531 -80.193356239279
+(S1 (NP (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish))))))
+-26.869439189150 -80.683099142115
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (RB Fish))))))
+-26.948142243810 -81.522439140022
+(S1 (S (NP (WDT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))
+-26.967241323448 -81.246013314716
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (RB Fish)))))
+-27.242657696534 -80.929152469393
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (NP (NN Fish)))))
+-27.243752379597 -80.110430064935
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))))
+-27.372258063146 -80.710901595590
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ good)) (NN question)) (ADVP (RB Fish)))))
+-27.432519605329 -80.366238058166
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (NP (NN Fish))))))
+-27.492929163495 -81.802693373013
+(S1 (FRAG (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish))))))
+-27.616087435738 -80.801704311415
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question) (RB Fish)))))))
+-27.943773018745 -80.484843370322
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (NP (NN Fish)))))))
+-28.072615218241 -81.940408322317
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN question)) (NP (NN Fish)))))
+-28.230259842350 -81.883946965948
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish)))))))
+-29.150252489937 -82.002552135247
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN question)) (ADVP (RB Fish))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-27.700354325172 -116.722595636304
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NNS T)) (VP (VBG V) (NP (NN yesterday)))))))))
+-28.207426733954 -120.073162236644
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (S (VP (VBG V) (NP (NN yesterday)))))))))))
+-28.316813263653 -120.657643198618
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (NNS V)) (NP (NN yesterday)))))))))
+-29.037953148352 -118.563106084677
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NNP T))) (S (VP (VBG V) (NP (NN yesterday))))))))
+-29.266189352452 -120.524969872146
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (CD T))) (S (VP (VBG V) (NP (NN yesterday))))))))
+-29.401763169862 -119.773459878635
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NNS T))) (S (VP (VBG V) (NP (NN yesterday))))))))
+-29.429910321050 -121.475277568265
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (NN V)) (NP (NN yesterday)))))))))
+-29.435451772271 -120.488521381357
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NNS T)) (VP (VBG V) (NP (NN yesterday))))))))))
+-29.703398850584 -120.258123590111
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (NP (NNP T)) (VP (VBG V) (NP (NN yesterday)))))))))
+-29.755371419247 -118.674102497418
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NN T)) (VP (VBG V) (NP (NN yesterday)))))))))
+-29.856797705061 -118.493522759372
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (JJ T) (NNS V))) (NP (NN yesterday))))))
+-29.923499452526 -118.307548346225
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (VP (VBN V) (NP (NN yesterday))))))))))
+-29.943567792331 -116.631334686701
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (JJ V) (NN yesterday)))))))))
+-29.945755730166 -119.207081621188
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NN T))) (S (VP (VBG V) (NP (NN yesterday))))))))
+-30.169732734101 -116.897282750568
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NNS T)) (VP (VBN V) (NP (NN yesterday)))))))))
+-30.170699639501 -119.713073257140
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (NP (NNS T)) (VP (VBG V) (NP (NN yesterday)))))))))
+-30.230751367955 -120.999708767133
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NNP T) (NNS V))) (NP (NN yesterday))))))
+-30.235188320424 -118.913655965212
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NNP T) (CD V))) (NP (NN yesterday))))))
+-30.463078598899 -118.862844826366
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (CD T) (NNS V))) (NP (NN yesterday))))))
+-30.528088934761 -114.693331356422
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (CD T) (NN V)) (NP (NN yesterday))))))))
+-30.624015199969 -120.019820484763
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NN T) (NNS V))) (NP (NN yesterday))))))
+-30.659914985348 -121.530012027930
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (VP (VBD V) (NP (NN yesterday))))))))))
+-30.678763739549 -121.674958575242
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (JJR V) (NN yesterday)))))))))
+-30.818640838534 -117.433664124561
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NN T)) (VP (VBN V) (NP (NN yesterday)))))))))
+-30.823317303982 -118.102503653183
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (CD V) (NN yesterday)))))))))
+-30.940207744942 -117.446143733867
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (CD T) (NNS V)) (NP (NN yesterday))))))))
+-30.975746433985 -119.695278761862
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (JJ T) (NN V))) (NP (NN yesterday))))))
+-31.141992529154 -117.779935482633
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (JJ T) (NN V)) (NP (NN yesterday))))))))
+-31.146926836564 -117.480988384138
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NNP T) (NNP V))) (NP (NN yesterday))))))
+-31.306014048746 -121.683128345262
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (NP (DT this) (NN program)) (PP (IN on) (NP (JJ T) (NNS V)))) (NP (NN yesterday))))))
+-31.463014904538 -121.585867732573
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (NP (NN T)) (VP (VBG V) (NP (NN yesterday)))))))))
+-31.523845888903 -119.581711318120
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (CD T) (NN V))) (NP (NN yesterday))))))
+-31.592141631966 -120.041554045382
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NN T)) (VP (VBD V) (NP (NN yesterday)))))))))
+-31.771801158176 -120.397216363365
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NNS T)) (VP (VBD V) (NP (NN yesterday)))))))))
+-31.848460544896 -120.651033487609
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (NN V) (NN yesterday)))))))))
+-31.909935878946 -121.572255937871
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NNP T) (NN V)) (NP (NN yesterday))))))))
+-31.917591219724 -119.530683596468
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (QP (CD T) (CD V))) (NP (NN yesterday))))))))
+-32.015978353321 -120.663208495622
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NNS T)) (VP (VBN V) (NP (NN yesterday))))))))))
+-32.048830344298 -121.091534399188
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NN T) (NN V))) (NP (NN yesterday))))))
+-32.129293341483 -121.416240843116
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (JJ V) (NN yesterday))))))))))
+-32.146850430465 -119.191562573391
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NN T) (NN V)) (NP (NN yesterday))))))))
+-32.534643817941 -121.678006583130
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (S (VP (VBG T) (NP (NNP V) (NN yesterday)))))))))
+-32.627232644521 -119.192680924451
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (NP (DT this) (NN program)) (PP (IN on) (NP (NP (CD T) (NN V)) (NP (NN yesterday)))))))))
+-32.692693193973 -121.192205124266
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (QP (CD T) (CD V)) (NN yesterday)))))))
+-32.761195764163 -121.212069421452
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (NP (DT this) (NN program)) (PP (IN on) (NP (NP (CD T) (NNS V)) (NP (NN yesterday)))))))))
+-32.911709867079 -121.682182902560
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (VBG T) (NN V)) (NP (NN yesterday))))))))
+-33.352925200019 -120.517960951689
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (NP (DT this) (NN program)) (PP (IN on) (NP (NNP T) (NNP V)))) (NP (NN yesterday))))))
+-33.369687464478 -119.994209564036
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NN T) (CD V)) (NP (NN yesterday))))))))
+-33.855139672488 -121.469317722312
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NNP T))) (NP (JJ V) (NN yesterday))))))
+-34.654200158275 -119.492461150179
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT this) (NN program)) (PP (IN on) (NP (NP (NN T)) (NP (CD V) (NN yesterday))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-14.774250741026 -61.463293998543
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (PP (IN for) (NP (PRP them))))))
+-17.509636438569 -68.232717471312
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (NNS works) (PP (IN for) (NP (PRP them))))))
+-18.121635413544 -73.147361883670
+(S1 (S (NP (JJ My) (NN dad)) (VP (VBZ works) (PP (IN for) (NP (PRP them))))))
+-19.202516767402 -69.931453065861
+(S1 (FRAG (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (PP (IN for) (NP (PRP them)))))))
+-19.851634317143 -73.270488992195
+(S1 (NP (NP (PRP$ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them)))))
+-20.333579904273 -72.450802070322
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VBZ works)) (PP (IN for) (NP (PRP them)))))
+-20.473767500591 -72.681322534294
+(S1 (S (NP (PRP$ My) (NN dad)) (NP (NP (NNS works)) (PP (IN for) (NP (PRP them))))))
+-20.476234802650 -73.365182756575
+(S1 (NP (NP (PRP$ My) (NN dad) (VBZ works)) (PP (IN for) (NP (PRP them)))))
+-20.538192073163 -73.664374149822
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (VP (PP (IN for) (NP (PRP them)))))))
+-20.876456699648 -73.096169332187
+(S1 (NP (PRP$ My) (NN dad) (S (VP (VBZ works) (PP (IN for) (NP (PRP them)))))))
+-21.032410523199 -75.180557743816
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (S (PP (IN for) (NP (PRP them)))))))
+-21.053525126369 -73.828958422782
+(S1 (S (NP (NP (PRP$ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them))))))
+-21.074353334130 -79.175425614273
+(S1 (S (NP (JJ My) (NN dad)) (VP (NNS works) (PP (IN for) (NP (PRP them))))))
+-21.151467741986 -73.077622775894
+(S1 (FRAG (NP (PRP$ My) (NN dad)) (S (VP (VBZ works) (PP (IN for) (NP (PRP them)))))))
+-21.206970198492 -73.485115242848
+(S1 (S (NP (PRP$ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them)))))
+-21.346626913292 -75.380651029641
+(S1 (FRAG (NP (PRP$ My) (NN dad)) (VP (VBZ works) (PP (IN for) (NP (PRP them))))))
+-21.535170144142 -79.477082934177
+(S1 (S (NP (PRP$ My) (NN dad)) (S (VP (VBZ works) (PP (IN for) (NP (PRP them)))))))
+-21.677745645817 -74.661587205203
+(S1 (FRAG (NP (NP (PRP$ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them))))))
+-21.704451875317 -80.795032500987
+(S1 (NP (NP (JJ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them)))))
+-21.783326380159 -76.047343848507
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (PP (IN for) (S (NP (PRP them)))))))
+-21.801482176911 -74.297986149574
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (VP (IN for) (NP (PRP them))))))
+-21.924826334168 -82.131339416345
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VP (VBZ works)) (PP (IN for) (NP (PRP them))))))
+-21.946455599617 -76.112278613082
+(S1 (NP (NP (PRP$ My) (NN dad)) (NP (NP (NNS works)) (PP (IN for) (NP (PRP them))))))
+-22.054127230705 -75.242309658904
+(S1 (S (NP (NP (PRP$ My) (NN dad) (VBZ works)) (PP (IN for) (NP (PRP them))))))
+-22.056580717478 -74.944604852588
+(S1 (NP (NP (NP (PRP$ My) (NN dad)) (NP (NNS works))) (PP (IN for) (NP (PRP them)))))
+-22.130193486238 -76.082587517832
+(S1 (NP (NP (PRP$ My) (NN dad)) (NP (NNS works)) (PP (IN for) (NP (PRP them)))))
+-22.296188953428 -76.939572953071
+(S1 (S (NP (PRP$ My) (NX (NN dad))) (VP (VBZ works) (PP (IN for) (NP (PRP them))))))
+-22.352996244513 -75.842641837137
+(S1 (FRAG (NP (PRP$ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them)))))
+-22.471121489489 -80.731145299074
+(S1 (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (SBAR (IN for) (S (NP (PRP them)))))))
+-22.665723833311 -76.032173206098
+(S1 (FRAG (NP (NP (PRP$ My) (NN dad) (VBZ works)) (PP (IN for) (NP (PRP them))))))
+-22.676113255049 -81.865049104879
+(S1 (NP (NP (PRP$ My) (NN dad)) (VP (VBZ works) (PP (IN for) (NP (PRP them))))))
+-22.709235203859 -81.615520999296
+(S1 (FRAG (S (NP (JJ My) (NN dad)) (VP (VBZ works) (PP (IN for) (NP (PRP them)))))))
+-22.856376523028 -79.575553126032
+(S1 (FRAG (NP (JJ My) (NN dad)) (S (VP (VBZ works) (PP (IN for) (NP (PRP them)))))))
+-22.887712296335 -81.878581379779
+(S1 (FRAG (NP (JJ My) (NN dad)) (VP (VBZ works) (PP (IN for) (NP (PRP them))))))
+-22.916236989130 -77.506091128462
+(S1 (NP (PRP$ My) (NN dad) (S (VP (NNS works) (PP (IN for) (NP (PRP them)))))))
+-23.011453327214 -82.167429797495
+(S1 (S (NP (PRP$ My) (NN dad)) (S (VP (NNS works) (PP (IN for) (NP (PRP them)))))))
+-23.083739664232 -77.403089897964
+(S1 (FRAG (NP (PRP$ My) (NN dad) (VBZ works)) (PP (IN for) (NP (PRP them)))))
+-23.278541576862 -78.009558183473
+(S1 (S (NP (PRP$ My) (NN dad)) (NP (NNS works)) (PP (IN for) (NP (PRP them)))))
+-23.311579515029 -81.353501857573
+(S1 (S (NP (NP (JJ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them))))))
+-23.372108146218 -78.665326929060
+(S1 (S (NP (PRP$ My) (NN dad) (VBZ works)) (PP (IN for) (NP (PRP them)))))
+-23.418314904974 -78.710241793689
+(S1 (S (NP (PRP$ My) (NN dad) (S (VP (VBZ works) (PP (IN for) (NP (PRP them))))))))
+-23.689896912174 -82.186130565084
+(S1 (FRAG (NP (NP (JJ My) (NN dad) (NNS works)) (PP (IN for) (NP (PRP them))))))
+-24.190541354847 -79.690983094891
+(S1 (FRAG (NP (NP (PRP$ My) (NN dad)) (NP (NNS works))) (PP (IN for) (NP (PRP them)))))
+-24.239848232079 -79.901277743871
+(S1 (FRAG (NP (PRP$ My) (NN dad) (S (VP (VBZ works) (PP (IN for) (NP (PRP them))))))))
+-24.327729711453 -81.162590621746
+(S1 (FRAG (NP (NP (PRP$ My) (NN dad)) (NP (NP (NNS works)) (PP (IN for) (NP (PRP them)))))))
+-24.847228981672 -79.767996005470
+(S1 (FRAG (NP (NP (NP (PRP$ My) (NN dad)) (NP (NNS works))) (PP (IN for) (NP (PRP them))))))
+-24.990217317751 -82.132533206178
+(S1 (FRAG (S (NP (PRP$ My) (NN dad)) (VP (VBZ works) (VP (PP (IN for) (NP (PRP them))))))))
+-24.991077302561 -81.352998233548
+(S1 (S (NP (PRP$ My) (NN dad) (S (VP (NNS works) (PP (IN for) (NP (PRP them))))))))
+-25.107152296338 -80.411859510920
+(S1 (S (NP (NP (NP (PRP$ My) (NN dad)) (NP (NNS works))) (PP (IN for) (NP (PRP them))))))
+-25.722406712309 -82.312405479708
+(S1 (FRAG (NP (PRP$ My) (NN dad) (S (VP (NNS works) (PP (IN for) (NP (PRP them))))))))
+

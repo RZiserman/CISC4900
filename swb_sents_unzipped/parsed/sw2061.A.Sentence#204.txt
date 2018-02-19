@@ -1,0 +1,102 @@
+50 x
+-11.053104933883 -41.224129167953
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ does))))
+-13.382242843520 -45.313296380433
+(S1 (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ does)))))
+-13.793038065727 -46.725628069450
+(S1 (S (PP (IN of) (NP (NN course))) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))
+-14.675136259633 -48.645717088345
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VBZ does)))
+-15.153194189969 -54.141443763858
+(S1 (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))
+-15.296620607200 -53.719044386990
+(S1 (SBAR (IN of) (NN course) (S (NP (PRP it)) (VP (VBZ does)))))
+-15.349983347714 -51.621954370200
+(S1 (FRAG (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))))
+-15.388087232758 -49.900595532595
+(S1 (FRAG (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ does)))))
+-15.393796136812 -48.467209901442
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ does)))))
+-15.565653257478 -56.921344077762
+(S1 (SBAR (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ does)))))
+-15.691930741685 -52.616103776571
+(S1 (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))
+-15.828375335758 -53.511092089890
+(S1 (S (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))))
+-16.060216965084 -50.711786495502
+(S1 (FRAG (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))))
+-16.352143067876 -52.115781923820
+(S1 (S (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))))
+-16.662735720551 -55.450387101581
+(S1 (SBAR (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ does)))))
+-16.750406775698 -55.446499917649
+(S1 (FRAG (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ does))))
+-16.977390971645 -56.290299392320
+(S1 (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ does))))))
+-17.345677234073 -54.385982253881
+(S1 (FRAG (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ does)))))))
+-17.348583635096 -56.425250294340
+(S1 (FRAG (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))
+-17.370353654795 -55.875723100183
+(S1 (FRAG (SBAR (IN of) (NN course) (S (NP (PRP it)) (VP (VBZ does))))))
+-18.033034246685 -55.789977488678
+(S1 (S (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ does)))))))
+-18.132512432287 -56.329184453956
+(S1 (FRAG (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))
+-18.147528534044 -63.411362289127
+(S1 (SBAR (IN of) (S (NP (NN course)) (NP (PRP it)) (VP (VBZ does)))))
+-18.224728968047 -63.402619294954
+(S1 (S (PP (IN of) (NN course)) (NP (PRP it)) (VP (VBZ does))))
+-18.232493228476 -61.358131060713
+(S1 (FRAG (SBAR (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ does))))))
+-18.979562959892 -64.941124741328
+(S1 (S (PP (IN of) (NP (NP (NN course)) (NP (PRP it)))) (VP (VBZ does))))
+-19.036922827457 -62.144827386913
+(S1 (SBAR (S (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))))
+-19.196491741618 -59.881425617294
+(S1 (FRAG (SBAR (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ does))))))
+-19.388804922448 -61.010002500161
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ does))))))
+-19.389173377206 -57.793625220285
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it) (VBZ does))))
+-19.635995553723 -63.383048629175
+(S1 (FRAG (SBAR (IN of) (S (NP (NN course)) (NP (PRP it)) (VP (VBZ does))))))
+-19.644529959574 -60.749517220843
+(S1 (SBAR (S (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))))
+-19.669472755475 -62.980071112873
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))
+-19.680857182218 -62.994289419769
+(S1 (S (NP (IN of) (NN course)) (NP (PRP it)) (VP (VBZ does))))
+-19.780131412717 -65.506342412176
+(S1 (PP (IN of) (NP (NP (NN course)) (S (NP (PRP it)) (VP (VBZ does))))))
+-19.900608835035 -63.194625770383
+(S1 (FRAG (S (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))))
+-19.976920648521 -62.986853302622
+(S1 (FRAG (PP (IN of) (NP (NP (NN course)) (S (NP (PRP it)) (VP (VBZ does)))))))
+-20.035155721951 -61.196584073736
+(S1 (FRAG (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ does))))))
+-20.114715859722 -61.158398177308
+(S1 (FRAG (PP (IN of) (NP (NN course))) (NP (PRP it) (VBZ does))))
+-20.180248745932 -65.807614470495
+(S1 (PP (IN of) (S (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))))
+-20.424376567152 -61.799315604313
+(S1 (FRAG (S (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ does)))))))))
+-20.435720136806 -64.034459702488
+(S1 (S (ADVP (IN of) (NN course)) (NP (PRP it)) (VP (VBZ does))))
+-20.569023853690 -61.297186740826
+(S1 (FRAG (NP (IN of) (NN course)) (S (NP (PRP it)) (VP (VBZ does)))))
+-20.903537336959 -64.491842540417
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VBZ does))))
+-20.914413212691 -64.068638905611
+(S1 (FRAG (SBAR (S (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))))))
+-20.963013682445 -64.875990791400
+(S1 (S (PP (IN of) (NP (NP (NN course)) (S (NP (PRP it)) (VP (VBZ does)))))))
+-21.186627157383 -64.423712785701
+(S1 (SBAR (S (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ does))))))))
+-21.522020344808 -62.673328739541
+(S1 (FRAG (SBAR (S (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ does))))))))))
+-22.105267745961 -65.473511169171
+(S1 (FRAG (S (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ does))))))))
+-23.064117539830 -66.347524304399
+(S1 (FRAG (SBAR (S (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ does)))))))))
+

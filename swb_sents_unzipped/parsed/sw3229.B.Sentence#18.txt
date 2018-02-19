@@ -1,0 +1,102 @@
+50 x
+-17.068171173999 -59.083016794178
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-18.089255555475 -59.021157756137
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-18.358522334907 -65.758593773998
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-18.689585504690 -66.923413444912
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-19.379606716382 -65.696734735957
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-19.410791496750 -70.696014208203
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-19.710669886165 -66.861554406870
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-20.431875875437 -70.634155170161
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-20.514306566797 -71.137374044407
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NP (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-20.581720017596 -65.268297714938
+(S1 (S (IN because) (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-20.684701524157 -72.417889880494
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (RB almost) (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-20.888076559047 -69.646045584547
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (RB almost) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-20.920753927933 -69.698556725862
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NP (NN everything))) (PP (IN in) (NP (PRP it)))))))
+-21.084499511772 -69.728653342245
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (QP (RB almost) (NN everything))) (PP (IN in) (NP (PRP it))))))))
+-21.134802341954 -68.647619124334
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (S (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-21.535390948273 -71.075515006365
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-21.554978451686 -65.883932686140
+(S1 (S (RB because) (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-21.556557193994 -66.386304098905
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-21.705785902844 -72.356030842452
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (RB almost) (NP (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-21.711621152497 -73.155759382743
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (QP (RB almost) (NN everything))) (PP (IN in) (NP (PRP it)))))))
+-21.785623066584 -71.723551611948
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (ADJP (RB almost)) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-21.909160940522 -69.584186546506
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (RB almost) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-21.941838306621 -69.636697687821
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NP (NN everything))) (PP (IN in) (NP (PRP it))))))))
+-22.082907199099 -71.717759870071
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (ADJP (RB almost)) (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-22.105583890460 -69.666794304203
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (QP (RB almost) (NN everything))) (PP (IN in) (NP (PRP it)))))))))
+-22.143844640806 -71.943874770950
+(S1 (S (IN because) (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))
+-22.155886723430 -68.585760086292
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (S (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))))
+-22.254782370074 -73.108694365799
+(S1 (S (IN because) (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-22.281492444350 -68.586240499451
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-22.508346865332 -65.725539038671
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-22.635068177769 -74.543271364992
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (S (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-22.713751039998 -69.521334395523
+(S1 (S (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-22.732705531185 -73.093900344701
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (QP (RB almost) (NN everything))) (PP (IN in) (NP (PRP it))))))))
+-22.806707445272 -71.661692573907
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (ADJP (RB almost)) (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-22.846908354901 -73.061881078725
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-23.087164642906 -74.191225222512
+(S1 (S (ADVP (RB because)) (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-23.103991577787 -71.655900832030
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (ADJP (RB almost)) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-23.109301517739 -73.993539281494
+(S1 (PP (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-23.117103072107 -72.559509742152
+(S1 (S (RB because) (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))
+-23.177971524684 -74.226700749639
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-23.228040801376 -73.724329337001
+(S1 (S (RB because) (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-23.656152559245 -74.481412326950
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (S (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-23.774753322392 -73.810429898991
+(S1 (S (X (IN because)) (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))
+-23.798698026240 -72.401116018491
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP it)) (VP (VBZ has) (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-23.822568507687 -71.310946122520
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (S (NP (PRP it)))))))))
+-23.888817679646 -71.533213638411
+(S1 (FRAG (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it))))))))
+-24.129761196023 -73.565935689405
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (NP (NP (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-24.262994551835 -74.409233552378
+(S1 (FRAG (RB because) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (NP (PRP it)))))))))
+-24.745162264062 -74.723448679487
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB almost)) (S (NP (NP (NN everything)) (PP (IN in) (NP (PRP it))))))))))
+-24.843652886375 -71.249087084478
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (RB almost) (NN everything)) (PP (IN in) (S (NP (PRP it))))))))))
+

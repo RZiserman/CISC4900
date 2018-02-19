@@ -1,0 +1,102 @@
+50 x
+-16.624086275288 -56.168786657059
+(S1 (S (RB well) (VP (VB let) (S (NP (PRP 's)) (VP (VB see))))))
+-16.769411082685 -57.165178798416
+(S1 (S (INTJ (UH well)) (VP (VB let) (S (NP (PRP 's)) (VP (VB see))))))
+-16.826061525582 -58.750282573673
+(S1 (S (ADVP (RB well)) (VP (VB let) (S (NP (PRP 's)) (VP (VB see))))))
+-18.293753565801 -56.716606057636
+(S1 (S (RB well) (VP (VB let) (S (NP (POS 's)) (VP (VB see))))))
+-18.439078373198 -57.712998198992
+(S1 (S (INTJ (UH well)) (VP (VB let) (S (NP (POS 's)) (VP (VB see))))))
+-18.454667916095 -59.298101974250
+(S1 (S (ADVP (RB well)) (VP (VB let) (S (NP (POS 's)) (VP (VB see))))))
+-18.536191760655 -59.221690699235
+(S1 (S (INTJ (RB well)) (VP (VB let) (S (NP (PRP 's)) (VP (VB see))))))
+-18.573038339350 -60.613609046450
+(S1 (S (INTJ (UH well)) (VP (VBD let) (S (NP (PRP 's)) (VP (VB see))))))
+-18.917398107843 -59.165423875277
+(S1 (S (RB well) (VP (VB let) (NP (PRP 's)) (S (VP (VB see))))))
+-19.041380883785 -62.663130066730
+(S1 (S (INTJ (UH well)) (VP (VBP let) (S (NP (PRP 's)) (VP (VB see))))))
+-19.043841215905 -60.161816133191
+(S1 (S (INTJ (UH well)) (VP (VB let) (NP (PRP 's)) (S (VP (VB see))))))
+-19.059377916985 -64.055302064984
+(S1 (S (RB well) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB see)))))))
+-19.119373369288 -61.746919827449
+(S1 (S (ADVP (RB well)) (VP (VB let) (NP (PRP 's)) (S (VP (VB see))))))
+-19.155025251200 -62.585506470692
+(S1 (S (RB well) (VP (VB let) (S (NP (PRP 's)) (VP (VBP see))))))
+-19.250342150937 -62.841314219438
+(S1 (S (RB well) (VP (VB let) (S (VP (POS 's) (VP (VB see)))))))
+-19.347006844386 -64.065430966725
+(S1 (S (RB well) (VP (VB let) (SBAR (S (NP (PRP 's)) (VP (VB see)))))))
+-19.387359072927 -57.533001365255
+(S1 (FRAG (ADVP (RB well)) (VP (VBD let) (S (NP (PRP 's)) (VP (VB see))))))
+-19.411288468334 -63.837706360794
+(S1 (S (INTJ (UH well)) (VP (VB let) (S (VP (POS 's) (VP (VB see)))))))
+-19.443995308597 -63.581898612049
+(S1 (S (INTJ (UH well)) (VP (VB let) (S (NP (PRP 's)) (VP (VBP see))))))
+-19.468675101070 -64.005824843165
+(S1 (S (VP (ADVP (RB well)) (VB let) (S (NP (PRP 's)) (VP (VB see))))))
+-19.645614368518 -63.066416117616
+(S1 (S (RB well) (VP (VBD let) (S (NP (PRP 's)) (VP (VB see))))))
+-19.791309285898 -62.875840866322
+(S1 (VP (ADVP (RB well)) (VB let) (S (NP (PRP 's)) (VP (VB see)))))
+-19.825847917917 -63.155569107144
+(S1 (S (RB well) (VP (VBP let) (S (NP (PRP 's)) (VP (VB see))))))
+-19.918759919863 -61.161428447026
+(S1 (S (INTJ (UH well)) (VP (VBD let) (S (NP (POS 's)) (VP (VB see))))))
+-20.090407913797 -64.030282232970
+(S1 (S (ADVP (RB well)) (VP (VBP let) (S (NP (PRP 's)) (VP (VB see))))))
+-20.205859051168 -59.769510099812
+(S1 (S (INTJ (RB well)) (VP (VB let) (S (NP (POS 's)) (VP (VB see))))))
+-20.478367447388 -63.966140546656
+(S1 (S (NP (RB well) (VB let) (POS 's)) (VP (VB see))))
+-20.562805857440 -58.080820765831
+(S1 (FRAG (ADVP (RB well)) (VP (VBD let) (S (NP (POS 's)) (VP (VB see))))))
+-20.652867977714 -63.296677220146
+(S1 (S (INTJ (RB well)) (VP (VBD let) (S (NP (PRP 's)) (VP (VB see))))))
+-20.675271027678 -60.664118198119
+(S1 (FRAG (VP (ADVP (RB well)) (VBD let) (S (NP (PRP 's)) (VP (VB see))))))
+-20.778983513651 -63.275878912366
+(S1 (S (INTJ (RB well)) (VP (VBP let) (S (NP (PRP 's)) (VP (VB see))))))
+-20.829503623875 -62.218328034011
+(S1 (S (INTJ (RB well)) (VP (VB let) (NP (PRP 's)) (S (VP (VB see))))))
+-20.848737884889 -63.956135389792
+(S1 (S (VP (ADVP (RB well)) (VB let) (NP (PRP 's)) (S (VP (VB see))))))
+-20.991335949030 -63.614235518193
+(S1 (S (RB well) (VP (VBD let) (S (NP (POS 's)) (VP (VB see))))))
+-21.014944991583 -64.553644243741
+(S1 (S (VP (ADVP (RB well)) (VB let) (S (NP (POS 's)) (VP (VB see))))))
+-21.028508034297 -63.210949467307
+(S1 (S (INTJ (UH well)) (VP (VBP let) (S (NP (POS 's)) (VP (VB see))))))
+-21.159772131613 -63.303675009993
+(S1 (S (RB well) (VP (VB let) (NP (PRP 's)) (S (VP (VBP see))))))
+-21.207485230410 -63.423660266899
+(S1 (VP (ADVP (RB well)) (VB let) (S (NP (POS 's)) (VP (VB see)))))
+-21.291518540896 -63.874363230749
+(S1 (S (RB well) (VP (VB let) (NP (PRP 's)) (S (ADJP (VB see))))))
+-21.429860492463 -64.300067267907
+(S1 (S (INTJ (UH well)) (VP (VB let) (NP (PRP 's)) (S (VP (VBP see))))))
+-21.503068650219 -64.564070911490
+(S1 (VP (ADVP (RB well)) (VB let) (NP (PRP 's)) (S (VP (VB see)))))
+-21.587246006411 -63.724605555659
+(S1 (FRAG (ADVP (RB well)) (VP (VBD let) (S (VP (POS 's) (VP (VB see)))))))
+-21.812975068429 -63.703388507721
+(S1 (S (RB well) (VP (VBP let) (S (NP (POS 's)) (VP (VB see))))))
+-21.953408126485 -64.462471015089
+(S1 (S (RB well) (VP (VB let) (NP (PRP 's)) (SBAR (S (VP (VB see)))))))
+-21.998589558227 -63.844496620723
+(S1 (S (INTJ (RB well)) (VP (VBD let) (S (NP (POS 's)) (VP (VB see))))))
+-22.006060912190 -61.211937598695
+(S1 (FRAG (VP (ADVP (RB well)) (VBD let) (S (NP (POS 's)) (VP (VB see))))))
+-22.122967521211 -62.191136604204
+(S1 (S (RB well) (VP (VB let) (NP (PRP 's)) (S (NP (VB see))))))
+-22.249410632062 -63.187528862118
+(S1 (S (INTJ (UH well)) (VP (VB let) (NP (PRP 's)) (S (NP (VB see))))))
+-22.410047427750 -64.210502581805
+(S1 (S (VP (ADVP (RB well)) (VB let) (NP (PRP 's)) (SBAR (S (VP (VB see)))))))
+-22.766110664164 -63.823698312943
+(S1 (S (INTJ (RB well)) (VP (VBP let) (S (NP (POS 's)) (VP (VB see))))))
+

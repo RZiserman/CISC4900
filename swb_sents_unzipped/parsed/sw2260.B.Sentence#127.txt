@@ -1,0 +1,102 @@
+50 x
+-21.576159930118 -78.171730781972
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind))))))
+-22.269079323174 -79.038758581327
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind))))))
+-22.270549506080 -80.664226468594
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind))))))
+-22.709456736462 -79.537515920261
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind))))))
+-22.713562903092 -84.494883790112
+(S1 (S (CC So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind))))))
+-23.154540509554 -86.039317809574
+(S1 (SBAR (IN So) (S (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind)))))))
+-23.402376129518 -80.404543719616
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind))))))
+-23.403846312424 -82.030011606884
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind))))))
+-23.673968401127 -81.602131276464
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back)) (ADVP (RB grind)))))
+-23.846859709436 -85.860668928402
+(S1 (S (CC So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind))))))
+-23.917996952594 -82.057492877610
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (RB back) (NN grind))))))
+-24.011977612853 -84.868120353328
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind))))))))
+-24.377749756397 -83.255480918538
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back) (RB grind)))))
+-24.475581415898 -87.405102947864
+(S1 (SBAR (IN So) (S (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind)))))))
+-24.517902551868 -83.759523453575
+(S1 (S (ADVP (IN So)) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind))))))
+-24.532672636183 -82.469159075819
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back)) (ADVP (RB grind)))))
+-24.534142816302 -84.094626963087
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back)) (ADVP (RB grind)))))
+-24.610916345650 -82.924520676965
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (RB back) (NN grind))))))
+-24.612386525768 -84.549988564232
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (RB back) (NN grind))))))
+-24.636448152012 -86.921452570552
+(S1 (S (IN So) (NP (PRP you)) (VP (NN work) (PP (IN in) (NP (JJ back) (NN grind))))))
+-24.870462607695 -85.587209389159
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (RB back) (JJ grind))))))
+-24.947823044325 -85.839721114314
+(S1 (S (ADVP (RB So)) (S (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (JJ back) (NN grind)))))))
+-24.951089207160 -86.824241313650
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back))) (ADVP (RB grind)))))
+-25.070227714096 -86.419241688431
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (RB back) (CD grind))))))
+-25.236453991453 -84.122508717893
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back) (RB grind)))))
+-25.237924174359 -85.747976605161
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back) (RB grind)))))
+-25.443806410751 -86.454237188514
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (RB back) (JJ grind))))))
+-25.472306819197 -86.233905491618
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind))))))))
+-25.504665992941 -86.938590215464
+(S1 (SQ (RB So) (NP (PRP you)) (VP (VB work) (PP (IN in) (NP (JJ back) (NN grind))))))
+-25.651199358212 -85.125308591864
+(S1 (S (ADVP (IN So)) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind))))))
+-25.729744547153 -87.286269487786
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (RB back) (CD grind))))))
+-25.738672448924 -87.488506859207
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (NP (JJ back) (NN grind)))))
+-26.128565150669 -87.205506252603
+(S1 (S (ADVP (RB So)) (S (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (NN back) (NN grind)))))))
+-26.212746944452 -86.658555423049
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (ADVP (RB back))) (ADVP (RB grind)))))
+-26.583111628976 -86.704470289037
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (ADJP (RB back) (JJ grind))))))
+-26.615711022877 -87.189923948067
+(S1 (S (ADVP (IN So)) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back)) (ADVP (RB grind)))))
+-26.641423487401 -87.035124341736
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (ADVP (RB in)) (ADVP (RB back) (RB grind)))))
+-26.731391708799 -87.351548241832
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (ADVP (RB back)) (NN grind))))))
+-26.908205727246 -85.814458928682
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back)) (ADVP (JJ grind)))))
+-27.071451179508 -87.525583222404
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (ADVP (RB back))) (ADVP (RB grind)))))
+-27.218688500342 -85.809350171810
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (ADVP (RB back)) (NP (NN grind))))))
+-27.245312544506 -86.602728837594
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (ADVP (RB in)) (ADVP (RB back)) (ADJP (JJ grind)))))
+-27.280075582890 -85.887321812717
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PRT (IN in)) (ADVP (RB back)) (ADVP (RB grind)))))
+-27.481549530303 -86.681486728037
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PRT (RP in)) (ADVP (RB back)) (ADVP (JJ grind)))))
+-27.507799628160 -87.540671454791
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PRT (IN in)) (ADVP (RB back) (RB grind)))))
+-27.657455649347 -87.299524043866
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (NP (ADJP (RB back)) (NN grind))))))
+-27.818656347563 -87.469756636949
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (ADVP (RB in)) (ADVP (RB back)) (ADJP (JJ grind)))))
+-27.911607893399 -86.676377971165
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (ADVP (RB back)) (NP (NN grind))))))
+-28.138779817946 -86.754349612072
+(S1 (S (RB So) (NP (PRP you)) (VP (VBP work) (PRT (IN in)) (ADVP (RB back)) (ADVP (RB grind)))))
+-28.370741607753 -86.745787590587
+(S1 (S (IN So) (NP (PRP you)) (VP (VBP work) (PP (IN in) (ADJP (ADVP (RB back)) (JJ grind))))))
+

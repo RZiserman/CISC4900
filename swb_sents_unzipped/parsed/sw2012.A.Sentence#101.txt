@@ -1,0 +1,102 @@
+50 x
+-18.337145380282 -66.850054558911
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP a-)))))))
+-18.616449546707 -64.342934721297
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADJP (JJ a-))))))
+-18.632284581602 -68.986913427117
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBD a-)))))))
+-20.012867987468 -73.659269149015
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VB a-)))))))
+-20.032637591780 -69.719433351528
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP they)) (ADJP (JJ a-))))))
+-20.063721878131 -75.331556238172
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (NNS a-)))))))
+-20.211832267765 -75.588719925828
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (VBG a-))))))
+-20.219105539934 -70.388352881307
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (NP (NN a-))))))
+-20.252861615853 -72.523887594161
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (NP (NNS a-))))))
+-20.713154931659 -72.738291682994
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADJP (JJR a-))))))
+-20.754349235015 -75.566053960522
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBZ a-)))))))
+-20.836032199570 -74.363939909627
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (VB a-))))))
+-20.939489261990 -76.885247924580
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBN a-)))))))
+-21.128403010641 -77.019587194495
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (NNS a-))))))
+-21.170038080929 -74.805667376999
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADVP (RB a-))))))
+-21.182445480638 -75.604253038188
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (VBN a-))))))
+-21.274054900073 -73.933142612973
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (NN a-))))))
+-21.330452492281 -74.155047193728
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP they)) (VP (VBP a-)))))))
+-21.356869081440 -77.658920361454
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (PRP they)) (ADVP (RB a-)))))
+-21.491470341263 -76.799102155751
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (NN a-)))))))
+-21.494935165164 -73.685178083054
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (NP (CD a-))))))
+-21.648220341788 -75.892901726910
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (PRP they) (NN a-)))))
+-21.707492027010 -72.216794752508
+(S1 (S (NP (PRP I)) (VP (VBP mean) (ADJP (NP (PRP they)) (JJ a-)))))
+-21.850845406690 -77.267305250587
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (PRP they)) (NP (NN a-)))))
+-21.998295063707 -77.128760599245
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (VBP a-))))))
+-22.007761286996 -78.756168390279
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (PRP they)) (NN a-)))))
+-22.057419740167 -76.782004044683
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP they)) (ADJP (JJR a-))))))
+-22.079864237059 -73.735598152129
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (NP (JJ a-))))))
+-22.080741480388 -75.278718109887
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADJP (RB a-))))))
+-22.169976986753 -77.717647945618
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP they)) (VP (VB a-))))))
+-22.226066332341 -75.990134610482
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP they)) (NP (NN a-))))))
+-22.297914043012 -79.306559042504
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (VBD a-))))))
+-22.358055067684 -70.755268403471
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADVP (JJ a-))))))
+-22.406070239036 -77.546593908035
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADJP (NNS a-))))))
+-22.594777368088 -79.592971999917
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (NP (NNS a-)))))))
+-22.946355074415 -76.583368619428
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP they)) (NP (JJ a-))))))
+-23.007982771229 -76.635282041095
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (PRP they) (JJ a-)))))
+-23.030872129727 -76.490894897649
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADJP (VBN a-))))))
+-23.059817253425 -76.891232743741
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADJP (RBR a-))))))
+-23.264722962437 -79.003932730092
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP they)) (VP (NN a-))))))
+-23.274752738803 -78.486678128479
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (JJ a-))))))
+-23.372141849790 -77.110239320961
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (PRP they)) (ADVP (JJ a-)))))
+-23.615840139281 -79.526668725991
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (NP (JJR a-))))))
+-23.756971967487 -75.242496984747
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP they)) (ADVP (JJ a-))))))
+-23.834799102608 -76.934604584083
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADVP (JJR a-))))))
+-23.901954798871 -78.281458906540
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (ADJP (NP (PRP they)) (JJ a-))))))
+-23.988584581253 -77.734354420024
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (ADVP (NN a-))))))
+-24.154616405768 -77.387596751195
+(S1 (S (NP (PRP I)) (VP (VBP mean) (ADVP (PRP they)) (ADJP (JJ a-)))))
+-24.425203644452 -79.271086282225
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (PRP they)) (S (ADJP (JJ a-))))))
+-25.043093567077 -76.554544896069
+(S1 (S (NP (PRP I)) (VP (VBP mean) (ADJP (ADVP (PRP they)) (JJ a-)))))
+

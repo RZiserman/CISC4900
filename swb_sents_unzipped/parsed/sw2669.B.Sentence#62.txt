@@ -1,0 +1,102 @@
+50 x
+-16.859654292183 -60.627453735223
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ warm)) (ADVP (RB right))))))
+-17.410950880516 -59.395102283894
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (NP (JJ warm) (NN right))))))
+-17.578001737871 -66.618549004921
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (ADJP (JJ warm)) (ADVP (RB right)))))))
+-18.359069460676 -65.712596173158
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (NP (JJ warm) (NN right)))))))
+-18.826160933085 -68.870774046119
+(S1 (S (NP (PRP It)) (VP (POS 's) (VP (VBG getting) (ADJP (JJ warm)) (ADVP (RB right))))))
+-18.840877638355 -69.789744998778
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (VBG getting) (ADJP (JJ warm)) (ADVP (RB right)))))))
+-19.337653579521 -60.885323574017
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ warm) (JJ right))))))
+-19.341701270360 -68.883792167014
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (VBG getting) (NP (JJ warm) (NN right)))))))
+-19.350015422196 -67.006267976540
+(S1 (S (NP (PRP It)) (VP (POS 's) (VP (VBG getting) (NP (JJ warm) (NN right))))))
+-19.827175772536 -66.865311602339
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (VP (VB warm) (ADVP (RB right))))))))
+-19.858762137708 -61.891883447165
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADVP (JJ warm) (NN right))))))
+-19.895450241542 -68.486068684839
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (ADJP (JJ warm)) (ADVP (RB right)))))))
+-19.899136356151 -69.341412979371
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (VP (VB warm) (ADVP (RB right)))))))
+-20.096821574742 -67.476073431025
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (NP (JJ warm) (JJ right))))))
+-20.258691418210 -68.646662395625
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (ADJP (JJ warm) (JJ right)))))))
+-20.412516856379 -68.213135484392
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (ADVP (JJ warm) (NN right)))))))
+-20.425857512388 -64.814400009662
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ warm) (RB right))))))
+-20.555754641032 -68.117542475123
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (NP (VB warm) (NN right))))))
+-20.584393190020 -67.003127416543
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ warm) (ADVP (RB right)))))))
+-20.807077981059 -68.077327882843
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADVP (JJ warm) (RB right))))))
+-20.937972240143 -68.481161394660
+(S1 (S (NP (PRP It)) (VP (POS 's) (VP (VBG getting) (ADJP (JJ warm) (JJ right))))))
+-20.976588094504 -65.913694095528
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ warm)) (ADVP (JJ right))))))
+-20.982126459710 -69.757571901294
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (NP (JJ warm)) (ADVP (RB right))))))
+-21.194226548714 -71.198022022530
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (ADJP (JJ warm)) (ADVP (JJ right)))))))
+-21.247721676363 -66.537668994055
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (VP (VB warm) (ADJP (JJ right)))))))
+-21.265406882788 -68.504037518699
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADVP (JJ warm)) (ADVP (RB right))))))
+-21.303372580678 -71.131922773062
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (PRT (JJ warm)) (ADVP (RB right))))))
+-21.367576723555 -70.231756626246
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADVP (VB warm) (RB right))))))
+-21.368796728136 -70.669674086099
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (ADJP (JJ warm)) (NP (NN right)))))))
+-21.477065996916 -70.184330289255
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (NP (VB warm)) (ADVP (RB right))))))
+-21.640172652131 -66.130749768896
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (VP (VB warm) (ADJP (JJ right))))))))
+-21.644976705063 -71.384331478248
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (VBG getting) (ADVP (JJ warm) (NN right)))))))
+-21.708603001035 -69.410945594232
+(S1 (S (NP (PRP It)) (VP (POS 's) (VP (VBG getting) (ADVP (JJ warm) (NN right))))))
+-21.711313660510 -70.184850362430
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (VP (VB warm) (NP (NN right)))))))
+-21.742542358153 -67.499313880011
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (NP (ADJP (JJ warm)) (NN right))))))
+-21.782349542819 -69.015597204812
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (VP (VB warm) (NP (NN right))))))))
+-21.813463046137 -68.005281458954
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (ADJP (JJ warm) (JJ right)))))))
+-22.084047684280 -70.392767828317
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (ADJP (JJ warm)) (ADVP (NN right)))))))
+-22.101657294717 -65.199199737157
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ warm)) (ADVP (NN right))))))
+-22.284317100861 -68.828560719636
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (NP (JJ warm)) (ADJP (JJ right)))))))
+-22.289940449136 -70.623837892142
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (JJ warm) (NP (NN right))))))
+-22.368194385360 -70.627628365152
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (VBG getting) (JJ warm) (NN right)))))
+-22.371565770904 -71.314079032364
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (VBG getting) (S (VP (VB warm) (ADJP (JJ right)))))))))
+-22.412357762295 -68.457062325617
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADVP (VB warm) (JJ right))))))
+-22.643658115545 -70.330645088680
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (VP (JJ warm) (NP (NN right)))))))
+-22.654291465722 -70.116362394724
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (VP (VB warm) (ADJP (RB right)))))))
+-22.722155112163 -69.486705193122
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (NP (JJ warm) (NN right)))))))
+-22.742003403616 -68.989544945866
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ warm) (ADVP (JJ right)))))))
+-22.980502417760 -69.423030499595
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (VP (VB warm) (ADJP (RB right))))))))
+-24.053892930604 -71.541553146495
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG getting) (S (VP (VB warm) (ADVP (JJ right))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-29.839089000596 -96.271284359792
+(S1 (NP (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (PP (IN of))))
+-29.871507061674 -99.966169798438
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (VP (NN kind) (PP (IN of)))))
+-30.002638420751 -91.523767688226
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (ADVP (NN kind) (IN of))))
+-30.437873229609 -95.876067969508
+(S1 (S (NP (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (PP (IN of)))))
+-30.527735504784 -97.868473146037
+(S1 (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind) (PP (IN of))))
+-30.537061026527 -93.919653945963
+(S1 (FRAG (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (PP (IN of))))
+-30.644925569193 -99.030814416122
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (ADJP (RB kind) (PP (IN of)))))
+-30.695219019754 -95.296566947130
+(S1 (NP (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (X (IN of))))
+-30.763030298475 -98.607571111923
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (ADJP (NN kind) (PP (IN of)))))
+-30.835968118668 -93.516627792156
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (ADVP (RB kind) (IN of))))
+-31.115823480616 -99.522166079211
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (ADVP (RB kind) (RB of))))
+-31.444377415863 -99.131857359401
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (ADVP (NN kind) (PP (IN of)))))
+-31.536810673910 -97.731914573953
+(S1 (FRAG (NP (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (PP (IN of)))))
+-31.598782426894 -100.860513604877
+(S1 (NP (NP (PRP$ My) (CD six) (NP (NN year) (JJ old) (POS 's)) (NN kind)) (PP (IN of))))
+-31.711090594118 -95.437010552416
+(S1 (FRAG (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (ADVP (IN of))))
+-31.723214826663 -99.888078900068
+(S1 (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (ADVP (NN kind) (IN of))))
+-31.734673989991 -95.226748414974
+(S1 (FRAG (NP (PRP$ My) (CD six) (NN year)) (ADJP (JJ old)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of))))))
+-31.781487165246 -95.940689069539
+(S1 (NP (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (PP (IN of))))
+-31.884104409007 -97.038275672188
+(S1 (FRAG (NP (PRP$ My) (CD six) (NP (NN year) (JJ old) (POS 's)) (NN kind)) (PP (IN of))))
+-31.913887029054 -99.536324686267
+(S1 (NP (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (NP (IN of))))
+-32.071051627534 -100.010064088496
+(S1 (S (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NP (NP (NN kind)) (PP (IN of)))))
+-32.178749875241 -100.465297097037
+(S1 (S (NP (NP (PRP$ My) (CD six) (NP (NN year) (JJ old) (POS 's)) (NN kind)) (PP (IN of)))))
+-32.178830816961 -97.763687011777
+(S1 (S (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (ADJP (IN of))))
+-32.228925280491 -98.135381584698
+(S1 (S (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (ADVP (IN of))))
+-32.315974269258 -95.545472679255
+(S1 (S (NP (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (PP (IN of)))))
+-32.454912446052 -99.885796192214
+(S1 (NP (NP (PRP$ My) (CD six) (NP (NN year) (JJ old) (POS 's)) (NN kind)) (X (IN of))))
+-32.637617184403 -94.965971656876
+(S1 (NP (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (X (IN of))))
+-32.713252273793 -99.013813112708
+(S1 (FRAG (NP (PRP$ My) (CD six) (NN year)) (ADJP (JJ old)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of)))))))
+-32.760392169433 -97.537877855783
+(S1 (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind) (PP (IN of))))
+-32.769717691176 -93.589058655709
+(S1 (FRAG (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (PP (IN of))))
+-32.883165706786 -96.403137441582
+(S1 (FRAG (ADVP (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (IN of))))
+-32.905919442390 -95.988123354686
+(S1 (S (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (NNS 's)) (ADVP (NN kind) (IN of))))
+-33.058134010052 -98.555632392562
+(S1 (FRAG (NP (PRP$ My) (CD six) (NP (NN year) (JJ old) (POS 's)) (NN kind)) (ADVP (IN of))))
+-33.101267852908 -99.313345532327
+(S1 (S (ADVP (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (IN of))))
+-33.328732866375 -95.557898712863
+(S1 (S (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (ADVP (NN kind) (IN of))))
+-33.373257322118 -101.054314421299
+(S1 (FRAG (NP (NP (PRP$ My) (CD six) (NN year) (JJ old) (POS 's)) (NN kind)) (X (IN of))))
+-33.479208838559 -97.401319283700
+(S1 (FRAG (NP (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (PP (IN of)))))
+-33.497639110850 -100.549150038585
+(S1 (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (ADVP (RB kind) (RB of))))
+-33.526228793238 -98.347713807827
+(S1 (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (ADVP (NN kind) (IN of))))
+-33.685457089563 -98.719415101378
+(S1 (S (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old))) (VP (VBZ 's) (ADVP (NN kind) (IN of)))))
+-33.879209586003 -99.205729396013
+(S1 (NP (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (NP (IN of))))
+-33.943747258768 -95.106415262162
+(S1 (FRAG (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (ADVP (IN of))))
+-34.121229012276 -97.433091831524
+(S1 (S (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (ADJP (IN of))))
+-34.154654655930 -97.550758781076
+(S1 (S (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (ADVP (RB kind) (IN of))))
+-34.171323475806 -97.804786404444
+(S1 (S (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (ADVP (IN of))))
+-34.204486862954 -100.497480307368
+(S1 (FRAG (ADVP (NP (PRP$ My) (CD six) (NP (NN year) (JJ old) (POS 's)) (NN kind)) (IN of))))
+-34.665794156114 -100.933202245409
+(S1 (S (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (ADVP (NN kind) (IN of)))))
+-34.979368892557 -98.982750242074
+(S1 (S (ADVP (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (IN of))))
+-35.115822371435 -96.072542151329
+(S1 (FRAG (ADVP (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (IN of))))
+-35.605913983979 -100.723719131046
+(S1 (FRAG (NP (NP (PRP$ My) (ADJP (NP (CD six) (NN year)) (JJ old)) (POS 's)) (NN kind)) (X (IN of))))
+

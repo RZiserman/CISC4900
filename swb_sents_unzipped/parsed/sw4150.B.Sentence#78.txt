@@ -1,0 +1,102 @@
+50 x
+-13.381413611704 -49.136988937615
+(S1 (NP (DT Some) (JJ baby-sitting) (NNS groups)))
+-15.257377027549 -52.934009869749
+(S1 (NP (DT Some) (NN baby-sitting) (NNS groups)))
+-15.551263381337 -54.873924535759
+(S1 (NP (DT Some) (VBG baby-sitting) (NNS groups)))
+-16.580696310926 -52.414264270144
+(S1 (S (NP (DT Some) (JJ baby-sitting) (NNS groups))))
+-16.769230578188 -53.712927612737
+(S1 (FRAG (NP (DT Some) (JJ baby-sitting) (NNS groups))))
+-17.382387458398 -54.127709416352
+(S1 (S (NP (DT Some) (NN baby-sitting) (NNS groups))))
+-17.748644489187 -62.277535306046
+(S1 (NP (ADJP (RB Some) (JJ baby-sitting)) (NNS groups)))
+-17.774636357155 -56.778194143403
+(S1 (S (NP (DT Some)) (NP (JJ baby-sitting) (NNS groups))))
+-17.953418696385 -62.650861114660
+(S1 (NP (DT Some) (NP (JJ baby-sitting) (NNS groups))))
+-17.958113190593 -60.692213113727
+(S1 (NP (RB Some) (JJ baby-sitting) (NNS groups)))
+-17.979019043118 -59.428433808257
+(S1 (X (NP (DT Some) (JJ baby-sitting) (NNS groups))))
+-18.042828522417 -66.591860915374
+(S1 (S (NP (DT Some)) (VP (VBG baby-sitting) (NP (NNS groups)))))
+-18.772728235283 -59.670118358748
+(S1 (S (NP (DT Some) (VBG baby-sitting) (NNS groups))))
+-18.851391927169 -59.720707967400
+(S1 (FRAG (NP (DT Some) (NN baby-sitting) (NNS groups))))
+-18.978299510214 -56.027470752436
+(S1 (NP (DT Some) (ADJP (JJ baby-sitting)) (NNS groups)))
+-19.003682890646 -65.230450736976
+(S1 (NP (DT Some) (NP (NN baby-sitting) (NNS groups))))
+-19.166485004058 -63.994085616974
+(S1 (S (NP (DT Some)) (VP (NN baby-sitting) (NP (NNS groups)))))
+-19.281683838642 -63.519501025314
+(S1 (NP (NP (DT Some)) (JJ baby-sitting) (NNS groups)))
+-19.315397384459 -61.800664975152
+(S1 (FRAG (NP (DT Some) (VBG baby-sitting) (NNS groups))))
+-19.363119028019 -67.519137736205
+(S1 (NP (DT Some) (NP (VBG baby-sitting) (NNS groups))))
+-19.423792978882 -64.719695921981
+(S1 (NP (NP (DT Some)) (NP (JJ baby-sitting) (NNS groups))))
+-19.522975237269 -59.915271361045
+(S1 (S (NP (DT Some)) (NP (NN baby-sitting) (NNS groups))))
+-19.631993351706 -63.268422193056
+(S1 (X (DT Some) (JJ baby-sitting) (NNS groups)))
+-19.636437306966 -64.530529432491
+(S1 (NP (ADJP (DT Some) (JJ baby-sitting)) (NNS groups)))
+-19.698244037925 -65.601653459801
+(S1 (NP (RB Some) (NN baby-sitting) (NNS groups)))
+-19.958242185815 -65.123239303734
+(S1 (NP (NP (DT Some) (NN baby-sitting)) (NNS groups)))
+-19.983564646945 -64.004374821587
+(S1 (X (NP (DT Some) (NN baby-sitting) (NNS groups))))
+-20.049184071840 -63.367625524489
+(S1 (S (NP (DT Some) (NN baby-sitting)) (NP (NNS groups))))
+-20.209717832135 -65.808312418041
+(S1 (X (NP (DT Some) (VBG baby-sitting) (NNS groups))))
+-20.227518353429 -67.193767377601
+(S1 (S (NP (DT Some)) (VP (JJ baby-sitting) (NP (NNS groups)))))
+-20.327954639608 -65.141866656194
+(S1 (S (NP (DT Some)) (NP (VBG baby-sitting) (NNS groups))))
+-20.572242943581 -64.604839003744
+(S1 (S (NP (DT Some) (NP (JJ baby-sitting) (NNS groups)))))
+-20.596979843679 -65.286848423530
+(S1 (NP (DT Some) (ADJP (VBG baby-sitting)) (NNS groups)))
+-20.655603081399 -67.841200818679
+(S1 (NP (NP (DT Some) (NN baby-sitting)) (NP (NNS groups))))
+-20.685653796498 -64.646530958409
+(S1 (S (NP (RB Some) (JJ baby-sitting) (NNS groups))))
+-20.844981904816 -66.953635041495
+(S1 (FRAG (NP (DT Some) (NP (JJ baby-sitting) (NNS groups)))))
+-20.984100613653 -67.800272520533
+(S1 (NP (NP (DT Some)) (NP (NN baby-sitting) (NNS groups))))
+-21.020685832134 -64.210752882074
+(S1 (FRAG (RB Some) (NP (JJ baby-sitting) (NNS groups))))
+-21.168100769171 -67.290067460625
+(S1 (S (NP (ADJP (RB Some) (JJ baby-sitting)) (NNS groups))))
+-21.209463740850 -66.504479320022
+(S1 (NP (NP (DT Some)) (NN baby-sitting) (NNS groups)))
+-21.351256476863 -65.630344825990
+(S1 (FRAG (NP (DT Some)) (NP (JJ baby-sitting) (NNS groups))))
+-21.408753611678 -67.179858735796
+(S1 (X (DT Some) (NP (JJ baby-sitting) (NNS groups))))
+-21.417756536611 -67.151415882197
+(S1 (NP (NP (DT Some) (JJ baby-sitting)) (NP (NNS groups))))
+-21.596133039875 -67.184428435673
+(S1 (S (NP (DT Some) (NP (NN baby-sitting) (NNS groups)))))
+-21.810994196845 -66.635010610902
+(S1 (FRAG (NP (RB Some) (NN baby-sitting) (NNS groups))))
+-22.167601863151 -65.303231492379
+(S1 (S (NP (DT Some) (JJ baby-sitting)) (NP (NNS groups))))
+-22.306588713271 -60.428881486935
+(S1 (S (NP (DT Some) (ADJP (JJ baby-sitting)) (NNS groups))))
+-22.875366725547 -63.206145403797
+(S1 (FRAG (NP (DT Some) (ADJP (JJ baby-sitting)) (NNS groups))))
+-23.714865546226 -67.232188481691
+(S1 (X (NP (DT Some) (ADJP (JJ baby-sitting)) (NNS groups))))
+-23.873578660278 -66.164927695431
+(S1 (S (NP (DT Some)) (NP (ADJP (JJ baby-sitting)) (NNS groups))))
+

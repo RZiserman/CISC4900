@@ -1,0 +1,102 @@
+50 x
+-17.110646442859 -72.112391265115
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (PP (IN past) (NP (DT that) (NN stage))))))
+-18.150137924334 -75.527249028845
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (PP (IN past) (NP (DT that) (NN stage))))))
+-19.453056067544 -79.989368755361
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBN got) (PP (IN past) (NP (DT that) (NN stage))))))
+-20.191905606839 -78.048964261781
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBD got) (PP (IN past) (NP (DT that) (NN stage))))))
+-20.595812750459 -76.429712805954
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (VP (JJ past) (NP (DT that) (NN stage))))))
+-20.694639099028 -81.061328562362
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBN got) (PP (IN past) (NP (DT that) (NN stage))))))
+-20.836934598023 -76.872635693222
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (ADVP (RB past)) (NP (DT that) (NN stage)))))
+-21.292273527149 -80.050321092505
+(S1 (S (NP (PRP I)) (RB never) (VP (VBD got) (PP (IN past) (NP (DT that) (NN stage))))))
+-21.353051544151 -81.712754338572
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (S (VP (NN past) (NP (DT that) (NN stage)))))))
+-21.394158731846 -81.741788661758
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (VP (NN past) (NP (DT that) (NN stage))))))
+-21.494674903403 -80.055473378411
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (S (ADJP (JJ past)) (NP (DT that) (NN stage))))))
+-21.552856580003 -81.723784598328
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (S (VP (NN past) (NP (DT that) (NN stage)))))))
+-21.651549063498 -79.675950776884
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (ADVP (RB past)) (NP (DT that) (NN stage)))))
+-21.717308887903 -78.083717359001
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (NP (JJ past) (DT that) (NN stage)))))
+-21.914036187548 -80.594982679583
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (PP (IN past) (NP (WDT that) (NN stage))))))
+-21.937955132519 -78.895306697899
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (NP (RB past) (DT that) (NN stage)))))
+-22.054644092876 -80.623860384641
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (PP (IN past) (NP (IN that) (NN stage))))))
+-22.078425842706 -81.076422191510
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (S (ADJP (JJ past)) (NP (DT that) (NN stage))))))
+-22.279592186672 -82.780040396570
+(S1 (S (NP (PRP I)) (RB never) (VP (VBP got) (PP (IN past) (NP (DT that) (NN stage))))))
+-22.484942703272 -80.018515424989
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (VP (JJ past) (NP (DT that) (NN stage))))))
+-22.562939198174 -78.912368083897
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (NP (NP (NN past)) (SBAR (WHNP (WDT that)) (S (VP (VBP stage))))))))
+-22.873798074917 -79.858941104165
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (RB past) (NP (DT that) (NN stage)))))
+-22.891142815764 -81.408050477135
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (NP (RB past) (DT that) (NN stage)))))
+-22.936556370726 -81.305259515800
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (RB past) (NP (DT that) (NN stage)))))
+-23.064531112704 -80.974364365182
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (NP (JJ past) (DT that) (NN stage)))))
+-23.076017667315 -79.834014322788
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (NP (NP (NN past)) (SBAR (WHNP (WDT that)) (S (VP (VBP stage))))))))
+-23.307275982680 -81.814582079626
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (ADVP (NN past)) (NP (DT that) (NN stage)))))
+-23.456474741690 -81.082946197323
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (ADVP (NN past)) (NP (DT that) (NN stage)))))
+-23.739016603964 -82.811348757299
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (ADVP (JJ past)) (NP (DT that) (NN stage)))))
+-23.864335283077 -83.161441871132
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (S (NP (NN past)) (NP (DT that) (NN stage))))))
+-23.907319678529 -82.905923398054
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (S (NP (NN past)) (NP (DT that) (NN stage))))))
+-24.028146416245 -81.673323960795
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (S (ADJP (RB past)) (NP (DT that) (NN stage))))))
+-24.060988005629 -81.710656155791
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (NP (NP (JJ past)) (SBAR (WHNP (WDT that)) (S (VP (VBP stage))))))))
+-24.105886867537 -82.193134039297
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (ADVP (JJ past)) (NP (DT that) (NN stage)))))
+-24.131685252288 -81.543818109548
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBD got) (NP (JJ past) (DT that) (NN stage)))))
+-24.211025953904 -82.355407448446
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBD got) (NP (RB past) (DT that) (NN stage)))))
+-24.316762344056 -82.704990294855
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (ADJP (RB past)) (NP (DT that) (NN stage)))))
+-24.392095945091 -81.370638908054
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBP got) (NP (RB past) (DT that) (NN stage)))))
+-24.443858866772 -82.200138266234
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (S (NP (JJ past)) (NP (DT that) (NN stage))))))
+-24.521298560639 -80.983463848920
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (ADVP (RB past)) (NP (IN that) (NN stage)))))
+-24.524782678904 -83.267290657059
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (NP (ADVP (JJ past)) (DT that) (NN stage)))))
+-24.536263242031 -80.936952796101
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBP got) (NP (JJ past) (DT that) (NN stage)))))
+-24.595658510448 -82.694272773894
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (S (ADJP (RB past)) (NP (DT that) (NN stage))))))
+-24.625442017559 -82.372468834443
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBD got) (NP (NP (NN past)) (SBAR (WHNP (WDT that)) (S (VP (VBP stage))))))))
+-24.678849043642 -79.796602753707
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBP got) (NP (NP (NN past)) (SBAR (WHNP (WDT that)) (S (VP (VBP stage))))))))
+-24.867088427436 -81.944619793155
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (S (NP (JJ past)) (NP (DT that) (NN stage))))))
+-24.885367008101 -80.587251763679
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (VP (JJ past) (NP (IN that) (NN stage))))))
+-25.162242678844 -82.979232556803
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP got) (NP (NP (JJ past)) (SBAR (WHNP (WDT that)) (S (VP (VBP stage))))))))
+-25.677198319349 -83.076349100628
+(S1 (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD got) (ADJP (RB past) (PP (IN that) (NP (NN stage)))))))
+-26.622370475171 -82.941820987722
+(S1 (S (NP (PRP I)) (VP (ADVP (RB never)) (VBP got) (NP (NP (JJ past)) (SBAR (WHNP (WDT that)) (S (VP (VBP stage))))))))
+

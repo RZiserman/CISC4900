@@ -1,0 +1,102 @@
+50 x
+-14.192719308134 -52.272700298194
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (VB start))))))
+-16.309574580845 -61.948786036071
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (PRT (RP ahead))) (CC and) (VP (VB start))))))
+-17.571701990126 -59.674564678729
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (NN start))))))
+-17.766342549979 -66.119538918425
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (PRT (RB ahead))) (CC and) (VP (VB start))))))
+-18.208347321262 -62.988484465849
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (VBP start))))))
+-18.377055215853 -63.964590620645
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADVP (RP ahead))) (CC and) (VP (VB start))))))
+-19.057106137591 -64.755450133856
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (NP (NN start)))))))
+-19.276666945543 -66.298756638267
+(S1 (S (NP (PRP I)) (VP (MD can) (S (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (VB start)))))))
+-19.389757620660 -66.744100864513
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (NP (VB start)))))))
+-19.410700262895 -65.628719659770
+(S1 (S (NP (PRP I)) (MD can) (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (VB start)))))
+-19.429075333763 -66.220720257210
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADJP (RB ahead))) (CC and) (VP (VB start))))))
+-19.442994737752 -60.780743610109
+(S1 (S (NP (PRP I)) (VP (VP (MD can) (VP (VB go) (ADVP (RB ahead)))) (CC and) (VP (VB start)))))
+-19.646563432837 -69.350650416606
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (PRT (RP ahead))) (CC and) (VP (NN start))))))
+-19.984093211863 -63.400928453197
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)))) (CC and) (VP (VB start))))
+-20.033778711242 -68.612255330012
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead) (CC and) (NN start))))))
+-20.098254030786 -68.442309426378
+(S1 (S (NP (NN I)) (VP (MD can) (VP (VP (VB go) (ADVP (RB ahead))) (CC and) (VP (VB start))))))
+-20.108080571696 -67.256210654133
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead) (PP (CC and) (VB start)))))))
+-20.300226531186 -72.664570203726
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (PRT (RP ahead))) (CC and) (VP (VBP start))))))
+-20.359091209105 -69.376396716720
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)) (PP (CC and) (VB start))))))
+-20.873349669527 -71.021214715726
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADJP (RB ahead) (CC and) (VB start))))))
+-20.961222594068 -68.429139826983
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (NP (RB ahead))) (CC and) (VP (VB start))))))
+-21.103331401971 -73.521403298960
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (PRT (RB ahead))) (CC and) (VP (NN start))))))
+-21.128534523746 -64.142157615452
+(S1 (S (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead))))) (CC and) (S (VP (VB start)))))
+-21.272910907093 -67.963127771029
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)) (PP (CC and) (NP (NN start)))))))
+-21.439491619456 -70.763260562130
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)) (VP (CC and) (VP (VB start)))))))
+-21.483611927188 -72.155095264092
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (UCP (ADJP (RB ahead)) (CC and) (NP (NN start)))))))
+-21.528379611483 -73.635465781718
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)) (VP (CC and) (VB start))))))
+-21.607046576783 -65.668504599820
+(S1 (S (NP (PRP I)) (VP (VP (MD can) (VP (VB go) (ADVP (RB ahead)))) (CC and) (VP (VBP start)))))
+-21.607774680086 -72.971089612192
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (UCP (ADVP (RB ahead)) (CC and) (NP (NN start)))))))
+-21.708986496606 -66.571267894620
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)))) (CC and) (VP (VBP start))))
+-21.756037897845 -71.366455001180
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADVP (RP ahead))) (CC and) (VP (NN start))))))
+-21.805422333552 -71.035461708274
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (S (ADVP (RB ahead)))) (CC and) (VP (VB start))))))
+-21.839846267940 -70.558253118965
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (S (ADJP (RB ahead)))) (CC and) (VP (VB start))))))
+-21.941692707840 -71.090851814366
+(S1 (S (NP (PRP I)) (VP (VP (MD can) (VP (VB go) (PRT (RP ahead)))) (CC and) (VP (VB start)))))
+-22.049567569015 -70.393914732864
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)) (PP (CC and) (NP (VB start)))))))
+-22.093128150548 -67.452418471010
+(S1 (S (NP (PRP I)) (VP (VP (MD can) (VP (VB go) (ADVP (RB ahead)))) (CC and) (VP (NN start)))))
+-22.211789775783 -73.426847679474
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead)) (VP (CC and) (NP (NN start)))))))
+-22.413454543964 -70.132043595684
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead) (PP (CC and) (NP (NN start))))))))
+-22.498376347950 -72.573361219219
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (ADVP (RB ahead)) (CC and) (NP (NN start)))))))
+-22.542721621645 -73.711036897186
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (PRT (RP ahead)))) (CC and) (VP (VB start))))
+-22.553799615085 -65.863924914007
+(S1 (S (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead))))) (CC and) (S (VP (VBP start)))))
+-22.683004715755 -73.622584637744
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VP (VB go) (ADJP (RB ahead))) (CC and) (VP (NN start))))))
+-22.734150449546 -72.058005451478
+(S1 (S (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead))))) (CC and) (S (NP (NN start)))))
+-23.017882787003 -73.574586730785
+(S1 (S (NP (PRP I)) (MD can) (VP (VP (VBP go) (ADVP (RB ahead))) (CC and) (VP (VBP start)))))
+-23.390051690228 -72.669030686647
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead) (PP (CC and) (NP (VB start))))))))
+-23.581440167410 -71.091317604885
+(S1 (S (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADVP (RB ahead))))) (CC and) (S (NP (VB start)))))
+-23.593358812343 -70.546177355934
+(S1 (S (NP (PRP I)) (VP (VP (MD can) (VP (VB go) (ADJP (RB ahead)))) (CC and) (VP (VB start)))))
+-23.879054487700 -73.611298280839
+(S1 (S (NP (PRP I)) (VP (VP (MD can) (VP (VB go) (ADVP (RB ahead)))) (CC and) (VP (NP (NN start))))))
+-23.951969505471 -72.472633932560
+(S1 (S (NP (PRP I)) (VP (VP (MD can) (VP (VB go) (ADVP (RP ahead)))) (CC and) (VP (VB start)))))
+-24.017474135303 -73.166362158871
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB go) (ADJP (RB ahead)))) (CC and) (VP (VB start))))
+

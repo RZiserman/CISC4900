@@ -1,0 +1,102 @@
+50 x
+-20.486103456615 -78.178403102787
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend)))))))))
+-20.867278708744 -72.500657131309
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (DT a) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-21.151167568202 -78.117825059984
+(S1 (S (NP (PRP I)) (VP (VBP have) (DT a) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-21.774722194526 -76.541661238260
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (X (SYM a)) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-22.401402499075 -84.152221560097
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (NP (DT a)) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))))
+-22.551366270514 -77.843264276863
+(S1 (S (NP (PRP I)) (VP (VBP have) (ADVP (DT a)) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-22.564105692536 -80.635107263546
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (NN I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-22.666398576087 -81.902633176627
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN I)) (VP (VB have) (NP (DT a) (NN friend)))))))
+-22.706081535363 -78.767665958333
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-22.763534643864 -80.125851792380
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (NN I)) (VP (VB have) (NP (DT a) (NN friend))))))))
+-22.968697237754 -81.963742381462
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a)) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-22.977279842768 -76.827866116618
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (WHNP (DT a)) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.014157873188 -81.516809514843
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN I)) (SBAR (S (VP (VBP have) (NP (DT a) (NN friend)))))))))
+-23.015441115780 -80.414223032215
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (NP (PRP I))) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.083720813613 -82.830847003558
+(S1 (S (NP (PRP I)) (VP (VBP have) (DT a) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend)))))))
+-23.086732803077 -79.035558252695
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (X (DT a)) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.181843259856 -80.452852780505
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (FW I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.202524050673 -77.752567590775
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (DT a) (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN friend))))))))
+-23.310226635557 -81.263961464044
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (WHADVP (DT a)) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.373501333136 -81.939016763092
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.434837794918 -78.938668286208
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (X (SYM a)) (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.586484069856 -81.356399788293
+(S1 (S (NP (PRP I)) (VP (VB have) (SBAR (DT a) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-23.629858505893 -80.801814828069
+(S1 (S (NP (PRP I)) (VBP have) (NP (DT a) (NN I)) (VP (VBP have) (NP (DT a) (NN friend)))))
+-23.853946222997 -75.842195168690
+(S1 (S (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN I)))) (VP (VBP have) (NP (DT a) (NN friend)))))
+-24.051677979068 -83.992778645072
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (PRP I)) (VP (VBP have) (NP (DT a) (NN friend)))))))
+-24.227082711335 -84.053120608045
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN I)) (VP (VB have) (NP (DT a) (NN friend))))))
+-24.268854257860 -80.396163262811
+(S1 (S (NP (PRP I)) (VBP have) (NP (DT a) (PRP I)) (VP (VBP have) (NP (DT a) (NN friend)))))
+-24.357049249783 -82.009977000585
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (X (DT a)) (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-24.396493540978 -82.468211315945
+(S1 (S (NP (PRP I)) (VBP have) (NP (DT a) (NP (PRP I))) (VP (VBP have) (NP (DT a) (NN friend)))))
+-24.448043596837 -84.603726257441
+(S1 (S (NP (PRP I)) (VP (VBP have) (X (SYM a)) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend)))))))
+-24.551291078244 -83.542881697278
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN I) (S (VP (VBP have) (NP (DT a) (NN friend))))))))
+-24.576383419564 -79.167139261701
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (DT a) (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN friend)))))))))
+-24.608593418661 -84.016872353615
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (X (SYM a)) (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend)))))))
+-24.635534937042 -83.877173425614
+(S1 (S (NP (PRP I)) (VBP have) (NP (DT a) (NN I)) (VP (VB have) (NP (DT a) (NN friend)))))
+-24.635715242723 -83.058294325013
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (X (SYM a)) (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN friend))))))))
+-24.666365432234 -82.595506773149
+(S1 (S (NP (PRP I)) (VBP have) (NP (DT a) (FW I)) (VP (VBP have) (NP (DT a) (NN friend)))))
+-24.671221237236 -81.041374085316
+(S1 (S (NP (PRP I)) (VP (VBP have) (ADVP (DT a)) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend)))))))
+-24.995263150838 -81.517100457696
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (ADVP (DT a)) (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN friend))))))))
+-25.171625935021 -84.784307190376
+(S1 (S (NP (PRP I)) (VP (VBP have) (DT a) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN friend)))))))))
+-25.203262099315 -82.622886314585
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN I))) (VP (VBP have) (NP (DT a) (NN friend)))))
+-25.338370465596 -82.303701152033
+(S1 (S (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NNP I)))) (VP (VBP have) (NP (DT a) (NN friend)))))
+-25.398994666056 -83.618913144719
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN I)) (SBAR (S (VP (VBP have) (NP (DT a) (NN friend))))))))
+-25.477379561345 -83.208143368652
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (X (SYM a)) (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN friend)))))))))
+-25.553653138148 -83.969751639394
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (WHNP (DT a)) (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN friend))))))))
+-26.106929241989 -81.876151767848
+(S1 (S (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN I)))) (VP (VB have) (NP (DT a) (NN friend)))))
+-26.206959386727 -84.198856980918
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN I))) (VP (VB have) (NP (DT a) (NN friend)))))
+-26.413517479587 -83.494348247011
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (WHNP (DT a)) (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN friend)))))))))
+-26.571824637333 -84.509746407256
+(S1 (S (NP (PRP I)) (VP (VBP have) (ADVP (DT a)) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN friend)))))))))
+-26.865781513060 -84.173644747551
+(S1 (S (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (FW I)))) (VP (VBP have) (NP (DT a) (NN friend)))))
+-27.616921686363 -82.508677177371
+(S1 (S (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN I)))) (VP (VBP have) (S (NP (DT a) (NN friend))))))
+

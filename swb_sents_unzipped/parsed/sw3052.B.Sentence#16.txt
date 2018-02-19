@@ -1,0 +1,102 @@
+50 x
+-23.584398375580 -75.007559228520
+(S1 (FRAG (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-24.008861388514 -76.308129796142
+(S1 (ADVP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-24.329330340481 -77.768652348744
+(S1 (FRAG (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-24.666131887642 -80.733699723490
+(S1 (PP (ADVP (RB Really)) (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-24.729899189179 -81.148269961403
+(S1 (S (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-24.811156011489 -81.145238422927
+(S1 (FRAG (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home)))))))
+-24.920460593775 -77.407769388961
+(S1 (ADJP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-25.103479587301 -78.269433655594
+(S1 (S (ADJP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-25.219410681905 -78.131771742360
+(S1 (ADVP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-25.414204694150 -79.832065071558
+(S1 (S (ADJP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-25.424934614467 -81.915582907802
+(S1 (PP (RB Really) (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-25.475140541423 -82.445808990549
+(S1 (ADVP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home)))))))
+-25.508742562007 -81.347811458336
+(S1 (PP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-25.556087976390 -83.906331543151
+(S1 (FRAG (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home)))))))
+-25.591129909768 -80.438137701138
+(S1 (FRAG (PP (ADVP (RB Really)) (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-25.701233397098 -78.586930957995
+(S1 (FRAG (ADVP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-26.050756270485 -84.784832686808
+(S1 (PP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-26.076662666684 -83.545448583368
+(S1 (ADJP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home)))))))
+-26.164860086264 -83.732468577885
+(S1 (S (PP (ADVP (RB Really)) (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-26.280706536334 -79.126464100320
+(S1 (FRAG (ADJP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-26.298928100210 -84.407112850001
+(S1 (S (ADJP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home))))))))
+-26.400078647832 -84.888995056235
+(S1 (VP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-26.580412960502 -83.819353068920
+(S1 (S (ADVP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-26.685689837602 -84.269450936767
+(S1 (ADVP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home)))))))
+-26.733819219846 -85.969744265965
+(S1 (S (ADJP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home)))))))
+-26.797367392106 -83.059185990538
+(S1 (FRAG (VP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-26.811705388855 -82.543110696794
+(S1 (S (ADVP (RB Really)) (VP (ADVP (RB in)) (VB need) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-27.113902103007 -84.724610152402
+(S1 (FRAG (ADVP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home))))))))
+-27.118012245024 -85.344567224333
+(S1 (UCP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-27.168543536496 -83.661510645630
+(S1 (ADJP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-27.176446726658 -83.960307163193
+(S1 (FRAG (PP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-27.190805388969 -82.590737291656
+(S1 (FRAG (NP (NP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-27.308203149569 -86.167512715349
+(S1 (S (PP (RB Really) (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-27.383298162243 -85.264143294727
+(S1 (FRAG (ADJP (RB Really) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (VBG nursing) (NN home))))))))
+-27.562066326566 -85.792747531682
+(S1 (FRAG (PP (RB Really) (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))))
+-27.644929849443 -85.381233383235
+(S1 (S (ADJP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-27.844388216004 -85.862064368930
+(S1 (S (ADVP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-27.905849845941 -84.320210220460
+(S1 (S (ADVP (RB Really)) (VP (ADVP (RB in)) (VBP need) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-27.906071495139 -85.326619872767
+(S1 (FRAG (UCP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-28.210738253542 -85.785268863471
+(S1 (S (RB Really) (VP (ADVP (RB in)) (VB need) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-28.504430436329 -86.232915212694
+(S1 (FRAG (ADVP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-28.532735234281 -84.063811396874
+(S1 (FRAG (RB Really) (PP (IN in) (NP (NN need))) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))
+-28.564324947579 -85.508873400591
+(S1 (FRAG (ADJP (ADVP (RB Really)) (PP (IN in) (NP (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-28.646169504756 -85.167914855465
+(S1 (ADVP (RB Really) (PP (IN in) (NP (NN need)) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-29.210856491847 -86.363317569388
+(S1 (FRAG (ADVP (RB Really)) (SBAR (IN in) (S (VP (VBP need) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-29.234761339347 -83.899183091411
+(S1 (ADVP (ADVP (RB Really) (PP (IN in) (NP (NN need)))) (PP (IN of) (NP (DT a) (NN nursing) (NN home)))))
+-29.519353717441 -85.411272117857
+(S1 (S (ADVP (RB Really)) (VP (ADVP (IN in)) (VB need) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-29.603019140371 -85.673529179465
+(S1 (S (ADVP (RB Really)) (VP (ADVP (IN in)) (VBP need) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+-29.775310150437 -85.279368515694
+(S1 (FRAG (SBAR (ADVP (RB Really)) (IN in) (S (VP (VBP need) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))))
+-30.641493817437 -86.019356892811
+(S1 (FRAG (NP (NP (RB Really)) (PP (IN in) (NP (NN need))) (PP (IN of) (NP (DT a) (NN nursing) (NN home))))))
+

@@ -1,0 +1,102 @@
+50 x
+-17.319910049665 -67.115385859728
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (NP (DT a) (NN quart))))
+-19.251894084747 -74.135673585358
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (VP (NP (DT a) (NN quart)))))
+-19.272726118669 -73.050902809617
+(S1 (S (CC but) (NP (PRP it)) (VP (ADVP (RB still)) (NP (DT a) (NN quart)))))
+-20.084392690329 -74.901123401955
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (VP (SYM a) (NP (NN quart)))))
+-20.268948312128 -75.052251818054
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (NP (DT a) (JJ quart))))
+-20.276058752653 -75.398520352527
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (ADJP (DT a) (JJ quart))))
+-20.409566168362 -77.366317636259
+(S1 (S (CC but) (S (NP (PRP it)) (ADVP (RB still)) (NP (DT a) (NN quart)))))
+-20.409624328782 -77.831710584280
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (NP (DT a) (VB quart))))
+-20.570304993122 -78.424214969584
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (NP (DT a) (NNS quart))))
+-20.667588530364 -74.310499744785
+(S1 (X (CC but) (S (NP (PRP it)) (ADVP (RB still)) (NP (DT a) (NN quart)))))
+-21.081502362332 -78.964454105668
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (VP (SYM a) (NP (NNS quart)))))
+-21.093309120452 -74.535764737688
+(S1 (S (CC but) (NP (PRP it)) (NP (RB still) (DT a) (NN quart))))
+-21.183734845406 -79.756391154972
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (VP (NP (DT a) (JJ quart)))))
+-21.478972351980 -78.818116966663
+(S1 (S (CC but) (NP (PRP it)) (VP (ADVP (RB still)) (NP (DT a) (JJ quart)))))
+-21.671251659050 -77.240789638011
+(S1 (S (CC but) (NP (PRP it)) (NP (ADVP (RB still)) (DT a) (NN quart))))
+-21.892616433015 -76.590257398035
+(S1 (FRAG (CC but) (S (NP (PRP it)) (ADVP (RB still)) (NP (DT a) (NN quart)))))
+-22.014349411405 -70.938490248086
+(S1 (X (CC but) (NP (PRP it)) (NP (RB still) (DT a) (NN quart))))
+-22.022308712180 -79.723382490896
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (VP (SYM a) (NP (VB quart)))))
+-22.197598098719 -73.743485574913
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still) (NP (DT a) (NN quart)))))
+-22.306577327302 -80.042884112535
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still)) (VP (SYM a) (NP (JJ quart)))))
+-22.494236819202 -77.662047500058
+(S1 (X (CC but) (S (NP (PRP it)) (VP (ADVP (RB still)) (NP (DT a) (NN quart))))))
+-22.545803828943 -74.509651481559
+(S1 (X (CC but) (NP (PRP it)) (NP (ADVP (RB still)) (DT a) (NN quart))))
+-22.677268141827 -78.812609969053
+(S1 (S (CC but) (NP (PRP it)) (VP (RB still) (NP (DT a) (NN quart)))))
+-22.738485646453 -77.716501841206
+(S1 (S (CC but) (NP (PRP it)) (ADVP (ADVP (RB still)) (NP (DT a) (NN quart)))))
+-22.912665497737 -80.855934037011
+(S1 (X (CC but) (S (NP (PRP it)) (ADVP (RB still)) (VP (NP (DT a) (NN quart))))))
+-23.318565623343 -80.820497184029
+(S1 (S (CC but) (NP (PRP it)) (NP (RB still) (DT a) (JJ quart))))
+-23.446631333759 -79.388758460435
+(S1 (X (CC but) (S (NP (PRP it)) (NP (RB still) (DT a) (NN quart)))))
+-23.720911424007 -77.816734314333
+(S1 (FRAG (CC but) (ADVP (NP (PRP it)) (RB still)) (NP (DT a) (NN quart))))
+-23.741999360099 -79.698618513772
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (ADVP (RB still)) (NP (DT a) (NN quart))))))
+-23.759282888107 -80.580960597345
+(S1 (S (CC but) (NP (PRP it)) (ADVP (RB still) (DT a)) (VP (VB quart))))
+-23.761193860738 -78.718747698941
+(S1 (S (CC but) (ADVP (PRP it) (RB still)) (NP (DT a) (NN quart))))
+-23.859978752401 -73.622647011316
+(S1 (X (CC but) (ADVP (PRP it) (RB still)) (NP (DT a) (NN quart))))
+-24.007564232363 -79.356512068249
+(S1 (S (CC but) (NP (PRP it)) (NP (QP (RB still) (DT a)) (NN quart))))
+-24.034430585007 -76.435044216254
+(S1 (FRAG (CC but) (ADVP (PRP it) (RB still)) (NP (DT a) (NN quart))))
+-24.161453147202 -78.420227050146
+(S1 (X (CC but) (NP (PRP it)) (NP (RB still) (DT a) (JJ quart))))
+-24.183547704399 -80.377409014741
+(S1 (S (CC but) (NP (NP (PRP it)) (ADVP (RB still))) (NP (DT a) (NN quart))))
+-24.269375350651 -77.445370306399
+(S1 (X (CC but) (NP (PRP it) (RB still) (NP (DT a) (NN quart)))))
+-24.420705870123 -80.610242164684
+(S1 (X (CC but) (NP (PRP it)) (NP (RB still) (DT a) (NNS quart))))
+-24.671249138104 -78.677599260716
+(S1 (X (CC but) (S (NP (PRP it)) (VP (RB still) (NP (DT a) (NN quart))))))
+-24.966090214469 -77.555401085169
+(S1 (X (CC but) (S (NP (PRP it)) (ADVP (RB still) (NP (DT a) (NN quart))))))
+-24.975199447955 -77.015479482707
+(S1 (X (CC but) (NP (PRP it)) (NP (QP (RB still) (DT a)) (NN quart))))
+-25.130193724024 -78.763039804424
+(S1 (X (CC but) (NP (PRP it)) (NP (QP (RB still) (DT a) (JJ quart)))))
+-25.220970153810 -80.622101218224
+(S1 (X (CC but) (NP (PRP it)) (NP (ADJP (ADVP (RB still)) (DT a)) (NN quart))))
+-25.267109545511 -77.180389586173
+(S1 (X (CC but) (NP (NP (PRP it)) (ADVP (RB still))) (NP (DT a) (NN quart))))
+-25.273862842430 -79.635754929453
+(S1 (FRAG (CC but) (NP (PRP it)) (ADVP (RB still) (NP (DT a) (NN quart)))))
+-25.369359162564 -76.481165140144
+(S1 (X (CC but) (NP (NP (PRP it)) (ADVP (RB still) (NP (DT a) (NN quart))))))
+-25.461788143659 -77.127598147049
+(S1 (X (CC but) (NP (PRP it)) (PP (RB still) (NP (DT a) (NN quart)))))
+-25.848935422813 -80.378853473066
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (RB still) (NP (DT a) (NN quart))))))
+-26.100864579523 -79.499841753398
+(S1 (FRAG (CC but) (S (NP (PRP it)) (ADVP (RB still) (NP (DT a) (NN quart))))))
+-26.735821974637 -77.359487932979
+(S1 (X (CC but) (NP (PRP it) (RB still)) (NP (DT a) (NN quart))))
+

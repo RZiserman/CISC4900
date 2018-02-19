@@ -1,0 +1,102 @@
+50 x
+-35.072115363029 -107.045196746742
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (ADJP (JJ up) (CC and) (JJ coming)) (NN team)) (ADVP (RB though)))))
+-35.079380618903 -106.910920782422
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (ADJP (JJ up) (CC and) (JJ coming)) (NN team)) (ADVP (IN though)))))
+-35.537746722060 -104.370540025198
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADJP (RB up)) (CC and) (VP (VBG coming) (ADVP (NN team) (IN though)))))))
+-35.550061087148 -105.260002532897
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADVP (RB up)) (CC and) (VP (VBG coming) (ADVP (NN team) (IN though)))))))
+-35.705651143825 -107.423665466943
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADJP (RB up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (IN though)))))))
+-35.717965508912 -108.313127974642
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADVP (RB up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (IN though)))))))
+-35.776846681020 -105.460261885871
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (ADVP (DT an) (IN up)) (CC and) (VP (VBG coming) (ADVP (NN team) (IN though)))))))
+-35.896609953085 -105.232087399739
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADVP (IN up)) (CC and) (VP (VBG coming) (ADVP (NN team) (IN though)))))))
+-35.944751074907 -108.513387327616
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (ADVP (DT an) (IN up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (IN though)))))))
+-35.977974690093 -105.362612674454
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (ADJP (JJ up) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-35.985239918089 -105.228336710135
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (ADJP (JJ up) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-36.064514346971 -108.285212841484
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADVP (IN up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (IN though)))))))
+-36.286410312574 -107.318306015771
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADJP (RB up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (RB though)))))))
+-36.298724677662 -108.207768523470
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADVP (RB up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (RB though)))))))
+-36.387955928805 -108.347531202370
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADJP (RB up)) (CC and) (VP (VBG coming) (ADVP (NN team) (IN though)))))))
+-36.437783252334 -105.816382181514
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (ADVP (DT an) (IN up) (CC and) (JJ coming) (NN team) (IN though)))))
+-36.525510271534 -108.408027876444
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (ADVP (DT an) (IN up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (RB though)))))))
+-36.645273543599 -108.179853390312
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADVP (IN up)) (CC and) (VP (VBG coming) (NP (NN team)) (ADVP (RB though)))))))
+-36.722695904141 -107.815269460254
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (ADJP (RB up) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-36.729961132137 -107.680993495934
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (ADJP (RB up) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-36.840682487072 -103.755804197496
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-37.020187112068 -103.621528233176
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-37.061560522326 -107.366993956259
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (ADVP (DT an) (RB up) (CC and) (JJ coming) (NN team) (IN though)))))
+-37.104167463284 -108.709068393366
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (UCP (DT an) (ADJP (RB up)) (CC and) (VP (VBG coming) (ADVP (NN team) (IN though)))))))))
+-37.265649513145 -104.448755014908
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (IN up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-37.345612362736 -108.063374522495
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (IN up) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-37.445154166019 -104.314479050588
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (IN up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-37.525117015609 -107.929098558175
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (IN up) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-37.690891693817 -107.732795374668
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-37.707643013283 -106.261567472350
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADJP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-37.870396318813 -107.598519410348
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-37.887147638279 -106.127291508031
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADJP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-37.894280532797 -108.670333527617
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-37.977903564340 -106.229860023888
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADJP (RB up)) (CC and) (VP (VBG coming))) (NN team)) (ADVP (RB though)))))
+-38.073785185670 -108.536057563298
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-38.115858719890 -108.425746192080
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (IN up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-38.187642408214 -106.095584059568
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADJP (RB up)) (CC and) (VP (VBG coming))) (NN team)) (ADVP (IN though)))))
+-38.214860666624 -108.435646517417
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (UCP (DT an) (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-38.218685501162 -108.094332307592
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))))
+-38.237163626680 -108.041592433948
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RP up)) (CC and) (VBG coming)) (NN team)) (ADVP (RB though)))))
+-38.295363344886 -108.291470227760
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (IN up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-38.366590201406 -107.970041568173
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VP (VBG coming))) (NN team)) (ADVP (RB though)))))
+-38.401307679497 -108.301370553097
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (UCP (DT an) (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-38.409685156158 -107.960056343273
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))))
+-38.416668279554 -107.907316469628
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RP up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))
+-38.576329017402 -107.835765603853
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (RB up)) (CC and) (VP (VBG coming))) (NN team)) (ADVP (IN though)))))
+-38.612614880168 -107.852382476134
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (IN up)) (CC and) (VP (VBG coming))) (NN team)) (ADVP (RB though)))))
+-38.822353696164 -107.718106511814
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT an) (UCP (ADVP (IN up)) (CC and) (VP (VBG coming))) (NN team)) (ADVP (IN though)))))
+-38.834652210109 -108.653007160685
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT an) (UCP (ADVP (IN up)) (CC and) (VBG coming)) (NN team)) (ADVP (IN though)))))))
+-38.924197948984 -108.568096037301
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (UCP (DT an) (ADJP (RB up)) (CC and) (ADVP (NP (VBG coming) (NN team)) (IN though))))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.778686736737 -77.080720691496
+(S1 (NP (NP (NN Kind)) (PP (IN of) (NP (NP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-22.339814077794 -74.747615319753
+(S1 (S (ADVP (NN Kind) (IN of)) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))
+-22.487288891233 -73.051494238287
+(S1 (S (ADVP (NN Kind) (IN of)) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-22.902857495987 -76.634641372970
+(S1 (NP (NP (NN Kind)) (PP (IN of) (S (VP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-23.044102350847 -77.721442143442
+(S1 (NP (NP (NN Kind)) (PP (IN of) (NP (JJ hard))) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))
+-23.192757826779 -76.685504436195
+(S1 (S (NP (NP (NN Kind)) (PP (IN of) (NP (NP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-23.486444414167 -70.857860059381
+(S1 (S (ADVP (RB Kind) (IN of)) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))
+-23.545668424017 -78.604545849988
+(S1 (S (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard)))) (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))
+-23.591182736537 -78.541350829530
+(S1 (FRAG (NP (NP (NN Kind)) (PP (IN of) (NP (NP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-23.612053109093 -73.851295008497
+(S1 (S (ADVP (RB Kind) (IN of) (JJ hard)) (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))
+-23.633919227605 -69.161738977916
+(S1 (S (ADVP (RB Kind) (IN of)) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-23.863738341942 -76.251619133200
+(S1 (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard))) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))
+-23.899373039401 -78.446881491498
+(S1 (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard))) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))
+-23.971205293212 -76.239424966982
+(S1 (S (NP (NP (NN Kind)) (PP (IN of) (S (VP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-23.988863985375 -76.003539662732
+(S1 (S (ADVP (RB Kind) (IN of)) (VP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))
+-23.992712525458 -79.003561050080
+(S1 (S (NP (NP (NN Kind)) (PP (IN of))) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))
+-24.037093019245 -76.953004136306
+(S1 (S (ADVP (NN Kind) (IN of)) (ADJP (RB hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-24.095233266537 -78.770173269343
+(S1 (NP (NP (NN Kind)) (PP (IN of) (NP (RB hard))) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))
+-24.140187377926 -77.307440114696
+(S1 (S (NP (NP (NN Kind)) (PP (IN of))) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-24.239980294100 -75.906225878102
+(S1 (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-24.715353470696 -78.095271420284
+(S1 (FRAG (NP (NP (NN Kind)) (PP (IN of) (S (VP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-24.746234404577 -77.604851372314
+(S1 (NP (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard)))) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))
+-24.885595980387 -76.520784038092
+(S1 (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-24.999219387731 -78.319277782640
+(S1 (NP (NP (NN Kind)) (PP (IN of) (ADVP (RB hard))) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))
+-25.104329783693 -74.787288126044
+(S1 (S (ADVP (RB Kind) (IN of)) (ADJP (RB hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-25.138694016807 -77.773217932716
+(S1 (FRAG (NP (NN Kind)) (SBAR (IN of) (S (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-25.339480259694 -77.050277806710
+(S1 (S (ADVP (RB Kind) (IN of)) (ADJP (RB hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))
+-25.345045982476 -75.511009520590
+(S1 (S (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-25.386125739816 -78.930223821395
+(S1 (NP (NP (NN Kind)) (PP (IN of) (S (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-25.431781646557 -75.435973094518
+(S1 (FRAG (S (ADVP (RB Kind) (IN of) (JJ hard)) (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))
+-25.461296257240 -77.886899642550
+(S1 (S (ADVP (RB Kind) (IN of)) (RB hard) (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))
+-25.472747150830 -77.861478186473
+(S1 (FRAG (ADVP (RB Kind)) (SBAR (IN of) (S (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-25.526002917225 -74.335768123892
+(S1 (FRAG (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-25.613932788756 -79.025124772852
+(S1 (FRAG (S (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard)))) (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))
+-25.647246714638 -79.014059506113
+(S1 (NP (NP (NN Kind)) (PP (IN of) (ADJP (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-25.693475591686 -76.177832282092
+(S1 (S (ADVP (RB Kind) (IN of)) (ADJP (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-25.816935433670 -75.933902401315
+(S1 (FRAG (RB Kind) (PP (IN of) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-25.858374413512 -74.950326283882
+(S1 (FRAG (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-25.995737488763 -76.125567680580
+(S1 (S (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-26.052476299475 -77.366856037536
+(S1 (FRAG (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-26.149306929956 -76.548460561305
+(S1 (FRAG (RB Kind) (PP (IN of) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-26.213024126782 -78.694995511625
+(S1 (FRAG (ADVP (RB Kind)) (PP (IN of) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-26.454473537040 -78.535007415407
+(S1 (S (NP (NP (NN Kind)) (PP (IN of) (S (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))))
+-26.555442687120 -78.011947240340
+(S1 (FRAG (NP (NN Kind)) (PP (IN of) (ADJP (RB hard) (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))
+-26.650545740694 -78.653763146530
+(S1 (FRAG (NP (NN Kind)) (PP (IN of) (ADJP (RB hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-26.698091985762 -77.981414197526
+(S1 (FRAG (NP (NP (NN Kind)) (PP (IN of) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-26.707642112763 -77.443601751903
+(S1 (FRAG (NP (NN Kind)) (PP (IN of) (ADJP (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually))))))))))
+-26.772421503014 -78.618843148601
+(S1 (S (NP (NP (NN Kind)) (PP (IN of) (ADJP (ADJP (JJ hard)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB gradually)))))))))))
+-27.346688650758 -78.351517073563
+(S1 (S (ADVP (RB Kind) (IN of)) (ADJP (JJ hard) (S (VP (TO to) (VP (VB do) (NP (RB gradually))))))))
+-27.754860907196 -76.655395992098
+(S1 (S (ADVP (RB Kind) (IN of)) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB do) (NP (RB gradually)))))))))
+

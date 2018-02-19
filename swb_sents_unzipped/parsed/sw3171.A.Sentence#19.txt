@@ -1,0 +1,102 @@
+50 x
+-14.906863006485 -61.336349299637
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-16.350674292727 -64.136233948662
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be))) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))
+-16.507866844362 -61.823397231399
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))))
+-17.555017428743 -65.900603881035
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))))
+-17.679725988112 -66.665179992479
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))))
+-18.889568753498 -66.540778201265
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))))
+-19.289976433535 -70.456643689327
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))))
+-20.027205628645 -66.412515594591
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))))
+-20.046001799223 -73.697433376612
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))
+-20.488594815279 -73.233921945942
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-20.546296673233 -76.548452695748
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (NP (DT this)) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-21.098921144484 -75.106519977994
+(S1 (S (NP (CC and) (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-21.511456249310 -66.899563526353
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))))
+-21.539972116800 -75.646653709243
+(S1 (FRAG (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))))
+-21.647005637101 -74.184481308373
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-22.086254432239 -77.587275301551
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (IN of) (NP (DT the) (NN year))))))))
+-22.110822241963 -78.307995098389
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PRT (RP at)) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))
+-22.123988577011 -78.307344612188
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))
+-22.147300511111 -77.035500627510
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (NP (DT this)) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))))
+-22.234133728827 -75.001488250768
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (NP (IN at) (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))
+-22.427926533054 -78.044470214789
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be))) (PP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))
+-22.558606833690 -70.976770175989
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))))))
+-22.675310590730 -70.145731902724
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be))) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))
+-22.683315393060 -71.741346287433
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))))))
+-22.694156221481 -78.261687958009
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))))
+-22.818864780851 -79.026264069453
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))))
+-22.980822552599 -64.883937742683
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))))) (PP (IN of) (NP (DT the) (NN year)))))
+-23.046738671401 -77.383092534490
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))))
+-23.181097852238 -76.821784305182
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (S (NP (DT the) (NN year))))))))))
+-23.687258270116 -78.074323233313
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (IN of) (NP (DT the) (NN year)))))))))
+-23.785094914889 -78.794392543949
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-23.813607875840 -78.795043030150
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PRT (RP at)) (NP (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-23.889167466704 -75.488536182530
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (NP (IN at) (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-24.009911378446 -71.616944496219
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))))
+-24.028707546236 -78.901862278239
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-24.155283023198 -71.643047156785
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))))
+-24.272114169302 -76.306714970570
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (ADVP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year))))))))
+-24.410319055694 -75.532809984280
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))))
+-24.701772412066 -77.870140466252
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))))))
+-24.782101690115 -77.308832236943
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT this) (NN time)) (PP (IN of) (S (NP (DT the) (NN year)))))))))))
+-25.461116459676 -76.820746846929
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be))) (PP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))
+-25.591620607179 -76.793762902332
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (ADVP (IN at) (NP (DT this) (NN time)) (PP (IN of) (NP (DT the) (NN year)))))))))
+-25.608937437439 -78.310088240896
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))))
+-25.756286861075 -72.130095088547
+(S1 (S (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))))))
+-26.803437445456 -76.207301738183
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))))))
+-26.928146004825 -76.971877849627
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year))))))))))
+-27.078227386399 -78.816410142105
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (S (NP (DT the) (NN year))))))))
+-27.621617127322 -79.047185059633
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (IN at) (DT this) (NN time)))) (PP (IN of) (NP (DT the) (NN year)))))
+-28.137988770211 -76.847476058413
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (PP (IN at) (NP (DT this) (NN time))) (PP (IN of) (NP (DT the) (NN year)))))))))
+-28.416240194624 -78.987416591057
+(S1 (S (CC and) (NP (PRP it)) (VP (MD will) (VP (VB be) (ADVP (IN at) (DT this) (NN time)))) (PP (IN of) (NP (DT the) (NN year)))))
+

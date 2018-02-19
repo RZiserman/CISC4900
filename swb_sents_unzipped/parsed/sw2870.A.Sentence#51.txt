@@ -1,0 +1,102 @@
+50 x
+-12.264753668335 -42.570024048332
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-14.044695399877 -48.874123770533
+(S1 (S (NP (DT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-14.828030330101 -46.896468140666
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-15.411298343847 -51.483661550841
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-15.446280041645 -53.477326985826
+(S1 (S (DT That) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-16.013412111217 -59.753554043187
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB mean)))))))
+-16.097804925869 -50.167720502461
+(S1 (SBAR (DT That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-16.198154025925 -48.669984912148
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-16.541670370465 -49.232899205559
+(S1 (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-16.564603797654 -48.788590210978
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-16.642086339762 -51.743112476263
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-16.733506038311 -51.894810715859
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-16.806535703702 -56.795780666536
+(S1 (SBAR (IN That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-16.970066849971 -49.891549002976
+(S1 (S (NP (IN That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-17.153876738732 -54.705617495933
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.169401204981 -51.612803213092
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.233273380249 -59.406699546148
+(S1 (S (DT That) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-17.295169835000 -56.249657327009
+(S1 (PP (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.482090295243 -55.220821390551
+(S1 (SBAR (WHNP (WDT That)) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.513514533172 -50.244155058482
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-17.546279111278 -57.530904852725
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-17.658250377606 -53.800817441424
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.764184459703 -58.979325959984
+(S1 (PP (IN That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.861131572733 -53.222140346826
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.889232613981 -56.535470044545
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.903741807891 -54.501638497467
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-17.937052795961 -56.479037869569
+(S1 (FRAG (SBAR (IN That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-18.058758733239 -54.608742310233
+(S1 (S (RB That) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-18.462022006206 -59.143635133977
+(S1 (SBAR (DT That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-18.591481796749 -53.802237465186
+(S1 (S (NP (WDT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-18.781113050444 -58.391362286992
+(S1 (NP (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-18.832001199024 -58.268184007203
+(S1 (S (WHNP (WDT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-18.855023862870 -59.045087333443
+(S1 (FRAG (PP (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.029949276174 -59.833617219911
+(S1 (S (PP (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.186414955508 -57.061156394726
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.281961060943 -59.363105366250
+(S1 (FRAG (NP (DT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-19.331442624625 -58.257701293947
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.380809196604 -58.965198854371
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.570661980903 -57.432788452101
+(S1 (FRAG (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-19.598346129593 -60.686029486345
+(S1 (FRAG (S (NP (DT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-19.686742913238 -59.484016844900
+(S1 (S (RB That) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-19.829327174125 -58.793743955091
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-20.120461314000 -58.821870679342
+(S1 (FRAG (SBAR (WDT That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-20.334901386843 -55.396823467677
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-20.510022411617 -59.013119560746
+(S1 (FRAG (WHNP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-21.153693759163 -56.375472703048
+(S1 (FRAG (S (NP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-21.367620299595 -60.535145945353
+(S1 (FRAG (NP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-21.522901149296 -59.672625724186
+(S1 (FRAG (SBAR (S (NP (IN That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-21.984256674754 -58.604829031203
+(S1 (FRAG (NP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-22.229730546564 -59.435735816551
+(S1 (FRAG (NP (IN That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+

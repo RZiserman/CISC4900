@@ -1,0 +1,102 @@
+50 x
+-14.692905285769 -49.203109464770
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-16.545182469655 -59.711787853437
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (POS 's) (ADJP (JJ regressive))))))))
+-17.443494913503 -54.638920977051
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (JJ regressive))))))))
+-17.506366690488 -59.582315261821
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (POS 's) (S (ADJP (JJ regressive)))))))))
+-17.552251461296 -53.005940972291
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (ADJP (JJ regressive)))))))))
+-17.898755062527 -57.626739875517
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-17.996389387821 -57.696847009060
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ regressive)))))))
+-18.128951151378 -57.784883720420
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-18.300275720661 -55.585493664466
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (JJ regressive))))))))
+-18.355267004532 -57.420887053637
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (JJ regressive))))))))
+-18.376481633132 -60.837299806094
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (POS 's) (ADJP (JJ regressive))))))))
+-18.602195468318 -61.396896304893
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-18.767248087819 -58.960821359919
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-18.984712373952 -55.338053697655
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-19.347788092929 -63.482667383869
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (POS 's)) (ADJP (JJ regressive)))))))
+-19.350223289177 -60.707827214478
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (POS 's) (S (ADJP (JJ regressive)))))))))
+-19.566925523580 -60.413866287775
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (POS 's) (ADJP (JJ regressive))))))))
+-19.730384530073 -56.483363020517
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-19.895925847855 -60.110263693691
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (ADJP (JJ regressive)))))))))
+-19.950674133785 -64.774103549037
+(S1 (S (NP (PRP I)) (VP (VB think) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ regressive)))))))
+-20.345932559899 -64.554297382635
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-20.540667182412 -60.284393696159
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (POS 's) (S (ADJP (JJ regressive)))))))))
+-20.644386174984 -61.499678489789
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (DT that)) (VP (VBZ 's) (S (ADJP (JJ regressive))))))))
+-20.649344687473 -63.062551387797
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (JJ regressive))))))))
+-20.660098363021 -64.192877283012
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (POS 's) (ADJP (JJ regressive))))))))
+-20.714651566526 -63.132658394297
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (DT that)) (VP (VBZ 's) (NP (JJ regressive)))))))
+-20.758101235265 -61.429571383037
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (ADJP (JJ regressive)))))))))
+-20.843393915972 -61.248537143075
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (VP (JJ regressive)))))))))
+-20.859161710177 -61.587715165945
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (VBZ 's) (S (ADJP (JJ regressive)))))))))
+-20.881115466578 -58.172270959446
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (NP (JJ regressive)))))))))
+-20.951921654234 -63.220695142187
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (VBZ 's) (NP (JJ regressive))))))))
+-20.973300538271 -59.076060811291
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (ADVP (JJ regressive)))))))))
+-21.390888290619 -62.763652805444
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (VP (VBZ 's) (S (ADJP (JJ regressive)))))))))
+-21.520435197418 -64.009124075212
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (JJ regressive))))))))
+-21.565740518781 -63.667818052731
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (ADJP (JJ regressive)))))))))
+-21.598291441676 -64.396632781686
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (VP (VBZ 's) (NP (JJ regressive))))))))
+-21.635406993854 -64.063404691396
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (POS 's) (S (ADJP (JJ regressive)))))))))
+-21.638091254349 -64.079231184524
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (DT that)) (VP (VBZ 's) (VP (JJ regressive)))))))
+-21.720560561899 -60.773865209936
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (JJ regressive))))))))
+-21.889552139479 -59.140885205176
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (S (ADJP (JJ regressive)))))))))
+-21.931930542270 -64.167267920848
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (VBZ 's) (VP (JJ regressive))))))))
+-22.040903675089 -63.152075212046
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ regressive)))))))
+-22.288903691922 -63.761684108402
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ regressive))))))))
+-22.381567888019 -61.919174532797
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (JJ regressive))))))))
+-22.607379835599 -60.286194528037
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (S (ADJP (JJ regressive)))))))))
+-22.644762714844 -61.720437897350
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (VP (JJ regressive))))))))
+-22.718413072715 -63.555831286522
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (ADVP (JJ regressive))))))))
+-23.370666444964 -62.865747220212
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (VP (JJ regressive))))))))
+-23.551921948835 -64.701140609383
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (ADVP (JJ regressive))))))))
+-25.203674704973 -64.307215192331
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (S (NP (JJ regressive)))))))))
+

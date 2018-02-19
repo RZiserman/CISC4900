@@ -1,0 +1,102 @@
+50 x
+-14.624846990441 -52.021323657733
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-15.295384421405 -53.823006898448
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-16.326000355542 -50.645882295344
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-16.464095495434 -53.393969532734
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJR cheaper) (PP (IN for) (NP (CD one) (NN thing)))))))
+-17.207547717828 -55.710696483548
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJR cheaper) (PP (IN for) (NP (CD one) (NN thing)))))))
+-17.283648525488 -61.076693805694
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-17.466028644161 -54.164095879355
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-17.636412342953 -55.421774514344
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-17.652591075026 -53.811356758967
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-18.416363522743 -61.993709492049
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-18.445833524768 -60.959556483056
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-18.599159868017 -60.514033591461
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (PP (JJR cheaper) (IN for) (NP (CD one) (NN thing))))))
+-18.604072962865 -63.700702508610
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-18.736508915548 -63.095499328886
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-19.066835647987 -62.868456714980
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (JJR cheaper) (PP (IN for) (NP (CD one) (NN thing))))))))
+-19.245711687853 -65.048922340464
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-19.465346669766 -63.699048210514
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (PP (RBR cheaper) (IN for) (NP (CD one) (NN thing))))))
+-19.605397742809 -62.285633758512
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (PP (ADVP (JJR cheaper)) (IN for) (NP (CD one) (NN thing))))))
+-19.718694102161 -61.343832984220
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))
+-19.797872447519 -63.970246607114
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (JJR cheaper) (PP (IN for) (NP (CD one) (NN thing))))))))
+-19.800915117989 -63.984053755531
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (JJR cheaper) (IN for) (CD one)) (NN thing)))))
+-19.803700561775 -59.364159752614
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-19.832325458315 -63.017303783126
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-19.888294755783 -63.872510437557
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-19.944166041043 -60.487938812251
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-20.002503870409 -59.170894533925
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (NP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-20.091880020104 -65.194074962598
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-20.114966562450 -64.361322667654
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))))
+-20.164823677224 -62.803428674168
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-20.191552028452 -65.669336095719
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RBR cheaper) (PP (IN for) (NP (CD one) (NN thing)))))))
+-20.239011039628 -65.968591320704
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-20.306150920111 -62.315820902637
+(S1 (S (NP (PRP It)) (VP (POS 's) (PP (JJR cheaper) (IN for) (NP (CD one) (NN thing))))))
+-20.355518577864 -62.552306766151
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-20.622357797060 -62.023161807072
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADVP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-20.701060730266 -65.649957712618
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RBR cheaper) (PP (IN for) (NP (CD one) (NN thing)))))))
+-20.764978275194 -65.463112559789
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))))
+-20.808403402641 -65.903551665385
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJR cheaper)) (SBAR (IN for) (S (NP (CD one) (NN thing)))))))
+-20.947677528402 -65.733307637263
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (JJR cheaper) (PP (IN for) (NP (CD one) (NN thing))))))
+-20.968939327857 -64.723872050034
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJR cheaper)) (SBAR (IN for) (S (NP (CD one) (NN thing))))))))
+-21.079845290187 -65.164771368374
+(S1 (S (NP (PRP It)) (VP (POS 's) (PP (RBR cheaper) (IN for) (NP (CD one) (NN thing))))))
+-21.082316922985 -60.505409207909
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-21.094938126225 -63.181108439030
+(S1 (S (NP (PRP It)) (VP (POS 's) (PP (ADVP (JJR cheaper)) (IN for) (NP (CD one) (NN thing))))))
+-21.298832128047 -64.594060922470
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-21.643649935838 -66.216879602656
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (ADJP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))
+-21.732205568175 -63.307845086308
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (NP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-22.083673491085 -65.137684637283
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADJP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-22.221533876542 -64.536706868008
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))))
+-22.248321133204 -64.389082735216
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (RBR cheaper)) (PP (IN for) (NP (CD one) (NN thing)))))
+-22.569147913016 -65.707787890965
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJR cheaper)) (PP (IN for) (S (NP (CD one) (NN thing))))))))
+-22.647471802659 -65.573149694062
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (NP (JJR cheaper)) (PP (IN for) (NP (CD one) (NN thing))))))))
+

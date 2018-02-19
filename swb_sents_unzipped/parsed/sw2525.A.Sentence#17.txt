@@ -1,0 +1,102 @@
+50 x
+-24.244463693667 -90.227269558143
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-26.828826179703 -95.201132429170
+(S1 (S (NP (DT no) (NN burglar)) (VP (NNS alarms) (NP (DT no) (NNS guards)))))
+-27.439370880650 -100.983186183056
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (NP (DT no) (VBZ guards)))))
+-27.824653789013 -98.396524148061
+(S1 (S (NP (DT no) (JJ burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-28.176891295070 -99.082869229980
+(S1 (NP (NP (DT no) (JJ burglar) (NNS alarms)) (NP (DT no) (NNS guards))))
+-28.444887517471 -98.309496424562
+(S1 (S (DT no) (VP (ADVP (RB burglar)) (VBZ alarms) (NP (DT no) (NNS guards)))))
+-28.466702093442 -99.501786370604
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (NP (RB no) (NNS guards)))))
+-28.611784064861 -98.782077096777
+(S1 (S (NP (RB no) (NN burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-28.789190428027 -97.217689736584
+(S1 (S (NP (DT no) (JJ burglar) (NNS alarms)) (NP (DT no) (NNS guards))))
+-28.867683139692 -102.286829871088
+(S1 (S (NP (DT no) (RB burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-28.953745982904 -100.767130293725
+(S1 (S (NP (DT no)) (VP (ADVP (RB burglar)) (VBZ alarms) (NP (DT no) (NNS guards)))))
+-28.996019241635 -103.066228760023
+(S1 (NP (DT no) (NN burglar) (S (VP (VBZ alarms) (NP (DT no) (NNS guards))))))
+-29.233440478630 -99.507148464029
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (S (NP (DT no) (NNS guards))))))
+-29.254764663630 -97.240256648591
+(S1 (S (INTJ (UH no)) (VP (ADVP (RB burglar)) (VBZ alarms) (NP (DT no) (NNS guards)))))
+-29.256012255091 -102.146365225212
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (NP (RB no) (VBZ guards)))))
+-29.323086410892 -100.836029906769
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (ADVP (RB no)) (NP (NNS guards)))))
+-29.423685518454 -99.447197994196
+(S1 (S (NP (DT no) (NN burglar) (NNS alarms)) (NP (DT no) (NNS guards))))
+-29.428940660819 -102.468597225747
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (SBAR (DT no) (S (VP (VBZ guards)))))))
+-29.506991280685 -100.660811186666
+(S1 (S (NP (RB no) (JJ burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-29.534865555435 -101.905265037227
+(S1 (NP (NP (DT no) (JJ burglar) (NNS alarms)) (NP (DT no) (VBZ guards))))
+-29.591816723024 -101.583410339668
+(S1 (S (INTJ (UH no)) (NP (NN burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-29.629289792662 -104.465341799527
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (NP (DT no) (NP (NNS guards))))))
+-29.709055884329 -100.447907171237
+(S1 (S (RB no) (ADVP (RB burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-29.894196893754 -102.525444059293
+(S1 (NP (NP (DT no) (NN burglar) (NNS alarms)) (NP (DT no) (NNS guards))))
+-30.020504913500 -101.831618140590
+(S1 (S (NP (DT no) (JJ burglar)) (VP (NNS alarms) (NP (DT no) (NNS guards)))))
+-30.293630280714 -97.692382558102
+(S1 (S (RB no) (VP (ADVP (RB burglar)) (VBZ alarms) (NP (DT no) (NNS guards)))))
+-30.354862858951 -103.628623274307
+(S1 (NP (NP (DT no) (JJ burglar) (NNS alarms)) (NP (RB no) (VBZ guards))))
+-30.562513260256 -104.265500161688
+(S1 (S (NP (DT no) (NN burglar)) (VP (NNS alarms) (NP (RB no) (NNS guards)))))
+-30.571162410469 -101.593492927562
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (RB no) (NP (NNS guards)))))
+-30.579234945474 -100.405451685230
+(S1 (S (RB no) (NP (NN burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-30.702816838557 -104.838019205291
+(S1 (NP (NP (DT no) (JJ burglar) (NNS alarms)) (NP (RB no) (NNS guards))))
+-30.837390924336 -103.657356430435
+(S1 (S (NP (RB no) (NN burglar)) (VP (NNS alarms) (NP (DT no) (NNS guards)))))
+-31.098657804933 -102.403208864245
+(S1 (S (NP (DT no) (NN burglar) (VBZ alarms)) (NP (DT no) (NNS guards))))
+-31.099588099413 -104.018328863440
+(S1 (S (NP (DT no) (JJ burglar) (NNS alarms)) (NP (RB no) (NNS guards))))
+-31.177899117499 -105.300844817867
+(S1 (S (NP (NP (DT no) (JJ burglar) (NNS alarms)) (NP (DT no) (NNS guards)))))
+-31.213926180376 -102.428353481530
+(S1 (S (NP (RB no) (JJ burglar) (NNS alarms)) (NP (DT no) (NNS guards))))
+-31.244831779599 -104.215826749936
+(S1 (S (NP (DT no) (NN burglar)) (VP (VBZ alarms) (SBAR (S (ADVP (RB no)) (VP (VBZ guards)))))))
+-31.252171162482 -105.347839866540
+(S1 (NP (NP (DT no) (NN burglar) (NNS alarms)) (NP (DT no) (VBZ guards))))
+-31.292516884312 -104.109446100559
+(S1 (NP (NP (RB no) (JJ burglar) (NNS alarms)) (NP (DT no) (NNS guards))))
+-31.311058186602 -105.089192320160
+(S1 (S (NP (DT no) (NN burglar)) (VP (NNS alarms) (ADVP (RB no)) (NP (NNS guards)))))
+-31.448833031764 -105.360961655067
+(S1 (S (INTJ (UH no)) (NP (JJ burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-31.473819398897 -104.884742997393
+(S1 (NP (DT no) (JJ burglar) (NNS alarms) (S (NP (DT no) (NNS guards)))))
+-31.483738953551 -103.916847050157
+(S1 (S (NP (RB no) (JJ burglar)) (VP (NNS alarms) (NP (DT no) (NNS guards)))))
+-31.566504325351 -102.489141361401
+(S1 (S (ADVP (RB no)) (NP (NN burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-31.576401360050 -101.428242360084
+(S1 (S (ADVP (RB no)) (VP (ADVP (RB burglar)) (VBZ alarms) (NP (DT no) (NNS guards)))))
+-31.632650480831 -104.500016593980
+(S1 (S (NP (DT no) (NN burglar)) (VP (NNS alarms) (S (NP (DT no) (NNS guards))))))
+-32.151345091030 -105.013406239811
+(S1 (S (RB no) (NP (JJ burglar)) (VP (VBZ alarms) (NP (DT no) (NNS guards)))))
+-32.275656859548 -101.733759552772
+(S1 (S (NP (RB no)) (VP (ADVP (RB burglar)) (VBZ alarms) (NP (DT no) (NNS guards)))))
+-32.660233516284 -105.473841676107
+(S1 (NP (NP (DT no) (JJ burglar) (NNS alarms) (RB no)) (NNS guards)))
+-34.905871747129 -105.171732912799
+(S1 (S (NP (DT no) (ADJP (JJ burglar)) (NNS alarms)) (NP (DT no) (NNS guards))))
+

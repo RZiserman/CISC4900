@@ -1,0 +1,102 @@
+50 x
+-18.298291530708 -63.481626122642
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (ADVP (RB very) (RB much)) (VP (VBZ is)))))))
+-18.478103634881 -60.123053657266
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (ADVP (RB very) (RB much)) (VBZ is)))))))
+-19.571349542535 -59.118609392692
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (ADVP (RB very) (RB much)))) (VP (VBZ is))))
+-20.517961467776 -70.865540969895
+(S1 (S (NP (PRP You)) (VP (VB know) (SBAR (S (NP (PRP it)) (ADVP (RB very) (RB much)) (VP (VBZ is)))))))
+-20.715559639162 -67.506968504519
+(S1 (S (NP (PRP You)) (VP (VB know) (SBAR (S (NP (PRP it)) (VP (ADVP (RB very) (RB much)) (VBZ is)))))))
+-21.349722127307 -64.548088605795
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (ADVP (RB very) (RB much)) (VP (VBZ is))))
+-21.421779680155 -66.572210518300
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (NP (PRP it)) (ADVP (RB very) (JJ much))) (VP (VBZ is)))))))
+-21.426388262261 -68.427913303407
+(S1 (S (S (NP (PRP You)) (VP (VB know) (NP (PRP it)) (ADVP (RB very) (RB much)))) (VP (VBZ is))))
+-21.468008437090 -69.579098374697
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (NP (PRP it)) (ADVP (RB very) (RB much))) (VP (VBZ is)))))))
+-21.485740644947 -69.368230506003
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (ADVP (RB very) (JJ much)) (VBZ is)))))))
+-21.684348249980 -72.534814835879
+(S1 (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (NP (ADJP (RB very) (JJ much)) (VBZ is)))))
+-22.075359619172 -69.030171031177
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (NP (PRP it)) (ADJP (RB very) (JJ much))) (VP (VBZ is)))))))
+-22.146127086624 -75.197109891786
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (ADVP (RB very) (JJ much)) (VP (VBZ is)))))))
+-22.475499904018 -74.984530783319
+(S1 (S (NP (PRP You)) (VP (VBP know) (S (NP (PRP it)) (ADVP (RB very) (RB much)) (VP (VBZ is))))))
+-22.536140398480 -66.538980768351
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (ADVP (RB very) (JJ much)))) (VP (VBZ is))))
+-22.661576372554 -73.536487305160
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (NP (RB very) (JJ much)) (VP (VBZ is)))))))
+-22.999540015262 -73.962672841605
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (CONJP (RB very) (RB much)) (VP (VBZ is)))))))
+-23.089657674242 -71.030194971694
+(S1 (S (NP (PRP You)) (VP (VBP know) (S (NP (PRP it)) (VP (ADVP (RB very) (RB much)) (VBZ is))))))
+-23.119570086093 -65.058109674814
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (VP (ADVP (RB very) (RB much)) (VBZ is))))
+-23.214025352442 -69.428524286214
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (S (NP (PRP it)) (ADJP (RB very) (JJ much))))) (VP (VBZ is))))
+-23.214127796096 -71.859242097504
+(S1 (S (S (NP (PRP You)) (VP (VB know) (NP (PRP it)))) (ADVP (RB very) (RB much)) (VP (VBZ is))))
+-23.227798304544 -70.656273506171
+(S1 (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (ADVP (RB very) (RB much)) (SBAR (S (VP (VBZ is)))))))
+-23.688786415223 -73.956125365552
+(S1 (S (NP (PRP You)) (VP (VB know) (SBAR (S (NP (NP (PRP it)) (ADVP (RB very) (JJ much))) (VP (VBZ is)))))))
+-23.772010836531 -69.952217006085
+(S1 (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (ADVP (RB very) (RB much) (S (VP (VBZ is)))))))
+-23.861412396424 -69.076575045791
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (NP (RB very) (JJ much)))) (VP (VBZ is))))
+-23.899330057222 -71.020808085764
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (NP (PRP it)) (NP (RB very) (RB much))) (VP (VBZ is)))))))
+-23.976287265475 -70.935380606345
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (S (NP (PRP it)) (ADVP (RB very) (RB much))))) (VP (VBZ is))))
+-24.044697529258 -68.145790777455
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (NP (RB very) (RB much)))) (VP (VBZ is))))
+-24.059948128987 -67.654429376846
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (NP (RB very) (JJ much)) (VP (VBZ is))))
+-24.203014282306 -74.166396853241
+(S1 (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (SBAR (S (NP (RB very) (JJ much)) (VP (VBZ is)))))))
+-24.214244972467 -74.537367837654
+(S1 (S (S (NP (PRP You)) (VP (VB know) (NP (PRP it)) (ADVP (RB very) (JJ much)))) (VP (VBZ is))))
+-24.415361364438 -69.337002593933
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (NP (PRP it)) (ADJP (RB very) (JJ much))))) (VP (VBZ is))))
+-24.586896050284 -74.471801163274
+(S1 (S (NP (PRP You)) (VP (VBP know) (NP (PRP it))) (SBAR (RB very) (S (NP (JJ much)) (VP (VBZ is))))))
+-25.001761827669 -72.369263166524
+(S1 (S (S (NP (PRP You)) (VP (VB know) (NP (PRP it)))) (VP (ADVP (RB very) (RB much)) (VBZ is))))
+-25.005989861685 -72.892869835949
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)) (NP (ADJP (RB very) (JJ much))))) (VP (VBZ is))))
+-25.006579754413 -67.946486229515
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (RB very) (S (NP (JJ much)) (VP (VBZ is)))))
+-25.010458706714 -74.148466002277
+(S1 (S (NP (PRP You)) (VP (VB know) (NP (PRP it)) (ADVP (RB very) (RB much) (S (VP (VBZ is)))))))
+-25.122134381995 -71.308977937810
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (NP (ADJP (RB very) (JJ much))) (VP (VBZ is))))
+-25.381201378501 -74.168937100311
+(S1 (S (NP (PRP You)) (VP (VBP know) (S (NP (NP (PRP it)) (ADVP (RB very) (JJ much))) (VP (VBZ is))))))
+-25.461084050511 -69.988004245907
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (NP (RB very) (RB much)) (VP (VBZ is))))
+-25.474553292982 -74.507780848579
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (NP (PRP it)) (ADVP (RB very) (RB much))))) (VP (VBZ is))))
+-25.481667176320 -71.500892939681
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (NP (PRP it)) (ADVP (RB very) (JJ much))))) (VP (VBZ is))))
+-25.853713957776 -74.965582868555
+(S1 (S (S (NP (PRP You)) (VP (VB know) (NP (PRP it)))) (NP (RB very) (JJ much)) (VP (VBZ is))))
+-26.035733999030 -74.091976470714
+(S1 (S (NP (PRP You)) (VP (VBP know) (NP (PRP it))) (SBAR (RB very) (S (NP (RB much)) (VP (VBZ is))))))
+-26.096397876605 -72.255242825028
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (ADJP (RB very) (RB much) (S (VP (VBZ is))))))
+-26.144738381159 -74.303286523551
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (VP (ADVP (RB very) (JJ much)) (VBZ is))))
+-26.391132560949 -67.306966785249
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (RB very) (S (NP (RB much)) (VP (VBZ is)))))
+-26.964107017152 -73.230099626168
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (NP (PRP it)) (NP (RB very) (RB much))))) (VP (VBZ is))))
+-27.020837880815 -74.347720788354
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (RB very) (S (RB much) (VP (VBZ is)))))
+-27.321080175512 -74.443239631943
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (ADJP (RB very) (RB much) (SBAR (S (VP (VBZ is)))))))
+

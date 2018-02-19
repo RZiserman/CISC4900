@@ -1,0 +1,102 @@
+50 x
+-20.696134708180 -66.964097146606
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (NP (DT a) (NN physics) (NN professor))))
+-21.837488351847 -72.681778342993
+(S1 (FRAG (WHADVP (WRB Where)) (NP (RB maybe) (DT a) (NN physics) (NN professor))))
+-22.014875713021 -67.532336916198
+(S1 (FRAG (WRB Where) (RB maybe) (NP (DT a) (NN physics) (NN professor))))
+-22.074107484148 -72.197633130056
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (NP (DT a) (NNS physics) (NN professor))))
+-22.086535857828 -73.891802272120
+(S1 (FRAG (WHADVP (WRB Where)) (ADVP (RB maybe)) (NP (DT a) (NN physics) (NN professor))))
+-23.011405009239 -77.786244028306
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (NP (DT a) (NNP physics) (NN professor))))
+-23.017285455852 -71.467581115640
+(S1 (FRAG (WHADVP (WRB Where) (RB maybe)) (NP (DT a) (NN physics) (NN professor))))
+-23.162563043118 -79.388226929999
+(S1 (SBAR (WHADVP (WRB Where)) (S (ADVP (RB maybe)) (NP (DT a) (NN physics) (NN professor)))))
+-23.392848488989 -72.765872899647
+(S1 (FRAG (WRB Where) (RB maybe) (NP (DT a) (NNS physics) (NN professor))))
+-23.703560545714 -80.337697038758
+(S1 (SBAR (WHADVP (WRB Where)) (FRAG (ADVP (RB maybe)) (NP (DT a) (NN physics) (NN professor)))))
+-23.759486112128 -76.255379419250
+(S1 (FRAG (WRB Where) (ADVP (RB maybe)) (NP (DT a) (NN physics) (NN professor))))
+-23.772656813014 -79.059346590582
+(S1 (FRAG (WHADVP (WRB Where)) (NP (RB maybe) (DT a) (NNS physics) (NN professor))))
+-23.804272076393 -79.838793291582
+(S1 (FRAG (WHADVP (WRB Where)) (ADVP (RB maybe)) (NP (DT a) (NNS physics) (NN professor))))
+-23.951790803730 -78.163138957872
+(S1 (SBAR (WHADVP (WRB Where)) (FRAG (RB maybe) (NP (DT a) (NN physics) (NN professor)))))
+-23.999411750345 -78.576176126108
+(S1 (FRAG (WHADVP (WRB Where)) (NP (ADVP (RB maybe)) (DT a) (NN physics) (NN professor))))
+-24.013307714000 -83.073543983517
+(S1 (SBAR (WHADVP (WRB Where)) (S (ADVP (RB maybe)) (NP (DT a) (NNS physics) (NN professor)))))
+-24.330146014080 -78.354483797897
+(S1 (FRAG (WRB Where) (RB maybe) (NP (DT a) (NNP physics) (NN professor))))
+-24.448210100718 -79.343994169550
+(S1 (FRAG (WHADVP (WRB Where)) (NP (RB maybe) (NP (DT a) (NN physics) (NN professor)))))
+-24.522685784417 -77.414572142424
+(S1 (FRAG (WHADVP (WRB Where) (RB maybe)) (NP (DT a) (NNS physics) (NN professor))))
+-24.622634910893 -77.640172073015
+(S1 (FRAG (WHADVP (WRB Where) (NP (RB maybe) (DT a) (NN physics) (NN professor)))))
+-24.661609606862 -79.169063335468
+(S1 (FRAG (WRB Where) (NP (RB maybe) (DT a) (NN physics) (NN professor))))
+-24.698778173780 -82.055626879936
+(S1 (SBAR (WHADVP (WRB Where)) (FRAG (NP (RB maybe) (DT a) (NN physics) (NN professor)))))
+-24.790216496929 -76.757806607766
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (NP (NP (DT a) (NN physics)) (NP (NN professor)))))
+-24.941889500138 -77.161071139887
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (FRAG (NP (DT a) (NN physics) (NN professor)))))
+-25.018112414865 -81.053112147179
+(S1 (FRAG (WHADVP (WRB Where)) (FRAG (ADVP (RB maybe)) (NP (DT a) (NN physics) (NN professor)))))
+-25.212816101999 -78.493851266436
+(S1 (FRAG (WHADJP (WRB Where) (RB maybe)) (NP (DT a) (NN physics) (NN professor))))
+-25.287627130881 -82.099458413700
+(S1 (FRAG (WHADVP (WRB Where) (RB maybe)) (NP (DT a) (NNP physics) (NN professor))))
+-25.316029126449 -81.624159006774
+(S1 (FRAG (WRB Where) (ADVP (RB maybe)) (NP (DT a) (NNS physics) (NN professor))))
+-25.332977925247 -82.183345576579
+(S1 (FRAG (SBAR (WHADVP (WRB Where)) (S (ADVP (RB maybe)) (NP (DT a) (NN physics) (NN professor))))))
+-25.777445565169 -80.733289464959
+(S1 (FRAG (WRB Where) (FRAG (ADVP (RB maybe)) (NP (DT a) (NN physics) (NN professor)))))
+-25.824884741955 -82.097069478199
+(S1 (FRAG (WHADVP (WRB Where) (NP (RB maybe) (DT a) (NNS physics) (NN professor)))))
+-25.848100830104 -82.551053150301
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (NP (NP (DT a) (NNS physics)) (NP (NN professor)))))
+-25.876863163902 -82.428325064742
+(S1 (FRAG (WHADVP (WRB Where)) (ADVP (RB maybe)) (NP (NP (DT a) (NN physics)) (NP (NN professor)))))
+-26.012849808818 -81.199243717741
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (NP (DT a) (NN physics)) (NP (NN professor))))
+-26.020611303911 -80.714856418482
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (NP (NP (DT a) (NN physics)) (NN professor))))
+-26.041899079362 -80.255640486780
+(S1 (FRAG (WHADVP (WRB Where)) (ADVP (RB maybe) (NP (DT a) (NN physics) (NN professor)))))
+-26.108957501770 -77.326046377358
+(S1 (FRAG (WRB Where) (RB maybe) (NP (NP (DT a) (NN physics)) (NP (NN professor)))))
+-26.111513056060 -80.766518865883
+(S1 (FRAG (WHADVP (WRB Where)) (NP (NP (RB maybe) (DT a) (NN physics)) (NP (NN professor)))))
+-26.139837969061 -82.179930991092
+(S1 (FRAG (SBAR (WHADVP (WRB Where)) (FRAG (RB maybe) (NP (DT a) (NN physics) (NN professor))))))
+-26.177357421619 -82.666421768156
+(S1 (FRAG (WHADVP (WRB Where)) (ADVP (RB maybe) (NP (DT a) (NNS physics) (NN professor)))))
+-26.243866602461 -83.108062029726
+(S1 (FRAG (WHADVP (WRB Where)) (RB maybe) (FRAG (NP (DT a) (NNS physics) (NN professor)))))
+-26.609937176596 -80.753633913848
+(S1 (FRAG (WHNP (WRB Where) (RB maybe)) (NP (DT a) (NN physics) (NN professor))))
+-26.662047289444 -82.527934282095
+(S1 (SBAR (WHADJP (WRB Where) (RB maybe)) (S (NP (DT a) (NN physics) (NN professor)))))
+-26.665344790329 -79.181049688322
+(S1 (FRAG (WRB Where) (RB maybe) (FRAG (NP (DT a) (NN physics) (NN professor)))))
+-26.799897366431 -83.073451077585
+(S1 (SBAR (WHADVP (WRB Where)) (FRAG (ADVP (RB maybe) (NP (DT a) (NN physics) (NN professor))))))
+-26.835474203781 -80.470048503354
+(S1 (FRAG (WHADVP (WRB Where)) (PP (RB maybe) (NP (DT a) (NN physics) (NN professor)))))
+-27.026543149812 -80.724321529966
+(S1 (FRAG (WHADVP (WRB Where) (RB maybe)) (NP (NP (DT a) (NN physics)) (NP (NN professor)))))
+-27.071076589954 -80.377116497359
+(S1 (FRAG (WRB Where) (ADVP (RB maybe) (NP (DT a) (NN physics) (NN professor)))))
+-27.206534932211 -82.787897778736
+(S1 (FRAG (WRB Where) (ADVP (RB maybe) (NP (DT a) (NNS physics) (NN professor)))))
+-27.339352308752 -81.283096188074
+(S1 (FRAG (WRB Where) (RB maybe) (NP (NP (DT a) (NN physics)) (NN professor))))
+

@@ -1,0 +1,102 @@
+50 x
+-14.485167340422 -46.435426192137
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB really) (JJ uninformed)))))
+-15.175904841036 -48.100696941392
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB really)) (ADJP (JJ uninformed)))))
+-16.949729750088 -52.136924577187
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (RB really) (ADJP (JJ uninformed)))))
+-17.775568056539 -53.508211681095
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADJP (RB really) (JJ uninformed))))))
+-17.978868093885 -54.285983551591
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADJP (ADVP (RB really)) (JJ uninformed)))))
+-18.234425212558 -56.140054580176
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB really)) (VP (JJ uninformed)))))
+-18.305045238913 -57.122011208729
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (ADVP (RB really)) (JJ uninformed)))))
+-18.451088368954 -57.620494549340
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADVP (RB really)) (ADJP (JJ uninformed))))))
+-18.811954642514 -60.114068668614
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (RB really) (JJ uninformed)))))
+-18.903693713657 -60.398602824492
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB really)) (NP (JJ uninformed)))))
+-19.277524113067 -60.204810924588
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (RB really) (VP (JJ uninformed)))))
+-19.577323974674 -57.989486586162
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB really) (ADJP (JJ uninformed))))))
+-19.608345859139 -61.969444440746
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB really) (JJ uninformed)))))
+-19.759265048308 -60.048052004689
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB really)) (VP (ADJP (JJ uninformed))))))
+-20.339567011277 -60.090886264233
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (RB really) (ADJP (JJ uninformed))))))
+-20.460854562132 -63.337917136108
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (ADJP (RB really) (JJ uninformed))))))
+-20.635137435688 -62.312201734763
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (ADJP (RB really) (JJ uninformed))))))
+-20.817195933373 -62.519073019042
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (RB really) (JJ uninformed))))))
+-20.819715783817 -64.175050602177
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (RB really) (VP (ADJP (JJ uninformed))))))
+-21.000262914341 -64.552079002154
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (ADVP (RB really)) (JJ uninformed))))))
+-21.025293581333 -61.704489492106
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADJP (ADVP (RB really)) (JJ uninformed))))))
+-21.300239648166 -65.085642372593
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (RB really) (NP (JJ uninformed)))))
+-21.504818098293 -66.452188131626
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB really) (ADJP (JJ uninformed))))))
+-21.926787528067 -68.533345400425
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (ADVP (RB really)) (JJ uninformed)))))
+-22.025029494272 -65.116783073302
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADJP (ADVP (RB really)) (ADJP (JJ uninformed))))))
+-22.185543879192 -69.675457501224
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADVP (RB really)) (VP (JJ uninformed))))))
+-22.598012466121 -67.192955015568
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (RB really) (ADJP (JJ uninformed)))))))
+-22.790861901911 -65.232500217230
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (ADJP (RB really) (JJ uninformed)))))))
+-22.964970849580 -68.138917505460
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADJP (RB really) (ADJP (JJ uninformed)))))))
+-23.316487850875 -72.582936217656
+(S1 (S (NP (NN I)) (VP (VBP 'm) (ADJP (RB really) (JJ uninformed)))))
+-23.423249574206 -69.729583728477
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (ADJP (ADVP (RB really)) (JJ uninformed))))))
+-23.931760542132 -74.165662298815
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADVP (RB really)) (VP (ADJP (JJ uninformed)))))))
+-24.014864466874 -72.312235320775
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (ADJP (RB really) (JJ uninformed)))))))
+-24.068531225618 -69.790354943869
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADJP (ADVP (RB really)) (ADJP (JJ uninformed)))))))
+-24.146215529427 -72.369312641218
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (ADJP (ADVP (RB really)) (JJ uninformed))))))
+-24.221881946490 -74.248206966910
+(S1 (S (NP (NN I)) (VP (VBP 'm) (ADVP (RB really)) (ADJP (JJ uninformed)))))
+-24.415014316461 -74.814917692882
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (ADJP (RB really) (JJ uninformed)))))))
+-24.813431446510 -77.481137415880
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (ADVP (RB really)) (ADJP (JJ uninformed)))))))
+-25.748986265097 -74.783462822454
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (ADJP (RB really) (ADJP (JJ uninformed)))))))
+-25.946242377753 -78.284434602705
+(S1 (S (NP (NN I)) (VP (VBP 'm) (RB really) (ADJP (JJ uninformed)))))
+-26.065961308894 -80.253097629209
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (VP (ADVP (RB really)) (JJ uninformed)))))))
+-26.100620610576 -79.807716935230
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (ADJP (RB really) (ADJP (JJ uninformed)))))))
+-26.424971302854 -74.263895911927
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (ADJP (ADVP (RB really)) (JJ uninformed)))))))
+-26.493468936143 -79.657134689756
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (ADJP (RB really) (JJ uninformed)))))
+-26.638812766992 -79.655721706613
+(S1 (S (NP (NN I)) (VP (VBP 'm) (S (ADJP (RB really) (JJ uninformed))))))
+-26.805106329865 -79.729617314490
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (ADJP (ADVP (RB really)) (JJ uninformed)))))))
+-26.956729874339 -80.433493577110
+(S1 (S (NP (NN I)) (VP (VBP 'm) (ADJP (ADVP (RB really)) (JJ uninformed)))))
+-27.299685028066 -80.734107889786
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (ADVP (RB really)) (ADJP (JJ uninformed)))))
+-27.713956643675 -81.160984819463
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (ADJP (ADVP (RB really)) (ADJP (JJ uninformed)))))))
+-28.377428080374 -81.420497448914
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (ADJP (RB really) (ADJP (JJ uninformed))))))))
+

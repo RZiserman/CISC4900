@@ -1,0 +1,102 @@
+50 x
+-14.389738705896 -40.566827436165
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-14.738578333180 -40.975174304211
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-15.286825759984 -45.481356766286
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-15.452976304277 -44.543818613337
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-15.602628504899 -41.296984028185
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-16.548825094568 -45.660645885857
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good))))))
+-16.561141897136 -47.079926671863
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-16.886694677101 -47.124489266425
+(S1 (SBAR (RB Well) (DT that) (S (VP (VBZ 's) (ADJP (JJ good))))))
+-16.986297073227 -44.905355674369
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-17.062247918726 -51.800029788371
+(S1 (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-17.089242468114 -50.181871163133
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (POS 's) (ADJP (JJ good)))))
+-17.107619806173 -47.110505102159
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-17.116468739312 -51.475231034364
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (POS 's) (ADJP (JJ good)))))
+-17.313995775163 -49.510374146476
+(S1 (S (CONJP (RB Well) (RB that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-17.362320661539 -48.048611683395
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ 's) (ADJP (JJ good))))))
+-17.578601133071 -47.620520990800
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-17.580836614576 -46.261372010167
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (JJ good)))))
+-17.699872091255 -49.737684640425
+(S1 (S (NP (RB Well) (WDT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-17.928366528827 -51.739257394739
+(S1 (ADJP (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-17.929676244648 -46.669718878213
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (JJ good)))))
+-17.993261699116 -46.595119071835
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-18.059955912583 -52.048350713072
+(S1 (SBAR (RB Well) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good))))))
+-18.302364085063 -47.789336231589
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-18.357848025658 -51.820239920636
+(S1 (ADJP (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-18.419427956589 -46.525356519383
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (ADJP (JJ good))))))
+-18.453971556269 -46.880225663309
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-18.471574764694 -47.747040298418
+(S1 (S (INTJ (UH Well)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-18.477923668664 -51.175901340288
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (JJ good)))))
+-18.644074215745 -50.238363187339
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (JJ good)))))
+-18.740872234315 -51.898200071679
+(S1 (S (NP (QP (RB Well) (DT that))) (VP (VBZ 's) (ADJP (JJ good)))))
+-18.793726413579 -46.991528602187
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (JJ good)))))
+-18.808021031430 -49.641024300452
+(S1 (S (ADVP (RB Well)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-18.867261417363 -50.884828039607
+(S1 (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (ADJP (JJ good))))))
+-18.887676593582 -51.496177816237
+(S1 (FRAG (RB Well) (SBAR (DT that) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-18.922509385893 -51.969158813052
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (ADJP (RB good)))))
+-18.946783953089 -48.032147018431
+(S1 (S (INTJ (UH Well)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-19.044709866776 -51.240462098367
+(S1 (S (ADVP (UH Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-19.228084494603 -52.021555687028
+(S1 (FRAG (INTJ (UH Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-19.246310762664 -51.581317717917
+(S1 (FRAG (S (NP (RB Well) (DT that)) (VP (VBZ 's) (ADJP (JJ good))))))
+-19.275674412169 -52.071979551871
+(S1 (ADVP (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-19.444286723626 -48.068850022392
+(S1 (S (INTJ (RB Well)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-19.529841116248 -51.355190457596
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (NP (JJ good))))))
+-19.559128835635 -51.648522325660
+(S1 (S (ADVP (RB Well)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-19.896598343512 -51.041587047683
+(S1 (FRAG (CONJP (RB Well) (RB that)) (S (VP (VBZ 's) (ADJP (JJ good))))))
+-19.905513572021 -48.353956742405
+(S1 (S (INTJ (RB Well)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ good)))))
+-19.967313097695 -50.599900246108
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (JJ good)))))))
+-20.051017603764 -51.100489705045
+(S1 (FRAG (NP (NP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ good))))))))
+-20.480301210492 -51.383195834023
+(S1 (FRAG (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (ADJP (JJ good)))))))
+-21.169618173583 -52.289663645837
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (NP (JJ good)))))
+-21.702241930571 -52.219901169957
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (NP (JJ good))))))
+

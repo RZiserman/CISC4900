@@ -1,0 +1,102 @@
+50 x
+-27.065594289520 -86.403971806233
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (PRT (RP up)))))
+-27.073138588357 -93.343219204201
+(S1 (S (CC and) (NP (PRP I)) (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (PRT (RP up)))))
+-27.104657459516 -93.108294088903
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (PRT (RP up)))))))
+-27.342150075730 -91.167689819275
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (PRT (RP up))))))
+-27.794400829285 -93.981200344173
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (PRT (RP up))))))))
+-27.847196812727 -88.548176797663
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (PRT (RP up)))))
+-27.919959710894 -92.040595906276
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (PRT (RP up)))))))
+-28.152824857733 -96.628566640978
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (S (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (PRT (RP up)))))))
+-28.388678317863 -96.226093968576
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan))) (VP (VB put) (PRT (RP up)))))
+-28.552036489972 -96.681211981463
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (ADVP (RB up)))))))
+-28.652738940339 -88.541941003785
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (ADVP (RB up)))))
+-28.716313110903 -95.481188447759
+(S1 (S (CC and) (NP (PRP I)) (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (ADVP (RB up)))))
+-28.723149149007 -94.174528246272
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (SBAR (S (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (PRT (RP up))))))))
+-28.733934965649 -93.341793494829
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBN put) (PRT (RP up)))))
+-28.781501307465 -95.838906986335
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (PRT (RP up)))))))
+-29.138208202522 -94.750746011383
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBN put) (PRT (RP up)))))
+-29.290019919045 -95.484053692573
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (ADVP (RB up)))))))
+-29.434341466334 -90.686145995215
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (ADVP (RB up)))))
+-29.445988057234 -96.711813241605
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (PRT (RP up))))))))
+-29.471040013645 -94.432974816123
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBP put) (PRT (RP up)))))
+-29.471078660784 -95.720645141801
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VB put) (PRT (RP up)))))
+-29.509198165149 -96.539806425621
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (S (NP (DT a) (NN ceiling) (NN fan)) (VP (VB put) (PRT (RP up)))))))
+-29.543190418110 -95.047434388325
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (SBAR (S (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (PRT (RP up)))))))))
+-29.624661252755 -93.898597173198
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (PRT (RB up)))))
+-29.647497745596 -95.838776576185
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (ADVP (RB up))))))
+-29.996831731720 -95.930585162851
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling)) (SBAR (S (NP (NN fan)) (VP (VBD put) (PRT (RP up)))))))))
+-30.162142501601 -96.356959947843
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (ADVP (RB up))))))))
+-30.162575777433 -96.214725277826
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBP put) (PRT (RP up)))))
+-30.219100298408 -89.870875255583
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (ADVP (RP up)))))
+-30.219737479947 -95.911911104604
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (S (VP (VBN put) (PRT (RP up)))))))
+-30.237768847972 -96.711682663186
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (VP (VBN put) (ADVP (RB up)))))))
+-30.286741796183 -96.810122699557
+(S1 (S (CC and) (NP (PRP I)) (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (ADVP (RP up)))))
+-30.305525256553 -96.312497502434
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (SBAR (S (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (ADVP (RB up))))))))
+-30.406263775963 -96.042802164628
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (PRT (RB up)))))
+-30.687077694276 -96.803491418121
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling)) (SBAR (S (NP (NN fan)) (VP (VBD put) (PRT (RP up))))))))))
+-30.795324640687 -96.784817214059
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)) (S (VP (VBN put) (PRT (RP up))))))))
+-30.929573225447 -96.477887843851
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBN put) (ADVP (RB up)))))
+-31.000702821615 -92.015080247013
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (ADVP (RP up)))))
+-31.087128058696 -94.419320558557
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling)) (NP (NN fan)))) (VP (VBD put) (PRT (RP up)))))
+-31.160185795048 -93.287362863802
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (ADVP (IN up)))))
+-31.286462377962 -95.944240494140
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (PP (RP up)))))))
+-31.292784070942 -96.494317815661
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (ADVP (RP up)))))))
+-31.737753469088 -96.184911227093
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling)) (NN fan)))) (VP (VBD put) (PRT (RP up)))))
+-31.868730581903 -96.563525549987
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling)) (NP (NN fan)))) (VP (VBD put) (PRT (RP up)))))
+-31.941788321043 -95.431567855232
+(S1 (S (S (CC and) (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (ADVP (IN up)))))
+-31.950949130518 -96.817146749410
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN ceiling) (NN fan)) (VP (VBD put) (PP (RP up))))))))
+-32.106725570021 -95.468966238941
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (ADJP (RP up)))))
+-32.143468075371 -95.652896418242
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (PP (RP up)))))
+-32.646708646731 -96.138629949319
+(S1 (S (S (NP (CC and) (NP (PRP I))) (VP (VBD had) (NP (DT a) (NN ceiling) (NN fan)))) (VP (VBD put) (PRT (RP up)))))
+-32.754342832303 -96.557289756109
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN ceiling)) (NP (NN fan)))) (VP (VBD put) (ADVP (RB up)))))
+

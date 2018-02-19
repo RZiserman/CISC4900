@@ -1,0 +1,102 @@
+50 x
+-15.683022528180 -55.198039817727
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (NP (PRP me)) (ADJP (JJ crazy))))))
+-16.452856859164 -57.396560387878
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (ADJP (JJ crazy)))))
+-17.443648265971 -59.169742526795
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (ADJP (NP (PRP me)) (JJ crazy)))))
+-17.917226620630 -60.125630772122
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (ADVP (JJ crazy)))))
+-18.009988273105 -59.067362240197
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me) (JJ crazy)))))
+-18.193242183283 -54.118155874442
+(S1 (S (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)))) (ADJP (JJ crazy))))
+-18.456584272674 -61.726741792423
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (NP (PRP me)) (NP (JJ crazy))))))
+-18.593936785639 -64.277328063805
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (NP (JJ crazy)))))
+-18.739024176279 -65.517117379357
+(S1 (S (NP (PRP It)) (VP (NNS drives) (S (NP (PRP me)) (ADJP (JJ crazy))))))
+-18.749432708434 -62.121144275092
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (S (ADJP (JJ crazy))))))
+-19.301131178542 -61.873094558533
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (NP (PRP me)) (ADJP (JJ crazy))))))
+-19.508863779294 -67.402815323975
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (PRT (JJ crazy)))))
+-19.520011953121 -65.963673122295
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (NP (PRP me)) (VP (JJ crazy))))))
+-19.530634801086 -66.119593050744
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (FRAG (ADJP (JJ crazy))))))
+-19.806709711948 -62.155868023872
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (NP (PRP me)) (ADVP (JJ crazy))))))
+-20.086041673752 -63.196463425299
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (NP (PRP me)) (ADVP (JJ crazy))))))
+-20.253085777100 -69.314267240799
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (FRAG (JJ crazy)))))
+-20.287552441535 -68.924786133265
+(S1 (S (NP (PRP It)) (VP (NNS drives) (NP (PRP me)) (ADVP (JJ crazy)))))
+-20.296754180942 -67.386537641116
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (NP (PRP me)) (JJ crazy)))))
+-20.546397086730 -66.087285067217
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me) (NP (JJ crazy))))))
+-20.561094723995 -67.609524822516
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (ADJP (NP (PRP me)) (JJ crazy))))))
+-20.757370791939 -64.983705213835
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (ADVP (PRP me)) (ADJP (JJ crazy)))))
+-20.834236724331 -67.312169589083
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (NP (FW me)) (ADJP (JJ crazy))))))
+-20.967749940077 -72.836720330375
+(S1 (S (NP (PRP It)) (VP (NP (NNS drives)) (S (NP (PRP me)) (ADJP (JJ crazy))))))
+-21.094313162841 -69.201439768862
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (NP (PRP me)) (NP (JJ crazy))))))
+-21.152096190027 -65.608573766279
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me))) (ADVP (JJ crazy))))
+-21.167134884533 -71.188510615389
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (NP (PRP me)) (VP (ADJP (JJ crazy)))))))
+-21.272657105238 -72.074668113747
+(S1 (S (NP (PRP It)) (VP (NNS drives) (NP (PRP me) (JJ crazy)))))
+-21.283296875601 -69.520291398462
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (VP (JJ crazy)))))
+-21.388969029407 -69.142867476897
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (ADJP (NP (FW me)) (JJ crazy)))))
+-21.483723827418 -71.106337252733
+(S1 (S (NP (PRP It)) (VP (NNS drives) (NP (PRP me)) (S (ADJP (JJ crazy))))))
+-21.526213969571 -67.417439497752
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (ADVP (FW me)) (ADJP (JJ crazy)))))
+-21.619330882860 -69.683159820762
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (NP (PRP me)) (VP (JJ crazy))))))
+-21.658595004685 -68.115577078771
+(S1 (S (S (NP (PRP It)) (VP (NNS drives) (NP (PRP me)))) (ADJP (JJ crazy))))
+-21.706011465463 -65.993768985959
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (ADJP (ADVP (PRP me)) (JJ crazy)))))
+-21.714495002848 -70.822458113597
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (S (VP (JJ crazy))))))
+-21.764999733253 -67.746191929969
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (S (NP (JJ crazy))))))
+-21.783640902313 -70.519543557916
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (NP (PRP me)) (FRAG (ADJP (JJ crazy)))))))
+-21.946832577265 -68.617417308292
+(S1 (S (NP (PRP It) (VBZ drives)) (NP (PRP me)) (ADJP (JJ crazy))))
+-22.010655107041 -71.500639767047
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (FW me)) (ADJP (JJ crazy)))))
+-22.155881845947 -68.649981781814
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (S (ADVP (JJ crazy))))))
+-22.353908939519 -69.838220049992
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (ADJP (ADVP (FW me)) (JJ crazy)))))
+-22.372449003300 -72.957553887263
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)) (VP (ADJP (JJ crazy))))))
+-22.443321152757 -71.173851958195
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (S (NP (PRP me)) (NP (ADJP (JJ crazy)))))))
+-22.567856357283 -67.678106726814
+(S1 (S (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)))) (VP (JJ crazy))))
+-22.674712439456 -72.639285128311
+(S1 (S (NP (PRP It)) (VP (NNS drives) (S (NP (PRP me)) (ADVP (JJ crazy))))))
+-22.765672770081 -71.124917867947
+(S1 (S (NP (PRP It)) (VP (VBZ drives) (NP (NP (FW me)) (ADJP (JJ crazy))))))
+-23.212252940316 -71.204763053312
+(S1 (S (NP (PRP It) (VBZ drives)) (ADJP (NP (PRP me)) (JJ crazy))))
+-23.555212006160 -68.222235253612
+(S1 (S (S (NP (PRP It)) (VP (VBZ drives) (NP (FW me)))) (ADJP (JJ crazy))))
+-23.919605719788 -71.794036210085
+(S1 (S (S (NP (PRP It)) (VP (VBZ drives) (NP (PRP me)))) (VP (ADJP (JJ crazy)))))
+

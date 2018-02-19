@@ -1,0 +1,102 @@
+50 x
+-19.650062899156 -66.259716171065
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-19.756830859050 -66.122079732397
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything)))))))
+-20.060017951131 -68.092831665987
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything))))))
+-20.536459322981 -70.187940718738
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything))))))
+-20.825571285639 -69.279586700405
+(S1 (SINV (VBZ Has) (NP (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-20.926355006184 -69.120484365467
+(S1 (SINV (VBZ Has) (NP (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything)))))))
+-21.001209415375 -71.794664234496
+(S1 (SINV (VBZ Has) (NP (NP (NN anybody) (NN thought)) (PP (IN of) (NP (NN anything))))))
+-21.023507148828 -72.442377703759
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody) (NN thought)) (PP (IN of) (NP (NN anything))))))
+-21.642996584471 -73.494086514873
+(S1 (SQ (VBZ Has) (S (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-21.698060835054 -71.334021252683
+(S1 (S (VP (VBZ Has) (NP (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything))))))))
+-21.794714522166 -72.665875130756
+(S1 (SQ (VBZ Has) (S (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything)))))))
+-21.910106604063 -72.257173740782
+(S1 (S (VP (VBZ Has) (NP (NP (NN anybody) (NN thought)) (PP (IN of) (NP (NN anything)))))))
+-21.969894534838 -70.972857790810
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (ADJP (VBD thought) (PP (IN of) (NP (NN anything))))))
+-21.989419822786 -71.404942192134
+(S1 (S (VP (VBZ Has) (NP (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything))))))))
+-22.080825203902 -72.774318178425
+(S1 (S (VP (VBZ Has) (SBAR (S (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything)))))))))
+-22.157667094416 -69.802589340497
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (ADJP (VBN thought) (PP (IN of) (NP (NN anything))))))
+-22.187029889544 -73.922488171443
+(S1 (S (VP (VBZ Has) (NP (NN anybody))) (VP (VBD thought) (PP (IN of) (NP (NN anything))))))
+-22.276666902845 -73.168389477399
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (SBAR (S (VP (VBD thought) (PP (IN of) (NP (NN anything)))))))))
+-22.451018695614 -75.078122022216
+(S1 (S (VP (VBZ Has) (S (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything))))))))
+-22.554185026033 -74.436030437310
+(S1 (S (VP (VBZ Has) (NP (NN anybody))) (VP (VBN thought) (PP (IN of) (NP (NN anything))))))
+-22.835219515673 -75.044064152650
+(S1 (SINV (VBZ Has) (NP (NP (NP (NN anybody)) (NN thought)) (PP (IN of) (NP (NN anything))))))
+-22.864526804436 -75.739834855771
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VBN thought) (PP (IN of) (NP (NN anything))))))
+-22.865270972399 -75.691777556227
+(S1 (SQ (VBZ Has) (NP (NP (NP (NN anybody)) (NN thought)) (PP (IN of) (NP (NN anything))))))
+-22.918505353051 -71.614523296145
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (PP (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-22.956634025285 -73.176329664235
+(S1 (S (VP (VBZ Has) (VP (NP (NN anybody)) (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-22.970672703582 -74.408862747835
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (SBAR (S (VP (VBN thought) (PP (IN of) (NP (NN anything)))))))))
+-23.228460875509 -70.857625303101
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (PP (VBN thought) (PP (IN of) (NP (NN anything))))))
+-23.341514328674 -76.701459892335
+(S1 (SINV (VBZ Has) (NP (NP (NN anybody)) (SBAR (S (VP (VBD thought) (PP (IN of) (NP (NN anything)))))))))
+-23.371674902970 -75.123472672422
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody) (VBN thought)) (PP (IN of) (NP (NN anything))))))
+-23.377645848205 -77.312434233696
+(S1 (S (VP (VBZ Has) (SBAR (S (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything)))))))))
+-23.507719682772 -76.566896007403
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VP (VBN thought)) (PP (IN of) (NP (NN anything))))))
+-23.591702630007 -74.318149384959
+(S1 (SQ (VBZ Has) (NP (NN anybody) (NN thought)) (PP (IN of) (NP (NN anything)))))
+-23.691471308274 -75.619153419215
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (SBAR (S (VP (VBN thought) (PP (IN of) (NP (NN anything))))))))
+-23.709302485408 -73.883438646159
+(S1 (SINV (VBZ Has) (NP (NP (NN anybody)) (PP (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-23.710692995168 -74.502718289972
+(S1 (VP (VBZ Has) (NP (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-23.762137066630 -75.925348868386
+(S1 (VP (VBZ Has) (NP (NP (NN anybody) (NN thought)) (PP (IN of) (NP (NN anything))))))
+-23.811223012908 -73.764655443942
+(S1 (VP (VBZ Has) (SBAR (S (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything))))))))
+-23.880385848271 -75.506573567189
+(S1 (S (VP (VBZ Has) (NP (NP (NP (NN anybody)) (NN thought)) (PP (IN of) (NP (NN anything)))))))
+-23.899621732900 -74.573639229423
+(S1 (VP (VBZ Has) (NP (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (NP (NN anything)))))))
+-23.932585706467 -77.142971279070
+(S1 (S (VP (VBZ Has) (NP (NP (NN anybody)) (SBAR (S (VP (VBD thought) (PP (IN of) (NP (NN anything))))))))))
+-24.275855266122 -73.202211530047
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VP (VBN thought))) (PP (IN of) (NP (NN anything)))))
+-24.313354086090 -75.864754387492
+(S1 (SQ (VBZ Has) (ADJP (NN anybody) (VBD thought) (PP (IN of) (NP (NN anything))))))
+-24.761270285339 -75.915514708076
+(S1 (SQ (VBZ Has) (NP (NN anybody) (VBN thought)) (PP (IN of) (NP (NN anything)))))
+-24.855757722433 -74.159831753568
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VP (VBD thought))) (PP (IN of) (NP (NN anything)))))
+-25.182117247956 -76.525428211011
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VP (VBN thought) (PP (IN of) (S (NP (NN anything))))))))
+-25.230920428608 -76.078416213211
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (VP (VBD thought) (PP (IN of) (S (NP (NN anything))))))))
+-25.403652310504 -77.118066090873
+(S1 (S (VP (VBZ Has) (VP (ADVP (NN anybody)) (VBN thought) (PP (IN of) (NP (NN anything)))))))
+-26.037166537245 -76.287752422063
+(S1 (SQ (VBZ Has) (NP (NP (NN anybody)) (PP (NP (NN thought)) (IN of) (NP (NN anything))))))
+-26.736405069476 -77.319847441956
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (PP (VBN thought) (IN of) (NP (NN anything)))))
+-26.808507617313 -75.051094418932
+(S1 (SQ (VBZ Has) (NP (NN anybody)) (PP (NP (NN thought)) (IN of) (NP (NN anything)))))
+

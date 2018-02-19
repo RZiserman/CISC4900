@@ -1,0 +1,102 @@
+50 x
+-21.974642769341 -71.530868502474
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-22.611018041306 -75.331749605932
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))))
+-22.627839110618 -71.949784256369
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))
+-23.787137474949 -72.155015933454
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))
+-24.063893315276 -75.696955222101
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing))) (PP (IN for) (NP (PRP me)))))))
+-24.817362633844 -75.857312561805
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-24.927104980591 -80.444505971980
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-25.137031412652 -82.438171439967
+(S1 (S (DT That) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-25.366848178385 -79.658193689545
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))))
+-25.509200162848 -76.276228379007
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-25.538502162269 -80.210543755214
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))
+-25.618942509594 -80.863421789182
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-25.745789690222 -81.373275326760
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing))) (PP (IN for) (NP (PRP me))))))
+-25.801597878471 -78.193743659700
+(S1 (S (NP (IN That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-25.910421624629 -77.630829276363
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-26.222471256868 -80.703956930405
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-26.250788335054 -80.855655136998
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))))
+-26.413817414648 -81.994624763158
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))))
+-26.454794216960 -78.612659413596
+(S1 (S (NP (IN That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))
+-26.511855844150 -76.481459910165
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me)))))))
+-26.563617963118 -78.049745032181
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-26.567441261397 -77.749434632117
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))))
+-26.637464380350 -81.431710590557
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))))
+-26.732665237896 -81.068653320339
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me)))))))
+-26.749158791192 -77.004203613605
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me)))))))
+-26.875667595358 -81.122872684300
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))
+-26.886959245142 -80.023399305714
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing))) (PP (IN for) (NP (PRP me))))))))
+-26.942625861270 -81.274570954201
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-26.968952055278 -79.204999512624
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-27.116926805937 -81.550315759857
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))))))
+-27.259278790401 -78.168350449319
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-27.303458872663 -80.573647679837
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-27.589936851079 -78.817891090680
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))
+-27.622148396555 -79.623915266519
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))
+-27.631557973845 -81.123225675414
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-27.813583802842 -78.254976874766
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me)))))))
+-27.826313878303 -77.220235456142
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing))))) (PP (IN for) (NP (PRP me)))))
+-27.866692691406 -82.359830379327
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing))) (PP (IN for) (NP (PRP me)))))))
+-27.875112088627 -82.182984813571
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me))))))))
+-27.893081318476 -81.328104361385
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))
+-27.996870542637 -80.992563355569
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-28.056348592360 -81.479802485358
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))))
+-28.090339657108 -81.796916206726
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing))) (PP (IN for) (NP (PRP me))))))))
+-28.212969505963 -81.227968987658
+(S1 (S (NP (IN That)) (VP (POS 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))
+-28.261934471702 -78.373581980476
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))))
+-28.529882587602 -82.601900489303
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT the) (JJ same) (NN thing)) (PP (IN for) (NP (PRP me)))))))
+-28.549189893886 -79.829146943604
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))
+-28.637037872695 -81.915521376026
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing))) (PP (IN for) (NP (PRP me)))))))))
+-28.841932732303 -81.197794920778
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me)))))))
+-29.366820984058 -81.330647697219
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (NP (NP (NN kind)) (PP (IN of) (NP (DT the) (JJ same) (NN thing)))) (PP (IN for) (NP (PRP me))))))))
+

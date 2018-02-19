@@ -1,0 +1,102 @@
+50 x
+-24.365694612844 -83.760324371937
+(S1 (NP (NP (CD One) (NN point)) (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points)))))
+-24.451953312623 -74.663955102320
+(S1 (NP (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points))))
+-25.059402196434 -76.488957629394
+(S1 (NP (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points))))
+-25.360400691011 -88.714628414343
+(S1 (S (NP (PRP One)) (VP (NN point) (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-25.469798883362 -86.656071533512
+(S1 (S (NP (CD One) (NN point)) (NP (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-25.676577003154 -85.954596676845
+(S1 (NP (NP (CD One) (NN point)) (NP (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-25.821975901477 -86.270116886958
+(S1 (S (NP (CD One)) (VP (NN point) (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-26.287481557995 -84.287293780951
+(S1 (NP (NP (NP (CD One) (NN point)) (NP (CD eight) (NNS times))) (PP (IN as) (NP (JJ many) (NNS points)))))
+-26.411075658121 -89.489180896525
+(S1 (S (NP (PRP One)) (VP (VBP point) (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-26.587334353528 -89.824358285423
+(S1 (S (NP (CD One)) (VP (VBP point) (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-26.725626202860 -81.501613708541
+(S1 (S (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points))))
+-26.825890220749 -89.138103395430
+(S1 (NP (NP (CD One) (NN point) (QP (CD eight) (NNS times))) (PP (IN as) (NP (JJ many) (NNS points)))))
+-26.826804159723 -78.882725366760
+(S1 (FRAG (NP (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-26.864119831923 -88.265486143463
+(S1 (FRAG (NP (CD One) (NN point)) (NP (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-27.079138677819 -88.006631270164
+(S1 (S (NP (CD One)) (VP (NN point) (NP (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points)))))))
+-27.342121048249 -84.261934439458
+(S1 (S (NP (PRP One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-27.394090139671 -83.326616235615
+(S1 (S (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points))))
+-27.434253040746 -80.707727893833
+(S1 (FRAG (NP (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-27.453086714008 -89.886943805075
+(S1 (S (NP (CD One) (NN point)) (VP (NP (CD eight) (NNS times)) (PP (IN as) (NP (JJ many) (NNS points))))))
+-27.654899323849 -85.625878828122
+(S1 (S (NP (PRP One)) (VP (VBP point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-27.711039163927 -81.817422912074
+(S1 (S (NP (CD One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-27.756975992123 -83.282115464660
+(S1 (NP (NP (NP (CD One) (NN point)) (NP (CD eight) (NNS times))) (ADJP (RB as) (JJ many)) (NNS points)))
+-27.872483766160 -84.088343443280
+(S1 (S (NP (CD One) (NN point)) (VP (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-27.898604709255 -85.961056217020
+(S1 (S (NP (CD One)) (VP (VBP point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-27.914947562060 -86.086936966532
+(S1 (S (NP (PRP One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-28.024260283614 -86.751413415309
+(S1 (NP (NP (CD One) (NN point)) (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))
+-28.085832264069 -86.062606245649
+(S1 (FRAG (NP (NP (CD One) (NN point)) (NP (CD eight) (NNS times))) (PP (IN as) (NP (JJ many) (NNS points)))))
+-28.134487443669 -84.762779545189
+(S1 (S (NP (PRP One)) (VP (VB point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-28.227725837659 -87.450881355196
+(S1 (S (NP (PRP One)) (VP (VBP point) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-28.283865677738 -83.642425439147
+(S1 (S (NP (CD One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-28.445310279971 -85.913345970353
+(S1 (S (NP (CD One) (NN point)) (VP (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-28.471431220278 -87.786058744094
+(S1 (S (NP (CD One)) (VP (VBP point) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-28.640160728677 -85.125047933026
+(S1 (S (NP (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-28.692724217637 -88.576415942383
+(S1 (NP (NP (CD One) (NN point)) (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))
+-28.707313954693 -86.587782072262
+(S1 (S (NP (PRP One)) (VP (VB point) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-29.135216444878 -88.161588875546
+(S1 (S (NP (CD One)) (VP (VB point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-29.159415283126 -86.388280650795
+(S1 (FRAG (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points))))
+-29.255771782488 -86.950050460100
+(S1 (S (NP (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-29.368762875876 -87.526667261785
+(S1 (NP (NP (PRP One) (NN point)) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points))))
+-29.378687900453 -89.380306997467
+(S1 (FRAG (NP (NP (NP (CD One) (NN point)) (NP (CD eight) (NNS times))) (PP (IN as) (NP (JJ many) (NNS points))))))
+-29.551979532654 -89.030472113002
+(S1 (S (NP (NP (NP (CD One) (NN point)) (NP (CD eight) (NNS times))) (PP (IN as) (NP (JJ many) (NNS points))))))
+-29.604044667583 -86.435352425603
+(S1 (S (NP (NN One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-29.827879219937 -88.213283177869
+(S1 (FRAG (NP (CD One) (NN point)) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points))))
+-29.976211759686 -89.351669788859
+(S1 (NP (NP (PRP One) (NN point)) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points))))
+-29.988389364000 -89.011998281193
+(S1 (S (NP (NN One)) (VP (VB point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-30.176871178606 -88.260354952676
+(S1 (S (NP (NN One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-30.645231498519 -87.791055837158
+(S1 (NP (NP (CD One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-31.218058009542 -89.616058364231
+(S1 (NP (NP (CD One)) (VP (NN point) (NP (QP (CD eight) (NNS times) (RB as) (JJ many)) (NNS points)))))
+-31.733878409504 -88.837284190138
+(S1 (FRAG (NP (CD One)) (VP (VB point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points)))))
+-31.847428708103 -89.305816048923
+(S1 (FRAG (S (NP (PRP One)) (VP (VB point) (NP (QP (CD eight) (NNS times) (IN as) (JJ many)) (NNS points))))))
+

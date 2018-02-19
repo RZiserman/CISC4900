@@ -1,0 +1,102 @@
+50 x
+-54.229051877873 -171.772014589318
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NNP I) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-54.404015463649 -172.957203366228
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NNP I) (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-54.749044990104 -173.365957883605
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (NP (NP (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-54.776383557363 -172.956969356318
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (NP (NNP B) (NNP M)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-54.812558553437 -174.725657342226
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-55.109514311009 -174.030470957357
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))))
+-55.162166510517 -173.453832536271
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-55.210624134298 -175.113043887294
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (PRP I))) (X (X (SYM B)) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-55.270317253894 -175.097859328293
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN joke) (SBAR (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))))
+-55.517165010513 -173.121601322936
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NNP I) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-55.627430348604 -173.817430304037
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (PRP I) (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-55.711279456338 -173.025231546927
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (PRP I)) (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-55.774147009287 -174.498916762073
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NN I) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-55.809743000468 -174.722291954877
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NNP I) (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-55.970451586082 -175.582321808565
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NN I) (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-56.037158122743 -174.715544617224
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (NP (NP (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-56.072153578473 -172.424332652173
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (PRP I) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-56.107792223153 -172.905925124748
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NP (PRP I)) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-56.182111066304 -174.722057944967
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (NP (NNP B) (NNP M)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-56.218286090256 -176.490745930875
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-56.324413966536 -173.587038346470
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NNP I) (NNP B) (NNP M)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-56.326975313466 -175.754308287265
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (PRP I)) (X (X (SYM B)) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-56.387142656320 -174.413261949363
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (NNP B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))))
+-56.397627443648 -175.380057690976
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))))
+-56.412370725713 -176.385601308110
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (PRP I))) (X (X (SYM B)) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-56.472568244519 -175.211215319708
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-56.534875048087 -176.422880557179
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN joke) (SBAR (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-56.567894047337 -175.218921124921
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-56.633371215282 -176.278603690645
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN joke) (SBAR (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-56.669369160250 -173.586804336560
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (NP (NNP B) (NNP M))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-56.730028784202 -175.355492322468
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-56.734186409364 -176.072297871645
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (DT a) (NN joke) (SBAR (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))))
+-56.816923988770 -176.163957580360
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NNP I) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))
+-57.033157885423 -175.582518892686
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (PRP I) (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-57.055152141282 -174.083667516513
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M)))))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-57.062260141926 -175.848503495692
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NN I) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-57.117006993158 -174.790320135576
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (PRP I)) (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-57.264470303874 -175.343342240586
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NP (NNP I)) (NP (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-57.338239980592 -175.624493665659
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NNP I)) (NP (NP (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-57.360266711113 -173.773919385791
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (PRP I) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-57.395905383670 -174.255511858367
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NP (PRP I)) (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-57.406905547747 -175.826465350557
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (NP (NP (NNP B) (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+-57.547828879369 -174.447265284279
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (PRP I) (NNP B) (NNP M)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-57.631677987103 -173.655066527169
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (PRP I)) (NNP B) (NNP M)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-57.666150822492 -176.030511763463
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-57.675255816837 -175.762848682981
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (NNP B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))))
+-57.760681405036 -176.560802053327
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))))))
+-57.890850116847 -176.212156788807
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NN I) (NNP B) (NNP M)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh)))))))))))))))
+-58.051657666010 -176.375835661239
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (PRP I)))))) (VP (SYM B) (NP (NP (NNP M)) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))
+-58.552583464391 -176.692928974205
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NN joke)) (PP (IN about) (NP (NP (NP (NNP I)) (NP (NNP B) (NNP M))) (SBAR (WHNP (WDT which)) (S (VP (VBZ says) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (UH uh))))))))))))))))))
+

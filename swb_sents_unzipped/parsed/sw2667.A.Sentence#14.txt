@@ -1,0 +1,102 @@
+50 x
+-32.560307793359 -104.494993356209
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))
+-32.573840783238 -113.036376343924
+(S1 (S (NP (PRP I)) (VP (VBD decided) (NP (NP (DT all) (NN right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-32.616421203365 -107.613780703842
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))))
+-32.772396036730 -104.061488102575
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-33.120482670168 -104.310810117246
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))
+-33.127805386721 -109.342035232421
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-33.134015687925 -112.852193104961
+(S1 (S (NP (PRP I)) (VP (VBD decided) (NP (NP (DT all) (NN right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-33.176596108052 -107.429597464879
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))
+-33.332570941417 -103.877304863612
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-33.632698147159 -111.839357226809
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (NP (DT all) (NN right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))
+-33.687980291408 -109.157851993458
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again)))))))))))))
+-33.985781461946 -111.994473956476
+(S1 (S (NP (PRP I)) (VP (VBD decided) (NP (DT all) (NN right) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-34.083135775466 -107.563108326703
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (ADJP (RB all) (JJ right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-34.192873051846 -111.655173987846
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (NP (DT all) (NN right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))
+-34.431570602527 -113.946476783063
+(S1 (S (NP (PRP I)) (VP (VBD decided) (NP (DT all) (JJ right) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-34.545956338755 -111.810290717513
+(S1 (S (NP (PRP I)) (VP (VBD decided) (NP (DT all) (NN right) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again)))))))))))))
+-34.591150436313 -110.880719432777
+(S1 (S (NP (PRP I)) (VP (VBD decided) (DT all) (ADJP (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-34.624344322041 -109.929960868919
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (NP (VBG exercising)) (ADVP (RB again)))))))))
+-34.643310680153 -107.378925087740
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (ADJP (RB all) (JJ right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-34.680457732048 -113.048748216552
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (NP (VBG exercising)) (ADVP (RB again)))))))))))
+-34.836432565412 -109.496455615285
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (NP (VBG exercising)) (ADVP (RB again)))))))))))))
+-34.991745479336 -113.762293544100
+(S1 (S (NP (PRP I)) (VP (VBD decided) (NP (DT all) (JJ right) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again)))))))))))))
+-35.067110943827 -113.642203483938
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADVP (RB all) (RB right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))
+-35.087410175113 -114.032574587492
+(S1 (S (NP (PRP I)) (VP (VBD decided) (DT all) (ADJP (RB right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-35.110840231242 -114.027734237613
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (NP (DT all)) (ADJP (RB right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-35.151325341000 -110.696536193814
+(S1 (S (NP (PRP I)) (VP (VBD decided) (DT all) (ADJP (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-35.404457476411 -110.775063346322
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again))))))))))))))))
+-35.495203935314 -113.151111691179
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (NP (DT all)) (ADJP (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again))))))))))))))))
+-35.627285820636 -113.458020244975
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADVP (RB all) (RB right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))
+-35.647585051923 -113.848391348529
+(S1 (S (NP (PRP I)) (VP (VBD decided) (DT all) (ADJP (RB right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-35.964632381098 -110.590880107359
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-35.979217718866 -113.869363460241
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (NP (DT all)) (VP (NN right) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-36.024611486665 -113.193580739068
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (ADJP (ADJP (RB all) (JJ right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again))))))))))))))))
+-36.055378840001 -112.966928452216
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (NP (DT all)) (ADJP (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-36.134709739381 -113.713011411225
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (RB all) (ADJP (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))
+-36.147172304148 -112.998075839413
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (ADJP (RB all) (JJ right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (NP (VBG exercising)) (ADVP (RB again)))))))))))))
+-36.172977182816 -113.226585916634
+(S1 (S (NP (PRP I)) (VP (VBD decided) (RB all) (ADJP (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-36.292899631361 -112.763549513715
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADVP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (ADVP (RB again)))))))))))
+-36.547575320104 -113.608203624064
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (PRT (RB again))))))))))))))
+-36.584786391353 -113.009397500105
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (ADJP (ADJP (RB all) (JJ right)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again)))))))))))))))
+-36.694884644068 -113.528828172262
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (RB all) (ADJP (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))
+-36.733152087503 -113.042402677671
+(S1 (S (NP (PRP I)) (VP (VBD decided) (RB all) (ADJP (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))))))
+-36.853074536048 -112.579366274752
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADVP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (ADVP (RB again))))))))))
+-36.943770911145 -114.002073072004
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (S (ADVP (RB again))))))))))))
+-37.155859154516 -113.568567818370
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (S (ADVP (RB again))))))))))))))))
+-37.921233006209 -112.548634791670
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (S (ADJP (RB again))))))))))))
+-38.133321249581 -112.115129538036
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (VP (VBG exercising) (S (ADJP (RB again))))))))))))))))
+-39.052585039603 -113.764538915369
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising))))) (ADVP (RB again))))))))))
+-39.056884243316 -113.429776381030
+(S1 (S (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right)))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (S (ADJP (RB again)))))))))))
+-39.268972486687 -112.996271127396
+(S1 (S (NP (PRP I)) (VP (VBD decided) (ADJP (RB all) (JJ right) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB start) (VP (VBG exercising) (S (ADJP (RB again)))))))))))))))
+

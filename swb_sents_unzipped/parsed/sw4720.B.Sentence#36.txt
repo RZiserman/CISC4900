@@ -1,0 +1,102 @@
+50 x
+-12.820725710874 -40.052927128529
+(S1 (NP (ADVP (IN at) (JJS least)) (DT some) (NNS companies)))
+-13.152270186323 -36.214866318288
+(S1 (X (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies))))
+-13.432011944923 -41.953686136217
+(S1 (NP (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies))))
+-14.612755157309 -40.822314981047
+(S1 (X (NP (ADVP (IN at) (JJS least)) (DT some) (NNS companies))))
+-14.706428669070 -41.242280856474
+(S1 (S (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies))))
+-14.821948728870 -43.232818374218
+(S1 (FRAG (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies))))
+-14.981257855947 -41.004464987838
+(S1 (S (NP (ADVP (IN at) (JJS least)) (DT some) (NNS companies))))
+-15.536062615373 -43.562690033390
+(S1 (NP (ADJP (ADVP (IN at) (JJS least)) (DT some)) (NNS companies)))
+-15.854630639940 -45.036278102858
+(S1 (X (NP (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies)))))
+-15.939127640690 -48.978024660569
+(S1 (NP (QP (IN at) (JJS least) (DT some)) (NNS companies)))
+-16.045774682917 -44.470355759187
+(S1 (FRAG (NP (ADVP (IN at) (JJS least)) (DT some) (NNS companies))))
+-16.576017669087 -46.481496979952
+(S1 (FRAG (NP (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies)))))
+-16.581363719050 -49.206740089344
+(S1 (X (ADVP (IN at) (RBS least)) (NP (DT some) (NNS companies))))
+-17.035580592932 -48.058224377856
+(S1 (S (NP (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies)))))
+-17.089194053134 -48.861281787133
+(S1 (S (PP (IN at) (RBS least)) (NP (DT some) (NNS companies))))
+-17.193029250387 -53.606785756297
+(S1 (PP (IN at) (RBS least) (NP (DT some) (NNS companies))))
+-17.229948749670 -47.078149408954
+(S1 (X (ADVP (IN at) (JJS least)) (NP (DT some) (NP (NNS companies)))))
+-17.311857347081 -52.585833844851
+(S1 (S (PP (IN at) (RBS least) (NP (DT some) (NNS companies)))))
+-17.582289075515 -54.157238893738
+(S1 (NP (QP (IN at) (JJS least)) (DT some) (NNS companies)))
+-17.584032451570 -51.129036471396
+(S1 (S (NP (ADVP (IN at) (JJS least)) (DT some)) (VP (NNS companies))))
+-17.705542719098 -53.429060688584
+(S1 (NP (QP (IN at) (RBS least)) (DT some) (NNS companies)))
+-17.713242301316 -55.253507025729
+(S1 (PP (IN at) (JJS least) (NP (DT some) (NNS companies))))
+-17.737802983019 -52.348023490485
+(S1 (S (ADVP (IN at) (RBS least)) (NP (DT some) (NNS companies))))
+-17.810216387785 -50.264874053534
+(S1 (S (PP (IN at) (NP (JJS least))) (NP (DT some) (NNS companies))))
+-17.958209741618 -49.931310957357
+(S1 (S (ADJP (ADVP (IN at) (JJS least)) (DT some)) (NP (NNS companies))))
+-17.984072742232 -50.813001115511
+(S1 (FRAG (ADVP (IN at) (JJS least) (NP (DT some) (NNS companies)))))
+-18.031382963676 -50.660553909507
+(S1 (S (ADVP (IN at) (JJS least)) (NP (DT some)) (VP (NNS companies))))
+-18.042516933044 -47.108479262913
+(S1 (X (NP (ADJP (ADVP (IN at) (JJS least)) (DT some)) (NNS companies))))
+-18.074605426890 -46.193807333748
+(S1 (S (NP (ADJP (ADVP (IN at) (JJS least)) (DT some)) (NNS companies))))
+-18.121573608079 -54.244712224740
+(S1 (S (VP (ADVP (IN at) (JJS least)) (NP (DT some) (NNS companies)))))
+-18.333199551763 -53.672313375866
+(S1 (S (NP (QP (IN at) (JJS least) (DT some))) (VP (NNS companies))))
+-18.356347186365 -52.309139754599
+(S1 (S (ADJP (QP (IN at) (JJS least) (DT some)) (NNS companies))))
+-18.441755829740 -52.459889323448
+(S1 (X (NP (QP (IN at) (JJS least) (DT some)) (NNS companies))))
+-18.650178319308 -50.540547246647
+(S1 (S (NP (ADVP (IN at) (JJS least)) (DT some)) (NP (NNS companies))))
+-18.840735164578 -53.432303541473
+(S1 (S (NP (QP (IN at) (JJS least) (DT some)) (NNS companies))))
+-18.908916596399 -53.437659874760
+(S1 (NP (NP (ADVP (IN at) (JJS least)) (DT some)) (NNS companies)))
+-18.934421742686 -51.181279701567
+(S1 (S (ADVP (IN at) (JJS least)) (NP (DT some)) (NP (NNS companies))))
+-18.940015848417 -54.932238067264
+(S1 (FRAG (ADVP (IN at) (JJS least)) (NP (DT some) (NP (NNS companies)))))
+-19.211626067207 -54.966998929066
+(S1 (X (ADVP (IN at) (JJS least)) (DT some) (NP (NNS companies))))
+-19.302577664049 -55.328632722122
+(S1 (S (PP (IN at) (RBS least)) (NP (DT some)) (VP (NNS companies))))
+-19.317842634156 -55.401345898825
+(S1 (NP (NP (ADVP (IN at) (JJS least)) (DT some)) (NP (NNS companies))))
+-19.379870495279 -54.926627286017
+(S1 (X (NP (QP (IN at) (JJS least)) (DT some) (NNS companies))))
+-19.399345416713 -53.083824151117
+(S1 (S (NP (QP (IN at) (JJS least) (DT some))) (NP (NNS companies))))
+-19.425399679979 -55.178347114680
+(S1 (ADJP (QP (IN at) (JJS least) (DT some)) (NNS companies)))
+-19.476283142373 -50.139240532733
+(S1 (FRAG (NP (ADJP (ADVP (IN at) (JJS least)) (DT some)) (NNS companies))))
+-19.503124141649 -54.198449100243
+(S1 (X (NP (QP (IN at) (RBS least)) (DT some) (NNS companies))))
+-19.864557596859 -55.490650734827
+(S1 (FRAG (NP (QP (IN at) (JJS least) (DT some)) (NNS companies))))
+-19.993566433857 -55.438173093160
+(S1 (FRAG (ADVP (QP (IN at) (JJS least) (DT some)) (NNS companies))))
+-20.054778572127 -53.232146346078
+(S1 (X (ADVP (IN at) (JJS least)) (NP (NP (DT some)) (NNS companies))))
+-20.211982007006 -54.054140293206
+(S1 (FRAG (ADJP (QP (IN at) (JJS least) (DT some)) (NNS companies))))
+

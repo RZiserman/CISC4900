@@ -1,0 +1,102 @@
+50 x
+-21.396626570443 -76.105377767834
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (NP (PDT quite) (DT that) (NN way))))))))
+-21.594287255403 -75.162153561154
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite)) (NP (DT that) (NN way))))))))
+-21.691775521928 -77.238002266267
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (S (NP (PRP it)) (NP (PDT quite) (DT that) (NN way)))))))))
+-22.091981111518 -76.187338561911
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (NP (RB quite) (DT that) (NN way))))))))
+-22.232224304706 -77.437068299149
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (S (NP (PRP it)) (NP (RB quite) (DT that) (NN way)))))))))
+-22.366144330819 -75.262649371057
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite))))) (NP (DT that) (NN way)))))
+-22.568505195575 -73.185297404968
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (NP (DT that) (NN way)))))))))
+-22.739575568416 -74.514807443790
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (IN that) (NN way))))))))
+-23.047133038554 -78.393204872076
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (NP (RB quite) (IN that) (NN way))))))))
+-23.212180172240 -81.920369912792
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PRT (RB quite)) (NP (DT that) (NN way))))))))
+-23.790224006951 -82.329798320707
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (S (NP (PRP it)) (NP (RB quite) (IN that) (NN way)))))))))
+-24.522919004290 -76.392937600105
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PP (RB quite) (NP (DT that) (NN way)))))))))
+-24.766324534784 -86.484612376348
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (NP (PRP it)) (NP (PDT quite) (DT that) (NN way)))))))))
+-24.834678145847 -84.266932228798
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite)) (PP (IN that) (NP (NN way)))))))))
+-24.839844992741 -82.046210454418
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (PP (IN that) (NP (NN way))))))))))
+-24.980075337949 -86.018836161221
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (S (NP (PRP it)) (VP (RB quite) (NP (DT that) (NN way))))))))))
+-25.006287656458 -86.241703716450
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (NP (RB quite) (WDT that) (NN way))))))))
+-25.047457214675 -85.254129747143
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (ADVP (NP (PRP it)) (RB quite)) (NP (DT that) (NN way))))))))
+-25.362574226020 -82.756350265398
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (ADVP (PRP it) (RB quite)) (NP (DT that) (NN way))))))))
+-25.442769556146 -80.901882191268
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite)) (NP (IN that) (NN way))))))))
+-25.469954479198 -86.275760276796
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (NP (PRP it)) (NP (RB quite) (DT that) (NN way)))))))))
+-25.517133658104 -79.813613921868
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (NP (IN that) (NN way)))))))))
+-25.688533298120 -86.881617920143
+(S1 (S (NP (PRP I)) (VP (VBP hate) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)) (NP (PDT quite) (DT that) (NN way)))))))))
+-25.768602677746 -85.915787349134
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite)) (NP (WDT that) (NN way))))))))
+-25.886193983080 -85.938393713463
+(S1 (S (NP (PRP I)) (VP (VBP hate) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite)) (NP (DT that) (NN way)))))))))
+-25.935315029766 -84.874548844137
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (ADVP (RB quite)) (PP (IN that) (NP (NN way))))))))))
+-26.094992866641 -86.378143209594
+(S1 (S (NP (PRP I)) (VP (VB hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (NP (DT that) (NN way)))))))))
+-26.175421663334 -84.849850746703
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (NP (WDT that) (NN way)))))))))
+-26.357470005533 -85.523220119708
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite))))) (PP (IN that) (NP (NN way))))))
+-26.383887839195 -86.963578714220
+(S1 (S (NP (PRP I)) (VP (VBP hate) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)) (NP (RB quite) (DT that) (NN way)))))))))
+-26.389993451302 -86.202185416944
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite)) (SBAR (IN that) (S (NP (NN way))))))))))
+-26.485958939482 -87.707653248416
+(S1 (S (NP (PRP I)) (VP (VB hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (IN that) (NN way))))))))
+-26.510256204012 -86.901439218382
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite))))) (NP (WDT that) (NN way)))))
+-26.815724325220 -81.590447244501
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite))))) (NP (IN that) (NN way)))))
+-26.855698320510 -86.293188688209
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (S (NP (PRP it)) (ADVP (RB quite) (NP (DT that) (NN way))))))))))
+-26.860411926039 -83.961537557277
+(S1 (S (NP (PRP I)) (VP (VBP hate) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (NP (DT that) (NN way))))))))))
+-27.079966127891 -87.986969947426
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (S (VP (VB put) (S (NP (PRP it)) (NP (PDT quite) (DT that) (NN way))))))))))
+-27.106860798880 -85.291047596100
+(S1 (S (NP (PRP I)) (VP (VBP hate) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (IN that) (NN way)))))))))
+-27.280194341754 -87.660098397004
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PRT (RB quite)) (NP (IN that) (NN way))))))))
+-27.449372263429 -87.639710051783
+(S1 (S (NP (PRP I)) (VP (VBP hate) (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite)) (NP (DT that) (NN way)))))))
+-27.505088958247 -86.368764989569
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (NP (PRP it)) (ADVP (RB quite))) (NP (DT that) (NN way))))))))
+-27.553369299877 -85.589666025545
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (NP (PRP it)) (ADVP (RB quite) (NP (DT that) (NN way))))))))))
+-28.046253063656 -87.584360558902
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it) (RB quite)) (NP (DT that) (NN way))))))))
+-28.072329347619 -85.316660996489
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (S (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (NP (DT that) (NN way))))))))))
+-28.085899457492 -86.646170846077
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (S (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (IN that) (NN way)))))))))
+-28.423590225903 -85.662853967879
+(S1 (S (NP (PRP I)) (VP (VBP hate) (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (NP (DT that) (NN way))))))))
+-28.498062881186 -87.457935724668
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PP (RB quite) (NP (WDT that) (NN way)))))))))
+-28.814825731967 -87.169177752414
+(S1 (S (NP (PRP I)) (VP (VBP hate) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PP (RB quite) (NP (DT that) (NN way))))))))))
+-28.819245298744 -86.992364006702
+(S1 (S (NP (PRP I)) (VP (VBP hate) (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB quite) (IN that) (NN way)))))))
+-29.032085003292 -87.925869132913
+(S1 (S (NP (PRP I)) (VP (VBP hate) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PP (RB quite) (NP (IN that) (NN way)))))))))
+

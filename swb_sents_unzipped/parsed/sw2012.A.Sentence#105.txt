@@ -1,0 +1,102 @@
+50 x
+-12.693381900357 -36.770301095914
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NN hope)))))
+-13.166295951628 -36.777004404892
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NN hope)))))
+-13.708355571058 -40.528925263663
+(S1 (S (NP (EX there)) (VP (POS 's) (VP (VB hope)))))
+-15.168209862388 -45.352314671109
+(S1 (S (NP (EX there)) (VP (VBZ 's) (VP (VB hope)))))
+-15.251640976517 -40.602047567432
+(S1 (S (NP (EX there)) (VP (POS 's) (ADJP (NN hope)))))
+-15.595756997255 -44.613766536594
+(S1 (S (NP (EX there)) (VBZ 's) (VP (VBP hope))))
+-15.879547386955 -48.228509212855
+(S1 (S (NP (EX there) (VBZ 's)) (VP (VBP hope))))
+-15.929362438749 -47.762140905318
+(S1 (S (NP (EX there)) (VP (POS 's) (VP (NN hope)))))
+-16.086024463958 -52.514305028151
+(S1 (NP (RB there) (POS 's) (NN hope)))
+-16.108943100941 -51.865849680292
+(S1 (S (NP (EX there) (VBZ 's)) (VP (VB hope))))
+-16.121344291731 -50.028651489055
+(S1 (S (ADVP (RB there)) (VP (POS 's) (VP (VB hope)))))
+-16.236330712649 -52.451616343895
+(S1 (NP (NP (EX there)) (VBZ 's) (NN hope)))
+-16.332119924153 -47.185497094479
+(S1 (S (NP (EX there)) (VP (POS 's) (VP (VBP hope)))))
+-16.336059587060 -49.839300356011
+(S1 (S (ADVP (RB there)) (VP (POS 's) (NP (NN hope)))))
+-16.551668961149 -48.076235753116
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (VB hope)))))
+-16.580481715882 -51.240375686263
+(S1 (NP (NP (RB there) (POS 's)) (NN hope)))
+-16.630941382977 -45.757698793617
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (VB hope)))))
+-16.634699491663 -48.608915098760
+(S1 (S (NP (EX there)) (VP (POS 's) (S (VP (VB hope))))))
+-16.729315382677 -49.261605674612
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (VBP hope)))))
+-16.810178814533 -51.240240352688
+(S1 (S (NP (EX there)) (VBZ 's) (VP (VB hope))))
+-16.837881951426 -50.441949614728
+(S1 (S (RB there) (VP (POS 's) (VP (VB hope)))))
+-16.888298108744 -48.341524777852
+(S1 (S (RB there) (VP (VBZ 's) (NP (NN hope)))))
+-17.019866705574 -50.130235732988
+(S1 (S (NP (EX there)) (VP (VBZ 's) (S (VP (VB hope))))))
+-17.097532688198 -45.655783127901
+(S1 (S (NP (EX there)) (VP (VBZ 's) (ADJP (NN hope)))))
+-17.099914288004 -47.547964776020
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (VBP hope)))))
+-17.122029540375 -52.249913366049
+(S1 (S (ADVP (RB there)) (VP (VBZ 's) (NP (NN hope)))))
+-17.140932180434 -50.710742970772
+(S1 (S (VP (ADVP (RB there)) (POS 's) (NP (NN hope)))))
+-17.142937284183 -48.267788220921
+(S1 (S (NP (EX there)) (VP (POS 's) (ADJP (VB hope)))))
+-17.183003992211 -48.088727102641
+(S1 (S (NP (EX there)) (VP (VBZ 's) (VP (NN hope)))))
+-17.188960760897 -51.672272733838
+(S1 (NP (NP (NP (EX there)) (POS 's)) (NN hope)))
+-17.211043567929 -49.846690638047
+(S1 (S (NP (EX there)) (VP (VBZ 's) (ADJP (VB hope)))))
+-17.329180664474 -50.253960297675
+(S1 (S (NP (EX there) (VBZ 's)) (NP (NN hope))))
+-17.361376247868 -51.356719600382
+(S1 (S (RB there) (VP (POS 's) (NP (NN hope)))))
+-17.365455786193 -50.697896320579
+(S1 (S (NP (EX there) (VBZ 's)) (VP (NN hope))))
+-17.525429242512 -49.974867225291
+(S1 (S (NP (EX there)) (VP (VBZ 's) (ADJP (VBP hope)))))
+-17.693784342318 -50.698612680194
+(S1 (S (NP (EX there)) (VP (POS 's) (S (VP (NN hope))))))
+-17.700664826588 -48.733256930817
+(S1 (S (NP (EX there)) (VP (POS 's) (ADJP (VBP hope)))))
+-17.826225330704 -50.848159618499
+(S1 (S (NP (EX there)) (VBZ 's) (VP (NN hope))))
+-17.863002616758 -46.825054581781
+(S1 (S (NP (RB there)) (VP (VBZ 's) (NP (NN hope)))))
+-17.875397920175 -49.317272829874
+(S1 (S (NP (EX there)) (VP (POS 's) (S (VP (VBP hope))))))
+-17.894455355740 -48.927097917949
+(S1 (S (NP (RB there)) (VP (POS 's) (NP (NN hope)))))
+-18.099583136251 -52.421480216785
+(S1 (S (NP (EX there)) (VP (POS 's) (SBAR (VB hope)))))
+-18.699513199684 -49.842407632145
+(S1 (S (NP (EX there)) (VP (POS 's) (S (NP (NN hope))))))
+-18.750660877038 -51.763905618799
+(S1 (S (NP (NP (RB there) (POS 's)) (NN hope))))
+-18.799439689416 -50.769082869984
+(S1 (S (NP (EX there)) (VP (POS 's) (S (ADJP (NN hope))))))
+-18.986395029777 -50.438492725493
+(S1 (S (NP (EX there)) (VP (VBZ 's) (SBAR (S (VP (VBP hope)))))))
+-19.361181241543 -52.580256234981
+(S1 (S (NP (EX there)) (VP (POS 's) (SBAR (S (VP (VB hope)))))))
+-19.368237805903 -52.195802697924
+(S1 (S (NP (NP (NP (EX there)) (POS 's)) (NN hope))))
+-19.480703025156 -52.429217887130
+(S1 (S (NP (EX there)) (VP (VBZ 's) (S (NP (NN hope))))))
+-19.564817758018 -49.555612266568
+(S1 (S (NP (EX there)) (VP (POS 's) (SBAR (S (VP (VBP hope)))))))
+

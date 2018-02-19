@@ -1,0 +1,102 @@
+50 x
+-24.567447421744 -88.489127805508
+(S1 (NP (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (NN quart)))))
+-25.449584993623 -87.453772787918
+(S1 (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NN quart)))))
+-25.489856333438 -91.978384079745
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (RB about) (DT a) (NN quart)))))
+-25.578753528023 -89.307874508866
+(S1 (S (NP (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (NN quart))))))
+-25.587350406321 -90.926486059704
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (PP (IN about) (NP (DT a) (NN quart))))))
+-25.918490808056 -93.426072191586
+(S1 (NP (NP (DT A) (NN liter) (POS 's)) (IN about) (NP (DT a) (NN quart))))
+-25.969196759198 -92.844076656789
+(S1 (S (NP (DT A) (NN liter)) (VP (POS 's) (NP (RB about) (DT a) (NN quart)))))
+-26.202516078158 -90.431074395415
+(S1 (S (NP (DT A) (NN liter)) (VP (POS 's) (PP (IN about) (NP (DT a) (NN quart))))))
+-26.636822116237 -96.803390062472
+(S1 (NP (NP (DT A) (NN liter) (POS 's)) (NP (RB about) (DT a) (NN quart))))
+-27.000714611222 -88.758527910897
+(S1 (S (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NN quart))))))
+-27.187675334577 -94.022979384697
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (IN about) (DT a) (NN quart)))))
+-27.224200391415 -94.492175087157
+(S1 (S (NP (DT A) (NN liter)) (VP (POS 's) (NP (IN about) (DT a) (NN quart)))))
+-27.544060100755 -97.046379068663
+(S1 (NP (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (JJ quart)))))
+-27.625884865709 -98.114292126400
+(S1 (NP (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (NNS quart)))))
+-27.736806761403 -97.814060436004
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (RB about) (DT a) (JJ quart)))))
+-27.856867656701 -97.992320306563
+(S1 (NP (NP (DT A) (NN liter) (POS 's)) (NP (IN about) (DT a) (NN quart))))
+-27.868738859773 -89.445288314709
+(S1 (FRAG (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NN quart))))))
+-27.919273868680 -97.119210085535
+(S1 (S (NP (NP (DT A) (NN liter) (POS 's)) (IN about) (NP (DT a) (NN quart)))))
+-27.972161748570 -92.800949409603
+(S1 (S (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (NN quart)))))
+-28.013230924627 -97.065260417712
+(S1 (NP (NP (DT A) (NN liter) (VBZ 's)) (NP (RB about) (DT a) (NN quart))))
+-28.069822804504 -96.103322105423
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (IN about) (DT a) (JJ quart)))))
+-28.095673416590 -94.770254392637
+(S1 (NP (NP (DT A) (NN liter) (VBZ 's)) (IN about) (NP (DT a) (NN quart))))
+-28.405805050766 -95.886272100025
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (RB about) (NP (DT a) (NN quart)))))
+-28.463296084035 -97.865125772022
+(S1 (S (NP (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (JJ quart))))))
+-28.558343501989 -98.933038829759
+(S1 (S (NP (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (NNS quart))))))
+-28.584673667240 -91.795813887743
+(S1 (FRAG (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NN quart)))))
+-28.624889217347 -98.744773180908
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (PRT (RP about)) (NP (DT a) (NN quart)))))
+-28.700508062635 -96.011024051073
+(S1 (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (JJ quart)))))
+-28.736810967589 -97.078937108810
+(S1 (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NNS quart)))))
+-28.755191984518 -98.410368289906
+(S1 (S (NP (DT A) (NN liter)) (VP (POS 's) (NP (IN about) (DT a) (JJ quart)))))
+-28.794359425262 -94.825099126207
+(S1 (FRAG (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (RB about) (DT a) (NN quart)))))
+-28.867980333830 -96.559650588897
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (ADVP (IN about)) (NP (DT a) (NN quart)))))
+-29.010904970843 -94.444564421062
+(S1 (FRAG (NP (DT A) (NN liter) (POS 's)) (PP (IN about) (NP (DT a) (NN quart)))))
+-29.033553249841 -96.480656149200
+(S1 (S (NP (DT A) (NN liter)) (VP (VBZ 's) (VP (IN about) (NP (DT a) (NN quart))))))
+-29.199093874613 -98.972958224259
+(S1 (S (NP (DT A) (NN liter)) (VP (POS 's) (PP (IN about) (NP (DT a) (JJ quart))))))
+-29.254552668763 -98.601733196066
+(S1 (NP (NP (DT A) (NN liter)) (VP (POS 's) (PP (IN about) (NP (DT a) (NN quart))))))
+-29.402297975566 -98.512860467820
+(S1 (S (NP (DT A) (JJR liter)) (VP (POS 's) (PP (IN about) (NP (DT a) (NN quart))))))
+-29.418438853803 -98.441957002752
+(S1 (NP (NP (DT A) (NN liter) (POS 's)) (PP (RB about) (NP (DT a) (NN quart)))))
+-29.458525200742 -95.236822567113
+(S1 (FRAG (NP (DT A) (NN liter)) (VP (VBZ 's) (PP (IN about) (NP (DT a) (NN quart))))))
+-29.480113661983 -96.974653741756
+(S1 (FRAG (S (NP (DT A) (NN liter)) (VP (VBZ 's) (PP (IN about) (NP (DT a) (NN quart)))))))
+-29.486531915979 -98.026551859041
+(S1 (FRAG (S (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (RB about) (DT a) (NN quart))))))
+-29.602660330800 -97.159694840479
+(S1 (S (NP (DT A) (JJ liter) (POS 's)) (PP (IN about) (NP (DT a) (NN quart)))))
+-29.838779029134 -99.170169263566
+(S1 (NP (NP (DT A) (NN liter) (VBZ 's)) (NP (IN about) (DT a) (NN quart))))
+-29.858854734362 -96.171276685576
+(S1 (S (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NN quart)))))
+-30.159567557233 -97.315779174052
+(S1 (S (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (JJ quart))))))
+-30.209093115187 -98.383692231789
+(S1 (S (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NNS quart))))))
+-30.416588762462 -96.869694382805
+(S1 (FRAG (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (IN about) (DT a) (NN quart)))))
+-31.025345001573 -98.002539577864
+(S1 (FRAG (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (JJ quart))))))
+-31.179481456527 -99.070452635601
+(S1 (FRAG (NP (NP (DT A) (NN liter) (VBZ 's)) (PP (IN about) (NP (DT a) (NNS quart))))))
+-31.457270405964 -98.789996184642
+(S1 (FRAG (NP (DT A) (NN liter)) (VP (VBZ 's) (NP (IN about) (DT a) (JJ quart)))))
+

@@ -1,0 +1,102 @@
+50 x
+-18.953545981902 -70.475946186813
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there)))))))
+-19.764040585681 -70.193657095451
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there)))))))
+-20.673571324400 -73.618681903219
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (RB home) (PP (IN from) (NP (RB there))))))))
+-20.790653504636 -74.903877124203
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (RB home) (PP (IN from) (NP (EX there))))))))
+-21.620025854356 -78.688526489110
+(S1 (PP (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there)))))))
+-21.747376015159 -71.814176607377
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (EX there)))))
+-21.921176415027 -73.924072054071
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (ADVP (RB there)))))))
+-21.954617938135 -78.406237397748
+(S1 (PP (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there)))))))
+-22.084256678431 -80.131654524295
+(S1 (X (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there)))))))
+-22.142060367900 -75.025386651922
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (RB home) (PP (IN from) (ADVP (RB there))))))))
+-22.206923684503 -74.404950124642
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (NN home) (PP (IN from) (NP (EX there))))))))
+-22.296134651058 -80.862798967682
+(S1 (S (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there)))))))
+-22.518735299025 -70.892314637463
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (RB there)))))
+-22.578073684836 -80.580509876320
+(S1 (S (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there)))))))
+-22.668742214267 -73.119754903658
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (NN home) (PP (IN from) (NP (RB there))))))))
+-22.700750016910 -79.849365432933
+(S1 (X (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there)))))))
+-22.705412470303 -80.139365191036
+(S1 (SQ (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there)))))))
+-23.014308571186 -81.118630969408
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (PP (ADVP (RB home)) (IN from) (NP (EX there)))))))
+-23.242923118711 -80.152540044223
+(S1 (SQ (CC and) (FRAG (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there))))))))
+-23.264576245089 -80.515244890292
+(S1 (FRAG (CC and) (FRAG (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there))))))))
+-23.370563116082 -79.857076099674
+(S1 (SQ (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there)))))))
+-23.724674744965 -80.836341878046
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (PP (ADVP (RB home)) (IN from) (NP (RB there)))))))
+-23.790412878698 -81.084208113513
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (NN home)) (PP (IN from) (NP (EX there)))))))
+-23.857310915016 -73.606557889607
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (NN home) (PP (IN from) (ADVP (RB there))))))))
+-23.942515940309 -81.078480500484
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (VP (NN home) (PP (IN from) (NP (RB there))))))))
+-23.953085012286 -78.553278390477
+(S1 (S (CC and) (VP (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (RB there))))))
+-24.056155624490 -79.870250952861
+(S1 (SQ (CC and) (FRAG (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there))))))))
+-24.191130206725 -79.725440516300
+(S1 (S (CC and) (VP (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (EX there))))))
+-24.223152708868 -80.232955798930
+(S1 (FRAG (CC and) (FRAG (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there))))))))
+-24.234634467584 -80.727958083521
+(S1 (S (CC and) (PP (IN on) (NP (PRP$ my) (NN way))) (VP (NN home) (PP (IN from) (NP (RB there))))))
+-24.461205742477 -80.801919022151
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (NN home)) (PP (IN from) (NP (RB there)))))))
+-24.544935386436 -79.946875808799
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (ADVP (EX there)))))))
+-24.634793559423 -79.435484834715
+(S1 (S (CC and) (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (RB there)))))
+-24.772962282559 -79.500073575608
+(S1 (FRAG (CC and) (PP (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (EX there))))))
+-25.053088422518 -77.508699325254
+(S1 (FRAG (CC and) (PP (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (RB there))))))
+-25.094171423478 -78.768911318686
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (EX there))))))
+-25.218314004252 -80.761807821259
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (PP (ADVP (NN home)) (IN from) (NP (EX there)))))))
+-25.237547808644 -80.767562289030
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (RB home) (PP (IN from) (ADVP (EX there))))))))
+-25.489765407927 -77.233755671153
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (ADVP (RB there)))))
+-25.519953112325 -81.051471974007
+(S1 (FRAG (CC and) (VP (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (EX there))))))
+-25.600380882784 -80.551764960496
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (NN home)))) (PP (IN from) (NP (RB there)))))
+-25.769700463437 -76.777537068331
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (NP (RB there))))))
+-25.825111660673 -79.879309848184
+(S1 (FRAG (CC and) (VP (PP (IN on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (RB there))))))
+-25.920733978031 -80.479518729897
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (PP (ADVP (NN home)) (IN from) (NP (RB there)))))))
+-26.061882206410 -81.137744302805
+(S1 (FRAG (CC and) (ADVP (RB on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (EX there)))))
+-26.373897645760 -79.348733526715
+(S1 (FRAG (CC and) (PP (IN on) (NP (NP (PRP$ my) (NN way)) (ADVP (NN home) (PP (IN from) (ADVP (EX there))))))))
+-26.545141812079 -80.821094121644
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way))) (ADVP (NN home) (PP (IN from) (NP (RB there))))))
+-27.017073490275 -80.215882332892
+(S1 (FRAG (CC and) (ADVP (RB on) (NP (PRP$ my) (NN way) (NN home))) (PP (IN from) (NP (RB there)))))
+-27.978982312829 -81.307897107593
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way))) (ADVP (NN home) (PP (IN from) (ADVP (RB there))))))
+-28.507148299452 -81.434497905338
+(S1 (FRAG (CC and) (PP (IN on) (NP (PRP$ my) (NN way) (NN home)) (PP (IN from) (ADVP (RB there))))))
+

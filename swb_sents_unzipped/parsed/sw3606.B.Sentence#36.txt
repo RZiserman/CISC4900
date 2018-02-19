@@ -1,0 +1,102 @@
+50 x
+-37.508596387691 -134.505330914134
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-37.722422624303 -137.014913195622
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (MD 'll) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-37.802690836314 -139.277738416889
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (RB sometimes)) (PP (IN in) (NP (NP (DT the) (NN day)) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))))
+-37.860406597839 -131.594322887194
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home))))) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-38.125167987331 -135.241927108922
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home))))) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-38.137978537178 -134.889645759154
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-38.146617236693 -138.987477474896
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them)))))))))
+-38.351804745912 -137.399228040643
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (MD 'll) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-38.498427418963 -136.076469447957
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home))))) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them)))))))))
+-38.763188836332 -139.724073669685
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home))))) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them)))))))))
+-38.775999358302 -139.371792319917
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them)))))))))
+-38.815884108538 -137.553158189898
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home) (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-38.825595652263 -138.353526503430
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))
+-38.841098085801 -139.662053278307
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (NP (DT the) (NN day)) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))))
+-38.921419211636 -136.094531590875
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-38.923210260180 -138.373739959382
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (PP (ADVP (RB sometimes)) (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-39.135245448248 -138.604113872364
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (MD 'll) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-39.265313767992 -135.824229948053
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-39.479140004604 -138.333812229541
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (MD 'll) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-39.573552164353 -136.534479410665
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-39.648536081284 -138.190679786626
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (RB home) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-39.723294158065 -135.402662560293
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home))))) (ADVP (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-39.774344721577 -139.050266782021
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home))))) (ADVP (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-39.787378400964 -139.044061692154
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (MD 'll) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-39.836704355432 -136.560826142841
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (NN home))))) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-39.904188367172 -139.705967987438
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))
+-39.982131566023 -139.643264554174
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home) (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))
+-40.101094039483 -138.607949433585
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (PP (ADVP (RB sometimes)) (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-40.250781230920 -138.809252402976
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))
+-40.446050449543 -138.464984603035
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADVP (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-40.505858584403 -138.873993210649
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (ADVP (RB home) (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))
+-40.520109232564 -139.672425537349
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))
+-40.582785041937 -137.413430624794
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (NN home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-40.707542665583 -135.933340793155
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-40.774233593779 -139.016464835877
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm)))) (ADVP (ADVP (RB home) (RB sometimes)) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-40.900134621005 -139.027713148372
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (ADVP (RB home) (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-40.921368902195 -138.442923074644
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN home)) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))))))) (NP (PRP I)) (MD 'll) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-41.089370677323 -137.255227547862
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-41.145212471481 -139.692638993301
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (NN home)) (PP (ADVP (RB sometimes)) (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-41.218028733992 -139.752004161873
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (SBAR (S (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))))))
+-41.242294906833 -138.480883180587
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB home))))) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-41.256816268287 -137.848727320884
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (RB home))))) (ADVP (RB sometimes) (PP (IN in) (NP (DT the) (NN day)))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-41.303196913934 -139.764809829351
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN home)) (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (MD 'll) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-41.339255828923 -139.556718878207
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN home)) (ADVP (RB sometimes))) (PP (IN in) (NP (DT the) (NN day)))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-41.453686861579 -138.491310456820
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home))))) (ADVP (RB sometimes) (PP (IN in) (NP (NP (DT the) (NN day)) (SBAR (S (NP (PRP I)) (VP (MD 'll))))))) (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))
+-41.457057785279 -139.290282864589
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (NP (NN home)) (ADVP (ADVP (RB sometimes)) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-41.926706700831 -139.357207063538
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB home) (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-42.135370407279 -138.262791452953
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB home)) (ADJP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-42.995409061600 -139.581690486872
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (NN home)) (ADJP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+-43.413692469194 -139.701186014720
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP 'm) (RB home) (ADJP (RB sometimes) (PP (IN in) (NP (DT the) (NN day))))))) (NP (PRP I)) (VP (MD 'll) (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (PRP them))))))))
+

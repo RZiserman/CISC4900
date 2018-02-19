@@ -1,0 +1,102 @@
+50 x
+-16.789304561715 -62.244846903845
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (ADVP (RB there)))))
+-18.153117312499 -66.331789006681
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (ADVP (RB there))))))
+-18.965338967146 -67.209750561952
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (NP (EX there)))))
+-19.133761948969 -65.981968145751
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (NP (EX there))))))
+-19.460043954015 -73.510215862082
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBN snowing) (PRT (RP up)) (ADVP (RB there)))))
+-19.517076001668 -70.413725893446
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VB snowing) (PRT (RP up)) (ADVP (RB there)))))
+-19.743858722250 -69.444292669589
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (ADVP (RB up) (RB there)))))
+-19.936478658276 -67.996716403659
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (ADVP (RP up) (RB there)))))
+-20.182341996563 -72.624823114599
+(S1 (SQ (VBZ is) (NP (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (ADVP (RB there))))))
+-20.309286704530 -69.700366559845
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (RB up) (RB there))))))
+-20.349253188617 -68.252790242674
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (RP up) (RB there))))))
+-20.437952497543 -70.996514146790
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (RB up)) (ADVP (RB there))))))
+-20.465541103486 -72.047657441154
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (ADVP (RB up)) (ADVP (RB there)))))
+-21.109697273699 -72.887237741906
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VB snowing) (PRT (RP up)) (NP (EX there)))))
+-21.248134426989 -75.331667972175
+(S1 (SQ (VBZ is) (NP (PRP it)) (SBAR (S (VP (VBG snowing) (PRT (RP up)) (ADVP (RB there)))))))
+-21.311459223832 -75.582844018952
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBN snowing) (PRT (RP up)) (NP (EX there)))))
+-21.358617852066 -72.532319344587
+(S1 (SQ (VBZ is) (NP (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (NP (EX there))))))
+-21.637524238980 -69.761166114194
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (ADVP (IN up) (RB there)))))
+-21.667071525186 -73.712135127231
+(S1 (S (VP (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (ADVP (RB there)))))))
+-21.704828656435 -73.258869754757
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (ADVP (RP up)) (ADVP (RB there)))))
+-21.753323082194 -75.771482966777
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (ADVP (RB up)) (NP (EX there)))))
+-21.799653006406 -74.291478926347
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (NN snowing) (PRT (RP up)) (NP (EX there)))))
+-21.829995610906 -72.501512278221
+(S1 (SQ (VBZ is) (NP (NP (PRP it)) (VP (VBG snowing) (ADVP (RP up) (RB there))))))
+-21.830216162398 -74.569483543280
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (RB up)) (NP (EX there))))))
+-21.872635145546 -73.949088658255
+(S1 (SQ (VBZ is) (NP (NP (PRP it)) (VP (VBG snowing) (ADVP (RB up) (RB there))))))
+-21.874258837536 -72.660677120596
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (RP up)) (ADVP (RB there))))))
+-21.921054043823 -75.436748629722
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PP (IN up) (NP (EX there)))))))
+-21.942733022142 -75.457938773866
+(S1 (S (VP (VBZ is) (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (ADVP (RB there))))))
+-21.975316448836 -70.017240022747
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (IN up) (RB there))))))
+-21.999781084091 -73.274923655789
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (NN snowing) (PRT (RP up)) (NP (EX there))))))
+-22.075048364069 -74.981847019883
+(S1 (SQ (VBZ is) (NP (PRP it)) (SBAR (S (VP (VBG snowing) (PRT (RP up)) (NP (EX there)))))))
+-22.217785832446 -76.090624676400
+(S1 (SINV (VBZ is) (NP (PRP it)) (VP (VBG snowing) (PRT (RP up))) (NP (EX there))))
+-22.279425660245 -76.404957850673
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (JJ snowing) (PRT (RP up)) (NP (EX there)))))
+-22.280529497478 -76.142195350192
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBN snowing) (ADVP (RP up) (RB there)))))
+-22.466173098299 -76.290272626483
+(S1 (VP (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (ADVP (RB there))))))
+-22.520111215662 -75.305171118386
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VB snowing) (ADVP (RB up) (RB there)))))
+-22.649337338763 -74.714700436727
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VB snowing) (ADVP (RP up) (RB there)))))
+-22.688800631354 -73.362314186786
+(S1 (S (VP (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (NP (EX there)))))))
+-22.716169453782 -73.489761440607
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PP (RP up) (NP (EX there)))))))
+-22.768351161161 -73.840572350478
+(S1 (SQ (VBZ is) (NP (PRP it)) (PP (VBG snowing) (PP (IN up) (NP (EX there))))))
+-22.778318186844 -75.076611431148
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (PP (RP up) (NP (EX there))))))
+-23.182500469867 -72.211733364503
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (IN up)) (ADVP (RB there))))))
+-23.247225555184 -73.249766265900
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VBG snowing) (ADVP (IN up)) (ADVP (RB there)))))
+-23.385746153427 -74.265962141002
+(S1 (SQ (VBZ is) (NP (NP (PRP it)) (VP (VBG snowing) (ADVP (IN up) (RB there))))))
+-23.440163294467 -75.940451686038
+(S1 (VP (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (PRT (RP up)) (NP (EX there))))))
+-23.577950639668 -75.633136388497
+(S1 (S (VP (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (RP up) (RB there)))))))
+-23.587432487499 -76.233646517086
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (RP up)) (NP (EX there))))))
+-23.621023732230 -75.784702760992
+(S1 (SQ (VBZ is) (S (NP (PRP it)) (VP (VBG snowing) (ADVP (IN up)) (NP (EX there))))))
+-23.935895047545 -74.971682599505
+(S1 (SQ (VBZ is) (NP (PRP it)) (VP (VB snowing) (ADVP (IN up) (RB there)))))
+-24.833042191887 -75.719604038968
+(S1 (SQ (VBZ is) (NP (PRP it)) (PP (VBG snowing) (PP (RP up) (NP (EX there))))))
+

@@ -1,0 +1,102 @@
+50 x
+-15.678330726529 -58.416745839373
+(S1 (S (NP (PRP they)) (VP (VBD went) (NP (NNS microns)))))
+-17.509272307687 -59.116574541210
+(S1 (S (NP (PRP they)) (VP (VBD went) (ADJP (JJ microns)))))
+-19.138128370228 -66.768227254258
+(S1 (S (NP (PRP they)) (VP (VBD went) (NP (VBZ microns)))))
+-19.928850012148 -63.406372359857
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (NP (NNS microns))))))
+-20.130383121465 -68.669340161251
+(S1 (S (NP (PRP they)) (VP (VBD went) (NP (JJ microns)))))
+-20.385869446998 -65.996696475020
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (VP (NNS microns))))))
+-20.509502399396 -65.891535632719
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ microns))))))
+-20.599043460002 -67.022934965288
+(S1 (S (NP (PRP they)) (VP (VBD went) (ADJP (NNS microns)))))
+-20.729976613216 -67.882907442174
+(S1 (S (NP (PRP they)) (VP (VBD went) (VP (JJ microns)))))
+-20.776532992807 -70.032093363694
+(S1 (S (NP (PRP they)) (VP (VBD went) (VP (NNS microns)))))
+-21.077106625675 -64.875023279831
+(S1 (S (NP (PRP they)) (VP (VBD went) (SBAR (S (VP (VBZ microns)))))))
+-21.196904766548 -72.957843043997
+(S1 (S (NP (PRP they)) (VP (VBD went) (VP (VBZ microns)))))
+-21.435463623768 -73.912790690434
+(S1 (S (NP (PRP they)) (VP (VBD went) (VP (NP (NNS microns))))))
+-21.516935615820 -70.237570093281
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (VP (VBZ microns))))))
+-21.713141720143 -66.590745009720
+(S1 (S (NP (PRP they)) (VP (VBD went) (SBAR (S (VP (NNS microns)))))))
+-21.810189751631 -66.460123478322
+(S1 (S (NP (PRP they)) (VP (VBD went) (SBAR (S (NP (NNS microns)))))))
+-22.238477483872 -69.621038273616
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (ADJP (NNS microns))))))
+-22.701920233978 -72.848599689612
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (VP (JJ microns))))))
+-22.955647810967 -76.560966118250
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (VP (NP (NNS microns)))))))
+-23.384111692122 -78.803147320304
+(S1 (NP (NP (PRP they)) (VP (VBD went) (NP (NNS microns)))))
+-23.905809914446 -76.561257619006
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (NP (NNS microns))))))
+-24.127384553000 -71.845962488692
+(S1 (S (NP (PRP they)) (VP (VBD went) (SBAR (S (ADJP (NNS microns)))))))
+-24.316652729192 -77.155014652949
+(S1 (S (NP (PRP they)) (VP (VBD went) (SBAR (S (VP (NP (NNS microns))))))))
+-24.419406212351 -74.581755646047
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (NP (JJ microns))))))
+-24.697468468907 -79.081042499337
+(S1 (S (NP (PRP they)) (VP (VBD went) (VP (NP (JJ microns))))))
+-26.202629340424 -86.644062473517
+(S1 (NP (NP (PRP they)) (VP (VBD went) (NP (VBZ microns)))))
+-26.419543530490 -78.518470767082
+(S1 (S (NP (PRP they)) (VP (VBD went) (SBAR (S (NP (VBZ microns)))))))
+-26.547161236254 -85.018088077272
+(S1 (NP (NP (PRP they)) (VP (VBD went) (ADJP (JJ microns)))))
+-26.947470257787 -83.157782323025
+(S1 (NP (NP (PRP they)) (VP (VBD went) (S (NP (NNS microns))))))
+-26.994267583512 -84.896655597273
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (VP (NP (JJ microns)))))))
+-27.047227666141 -84.038759179651
+(S1 (S (NP (PRP they)) (VP (VBD went) (S (NP (VBZ microns))))))
+-27.291613133748 -84.402172772220
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (NP (VBZ microns))))))
+-27.319037551578 -82.776198375975
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (ADJP (JJ microns))))))
+-27.404489692637 -85.748106438188
+(S1 (NP (NP (PRP they)) (VP (VBD went) (S (VP (NNS microns))))))
+-27.466673287111 -80.915892621727
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (S (NP (NNS microns)))))))
+-27.497331741685 -86.682428799454
+(S1 (S (NP (PRP they)) (VP (VBD went) (SBAR (S (ADJP (JJ microns)))))))
+-27.843757650736 -85.931061148572
+(S1 (NP (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ microns))))))
+-27.923692721960 -83.506216736890
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (S (VP (NNS microns)))))))
+-27.928617858519 -88.543290315235
+(S1 (NP (NP (PRP they)) (VP (VBD went) (NP (JJ microns)))))
+-28.572665123060 -83.689171447274
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (S (ADJP (JJ microns)))))))
+-28.660020521055 -86.301400613937
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (NP (JJ microns))))))
+-29.105795580982 -89.544856284180
+(S1 (NP (NP (PRP they)) (VP (VBD went) (SBAR (S (VP (VBZ microns)))))))
+-29.257097732299 -89.372448236784
+(S1 (NP (NP (PRP they)) (VP (VBD went) (S (ADJP (NNS microns))))))
+-29.613776124244 -89.507181695624
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (S (VP (VBZ microns)))))))
+-29.776300761623 -87.130558535487
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (S (ADJP (NNS microns)))))))
+-29.914445914803 -90.505558723834
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (ADJP (NNS microns))))))
+-30.203444474306 -87.302966582883
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (SBAR (S (VP (VBZ microns))))))))
+-30.241129654163 -90.783108628377
+(S1 (NP (NP (PRP they)) (VP (VBD went) (SBAR (S (NP (NNS microns)))))))
+-30.674444944998 -88.671840458477
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (SBAR (S (VP (NNS microns))))))))
+-30.771492976486 -88.541218927080
+(S1 (S (NP (NP (PRP they)) (VP (VBD went) (SBAR (S (NP (NNS microns))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.819483254993 -72.542295005067
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-21.831108405490 -75.959341449670
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times)))))
+-23.288643466961 -80.290957283534
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (NP (RB about) (CD three) (NNS times)))))
+-23.357861696690 -79.912229407225
+(S1 (S (NP (PRP I)) (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-23.619976077381 -80.691609675817
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (S (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times))))))
+-24.013972399076 -84.937158661782
+(S1 (S (NP (PRP I)) (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times)))))
+-24.214789879243 -78.319335097843
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (S (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times)))))))
+-24.299757901589 -82.251371179880
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times))))))
+-24.380582647698 -78.537775350984
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times)))))
+-24.594266977302 -84.100908677517
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (NP (PRP it)) (QP (RB about) (CD three)) (NNS times)))))
+-24.677015949310 -83.989122755349
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times))))))
+-24.708855096351 -83.743913390869
+(S1 (S (NP (PRP I)) (VP (RB only) (VP (VBD missed) (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times))))))
+-24.755208224144 -83.644057535242
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (SBAR (S (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times)))))))
+-24.800526970868 -80.348803224955
+(S1 (S (NP (PRP I)) (RB only) (VP (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-25.012002908625 -79.373956899868
+(S1 (S (NP (NP (PRP I)) (ADVP (RB only))) (VP (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-25.021888513012 -86.017432745557
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (S (NP (PRP it)) (NP (RB about) (CD three) (NNS times))))))
+-25.176152691155 -86.502635087619
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (ADVP (RB about)) (NP (CD three) (NNS times)))))
+-25.250723248835 -80.846722325433
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times)))))))
+-25.377121122935 -82.219209389007
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times)))))))
+-25.432417067000 -86.582987058007
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (NP (RB about) (CD three) (NNS times))))))
+-25.456637642588 -85.373732356891
+(S1 (S (NP (PRP I)) (RB only) (VP (VBD missed) (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times)))))
+-25.523705805963 -80.175725011323
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (PP (RB about) (NP (CD three) (NNS times))))))
+-25.614628274004 -87.743723832917
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBN missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-25.659820426870 -82.339264481098
+(S1 (S (NP (PRP I)) (VP (RB only) (VP (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times)))))))
+-25.668113577557 -84.398886031804
+(S1 (S (NP (NP (PRP I)) (ADVP (RB only))) (VP (VBD missed) (NP (PRP it)) (NP (QP (RB about) (CD three)) (NNS times)))))
+-25.672400437926 -84.085254768687
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it) (RB about) (CD three) (NNS times)))))
+-26.211751229589 -83.270043577131
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (S (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times))))))
+-26.265042541287 -87.218661192908
+(S1 (S (NP (PRP I)) (VP (RB only) (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-26.368490590916 -87.630061333431
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (NP (PRP it)) (NP (RB about) (CD three) (NNS times))))))
+-26.378750112445 -83.231141653217
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (PP (IN about) (NP (QP (CD three) (NNS times)))))))
+-26.409067701477 -87.469908703671
+(S1 (S (NP (PRP I)) (ADVP (RB only)) (VP (VBD missed) (S (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times)))))))
+-26.563446641284 -87.515592563095
+(S1 (S (NP (PRP I)) (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times)))))
+-26.687131295684 -85.622035636939
+(S1 (S (NP (PRP I)) (ADVP (RB only)) (VP (VBD missed) (NP (PRP it))) (PP (IN about) (NP (CD three) (NNS times)))))
+-26.781836056868 -87.791652355663
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (NP (PRP it)) (IN about) (NP (CD three) (NNS times))))))
+-26.849232143797 -84.829805081194
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times))))))
+-26.919296016764 -87.035245728298
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (ADVP (IN about)) (NP (CD three) (NNS times)))))
+-27.028317066211 -82.783287457342
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (PP (NP (PRP it)) (IN about) (NP (CD three) (NNS times))))))
+-27.062084247660 -87.545659413480
+(S1 (S (NP (PRP I)) (ADVP (RB only)) (VP (VBD missed) (NP (PRP it)) (PP (RB about) (NP (CD three) (NNS times))))))
+-27.085424610141 -83.366062615085
+(S1 (S (NP (PRP I) (RB only)) (VP (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-27.089021731510 -86.679342578830
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (NP (PRP it)) (QP (IN about) (CD three)) (NNS times)))))
+-27.258329338559 -86.322347292183
+(S1 (S (NP (PRP I)) (VP (RB only) (VP (VBD missed) (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times))))))
+-27.325179518952 -86.222491436555
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (SBAR (S (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times)))))))
+-27.414013883518 -86.567556656662
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times))))))
+-27.738466163851 -85.963863840165
+(S1 (S (NP (NN I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-27.824724491602 -86.864874200707
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (S (NP (PRP it)) (PP (RB about) (NP (CD three) (NNS times)))))))
+-28.064006828502 -86.931636275759
+(S1 (S (NP (NP (PRP I)) (ADVP (RB only))) (VP (VBD missed) (S (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times)))))))
+-28.114211021075 -86.250456454243
+(S1 (S (NP (PRP I)) (VP (ADVP (RB only)) (VBD missed) (NP (PRP it)) (PP (IN about) (NP (NP (CD three)) (NNS times))))))
+-28.216889000219 -85.495754116872
+(S1 (S (NP (PRP I) (JJ only)) (VP (VBD missed) (NP (PRP it)) (PP (IN about) (NP (CD three) (NNS times))))))
+-28.217587819765 -86.977319933117
+(S1 (S (NP (NP (PRP I)) (ADVP (RB only))) (VP (VBD missed) (NP (PRP it)) (NP (QP (IN about) (CD three)) (NNS times)))))
+-28.716225462383 -87.007386906123
+(S1 (S (NP (NP (PRP I)) (ADVP (RB only))) (VP (VBD missed) (NP (PRP it)) (PP (RB about) (NP (CD three) (NNS times))))))
+

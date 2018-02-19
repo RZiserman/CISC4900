@@ -1,0 +1,102 @@
+50 x
+-22.299056495988 -74.456985352584
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-23.018611756653 -76.857205693016
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))))))
+-24.776546261267 -83.950144993197
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-25.313996713931 -84.280005383786
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))))))
+-25.626798876212 -84.443275833563
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))))))
+-25.708552468249 -84.479991355764
+(S1 (S (NP (PRP You)) (VP (VB know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-25.723702868387 -82.710349968486
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone) (POS 's))) (NP (DT a) (NN manager))))))))
+-26.002329827068 -87.224119599988
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone) (POS 's)) (DT a) (NN manager)))))))))
+-26.247577639758 -86.619741638971
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-26.256952027657 -89.077563593787
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))))))
+-26.542437188914 -86.880211696196
+(S1 (S (NP (PRP You)) (VP (VB know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))))))
+-26.544114854065 -90.021169475903
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone) (VBZ 's)) (NP (DT a) (NN manager))))))))))
+-26.762787031131 -89.021394159320
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone)) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager)))))))))))))
+-26.811180499376 -87.814062100756
+(S1 (S (NP (PRP You)) (VP (VBP know) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))))
+-26.939387172358 -88.184842953829
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone)) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))))
+-27.298337250995 -89.833485179624
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))))))
+-27.530539025814 -88.541926355441
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone))) (S (VP (POS 's) (NP (DT a) (NN manager))))))))))
+-27.535563537439 -92.047478921507
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone) (S (VP (POS 's) (NP (DT a) (NN manager))))))))))))
+-27.779790600268 -92.360149325002
+(S1 (S (NP (PRP You)) (VP (VBP know) (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))))
+-27.930327350526 -90.214282367939
+(S1 (S (NP (PRP You)) (VP (VBP know) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))))))
+-28.026054498485 -90.702071017434
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NP (NN everyone)) (POS 's)) (NP (DT a) (NN manager))))))))))
+-28.036513377950 -88.322064655893
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone) (VBZ 's))) (NP (DT a) (NN manager))))))))
+-28.091750856429 -92.037372540944
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone))) (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))))
+-28.202693952520 -92.300432172814
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone) (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))))))
+-28.415180909153 -89.095997496365
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone))))) (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-28.510768127056 -88.322654502734
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (VP (VBZ 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-28.582051392132 -84.462006685930
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-28.728215987491 -91.650497959661
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (NN everyone) (POS 's))) (NP (DT a) (NN manager))))))))
+-28.800440800914 -88.128513416662
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (S (NP (DT a) (NN manager))))))))))))
+-28.877837582231 -90.847742888971
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone))) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-29.033567431867 -91.743507476525
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (PP (IN like) (NP (NN everyone))) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-29.178729327949 -91.452832717108
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone))) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager)))))))))))
+-29.193886415491 -92.515310896126
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (NP (PRP it) (POS 's)) (JJ like) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-29.562870386362 -89.015625827870
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VB like) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))))))
+-29.730794525052 -90.990497907088
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (VP (POS 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-29.892135673919 -90.695932989642
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (NN everyone)) (VP (VBZ 's) (SBAR (S (NP (DT a) (NN manager)))))))))))))
+-29.931625370023 -90.722874919452
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (VP (VBZ 's) (PP (IN like) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))))
+-30.082212241080 -92.127123439551
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))))))
+-30.160657896751 -90.376029361558
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (JJ like) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-30.170187104175 -92.717919838787
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VB like) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-30.351665225693 -87.725503195815
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ like) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))))))
+-30.467036769424 -90.248074099057
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (S (VP (VB like) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))))
+-30.494586236461 -91.153827962580
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NN everyone) (POS 's))) (S (NP (DT a) (NN manager)))))))))
+-30.602506316365 -91.615451383347
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ like)) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))))
+-30.669293548886 -90.001894358016
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ like)) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-30.839107226737 -90.466104716755
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBP like) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))))))))
+-30.866487664996 -91.483628747454
+(S1 (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP it)))) (VP (POS 's) (PP (IN like) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))))
+-30.938726881953 -92.527562605590
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))))))
+-31.936522566981 -91.714037685170
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (IN like) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))))))
+-32.728433894670 -90.813949413481
+(S1 (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJ like)) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))))))
+

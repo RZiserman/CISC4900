@@ -1,0 +1,102 @@
+50 x
+-35.659792500702 -139.452271841573
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door)) (VP (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-35.781527483581 -137.585090899526
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-35.886122918254 -138.000196040601
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (JJ closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-35.977204411886 -138.898476398164
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBN closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-36.105934379733 -138.684169378499
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBD closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-36.329262018558 -136.649844364646
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-36.349831186427 -142.904473480044
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door)) (ADJP (JJ closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-36.484445065165 -141.526425530164
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.011991207275 -143.688313125702
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door)) (VP (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))
+-37.133726190154 -141.821132183656
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))
+-37.220107066187 -142.441853011976
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door) (VBD closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.251696654827 -142.236237324730
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (JJ closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))
+-37.306756031173 -143.535184550693
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door)) (VP (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.329403118458 -143.134517682294
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBN closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))
+-37.365071057444 -143.527581710938
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door) (JJ closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.382440140133 -142.173769448325
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door)) (VP (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-37.415662256305 -142.920210662629
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBD closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))
+-37.428490986174 -141.668003608647
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.457389679749 -144.215273422403
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (S (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.533086420847 -142.083108749721
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (JJ closed)))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.535585132012 -140.306588506279
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-37.624167914479 -142.981389107285
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBN closed))))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.640180566684 -140.721693647353
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (JJ closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-37.694252185422 -143.787115628147
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door)) (S (VP (VBN closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.694835727252 -140.885885648776
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))
+-37.731262060316 -141.619974004917
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBN closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-37.752897882326 -142.767082087620
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBD closed))))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-37.859992028163 -141.405666985252
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (VBD closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-37.976225521151 -140.732757073767
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-38.058230039055 -143.573969332072
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (VBN closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-38.083319666988 -139.371341971399
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-38.238502713595 -144.247923136917
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-38.751011332601 -142.037325162744
+(S1 (S (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBD closed))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))
+-38.830777213221 -141.807859513649
+(S1 (S (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBD closed))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))
+-38.888250930033 -140.866887520320
+(S1 (S (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBN closed))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))
+-39.182548634605 -144.389501215400
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-39.279350022131 -143.601786607661
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (VBN closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PRT (RP in)) (NP (PRP$ your) (NN way))))))))))
+-39.370251075937 -141.927918666068
+(S1 (S (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBN closed))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))
+-39.383945456804 -144.016891748736
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (NP (DT a) (NN door)) (JJ closed)))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PRT (RP in)) (NP (PRP$ your) (NN way))))))))))
+-39.448893487194 -143.607383637252
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))
+-39.558751949556 -143.049524451520
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (VP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-39.728197956010 -144.187541938578
+(S1 (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBD closed) (S (CC and) (NP (PRP you)) (VP (VB open) (NP (PRP it)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))
+-39.730283169581 -143.454254680520
+(S1 (FRAG (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-39.827084557108 -142.666540072781
+(S1 (SBAR (IN if) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN door)) (ADJP (JJ closed))))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PRT (RP in)) (NP (PRP$ your) (NN way))))))))))
+-39.983565065028 -144.273874353299
+(S1 (S (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBD closed))) (CC and) (S (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))
+-40.308276149004 -143.233382187961
+(S1 (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBD closed) (SBAR (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-40.339791429817 -144.068392968716
+(S1 (S (S (SBAR (IN if) (S (NP (EX there)) (VP (POS 's) (NP (DT a) (NN door))))) (VP (VBN closed))) (CC and) (S (NP (PRP you)) (VP (VBP open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))
+-40.994248139096 -143.417730175601
+(S1 (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBD closed) (S (CC and) (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way)))))))))))
+-41.291724687493 -140.055118918684
+(S1 (S (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN door))))) (VP (VBD closed) (SBAR (S (CC and) (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+-42.739618620278 -143.256624367081
+(S1 (S (SBAR (IN if) (S (NP (EX there)) (VP (POS 's) (NP (DT a) (NN door))))) (VP (VBD closed) (SBAR (S (CC and) (NP (PRP you)) (VP (VB open) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN way))))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-13.433028788017 -45.877513088999
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-15.212970519559 -52.181612811200
+(S1 (S (NP (DT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-15.394147189076 -56.600704362484
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VB pay)))))))
+-15.986885170783 -50.203957181333
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-16.570153184530 -54.791150591508
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-16.614555161327 -56.784816026493
+(S1 (S (DT That) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-16.954985564618 -62.904804084685
+(S1 (S (NP (DT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VB pay)))))))
+-17.256659766552 -53.475209543128
+(S1 (SBAR (DT That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-17.366429145607 -51.977473952815
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-17.709945490147 -52.540388246225
+(S1 (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-17.723458638336 -52.096079251645
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-17.738142805843 -60.927148454818
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VB pay))))))))
+-17.810361459444 -55.050601516930
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-17.892360878993 -55.202299756526
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-17.965390544384 -60.103269707203
+(S1 (SBAR (IN That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-18.138341969653 -53.199038043643
+(S1 (S (NP (IN That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-18.231668195663 -54.920292253759
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-18.303546108415 -58.013106536600
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-18.401548499932 -62.714188586815
+(S1 (S (DT That) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-18.423386825682 -59.557146367676
+(S1 (PP (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-18.452361918616 -59.992323411555
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-18.640945135925 -58.528310431218
+(S1 (SBAR (WHNP (WDT That)) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-18.681789652854 -53.551644099149
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-18.817105218288 -57.108306482091
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-18.892401450385 -62.286815000650
+(S1 (PP (IN That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-19.038592163415 -56.529629387493
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-19.048087457451 -59.842959085212
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-19.062596648574 -57.809127538134
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-19.095907636643 -59.786526910235
+(S1 (FRAG (SBAR (IN That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-19.227033852922 -57.916231350900
+(S1 (S (RB That) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-19.346079459454 -62.700665226299
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VB pay))))))))
+-19.493248186183 -62.819270525129
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VB pay)))))))))
+-19.620876846888 -62.451124174644
+(S1 (SBAR (DT That) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-19.759756916431 -57.109726505853
+(S1 (S (NP (WDT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-19.843380041126 -61.698851327659
+(S1 (NP (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-19.983240853552 -62.352576374110
+(S1 (FRAG (PP (IN That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-20.000276318706 -61.575673047870
+(S1 (S (WHNP (WDT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-20.345269798978 -60.368645435393
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-20.459421651625 -62.670594406917
+(S1 (FRAG (NP (DT That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-20.481111994307 -61.565190334614
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-20.530478569074 -62.272687895038
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-20.770463830585 -60.740277492768
+(S1 (FRAG (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-20.855018035708 -62.791505885567
+(S1 (S (RB That) (VP (POS 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-20.988182014807 -62.101232995758
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-21.279316154682 -62.129359720009
+(S1 (FRAG (SBAR (WDT That) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))))
+-21.503176506525 -58.704312508344
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-21.709824261299 -62.320608601413
+(S1 (FRAG (WHNP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-22.321968878845 -59.682961743715
+(S1 (FRAG (S (NP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay))))))))
+-23.184058524437 -61.912318071870
+(S1 (FRAG (NP (WDT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+-23.429532396246 -62.743224857218
+(S1 (FRAG (NP (IN That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP pay)))))))
+

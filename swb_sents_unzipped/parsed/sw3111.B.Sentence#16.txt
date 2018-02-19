@@ -1,0 +1,102 @@
+50 x
+-9.305277265843 -34.104621745906
+(S1 (S (NP (DT That)) (VP (VBP make) (NP (NN sense)))))
+-11.285731822558 -34.056259326199
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBP make) (NP (NN sense))))))
+-11.762187621287 -41.493257751219
+(S1 (S (NP (DT That)) (VP (VB make) (NP (NN sense)))))
+-12.016477345941 -41.978422978573
+(S1 (S (DT That) (VP (VBP make) (NP (NN sense)))))
+-12.786683552850 -41.887496114362
+(S1 (SBAR (IN That) (S (VP (VB make) (NP (NN sense))))))
+-12.915298379916 -38.337557890370
+(S1 (S (NP (IN That)) (VP (VBP make) (NP (NN sense)))))
+-12.947865251494 -42.402590748500
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VB make) (NP (NN sense))))))
+-13.033008100718 -46.360212675848
+(S1 (S (DT That) (VP (VB make) (NP (NN sense)))))
+-13.127136864095 -42.026144230779
+(S1 (SBAR (IN That) (S (VP (VBP make) (NP (NN sense))))))
+-13.240261596775 -37.210219838886
+(S1 (S (NP (WDT That)) (VP (VBP make) (NP (NN sense)))))
+-13.266122938861 -41.839111167269
+(S1 (S (WHNP (WDT That)) (VP (VBP make) (NP (NN sense)))))
+-13.270866449772 -35.800566275066
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBP make) (NP (NN sense)))))))
+-13.564637489695 -45.431744229505
+(S1 (S (WHNP (WDT That)) (VP (VB make) (NP (NN sense)))))
+-13.722111856569 -42.909051948086
+(S1 (S (RB That) (VP (VB make) (NP (NN sense)))))
+-13.850271906633 -44.389256320288
+(S1 (NP (WHNP (WDT That)) (S (VP (VB make) (NP (NN sense))))))
+-14.291444115501 -41.666781078434
+(S1 (FRAG (SBAR (IN That) (S (VP (VB make) (NP (NN sense)))))))
+-14.299587838282 -40.450010582447
+(S1 (SBAR (WDT That) (S (VP (VBP make) (NP (NN sense))))))
+-14.345805968407 -40.779255853192
+(S1 (FRAG (SBAR (IN That) (S (VP (VBP make) (NP (NN sense)))))))
+-14.369633152281 -43.160978644547
+(S1 (S (RB That) (VP (VBP make) (NP (NN sense)))))
+-14.429316047351 -47.402090129245
+(S1 (S (ADVP (RB That)) (VP (VB make) (NP (NN sense)))))
+-14.472377434596 -47.919548569645
+(S1 (SBAR (S (NP (DT That)) (VP (VBP make) (NP (NN sense))))))
+-14.541412302429 -48.461039872936
+(S1 (NP (DT That) (NN make) (NN sense)))
+-14.583524596069 -42.558077381710
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBP make) (NP (NN sense))))))
+-14.671408071365 -47.123248353429
+(S1 (PP (IN That) (S (VP (VB make) (NP (NN sense))))))
+-14.751598205347 -45.897242139549
+(S1 (SBAR (WHNP (WDT That)) (VP (VB make) (NP (NN sense)))))
+-14.882360641060 -46.725695613533
+(S1 (PP (IN That) (S (VP (VBP make) (NP (NN sense))))))
+-14.883853945829 -45.661073851161
+(S1 (FRAG (S (NP (DT That)) (VP (VBP make) (NP (NN sense))))))
+-14.957185144722 -48.432354203282
+(S1 (S (IN That) (S (VP (VB make) (NP (NN sense))))))
+-14.959786360459 -44.242925752675
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VB make) (NP (NN sense)))))))
+-15.031652769608 -45.602743813303
+(S1 (S (NP (WDT That)) (VP (VB make) (NP (NN sense)))))
+-15.065697261790 -45.941521217358
+(S1 (PP (IN That) (VP (VB make) (NP (NN sense)))))
+-15.091955888541 -43.855536332497
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VB make) (NP (NN sense))))))
+-15.118880166447 -46.730081777402
+(S1 (S (NP (IN That)) (VP (VB make) (NP (NN sense)))))
+-15.201351713648 -46.915099056673
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBP make) (NP (NN sense))))))
+-15.265811191158 -45.497320101898
+(S1 (FRAG (S (NP (DT That)) (VP (VB make) (NP (NN sense))))))
+-15.364720933115 -47.339096215858
+(S1 (FRAG (IN That) (NP (VB make) (NN sense))))
+-15.382433661727 -46.608406119192
+(S1 (NP (WHNP (WDT That)) (S (VP (VBP make) (NP (NN sense))))))
+-15.539211961187 -48.026290923629
+(S1 (SBAR (WHNP (IN That)) (S (VP (VB make) (NP (NN sense))))))
+-15.591151091054 -46.121553600037
+(S1 (FRAG (RB That) (VP (VB make) (NP (NN sense)))))
+-15.737831118229 -48.501803581295
+(S1 (S (ADVP (RB That)) (VP (VBP make) (NP (NN sense)))))
+-15.752428478464 -47.119430209120
+(S1 (SBAR (WHNP (DT That)) (S (VP (VB make) (NP (NN sense))))))
+-15.811733232693 -44.133853648907
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBP make) (NP (NN sense))))))
+-16.280409135768 -48.603739415062
+(S1 (FRAG (NP (DT That)) (VP (VB make) (NP (NN sense)))))
+-16.389921564333 -48.547860624551
+(S1 (FRAG (NP (DT That)) (S (VP (VBP make) (NP (NN sense))))))
+-16.448925804322 -47.833680491628
+(S1 (S (NP (RB That)) (VP (VBP make) (NP (NN sense)))))
+-16.543764735232 -48.489806687969
+(S1 (S (ADVP (DT That)) (VP (VBP make) (NP (NN sense)))))
+-16.769266393376 -48.194276756810
+(S1 (FRAG (PP (IN That) (VP (VB make) (NP (NN sense))))))
+-16.838101794316 -48.339257887635
+(S1 (FRAG (IN That) (S (VP (VBP make) (NP (NN sense))))))
+-17.000661429881 -47.515335555062
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (VP (VBP make) (NP (NN sense)))))))
+-17.030177923672 -45.323248586088
+(S1 (FRAG (SBAR (WDT That) (S (VP (VBP make) (NP (NN sense)))))))
+

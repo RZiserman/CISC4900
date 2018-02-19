@@ -1,0 +1,102 @@
+50 x
+-15.264503518171 -58.252680446121
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (CD five))))))
+-16.837291524980 -59.722292397689
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (CD five)))))))
+-17.905210762561 -62.692798231017
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (CD five))))))))
+-18.103409228186 -70.515794770228
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VBP last) (NP (CD five))))))
+-18.591934017377 -71.754558245772
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (NP (JJ last) (CD five))))))
+-18.765102992219 -64.660401946290
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (CD five))))))))
+-18.850724732865 -66.028700520921
+(S1 (FRAG (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (CD five)))))))
+-18.910347733910 -63.320125791830
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (CD five)))))))
+-19.077821408442 -65.615619134967
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (ADVP (CD five))))))
+-19.363184704831 -70.720257957136
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (JJ last) (NP (CD five))))))
+-19.387536677406 -69.675858385965
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (RB last) (NP (CD five))))))
+-19.439674258995 -71.985406721796
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VBP last) (NP (CD five)))))))
+-19.785835372591 -66.313360035390
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (S (NP (CD five)))))))
+-19.943966919502 -68.133892301153
+(S1 (S (CC but) (NP (PRP it)) (MD can) (VP (JJ last) (NP (CD five)))))
+-19.954452468187 -69.736193952023
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (QP (CD five)))))))
+-19.982336678938 -68.884931907239
+(S1 (S (CC but) (NP (PRP it)) (MD can) (VP (VB last) (NP (CD five)))))
+-20.070132114186 -73.224170197339
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (NP (JJ last) (CD five)))))))
+-20.315082118039 -67.085231086535
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADVP (CD five)))))))
+-20.413362737535 -68.275543867867
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (ADJP (CD five))))))
+-20.625328135364 -74.955912555124
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VBP last) (NP (CD five))))))))
+-20.799553851640 -72.189869908703
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (JJ last) (NP (CD five)))))))
+-20.835506877148 -73.694051636617
+(S1 (S (CC but) (NP (PRP it)) (MD can) (VP (VBP last) (NP (CD five)))))
+-20.926539094215 -71.145470337532
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (RB last) (NP (CD five)))))))
+-21.116840321415 -72.172552238963
+(S1 (FRAG (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (CD five))))))))
+-21.419657463400 -67.782971986957
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (S (NP (CD five))))))))
+-21.510595755621 -70.055736919863
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADVP (CD five))))))))
+-21.527240474996 -71.205805903591
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (QP (CD five))))))))
+-21.629320913235 -74.095355497840
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (RB last) (NP (CD five)))))
+-21.652657762187 -73.154703859384
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (S (VP (VB last) (NP (CD five)))))))
+-21.809753420714 -75.583240115937
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VBP last) (NP (CD five)))))))
+-21.981393978409 -74.467399011408
+(S1 (S (CC but) (NP (PRP it)) (VP (MD can) (S (NP (JJ last) (CD five))))))
+-22.007858589222 -75.160375742031
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (JJ last) (NP (CD five))))))))
+-22.111125431796 -74.115976170860
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (RB last) (NP (CD five))))))))
+-22.168121944344 -69.745155819434
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADJP (CD five)))))))
+-22.370487985279 -72.023340635136
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADVP (CD five))))))))
+-22.580374000982 -70.753477820286
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (S (NP (CD five)))))))))
+-22.595159715366 -74.176311736919
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (QP (CD five)))))))))
+-22.630594125925 -73.391639209767
+(S1 (FRAG (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (ADVP (CD five)))))))
+-22.792068926970 -70.683064480676
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADVP (CD five)))))))
+-22.937731793146 -74.743303731674
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (MD can) (VP (RB last) (NP (CD five)))))))
+-23.062807538025 -74.624315945065
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (S (VP (VB last) (NP (CD five))))))))
+-23.087207198892 -75.564967414778
+(S1 (S (CC but) (S (NP (PRP it)) (VP (MD can) (RB last) (NP (CD five))))))
+-23.337761171286 -74.089380110190
+(S1 (FRAG (S (CC but) (NP (PRP it)) (VP (MD can) (VP (VB last) (S (NP (CD five))))))))
+-23.340072681925 -72.715661652763
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADJP (CD five))))))))
+-23.345303722929 -74.771929455561
+(S1 (S (CC but) (NP (PRP it)) (MD can) (VP (VB last) (ADVP (CD five)))))
+-23.440266230640 -72.721081535559
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (S (NP (CD five)))))))))
+-23.526820972331 -71.380805381099
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (S (NP (CD five))))))))
+-23.600296686715 -74.803639297732
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (NP (QP (CD five))))))))
+-24.141705553275 -73.342989213576
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADJP (CD five)))))))
+-24.199964911583 -74.683265368036
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB last) (ADJP (CD five))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-23.353265405128 -69.398433305987
+(S1 (SQ (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free))))
+-24.468853985316 -72.381074268328
+(S1 (SQ (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (RB free))))
+-24.539680053454 -71.452637629020
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free))))
+-24.772006912737 -73.863655577859
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance) (JJ free))))))
+-25.302954004912 -75.887727995594
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance) (JJ free)))))))
+-25.793793395605 -74.594293688401
+(S1 (S (VP (VBD Was) (ADJP (ADVP (NN sort) (IN of) (NN maintenance)) (JJ free)))))
+-25.835502511203 -79.697666499030
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADVP (RB free)))))
+-25.969120272896 -77.722743407479
+(S1 (SQ (VBD Was) (VP (VB sort) (PP (IN of) (NP (NN maintenance) (JJ free))))))
+-26.012790399399 -80.501156426532
+(S1 (S (VP (VBD Was) (ADVP (RB sort) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free)))))
+-26.052216204478 -75.966490101271
+(S1 (S (VP (VBD Was) (S (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free))))))
+-26.065426911752 -80.317300940520
+(S1 (S (VP (VBD Was) (VP (VB sort) (PP (IN of) (NP (NN maintenance))) (ADVP (JJ free))))))
+-26.152345937301 -77.413764697405
+(S1 (SQ (VBD Was) (VP (VB sort) (PP (IN of) (NP (NN maintenance))) (ADVP (JJ free)))))
+-26.436041775953 -75.540408724610
+(S1 (SQ (VBD Was) (NP (NP (RB sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free))))
+-26.493152444303 -78.000712609305
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (RB free))))
+-26.523167168612 -79.297647817296
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance))) (ADJP (JJ free))))))
+-26.567539586068 -78.550378654034
+(S1 (SQ (VBD Was) (NP (NP (VB sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free))))
+-26.990705976966 -76.736121238405
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NP (NN maintenance)) (ADVP (JJ free)))))))
+-26.995421297163 -79.892136640009
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NP (NN maintenance)) (ADVP (RB free)))))))
+-27.009358265866 -80.065524269726
+(S1 (SQ (VBD Was) (NP (NN sort) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free))))
+-27.055090410358 -77.664203221503
+(S1 (S (VP (VBD Was) (S (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (RB free))))))
+-27.076501442714 -79.775610385601
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NP (NN maintenance)) (JJ free))))))
+-27.093950263009 -76.261200324706
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADVP (JJ free)))))
+-27.134889438386 -78.716519338336
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance) (RB free))))))
+-27.146353370616 -78.228756575539
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance))) (ADVP (JJ free)))))
+-27.311606291853 -79.734978987482
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance))) (ADJP (JJ free)))))
+-27.380575248929 -78.523049686952
+(S1 (SQ (VBD Was) (NP (NP (RB sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (RB free))))
+-27.447445829013 -79.455610712520
+(S1 (S (VP (VBD Was) (S (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADVP (RB free))))))
+-27.474347259612 -80.907808184157
+(S1 (S (VP (VBD Was) (ADJP (ADVP (NN sort) (IN of) (NP (NN maintenance))) (JJ free)))))
+-27.525410084955 -81.032305355140
+(S1 (S (VP (VBD Was) (ADVP (NN sort) (IN of) (NN maintenance)) (ADJP (JJ free)))))
+-27.579973003561 -80.740591756070
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance) (RB free)))))))
+-27.585699094865 -81.042394053427
+(S1 (SQ (VBD Was) (VP (VB sort) (PP (IN of) (NP (NN maintenance))) (S (ADJP (JJ free))))))
+-27.595562039431 -78.737821755355
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance))) (ADVP (JJ free))))))
+-27.668735899141 -78.760193656139
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NP (NN maintenance)) (ADVP (JJ free))))))))
+-27.776620516772 -75.633769715162
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (ADJP (NN maintenance) (JJ free))))))
+-27.785210621063 -79.879025013288
+(S1 (SQ (VBD Was) (VP (VB sort) (PP (IN of) (NP (NP (NN maintenance)) (ADVP (JJ free)))))))
+-27.802734640675 -81.076665953071
+(S1 (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance) (JJ free))))))
+-27.825491308990 -79.984021627848
+(S1 (S (VP (VBD Was) (ADVP (ADVP (NN sort) (IN of) (NN maintenance)) (JJ free)))))
+-28.000607346159 -77.657842125278
+(S1 (S (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (ADJP (NN maintenance) (JJ free)))))))
+-28.217683544322 -80.364640762745
+(S1 (VP (VBD Was) (S (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free)))))
+-28.245913681741 -79.901356152619
+(S1 (SINV (VBD Was) (NP (NP (RB sort)) (PP (IN of) (NP (NN maintenance)))) (ADJP (JJ free))))
+-28.374577577140 -79.277250503712
+(S1 (SQ (VBD Was) (VP (VB sort) (PP (IN of) (ADJP (NN maintenance) (JJ free))))))
+-28.504437919515 -80.781809566706
+(S1 (SQ (VBD Was) (NP (NN sort)) (SBAR (IN of) (NN maintenance) (S (ADJP (JJ free))))))
+-28.774873702263 -80.076768990423
+(S1 (SQ (VBD Was) (VP (VB sort) (PP (IN of) (NP (NN maintenance))) (S (ADVP (JJ free))))))
+-28.909372650599 -80.801284033042
+(S1 (SQ (VBD Was) (VP (VB sort) (S (NP (IN of) (NN maintenance)) (ADJP (JJ free))))))
+-29.114782493573 -80.983874056785
+(S1 (VP (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADVP (JJ free))))
+-29.246198698609 -79.932117021174
+(S1 (S (VP (VBD Was) (S (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)))) (ADVP (JJ free))))))
+-29.280937256770 -79.943455879663
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (S (VP (NN maintenance) (ADVP (JJ free))))))))
+-29.336083464001 -79.618197874407
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (NP (NN maintenance)) (ADVP (JJ free))))))
+-29.450478351859 -80.923224031463
+(S1 (SINV (VBD Was) (NP (NP (NN sort)) (PP (IN of) (S (VP (NN maintenance) (ADJP (JJ free))))))))
+-30.877173455174 -79.721260303584
+(S1 (SQ (VBD Was) (VP (VB sort) (NP (IN of) (NN maintenance)) (S (ADVP (JJ free))))))
+

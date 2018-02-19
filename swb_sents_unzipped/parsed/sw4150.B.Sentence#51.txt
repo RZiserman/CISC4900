@@ -1,0 +1,74 @@
+36 x
+-11.835966169705 -46.367121290417
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (DT a) (NN pediatrician)))))
+-16.490399113834 -56.492452467085
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (DT a) (NN pediatrician))))))
+-18.563247692261 -61.712604702968
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a)) (NN pediatrician)))))
+-18.651654034444 -63.736990301574
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (DT a) (NN pediatrician)))))))
+-20.832757578158 -72.514631315936
+(S1 (S (NP (NN I)) (VP (VBP 'm) (NP (DT a) (NN pediatrician)))))
+-22.783269334206 -76.206359697797
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (NP (DT a) (NN pediatrician)))))
+-23.306114917385 -82.740452506942
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (NP (DT a) (NN pediatrician)))))
+-23.693677784391 -72.683806145217
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NP (DT a)) (NN pediatrician))))))
+-24.049415287180 -81.456400585711
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (NP (DT a) (NN pediatrician))))))
+-25.478644744897 -81.466786975175
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (NP (DT a) (NN pediatrician))))))
+-25.488949719500 -82.639962492603
+(S1 (S (NP (NN I)) (VP (VBP 'm) (S (NP (DT a) (NN pediatrician))))))
+-25.922810903788 -79.928343988949
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT a)) (NN pediatrician)))))))
+-27.033045485962 -85.683842207404
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (S (NP (DT a) (NN pediatrician))))))
+-27.546027159141 -92.217935016549
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (DT a) (NN pediatrician))))))
+-27.702279450715 -87.860114728487
+(S1 (S (NP (NN I)) (VP (VBP 'm) (NP (NP (DT a)) (NN pediatrician)))))
+-27.730454060897 -89.884500327093
+(S1 (S (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT a) (NN pediatrician)))))))
+-28.370106928935 -90.933883095318
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (DT a) (NN pediatrician)))))))
+-29.260296285181 -92.592981256493
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT a) (NN pediatrician)))))))
+-29.590535202824 -91.551843061261
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (NP (NP (DT a)) (NN pediatrician)))))
+-29.701023620361 -99.127074065637
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (DT a) (NN pediatrician)))))))
+-29.809200293865 -90.944269484782
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (S (NP (DT a) (NN pediatrician)))))))
+-30.037028986003 -98.085935870405
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a)) (NN pediatrician)))))
+-30.578514287367 -97.843022144406
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (DT a) (NN pediatrician))))))))
+-30.857119155797 -96.801883949175
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a)) (NN pediatrician))))))
+-32.089861993085 -97.853408533870
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT a) (NN pediatrician))))))))
+-32.362700413515 -96.812270338639
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (NP (NP (DT a)) (NN pediatrician))))))
+-32.823540170056 -98.831316170736
+(S1 (S (NP (NN I)) (VP (VBP 'm) (S (NP (NP (DT a)) (NN pediatrician))))))
+-34.306566739306 -101.875195885537
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (S (NP (NP (DT a)) (NN pediatrician))))))
+-34.743196609697 -108.409288694681
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (NP (DT a)) (NN pediatrician))))))
+-35.136847324666 -106.075854014467
+(S1 (S (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT a)) (NN pediatrician)))))))
+-35.567276385067 -107.125236773450
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (NP (DT a)) (NN pediatrician)))))))
+-36.605620340587 -108.784334943868
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT a)) (NN pediatrician)))))))
+-36.969995900856 -115.318427753012
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT a)) (NN pediatrician)))))))
+-37.082721555573 -107.135623162915
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (S (NP (NP (DT a)) (NN pediatrician)))))))
+-37.847486548348 -114.034375831781
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT a)) (NN pediatrician))))))))
+-39.435186056854 -114.044762221245
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT a)) (NN pediatrician))))))))
+

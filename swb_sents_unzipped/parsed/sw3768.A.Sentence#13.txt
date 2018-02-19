@@ -1,0 +1,102 @@
+50 x
+-17.458943796193 -53.224189854936
+(S1 (NP (ADVP (RB mostly)) (NP (NNP Germany)) (CC and) (NP (NNP France))))
+-17.581096554774 -54.127240478459
+(S1 (NP (ADVP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-18.157896457921 -53.385336513497
+(S1 (NP (RB mostly) (NP (NNP Germany)) (CC and) (NP (NNP France))))
+-18.165833436769 -57.224681273352
+(S1 (X (ADVP (RB mostly)) (NP (NNP Germany) (CC and) (NNP France))))
+-18.173014229944 -57.029221344402
+(S1 (FRAG (ADVP (RB mostly)) (NP (NNP Germany) (CC and) (NNP France))))
+-18.489042001981 -56.984817873379
+(S1 (NP (RB mostly) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-18.557957527450 -61.268222395084
+(S1 (S (ADVP (RB mostly)) (NP (NNP Germany) (CC and) (NNP France))))
+-18.584202889949 -56.728862450360
+(S1 (S (ADVP (RB mostly)) (ADJP (NNP Germany) (CC and) (NNP France))))
+-18.600402206151 -58.533081942453
+(S1 (ADJP (RB mostly) (NNP Germany) (CC and) (NNP France)))
+-18.602367457650 -55.044933618549
+(S1 (NP (NP (RB mostly) (NNP Germany)) (CC and) (NP (NNP France))))
+-18.630274416188 -57.905719418127
+(S1 (S (ADVP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-18.937633496318 -60.991479511601
+(S1 (NP (RB mostly) (NNP Germany) (CC and) (NNP France)))
+-18.953581077780 -56.950826882764
+(S1 (FRAG (ADVP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-18.984200359554 -55.228224279567
+(S1 (X (ADVP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-18.984374978682 -59.567093792898
+(S1 (S (ADJP (RB mostly) (NNP Germany) (CC and) (NNP France))))
+-19.000639643776 -55.384086666140
+(S1 (FRAG (RB mostly) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-19.021684969070 -62.116626969245
+(S1 (NP (ADVP (RB mostly)) (NP (NNP Germany) (CC and) (NNP France))))
+-19.029329946245 -61.517026988981
+(S1 (NP (RB mostly) (NP (NNP Germany) (CC and) (NNP France))))
+-19.042239967787 -58.300764626341
+(S1 (FRAG (RB mostly) (NP (NNP Germany) (CC and) (NNP France))))
+-19.065091942412 -62.615205147456
+(S1 (SQ (RB mostly) (NP (NNP Germany) (CC and) (NNP France))))
+-19.315368220129 -58.432859185422
+(S1 (NP (NP (ADVP (RB mostly)) (NNP Germany)) (CC and) (NP (NNP France))))
+-19.658774406874 -60.573188308457
+(S1 (ADJP (ADVP (RB mostly)) (NNP Germany) (CC and) (NNP France)))
+-19.681067013785 -59.331443011316
+(S1 (SQ (RB mostly) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-20.116535043829 -61.607200136376
+(S1 (S (ADJP (ADVP (RB mostly)) (NNP Germany) (CC and) (NNP France))))
+-20.692523216098 -61.866168469388
+(S1 (FRAG (X (RB mostly)) (NP (NNP Germany) (CC and) (NNP France))))
+-20.796322708043 -64.487879083116
+(S1 (ADVP (RB mostly) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-21.170826190948 -63.542118467785
+(S1 (FRAG (ADJP (RB mostly) (NNP Germany) (CC and) (NNP France))))
+-21.211133621530 -61.234657059219
+(S1 (X (RB mostly) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-21.246891906619 -63.482251094608
+(S1 (S (VP (ADVP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France))))))
+-21.306527090240 -60.776058276351
+(S1 (FRAG (RB mostly) (ADJP (NNP Germany) (CC and) (NNP France))))
+-21.321063890237 -62.169731013399
+(S1 (FRAG (ADVP (RB mostly)) (ADJP (NNP Germany) (CC and) (NNP France))))
+-21.631727308716 -62.360860015712
+(S1 (FRAG (X (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-21.671853559124 -60.522890482009
+(S1 (S (NP (RB mostly) (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-21.767960661180 -62.860508780266
+(S1 (FRAG (NP (ADVP (RB mostly)) (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-21.859150158632 -64.100027824188
+(S1 (PP (RB mostly) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-21.975487702212 -63.252092210236
+(S1 (X (NP (ADVP (RB mostly)) (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.021323748581 -61.783296333998
+(S1 (S (NP (NP (RB mostly) (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.061211133735 -62.158087847078
+(S1 (FRAG (NP (RB mostly) (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.123627130158 -62.345811501180
+(S1 (NP (NP (ADJP (RB mostly)) (NNP Germany)) (CC and) (NP (NNP France))))
+-22.245928278603 -63.109106137661
+(S1 (FRAG (NP (NP (RB mostly) (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.302090232533 -64.011102432526
+(S1 (X (X (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.325566545248 -63.869316746772
+(S1 (FRAG (NP (ADVP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France))))))
+-22.331531344378 -63.054537612773
+(S1 (S (ADJP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.379116656787 -62.515341368261
+(S1 (X (NP (RB mostly) (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.513979691043 -63.162138538808
+(S1 (X (NP (NP (RB mostly) (NNP Germany)) (CC and) (NP (NNP France)))))
+-22.696299083794 -62.656646772417
+(S1 (FRAG (PP (RB mostly) (NP (NP (NNP Germany)) (CC and) (NP (NNP France))))))
+-22.773120779189 -62.478836794643
+(S1 (S (NP (RB mostly)) (ADJP (NNP Germany) (CC and) (NNP France))))
+-23.072669034611 -64.148225467316
+(S1 (FRAG (NP (RB mostly)) (NP (NNP Germany) (CC and) (NNP France))))
+-23.259790901883 -64.095598223046
+(S1 (S (NP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+-23.864116182447 -64.069831005678
+(S1 (FRAG (NP (RB mostly)) (NP (NP (NNP Germany)) (CC and) (NP (NNP France)))))
+

@@ -1,0 +1,102 @@
+50 x
+-23.517971409400 -87.982167242099
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-23.678832179442 -89.297599309064
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-24.075403115118 -88.090663131044
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (VP (NP (NN nothing)) (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-24.831275341800 -88.469135785712
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-24.946591980034 -90.238119711257
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))
+-24.951666676448 -89.784568020945
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-25.056829180796 -92.515320563025
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (S (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-25.189209432609 -88.577631767334
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (VP (NP (NN nothing)) (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-25.543724866293 -90.706448899160
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (ADVP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-26.286570253485 -90.559785682401
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NN nothing)))) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))
+-26.296411384912 -95.828441353423
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (SBAR (S (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))))
+-26.348826192115 -93.899793186174
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (S (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-26.379746307100 -90.725088367082
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-26.432958344907 -91.968738160695
+(S1 (S (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NN nothing)))) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))
+-26.436764465557 -91.420204127353
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (VP (ADVP (NN nothing)) (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-26.541531594801 -93.002289268817
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (S (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-26.648897809090 -95.758734574056
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (S (NP (NN nothing)) (VP (VBN taken))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))
+-26.825262427905 -96.034766994270
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (SBAR (S (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-26.875957148388 -91.193417697546
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (ADVP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-27.319510695755 -96.158871293452
+(S1 (S (CC and) (NP (PRP we)) (VP (VP (VBD had) (NP (NN nothing))) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-27.540004564247 -93.681986531155
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-27.595005094704 -96.315410065305
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (SBAR (S (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))))
+-27.635354734955 -94.997418707831
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-27.664866700260 -91.907172763643
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (VP (ADVP (NN nothing)) (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-27.728052399463 -95.788381931325
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (S (NP (NN nothing)) (ADJP (VBN taken))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))
+-27.801920173994 -95.576950207450
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken)))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))
+-27.851650657303 -94.386761752242
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (S (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-27.907416316347 -95.221251644957
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (PP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-27.908668197477 -97.171817304278
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (S (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-28.210142254176 -96.702960380199
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (PP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-28.224706829299 -93.790482305204
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD had) (VP (NP (NN nothing)) (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-28.253651444245 -96.521735592935
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (NP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))))
+-28.291807716548 -93.083758105803
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NN nothing))) (PP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))
+-28.385435563683 -93.440231296161
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (VP (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-28.429507727246 -96.245703321952
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (S (NP (NN nothing)) (VP (VBN taken))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-28.579390757524 -94.874375413727
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-28.890551159401 -93.548727185106
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (VP (NP (NN nothing)) (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-28.914713288154 -95.937938944801
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-29.354776226140 -95.708220356839
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (PP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-29.485166360030 -97.189929049718
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (PP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-29.516580017687 -96.406268066767
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD had) (ADVP (NN nothing)) (VP (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-29.606764117620 -96.275350679220
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (S (NP (NN nothing)) (ADJP (VBN taken))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-29.698739493295 -93.927199839773
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NN nothing)) (VP (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-29.852225257317 -95.361344125608
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NP (NN nothing)) (VP (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew))))))))))
+-30.004357474104 -94.035695821395
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (VP (NP (NN nothing)) (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-30.450414887788 -96.164512953221
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (ADVP (NN nothing)) (VP (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-30.586068176951 -97.120023301513
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD had) (VP (ADVP (NN nothing)) (VBN taken) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+-31.191606752673 -96.162075368894
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (NP (NN nothing)))) (VP (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew)))))))
+-31.291138377052 -96.878268181415
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD had) (VP (ADVP (NN nothing)) (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew))))))))
+-31.782647169883 -96.651481751608
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD had) (ADVP (NN nothing)) (VP (VBN taken) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD knew)))))))))
+

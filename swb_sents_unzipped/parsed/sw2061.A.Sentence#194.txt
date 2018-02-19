@@ -1,0 +1,102 @@
+50 x
+-11.410905520324 -40.949519796745
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (ADJP (JJ wonderful)))))
+-13.360180054905 -45.576068714737
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (VP (JJ wonderful)))))
+-13.930218457668 -46.415010100909
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (NP (JJ wonderful)))))
+-14.015396039686 -48.071335723111
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ wonderful))))))
+-14.442619428137 -48.380114220895
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (ADVP (JJ wonderful)))))
+-15.040857210717 -52.500172143601
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ wonderful)))))))
+-15.666264719887 -51.087579291429
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ wonderful)))))))
+-15.713409092644 -48.131811430200
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (S (ADJP (JJ wonderful))))))
+-15.821099356084 -52.697884780340
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (VP (JJ wonderful))))))
+-16.489467043091 -53.536825973650
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (JJ wonderful))))))
+-17.033715319903 -57.126721211651
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (JJ wonderful)))))))
+-17.154545531924 -55.501930124616
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (ADVP (JJ wonderful))))))
+-17.351430778608 -52.130368381469
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ wonderful))))))
+-17.472530047666 -54.747409608694
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBD was) (ADJP (JJ wonderful))))))
+-17.600304599072 -55.714128359479
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (JJ wonderful)))))))
+-17.790599826188 -55.425890103833
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (NP (ADJP (JJ wonderful))))))
+-18.011853364788 -57.965662503053
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (JJ wonderful)))))))
+-18.022333803583 -57.072978719324
+(S1 (S (NP (CC and) (PRP it)) (VP (VBD was) (ADJP (JJ wonderful)))))
+-18.052101467227 -55.088875487093
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (S (VP (JJ wonderful))))))
+-18.102327072455 -58.010771292475
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (VBD was) (ADJP (JJ wonderful)))))
+-18.284731605732 -55.253627414217
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (S (ADJP (JJ wonderful)))))))
+-18.363183673957 -56.553069650880
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (JJ wonderful)))))))
+-18.688942044772 -59.930766693582
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADVP (JJ wonderful)))))))
+-18.714115543238 -59.198721999832
+(S1 (FRAG (S (CC and) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ wonderful)))))))
+-19.242629546279 -56.756917380160
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBD was) (VP (JJ wonderful))))))
+-19.262169167688 -55.801193131413
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (S (ADVP (JJ wonderful))))))
+-19.334476153941 -58.518173841409
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADVP (JJ wonderful)))))))
+-19.388737967337 -59.373958607385
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBD was) (VP (JJ wonderful))))))
+-19.661223686278 -59.682463903459
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (S (ADJP (JJ wonderful))))))))
+-19.784483062678 -57.595858744200
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (JJ wonderful))))))
+-19.899625840952 -61.699527637316
+(S1 (S (NP (CC and) (PRP it)) (VP (VBD was) (VP (JJ wonderful)))))
+-19.979619109824 -62.637320210467
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (VBD was) (VP (JJ wonderful)))))
+-19.987074731737 -60.212899971425
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBD was) (NP (JJ wonderful))))))
+-19.988208122812 -56.822031443528
+(S1 (S (CC and) (NP (PRP it)) (VP (VBD was) (S (NP (JJ wonderful))))))
+-20.234641528724 -59.560962875172
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBD was) (ADVP (JJ wonderful))))))
+-20.297993995448 -58.269871051287
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBD was) (S (ADJP (JJ wonderful))))))))
+-20.349848414398 -62.547705976574
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (ADJP (JJ wonderful)))))))
+-20.474224429636 -63.825271057062
+(S1 (FRAG (S (CC and) (S (NP (PRP it)) (VP (VBD was) (VP (JJ wonderful)))))))
+-20.511252514994 -62.178004102396
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBD was) (ADVP (JJ wonderful))))))
+-20.541646740927 -62.538469023488
+(S1 (S (NP (CC and) (PRP it)) (VP (VBD was) (NP (JJ wonderful)))))
+-20.621640012586 -63.476261596639
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (VBD was) (NP (JJ wonderful)))))
+-20.623423980315 -62.210691471110
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (S (VP (JJ wonderful)))))))
+-21.054047711396 -64.503573143474
+(S1 (S (NP (CC and) (PRP it)) (VP (VBD was) (ADVP (JJ wonderful)))))
+-21.188186546643 -64.664212250372
+(S1 (FRAG (S (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (JJ wonderful)))))))
+-21.761080648625 -59.312659926444
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBD was) (S (ADJP (JJ wonderful)))))))
+-21.784834414896 -61.929701153669
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBD was) (S (ADJP (JJ wonderful)))))))
+-21.833491683565 -62.923009115429
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (S (ADVP (JJ wonderful)))))))
+-22.324837375903 -64.255270352779
+(S1 (S (NP (CC and) (PRP it)) (VP (VBD was) (S (ADJP (JJ wonderful))))))
+-22.559530638688 -63.943847427545
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBD was) (S (NP (JJ wonderful)))))))
+-22.599872484187 -64.194900415986
+(S1 (FRAG (S (NP (CC and) (PRP it)) (VP (VBD was) (ADJP (JJ wonderful))))))
+

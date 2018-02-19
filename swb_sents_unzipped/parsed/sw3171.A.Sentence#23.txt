@@ -1,0 +1,102 @@
+50 x
+-11.888954334068 -55.227254080132
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-13.990190341976 -58.620240558957
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-16.684158721992 -69.387259223547
+(S1 (S (PP (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))))
+-16.944343388945 -64.735304142297
+(S1 (FRAG (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-17.197113526705 -71.275657488707
+(S1 (PP (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))
+-17.340730853007 -67.695673946049
+(S1 (SBAR (IN In) (NN fact) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-17.491625958841 -69.558913484448
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBN had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-17.708597033709 -68.513136515019
+(S1 (FRAG (PP (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))))
+-17.761239057742 -67.539396688614
+(S1 (S (PP (IN In) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))))
+-17.809031889221 -71.611731763447
+(S1 (SBAR (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-17.896707079817 -66.222978611980
+(S1 (FRAG (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-18.087942239517 -71.278858785024
+(S1 (SBAR (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-18.271090029609 -73.780630050180
+(S1 (S (PP (IN In) (NP (NP (NN fact)) (NP (PRP we)))) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-18.289162656962 -69.297765063361
+(S1 (PP (IN In) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))
+-18.403272925290 -72.705164301643
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (S (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-18.495786664167 -70.604659465200
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PRT (RP in)) (NP (NNP Dallas))))))
+-18.898798309221 -74.866939951377
+(S1 (S (PP (IN In) (NN fact)) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-18.910723995996 -68.603077894689
+(S1 (S (PP (IN In) (NP (NN fact) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))
+-18.972143193379 -67.150416074448
+(S1 (FRAG (PP (IN In) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))))
+-19.093132364065 -70.361446216895
+(S1 (PP (IN In) (NP (NN fact) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-19.166615984738 -72.393110780122
+(S1 (FRAG (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))
+-19.302350712703 -68.963441927949
+(S1 (FRAG (SBAR (IN In) (NN fact) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-19.419104942393 -76.243145868824
+(S1 (SBAR (IN In) (S (NP (NN fact)) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-19.509175816020 -71.735715789834
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-19.683055140379 -72.574386339689
+(S1 (FRAG (SBAR (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-19.743187260997 -72.026903769965
+(S1 (FRAG (SBAR (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-19.776112897694 -68.214097220227
+(S1 (FRAG (PP (IN In) (NP (NN fact) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))
+-19.977375708866 -73.358163500721
+(S1 (FRAG (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-20.007595340123 -78.045933973609
+(S1 (SBAR (S (PP (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))))
+-20.072091488978 -76.133198383245
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VP (VBD had)) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-20.137742810923 -70.883260256355
+(S1 (S (ADVP (IN In) (NN fact)) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-20.468469034518 -74.279320463841
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (ADJP (VBN been)) (PP (IN in) (NP (NNP Dallas))))))
+-20.506721806712 -76.098150849972
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-20.559010446365 -72.878984141456
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (ADJP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-20.600557996287 -73.997645944025
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PRT (RP in)) (NP (NNP Dallas)))))))
+-20.779459290719 -75.325921361018
+(S1 (FRAG (SBAR (IN In) (S (NP (NN fact)) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-20.803155753806 -73.105881238434
+(S1 (FRAG (IN In) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))
+-21.102296975846 -77.134008476129
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBN had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-21.149260758940 -76.084882848245
+(S1 (FRAG (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-21.168515075872 -76.198071438676
+(S1 (SBAR (S (PP (IN In) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))))
+-21.453483622369 -76.491675209412
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (PP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))
+-21.616021089116 -75.603071238898
+(S1 (S (PP (IN In) (NP (NN fact))) (VP (VBP we) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-21.636816799777 -75.128702231034
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))))
+-21.697878092255 -75.933694136338
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (S (ADJP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-21.817557816000 -73.903722852388
+(S1 (FRAG (IN In) (NP (NN fact) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+-22.179206033127 -77.261752644751
+(S1 (SBAR (S (PP (IN In) (NP (NN fact) (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))))
+-22.731907753365 -77.672306990089
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (ADJP (VBN been)) (PP (IN in) (NP (NNP Dallas)))))))
+-22.777622228485 -76.271970612028
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD had) (ADJP (VBN been) (PP (IN in) (NP (NNP Dallas))))))))
+-22.948347038100 -77.214294835202
+(S1 (FRAG (SBAR (S (PP (IN In) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))))))
+-23.299990514090 -77.063014478999
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP we)) (VP (VBD had) (SBAR (S (ADJP (VBN been) (PP (IN in) (NP (NNP Dallas)))))))))
+

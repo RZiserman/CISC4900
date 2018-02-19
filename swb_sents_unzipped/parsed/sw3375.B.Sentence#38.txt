@@ -1,0 +1,74 @@
+36 x
+-11.355837937781 -41.838717463524
+(S1 (S (NP (PRP they)) (VP (VBP 're) (NP (NNS teachers)))))
+-14.101121086090 -48.150423350105
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (NNS teachers)))))
+-14.586366038299 -51.801720636923
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (NP (NNS teachers))))))
+-15.979691753900 -49.572356019846
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (NP (NNS teachers))))))
+-16.149804259694 -52.639423505083
+(S1 (S (NP (PRP they)) (VP (VBP 're) (ADJP (NNS teachers)))))
+-16.561720559326 -52.382413819732
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (NNS teachers))))))
+-17.401930455074 -53.337551703521
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (S (NP (NNS teachers)))))))
+-17.672054903730 -54.556563122783
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (NNS teachers)))))))
+-18.587935837988 -56.006755618328
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (ADJP (NNS teachers))))))
+-18.776629980233 -62.067366226877
+(S1 (S (NP (PRP they)) (VP (VBP 're) (S (VP (NP (NNS teachers)))))))
+-19.920696969718 -64.241515529928
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (NP (NNS teachers))))))))
+-20.259904975587 -59.811780601755
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (S (ADJP (NNS teachers)))))))
+-21.545278841321 -74.233676147766
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (NP (NNS teachers)))))
+-22.363378600709 -71.991786066003
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (NP (NNS teachers))))))
+-25.324252775397 -82.965462817022
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (VP (NNS teachers)))))
+-25.644709752801 -81.359707371311
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (S (NP (NNS teachers))))))
+-25.809497724818 -86.616760103840
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (VP (NP (NNS teachers))))))
+-26.132471734784 -80.723572735259
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (VP (NNS teachers))))))
+-26.226738558227 -84.169765171198
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (S (VP (NNS teachers))))))
+-26.421967912189 -79.117817289548
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (S (NP (NNS teachers)))))))
+-26.617716684206 -84.374870022077
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (VP (NP (NNS teachers)))))))
+-26.923525287447 -87.412866705337
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (ADJP (NNS teachers)))))
+-27.003996717615 -81.927875089434
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (S (VP (NNS teachers)))))))
+-27.276143152585 -85.121234821640
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (NP (NNS teachers)))))))
+-27.546267601241 -86.340246240903
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (NNS teachers)))))))
+-27.921802544047 -85.170976623574
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (ADJP (NNS teachers))))))
+-28.106812211972 -82.879344739877
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (NP (NNS teachers))))))))
+-28.252953836890 -87.794106969794
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (S (ADJP (NNS teachers))))))
+-28.376936660629 -84.098356159139
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (NNS teachers))))))))
+-28.441647979135 -93.854717578342
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (S (VP (NP (NNS teachers)))))))
+-29.030211996277 -85.552216888031
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (S (ADJP (NNS teachers)))))))
+-29.218906138522 -91.612827496579
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (S (VP (NP (NNS teachers))))))))
+-29.794909667228 -96.025198648047
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (NP (NNS teachers))))))))
+-30.134117673098 -91.595463719875
+(S1 (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (ADJP (NNS teachers)))))))
+-30.625578726616 -93.783308566284
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (NP (NNS teachers)))))))))
+-30.964786732486 -89.353573638112
+(S1 (S (NP (NP (PRP they)) (VP (VBP 're) (SBAR (S (ADJP (NNS teachers))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-9.455022931308 -36.286757158810
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-10.892400500590 -42.368257828772
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))
+-11.713643592086 -40.613201242423
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-12.765753069832 -45.200394652598
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-12.814433314618 -47.194060096303
+(S1 (S (DT That) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-13.407560374854 -43.884453604218
+(S1 (SBAR (DT That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-13.407613489639 -42.505323312735
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))))
+-13.463586680351 -42.386718143435
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-13.688088190735 -45.459845586741
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-13.796779389427 -50.289914724775
+(S1 (SBAR (IN That) (S (VP (POS 's) (NP (DT a) (JJ good) (NN idea))))))
+-13.831064317437 -42.949632316036
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-13.982158095094 -43.385683061216
+(S1 (S (NP (IN That)) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))
+-14.030383504378 -45.329536296092
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-14.069617839174 -52.900833604387
+(S1 (S (DT That) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))
+-14.088748894296 -45.611543817616
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))))
+-14.163223374056 -48.714955448790
+(S1 (SBAR (WHNP (WDT That)) (S (VP (POS 's) (NP (DT a) (JJ good) (NN idea))))))
+-14.375834969144 -43.960888168960
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-14.395974911991 -48.422350541463
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-14.588978219591 -47.517550543182
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-14.740890329342 -46.938873429826
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-14.928084614473 -49.973171927808
+(S1 (FRAG (SBAR (IN That) (S (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))))
+-15.016324817095 -49.966390344492
+(S1 (PP (IN That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-15.071188138416 -52.473460018223
+(S1 (PP (IN That) (S (VP (POS 's) (NP (DT a) (JJ good) (NN idea))))))
+-15.096921448212 -48.325475420711
+(S1 (S (RB That) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-15.183007376876 -48.218371599224
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-15.212904943754 -50.252203146303
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-15.289377227974 -47.296371523426
+(S1 (S (NP (WDT That)) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))
+-15.376909487719 -52.637769192216
+(S1 (SBAR (DT That) (S (VP (POS 's) (NP (DT a) (JJ good) (NN idea))))))
+-15.521957323037 -51.762318065443
+(S1 (S (WHNP (WDT That)) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))
+-15.824944464321 -50.555290452965
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))))
+-15.928528824994 -50.776764865219
+(S1 (FRAG (NP (DT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-16.203301607117 -52.459332912610
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))))
+-16.385848671057 -53.550350237394
+(S1 (S (PP (IN That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))))
+-16.390363276951 -52.978150903139
+(S1 (S (RB That) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))
+-16.399881902053 -52.108095369992
+(S1 (NP (IN That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-16.408285624553 -53.079838449251
+(S1 (FRAG (NP (DT That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-16.434822607518 -54.180163544585
+(S1 (FRAG (S (NP (DT That)) (VP (POS 's) (NP (DT a) (JJ good) (NN idea))))))
+-16.569163370671 -51.974434339476
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))))
+-16.576966977753 -52.761820350927
+(S1 (FRAG (PP (IN That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))))
+-16.642899551408 -49.945363632433
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ good)) (NN idea)))))
+-16.705306275921 -52.357095973864
+(S1 (FRAG (WHNP (WDT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-17.008585585985 -52.538603781099
+(S1 (FRAG (SBAR (WDT That) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))))
+-17.153787631110 -52.510477056848
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))))
+-17.704624285269 -49.113556698965
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-18.014615299058 -51.948805444322
+(S1 (FRAG (NP (WDT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-18.052951446589 -50.092205934335
+(S1 (FRAG (S (NP (WDT That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-18.097167776204 -54.251879028353
+(S1 (FRAG (NP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+-18.220330494219 -53.166759782425
+(S1 (FRAG (SBAR (S (NP (IN That)) (VP (POS 's) (NP (DT a) (JJ good) (NN idea)))))))
+-18.835818175867 -52.779712229670
+(S1 (FRAG (NP (IN That)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))
+-18.863268804974 -54.271807716046
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (JJ good)) (NN idea))))))
+

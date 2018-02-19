@@ -1,0 +1,102 @@
+50 x
+-29.344233018654 -102.900067871538
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-30.497695822771 -108.251554652826
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (ADVP (RB well)) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-30.858738463840 -108.929156209350
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (INTJ (UH well)) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-31.360945821436 -111.727525927145
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (RB well) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-31.434247691797 -104.564857312044
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-31.443418310619 -109.701157198003
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (INTJ (RB well)) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-31.462606779416 -108.154227839697
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-32.267693426949 -108.292263351158
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NP (RB well)) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-32.447540080780 -106.506016183936
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-32.662037500535 -111.967688751000
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-32.687588490499 -111.620795325805
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (NN well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-32.761658250390 -110.114015745717
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-32.769992622781 -105.843780934061
+(S1 (S (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (RB well) (DT this))))) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))
+-32.881231197966 -110.058677795786
+(S1 (S (CC and) (S (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-32.895311502719 -108.766975267662
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (QP (RB well) (DT this))) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-33.055561574026 -110.764326443053
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NP (NN well)) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-33.079922306976 -112.232622078987
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-33.251635674848 -111.440962517717
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NN kind)) (SBAR (IN of) (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-33.393705706064 -109.906612229820
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of))) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-33.607374003146 -110.988270181496
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (ADVP (RB well)) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-33.607880912701 -110.867642813598
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NP (RB well) (DT this)) (SBAR (S (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-33.714118577019 -111.857502913066
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (SBAR (IN like) (S (ADVP (RB well)) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-33.736902900791 -111.286025178448
+(S1 (FRAG (CC and) (ADVP (RB now)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-33.837046580318 -107.397047700417
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (JJ like) (NN well))) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-33.876688748795 -112.248383058072
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (S (VP (NN well) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))))
+-33.880826247008 -111.567075825195
+(S1 (S (CC and) (RB now) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-33.908289063843 -112.535104583712
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (SBAR (IN like) (S (INTJ (UH well)) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-34.148281840080 -108.636843786484
+(S1 (FRAG (CC and) (RB now) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-34.231391651445 -110.517315003799
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (ADVP (RB well))) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-34.291054671917 -110.727301071417
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (SBAR (IN like) (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-34.328256538278 -113.065205775979
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN well) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-34.418022752974 -111.199311673900
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (RB well))) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-34.783350335855 -109.675932581200
+(S1 (S (ADVP (CC and) (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-34.848148710051 -112.316210893184
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (ADVP (IN like) (RB well)) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-34.850208899232 -111.765204214080
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (RB well)) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-34.934093033231 -111.723467086052
+(S1 (S (CC and) (S (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-35.070098967387 -110.385312970587
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (JJ like)))) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-35.131104038884 -111.106765493516
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (JJ like) (NN well)) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))))
+-35.144426878076 -111.782931550750
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (JJ like) (NN well)))) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))
+-35.358160105721 -111.466777109777
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of))) (PP (IN like) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-35.431693133293 -112.921154626417
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (S (PP (IN like) (ADVP (RB well))) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))
+-35.810068738933 -112.950814564259
+(S1 (FRAG (CC and) (ADVP (RB now)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))))
+-35.998618564844 -112.372923580061
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (SBAR (IN like) (S (NP (QP (RB well) (DT this))) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))
+-36.110361363223 -110.301633172296
+(S1 (FRAG (CC and) (RB now) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))))
+-36.148226322453 -111.186121341871
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (VP (VB like) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-36.427032389490 -113.053615655154
+(S1 (S (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (ADJP (RB well) (DT this))))) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))
+-36.650488748827 -112.745700593084
+(S1 (S (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of))) (PP (IN like) (NP (RB well) (DT this))))) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))
+-36.718579799421 -112.850913277030
+(S1 (S (CC and) (ADVP (RB now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NP (NN kind)) (PP (IN of) (NP (JJ like) (NN well)))) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-36.873365008998 -111.340722021707
+(S1 (S (ADVP (CC and) (RB now)) (NP (PRP it)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (PP (IN like) (SBAR (RB well) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week)))))))))
+-37.136184902206 -112.242792092215
+(S1 (FRAG (CC and) (RB now) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (SBAR (IN like) (S (NP (RB well) (DT this)) (VP (VBZ is) (NP (DT the) (JJ last) (NN week))))))))))))
+

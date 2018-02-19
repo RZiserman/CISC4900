@@ -1,0 +1,102 @@
+50 x
+-10.476177694325 -42.104639209127
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-11.513062795390 -40.632239318862
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-12.864557313936 -49.263993504160
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VB know) (NP (PRP you))))))
+-14.187517911708 -48.817766656734
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VB know) (NP (PRP you)))))))
+-14.379573736845 -48.302174405554
+(S1 (S (IN Because) (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))
+-14.817975323745 -49.245073104852
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-14.870536251689 -49.643792723349
+(S1 (FRAG (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-15.080413548665 -50.781713461159
+(S1 (S (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-15.634306262202 -49.973653067855
+(S1 (S (RB Because) (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))
+-15.782283240798 -47.173766753368
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-15.843824909078 -51.952919511194
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP you)))))))
+-15.872532098685 -49.766264144495
+(S1 (FRAG (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-16.005729100856 -53.418316579542
+(S1 (S (ADVP (RB Because)) (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))
+-16.014518280673 -55.102226228142
+(S1 (PP (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-16.316497752110 -56.615426203570
+(S1 (PP (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-16.409318519885 -50.190811557260
+(S1 (S (RB Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-16.434622644762 -54.963958586453
+(S1 (FRAG (SBAR (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))))
+-16.497844060318 -59.276226931427
+(S1 (SBAR (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-16.574352459183 -53.325661929520
+(S1 (S (X (IN Because)) (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))
+-16.804461093217 -55.364883356758
+(S1 (S (IN Because) (NP (PRP you)) (VP (VB know) (NP (PRP you)))))
+-16.846994327568 -52.988942855037
+(S1 (S (ADVP (RB Because)) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-16.880710010144 -50.480519620929
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP you))))))))
+-17.158913472385 -56.204213278230
+(S1 (FRAG (PP (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))))
+-17.267299025079 -55.323451862058
+(S1 (FRAG (RB Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-17.288266349587 -54.930039652766
+(S1 (ADJP (RB Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-17.344258209194 -59.163631699543
+(S1 (PP (IN Because) (S (NP (PRP you)) (VP (VB know) (NP (PRP you))))))
+-17.390898627553 -57.606698810567
+(S1 (SBAR (RB Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-17.403562223608 -56.144788201554
+(S1 (S (ADJP (RB Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))))
+-17.404278858389 -58.134375926183
+(S1 (S (VP (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-17.550800446414 -57.654267308369
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VB know) (NP (PRP you))))))
+-17.587322431367 -59.300359654738
+(S1 (PP (IN Because) (SBAR (S (NP (PRP you)) (VP (VB know) (NP (PRP you)))))))
+-17.686927142188 -57.406866844228
+(S1 (FRAG (PP (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-17.745986570484 -57.914604189209
+(S1 (FRAG (IN Because) (SBAR (S (NP (PRP you)) (VP (VB know) (NP (PRP you)))))))
+-17.809829515111 -59.235282705879
+(S1 (SINV (PP (IN Because) (NP (PRP you))) (VP (VB know)) (NP (PRP you))))
+-17.912764140130 -56.389142398420
+(S1 (S (RB Because) (NP (PRP you)) (VP (VB know) (NP (PRP you)))))
+-17.921406453198 -58.594325800787
+(S1 (S (ADVP (RB Because)) (NP (PRP you)) (VP (VB know) (NP (PRP you)))))
+-18.168913954253 -56.199957863115
+(S1 (S (ADVP (IN Because)) (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))
+-18.305908080370 -59.599408868103
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VB know) (S (NP (PRP you)))))))
+-18.323597477191 -58.508412620856
+(S1 (FRAG (PP (IN Because) (SBAR (S (NP (PRP you)) (VP (VB know) (NP (PRP you))))))))
+-18.373826050965 -55.770584138609
+(S1 (S (ADVP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))
+-18.387871597935 -57.910471467149
+(S1 (FRAG (IN Because) (S (NP (PRP you)) (VP (VB know) (NP (PRP you))))))
+-18.638145037393 -56.595235554469
+(S1 (FRAG (ADJP (RB Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP you))))))))
+-18.697471114532 -58.219793340755
+(S1 (FRAG (VP (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-18.801183901991 -56.609134157673
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VB know) (NP (PRP you)))))))
+-18.934740340357 -58.245215755622
+(S1 (FRAG (SBAR (RB Because) (S (NP (PRP you)) (VP (VBP know) (NP (PRP you)))))))
+-19.628868675354 -59.153182020677
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VB know) (S (NP (PRP you))))))))
+-19.783129459297 -58.150454626849
+(S1 (S (IN Because) (NP (PRP you)) (VP (VBP know) (S (NP (PRP you))))))
+-20.185622541286 -59.093353406919
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP you)))))))
+-20.472937637230 -59.492073025416
+(S1 (FRAG (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP you))))))))
+-21.149930458340 -57.022047055435
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP you))))))))
+

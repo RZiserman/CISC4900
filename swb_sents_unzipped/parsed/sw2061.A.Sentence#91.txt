@@ -1,0 +1,102 @@
+50 x
+-30.792303468975 -109.215579341638
+(S1 (S (PP (IN In) (S (NP (PRP I)) (NP (NNP B) (NNP M)))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-31.006822162778 -110.126645776926
+(S1 (S (PP (IN In) (NP (NNP I) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-31.645279944291 -110.341383343457
+(S1 (S (PP (IN In) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M))))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-31.766270065124 -112.973101739347
+(S1 (S (PP (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M))))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-31.941932382928 -111.965332014379
+(S1 (S (PP (IN In) (S (NP (PRP I)) (ADJP (NNP B) (NNP M)))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-32.098046115468 -110.194673869655
+(S1 (S (PP (IN In) (NP (NP (PRP I)) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-32.211549634146 -113.149601637116
+(S1 (SBAR (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))))
+-32.749797127733 -110.986872689558
+(S1 (S (PP (IN In) (NP (PRP I) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-32.750424487334 -112.751764073230
+(S1 (S (PP (IN In) (NP (NN I) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-33.057639405006 -114.119695946907
+(S1 (SBAR (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))))
+-33.315533038529 -112.200950984519
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))))))
+-33.439853279854 -114.719480309249
+(S1 (S (PP (IN In) (NP (NP (NNP I)) (NP (NNP B) (NNP M)))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-33.622402277887 -117.129671134047
+(S1 (S (PP (IN In) (NP (NN I) (NN B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-33.626327891659 -117.239430522918
+(S1 (S (PP (IN In) (NP (NNP I))) (NP (NNP B) (NNP M) (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-33.705642268371 -114.790394669207
+(S1 (SBAR (IN In) (S (NP (NP (PRP I)) (NP (NNP B) (NNP M) (PRP you))) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-33.757189449698 -114.888034391293
+(S1 (S (IN In) (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))))
+-33.843192629333 -115.865863215536
+(S1 (SBAR (IN In) (S (NP (NP (PRP I)) (NNP B) (NNP M) (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-33.889758455096 -114.688287843259
+(S1 (SBAR (IN In) (S (NP (PRP I)) (X (X (SYM B)) (NP (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-34.009900941623 -115.871064558951
+(S1 (S (X (IN In) (NP (PRP I)) (X (SYM B)) (NP (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))
+-34.031741567770 -113.441039483460
+(S1 (S (PP (IN In) (S (NP (PRP I)) (NP (NNP B) (NNP M)))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-34.108798525744 -116.692045504928
+(S1 (SBAR (IN In) (S (NP (PRP I)) (NP (NNP B) (NNP M) (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-34.246260233696 -114.352105918749
+(S1 (S (PP (IN In) (NP (NNP I) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-34.248915838389 -113.171045294310
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))))
+-34.354798826557 -115.858128701084
+(S1 (S (IN In) (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-34.629263548500 -116.081045746046
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (X (SYM B) (NP (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-34.714577519668 -117.181037732658
+(S1 (PP (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))))
+-34.738998184107 -117.155578726761
+(S1 (SBAR (IN In) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))))
+-34.775207135702 -113.405156124086
+(S1 (FRAG (SBAR (IN In) (S (NP (NP (PRP I)) (NP (NNP B) (NNP M) (PRP you))) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-34.884718043086 -114.566843485280
+(S1 (S (PP (IN In) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M))))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-34.912757524541 -114.480624670415
+(S1 (FRAG (SBAR (IN In) (S (NP (NP (PRP I)) (NNP B) (NNP M) (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-34.941509468084 -114.962168411878
+(S1 (S (IN In) (NP (PRP I)) (VP (NNP B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-34.959323350305 -113.303049298138
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (X (X (SYM B)) (NP (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-35.005708163920 -117.198561881169
+(S1 (S (PP (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M))))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-35.178363420953 -115.306806959808
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (NP (NNP B) (NNP M) (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-35.181370481724 -116.190792156202
+(S1 (S (PP (IN In) (S (NP (PRP I)) (ADJP (NNP B) (NNP M)))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-35.218013725044 -114.935172158325
+(S1 (FRAG (PP (IN In) (NP (NNP I))) (X (SYM B)) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-35.275104809616 -116.048203994136
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (VP (NP (NNP B) (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))))
+-35.327464934192 -117.174547976797
+(S1 (FRAG (PP (IN In) (NP (PRP I))) (NP (NNP B) (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-35.335071049572 -116.006095638856
+(S1 (FRAG (PP (IN In) (NP (PRP I))) (X (SYM B)) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-35.337484186386 -114.420134011478
+(S1 (S (PP (IN In) (NP (NP (PRP I)) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-35.527027683666 -115.715399702279
+(S1 (PP (IN In) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))))
+-35.596805596942 -117.375061778938
+(S1 (SBAR (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))))))
+-35.844543101875 -116.144761241176
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (X (SYM B)) (X (NNP M)) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-35.948095286286 -116.270852088856
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (VP (NNP B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))))
+-35.989235198651 -115.212332831381
+(S1 (S (PP (IN In) (NP (PRP I) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-35.989862558252 -116.977224215053
+(S1 (S (PP (IN In) (NP (NN I) (NNP B) (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))
+-36.087931191785 -116.103624496266
+(S1 (FRAG (PP (IN In) (NP (NNP I))) (NP (NNP B) (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points)))))))
+-36.251801785474 -116.942751708482
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (X (SYM B)) (X (NP (NNP M))) (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (JJ certain) (NNS points))))))))
+-36.700788973447 -116.426411126341
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points))))))))))))
+-37.549387993307 -117.396505436133
+(S1 (FRAG (SBAR (IN In) (S (NP (PRP I)) (VP (SYM B) (NP (NNP M)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (JJ certain) (NNS points)))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-25.083356995601 -84.924161674400
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (X (WP what)))))
+-25.090093798385 -82.611001648336
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what)))))
+-26.023014379630 -81.543991126300
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (X (WP what))))))
+-26.029751185202 -79.230831121950
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what))))))
+-26.163124370585 -88.074555948402
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (X (WP what)))))
+-26.550600892805 -88.423568705501
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you) (WP what)))))
+-26.606627975989 -87.708350045870
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what)))))
+-26.617485020193 -86.740716142075
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (FRAG (WP what)))))
+-26.617791690388 -86.612052585393
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (NP (WP what))))))
+-26.944565765396 -87.925181327887
+(S1 (S (CC and) (S (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (X (WP what))))))
+-27.009795345878 -85.612021227064
+(S1 (S (CC and) (S (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what))))))
+-27.097386301960 -87.385349913211
+(S1 (S (CC and) (S (INTJ (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (X (WP what))))))
+-27.259853222221 -86.123856328502
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (X (WP what)))))))
+-27.300079336143 -79.497154508739
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WP what))))
+-27.304233063171 -86.378780039805
+(S1 (S (CC and) (ADVP (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what)))))
+-27.372876547997 -85.921062407412
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (X (WP what))))))
+-27.384335926672 -87.379815831952
+(S1 (S (FRAG (CC and) (INTJ (UH boy))) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (X (WP what)))))
+-27.391072729456 -85.066655805888
+(S1 (S (FRAG (CC and) (INTJ (UH boy))) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what)))))
+-27.473981573910 -87.019143886372
+(S1 (S (CC and) (S (INTJ (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what))))))
+-27.490258285198 -85.043398200397
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you) (WP what))))))
+-27.557142387496 -83.360545542818
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (FRAG (WP what))))))
+-27.557449082780 -83.231882080290
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (NP (WP what)))))))
+-27.604412421481 -86.744762260243
+(S1 (FRAG (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (X (WP what)))))
+-27.668966116936 -87.286103405746
+(S1 (FRAG (CC and) (INTJ (UH boy)) (SBAR (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what)))))))
+-27.816380117160 -85.554856380573
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what))))))
+-27.865294960096 -88.243604177611
+(S1 (S (CC and) (ADVP (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what)))))
+-27.956422968359 -85.736758915579
+(S1 (FRAG (CC and) (INTJ (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what)))))
+-28.006180014531 -88.135705382049
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (WP what))))))
+-28.091296701375 -87.542108618304
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (SBAR (WDT what))))))
+-28.129793795812 -86.792305151361
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WDT what))))))
+-28.175952136310 -83.398770591084
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WDT what))))
+-28.178098924099 -88.193999095990
+(S1 (FRAG (CC and) (S (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (X (WP what))))))
+-28.184835729671 -85.880839091640
+(S1 (FRAG (CC and) (S (INTJ (UH boy)) (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what))))))
+-28.236918537456 -84.501416165634
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (WP what)))
+-28.605077396249 -82.023354261742
+(S1 (FRAG (CC and) (INTJ (UH boy)) (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (WP what))))
+-28.612936544336 -84.552726665600
+(S1 (FRAG (CC and) (NP (NN boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WP what))))
+-28.613574407560 -81.727599051917
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (FRAG (WP what))))
+-28.906179242596 -88.020100735646
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you) (NP (WP what)))))))
+-28.986915063878 -86.017078557514
+(S1 (FRAG (CC and) (INTJ (UH boy)) (FRAG (NP (PRP I)) (VP (VB tell) (NP (PRP you))) (WP what))))
+-29.537071555820 -84.019245516991
+(S1 (FRAG (CC and) (INTJ (UH boy)) (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WP what)))))
+-29.544530145765 -86.186579390192
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (NP (WP what))))
+-29.600005228996 -88.244451601617
+(S1 (FRAG (CC and) (INTJ (UH boy)) (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what)))))))
+-29.721497641504 -84.791608762774
+(S1 (FRAG (CC and) (FRAG (NP (NN boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WP what)))))
+-29.765615061259 -87.878080051809
+(S1 (FRAG (NP (CC and) (NN boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WP what))))
+-30.053883067192 -87.138077316999
+(S1 (FRAG (CC and) (FRAG (NP (NN boy)) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (WP what))))
+-30.131116226304 -86.032388938815
+(S1 (FRAG (CC and) (INTJ (UH boy)) (FRAG (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (WP what))))
+-30.834361748181 -88.417023933370
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (FRAG (WP what))))
+-31.032396303088 -88.028280194063
+(S1 (FRAG (CC and) (INTJ (UH boy)) (FRAG (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (NP (WP what)))))
+-31.060844602953 -88.434001841659
+(S1 (FRAG (X (CC and) (S (INTJ (UH boy)) (NP (PRP I)) (VP (VB tell) (NP (PRP you))))) (NP (WP what))))
+-31.280304586420 -87.779188193848
+(S1 (FRAG (CC and) (INTJ (UH boy)) (FRAG (NP (PRP I)) (S (VP (VB tell) (NP (PRP you)))) (NP (WP what)))))
+

@@ -1,0 +1,102 @@
+50 x
+-9.716246498277 -31.574159974877
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADJP (JJ clear)))))
+-10.655765025021 -33.578236506065
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB not) (JJ clear)))))
+-12.279183343488 -43.401470686329
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB not) (ADJP (JJ clear)))))
+-12.396548465119 -38.859580413691
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB not) (JJ clear)))))
+-12.797845236390 -42.887234747030
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADVP (RB clear)))))
+-14.301248730034 -45.919518403839
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VB clear)))))
+-14.360558811581 -44.739395022617
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (JJ clear)))))
+-14.586436848805 -49.255588532031
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB not) (VP (VB clear)))))
+-14.961011518079 -45.085653173928
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (JJ clear)))))
+-15.158135987585 -47.120199934773
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADJP (RB clear)))))
+-15.508087742425 -48.755955589510
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB not) (RB clear)))))
+-15.519205494208 -45.647225711978
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADVP (JJ clear)))))
+-15.555274185403 -47.239803110247
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB not)) (ADJP (JJ clear)))))
+-15.556754407378 -47.044790193327
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (RB not) (JJ clear))))))
+-15.666716200186 -49.841930973236
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (VB clear)))))
+-15.722769171035 -49.682620613288
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB not) (RB clear)))))
+-15.987203082214 -51.602013416923
+(S1 (S (NP (PRP It)) (VBZ 's) (ADJP (RB not) (JJ clear))))
+-16.019448676140 -48.548363030614
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (RB not) (ADJP (JJ clear))))))
+-16.049243802017 -52.883298430475
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB not) (VP (JJ clear)))))
+-16.116796203172 -47.947913336506
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB not) (JJ clear)))))
+-16.243023870072 -51.440558499090
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADJP (VB clear)))))
+-16.294180781066 -47.003347526928
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (RB not) (JJ clear))))))
+-16.507321718621 -50.612438635747
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB not) (RB clear)))))
+-16.708949993035 -50.709368978632
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB not) (JJ clear)))))
+-16.793531427557 -48.993517476578
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (RB not) (JJ clear))))
+-17.017709666017 -53.948755762751
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB not) (VB clear)))))
+-17.118157873914 -50.800361246915
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (QP (RB not) (JJ clear))))))
+-17.132092429936 -56.075344360441
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB not) (ADJP (RB clear)))))
+-17.183803021502 -54.075673786830
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB not) (VB clear)))))
+-17.269902778192 -51.999254876286
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB not) (RB clear)))))
+-17.420635003273 -49.967974062872
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (RB not)) (JJ clear)))))
+-17.530127233972 -56.271395602795
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (RB not) (ADJP (JJ clear)))))))
+-17.690427578037 -55.865004716994
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB not)) (ADJP (JJ clear)))))
+-17.932922459320 -53.305875253011
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (QP (RB not) (JJ clear))))))
+-18.026559678312 -55.121736191072
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (RB not) (VP (VB clear))))))
+-18.165373969351 -57.936431486362
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (RB not) (VB clear))))))
+-18.401292624870 -57.894861042698
+(S1 (S (NP (PRP It) (POS 's)) (ADJP (RB not) (JJ clear))))
+-18.425935347378 -57.570813448455
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (RB not) (VB clear))))))
+-18.503997956450 -54.954676292128
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (RB not) (VP (VB clear))))))
+-18.513352935844 -53.246278307966
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADJP (RB not) (JJ clear))))))
+-18.576068266688 -56.995352590865
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (RB not) (ADJP (JJ clear)))))))
+-18.723726362762 -57.443579717268
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (RB not) (VP (JJ clear))))))
+-18.853564199202 -55.225316102984
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (RB not) (JJ clear))))))
+-19.242978272135 -55.021809389336
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADVP (RB not)) (JJ clear)))))
+-19.295000429580 -55.715898097542
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (ADJP (RB not) (JJ clear))))))
+-19.404896197185 -53.907994820936
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (RB not) (JJ clear))))))
+-19.501690577519 -56.709862717456
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (RB not) (VP (VB clear)))))))
+-20.030299611199 -58.065054713937
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB not)) (JJ clear)))))
+-20.073003631697 -57.601387391160
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (RB not) (VP (VB clear)))))))
+-20.160919638106 -57.887136845073
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB not)) (VP (JJ clear)))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.650254625765 -72.605495769289
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-22.197353823530 -71.904776467568
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))
+-22.833761482354 -73.839762196908
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NP (NN everyone) (VBZ 's)) (NP (DT a) (NN manager)))))
+-22.931693942504 -70.089685495181
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-23.133395058002 -73.499891711009
+(S1 (S (CC and) (ADVP (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-23.218327741221 -72.530294250012
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-23.293022763226 -71.275505220787
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-23.574746940963 -75.541278900467
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-23.629548392545 -79.160826986065
+(S1 (S (CC and) (NP (UH uh) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-23.719119145667 -77.116144988247
+(S1 (S (CC and) (INTJ (UH uh)) (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))
+-24.302294266950 -76.989664655013
+(S1 (SINV (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone))) (VP (VBZ 's)) (NP (DT a) (NN manager))))
+-24.498091742064 -78.012204780963
+(S1 (S (CC and) (NP (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-24.553839241813 -77.890068544783
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))
+-24.798140934873 -81.994842522253
+(S1 (S (CC and) (NP (UH uh) (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))
+-25.138160438349 -80.095754261665
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone)) (S (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-25.204471267838 -79.083784488026
+(S1 (S (CC and) (S (INTJ (UH uh)) (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager))))))
+-25.312681281521 -83.122320125409
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone) (POS 's) (NP (DT a) (NN manager)))))
+-25.415614879128 -78.805375801526
+(S1 (S (CC and) (ADVP (UH uh)) (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))
+-25.479670113910 -80.991117599137
+(S1 (S (CC and) (S (NP (UH uh) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-25.505067971252 -76.786222484157
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))
+-25.523671933430 -78.845109636357
+(S1 (FRAG (CC and) (S (INTJ (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-25.543907564206 -81.731885986133
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-25.545302831218 -82.286289415096
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone) (S (VP (POS 's) (NP (DT a) (NN manager)))))))
+-25.688242108210 -81.196409410263
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone) (VBZ 's)) (NP (DT a) (NN manager))))
+-25.706596859781 -77.613135560333
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager))))))
+-25.825709874987 -82.681813765286
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone) (S (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-26.068709971728 -77.591693897454
+(S1 (FRAG (CC and) (ADVP (UH uh)) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-26.146090806559 -84.297701588181
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager))))))))
+-26.271994526021 -85.008705881635
+(S1 (S (CC and) (NP (NNP uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-26.292530056791 -82.243194522038
+(S1 (S (CC and) (NP (NP (UH uh)) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-26.434324483497 -81.145376981989
+(S1 (S (FRAG (CC and) (INTJ (UH uh))) (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))
+-26.499405925467 -83.819602137528
+(S1 (FRAG (CC and) (ADVP (UH uh)) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))
+-26.541103297253 -83.752625095317
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone)) (S (VP (POS 's) (NP (DT a) (NN manager))))))
+-26.554656604748 -81.642695028355
+(S1 (S (CC and) (S (ADVP (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-26.783090924731 -82.087788999687
+(S1 (FRAG (CC and) (S (NP (UH uh) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-26.955790997618 -82.888850191917
+(S1 (FRAG (CC and) (SBAR (S (INTJ (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-26.978560858640 -84.597251632569
+(S1 (S (CC and) (ADVP (UH uh)) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))
+-27.035093886521 -83.845738229627
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone)) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager)))))))
+-27.060792929135 -84.355196449473
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-27.074770549068 -83.248479060160
+(S1 (S (CC and) (SBAR (S (INTJ (UH uh)) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-27.139938228655 -84.493112236717
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NN everyone)) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-27.363257009051 -84.538237780281
+(S1 (S (CC and) (ADVP (UH uh)) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-27.442319778813 -84.960340123599
+(S1 (FRAG (CC and) (SBAR (S (NP (UH uh) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-27.832339285565 -84.033418615907
+(S1 (FRAG (CC and) (S (INTJ (UH uh)) (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager))))))
+-28.166048114088 -84.073485353928
+(S1 (S (CC and) (S (NP (NP (UH uh)) (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))
+-28.189274804358 -82.852588881535
+(S1 (FRAG (CC and) (ADVP (UH uh)) (SBAR (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))
+-28.414013144633 -85.088889486306
+(S1 (FRAG (CC and) (SBAR (S (INTJ (UH uh)) (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))
+-28.471567699759 -85.065380054291
+(S1 (FRAG (CC and) (INTJ (UH uh)) (NP (NP (NN everyone) (VBZ 's)) (SBAR (S (NP (DT a) (NN manager)))))))
+-29.222290435129 -83.761213487420
+(S1 (FRAG (CC and) (INTJ (UH uh)) (S (NP (NN everyone)) (VP (VBZ 's) (S (NP (DT a) (NN manager)))))))
+-29.913689875365 -84.947033284866
+(S1 (FRAG (CC and) (INTJ (UH uh)) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (S (NP (DT a) (NN manager))))))))
+

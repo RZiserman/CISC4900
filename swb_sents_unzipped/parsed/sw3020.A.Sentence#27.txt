@@ -1,0 +1,102 @@
+50 x
+-24.635419793655 -87.582107077415
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (NP (PRP we)) (VP (VBD froze))))
+-25.136285812602 -90.177747912961
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN days)))) (NP (PRP we)) (VP (VBD froze))))
+-25.169415516270 -93.772041215444
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NN days)) (NP (PRP we))))) (VP (VBD froze))))
+-25.784417275210 -94.520075336336
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS days)) (NP (PRP we))))) (VP (VBD froze))))
+-26.364083895236 -97.542529524902
+(S1 (PP (IN in) (S (VP (NN fact) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS days)) (SBAR (S (NP (PRP we)) (VP (VBD froze)))))))))))
+-26.460912346705 -93.077807942892
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days))) (NP (PRP we)) (VP (VBD froze))))
+-26.767153065150 -95.062553026403
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (RB some)) (PP (IN of) (NP (DT the) (NNS days)))) (NP (PRP we)) (VP (VBD froze))))
+-26.847919432133 -98.421197093436
+(S1 (PP (IN in) (NP (NN fact)) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS days)) (SBAR (S (NP (PRP we)) (VP (VBD froze)))))))))
+-27.009307032111 -91.516540446596
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (VP (VBP we) (VP (VBD froze)))))
+-27.239031973097 -97.658193861948
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (RB some)) (PP (IN of) (NP (DT the) (NN days)))) (NP (PRP we)) (VP (VBD froze))))
+-27.701671087619 -96.236001949397
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (NP (PRP we))) (VP (VBD froze))))
+-27.725698394057 -94.112181282142
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN days)))) (VP (VBP we) (VP (VBD froze)))))
+-27.805293617544 -97.154201517984
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (DT some)) (PP (IN of) (NP (DT the) (NN days))) (NP (PRP we)) (VP (VBD froze))))
+-27.985784727962 -97.928294381460
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days))) (NP (PRP we))) (VP (VBD froze))))
+-28.145497056566 -98.831642784942
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN days)))) (NP (PRP we))) (VP (VBD froze))))
+-28.766953744086 -94.959659884970
+(S1 (S (PP (IN in) (NP (NN fact) (SBAR (WHNP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-28.911563666367 -98.963645395936
+(S1 (S (PP (IN in) (NP (NP (NN fact)) (SBAR (WHNP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-28.918843844080 -94.626438102691
+(S1 (S (PP (IN in) (NP (NN fact))) (PP (RB some) (IN of) (NP (DT the) (NNS days))) (NP (PRP we)) (VP (VBD froze))))
+-29.286271117830 -99.742275163595
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (RB some)) (PP (IN of) (NP (DT the) (NNS days))) (NP (PRP we))) (VP (VBD froze))))
+-29.425372670441 -98.396305290818
+(S1 (S (PP (IN in) (NP (NN fact))) (PP (DT some) (IN of) (NP (DT the) (NNS days))) (NP (PRP we)) (VP (VBD froze))))
+-29.461426182293 -99.442598449507
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (RB some)) (PP (IN of) (NP (DT the) (NNS days))) (NP (PRP we)) (VP (VBD froze))))
+-29.485200678094 -96.718028259718
+(S1 (PP (IN in) (NP (NN fact) (SBAR (WHNP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze)))))))
+-29.741124226295 -98.089522687408
+(S1 (FRAG (PP (IN in) (NP (NP (NN fact)) (SBAR (WHNP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-29.782980133511 -94.570679270804
+(S1 (FRAG (PP (IN in) (NP (NN fact) (SBAR (WHNP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-29.933731950980 -97.616285523827
+(S1 (FRAG (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze)))))
+-29.963088413341 -99.249319947949
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (VP (VBP we) (S (VP (VBD froze))))))
+-30.092197244919 -98.702831677783
+(S1 (S (PP (IN in) (NP (NN fact))) (PP (RB some) (IN of) (NP (DT the) (NN days))) (NP (PRP we)) (VP (VBD froze))))
+-30.131555223321 -99.698356334501
+(S1 (S (PP (IN in) (NP (NN fact))) (PRN (ADVP (RB some)) (PP (IN of) (NP (DT the) (NNS days)))) (NP (PRP we)) (VP (VBD froze))))
+-30.167877109391 -98.265257014199
+(S1 (S (PP (IN in) (NP (NN fact) (SBAR (WHNP (NP (DT some)) (PP (IN of) (NP (DT the) (NN days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-30.256469796160 -98.756203803076
+(S1 (S (PP (IN in) (NP (NN fact))) (PP (NP (DT some)) (IN of) (NP (DT the) (NNS days))) (NP (PRP we)) (VP (VBD froze))))
+-30.322505750046 -96.669796847969
+(S1 (S (PP (IN in) (NP (NP (NN fact)) (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days))))) (NP (PRP we)) (VP (VBD froze))))
+-30.343744326201 -97.447912531839
+(S1 (S (PP (IN in) (NP (NP (NN fact)) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN days)))))) (NP (PRP we)) (VP (VBD froze))))
+-30.369544860641 -99.351811755238
+(S1 (FRAG (PP (IN in) (NP (NN fact))) (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days))) (S (NP (PRP we)) (VP (VBD froze)))))
+-30.408182898993 -99.265437683514
+(S1 (S (PP (IN in) (NP (NP (NN fact)) (NP (DT some)) (PP (IN of) (NP (DT the) (NN days))))) (NP (PRP we)) (VP (VBD froze))))
+-30.413664088254 -94.852271696294
+(S1 (S (PP (IN in) (NP (NP (NN fact)) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))))) (NP (PRP we)) (VP (VBD froze))))
+-30.526348760546 -98.203044273465
+(S1 (S (PP (IN in) (S (VP (NN fact) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN days))))))) (NP (PRP we)) (VP (VBD froze))))
+-30.591183476905 -98.752804499449
+(S1 (S (PP (IN in) (NP (NN fact) (DT some) (PP (IN of) (NP (DT the) (NNS days))))) (NP (PRP we)) (VP (VBD froze))))
+-30.822364095600 -95.607403437920
+(S1 (S (PP (IN in) (S (VP (NN fact) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days))))))) (NP (PRP we)) (VP (VBD froze))))
+-30.987395635904 -97.941371246387
+(S1 (S (PP (IN in) (NP (NP (NN fact) (DT some)) (PP (IN of) (NP (DT the) (NNS days))))) (NP (PRP we)) (VP (VBD froze))))
+-30.991375517306 -96.836932097324
+(S1 (S (PP (IN in) (NP (NN fact) (SBAR (WHNP (WHNP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-31.057854684981 -98.428776923383
+(S1 (S (PP (IN in) (NN fact) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS days))))) (NP (PRP we)) (VP (VBD froze))))
+-31.183903498816 -97.876276400033
+(S1 (FRAG (PP (IN in) (NP (NN fact) (SBAR (WHNP (NP (DT some)) (PP (IN of) (NP (DT the) (NN days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-31.313179868592 -98.590342840924
+(S1 (S (PP (IN in) (NP (NP (NN fact)) (PP (RB some) (IN of) (NP (DT the) (NNS days))))) (NP (PRP we)) (VP (VBD froze))))
+-31.329377287813 -99.744382792344
+(S1 (S (PP (IN in) (NP (NN fact))) (PP (ADVP (DT some)) (IN of) (NP (DT the) (NNS days))) (NP (PRP we)) (VP (VBD froze))))
+-31.403337771527 -96.952616437810
+(S1 (S (PP (IN in) (NP (NP (NP (NN fact)) (NP (DT some))) (PP (IN of) (NP (DT the) (NNS days))))) (NP (PRP we)) (VP (VBD froze))))
+-31.489014920473 -99.548257273355
+(S1 (S (PP (IN in) (NP (NP (NP (NN fact)) (NP (DT some))) (PP (IN of) (NP (DT the) (NN days))))) (NP (PRP we)) (VP (VBD froze))))
+-31.579705635187 -97.206156440620
+(S1 (S (PP (IN in) (NP (NP (NN fact) (RB some)) (PP (IN of) (NP (DT the) (NNS days))))) (NP (PRP we)) (VP (VBD froze))))
+-31.724374058526 -98.595300472072
+(S1 (PP (IN in) (NP (NN fact) (SBAR (WHNP (WHNP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze)))))))
+-32.022153513943 -96.447951483159
+(S1 (FRAG (PP (IN in) (NP (NN fact) (SBAR (WHNP (WHNP (DT some)) (PP (IN of) (NP (DT the) (NNS days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+-33.423076879247 -99.753548612387
+(S1 (FRAG (PP (IN in) (NP (NN fact) (SBAR (WHNP (WHNP (DT some)) (PP (IN of) (NP (DT the) (NN days)))) (S (NP (PRP we)) (VP (VBD froze))))))))
+

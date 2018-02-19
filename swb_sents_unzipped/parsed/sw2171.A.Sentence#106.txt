@@ -1,0 +1,102 @@
+50 x
+-27.296115367960 -79.952704929113
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-27.399580555523 -81.274143293033
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-27.896677768461 -81.280642033856
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-27.999846935293 -83.173565104272
+(S1 (FRAG (CC And) (RB then) (WHNP (WP what) (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have))))))))
+-28.008505578812 -82.602080397777
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-28.294947796767 -88.736995762560
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (S (NP (PRP I)) (VP (VB have))))))))
+-28.448372910533 -86.720200116898
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VB have)))))))))
+-28.473332061971 -85.018222532556
+(S1 (FRAG (CC And) (RB then) (WP what) (RB else) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))
+-28.504355041096 -88.041638480818
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VB have)))))))))
+-28.704368252879 -84.269908598659
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (RB else) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-28.791258368905 -86.221414233499
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (NN else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-28.853118996910 -85.173320947859
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))))
+-29.062709301034 -88.048137221642
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VB have)))))))))
+-29.072820958038 -89.609936071533
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WDT what) (NN else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.084345957926 -86.494759428498
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))))
+-29.086526823277 -82.355754631089
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (NP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.126069957658 -88.382045977385
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (RB else)) (S (VBD did) (NP (PRP I)) (VP (VBP have))))))
+-29.127054054385 -89.369575585562
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VB have)))))))))
+-29.163696579304 -88.381966003692
+(S1 (FRAG (CC And) (RB then) (WP what) (RB else) (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))
+-29.304255782203 -87.708592697154
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (VP (ADVP (RB else)) (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.313293273380 -85.597845703403
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (RB else) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.375909712194 -87.549351338242
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what) (NN else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.453681397411 -86.501258052603
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))))
+-29.485178302588 -88.113668377405
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (NP (NN else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.532634046157 -88.076181102313
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WHNP (WP what)) (ADVP (RB else))) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.598020400225 -87.393989065896
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (JJ else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.693270978427 -87.822696533242
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))))
+-29.695451846565 -83.683691735833
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (NP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.701234580961 -88.319203210238
+(S1 (FRAG (CC And) (RB then) (WHNP (WP what)) (ADVP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))
+-29.733686112587 -87.710938163701
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (ADVP (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-29.792338648879 -88.394181094216
+(S1 (FRAG (CC And) (RB then) (WHNP (WP what) (RB else)) (S (VP (VBD did) (S (NP (PRP I)) (VP (VBP have)))))))
+-29.913180802704 -89.036529801898
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (VP (ADVP (RB else)) (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-30.020073766534 -88.939312647246
+(S1 (FRAG (CC And) (RB then) (WHNP (WP what)) (S (RB else) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have))))))))
+-30.091146073089 -89.441605482149
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (NP (NN else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-30.133410226446 -89.404118207056
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WHNP (WP what)) (ADVP (RB else))) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-30.191301308850 -89.123249818874
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (NP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VB have)))))))))
+-30.198582800726 -88.721926170640
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what) (JJ else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-30.309834412836 -89.441452777672
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (NP (JJ else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-30.314305081512 -88.937339448377
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (ADVP (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-30.480971767213 -86.853423970885
+(S1 (FRAG (CC And) (FRAG (ADVP (RB then)) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have))))))))))
+-30.500771481829 -89.490524617405
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (RB else) (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))))
+-30.772262094775 -88.174862334806
+(S1 (FRAG (CC And) (FRAG (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have))))))))))
+-30.927914471683 -89.120009170841
+(S1 (FRAG (CC And) (SBAR (WHNP (RB then) (WP what)) (S (ADVP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-31.025385252226 -87.576370649835
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (NP (RB else)) (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))))
+-31.437240010731 -88.969635113380
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what) (RB else)) (S (VP (VBD did)))) (S (NP (PRP I)) (VP (VBP have)))))
+-31.634310272727 -88.904307754579
+(S1 (FRAG (CC And) (RB then) (SBAR (WHNP (WP what)) (S (NP (RB else)) (VP (VBD did) (S (NP (PRP I)) (VP (VBP have))))))))
+-31.677663795152 -89.301707230497
+(S1 (FRAG (CC And) (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (ADVP (JJ else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-31.714359463559 -88.858204033134
+(S1 (FRAG (CC And) (RB then) (WP what) (SBAR (S (NP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have)))))))))
+-31.923282542392 -89.052642658436
+(S1 (FRAG (CC And) (RB then) (WHNP (WP what)) (S (NP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have))))))))
+-32.616595422529 -89.256473672861
+(S1 (FRAG (CC And) (FRAG (ADVP (RB then)) (SBAR (WHNP (WP what)) (S (NP (RB else)) (VP (VBD did) (SBAR (S (NP (PRP I)) (VP (VBP have))))))))))
+

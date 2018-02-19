@@ -1,0 +1,102 @@
+50 x
+-14.370683927286 -48.375234000067
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (ADVP (RB so))))))
+-15.983276395234 -51.238058940006
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (ADVP (IN so))))))
+-16.713420387439 -56.589663851536
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (PRT (RB so))))))
+-17.086982730336 -50.986580965025
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (ADJP (RB so))))))
+-17.234408044883 -52.987232613175
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (ADJP (IN so))))))
+-17.462678043740 -63.929060004389
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (PP (IN so))))))
+-17.530883808548 -60.237733543478
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (VBN gotten) (ADVP (RB so))))))
+-17.610629132302 -59.301051352344
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (PRT (IN so))))))
+-17.694046924517 -57.957252321802
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (VP (VBN gotten) (ADVP (RB so))))))
+-17.790166640132 -54.914899809805
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (NP (RB so))))))
+-17.812591165979 -62.698210503789
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (VBN gotten) (PRT (RB so))))))
+-17.878016416087 -60.629300825287
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB just)) (VP (VBN gotten) (ADVP (RB so))))))
+-18.141408163295 -58.593236452156
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (PP (RB so))))))
+-18.318384452883 -61.861006317365
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB just) (VP (VBN gotten) (ADVP (RB so))))))
+-18.390035875635 -61.659358530741
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (VBN gotten)) (ADVP (RB so)))))
+-18.539182879707 -55.337051097916
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (S (ADJP (RB so)))))))
+-18.570437069873 -58.306377089883
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (S (ADVP (RB so)))))))
+-18.778661383685 -62.938424504957
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (VBN gotten) (PRT (RB so))))))
+-18.831620510842 -65.409598004597
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (VBN gotten) (PRT (IN so))))))
+-19.132387819135 -63.188602508064
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (VBN gotten) (RB so)))))
+-19.274085534035 -63.492125765226
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB just)) (VP (VBN gotten) (ADVP (IN so))))))
+-19.283108476496 -63.100558483417
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (VBN gotten) (ADVP (IN so))))))
+-19.413035512466 -60.820077261741
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (VP (VBN gotten) (ADVP (IN so))))))
+-19.432322595332 -65.273413161286
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB just) (VBN gotten)) (ADVP (RB so)))))
+-19.726841644555 -64.726466543375
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (VBN gotten) (PP (RB so))))))
+-19.741673046764 -61.105529353629
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (S (ADVP (IN so)))))))
+-19.758195156757 -64.648068337142
+(S1 (S (NP (PRP It) (VBZ 's)) (ADVP (RB just)) (VP (VBN gotten) (ADVP (RB so)))))
+-19.785425397676 -64.282650877160
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB just) (VBN gotten) (RB so)))))
+-19.808713113782 -64.881618360459
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB just) (VBN gotten) (PRT (RB so))))))
+-19.820849690832 -64.723831257304
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB just) (VP (VBN gotten) (ADVP (IN so))))))
+-20.036783459941 -66.171682442551
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (VP (VBN gotten) (PRT (RB so))))))
+-20.184870314212 -63.689836194555
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (VBN gotten) (NP (RB so))))))
+-20.370408594033 -64.076877859834
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (S (ADJP (IN so)))))))
+-20.410345721991 -60.568599273387
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (VP (VBN gotten) (ADJP (RB so))))))
+-20.546096699518 -64.656873448795
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (VBN gotten) (PRT (RB so))))))
+-20.627424801501 -64.710854791125
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (RB just)) (VBN gotten)) (ADVP (RB so)))))
+-20.664167159327 -62.569250921537
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (VP (VBN gotten) (ADJP (IN so))))))
+-20.732857475852 -66.039382839706
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB just)) (VP (VBN gotten) (ADJP (IN so))))))
+-20.801955508517 -64.038731191555
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB just)) (VP (VBN gotten) (ADJP (RB so))))))
+-20.882801107253 -64.366057858009
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB just)) (VBN gotten) (S (ADJP (RB so)))))))
+-20.974619387700 -64.875880177473
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (VBN gotten) (RB so)))))
+-20.991614313119 -66.675167474198
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (S (VP (VBN gotten) (ADVP (RB so)))))))
+-21.113529656878 -64.496918196208
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (VP (VBN gotten) (NP (RB so))))))
+-21.242323545314 -65.270436683633
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB just) (VP (VBN gotten) (ADJP (RB so))))))
+-21.279621632649 -67.271088331783
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB just) (VP (VBN gotten) (ADJP (IN so))))))
+-21.335134379080 -65.818182081992
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (VBN gotten)) (ADVP (RB so)))))
+-21.862545915967 -64.919069560454
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (VP (VBN gotten) (S (ADJP (RB so)))))))
+-22.119002154466 -67.191701827114
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (RB just) (VBN gotten) (PRT (RB so)))))
+-22.286404236430 -67.189299731146
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (ADJP (VBN gotten)) (ADVP (RB so)))))
+-22.951473151986 -66.709110737155
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN gotten) (S (NP (RB so)))))))
+

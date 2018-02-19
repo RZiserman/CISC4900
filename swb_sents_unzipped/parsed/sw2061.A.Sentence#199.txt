@@ -1,0 +1,102 @@
+50 x
+-20.927930119558 -79.349672267047
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (NP (NN recording)))))))))
+-21.128771253108 -80.357504580064
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (RB second)) (PP (IN of) (NP (NN recording)))))))))
+-22.066842489235 -79.535309391250
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (NP (NN recording))))))))))
+-22.267683622784 -80.543141704268
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (RB second)) (PP (IN of) (NP (NN recording))))))))))
+-22.354245149490 -82.772574213343
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (JJ second)) (PP (IN of) (NP (NN recording)))))))))
+-22.497937389157 -80.959620509082
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (NP (VBG recording)))))))))
+-22.617357942707 -81.967452822100
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (RB second)) (PP (IN of) (NP (VBG recording)))))))))
+-23.313328816116 -83.419677712018
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN one) (JJ second)) (PP (IN of) (NP (NN recording)))))))))
+-23.362572445023 -81.817676637054
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (S (VP (VBG recording))))))))))
+-23.371350541756 -80.296547618325
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second) (PP (IN of) (NP (NN recording))))))))))
+-23.493157521954 -82.958211337547
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (JJ second)) (PP (IN of) (NP (NN recording))))))))))
+-23.565513748834 -81.145257633286
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (NP (VBG recording))))))))))
+-23.684934305171 -82.153089946303
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (RB second)) (PP (IN of) (NP (VBG recording))))))))))
+-23.894530383876 -84.382522455379
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (JJ second)) (PP (IN of) (NP (VBG recording)))))))))
+-23.903932789200 -84.196264205110
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (RB second)) (PP (IN of) (S (VP (VBG recording))))))))))
+-24.430148804699 -82.003313761258
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (S (VP (VBG recording)))))))))))
+-24.440057241512 -85.159162069659
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NP (CD one)) (JJ second)) (PP (IN of) (NP (NN recording)))))))))
+-24.452241188580 -83.605314836222
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN one) (JJ second)) (PP (IN of) (NP (NN recording))))))))))
+-24.510262911432 -80.482184742528
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second) (PP (IN of) (NP (NN recording)))))))))))
+-24.534350937715 -85.029625954054
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN one) (JJ second)) (PP (IN of) (NP (VBG recording)))))))))
+-24.612498060446 -84.099613228418
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (RB second) (IN of) (NP (NN recording)))))))))
+-24.805424448655 -84.605074322583
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (S (NP (CD one) (NN second)) (PP (IN of) (NP (NN recording)))))))))
+-24.959054297060 -85.279236974510
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN one)) (ADVP (JJ second) (PP (IN of) (NP (NN recording))))))))))
+-24.962106743553 -84.568159579583
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (JJ second)) (PP (IN of) (NP (VBG recording))))))))))
+-24.971509148876 -84.381901329314
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one) (RB second)) (PP (IN of) (S (VP (VBG recording)))))))))))
+-25.330065397505 -83.741026446567
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second)) (PP (IN of) (NP (NN recording)))))))))
+-25.426591208015 -83.753624225009
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (CD one))) (ADVP (JJ second) (PP (IN of) (NP (NN recording))))))))
+-25.545919217839 -84.634562134779
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (NP (NN recording)))))))))
+-25.560303881684 -82.479032202916
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second) (PP (IN of) (NP (VBG recording))))))))))
+-25.601927300179 -85.215263078258
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NN one) (JJ second)) (PP (IN of) (NP (VBG recording))))))))))
+-25.751410430123 -84.285250352622
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (RB second) (IN of) (NP (NN recording))))))))))
+-25.811131528911 -84.984949947478
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (CD one))) (NP (NP (JJ second)) (PP (IN of) (NP (NN recording))))))))
+-25.944336821120 -84.790711446786
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (S (NP (CD one) (NN second)) (PP (IN of) (NP (NN recording))))))))))
+-25.999705292047 -80.738538704886
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (JJ second) (IN of) (NP (NN recording)))))))))
+-26.218593078194 -83.266056676581
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second) (PP (IN of) (S (VP (VBG recording)))))))))))
+-26.468977767181 -83.926663570771
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second)) (PP (IN of) (NP (NN recording))))))))))
+-26.480582027236 -85.085500381223
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (IN like) (CD one)) (NN second)) (PP (IN of) (NP (NN recording))))))))
+-26.565503577692 -83.939261349213
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (CD one))) (ADVP (JJ second) (PP (IN of) (NP (NN recording)))))))))
+-26.627880244148 -82.664669327120
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second) (PP (IN of) (NP (VBG recording)))))))))))
+-26.666973181304 -84.820199258983
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (NP (NP (CD one) (NN second)) (PP (IN of) (NP (NN recording))))))))))
+-26.950043898588 -85.170587071681
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (CD one))) (NP (NP (JJ second)) (PP (IN of) (NP (NN recording)))))))))
+-27.138617664512 -80.924175829089
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (JJ second) (IN of) (NP (NN recording))))))))))
+-27.286169437870 -83.451693800785
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (ADVP (JJ second) (PP (IN of) (S (VP (VBG recording))))))))))))
+-27.359041874995 -83.170481741513
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (JJ second) (IN of) (S (VP (VBG recording))))))))))
+-27.464537283434 -82.348486946921
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (JJ second) (IN of) (NP (VBG recording)))))))))
+-27.619494399700 -85.271137505427
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (IN like) (CD one)) (NN second)) (PP (IN of) (NP (NN recording)))))))))
+-27.742660957117 -84.945005309088
+(S1 (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (ADVP (JJ second)) (IN of) (NP (NN recording)))))))))
+-28.426618237460 -83.356118865717
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (JJ second) (IN of) (S (VP (VBG recording)))))))))))
+-28.532113643111 -82.534124071125
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (JJ second) (IN of) (NP (VBG recording))))))))))
+-28.881573326793 -85.130642433292
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD one)) (PP (ADVP (JJ second)) (IN of) (NP (NN recording))))))))))
+

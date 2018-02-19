@@ -1,0 +1,102 @@
+50 x
+-46.700013167597 -170.012588731453
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (CC but) (VP (ADVP (RB probably)) (RB not) (ADJP (RB as) (JJ much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-46.831044368180 -173.271738098592
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance)))) (CC but) (VP (ADVP (RB probably)) (RB not) (ADJP (RB as) (JJ much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-47.374844487795 -168.462259307454
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (CC but) (VP (ADVP (RB probably)) (RB not) (ADJP (RB as) (JJ much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))
+-47.505875688377 -171.721408674593
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance)))) (CC but) (VP (ADVP (RB probably)) (RB not) (ADJP (RB as) (JJ much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))
+-48.342597140994 -173.059767934266
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (CC but) (VP (ADVP (RB probably)) (RB not) (ADJP (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-48.441642151850 -167.550251946316
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance))))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-48.514833551479 -170.440321033392
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-49.017428461191 -171.509438510267
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (CC but) (VP (ADVP (RB probably)) (RB not) (ADJP (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))
+-49.413387742945 -167.064974993324
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance))))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-49.486579142574 -169.955044080400
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-49.559116875227 -170.934260591362
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance)))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-49.735238511154 -172.602626011581
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (CC but) (VP (ADVP (RB probably)) (RB not) (ADJP (RB as) (JJ much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-49.991631795609 -169.011252946926
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance))))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-50.064823195238 -171.901322034002
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-50.171152763280 -172.344376236987
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably)) (SBAR (ADVP (RB not) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))))
+-50.273077704802 -172.884139856841
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably)) (SBAR (ADVP (RB not) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))))
+-50.283763765398 -173.281925845573
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))))
+-50.469687181917 -171.266961134779
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-50.522604089214 -172.871829758341
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably))))) (SBAR (RB not) (RB as) (RB much) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-50.530862438444 -170.448983638369
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance)))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-50.565054478114 -170.893304117275
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-50.722603401603 -170.891204618526
+(S1 (S (VP (VB like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance))))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-50.947908997122 -171.333810432842
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably)) (SBAR (ADVP (RB not) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))))
+-50.963377386704 -168.525975993934
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance))))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-51.036568786333 -171.416045081010
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-51.060519999240 -172.271360041428
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))))
+-51.109106491109 -172.395261474277
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance)))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-51.142898354375 -171.859099283995
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably)) (SBAR (ADVP (RB not) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))))
+-51.239885798311 -169.342974693275
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-51.255509356493 -172.796648892581
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))))
+-51.270497229282 -173.039305612262
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably))))) (SBAR (ADVP (RB not) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-51.441432773012 -170.781684181787
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-51.487864778906 -172.545870249320
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance)))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-51.494349652431 -172.386552805349
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably))))) (SBAR (RB not) (RB as) (RB much) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-51.535241097363 -171.738815064955
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (SBAR (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))))
+-51.637166011007 -172.278578684809
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (SBAR (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))))
+-51.637613367344 -173.148872185322
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-51.967852924196 -172.550387833848
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-52.019676797798 -172.727962017695
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-52.080852054326 -171.909984521285
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences))) (PP (IN for) (NP (NN instance)))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-52.083304813995 -172.354305042427
+(S1 (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))
+-52.208652192507 -173.091580631964
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance))))) (PRN (CC but) (ADVP (RB probably) (RB not)) (ADVP (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-52.242242820377 -172.554028659270
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably))))) (SBAR (ADVP (RB not) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-52.247990522944 -173.082483647923
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))) (PRN (CC but) (ADVP (RB probably)) (ADVP (RB not) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-52.272593045362 -172.352205619135
+(S1 (S (VP (VB like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance))))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-52.311997331205 -170.728249260810
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (SBAR (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))))
+-52.506986660580 -171.253538111963
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (SBAR (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like)))))))))))))
+-52.758136134192 -170.803975618428
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-52.991422388893 -172.242685064703
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VB send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (PP (IN for) (NP (NN instance)))))) (PRN (CC but) (ADVP (ADVP (RB probably) (RB not)) (RB as) (RB much))) (SBAR (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+-53.019653684685 -173.300789257599
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP they)) (VP (VBP send) (NP (PRP me)) (PP (TO to) (NP (NP (NNS conferences)) (UCP (PP (IN for) (NP (NN instance))) (CC but) (ADVP (RB probably))))) (SBAR (ADVP (RB not) (RB as) (RB much)) (IN as) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like))))))))))
+

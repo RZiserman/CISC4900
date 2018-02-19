@@ -1,0 +1,102 @@
+50 x
+-12.991680350391 -47.138314337917
+(S1 (S (CC but) (NP (PRP$ my) (NN goodness))))
+-14.436681524461 -51.813886599270
+(S1 (NP (CC but) (NP (PRP$ my) (NN goodness))))
+-14.616767937099 -47.535541774780
+(S1 (FRAG (CC but) (NP (PRP$ my) (NN goodness))))
+-15.259155825967 -47.975812640943
+(S1 (X (CC but) (NP (PRP$ my) (NN goodness))))
+-15.752831192408 -52.336520546916
+(S1 (NP (CC but) (PRP$ my) (NN goodness)))
+-15.774537293395 -55.939750701593
+(S1 (PP (IN but) (NP (PRP$ my) (NN goodness))))
+-16.065092151391 -54.042013929090
+(S1 (SQ (CC but) (NP (PRP$ my) (NN goodness))))
+-16.330216558871 -54.752768816751
+(S1 (S (CC but) (S (NP (PRP$ my) (NN goodness)))))
+-16.392434296971 -57.843170537966
+(S1 (S (CC but) (NP (JJ my) (NN goodness))))
+-16.558805337899 -54.294861175976
+(S1 (FRAG (CC but) (NP (JJ my) (NN goodness))))
+-16.670538378191 -55.209243658341
+(S1 (FRAG (PP (IN but) (NP (PRP$ my) (NN goodness)))))
+-16.703298366912 -57.089808592026
+(S1 (S (PP (IN but) (NP (PRP$ my) (NN goodness)))))
+-17.027907411623 -56.313318903420
+(S1 (PP (CC but) (NP (PRP$ my) (NN goodness))))
+-17.118816497245 -51.879945091417
+(S1 (SQ (CC but) (FRAG (NP (PRP$ my) (NN goodness)))))
+-17.341743078381 -61.912960536671
+(S1 (NP (CC but) (NP (JJ my) (NN goodness))))
+-17.361353386221 -53.835545110614
+(S1 (X (PP (CC but) (NP (PRP$ my) (NN goodness)))))
+-17.454127201899 -54.206218511253
+(S1 (FRAG (PP (CC but) (NP (PRP$ my) (NN goodness)))))
+-17.552366241186 -52.173047354595
+(S1 (X (CC but) (S (NP (PRP$ my) (NN goodness)))))
+-18.128401683515 -59.407206134779
+(S1 (NP (RB but) (PRP$ my) (NN goodness)))
+-18.255392214889 -58.072459548820
+(S1 (S (ADVP (RB but)) (NP (PRP$ my) (NN goodness))))
+-18.589473730671 -54.452805017184
+(S1 (FRAG (CC but) (S (NP (PRP$ my) (NN goodness)))))
+-18.637894625006 -58.180043734017
+(S1 (X (CC but) (NP (JJ my) (NN goodness))))
+-18.651336321584 -55.196087811222
+(S1 (FRAG (CC but) (FRAG (NP (PRP$ my) (NN goodness)))))
+-18.715250323708 -57.317428742154
+(S1 (FRAG (RB but) (NP (PRP$ my) (NN goodness))))
+-18.768316250289 -63.299906072841
+(S1 (S (CC but) (FRAG (NP (PRP$ my) (NN goodness)))))
+-18.769915267899 -60.984574525024
+(S1 (FRAG (NP (CC but) (NP (PRP$ my) (NN goodness)))))
+-18.820761619158 -58.420866213177
+(S1 (S (ADVP (CC but)) (NP (PRP$ my) (NN goodness))))
+-18.987804910478 -64.017891503506
+(S1 (NP (RB but) (NP (PRP$ my) (NN goodness))))
+-19.039892641910 -63.765375340572
+(S1 (SQ (CC but) (NP (JJ my) (NN goodness))))
+-19.132647042545 -61.426395947941
+(S1 (X (NP (CC but) (NP (PRP$ my) (NN goodness)))))
+-19.208341401562 -58.885318952216
+(S1 (SQ (CC but) (FRAG (NP (JJ my) (NN goodness)))))
+-19.277563081322 -63.817390400281
+(S1 (S (NP (CC but) (NP (PRP$ my) (NN goodness)))))
+-19.324959281683 -58.219578305752
+(S1 (FRAG (ADVP (RB but)) (NP (PRP$ my) (NN goodness))))
+-19.424804175691 -65.208245383568
+(S1 (FRAG (PP (IN but) (NP (JJ my) (NN goodness)))))
+-19.473587334034 -61.290392110209
+(S1 (S (NP (CC but) (PRP$ my) (NN goodness))))
+-19.475998915853 -57.930019944688
+(S1 (FRAG (ADVP (CC but)) (NP (PRP$ my) (NN goodness))))
+-19.658603105336 -59.941440019190
+(S1 (FRAG (NP (CC but) (PRP$ my) (NN goodness))))
+-20.149627145557 -63.563704126985
+(S1 (FRAG (PP (CC but) (NP (JJ my) (NN goodness)))))
+-20.233345819879 -63.193030726346
+(S1 (X (PP (CC but) (NP (JJ my) (NN goodness)))))
+-20.372048547765 -64.125698802614
+(S1 (FRAG (RB but) (NP (JJ my) (NN goodness))))
+-20.438954059523 -60.227541750206
+(S1 (X (ADVP (RB but)) (NP (PRP$ my) (NN goodness))))
+-20.652012661962 -62.201461617063
+(S1 (FRAG (CC but) (FRAG (NP (JJ my) (NN goodness)))))
+-20.686633603682 -64.202781261566
+(S1 (S (NP (RB but) (PRP$ my) (NN goodness))))
+-20.731206087450 -59.908300863427
+(S1 (X (ADVP (CC but)) (NP (PRP$ my) (NN goodness))))
+-20.967348472978 -62.877903538874
+(S1 (X (CC but) (S (NP (JJ my) (NN goodness)))))
+-21.097173189807 -64.098111869768
+(S1 (FRAG (NP (RB but) (PRP$ my) (NN goodness))))
+-21.369647102959 -65.224952036065
+(S1 (FRAG (ADVP (RB but)) (NP (JJ my) (NN goodness))))
+-21.514637346751 -65.293362525669
+(S1 (X (NP (CC but) (PRP$ my) (NN goodness))))
+-21.696822266717 -64.935393675001
+(S1 (FRAG (ADVP (CC but)) (NP (JJ my) (NN goodness))))
+-21.828344113675 -65.157661201463
+(S1 (FRAG (CC but) (S (NP (JJ my) (NN goodness)))))
+

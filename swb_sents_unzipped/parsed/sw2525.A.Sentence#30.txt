@@ -1,0 +1,102 @@
+50 x
+-28.227361184709 -87.265666251870
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-29.544402336483 -90.767532610954
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-29.911087621601 -93.246671583352
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-30.013885069637 -93.954409473925
+(S1 (S (NP (EX There)) (VP (POS 's) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))
+-30.292238772816 -95.616635042062
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-30.312266677567 -92.907992815420
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PRT (RB on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-30.433034671523 -96.410835283457
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))))) (ADVP (RB too)))))
+-30.470352931583 -95.990651116562
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that))) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))))) (ADVP (RB too)))))
+-30.470576068625 -89.105606451620
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (WDT that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-30.505647255539 -94.667398739859
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas) (RB too)))))))
+-30.530864099211 -89.572269772232
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-30.853482673212 -93.775126283987
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas) (RB too))))))))))
+-30.875559723662 -92.865782750069
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PRT (IN on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-30.950548706258 -93.109145984759
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (IN that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-30.982617213892 -95.089752748267
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT that)) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-31.117077945478 -93.168519514502
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-31.135398326842 -93.615720851168
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-31.146157394839 -94.599106933192
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT that)) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-31.378704601762 -95.712907318306
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-31.485044355502 -96.644967323094
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PP (IN on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-31.497923160882 -95.917854973833
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NP (NNP Dallas)) (ADVP (RB too))))))))
+-31.525219836197 -96.304885665298
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-31.660164968069 -96.597094615448
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RB on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-31.845758581343 -95.025582517961
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NP (NNP Dallas)) (ADVP (RB too)))))))))))
+-31.932125792909 -91.190769281468
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-32.142250355517 -95.086611783102
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (WDT that)))) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-32.156350593653 -95.794349673675
+(S1 (S (NP (EX There)) (VP (POS 's) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (WDT that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))
+-32.444478663571 -96.623314524202
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas) (RB too))))))))))
+-32.518339639177 -94.787019023738
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-32.545821646824 -93.108721517823
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PP (IN on) (PP (IN in) (NP (NNP Dallas)))) (ADVP (RB too))))))
+-32.547419088537 -96.217606442428
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT that)) (VP (VBG going) (ADVP (RB on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-32.555481561483 -94.747933015170
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (WDT that)))) (VP (VBG going) (PRT (RB on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-32.622993068904 -96.067918669076
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (WDT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too)))))))))
+-32.748862139454 -96.507338939609
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (WDT that)))) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas) (RB too)))))))
+-32.807909040797 -95.401831776726
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RB on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-33.069686601350 -96.185407742688
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (ADVP (RB on) (PP (IN in) (NP (NNP Dallas)))) (ADVP (RB too)))))))))
+-33.118774607578 -94.705722949819
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (WDT that)))) (VP (VBG going) (PRT (IN on)) (PP (IN in) (NP (NNP Dallas))) (ADVP (RB too))))))
+-33.227521725463 -96.001185778657
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (IN that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-33.434100474487 -93.323351277824
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas)))))) (ADVP (RB too))))))
+-33.499433816632 -94.872655830354
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (WDT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-33.530987634390 -95.748863887439
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (IN on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-33.570585414353 -95.293069493661
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PP (IN on) (PP (IN in) (NP (NNP Dallas)))) (ADVP (RB too)))))))))
+-33.634248200458 -95.975074400422
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that)))) (VP (VBG going) (PP (RP on) (PP (IN in) (NP (NNP Dallas)))) (ADVP (RB too))))))
+-34.064568240595 -96.447717941358
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT that)) (VP (VBG going) (PP (IN on) (PP (IN in) (NP (NNP Dallas)))))))) (ADVP (RB too)))))
+-34.384203394335 -94.348948620173
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PP (IN on) (PP (IN in) (NP (NNP Dallas)))))))) (ADVP (RB too)))))
+-34.808234460740 -94.948661717573
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (WDT that)))) (VP (VBG going) (PP (IN on) (PP (IN in) (NP (NNP Dallas)))) (ADVP (RB too))))))
+-34.900695510330 -96.491155339590
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (WDT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas))))))) (ADVP (RB too)))))
+-35.053038378265 -96.291789299465
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PRT (RP on)) (PP (IN in) (NP (NNP Dallas)))))) (ADVP (RB too))))))
+-35.156594254222 -96.642571886224
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PP (RP on) (PP (IN in) (NP (NNP Dallas)))))))) (ADVP (RB too)))))
+-35.785465088033 -95.967448129409
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (DT that)) (VP (VBG going) (PP (IN on) (PP (IN in) (NP (NNP Dallas)))))))) (ADVP (RB too)))))
+

@@ -1,0 +1,102 @@
+50 x
+-18.779243227989 -67.030266250400
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (PP (DT that) (IN on))))))
+-19.386628886934 -67.286306590881
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (PP (DT that) (IN on))))))
+-19.755913156135 -66.396407488819
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (DT that)) (PP (IN on))))))
+-19.810058758162 -65.673918767979
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (FRAG (PP (IN on))))))))
+-19.817536952881 -66.430872891801
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (X (IN on)))))))
+-19.980919878176 -65.458822693425
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (ADVP (DT that) (IN on))))))
+-19.993744315381 -67.508528906283
+(S1 (S (WHNP (WP what) (NN time)) (VP (VBZ is) (SBAR (IN that) (FRAG (PP (IN on)))))))
+-20.001624988319 -65.575021590214
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (ADVP (RB that) (RB on))))))
+-20.363298815080 -66.652447829300
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (NP (DT that)) (PP (IN on))))))
+-20.417444417107 -65.929959108460
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (FRAG (PP (IN on))))))))
+-20.420712302567 -67.409631868787
+(S1 (S (WHNP (WP what) (NN time)) (VP (VBZ is) (ADVP (RB that) (RB on)))))
+-20.424922611826 -66.686913232282
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (X (IN on)))))))
+-20.486860305424 -67.293432971997
+(S1 (S (WHNP (WP what) (NN time)) (VP (VBZ is) (ADVP (DT that) (IN on)))))
+-20.588305537120 -65.714863033906
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (ADVP (DT that) (IN on))))))
+-20.678983147263 -65.831061930696
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (ADVP (RB that) (RB on))))))
+-20.944721355381 -66.567383214832
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (DT that)) (ADVP (IN on))))))
+-20.944964458562 -66.985028272181
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (NP (IN that)) (PP (IN on)))))))
+-20.996067979508 -67.595253538355
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (DT that)) (PP (IN on)))))))
+-21.012155120540 -65.463002485869
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (PP (IN on))))))
+-21.026226358410 -67.281609644906
+(S1 (S (WHNP (WP what) (NN time)) (VP (VBZ is) (SBAR (IN that) (S (ADVP (RP on)))))))
+-21.053590961535 -66.872764817514
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (FRAG (PP (IN on)))))))))
+-21.061069156254 -67.629718941336
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (X (IN on))))))))
+-21.138670036939 -67.195344260101
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (ADVP (DT that) (RP on))))))
+-21.195502213334 -67.297612651168
+(S1 (S (WHNP (WP what) (NN time)) (VP (VBZ is) (NP (IN that)) (PP (IN on)))))
+-21.221074701548 -66.657668742960
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (ADVP (DT that) (IN on)))))))
+-21.448667464090 -66.661542167173
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (FRAG (ADVP (RB on))))))))
+-21.507077283978 -65.446999506602
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (S (ADVP (RP on))))))))
+-21.507893575073 -67.180380345371
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (S (VP (ADVP (IN on)))))))))
+-21.513087781692 -66.773867639750
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (ADVP (RB that) (RB on)))))))
+-21.552107017113 -66.823423555313
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (NP (DT that)) (ADVP (IN on))))))
+-21.552350117507 -67.241068612663
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (NP (NP (IN that)) (PP (IN on)))))))
+-21.619540779485 -65.719042826350
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (PP (IN on))))))
+-21.726967645883 -67.451384600582
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (ADVP (DT that) (RP on))))))
+-22.086113892222 -67.825155326407
+(S1 (FRAG (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (ADVP (DT that) (IN on)))))))
+-22.095374892923 -65.703039847083
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (S (ADVP (RP on))))))))
+-22.115279234018 -67.436420685853
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (S (VP (ADVP (IN on)))))))))
+-22.126025623035 -66.917582507654
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (FRAG (ADVP (RB on))))))))
+-22.184876178754 -67.766229264367
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (DT that)) (ADVP (IN on)))))))
+-22.255687323913 -66.661848535405
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (PP (IN on)))))))
+-22.362016890296 -67.091036755352
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (PRT (RP on))))))
+-22.499296228786 -65.633978211882
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (ADVP (IN on))))))
+-22.781047700429 -67.468588332772
+(S1 (S (WHNP (WP what) (NN time)) (VP (VBZ is) (NP (IN that)) (ADVP (IN on)))))
+-22.899930639351 -66.645845556137
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (S (ADVP (RP on)))))))))
+-22.950314499241 -67.347077095833
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (PRT (RP on))))))
+-23.021873812487 -67.601587303412
+(S1 (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (SBAR (DT that) (S (ADVP (RP on))))))))
+-23.106681887730 -65.890018552363
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (ADVP (IN on))))))
+-23.120726511798 -67.829335118851
+(S1 (FRAG (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (PP (IN on)))))))
+-23.610171421432 -67.857627643893
+(S1 (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (SBAR (DT that) (S (ADVP (RP on))))))))
+-23.742828432159 -66.832824261417
+(S1 (FRAG (SBAR (WHNP (WDT what) (NN time)) (S (VP (VBZ is) (NP (IN that)) (ADVP (IN on)))))))
+-23.745881777237 -67.813332139584
+(S1 (FRAG (SBAR (WHNP (WP what) (NN time)) (S (VP (VBZ is) (SBAR (IN that) (S (ADVP (RP on)))))))))
+

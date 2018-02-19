@@ -1,0 +1,102 @@
+50 x
+-23.353913464235 -81.691867521669
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-23.415312364172 -80.421803280875
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (S (VP (TO to) (VP (NN rebel))))))))
+-24.775320923872 -84.684157580125
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (VP (ADVP (RB yet)) (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-25.002750211043 -86.898278565559
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBD decided) (S (VP (TO to) (VP (NN rebel))))))))
+-25.377806306861 -83.181692383412
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-25.439205206798 -81.911628142618
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBN decided) (S (VP (TO to) (VP (NN rebel))))))))
+-25.657660294421 -86.523771786435
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (VP (ADVP (RB yet)) (VBN decided) (S (VP (TO to) (VP (NN rebel))))))))
+-25.682897202133 -89.053745903669
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBD decided) (PP (TO to) (NP (NN rebel)))))))
+-25.994506560903 -87.668656082004
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (S (VP (TO to) (VP (NP (NN rebel)))))))))
+-26.040910418033 -84.712596756740
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+-26.130372758138 -86.238342623069
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (RB not) (ADVP (RB yet)) (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-26.430836363656 -87.311133762657
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (SBAR (S (VP (TO to) (VP (NN rebel)))))))))
+-26.464401125669 -88.388103427302
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBD decided) (S (VP (TO to) (VP (NN rebel))))))))
+-26.474320737279 -87.068900485500
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (S (VP (TO to) (NP (NN rebel))))))))
+-26.888979278625 -83.161951054885
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (ADVP (RB not) (RB yet)) (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-27.144548119547 -90.543570765412
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBD decided) (PP (TO to) (NP (NN rebel)))))))
+-27.614681107774 -94.145131366688
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBD decided) (S (VP (TO to) (VP (NP (NN rebel)))))))))
+-27.771318690991 -85.001565407212
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (ADVP (RB not) (RB yet)) (VBN decided) (S (VP (TO to) (VP (NN rebel))))))))
+-27.962113697670 -87.704886815196
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (VP (ADVP (RB yet)) (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+-27.986137269148 -93.465621404127
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VBN decided) (PP (TO to) (NP (NN rebel))))))
+-28.018399403529 -89.158480943747
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBN decided) (S (VP (TO to) (VP (NP (NN rebel)))))))))
+-28.064803260659 -86.202421618483
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+-28.228834929222 -92.763763185057
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (VP (ADVP (RB yet)) (VBD decided) (PP (TO to) (NP (NN rebel)))))))
+-28.236854491153 -93.770624587564
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (VP (ADVP (RB yet)) (VBN decided) (S (VP (TO to) (VP (NP (NN rebel)))))))))
+-28.272761025931 -92.074475138740
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBD decided) (PP (TO to) (NP (JJ rebel)))))))
+-28.307115964362 -93.545375770183
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBD decided) (S (VP (TO to) (NP (NN rebel))))))))
+-28.403913618350 -90.252117856260
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (CC yet)) (VP (VBN decided) (S (VP (TO to) (VP (NN rebel))))))))
+-28.423250758413 -91.522182097054
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (CC yet)) (VP (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-28.454729206282 -88.800958624400
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBN decided) (SBAR (S (VP (TO to) (VP (NN rebel)))))))))
+-28.498213579905 -88.558725347242
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBN decided) (S (VP (TO to) (NP (NN rebel))))))))
+-28.673841114740 -93.170868991060
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (VP (ADVP (RB yet)) (VBN decided) (S (VP (TO to) (NP (NN rebel))))))))
+-28.796136816628 -94.055863843669
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (VP (ADVP (RB yet)) (VBN decided) (SBAR (S (VP (TO to) (VP (NN rebel)))))))))
+-28.921415908364 -89.429243495718
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (ADJP (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-29.015787361587 -94.557986563785
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (SBAR (S (VP (TO to) (VP (NP (NN rebel))))))))))
+-29.023747641936 -89.259071858140
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (RB not) (ADVP (RB yet)) (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+-29.512192298885 -93.958230874302
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (SBAR (S (VP (TO to) (NP (NN rebel)))))))))
+-29.565110393629 -92.140515422009
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VB have) (VP (ADVP (RB not) (RB yet)) (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-29.727274538376 -91.680351094455
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (ADVP (RB not) (RB yet)) (VBD decided) (PP (TO to) (NP (NN rebel)))))))
+-29.734411940557 -93.564300000483
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (VP (VBD decided) (PP (TO to) (NP (JJ rebel)))))))
+-29.782354162423 -86.182680289956
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (ADVP (RB not) (RB yet)) (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+-30.137716161271 -93.799133417267
+(S1 (S (NP (PRP$ our) (NX (NNS children))) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (S (VP (TO to) (VP (NN rebel))))))))
+-30.350512887723 -92.248418208340
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (ADVP (RB not) (RB yet)) (VBN decided) (S (VP (TO to) (VP (NP (NN rebel)))))))))
+-30.561385334034 -94.071955402702
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (S (VP (TO to) (NP (JJ rebel))))))))
+-30.696409689423 -94.542911332125
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (CC yet)) (VP (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+-30.787499511310 -91.648662611836
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (ADVP (RB not) (RB yet)) (VBN decided) (S (VP (TO to) (NP (NN rebel))))))))
+-30.909795176957 -92.533657328859
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (VP (ADVP (RB not) (RB yet)) (VBN decided) (SBAR (S (VP (TO to) (VP (NN rebel)))))))))
+-31.037784177194 -92.367262638037
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (RB not) (ADVP (RB yet)) (ADJP (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+-31.123485211257 -91.246024571894
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (ADJP (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-32.069415778766 -91.910464118135
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADJP (ADVP (RB not) (RB yet)) (VBN decided) (PP (TO to) (NP (NN rebel)))))))
+-33.239853480087 -94.184043714212
+(S1 (S (NP (PRP$ our) (NNS children)) (VP (VBP have) (ADVP (RB not) (RB yet)) (ADJP (VBN decided) (PP (TO to) (NP (JJ rebel)))))))
+

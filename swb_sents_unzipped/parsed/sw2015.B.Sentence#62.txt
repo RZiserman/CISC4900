@@ -1,0 +1,102 @@
+50 x
+-13.111419481370 -51.267518780072
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-13.920083731091 -50.322594516609
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-15.336655571412 -58.086329719665
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VB have) (NP (PRP$ my) (JJ own))))))
+-16.257077117547 -57.640102910052
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VB have) (NP (PRP$ my) (JJ own)))))))
+-16.728789215484 -56.359171432533
+(S1 (S (IN because) (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))
+-16.896177946895 -58.858282145537
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own)))))))
+-17.485897158517 -58.407952729321
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-17.704842193828 -57.913357882075
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own))))))))
+-17.711745823027 -56.765283272442
+(S1 (S (RB because) (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))
+-17.816746419596 -60.709363643598
+(S1 (S (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-17.935473960895 -61.709951105318
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VB have) (S (NP (PRP$ my) (JJ own)))))))
+-18.006094179945 -60.681276535629
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-18.036481538431 -68.111006694827
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (JJ my) (JJ own))))))
+-18.221984193560 -56.864121897649
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-18.347642346518 -61.568460103490
+(S1 (S (ADVP (RB because)) (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))
+-18.791917693060 -63.439661132545
+(S1 (PP (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-18.800231412159 -60.949911086511
+(S1 (S (X (IN because)) (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))
+-18.829789888153 -67.166082431364
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (JJ my) (JJ own)))))))
+-18.855895507030 -61.263724295705
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VB have) (S (NP (PRP$ my) (JJ own))))))))
+-19.339493478242 -64.580348857617
+(S1 (S (IN because) (NP (PRP I)) (VP (VB have) (NP (PRP$ my) (JJ own)))))
+-19.586713160366 -67.652910015557
+(S1 (PP (IN because) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-19.727177340522 -67.600330937030
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (ADJP (JJ own)))))))
+-19.820116247346 -62.810941240992
+(S1 (FRAG (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-19.970237365890 -66.476603526073
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VB have) (NP (PRP$ my) (JJ own))))))
+-20.031805183429 -67.241697109313
+(S1 (FRAG (PP (IN because) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))))
+-20.034373056676 -62.774583227411
+(S1 (S (ADVP (IN because)) (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))
+-20.067002857363 -65.744301748631
+(S1 (FRAG (PP (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-20.386179877556 -63.949934676287
+(S1 (S (IN because) (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own))))))
+-20.387794902054 -66.813834194962
+(S1 (S (ADJP (RB because) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))))
+-20.433741016400 -68.006088784920
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my)) (ADJP (JJ own))))))))
+-20.469302424874 -65.561332294984
+(S1 (S (RB because) (NP (PRP I)) (VP (VB have) (NP (PRP$ my) (JJ own)))))
+-20.519140037034 -67.095495138632
+(S1 (S (VP (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-20.535841587456 -66.655406673568
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (ADJP (JJ own))))))))
+-20.559920291103 -66.610568222330
+(S1 (SBAR (RB because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-20.638141207540 -67.773909142040
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP I)) (VP (VB have) (NP (PRP$ my) (JJ own)))))))
+-20.704410474669 -66.360935570509
+(S1 (FRAG (RB because) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-20.724966485942 -66.708845830911
+(S1 (S (ADVP (RB because)) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-20.798560581745 -65.092258033667
+(S1 (S (NP (RB because) (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))
+-20.818081783768 -65.431470458256
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VB have) (NP (PRP$ my) (JJ own)))))))
+-21.122019084850 -65.599085792678
+(S1 (ADJP (RB because) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-21.270655621254 -65.998716094787
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own)))))))
+-21.369136485099 -64.356046516195
+(S1 (S (RB because) (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own))))))
+-21.601504815426 -68.300126759620
+(S1 (S (IN because) (S (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own)))))))
+-21.644825624815 -68.203970344808
+(S1 (S (IN because) (NP (PRP I)) (VP (VB have) (S (NP (PRP$ my) (JJ own))))))
+-21.700599491312 -67.914968954832
+(S1 (S (ADVP (IN because)) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))
+-21.982706203907 -67.249085167384
+(S1 (FRAG (SBAR (RB because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-22.006742656298 -64.454885263115
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own))))))))
+-22.108653642682 -68.272039901094
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (NP (PRP$ my) (JJ own))))))))
+-22.196654249176 -67.180912553204
+(S1 (FRAG (VP (IN because) (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own)))))))
+-22.328788252656 -67.264281694381
+(S1 (FRAG (ADJP (RB because) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (PRP$ my) (JJ own))))))))
+

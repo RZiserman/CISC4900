@@ -1,0 +1,102 @@
+50 x
+-51.463172816555 -172.407190717914
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)))))) (VP (RB not) (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-51.959059886846 -173.593428279643
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)))))) (VP (RB not) (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))
+-51.985755525872 -167.747649897748
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))
+-52.145458604563 -172.005815126593
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)))))) (VP (RB not) (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-52.154604654860 -173.458412374052
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (ADVP (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))
+-52.172154243589 -166.160036744697
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-52.341003372577 -171.870799221002
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (ADVP (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-52.422064075021 -168.848153305955
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds)) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-52.608462820616 -167.260540152904
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds)) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))
+-52.739028323880 -167.346274306427
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))
+-52.740307517989 -172.633636714308
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-52.751425301129 -170.350631021259
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (SBAR (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))))
+-52.907877452867 -173.057036782731
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (ADVP (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))
+-52.925427069475 -165.758661153376
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-52.926706263584 -171.046023561258
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))
+-52.936730358886 -173.194952118305
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)))))) (VP (ADVP (RB not)) (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-52.937824046724 -168.763017868208
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (SBAR (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))
+-53.094276170584 -171.469423629681
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (ADVP (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-53.141788031855 -172.146526920804
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds)) (RB not) (VP (VBD stuffed) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))
+-53.224537953233 -172.193790848907
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (SBAR (RB not) (S (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))
+-53.372118147400 -172.457727601638
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)))))) (ADVP (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-53.410936698828 -170.606177695857
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (SBAR (RB not) (S (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-53.493580315997 -172.232261122987
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-53.523877513719 -173.649004768303
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (SBAR (S (RB not) (VP (VBD stuffed) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-53.574329628355 -170.458699338719
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds) (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-53.619016146893 -172.793576526984
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)))))) (VP (ADVP (RB not)) (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-53.679979061592 -170.644647969937
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))
+-53.760728373950 -168.871086185668
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds) (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))
+-53.881931979735 -172.534283088261
+(S1 (S (CC So) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-53.883535063795 -172.942659295614
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-54.069933781512 -171.355046142564
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))
+-54.421185755167 -173.172080622058
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-54.491826260824 -172.307219808225
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds)) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))
+-54.612249932566 -173.403108260973
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds) (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NN cages))))))))))))
+-54.635204777742 -172.132907496940
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (RB not)))))) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-54.678225006419 -170.719606655174
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds)) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-54.761738075528 -171.715877660365
+(S1 (FRAG (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds)) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))
+-54.814789396686 -172.315043457365
+(S1 (S (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)))))) (NP (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-54.948136793246 -170.128264507315
+(S1 (FRAG (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds)) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-54.997087360622 -173.527645606181
+(S1 (S (ADVP (RB So)) (PP (IN in) (NP (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds))))))) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-55.007586232528 -172.222084370478
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (SBAR (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))))
+-55.091099301637 -173.218355375669
+(S1 (FRAG (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (SBAR (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))))
+-55.108071718987 -173.381471078713
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (SBAR (S (NP (DT the) (NNS birds) (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))
+-55.277498019354 -171.630742222618
+(S1 (FRAG (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (NNS birds)) (SBAR (S (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))))
+-55.294470436704 -171.793857925663
+(S1 (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (SBAR (S (NP (DT the) (NNS birds) (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-55.750610699336 -173.473902050267
+(S1 (FRAG (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds)) (SBAR (RB not) (S (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))
+-55.830490559753 -172.330152687938
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds) (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+-55.914003628862 -173.326423693129
+(S1 (FRAG (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds) (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (S (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))))))))
+-55.950469512814 -173.336947875292
+(S1 (S (PP (RB So) (IN in) (NP (NN order) (S (VP (TO to) (VP (VB have) (NP (DT the) (NNS birds))))))) (RB not) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages))))))))))))
+-56.100402346579 -171.738810540079
+(S1 (FRAG (SBAR (RB So) (IN in) (NN order) (S (VP (TO to) (VP (VB have) (S (NP (DT the) (NNS birds) (RB not)) (VP (VBD stuffed) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB keep) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (NNS cages)))))))))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.118306395281 -71.600599768950
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (NN reading)))))
+-21.586720917970 -71.558716651725
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (JJ light) (NN reading)))))
+-21.740692429823 -74.181163289116
+(S1 (S (CC but) (NP (PRP it)) (VP (POS 's) (NP (JJ nice) (NN light) (NN reading)))))
+-21.913871267355 -73.270362694976
+(S1 (S (CC but) (NP (PRP it)) (VP (POS 's) (NP (JJ nice) (JJ light) (NN reading)))))
+-21.969459161526 -72.323125043679
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (NN reading))))))
+-21.988876487003 -72.281241926454
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (JJ light) (NN reading))))))
+-22.009102409784 -72.948223597056
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (NP (JJ light) (NN reading)))))
+-22.801208336764 -75.042162106159
+(S1 (S (CC but) (NP (PRP it)) (VP (POS 's) (NP (JJ nice) (NN light)) (S (VP (VBG reading))))))
+-22.801679106991 -77.256833753527
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (VBG reading)))))
+-22.812941704393 -73.670748899580
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (NP (JJ light) (NN reading))))))
+-22.868180490934 -78.208406766714
+(S1 (S (CC but) (NP (PRP it)) (VP (POS 's) (S (NP (JJ nice) (NN light)) (VP (VBG reading))))))
+-23.340404256444 -78.083100214288
+(S1 (S (CC but) (S (NP (PRP it)) (VP (POS 's) (NP (JJ nice) (JJ light) (NN reading))))))
+-23.364205799387 -78.696232050451
+(S1 (S (CC but) (NP (PRP it)) (VP (POS 's) (NP (JJ nice) (NN light) (VBG reading)))))
+-23.608189211924 -75.041683603934
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (NP (NN light) (NN reading)))))
+-23.609252886024 -77.979359028256
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (VBG reading))))))
+-23.616222618911 -78.993900808428
+(S1 (S (CC but) (S (NP (PRP it)) (VP (POS 's) (NP (JJ nice) (NN light) (NN reading))))))
+-23.650907665918 -77.122288113738
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (S (VP (VBG reading))))))
+-23.749510352016 -77.442431598360
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (VP (VBG reading)))))
+-23.765012933460 -78.299476200289
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (VP (VB light) (NP (NN reading)))))))
+-23.799613553989 -79.527448326509
+(S1 (S (CC but) (NP (PRP it)) (VP (POS 's) (ADJP (JJ nice)) (NP (JJ light) (NN reading)))))
+-23.934654523735 -78.145827489950
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (VP (VB light) (VP (VBG reading)))))))
+-23.961479046507 -76.938080831528
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice) (NP (JJ light) (NN reading))))))
+-24.146331586643 -80.954264415039
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (VP (VB light) (NP (VBG reading)))))))
+-24.355484844007 -79.474216618930
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (NP (NN light)) (VP (VBG reading))))))
+-24.401280774951 -77.844813391771
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (S (VP (VBG reading)))))))
+-24.408273146445 -78.164956719839
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (VP (VBG reading))))))
+-24.421868903852 -79.854899625470
+(S1 (S (CC but) (S (NP (PRP it)) (VP (POS 's) (NP (JJ nice) (NN light)) (S (VP (VBG reading)))))))
+-24.425273836453 -78.214289308280
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (S (VP (VBG reading)))))))
+-24.477075199321 -75.764208906457
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (NP (NN light) (NN reading))))))
+-24.675702928069 -79.022001500301
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (VP (VB light) (NP (NN reading))))))))
+-24.786570448343 -78.868352789962
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (VP (VB light) (VP (VBG reading))))))))
+-24.817114469043 -78.568513971142
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (ADJP (JJ nice) (JJ light)) (NN reading)))))
+-24.831246968813 -77.660606047238
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice) (NP (JJ light) (NN reading)))))))
+-24.854684170777 -74.592075936481
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (NN reading))))))
+-24.976409132698 -78.936814583009
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (S (VP (VBG reading))))))))
+-25.122892177092 -78.829346689519
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (NP (NN reading)))))
+-25.175209163838 -78.093328877437
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)))) (VP (VBG reading))))
+-25.183810393467 -74.550192819256
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (JJ light) (NN reading))))))
+-25.200480268616 -80.196741918942
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (NP (NN light)) (VP (VBG reading)))))))
+-25.398928922259 -80.409177016199
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADVP (JJ nice)) (NP (JJ light) (NN reading)))))
+-25.586831339040 -75.939699638179
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (NP (JJ light) (NN reading))))))
+-25.593737088076 -79.291039245870
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (ADJP (JJ nice) (JJ light)) (NN reading))))))
+-25.708986019064 -79.619797897051
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (NP (JJ light) (NN reading))))))
+-26.063599740549 -79.551871951884
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (NP (NN reading))))))
+-26.446226704488 -80.248309921058
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light) (VBG reading))))))
+-26.722441213673 -80.342323197063
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (S (NP (JJ light) (NN reading)))))))
+-27.296945103900 -80.113764208438
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (S (VP (VBG reading)))))))
+-27.325206443967 -78.033159645057
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice)) (NP (NN light) (NN reading))))))
+-27.388361399667 -80.433907480251
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ nice) (NN light)) (VP (VBG reading))))))
+-27.534968302488 -79.929556931727
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice) (NP (JJ light) (NN reading)))))))
+

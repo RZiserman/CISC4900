@@ -1,0 +1,102 @@
+50 x
+-24.325273264334 -87.620586945001
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-24.505672899132 -84.599602840725
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))
+-24.575685702572 -88.050464562692
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there)))))))
+-24.994313347698 -91.189665439359
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (EX there)))))))))
+-25.588617260724 -91.619543057049
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (EX there)))))))
+-25.967894587046 -89.058554586157
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (EX there))))))
+-26.011758862361 -90.382570215373
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-26.214122195866 -87.649373406215
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))
+-26.227674496443 -90.731059258792
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there)))))))
+-26.856127758725 -93.951648709731
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (EX there)))))))))
+-26.863999443739 -89.630783670969
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there)))))))
+-27.415934864807 -94.300137753150
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (EX there)))))))
+-27.452156262174 -86.807625413807
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))))) (PP (IN in) (NP (RB there)))))
+-27.777770490992 -92.108325151648
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (EX there))))))
+-27.847557044077 -98.694103954533
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (NNP brown) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-28.042507701890 -93.199862165326
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (EX there)))))))
+-28.163402797758 -95.882378739647
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there))))))
+-28.163724575302 -98.178962570014
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NNP brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))
+-28.784428365766 -92.392766941341
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there)))))))
+-28.945766282721 -99.191810626939
+(S1 (S (RB there) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-29.126165917519 -96.170826522663
+(S1 (S (RB there) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))
+-29.196178720959 -99.621688244630
+(S1 (S (RB there) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there)))))))
+-29.264001295377 -94.231964311280
+(S1 (S (NP (EX there)) (VP (POS 's) (S (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there)))))))
+-29.319130488174 -99.697553828725
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there))))))))
+-29.350179130784 -96.640048169195
+(S1 (S (NP (EX there)) (VP (VBZ 's) (S (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there)))))))
+-29.364831685075 -91.643042687011
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))))) (PP (IN in) (NP (RB there)))))
+-29.372275848129 -92.777483755531
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there))))))))
+-29.439421731498 -93.082274941061
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))))) (PP (IN in) (NP (EX there)))))
+-29.618611146735 -97.675340430868
+(S1 (S (NP (RB there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-29.784333629685 -99.490472334213
+(S1 (S (VP (ADVP (RB there)) (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))
+-29.799010784321 -94.654356326592
+(S1 (S (NP (RB there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))
+-29.869023587761 -98.105218048559
+(S1 (S (NP (RB there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there)))))))
+-30.130601917054 -96.240891519450
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there))))))))
+-30.138265436918 -95.961845435698
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (EX there)))))))
+-30.303204149110 -97.723096882870
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there))))))
+-30.314922010941 -98.954310451237
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (ADJP (JJ brown)) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-30.399431625312 -98.055647414764
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (EX there))))))))
+-30.568959549402 -99.393244880698
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there))))))))
+-30.693127619504 -96.533564366047
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (S (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-31.058761446156 -95.539467025903
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there))))))))
+-31.082785364447 -99.113308072025
+(S1 (S (NP (RB there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (EX there))))))
+-31.127761115174 -98.918379710241
+(S1 (S (NP (EX there)) (VP (VBZ 's) (SBAR (S (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))))
+-31.323991251612 -97.917692214265
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))))) (PP (IN in) (NP (EX there)))))
+-31.582478640663 -99.158788809500
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there)))))
+-31.700967258219 -98.614241592013
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (ADJP (JJ brown)) (NN sugar)))) (PP (IN in) (NP (RB there))))))
+-31.817087515081 -99.002874789822
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (PP (IN of) (NP (JJ brown) (NN sugar))) (PP (IN in) (NP (RB there))))))))
+-32.289431528928 -99.685537156836
+(S1 (S (NP (RB there)) (VP (VBZ 's) (NP (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there)))))))
+-32.379613217532 -99.295547636420
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (S (NP (JJ brown) (NN sugar)) (PP (IN in) (NP (RB there)))))))))
+-32.788557837363 -96.862378899674
+(S1 (S (NP (RB there)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar))))) (PP (IN in) (NP (RB there)))))
+-32.950773963593 -98.960183381622
+(S1 (S (NP (EX there)) (VP (POS 's) (SBAR (S (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (JJ brown) (NN sugar)))) (PP (IN in) (NP (RB there))))))))
+

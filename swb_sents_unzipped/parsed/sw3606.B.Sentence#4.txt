@@ -1,0 +1,102 @@
+50 x
+-21.561458242652 -68.983020762721
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-22.460682122088 -72.847603040300
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show))))))))
+-24.018208075719 -81.969085571251
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (POS 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-24.019556224290 -77.564794927857
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-24.306546155551 -79.777004793491
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-24.511257111203 -84.629040618700
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-24.603946455230 -81.176807512330
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-24.614377611762 -77.476758179967
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-24.803824158541 -77.119197098742
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN good) (NN show))))))))))
+-24.851285164528 -83.094597523908
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (POS 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-24.889981745151 -81.429377186168
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show))))))))
+-25.140449237435 -75.117964995606
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-25.146785576062 -83.507807320730
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (RB kind) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-25.204531983118 -81.898377788477
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NN kind) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-25.252369936720 -84.603456739023
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB kind) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-25.323851520221 -77.406651173467
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-25.486590370047 -81.341340416066
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (DT that)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show)))))))
+-25.537676510032 -78.740732567356
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-25.691945119799 -83.574365934742
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (PP (RB kind) (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-25.766659876810 -82.914624066094
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (RB kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-25.859797213091 -85.041389770641
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show))))))))
+-26.051114861555 -76.263274318467
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-26.063828847083 -78.982547273185
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show))))))))
+-26.072807798828 -85.177584584994
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (PP (RB kind) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-26.357515778289 -83.327481501196
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (NN good) (NN show))))))))
+-26.358120813893 -82.605314825667
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show))))))))
+-26.379191249658 -81.271233451046
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show))))))))
+-26.425078993455 -83.642309212325
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (NN kind) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-26.560707561216 -84.466858297479
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (RB kind) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-26.614190801244 -82.671164005589
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (POS 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-27.125854208112 -84.334208590072
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-27.182595607991 -80.127856596046
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (JJ good) (NN show))))))))
+-27.213693590864 -81.031351787721
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (S (NP (DT a) (JJ good) (NN show)))))))))))
+-27.260959650327 -84.554014719945
+(S1 (S (NP (PRP I)) (VP (VB think) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-27.261922137392 -85.700971263879
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN good) (NN show))))))))))
+-27.282554030989 -77.679402628189
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (ADJP (JJ good)) (NN show))))))))))
+-27.577458150354 -84.988166951248
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (S (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))))
+-27.668999427651 -85.612934515988
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN good) (NN show)))))))))
+-27.687949119693 -80.001514415743
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (NN kind) (IN of)) (NP (DT a) (ADJP (JJ good)) (NN show))))))))
+-27.738540348932 -83.819040757966
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (JJ good)) (NN show))))))))))
+-28.382815150536 -83.254141331627
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN good) (NN show))))))))))
+-28.566217436110 -85.542827509489
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN good) (NN show))))))))))
+-28.613417335630 -82.931986382953
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (IN that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-28.756291128404 -83.541595406352
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-29.156811438525 -84.686904729213
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show))))))))))
+-29.179561261731 -84.100818320868
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a)) (JJ good) (NN show))))))))))
+-29.293480774656 -84.399450654488
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN good) (NN show))))))))))
+-29.500589351141 -85.486647959334
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (WDT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ good) (NN show)))))))))
+-30.861545022984 -83.814346861074
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (ADJP (JJ good)) (NN show))))))))))
+-31.772210647104 -84.959656183935
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (ADJP (JJ good)) (NN show))))))))))
+

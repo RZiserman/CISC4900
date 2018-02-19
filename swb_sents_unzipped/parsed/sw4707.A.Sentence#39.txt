@@ -1,0 +1,102 @@
+50 x
+-51.308211879266 -171.413644524349
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx))))))
+-52.156564547378 -171.861654355129
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx)))))
+-52.323282102331 -172.713207072492
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (DT that) (NN MUMBLEx))))))))
+-52.421817392409 -173.747325252892
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school) (IN that) (NN MUMBLEx)))))))
+-52.547876929577 -171.310844887710
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx)))))))
+-52.821152125414 -174.305711650204
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VBP send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx)))))
+-52.959377800443 -173.161216971431
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (DT that) (NN MUMBLEx)))))))
+-52.982534590521 -174.195335151832
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school) (IN that) (NN MUMBLEx))))))
+-53.562947124765 -172.610407435852
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (DT that) (NN MUMBLEx)))))))))
+-53.599395164842 -173.644525616253
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school) (IN that) (NN MUMBLEx))))))))
+-53.807306719596 -175.666124005517
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (PP (IN that) (NP (NNP MUMBLEx)))))))))
+-53.914836104052 -172.165033663984
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NN MUMBLEx))))))))
+-54.153678633392 -174.350084248051
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (IN that) (NN MUMBLEx))))))
+-54.201924882677 -175.971617337324
+(S1 (S (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx))))))
+-54.313670652164 -172.613043625860
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NN MUMBLEx)))))))
+-54.743414725900 -173.687936185719
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school)) (PP (IN that) (NP (NNP MUMBLEx)))))))
+-54.762653877417 -175.723932485904
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (PP (IN that) (NP (NNP MUMBLEx)))))))
+-54.778889685988 -173.239926286779
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school)) (PP (IN that) (NP (NNP MUMBLEx))))))))
+-54.780209808106 -173.534132138799
+(S1 (S (PP (IN since) (ADVP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx)))))
+-54.782882909977 -174.955690580988
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (SBAR (WHNP (WDT that)) (S (NP (NN MUMBLEx))))))))))
+-54.828221501504 -174.798094078831
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (IN that) (NN MUMBLEx)))))
+-55.092413876486 -172.062234027345
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NN MUMBLEx)))))))))
+-55.246138514317 -175.745777258823
+(S1 (S (ADVP (IN since) (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx)))))
+-55.300823599908 -175.563324368877
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (PP (IN that) (NP (NNP MUMBLEx))))))))))
+-55.302322421615 -174.056003106326
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (IN that) (NNP MUMBLEx))))))
+-55.318451008089 -175.403700479927
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (SBAR (WHNP (WDT that)) (S (NP (NN MUMBLEx)))))))))
+-55.331256433703 -174.247284611412
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (IN that) (NN MUMBLEx)))))))
+-55.340099814649 -174.504012937106
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (IN that) (NNP MUMBLEx)))))
+-55.467454029527 -175.843894889202
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (SBAR (WHNP (IN that)) (S (NP (NN MUMBLEx))))))))))
+-55.531141745948 -174.412857681447
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (IN that) (NN MUMBLEx))))))))
+-55.583023089049 -174.833694755102
+(S1 (S (PP (IN since) (ADVP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (DT that) (NN MUMBLEx)))))))
+-55.606179851249 -175.867812935502
+(S1 (S (PP (IN since) (ADVP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school) (IN that) (NN MUMBLEx))))))
+-55.687246685852 -173.671597518792
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NNP MUMBLEx)))))))
+-55.700049227083 -175.936786543991
+(S1 (S (PP (IN since) (ADVP (UH uh))) (NP (PRP I)) (VP (VBP send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (DT that) (NN MUMBLEx)))))
+-55.965606214940 -173.223587556916
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NNP MUMBLEx))))))))
+-55.974233132411 -174.852890944348
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (SBAR (WHNP (WDT that)) (S (NP (NN MUMBLEx)))))))))))
+-56.091858944060 -174.860867580386
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (IN that) (NN MUMBLEx)))))))
+-56.256170729851 -175.621132849265
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (PP (IN that) (NP (NNP MUMBLEx))))))))
+-56.272406566299 -173.137126650140
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school)) (PP (IN that) (NP (NNP MUMBLEx)))))))))
+-56.325732165619 -174.520524789467
+(S1 (S (PP (IN since) (NP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (IN that) (NNP MUMBLEx)))))))
+-56.366699430452 -176.044424237262
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (DT that) (NNP MUMBLEx)))))))))
+-56.442209044707 -174.072514890527
+(S1 (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (IN that) (NNP MUMBLEx))))))))
+-56.645031829839 -175.741095252563
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (SBAR (WHNP (IN that)) (S (NP (NN MUMBLEx)))))))))))
+-56.708719518382 -174.310058044807
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (IN that) (NN MUMBLEx)))))))))
+-56.795839301927 -173.953203469687
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (NP (IN that) (NNP MUMBLEx)))))))
+-56.937315940771 -174.285521409530
+(S1 (S (PP (IN since) (ADVP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NN MUMBLEx)))))))
+-57.367060014506 -175.360413969389
+(S1 (S (PP (IN since) (ADVP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school)) (PP (IN that) (NP (NNP MUMBLEx)))))))
+-57.459123067374 -173.120787920277
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NNP MUMBLEx)))))))))
+-57.935725925019 -173.969715253888
+(S1 (FRAG (SBAR (IN since) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (NP (JJ parochial) (NN school)) (NP (IN that) (NNP MUMBLEx)))))))))
+-58.310891974459 -175.344075302462
+(S1 (S (PP (IN since) (ADVP (UH uh))) (NP (PRP I)) (VP (VB send) (NP (PRP$ my) (NNS kids)) (PP (TO to) (NP (JJ parochial) (NN school))) (SBAR (IN that) (S (NP (NNP MUMBLEx)))))))
+

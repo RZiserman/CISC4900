@@ -1,0 +1,102 @@
+50 x
+-19.139261736570 -58.327751539566
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (ADJP (JJ regular)))))
+-19.282429329510 -62.578527511886
+(S1 (SQ (VBP do) (NP (PRP you)) (NP (NN vote) (JJ regular))))
+-19.510363155694 -57.851330392750
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (ADJP (JJ regular)))))))
+-19.711859468150 -63.191890946551
+(S1 (SQ (VBP do) (NP (PRP you)) (NP (NN vote)) (ADJP (JJ regular))))
+-20.385120542805 -62.319134636839
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (NP (JJ regular)))))
+-20.404018726816 -62.480508754621
+(S1 (SQ (VBP do) (NP (PRP you)) (ADJP (NN vote) (JJ regular))))
+-20.405182733688 -60.700062501813
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (S (ADJP (JJ regular))))))
+-20.549829895515 -63.614591875565
+(S1 (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP vote) (ADJP (JJ regular))))))))
+-20.604814813432 -59.981960577522
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (S (ADJP (JJ regular))))))))
+-20.767197678308 -59.714448965275
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (ADVP (JJ regular)))))))
+-20.780658000476 -61.714242276236
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (NP (JJ regular)))))))
+-20.863592019711 -63.614164612410
+(S1 (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP vote) (ADJP (JJ regular))))))))
+-21.007705992405 -63.220899747447
+(S1 (SQ (VBP do) (NP (PRP you)) (ADJP (NP (NN vote)) (JJ regular))))
+-21.029812347988 -63.443707786531
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (PRT (JJ regular)))))
+-21.137048411749 -65.158457293017
+(S1 (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB vote) (ADJP (JJ regular))))))))
+-21.368003261186 -66.938924499368
+(S1 (S (VBP do) (NP (PRP you)) (VP (VBP vote) (ADJP (JJ regular)))))
+-21.535072635236 -62.045184004934
+(S1 (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (ADJP (JJ regular))))))
+-21.566069208498 -65.090560693943
+(S1 (S (VP (VB do) (NP (PRP you)) (VP (VB vote) (ADJP (JJ regular))))))
+-21.572980879484 -63.719292563205
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (PRT (JJ regular)))))))
+-21.578266379786 -64.255971917471
+(S1 (S (VP (VBP do) (S (NP (PRP you)) (VP (VB vote) (ADJP (JJ regular)))))))
+-21.579087895210 -64.189076646913
+(S1 (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP vote) (S (ADJP (JJ regular)))))))))
+-21.632501900457 -64.576712732793
+(S1 (SQ (VBP do) (NP (PRP you)) (S (NP (NN vote)) (ADJP (JJ regular)))))
+-21.794673797567 -63.965796256750
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (ADVP (JJ regular)))))
+-21.840495285686 -64.487065035407
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (FRAG (JJ regular)))))))
+-21.892850019407 -64.188649383758
+(S1 (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP vote) (S (ADJP (JJ regular)))))))))
+-21.935545032533 -63.359802433118
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (FRAG (ADJP (JJ regular))))))))
+-22.087292275063 -67.289087498829
+(S1 (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB vote) (S (ADJP (JJ regular)))))))))
+-22.199719543091 -65.781640626450
+(S1 (S (VP (VB do) (NP (PRP you)) (ADVP (VB vote) (JJ regular)))))
+-22.214425511841 -64.655949682443
+(S1 (SQ (VBP do) (NP (PRP you)) (S (VP (VB vote) (ADJP (JJ regular))))))
+-22.322823668797 -65.435746437667
+(S1 (SQ (VBP do) (NP (PRP you)) (S (VP (VBP vote) (ADJP (JJ regular))))))
+-22.396245013951 -67.232690537861
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VBP vote) (ADJP (JJ regular)))))))
+-22.418286879238 -66.672345260673
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (FRAG (ADJP (JJ regular))))))
+-22.419538643281 -66.474875201229
+(S1 (S (VP (VB do) (NP (PRP you)) (VP (VB vote) (S (ADJP (JJ regular)))))))
+-22.431533719938 -67.021575890111
+(S1 (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB vote) (ADVP (JJ regular))))))))
+-22.449631482974 -64.175814189706
+(S1 (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (S (ADJP (JJ regular)))))))
+-22.517609617428 -67.513409146816
+(S1 (S (VBP do) (NP (PRP you)) (VP (VBP vote) (S (ADJP (JJ regular))))))
+-22.672718034736 -66.386602102242
+(S1 (S (VP (VBP do) (S (NP (PRP you)) (VP (VB vote) (S (ADJP (JJ regular))))))))
+-22.749441645948 -65.779951225086
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (VP (JJ regular)))))
+-22.752410288458 -64.273920099252
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (VP (JJ regular)))))))
+-22.810466380018 -65.908095888420
+(S1 (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (NP (JJ regular))))))
+-22.835100899612 -66.119090489996
+(S1 (S (VP (VBP do) (S (NP (PRP you)) (VP (VB vote) (ADVP (JJ regular)))))))
+-22.848836140077 -65.378672910939
+(S1 (S (VP (VB do) (NP (PRP you)) (VP (VB vote) (ADVP (JJ regular))))))
+-22.887107657850 -63.908302577459
+(S1 (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (ADVP (JJ regular))))))
+-23.030748456791 -66.786579862349
+(S1 (SQ (VBP do) (NP (PRP you)) (S (VP (VB vote) (S (ADJP (JJ regular)))))))
+-23.102913051222 -63.489033066980
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (S (ADVP (JJ regular))))))))
+-23.186803813758 -65.373092089146
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (S (ADVP (JJ regular))))))
+-23.384768610565 -66.270905683750
+(S1 (SQ (VBP do) (NP (PRP you)) (VP (VB vote) (S (NP (JJ regular))))))
+-23.436517959644 -66.010231249488
+(S1 (SQ (VBP do) (NP (PRP you)) (S (VP (VBP vote) (S (ADJP (JJ regular)))))))
+-23.527037996276 -64.638937120440
+(S1 (S (VP (VB do) (S (NP (PRP you)) (VP (VB vote) (S (NP (JJ regular))))))))
+-23.612302977908 -66.519068382663
+(S1 (SQ (VBP do) (NP (PRP you)) (S (VP (VB vote) (ADVP (JJ regular))))))
+

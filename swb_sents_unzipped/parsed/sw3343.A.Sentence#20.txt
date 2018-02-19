@@ -1,0 +1,102 @@
+50 x
+-19.720725848720 -67.025519641354
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars))))))
+-20.721849885746 -69.247397258835
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (VP (IN like) (NP (CD ten) (NNS dollars))))))
+-20.959418499084 -75.849539979166
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (VP (VB like) (NP (CD ten) (NNS dollars))))))
+-21.374988086182 -70.715187725707
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars)))))))
+-21.450173706082 -71.173369626303
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (VP (JJ like) (NP (CD ten) (NNS dollars))))))
+-21.791588320429 -69.897269100111
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were)) (PP (IN like) (NP (CD ten) (NNS dollars)))))
+-22.247878257853 -71.050613878233
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (NP (QP (IN like) (CD ten)) (NNS dollars)))))
+-22.363545208783 -72.937065368969
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (VP (IN like) (NP (CD ten) (NNS dollars)))))))
+-22.382865545121 -74.465976146871
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (NP (JJ like) (CD ten) (NNS dollars)))))
+-22.474508618425 -72.936119388166
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (NP (IN like) (CD ten) (NNS dollars)))))
+-22.481488465367 -70.349651464259
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (ADVP (IN like) (NP (CD ten) (NNS dollars))))))
+-22.715969122122 -79.539208089300
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (VP (VB like) (NP (CD ten) (NNS dollars)))))))
+-23.032525881187 -74.714043502456
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars))))))))
+-23.106921379119 -74.863037736437
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (VP (JJ like) (NP (CD ten) (NNS dollars)))))))
+-23.301759287178 -74.137501411895
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars))))))))
+-23.476270539392 -79.232338087589
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (IN like) (NP (CD ten) (NNS dollars)))))
+-23.585863420433 -75.641671391827
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (PRT (IN like)) (NP (CD ten) (NNS dollars)))))
+-23.715695202527 -74.740281956416
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (NP (QP (IN like) (CD ten)) (NNS dollars))))))
+-23.741025197330 -77.932478190943
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (NP (QP (JJ like) (CD ten)) (NNS dollars)))))
+-23.963729601795 -78.155644225054
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (NP (JJ like) (CD ten) (NNS dollars))))))
+-24.019098280729 -74.892467382642
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars)))))))
+-24.094815620099 -76.625787466349
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (NP (IN like) (CD ten) (NNS dollars))))))
+-24.164434236345 -79.106060159730
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (S (VP (VB like) (NP (CD ten) (NNS dollars)))))))
+-24.194514622939 -76.935921184310
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (IN like) (NP (CD ten) (NNS dollars))))))))
+-24.482961528405 -74.039319572300
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (ADVP (IN like) (NP (CD ten) (NNS dollars)))))))
+-24.503835320931 -76.359379093750
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (IN like) (NP (CD ten) (NNS dollars))))))))
+-24.534675211652 -78.485250491958
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten))) (NP (NNS dollars)))))
+-24.652574173870 -77.911936474080
+(S1 (S (NP (CC and) (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars))))))
+-24.674390183027 -79.806329384206
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (SBAR (IN like) (S (NP (CD ten) (NNS dollars)))))))
+-24.904276037720 -79.306536022512
+(S1 (FRAG (S (CC and) (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars)))))))
+-24.932298705275 -78.861893551778
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (JJ like) (NP (CD ten) (NNS dollars))))))))
+-24.971849453359 -79.630974886729
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (QP (CD ten) (NNS dollars)))))))
+-25.235113201498 -78.469790013152
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (PP (IN like) (NP (NP (CD ten)) (NNS dollars))))))
+-25.237379729572 -77.114345151591
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBD were) (VP (IN like) (NP (CD ten) (NNS dollars)))))))
+-25.241619403267 -78.285351461217
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (JJ like) (NP (CD ten) (NNS dollars))))))))
+-25.304774819895 -79.331339482200
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBD were) (PRT (IN like)) (NP (CD ten) (NNS dollars))))))
+-25.332562598307 -79.558883855229
+(S1 (S (NP (CC and) (NP (PRP they))) (VP (VBD were) (PP (IN like) (NP (CD ten) (NNS dollars))))))
+-25.692879610896 -80.133814091561
+(S1 (S (NP (CC and) (PRP they)) (VP (VBD were) (VP (IN like) (NP (CD ten) (NNS dollars))))))
+-25.752191072136 -78.739137888638
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (NP (QP (IN like) (CD ten)) (NNS dollars)))))))
+-25.770764978128 -78.162595798077
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (NP (QP (IN like) (CD ten)) (NNS dollars)))))))
+-25.890377337965 -80.543972509856
+(S1 (S (CC and) (NP (PRP they)) (VP (VBD were) (SBAR (S (VP (VBP like) (NP (CD ten) (NNS dollars))))))))
+-25.983474981908 -79.040317519059
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBD were) (VP (JJ like) (NP (CD ten) (NNS dollars)))))))
+-26.131311489709 -80.624643398571
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (NP (IN like) (CD ten) (NNS dollars)))))))
+-26.149885395701 -80.048101308010
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (NP (IN like) (CD ten) (NNS dollars)))))))
+-26.446030437349 -78.038175388874
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (ADVP (IN like) (NP (CD ten) (NNS dollars))))))))
+-26.485810124952 -78.917561706749
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBD were) (NP (QP (IN like) (CD ten)) (NNS dollars))))))
+-26.609392215255 -78.216599302526
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBD were) (ADVP (IN like) (NP (CD ten) (NNS dollars)))))))
+-26.712440485524 -80.803067216682
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBD were) (NP (IN like) (CD ten) (NNS dollars))))))
+-26.758808143341 -77.461633298314
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBD were) (ADVP (IN like) (NP (CD ten) (NNS dollars))))))))
+-27.413336793306 -81.236068296985
+(S1 (S (NP (CC and) (PRP they)) (VP (VBD were) (ADVP (IN like) (NP (CD ten) (NNS dollars))))))
+

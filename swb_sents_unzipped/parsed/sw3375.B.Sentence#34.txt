@@ -1,0 +1,102 @@
+50 x
+-28.093760882806 -92.761456672594
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (NP (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-28.858126867253 -89.765467766266
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-28.929646060141 -94.152234612627
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many) (NNS places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))
+-29.320316825518 -97.266966979070
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many) (NNS places)) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-29.399458699117 -98.085793678332
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (NP (NP (RB not) (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-30.037801107365 -99.695485859472
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (DT many) (NNS places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))
+-30.173914814504 -98.309323419847
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (NP (RB not) (JJ many) (NNS places)) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-30.281092238662 -98.069104291348
+(S1 (S (CC And) (RB unfortunately) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (NP (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-30.302554031092 -93.815097547925
+(S1 (S (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-30.317734739256 -98.425736398284
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (POS 's) (NP (RB not) (JJ many) (NNS places)) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-30.387348355262 -94.768907734324
+(S1 (S (CC And) (S (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-30.401007954639 -99.613895298879
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (NP (NP (ADJP (RB not) (JJ many)) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-30.432948171392 -98.684329899853
+(S1 (S (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (DT many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-30.610245029954 -99.013088486908
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many) (NNS places) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-30.667578325134 -96.239895136484
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (S (NP (RB not) (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-30.670764008350 -99.638140086251
+(S1 (S (CC And) (S (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (DT many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-30.692177916550 -99.028714212330
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (NP (JJ many) (NNS places)) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))
+-30.937101595274 -98.991915911894
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (POS 's) (NP (NP (RB not) (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-31.045458223109 -95.073115385020
+(S1 (S (CC And) (RB unfortunately) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-31.104502904089 -99.257523759336
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (DT many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-31.116977415997 -99.459882231381
+(S1 (S (CC And) (RB unfortunately) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many) (NNS places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))
+-31.157451639099 -99.738758152624
+(S1 (S (CC And) (S (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (NP (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))))
+-31.425525627433 -100.520017532442
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (POS 's) (NP (NP (ADJP (RB not) (JJ many)) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-31.633448123543 -99.126545005060
+(S1 (S (CC And) (ADVP (RB unfortunately)) (S (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-31.908614530612 -99.893618503308
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (SBAR (S (NP (DT many)) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))))
+-31.916773443467 -98.089600602487
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (SBAR (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))
+-31.943030803838 -99.937730193072
+(S1 (S (CC And) (SBAR (RB unfortunately) (S (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many))))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-31.958931231533 -100.420490801005
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (POS 's) (S (NP (RB not) (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-32.025849711168 -98.697013125817
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (S (RB not) (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-32.096451238619 -99.112013578829
+(S1 (FRAG (CC And) (RB unfortunately) (SBAR (S (NP (EX there)) (VP (VBZ 's) (RB not) (NP (NP (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))))
+-32.130068403125 -98.127963369318
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (SBAR (S (NP (JJ many)) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))))
+-32.130073793938 -96.742769422250
+(S1 (S (CC And) (S (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))
+-32.347515190167 -100.245218738122
+(S1 (FRAG (CC And) (ADVP (RB unfortunately)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (RB not) (NP (NP (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))))
+-32.404016252202 -100.130156094663
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-32.468156663242 -98.085281981607
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (NP (JJ many) (NNS places)) (SBAR (S (VP (TO to) (VP (VB get) (NP (IN that) (NN money))))))))))
+-32.969204347689 -95.089293075279
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (IN that) (NN money))))))))
+-33.051175330379 -100.502791518861
+(S1 (FRAG (CC And) (RB unfortunately) (SBAR (S (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many) (NNS places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))))
+-33.082587060976 -96.116024591594
+(S1 (FRAG (CC And) (RB unfortunately) (SBAR (S (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-33.191927840578 -99.476059921639
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many) (NNS places) (S (VP (TO to) (VP (VB get) (NP (IN that) (NN money)))))))))
+-33.240206736997 -99.158252547029
+(S1 (S (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (NP (RB not) (JJ many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-33.315054384675 -97.249229750887
+(S1 (FRAG (CC And) (ADVP (RB unfortunately)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))))
+-33.325001052803 -100.112062733427
+(S1 (S (CC And) (S (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (NP (RB not) (JJ many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-33.478041084207 -99.008814897710
+(S1 (S (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many)))) (VP (NNS places) (S (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-33.627742151304 -99.326113922912
+(S1 (S (ADVP (CC And) (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-33.710338712426 -100.339412123690
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (WDT that) (NN money))))))))
+-33.955958318110 -100.096053809553
+(S1 (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many)) (S (NP (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money))))))))
+-34.427523411528 -99.138922856938
+(S1 (S (S (CC And) (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (IN that) (NN money))))))))
+-34.512317724547 -100.092733043336
+(S1 (S (CC And) (S (ADVP (RB unfortunately)) (NP (EX there)) (VP (VBZ 's) (RB not) (NP (JJ many)))) (VP (VBZ places) (S (VP (TO to) (VP (VB get) (NP (IN that) (NN money))))))))
+-35.156535703545 -100.396940694033
+(S1 (S (CC And) (RB unfortunately) (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (IN that) (NN money))))))))
+-35.772938449947 -100.610020581629
+(S1 (FRAG (CONJP (CC And) (RB unfortunately)) (S (NP (EX there)) (VP (VBZ 's) (RB not) (S (NP (JJ many) (NNS places)) (VP (TO to) (VP (VB get) (NP (DT that) (NN money)))))))))
+

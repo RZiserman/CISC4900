@@ -1,0 +1,102 @@
+50 x
+-30.606601743948 -106.586200073806
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-31.146847941740 -105.590257640916
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-31.596718182991 -108.847744685673
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-31.783012416457 -107.627316764069
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-32.136964408662 -107.851802252783
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-32.323258614250 -106.631374331179
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-32.479310542912 -113.729979865925
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense)) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))
+-32.520675250141 -113.006185225862
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-32.936570746665 -111.522914476817
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-32.941352331406 -109.573711593039
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-32.964262429705 -112.734037433034
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense)) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))
+-33.060921475811 -112.010242792972
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-33.437049323723 -113.751843156428
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (PP (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-33.544622684727 -109.541010598254
+(S1 (FRAG (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-33.548888453458 -110.526972043927
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-33.553670066077 -108.577769160149
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-33.590828622650 -114.047301916125
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-33.592510599688 -109.904096254309
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-33.636060209703 -111.652627019071
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-33.789931487230 -113.664912351080
+(S1 (S (CC And) (S (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-33.879072556458 -113.104135837684
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (NP (DT that) (NN sense)) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-33.931468770450 -111.835256204907
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-33.986190281515 -112.755900723538
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (PP (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-34.003423313482 -113.591464153838
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (NP (DT that) (NN sense)) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-34.006724119175 -112.564031167081
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-34.084868910398 -108.545068165364
+(S1 (FRAG (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-34.117763003916 -110.614828283303
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-34.131074848321 -113.051359483235
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-34.330177685022 -112.668969918190
+(S1 (S (CC And) (S (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-34.491390291129 -112.108193404794
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (NP (DT that) (NN sense)) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-34.543786505120 -110.839313772016
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-34.578912249386 -111.981140164432
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (PP (IN of) (NP (PRP I)))))) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))
+-34.582627038731 -112.165640866177
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-34.619041825967 -111.568088734190
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-34.626176648746 -113.914171630939
+(S1 (S (CC And) (NP (EX there)) (VP (POS 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBD opened) (NP (PRP$ my) (NN door))))))))))
+-34.730080738586 -109.618885850412
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-34.768921244319 -110.945212944573
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-34.779245012623 -111.971861277752
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (S (NP (PRP$ my) (NN door)))))))))))
+-34.812470882212 -112.693743709335
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-34.962076327178 -110.985197731541
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (PP (IN of) (NP (PRP I)))))) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))
+-35.145455436044 -113.698206012097
+(S1 (S (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (PP (IN of) (NP (PRP I)))))) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door))))))
+-35.205109854025 -113.797017413801
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (PP (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-35.523864931714 -112.702263579206
+(S1 (S (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (PP (IN of) (NP (PRP I)))))) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door))))))
+-35.879373272186 -112.528522117487
+(S1 (FRAG (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBD opened) (NP (PRP$ my) (NN door)))))))))))
+-35.955655685132 -113.012977968015
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (S (NP (PRP$ my) (NN door))))))))))))
+-35.980846577146 -112.891607773543
+(S1 (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBN opened) (NP (PRP$ my) (NN door))))))))))
+-36.486909422115 -113.481782568375
+(S1 (FRAG (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN sense)) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-36.491691006856 -111.532579684597
+(S1 (FRAG (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB now)) (VP (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-36.530531540467 -112.858906778757
+(S1 (FRAG (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (IN of) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+-37.157257249656 -113.932724463806
+(S1 (S (CC And) (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sense) (SBAR (WHNP (IN of)) (S (NP (PRP I)) (VP (VBP have) (VP (ADVP (RB now)) (VBN opened) (NP (PRP$ my) (NN door)))))))))))
+

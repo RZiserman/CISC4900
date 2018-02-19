@@ -1,0 +1,102 @@
+50 x
+-10.961139907438 -41.048502004705
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (JJ same) (NN way)))))
+-16.220178138367 -52.410513360537
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (DT the) (JJ same) (NN way))))))
+-18.274423191125 -58.154777850685
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (JJ same) (NN way)))))))
+-18.752762937527 -58.256169736206
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT the)) (JJ same) (NN way)))))
+-19.268902201891 -67.196012030223
+(S1 (S (NP (NN I)) (VP (VBP 'm) (NP (DT the) (JJ same) (NN way)))))
+-19.689395324124 -57.619871785415
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (ADJP (JJ same)) (NN way)))))
+-21.799985984699 -71.120559284907
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (NP (DT the) (JJ same) (NN way)))))
+-22.576000435878 -77.654652094051
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (JJ same) (NN way)))))
+-23.337651241214 -69.183213244773
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NP (DT the)) (JJ same) (NN way))))))
+-23.795691315672 -76.370600172821
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (JJ same) (NN way))))))
+-24.145189995815 -67.265876218548
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (DT the) (ADJP (JJ same)) (NN way))))))
+-24.341842329390 -76.380986562285
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (NP (DT the) (JJ same) (NN way))))))
+-24.448965612821 -78.558023386055
+(S1 (S (NP (NN I)) (VP (VBP 'm) (S (NP (DT the) (JJ same) (NN way))))))
+-25.378512391924 -71.887075231646
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT the)) (ADJP (JJ same)) (NN way)))))
+-25.398435891425 -74.927477848894
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT the)) (JJ same) (NN way)))))))
+-26.196182125324 -73.010140752876
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (ADJP (JJ same)) (NN way)))))))
+-26.513759499858 -81.601903126189
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (S (NP (DT the) (JJ same) (NN way))))))
+-26.584269855579 -84.302287876203
+(S1 (S (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (JJ same) (NN way)))))))
+-27.188233849193 -84.403679761725
+(S1 (S (NP (NN I)) (VP (VBP 'm) (NP (NP (DT the)) (JJ same) (NN way)))))
+-27.368772901037 -88.135995935333
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (DT the) (JJ same) (NN way))))))
+-27.997157615790 -83.767381810934
+(S1 (S (NP (NN I)) (VP (VBP 'm) (NP (DT the) (ADJP (JJ same)) (NN way)))))
+-28.417983898044 -86.851944014103
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (DT the) (JJ same) (NN way)))))))
+-28.634810228316 -87.010768926350
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (JJ same) (NN way)))))))
+-28.885135961762 -86.862330403567
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (S (NP (DT the) (JJ same) (NN way)))))))
+-29.410924979495 -93.544861735494
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (JJ same) (NN way)))))))
+-29.677736995579 -88.328226702424
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (NP (NP (DT the)) (JJ same) (NN way)))))
+-30.314854295764 -83.740209347687
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NP (DT the)) (ADJP (JJ same)) (NN way))))))
+-30.377399646758 -94.862319511568
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT the)) (JJ same) (NN way)))))
+-30.513546876502 -92.260809814263
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (JJ same) (NN way))))))))
+-30.528241348417 -87.691928876210
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (NP (DT the) (ADJP (JJ same)) (NN way)))))
+-31.001821876553 -93.578267590337
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT the)) (JJ same) (NN way))))))
+-31.059597590220 -92.271196203727
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (JJ same) (NN way))))))))
+-31.304255799596 -94.226021685354
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (ADJP (JJ same)) (NN way)))))
+-31.624324690270 -93.588653979801
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (NP (NP (DT the)) (JJ same) (NN way))))))
+-31.705471035667 -95.330723270292
+(S1 (S (NP (NN I)) (VP (VBP 'm) (S (NP (NP (DT the)) (JJ same) (NN way))))))
+-32.373977467481 -93.413386244067
+(S1 (S (NP (NN I)) (VP (VBP 'm) (S (NP (DT the) (ADJP (JJ same)) (NN way))))))
+-32.378282478556 -89.484473734602
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT the)) (ADJP (JJ same)) (NN way)))))))
+-32.485695266603 -92.941969764123
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (ADJP (JJ same)) (NN way))))))
+-33.031846280321 -92.952356153587
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (NP (DT the) (ADJP (JJ same)) (NN way))))))
+-33.709195722705 -98.374603010426
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (S (NP (NP (DT the)) (JJ same) (NN way))))))
+-33.813983306378 -98.034585257165
+(S1 (S (NP (NN I)) (VP (VBP 'm) (NP (NP (DT the)) (ADJP (JJ same)) (NN way)))))
+-33.852796911454 -101.074987874413
+(S1 (S (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (NP (DT the)) (JJ same) (NN way)))))))
+-34.438771354519 -96.457265984201
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (S (NP (DT the) (ADJP (JJ same)) (NN way))))))
+-34.506028789778 -99.157650778395
+(S1 (S (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (ADJP (JJ same)) (NN way)))))))
+-35.293784758485 -102.991358793345
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (DT the) (ADJP (JJ same)) (NN way))))))
+-35.537068323678 -103.624643898339
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (NP (DT the)) (JJ same) (NN way)))))))
+-36.303486536398 -101.959132514179
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (NP (NP (DT the)) (ADJP (JJ same)) (NN way)))))
+-36.342995763855 -101.707306872114
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (S (NP (DT the) (ADJP (JJ same)) (NN way)))))))
+-36.556569154152 -101.866131828541
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (SBAR (S (NP (DT the) (ADJP (JJ same)) (NN way)))))))
+-36.810147830361 -101.717693261578
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (S (NP (DT the) (ADJP (JJ same)) (NN way)))))))
+

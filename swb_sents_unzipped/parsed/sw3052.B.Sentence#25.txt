@@ -1,0 +1,102 @@
+50 x
+-20.510355383594 -71.487944463730
+(S1 (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best))))))
+-21.265116813906 -74.968772870182
+(S1 (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (RBS best))))))
+-21.618976213860 -73.118047604790
+(S1 (S (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-22.377936581172 -76.598876011242
+(S1 (S (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (RBS best)))))))
+-22.560892467172 -75.027954465088
+(S1 (S (CC and) (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best))))))
+-22.774858511079 -74.703995655162
+(S1 (FRAG (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-22.813137541117 -71.380767211369
+(S1 (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best)))))))
+-22.987489623349 -74.357664887366
+(S1 (FRAG (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-23.315653894696 -78.508782871539
+(S1 (S (CC and) (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (RBS best))))))
+-23.524931733066 -80.685922962195
+(S1 (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (X (DT the) (JJS best))))))
+-23.529619938603 -78.184824061613
+(S1 (FRAG (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (RBS best)))))))
+-23.795123727873 -77.838493293818
+(S1 (FRAG (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (RBS best)))))))
+-23.950033845062 -78.110826956364
+(S1 (S (CC and) (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best))))))
+-24.017087871383 -73.010870352428
+(S1 (S (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-24.597020095656 -77.006470883701
+(S1 (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (ADJP (DT the) (JJS best))))))
+-24.648256693332 -82.316026103255
+(S1 (S (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (X (DT the) (JJS best)))))))
+-24.656812196627 -82.737435670137
+(S1 (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (VP (RB not) (VB afford) (NP (DT the) (JJS best))))))
+-24.810749142585 -81.591655362815
+(S1 (S (CC and) (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (NP (DT the) (RBS best))))))
+-24.863674621907 -74.920777212726
+(S1 (S (CC and) (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best)))))))
+-24.965291861708 -79.134655259774
+(S1 (S (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-25.077640665814 -74.596818402800
+(S1 (FRAG (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-25.169828419399 -80.685404264943
+(S1 (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (ADVP (DT the) (RBS best))))))
+-25.286808160872 -74.250487635005
+(S1 (FRAG (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-25.656673505968 -83.156759060751
+(S1 (S (CC and) (S (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-25.754830801810 -80.821113976363
+(S1 (S (CC and) (NP (PRP they)) (VP (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-25.830206099019 -82.615483666226
+(S1 (S (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (NP (DT the) (RBS best)))))))
+-25.921060625922 -78.636574024760
+(S1 (S (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (ADJP (DT the) (JJS best)))))))
+-25.980569389452 -82.315507406003
+(S1 (S (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (ADVP (DT the) (RBS best)))))))
+-25.993365032821 -83.555643385831
+(S1 (FRAG (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (X (DT the) (JJS best)))))))
+-26.077430299942 -83.387086190324
+(S1 (S (CC and) (NP (NP (PRP they)) (ADVP (RB really))) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best))))))
+-26.241646331615 -83.589976217404
+(S1 (S (NP (CC and) (NP (PRP they))) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best))))))
+-26.252815999796 -78.003649704002
+(S1 (S (CC and) (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best)))))))
+-26.647557179233 -80.546480885058
+(S1 (S (CC and) (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (ADJP (DT the) (JJS best))))))
+-26.662031487463 -82.650112791546
+(S1 (FRAG (CC and) (S (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-26.678524022000 -80.719748547383
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best)))))))
+-26.861523223140 -80.222522075132
+(S1 (FRAG (S (CC and) (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (ADJP (DT the) (JJS best)))))))
+-27.046830696736 -82.634883409058
+(S1 (S (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (NP (DT the) (JJS best))))))))
+-27.065453395410 -79.876191307337
+(S1 (FRAG (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (ADJP (DT the) (JJS best)))))))
+-27.363403519230 -79.027478007413
+(S1 (S (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-27.681855796154 -83.555124688579
+(S1 (FRAG (CC and) (S (NP (PRP they)) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (ADVP (DT the) (RBS best)))))))
+-28.036698557123 -83.629353376334
+(S1 (S (CC and) (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (ADJP (DT the) (JJS best))))))
+-28.054785163490 -83.049581808389
+(S1 (S (CC and) (S (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-28.152942464908 -80.713936752675
+(S1 (S (CC and) (NP (PRP they)) (VP (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-28.380212457464 -83.279908937962
+(S1 (S (CC and) (NP (NP (PRP they)) (ADVP (RB really))) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best)))))))
+-28.544428489138 -83.482798965042
+(S1 (S (NP (CC and) (NP (PRP they))) (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best)))))))
+-28.964813644986 -82.542935539184
+(S1 (FRAG (CC and) (S (NP (PRP they)) (RB really) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-28.966556579523 -80.612571295021
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-29.379366188361 -83.582343748256
+(S1 (S (CC and) (S (NP (NP (PRP they)) (ADVP (RB really))) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best))))))))
+-29.444942362622 -82.527706185370
+(S1 (S (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best)))))))))
+-30.917097115297 -83.622903181807
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (ADVP (RB really)) (VP (MD can) (RB not) (VP (VB afford) (S (NP (DT the) (JJS best)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-14.003933043971 -41.593958913284
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))
+-14.534343978633 -43.371382605404
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))
+-14.564335519505 -48.231383374582
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (PRT (RB close))))))
+-14.935965166107 -47.669803684742
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (RB close))))))
+-15.380106886168 -50.008807066701
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (PRT (RB close))))))
+-15.623430885786 -49.121529254836
+(S1 (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close)))))))
+-15.751736532769 -49.447227376861
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (RB close))))))
+-15.753331639219 -48.298029957148
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))
+-15.796573097339 -44.705146156626
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (RB close))))))
+-16.029748487709 -55.197374026294
+(S1 (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (RB close)))))))
+-16.369509693032 -50.675747229933
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (NN close))))))
+-16.599094546753 -54.935454418446
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (PRT (RB close))))))
+-16.612344461213 -46.482569848745
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (RB close))))))
+-16.786881119079 -53.338827287835
+(S1 (S (CC so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))
+-16.970724193355 -54.373874728606
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (RB close))))))
+-16.974872054398 -49.650593449337
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))))
+-17.019496214907 -52.453170922052
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (NN close))))))
+-17.077774377386 -55.082256850413
+(S1 (S (IN so) (NP (PRP it)) (VP (POS 's) (VP (VBG getting) (ADJP (JJ close))))))
+-17.101369617356 -47.701017894464
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close)))))))
+-17.245313686153 -52.232716498178
+(S1 (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (RB close)))))))
+-17.351428727618 -49.772554939300
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (S (ADJP (RB close)))))))
+-17.364133676718 -52.714082953608
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (S (VP (VBG getting) (ADJP (JJ close)))))))
+-17.472604778065 -51.516918621775
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (S (ADVP (RB close)))))))
+-17.540485211500 -52.843168958784
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (VB close))))))
+-17.629351250753 -49.373283735283
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (JJ close))))))
+-17.641331916812 -53.411444384344
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (JJ close))))))
+-17.714325747678 -54.338442355761
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (PRT (RB close)))))))
+-17.732316062371 -54.339009356818
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (S (VP (VB close)))))))
+-17.817364794280 -53.776862665921
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (RB close)))))))
+-17.831332121799 -51.409217200489
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (RB close))))))
+-17.898300381380 -54.491506645728
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (S (VP (VBG getting) (ADJP (JJ close)))))))
+-17.906810219762 -53.252535330381
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (S (ADJP (JJ close)))))))
+-17.949204632050 -54.180373264092
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (RB close))))))
+-18.067092588932 -54.061352385176
+(S1 (S (CC so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close)))))))
+-18.078201635820 -48.970201127837
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (NN close))))))
+-18.159762182628 -51.150707427403
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (JJ close))))))
+-18.167200091493 -51.549978631420
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (S (ADJP (RB close)))))))
+-18.171742851474 -55.188868076464
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (JJ close))))))
+-18.223724943374 -54.620592650904
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (VB close))))))
+-18.288376141939 -53.294342313895
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (S (ADVP (RB close)))))))
+-18.437221151637 -55.029959022500
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (S (ADJP (JJ close)))))))
+-18.619976177938 -53.720809063628
+(S1 (S (ADVP (RB so)) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close)))))))
+-18.715865371978 -52.761780692679
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (RB close))))))))
+-18.728188157695 -50.747624819957
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (NN close))))))
+-18.936767757236 -53.874331825276
+(S1 (S (ADVP (IN so)) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))
+-19.032929992724 -50.812205137805
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (RB close)))))))
+-19.088266317609 -55.141484348035
+(S1 (S (INTJ (RB so)) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))
+-19.120975264607 -53.430001961074
+(S1 (FRAG (RB so) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))))
+-19.237851361432 -54.573562300665
+(S1 (ADJP (RB so) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ close))))))))
+-20.451603829206 -55.077260109016
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (ADVP (NN close)))))))
+

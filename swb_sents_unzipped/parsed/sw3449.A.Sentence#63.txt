@@ -1,0 +1,102 @@
+50 x
+-14.696897329840 -47.339510855974
+(S1 (S (CC And) (NP (NN child) (NN labor))))
+-15.143753654891 -48.549227281594
+(S1 (NP (CC And) (NN child) (NN labor)))
+-15.484085849159 -49.374771858267
+(S1 (NP (CC And) (NP (NN child) (NN labor))))
+-15.870527187852 -48.704884968127
+(S1 (FRAG (CC And) (NP (NN child) (NN labor))))
+-17.210891118562 -51.156074555509
+(S1 (X (CC And) (NP (NN child) (NN labor))))
+-17.313099910876 -52.694693139441
+(S1 (S (CC And) (NP (NN child)) (VP (NN labor))))
+-17.504677248324 -50.230724550079
+(S1 (S (CC And) (NP (NN child)) (NP (NN labor))))
+-17.618832556471 -54.953965381038
+(S1 (S (CC And) (S (NP (NN child) (NN labor)))))
+-17.684635106484 -55.923066266875
+(S1 (SQ (CC And) (NP (NN child) (NN labor))))
+-17.967283826561 -48.342786596247
+(S1 (S (NP (CC And) (NN child)) (NP (NN labor))))
+-18.012727248582 -50.870866185300
+(S1 (S (NP (CC And) (NN child)) (VP (NN labor))))
+-18.055525763145 -58.703007581846
+(S1 (S (CC And) (VP (NN child) (NN labor))))
+-18.163339875239 -51.962797016189
+(S1 (SQ (CC And) (FRAG (NP (NN child) (NN labor)))))
+-18.314999746047 -54.911996027003
+(S1 (PP (CC And) (NP (NN child) (NN labor))))
+-18.318137951276 -58.376539245404
+(S1 (S (CC And) (ADJP (NN child) (NN labor))))
+-18.401099162348 -52.734268020630
+(S1 (S (CC And) (NP (NN child)) (ADJP (NN labor))))
+-18.455464829129 -52.585722991725
+(S1 (FRAG (CC And) (ADJP (NN child) (NN labor))))
+-18.474606082887 -52.677821955771
+(S1 (FRAG (PP (CC And) (NP (NN child) (NN labor)))))
+-18.478635280580 -54.519770857696
+(S1 (FRAG (NP (CC And) (NN child) (NN labor))))
+-18.773714933278 -53.170441046329
+(S1 (FRAG (CC And) (FRAG (NP (NN child) (NN labor)))))
+-18.926472075772 -55.537074876280
+(S1 (FRAG (NP (CC And) (NP (NN child) (NN labor)))))
+-19.230822203210 -54.465455518795
+(S1 (X (PP (CC And) (NP (NN child) (NN labor)))))
+-19.391450304821 -55.183656333192
+(S1 (X (CC And) (S (NP (NN child) (NN labor)))))
+-19.411084098435 -51.358056808778
+(S1 (S (NP (CC And) (NN child)) (ADJP (NN labor))))
+-19.446224579052 -55.099964741314
+(S1 (FRAG (CC And) (S (NP (NN child) (NN labor)))))
+-19.565701718778 -56.894350552228
+(S1 (NP (CC And) (NP (NP (NN child)) (NP (NN labor)))))
+-19.697068475791 -57.524620812971
+(S1 (FRAG (CC And) (VP (NN child) (NN labor))))
+-19.759262868709 -57.910890818952
+(S1 (S (NP (CC And) (NP (NN child) (NN labor)))))
+-19.778752700223 -56.703474923507
+(S1 (NP (NP (CC And) (NN child)) (NN labor)))
+-19.868340657352 -57.685791029437
+(S1 (FRAG (CC And) (NP (NP (NN child)) (NP (NN labor)))))
+-19.892043071419 -53.791874346908
+(S1 (X (CC And) (NP (NN child)) (NP (NN labor))))
+-19.983225515473 -55.114171929338
+(S1 (S (CC And) (NP (NN child)) (ADVP (NN labor))))
+-19.989961779517 -57.583216530213
+(S1 (FRAG (CC And) (ADJP (NN child) (NP (NN labor)))))
+-20.046412352238 -58.430754755544
+(S1 (FRAG (CC And) (VP (NN child) (NP (NN labor)))))
+-20.111336985485 -58.937918034058
+(S1 (S (NP (CC And) (NN child) (NN labor))))
+-20.302524284790 -59.418390184667
+(S1 (X (NP (CC And) (NP (NN child) (NN labor)))))
+-20.321513776773 -59.717418037914
+(S1 (X (NP (CC And) (NN child) (NN labor))))
+-20.635943662686 -53.969079701071
+(S1 (S (NP (CC And) (NN child)) (ADVP (NN labor))))
+-20.672189258051 -59.853441400013
+(S1 (S (CC And) (S (NP (NN child)) (NP (NN labor)))))
+-20.859333032724 -59.597546503808
+(S1 (X (CC And) (S (VP (NN child) (NP (NN labor))))))
+-20.893170944791 -59.681706150976
+(S1 (FRAG (CC And) (S (VP (NN child) (NP (NN labor))))))
+-21.265514460912 -57.564928847794
+(S1 (X (CC And) (S (NP (NN child)) (NP (NN labor)))))
+-21.411311368231 -58.876482532432
+(S1 (FRAG (NP (CC And) (NN child)) (NP (NN labor))))
+-21.455883408106 -57.481237255916
+(S1 (FRAG (CC And) (S (NP (NN child)) (NP (NN labor)))))
+-21.581075275301 -59.755099593747
+(S1 (SQ (CC And) (FRAG (ADJP (NN child) (NN labor)))))
+-21.723028634268 -59.265485119969
+(S1 (SQ (CC And) (FRAG (NP (NN child)) (NP (NN labor)))))
+-21.827426342134 -59.795828307628
+(S1 (FRAG (CC And) (FRAG (ADJP (NN child) (NN labor)))))
+-22.164255843356 -59.708987260918
+(S1 (FRAG (CC And) (S (NP (NN child)) (VP (NN labor)))))
+-22.200449615069 -60.034217878462
+(S1 (FRAG (CC And) (FRAG (NP (NN child)) (NP (NN labor)))))
+-23.438363430736 -59.759951242583
+(S1 (S (NP (CC And) (NP (NN child))) (NP (NN labor))))
+

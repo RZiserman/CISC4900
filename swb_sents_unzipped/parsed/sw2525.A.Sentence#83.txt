@@ -1,0 +1,102 @@
+50 x
+-16.408016433251 -62.469192256968
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RP in))))))
+-16.687186945174 -67.525241791521
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RB in))))))
+-16.801743241070 -64.836147689280
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RB in))))))
+-17.610579360046 -65.737751145333
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (IN in))))))
+-17.660748093777 -63.276347931423
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RP in)))))))
+-17.743623851597 -65.643303363735
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RB in)))))))
+-17.769754978489 -68.332397465977
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RB in)))))))
+-17.912444862706 -66.183413998767
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (IN in))))))
+-18.735617570573 -66.544906819789
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (IN in)))))))
+-18.794305194885 -69.056175359398
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RP in))))))
+-19.073475706809 -74.112224893952
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RB in))))))
+-19.188032002705 -71.423130791710
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RB in))))))
+-19.212295493233 -66.990569673223
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (IN in)))))))
+-19.787076422910 -67.789783525480
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (IN in))))))
+-19.996868121681 -72.324734247764
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (IN in))))))
+-20.296162986742 -67.950652299434
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RP in)))))))
+-20.298733624341 -72.770397101198
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (IN in))))))
+-20.623212096666 -73.006701833987
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RB in)))))))
+-20.737768392562 -70.317607731746
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RB in)))))))
+-20.890835042142 -72.686211345966
+(S1 (S (CC and) (NP (NN somebody)) (MD will) (VP (VB turn) (NP (PRP it)) (PP (IN in)))))
+-20.906736690884 -72.032219263190
+(S1 (FRAG (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RP in)))))))
+-20.946239633437 -68.596939199936
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (IN in)))))))
+-21.176728577497 -69.535986978027
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (RP in))))))
+-21.176880982464 -69.296925910521
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RP in))))))
+-21.467007799491 -74.399174695502
+(S1 (FRAG (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RB in)))))))
+-21.468478851537 -71.219211187799
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (IN in)))))))
+-21.643123218324 -76.008685733489
+(S1 (S (CC and) (NP (NN somebody)) (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RP in)))))
+-21.674059663025 -72.820668117628
+(S1 (S (NP (CC and) (NP (NN somebody))) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (RP in))))))
+-21.698715619417 -73.984644540245
+(S1 (S (CC and) (NP (NN somebody)) (MD will) (VP (VBP turn) (NP (PRP it)) (PRT (RP in)))))
+-21.716630539828 -76.036792765825
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (S (VP (VB turn) (NP (PRP it)) (PP (IN in)))))))
+-21.756972023545 -74.633049837310
+(S1 (S (CC and) (NP (NN somebody)) (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RB in)))))
+-21.770344354197 -71.664874041233
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (IN in)))))))
+-21.956601085679 -75.300778151556
+(S1 (FRAG (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (IN in)))))))
+-22.067786470845 -75.187623549939
+(S1 (S (NP (CC and) (NP (NN somebody))) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RB in))))))
+-22.173365184545 -74.376766627910
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (IN in))))))
+-22.254647818024 -70.343142652483
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (RP in)))))))
+-22.258466588339 -75.746441004990
+(S1 (FRAG (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PRT (IN in)))))))
+-22.288925222991 -70.104081584976
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RP in)))))))
+-22.290664639484 -75.023299034936
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (S (NP (PRP it)) (ADVP (IN in)))))))
+-22.875892946890 -75.024244480328
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)))) (ADVP (RB in))))
+-22.876622589821 -76.089227005993
+(S1 (S (NP (CC and) (NP (NN somebody))) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (IN in))))))
+-22.972424892663 -73.402152610920
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (S (NP (PRP it)) (ADVP (RP in)))))))
+-23.563017339132 -76.122970080457
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (RP in))))))
+-23.563169744099 -75.883909012951
+(S1 (S (NP (CC and) (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RP in))))))
+-23.644975914401 -73.271243567946
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (IN in)))))))
+-23.763972136799 -75.830454709391
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (S (NP (PRP it)) (ADVP (IN in))))))))
+-24.398613419978 -74.209308285376
+(S1 (S (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (S (NP (PRP it)) (ADVP (RP in))))))))
+-24.928690840513 -76.001627585886
+(S1 (S (CC and) (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)))) (PP (RP in))))
+-25.064875130989 -75.017447020493
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (PP (RP in)))))))
+-25.065027535955 -74.778385952987
+(S1 (FRAG (CC and) (S (NP (NN somebody)) (VP (MD will) (VP (VB turn) (NP (PRP it)) (ADVP (RP in)))))))
+

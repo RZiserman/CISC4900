@@ -1,0 +1,102 @@
+50 x
+-10.632982668096 -43.869572964769
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real) (JJ first)))))
+-11.486314028299 -49.753915299032
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real) (NN first)))))
+-13.932537480162 -51.921244646311
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (RB real) (JJ first)))))
+-14.004689779698 -50.734153631544
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (RB real) (JJ first))))))
+-14.675775972289 -60.286933489100
+(S1 (S (NP (NNP This)) (VP (VBZ is) (NP (DT a) (JJ real) (JJ first)))))
+-14.897210002079 -58.265352988331
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN real)) (ADVP (RB first))))))
+-14.907737247169 -53.659479374538
+(S1 (S (DT This) (VP (VBZ is) (NP (DT a) (JJ real) (JJ first)))))
+-14.929090157059 -49.356136791536
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (JJ real) (JJ first))))))
+-15.033363311333 -61.158877272350
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real) (RB first)))))
+-15.086189468447 -59.510454896965
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real)) (ADVP (RB first)))))
+-15.200232419511 -61.347120044581
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN real)) (ADVP (RB first)))))
+-15.285863660074 -59.139387722924
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ real)) (ADVP (RB first))))))
+-15.545213390635 -59.111802330044
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN real) (NN first)))))
+-15.608118293309 -61.633982040295
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real) (JJS first)))))
+-15.761068607372 -59.543821708801
+(S1 (S (DT This) (VP (VBZ is) (NP (DT a) (JJ real) (NN first)))))
+-15.846659204977 -54.948413265780
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real) (ADJP (JJ first))))))
+-15.892211704341 -62.832006420757
+(S1 (S (NP (DT This)) (VP (VBZ is) (ADJP (DT a) (JJ real)) (ADVP (RB first)))))
+-15.965039819670 -61.265759138470
+(S1 (S (NP (NN This)) (VP (VBZ is) (NP (DT a) (JJ real) (JJ first)))))
+-16.047926601559 -61.504435484340
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (RB real) (RB first)))))
+-16.158920422902 -55.306557225539
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (QP (DT a) (JJ real)) (JJ first)))))
+-16.243288808760 -59.378129500743
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN real) (RB first)))))
+-16.268012310120 -59.235512170834
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN real) (JJ first)))))
+-16.377702339013 -59.234473112873
+(S1 (S (NP (DT This)) (VP (VBZ is) (ADJP (DT a) (JJ real) (JJ first)))))
+-16.406880222329 -58.696188325245
+(S1 (SBAR (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real) (JJ first))))))
+-16.797551947465 -61.509995590227
+(S1 (S (NP (DT This)) (VP (VBZ is) (S (NP (DT a) (JJ real) (NN first))))))
+-16.810312970792 -62.323057730329
+(S1 (S (NP (DT This)) (VP (VBZ is) (ADJP (DT a) (RB real) (JJ first)))))
+-17.096808994534 -53.641916086390
+(S1 (SBAR (DT This) (S (VP (VBZ is) (NP (DT a) (JJ real) (JJ first))))))
+-17.205408498293 -60.118161663960
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN real)) (JJ first)))))
+-17.337055819563 -61.239042515099
+(S1 (S (NP (DT This)) (VP (VBZ is) (ADJP (NP (DT a) (JJ real)) (RB first)))))
+-17.385527573392 -60.823041349131
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ real)) (JJ first)))))
+-17.494268572699 -62.291054533690
+(S1 (S (NP (DT This)) (VP (VBZ is) (ADJP (NP (DT a) (JJ real)) (JJ first)))))
+-17.515000911903 -60.512758536424
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN real)) (ADVP (JJ first))))))
+-17.537669709662 -57.547257995941
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (RB real)) (JJ first)))))
+-17.539241266402 -63.037077640080
+(S1 (S (NP (DT This)) (VP (VBZ is) (ADVP (DT a) (RB real)) (ADVP (RB first)))))
+-17.549743452682 -60.194718588553
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ real)) (ADVP (JJ first))))))
+-17.782153548749 -59.526258420653
+(S1 (SBAR (DT This) (S (VP (VBZ is) (NP (DT a) (JJ real) (NN first))))))
+-17.859411666474 -60.384530394021
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ real)) (ADVP (JJ first)))))
+-17.861861725682 -59.204016874534
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (JJ real)) (JJ first)))))
+-17.947591798681 -59.992981492609
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a)) (JJ real) (JJ first)))))
+-17.961101566474 -62.240977811159
+(S1 (S (NP (DT This)) (VP (VBZ is) (ADJP (DT a) (JJ real)) (ADVP (JJ first)))))
+-18.145075640326 -62.221195541638
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN real)) (ADVP (JJ first)))))
+-18.207292059236 -61.711151056080
+(S1 (S (DT This) (VP (VBZ is) (NP (DT a) (RB real) (JJ first)))))
+-18.258324829122 -60.851466962161
+(S1 (S (RB This) (VP (VBZ is) (NP (DT a) (JJ real) (JJ first)))))
+-18.279444358771 -60.524060041312
+(S1 (S (DT This) (VP (VBZ is) (NP (DT a) (ADJP (RB real) (JJ first))))))
+-18.711255210582 -62.987132841492
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (ADJP (DT a) (JJ real)) (JJ first)))))
+-18.771148289218 -62.717193988844
+(S1 (S (NP (DT This)) (VP (VBZ is) (S (ADJP (DT a) (RB real) (JJ first))))))
+-19.203844736133 -59.146043201305
+(S1 (S (DT This) (VP (VBZ is) (NP (DT a) (ADJP (JJ real) (JJ first))))))
+-20.091079023813 -61.693587767932
+(S1 (SBAR (DT This) (S (VP (VBZ is) (NP (DT a) (RB real) (JJ first))))))
+-20.474734263348 -60.506496753164
+(S1 (SBAR (DT This) (S (VP (VBZ is) (NP (DT a) (ADJP (RB real) (JJ first)))))))
+-21.311664840710 -59.128479913157
+(S1 (SBAR (DT This) (S (VP (VBZ is) (NP (DT a) (ADJP (JJ real) (JJ first)))))))
+

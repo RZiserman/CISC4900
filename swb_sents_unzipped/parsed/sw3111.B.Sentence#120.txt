@@ -1,0 +1,102 @@
+50 x
+-18.658530167409 -67.753977878176
+(S1 (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-19.512051552378 -66.319541047936
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))))
+-20.416159782552 -69.086830666835
+(S1 (S (IN that) (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-20.626311131407 -73.203611457763
+(S1 (S (NP (DT that)) (DT those) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-20.823865995596 -72.695870105097
+(S1 (S (NP (DT that)) (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-21.543401821158 -76.842926573588
+(S1 (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (ADJP (RB some) (JJ important)) (NNS points))))))
+-21.790998342085 -75.565402056091
+(S1 (S (NP (DT that) (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-21.829858111809 -69.814158058530
+(S1 (SBAR (WHNP (WDT that)) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-21.949828650835 -72.750174912004
+(S1 (SINV (PP (IN that) (NP (DT those))) (VBP are) (NP (DT some) (JJ important) (NNS points))))
+-22.032513825661 -72.015542617196
+(S1 (SINV (PP (IN that) (NP (DT those))) (VP (VBP are)) (NP (DT some) (JJ important) (NNS points))))
+-22.241160667778 -72.642932860404
+(S1 (SBAR (WHNP (IN that)) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-22.396923206127 -75.408489743349
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (ADJP (RB some) (JJ important)) (NNS points)))))))
+-22.499960421189 -73.132202629478
+(S1 (S (RB that) (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-22.900973966742 -76.654117816185
+(S1 (FRAG (SBAR (IN that) (S (DT those) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))))
+-23.110377044689 -74.670153084431
+(S1 (S (NP (IN that) (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-23.244718287870 -75.625231718833
+(S1 (S (NP (RB that) (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-23.256252125209 -77.391367559570
+(S1 (S (ADVP (RB that)) (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-23.566383664377 -76.882062995814
+(S1 (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (RB some) (NP (JJ important) (NNS points))))))
+-23.605870626202 -75.366973789352
+(S1 (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (S (NP (DT some) (JJ important) (NNS points)))))))
+-23.605958628357 -71.558464902131
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))))
+-23.660589218423 -75.736389168784
+(S1 (SBAR (WHNP (WDT that)) (S (DT those) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-23.720600945154 -73.055620835736
+(S1 (FRAG (SBAR (WHNP (IN that)) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))))
+-23.726482728594 -76.207909258625
+(S1 (SBAR (WDT that) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-23.830321177888 -77.689987072585
+(S1 (FRAG (PP (IN that) (NP (NP (DT those)) (SBAR (S (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))))))
+-23.983825510316 -74.934257886113
+(S1 (FRAG (IN that) (SBAR (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))))
+-23.997631907647 -76.703725756043
+(S1 (FRAG (IN that) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-24.021919625648 -75.883124936927
+(S1 (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (S (NP (DT some)) (NP (JJ important) (NNS points)))))))
+-24.043783569497 -77.634875758226
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (RB some) (JJ important) (NNS points)))))))
+-24.074909026405 -74.782929480718
+(S1 (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (ADJP (JJ important)) (NNS points))))))
+-24.118891719927 -77.710484994905
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (ADJP (DT some) (JJ important)) (NNS points)))))))
+-24.190767872133 -77.298911932229
+(S1 (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (SBAR (S (NP (DT some) (JJ important) (NNS points))))))))
+-24.220115433284 -72.085551612381
+(S1 (FRAG (WHNP (WDT that)) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-24.278617183840 -77.205143617417
+(S1 (S (NP (WDT that)) (DT those) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-24.371898134561 -77.085045647696
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (DT some)) (NP (JJ important) (NNS points)))))))
+-24.390214882217 -74.719383773205
+(S1 (S (ADVP (IN that) (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-24.409770905241 -76.697402264751
+(S1 (S (NP (WDT that)) (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))
+-24.419905049346 -75.447626165574
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (RB some) (NP (JJ important) (NNS points)))))))
+-24.459392011172 -73.932536959112
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (S (NP (DT some) (JJ important) (NNS points))))))))
+-24.510280869668 -73.750419602215
+(S1 (SINV (ADVP (IN that) (DT those)) (VBP are) (NP (DT some) (JJ important) (NNS points))))
+-24.547430793703 -76.706210886981
+(S1 (NP (WHNP (WDT that)) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (JJ important) (NNS points))))))
+-24.875441010618 -74.448688106687
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (S (NP (DT some)) (NP (JJ important) (NNS points))))))))
+-24.928430411374 -73.348492650478
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (ADJP (JJ important)) (NNS points)))))))
+-25.005347734679 -74.312892810572
+(S1 (SINV (ADVP (IN that) (DT those)) (VP (VBP are)) (NP (DT some) (JJ important) (NNS points))))
+-25.044289257103 -75.864475101989
+(S1 (FRAG (SBAR (IN that) (S (NP (DT those)) (VP (VBP are) (SBAR (S (NP (DT some) (JJ important) (NNS points)))))))))
+-25.436689734972 -77.480696012385
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (DT those) (VP (VBP are) (NP (DT some) (JJ important) (NNS points)))))))
+-25.522566545770 -76.699826559809
+(S1 (S (IN that) (NP (DT those)) (VP (VBP are) (S (NP (DT some) (JJ important) (NNS points))))))
+-25.730592235216 -77.215977707384
+(S1 (S (IN that) (NP (DT those)) (VP (VBP are) (S (NP (DT some)) (NP (JJ important) (NNS points))))))
+-26.215101431548 -76.115782269377
+(S1 (S (IN that) (NP (DT those)) (VP (VBP are) (NP (DT some) (ADJP (JJ important)) (NNS points)))))
+-26.777198570603 -77.427153969706
+(S1 (SBAR (WHNP (WDT that)) (S (NP (DT those)) (VP (VBP are) (S (NP (DT some) (JJ important) (NNS points)))))))
+-27.246236970805 -76.843109661072
+(S1 (SBAR (WHNP (WDT that)) (S (NP (DT those)) (VP (VBP are) (NP (DT some) (ADJP (JJ important)) (NNS points))))))
+

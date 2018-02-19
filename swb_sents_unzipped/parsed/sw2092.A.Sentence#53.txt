@@ -1,0 +1,102 @@
+50 x
+-20.832761283618 -69.533060095676
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-21.442558372093 -77.604081657168
+(S1 (S (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-21.944703807704 -70.485992378290
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-22.145279766085 -73.219849482317
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (IN that))))))
+-22.189477140031 -77.561143303564
+(S1 (S (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-22.277146218789 -75.215685844847
+(S1 (S (CC And) (RB hopefully) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-22.555154596730 -76.887992847973
+(S1 (S (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-22.670016250360 -80.465345164420
+(S1 (S (CC And) (S (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-22.816509142560 -81.290871043808
+(S1 (S (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (IN that))))))
+-22.839013980176 -80.223143999348
+(S1 (S (CC And) (ADVP (RB hopefully)) (VP (VBP get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-22.856121884843 -78.913713966689
+(S1 (S (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-23.044364584029 -78.351204894626
+(S1 (S (CC And) (ADVP (RB hopefully)) (VP (VBP get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-23.077370650800 -75.646694842512
+(S1 (FRAG (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-23.355613831513 -74.698518985778
+(S1 (FRAG (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-23.466244884957 -76.094039016832
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job))) (PP (IN after) (NP (DT that)))))
+-23.636387725605 -75.592952327756
+(S1 (FRAG (CC And) (RB hopefully) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-23.651096992044 -78.902475231487
+(S1 (S (CC And) (RB hopefully) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (IN that))))))
+-23.678189113751 -76.525318144560
+(S1 (S (CC And) (RB hopefully) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-23.692703193286 -81.247932690205
+(S1 (S (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (IN that))))))
+-23.861453796826 -75.492762546645
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (IN that)))))))
+-24.054130687967 -81.548723863776
+(S1 (S (CC And) (RB hopefully) (VP (VBP get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-24.065455496938 -76.738344853218
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (WDT that))))))
+-24.177189884608 -79.676784759054
+(S1 (S (CC And) (RB hopefully) (VP (VBP get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-24.178815729170 -81.774977420670
+(S1 (S (CC And) (S (ADVP (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))))
+-24.308812510722 -74.784526192056
+(S1 (FRAG (CC And) (RB hopefully) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-24.519164416055 -79.333484229152
+(S1 (FRAG (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (IN that))))))
+-24.580363555274 -80.636235315801
+(S1 (X (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-24.735484988815 -81.739072055584
+(S1 (S (CC And) (S (VP (ADVP (RB hopefully)) (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))))
+-24.769087357480 -80.263577327443
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (S (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-24.915064379642 -78.272276464145
+(S1 (S (ADVP (CC And) (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))
+-24.948906208072 -79.279741714397
+(S1 (FRAG (CC And) (RB hopefully) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (IN that))))))
+-25.037920486872 -80.541174882629
+(S1 (X (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-25.093130928497 -80.441199017392
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job))) (PP (IN after) (NP (IN that)))))
+-25.381657308153 -80.523054417980
+(S1 (FRAG (CC And) (VP (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-25.401639097848 -79.705289154132
+(S1 (FRAG (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (IN that)))))))
+-25.593503077327 -81.027976802177
+(S1 (FRAG (CC And) (S (ADVP (RB hopefully)) (VP (VBP get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))))
+-25.678783184658 -81.661024846533
+(S1 (S (CC And) (VP (RB hopefully) (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-25.679760640874 -81.532088312914
+(S1 (S (CC And) (RB hopefully) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (IN that)))))))
+-25.763129574815 -77.370652238890
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (WDT that)))))))
+-25.766925429123 -80.041774511614
+(S1 (FRAG (CC And) (RB hopefully) (VP (VB get) (NP (DT a) (NN job))) (PP (IN after) (NP (DT that)))))
+-25.886157093106 -78.220773048482
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (DT a) (NN job)) (ADVP (IN after) (DT that)))))
+-25.957512900772 -80.471428361568
+(S1 (X (CC And) (S (RB hopefully) (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-26.225562499844 -79.791296360411
+(S1 (FRAG (CC And) (RB hopefully) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (IN that)))))))
+-26.262576255875 -81.165249566373
+(S1 (FRAG (CC And) (VP (ADVP (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))))
+-26.328627892392 -79.581908773666
+(S1 (S (ADVP (CC And) (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-26.422610589982 -80.370834737457
+(S1 (FRAG (CC And) (ADVP (RB hopefully)) (VP (VB get) (NP (NP (DT a) (NN job)) (ADVP (IN after) (DT that))))))
+-26.845603890651 -80.694844426032
+(S1 (FRAG (CONJP (CC And) (RB hopefully)) (S (VP (VB get) (NP (DT a) (NN job)) (PP (IN after) (NP (DT that)))))))
+-27.253020442624 -81.583178846378
+(S1 (FRAG (CC And) (VP (ADVP (RB hopefully)) (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (WDT that)))))))
+-27.358555784583 -81.781060619564
+(S1 (X (CC And) (S (RB hopefully) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (DT that))))))))
+-28.127238277833 -81.669186052656
+(S1 (FRAG (CC And) (RB hopefully) (VP (VB get) (NP (NP (DT a) (NN job)) (PP (IN after) (NP (WDT that)))))))
+

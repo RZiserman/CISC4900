@@ -1,0 +1,102 @@
+50 x
+-16.744665385310 -57.520111537689
+(S1 (S (VBP Do) (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-16.836867266909 -52.532857651889
+(S1 (S (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-17.296713110286 -54.358821062356
+(S1 (S (VP (VBP Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-17.959572750008 -55.002788198850
+(S1 (SQ (VBP Do) (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-18.210862555528 -59.206564760688
+(S1 (SQ (VBP Do) (NP (PRP you)) (S (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-18.348834986781 -54.354463568884
+(S1 (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-18.540697879278 -58.205621640196
+(S1 (S (VP (VB Do) (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.082170261844 -60.931882114434
+(S1 (S (VP (VBP Do) (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.296450235109 -63.159169282976
+(S1 (S (VBP Do) (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-19.317902856279 -60.081054888527
+(S1 (SQ (VBP Do) (NP (PRP you)) (S (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-19.451801202579 -69.716387646745
+(S1 (S (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB mean))))))))))
+-19.529288881311 -56.787931845408
+(S1 (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-19.573926258026 -59.417906941154
+(S1 (S (VP (VB Do) (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-19.694375032341 -64.810846238458
+(S1 (SQ (VBP Do) (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-19.940025667704 -61.188884189895
+(S1 (S (VP (VBP Do) (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-19.959419454956 -71.542351057211
+(S1 (S (VP (VBP Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB mean))))))))))
+-20.023421966293 -67.222523023533
+(S1 (S (VP (VB Do) (NP (PRP you))) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-20.203038285745 -60.402774820182
+(S1 (S (VP (VBP Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-20.324589711228 -58.066303993136
+(S1 (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-20.331717514450 -61.375661224373
+(S1 (S (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-20.616046729415 -61.643025950063
+(S1 (VP (VB Do) (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-20.753970586949 -66.620958596426
+(S1 (S (VP (VB Do) (NP (PRP you))) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-20.989624932340 -64.970315614090
+(S1 (S (VP (VB Do) (NP (PRP you)) (S (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-21.023157549663 -71.537993563739
+(S1 (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB mean)))))))))
+-21.422770596474 -64.211119349559
+(S1 (S (VP (VP (VBP Do) (NP (PRP you))) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-21.439529728903 -71.527321206113
+(S1 (S (VP (VBP Do) (NP (PRP you))) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-21.481681923582 -64.276177818554
+(S1 (S (VP (VBP Do) (SBAR (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-21.811158887681 -66.698143746586
+(S1 (S (VP (VB Do) (S (NP (PRP you)) (VP (VBP know))) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-21.836577503801 -64.125922026963
+(S1 (S (VP (VBP Do) (ADVP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-21.839152505518 -67.114669604919
+(S1 (VP (VBP Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-22.153333865317 -68.296328164635
+(S1 (S (VP (VP (VB Do) (NP (PRP you))) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-22.190611649318 -69.004170014550
+(S1 (S (VP (VB Do) (NP (PRP you)) (SBAR (S (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-22.220075441174 -71.254783154294
+(S1 (S (VP (VBP Do) (NP (PRP you))) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-22.243499283836 -69.865065899753
+(S1 (S (S (VP (VB Do) (NP (PRP you)))) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-22.440784471727 -69.293219470908
+(S1 (S (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WDT what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-22.505778410767 -71.157520826318
+(S1 (S (S (VP (VBP Do) (NP (PRP you)))) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-22.694074840635 -67.515264995592
+(S1 (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know))) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-22.894692716799 -67.604171501466
+(S1 (S (VP (VB Do) (NP (PRP you)) (SBAR (S (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-22.900630315104 -71.119182881374
+(S1 (S (VP (VBP Do) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WDT what)) (S (NP (PRP I)) (VP (VBP mean))))))))))
+-22.947331348533 -65.549767951967
+(S1 (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-23.010200483499 -64.850887875401
+(S1 (VP (VB Do) (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-23.019309748975 -68.186220254681
+(S1 (VP (VB Do) (NP (PRP you)) (S (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))))
+-23.114870145268 -70.068557517428
+(S1 (SQ (VBP Do) (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WDT what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-23.122790370796 -70.092829158745
+(S1 (S (S (VP (VB Do) (NP (PRP you)))) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-23.173290040480 -70.066318283415
+(S1 (S (VP (VBP Do) (NP (PRP you)) (S (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-23.757647630330 -71.515799730977
+(S1 (S (S (VP (VBP Do) (NP (PRP you)))) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-23.890560590641 -70.416301846834
+(S1 (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WDT what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+-24.367283558033 -71.723066639545
+(S1 (VP (VBP Do) (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))
+-24.701133264083 -70.721716229284
+(S1 (VP (VB Do) (S (NP (PRP you)) (VP (VBP know))) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean))))))
+-25.119926681578 -70.994203133108
+(S1 (VP (VB Do) (NP (PRP you)) (SBAR (S (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP mean)))))))))
+

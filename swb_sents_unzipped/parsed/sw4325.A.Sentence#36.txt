@@ -1,0 +1,102 @@
+50 x
+-15.027417180131 -49.290329952820
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-15.964255742947 -58.126879650542
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADVP (RB expensive))))))
+-16.377492966332 -48.232785147076
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-17.053014876360 -57.069334844797
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADVP (RB expensive))))))
+-17.349519433073 -58.482582249136
+(S1 (S (CC but) (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))
+-17.461981665819 -60.600842896410
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (RB expensive)))))
+-18.511763929053 -59.540905283394
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (NP (JJ expensive))))))
+-18.534470732575 -57.935549567352
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (VP (JJ expensive))))))
+-18.828109019232 -59.543298090665
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (RB expensive)))))
+-18.907943869707 -61.208301548555
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (RB expensive))))))
+-19.249379555670 -55.287562760744
+(S1 (FRAG (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-19.507854504988 -56.878004761607
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (VP (JJ expensive))))))
+-19.724287784962 -56.757301259208
+(S1 (S (CC but) (NP (CC and) (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))
+-19.756638615254 -58.483360477649
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (NP (JJ expensive))))))
+-19.874374754574 -61.527232294362
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADVP (JJ expensive))))))
+-19.894247160665 -60.222010430624
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (S (ADJP (JJ expensive)))))))
+-19.906837246306 -55.747743733914
+(S1 (S (CC but) (ADVP (CC and)) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))
+-19.929694924229 -58.676134622061
+(S1 (S (CC but) (S (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-20.306406253120 -60.150756742810
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (RB expensive))))))
+-20.330882784722 -56.714061982432
+(S1 (SQ (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-20.367944665935 -61.642282694703
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (S (ADJP (RB expensive)))))))
+-20.371370474207 -55.451511873414
+(S1 (FRAG (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-20.564354139796 -57.436132193087
+(S1 (S (CC but) (NP (CC and) (NP (PRP they))) (VP (VBP 're) (ADJP (JJ expensive)))))
+-20.592870930518 -62.011212271503
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (S (ADVP (RB expensive)))))))
+-20.660244889042 -60.814773430347
+(S1 (SQ (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-20.708009713903 -55.666225959834
+(S1 (FRAG (CC but) (SBAR (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-20.878913654703 -60.078568217435
+(S1 (SQ (CC but) (CC and) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-20.907452030077 -53.200847929338
+(S1 (SQ (CC but) (FRAG (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-20.914747290775 -60.469687488618
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADVP (JJ expensive))))))
+-20.924916023395 -62.386720074962
+(S1 (S (CC but) (PRN (CC and)) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))
+-21.005602314078 -59.164465624880
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (S (ADJP (JJ expensive)))))))
+-21.194692163116 -62.104569520188
+(S1 (FRAG (CC but) (CC and) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-21.242855172717 -58.465052321830
+(S1 (S (ADVP (RB but)) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-21.492188760131 -62.339346327421
+(S1 (FRAG (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-21.527686422136 -60.584737888958
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (S (ADJP (RB expensive)))))))
+-21.572731250879 -59.206007881736
+(S1 (S (CC but) (S (NP (CC and) (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-21.602133848867 -61.065135489953
+(S1 (S (CC but) (CC and) (S (NP (PRP they)) (VP (VBP 're) (S (ADVP (JJ expensive)))))))
+-21.844130689271 -58.762455473423
+(S1 (FRAG (CC but) (S (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-21.856029824557 -57.706060147537
+(S1 (S (ADVP (CC but)) (S (CC and) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-21.957771845347 -62.037397749132
+(S1 (SQ (CC but) (FRAG (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADVP (RB expensive)))))))
+-22.067718771838 -56.618567700210
+(S1 (FRAG (CC but) (FRAG (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-22.187342721504 -59.369115231700
+(S1 (SQ (CC but) (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))))
+-22.636291885286 -60.718687894079
+(S1 (S (CC but) (S (NP (CC and) (NP (PRP they))) (VP (VBP 're) (ADJP (JJ expensive))))))
+-22.667534181542 -61.183191528868
+(S1 (S (CC but) (S (ADVP (CC and)) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-22.713489002280 -60.007590684209
+(S1 (S (CC but) (S (CC and) (NP (PRP they)) (VP (VBP 're) (S (ADVP (JJ expensive)))))))
+-22.905711138424 -60.098798669452
+(S1 (SQ (CC but) (FRAG (SBAR (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))))
+-23.627315245909 -61.650892130633
+(S1 (FRAG (CC but) (ADVP (CC and)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ expensive)))))))
+-24.141085162353 -61.585393654300
+(S1 (FRAG (CC but) (S (NP (CC and) (PRP they)) (VP (VBP 're) (ADJP (JJ expensive))))))
+-24.416729769399 -61.846067648314
+(S1 (SQ (CC but) (FRAG (CC and) (S (NP (PRP they)) (VP (VBP 're) (VP (JJ expensive)))))))
+-24.981151519976 -62.264224588179
+(S1 (FRAG (CC but) (S (NP (CC and) (NP (PRP they))) (VP (VBP 're) (ADJP (JJ expensive))))))
+

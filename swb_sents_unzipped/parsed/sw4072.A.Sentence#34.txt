@@ -1,0 +1,102 @@
+50 x
+-18.444597370014 -52.492585413875
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-19.821302457413 -57.167209487960
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (WP who)))))))
+-20.068065462773 -61.537506821874
+(S1 (SBAR (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-20.804223266395 -63.044665358397
+(S1 (SQ (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-21.065053460984 -61.361807215833
+(S1 (FRAG (SBAR (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who))))))))
+-21.221638643679 -64.181476428010
+(S1 (X (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-21.265368779009 -68.444333494764
+(S1 (S (CC or) (WHNP (WP who)) (VP (VBD killed) (NP (WP who)))))
+-21.268794289171 -66.212130895959
+(S1 (SBAR (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (WP who)))))))
+-21.412870027082 -67.883920491855
+(S1 (S (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-21.896412327467 -67.303897567912
+(S1 (SBAR (S (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who))))))))
+-21.900194385484 -65.827894275521
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBN killed) (X (WP who)))))))
+-22.076562756688 -65.439267253993
+(S1 (FRAG (CC or) (WP who) (VP (VBN killed)) (WP who)))
+-22.101339498851 -67.027265965647
+(S1 (FRAG (CC or) (WP who) (VP (VBN killed) (X (WP who)))))
+-22.180928351006 -67.719289432481
+(S1 (SQ (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (WP who)))))))
+-22.211178153052 -65.824130670596
+(S1 (FRAG (CC or) (WP who) (VP (VBD killed) (NP (WP who)))))
+-22.265782284595 -66.036431289918
+(S1 (FRAG (SBAR (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (WP who))))))))
+-22.523558862936 -64.420543048015
+(S1 (SQ (CC or) (FRAG (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who))))))))
+-22.598343728290 -68.856100502094
+(S1 (X (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (WP who)))))))
+-22.693386366237 -68.643850422911
+(S1 (FRAG (CC or) (WP who) (VP (VBD killed) (X (WP who)))))
+-22.729340593929 -63.109635927575
+(S1 (FRAG (CC or) (FRAG (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who))))))))
+-22.780722100945 -68.930364504725
+(S1 (UCP (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-22.815932243430 -67.687623887442
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBN killed) (NP (WP who)))))))
+-22.950777564313 -69.041962068044
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (VP (VBN killed) (X (WP who))))))
+-22.958732699379 -65.743520414711
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (NP (WP who))))))))
+-23.137257686470 -66.409728691675
+(S1 (FRAG (CC or) (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who))))))
+-23.396696526216 -62.301443230543
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed)))) (NP (WP who))))
+-23.443294757780 -70.485660952281
+(S1 (FRAG (S (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who))))))))
+-23.460219517802 -69.278373794740
+(S1 (FRAG (CC or) (WP who) (VP (VBN killed) (NP (WP who)))))
+-23.704585064674 -70.642876265068
+(S1 (FRAG (CC or) (WP who) (VP (VBD killed)) (WP who)))
+-23.728705747546 -69.095167122099
+(S1 (SQ (CC or) (FRAG (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (WP who))))))))
+-23.768888847560 -68.423510266985
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (FRAG (WP who)))))))
+-23.868029667708 -67.627691635882
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed)) (NP (WP who))))))
+-23.934487478540 -67.784260001660
+(S1 (FRAG (CC or) (FRAG (SBAR (WHNP (WP who)) (S (VP (VBD killed) (X (WP who))))))))
+-24.072537253403 -70.297016049291
+(S1 (FRAG (CC or) (WP who) (SBAR (S (VP (VBD killed) (NP (WP who)))))))
+-24.073465371626 -70.236254361008
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (VP (VBN killed) (NP (WP who))))))
+-24.095415369023 -67.736792606457
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (FRAG (NP (WP who))))))))
+-24.182649146019 -71.084352812692
+(S1 (FRAG (CC or) (WHNP (WP who)) (S (VP (VBD killed) (X (WP who))))))
+-24.361706530251 -71.128773754566
+(S1 (FRAG (CC or) (WHNP (WP who)) (S (VP (VBN killed))) (WP who)))
+-24.425556344892 -63.250421707886
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed)))) (FRAG (WP who))))
+-24.590542892045 -68.357319208574
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed)))) (WP who)))
+-24.762775392509 -69.604202035302
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBN killed)))) (NP (WP who))))
+-24.779810899569 -70.928471765358
+(S1 (SQ (CC or) (FRAG (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-25.171033018139 -63.718172036325
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed)))) (FRAG (NP (WP who)))))
+-25.180371239798 -70.310852094520
+(S1 (FRAG (CC or) (FRAG (WHNP (WP who)) (S (VP (VBD killed) (NP (WP who)))))))
+-25.467533273917 -70.686982049001
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed)))) (X (WP who))))
+-25.470232698397 -70.553180512644
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBN killed)))) (FRAG (WP who))))
+-25.666034472461 -67.552306417362
+(S1 (FRAG (CC or) (FRAG (SBAR (WHNP (WP who)) (S (VP (VBD killed)))) (WP who))))
+-25.690275842200 -69.324506471218
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBD killed) (S (NP (WP who))))))))
+-25.813064894138 -70.116776298938
+(S1 (SQ (CC or) (FRAG (SBAR (WHNP (WP who)) (S (VP (VBD killed)))) (WP who))))
+-26.475466181644 -71.020930841084
+(S1 (FRAG (CC or) (SBAR (WHNP (WP who)) (S (VP (VBN killed)))) (FRAG (NP (WP who)))))
+

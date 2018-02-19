@@ -1,0 +1,102 @@
+50 x
+-25.002752658027 -91.432034544688
+(S1 (NP (NP (DT That) (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))
+-25.695443738219 -89.821249781984
+(S1 (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-25.839081593169 -88.589068332530
+(S1 (S (NP (DT That)) (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-26.594102141066 -92.599959155105
+(S1 (S (NP (NP (DT That) (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-26.602693015608 -96.057511052437
+(S1 (PP (IN That) (NP (NP (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-26.667538443457 -90.831665306877
+(S1 (S (NP (DT That) (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))
+-26.760667121832 -91.097893336687
+(S1 (S (NP (DT That)) (VP (NN sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-26.843861064021 -89.600534793673
+(S1 (FRAG (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))))
+-26.848004489705 -91.291068710622
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-26.965900987799 -94.714096069545
+(S1 (FRAG (PP (IN That) (NP (NP (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-27.214222337964 -92.657096180266
+(S1 (FRAG (NP (NP (DT That) (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-27.296527207928 -96.683249692940
+(S1 (S (PP (IN That) (NP (NP (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-27.629306984072 -95.112943427715
+(S1 (PP (IN That) (S (VP (NN sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-27.638538976169 -95.081881675808
+(S1 (NP (NP (DT That) (JJ sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))
+-27.659455443350 -93.123038371078
+(S1 (PP (IN That) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-27.675828348445 -95.095733458875
+(S1 (S (DT That) (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-27.811918758546 -96.097123135781
+(S1 (S (NP (DT That)) (VP (JJ sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-27.914886252965 -95.642323775662
+(S1 (PP (IN That) (S (VP (JJ sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-28.219645998713 -94.167265096134
+(S1 (S (WHNP (WDT That)) (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-28.394311895286 -96.361435715666
+(S1 (S (NP (DT That)) (ADJP (JJ sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-28.415388378784 -96.520484373940
+(S1 (S (PP (IN That) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))))
+-28.502052170670 -93.131403714797
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))))
+-28.513133786179 -91.767465208177
+(S1 (S (RB That) (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-28.658725238406 -95.497036851889
+(S1 (S (ADVP (RB That)) (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))
+-28.670058791410 -93.054209817976
+(S1 (NP (WHNP (WDT That)) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-28.986172946912 -92.656965511724
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-29.109939637946 -95.537734768506
+(S1 (FRAG (PP (IN That) (S (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution))))))))
+-29.133782066405 -95.305873870239
+(S1 (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (NP (ADVP (RB just)) (DT an) (JJ excellent) (NN solution)))))))
+-29.142233882674 -96.191215504740
+(S1 (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (RB just) (NP (DT an) (JJ excellent) (NN solution)))))))
+-29.179608046413 -94.959034055286
+(S1 (S (NP (DT That)) (VP (VB sound) (PP (IN like) (RB just) (NP (DT an) (JJ excellent) (NN solution))))))
+-29.277419921355 -94.073692420784
+(S1 (S (NP (DT That)) (VP (VB sound) (PP (IN like) (NP (ADVP (RB just)) (DT an) (JJ excellent) (NN solution))))))
+-29.352863924778 -96.494911733904
+(S1 (SBAR (S (NP (DT That)) (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-29.517656278094 -96.152390750701
+(S1 (S (NP (DT That)) (VP (VB sound) (PP (IN like) (S (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-29.517882544365 -96.744489295875
+(S1 (FRAG (PP (IN That) (NP (NP (JJ sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-29.715702858602 -94.059506961149
+(S1 (FRAG (S (NP (DT That)) (VP (VB sound) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-29.773633399357 -95.370743361182
+(S1 (S (NP (DT That)) (VP (VB sound) (PP (IN like) (ADVP (RB just))) (NP (DT an) (JJ excellent) (NN solution)))))
+-29.804919529644 -94.444347224697
+(S1 (S (NP (DT That) (JJ sound)) (VP (VBP like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))
+-29.917153856709 -96.602924894929
+(S1 (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (ADVP (RB just))) (NP (DT an) (JJ excellent) (NN solution))))))
+-30.003386063101 -96.661833663834
+(S1 (S (NP (DT That)) (VP (VB sound) (PP (IN like) (RB just)) (NP (DT an) (JJ excellent) (NN solution)))))
+-30.282199392207 -95.085158881927
+(S1 (FRAG (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (NP (ADVP (RB just)) (DT an) (JJ excellent) (NN solution))))))))
+-30.286342817891 -96.775692798876
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VB sound) (PP (IN like) (NP (ADVP (RB just)) (DT an) (JJ excellent) (NN solution)))))))
+-30.290651211265 -95.970500516429
+(S1 (FRAG (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (RB just) (NP (DT an) (JJ excellent) (NN solution))))))))
+-30.315694647230 -96.582517424941
+(S1 (S (NP (DT That)) (VP (NN sound) (PP (IN like) (NP (ADVP (RB just)) (DT an) (JJ excellent) (NN solution))))))
+-30.395156555582 -96.316289453370
+(S1 (S (NP (DT That) (NN sound)) (PP (IN like) (NP (ADVP (RB just)) (DT an) (JJ excellent) (NN solution)))))
+-30.415287259432 -95.754517907908
+(S1 (S (NP (IN That) (NN sound)) (PP (IN like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))
+-30.515822178896 -95.718696399779
+(S1 (S (NP (DT That)) (VP (VB sound) (PP (IN like) (NP (QP (RB just) (DT an) (JJ excellent)) (NN solution))))))
+-30.565168633504 -94.544318674190
+(S1 (S (NP (DT That) (JJ sound)) (VP (VBP like) (ADVP (RB just)) (NP (DT an) (JJ excellent) (NN solution)))))
+-31.065571185300 -96.382209906617
+(S1 (FRAG (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (ADVP (RB just))) (NP (DT an) (JJ excellent) (NN solution)))))))
+-31.248823413726 -96.810597441519
+(S1 (NP (NP (DT That) (NN sound)) (SBAR (S (VP (VBP like) (NP (RB just) (DT an) (JJ excellent) (NN solution)))))))
+-31.520601649748 -96.730162860921
+(S1 (FRAG (SBAR (IN That) (S (VP (VB sound) (PP (IN like) (NP (QP (RB just) (DT an) (JJ excellent)) (NN solution))))))))
+

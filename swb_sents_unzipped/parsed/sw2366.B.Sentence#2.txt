@@ -1,0 +1,102 @@
+50 x
+-25.893684444893 -97.072776319394
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (INTJ (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-26.385823625800 -95.549158865479
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-26.485917387649 -97.619646786632
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-27.543783819340 -100.532219959995
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (INTJ (UH uh)) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))
+-27.570541789769 -103.436145263294
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (INTJ (UH uh)) (PP (IN in) (NP (DT the) (JJ the) (NNS sixties))))))
+-27.709897516252 -101.393468020028
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-27.917344600281 -98.659975018221
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-28.035922989095 -99.008602506081
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh)) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))
+-28.062680956736 -101.912527809379
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh)) (PP (IN in) (NP (DT the) (JJ the) (NNS sixties))))))
+-28.136016742582 -101.079090427234
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh)) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))
+-28.162774713010 -103.983015730532
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh)) (PP (IN in) (NP (DT the) (JJ the) (NNS sixties))))))
+-28.538207713575 -100.290259266292
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-28.599362374003 -100.802864608884
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (UH uh) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))))
+-29.027436845559 -104.969655346898
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (INTJ (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-29.104248970780 -100.058400021764
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up)) (ADVP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-29.365219357578 -103.144289602278
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RP up) (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-29.479908358445 -105.283042613190
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties))))))))
+-29.542842026163 -103.143986529278
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (INTJ (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))))
+-29.551136175382 -101.791274162104
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (IN up) (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-29.567443974727 -102.119418658823
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (UH uh))) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))
+-29.575630224366 -103.116088301413
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-29.594201945156 -105.023343962122
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (UH uh))) (PP (IN in) (NP (DT the) (JJ the) (NNS sixties))))))
+-29.734340299795 -104.294521213112
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up)) (NP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-29.747550844490 -99.161429234776
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (ADVP (UH uh)) (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-29.828658958567 -99.959737933574
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-29.945530640306 -104.764948318122
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PP (IN up) (NP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-30.005425160299 -97.451187293005
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))
+-30.046391217008 -99.083568199598
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))
+-30.369373216197 -104.692439202046
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (UH uh) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))))
+-30.397806891574 -104.501193580547
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties))))))))
+-30.434099207026 -105.557546384589
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (S (NP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-30.554739684826 -104.729319703928
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up)) (ADVP (UH uh) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-30.705829689107 -101.613376825738
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (ADVP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-30.754348350802 -103.517843662366
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up)) (ADVP (UH uh)) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))
+-30.869430313362 -104.946303664458
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (ADVP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-31.044548463841 -103.596440868871
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (ADVP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-31.052585514286 -104.800404495559
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PP (RP up) (NP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-31.133700162578 -105.524798178676
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (ADVP (UH uh)) (IN in) (NP (DT the) (JJ the) (NNS sixties))))))
+-31.201235527526 -105.250717802706
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (IN up) (UH uh)) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))
+-31.222024545660 -103.814556249994
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh))) (PP (IN in) (NP (DT the) (JJ the) (NNS sixties)))))
+-31.262990627459 -105.446937156586
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh))) (PP (IN in) (NP (DT the) (JJ the) (NNS sixties)))))
+-31.333953097147 -105.737727339823
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RP up) (ADVP (UH uh)) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))))
+-31.397650216149 -102.620872875378
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (ADVP (UH uh)) (IN in) (NP (DT the) (NP (DT the) (NNS sixties)))))))
+-31.629750625849 -101.318854825801
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (ADVP (UH uh))) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties))))))
+-31.670716679770 -102.951235732394
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (NP (UH uh))) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties))))))
+-31.688258128204 -104.170672247829
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (NP (UH uh)) (PP (IN in) (NP (DT the) (NP (DT the) (NNS sixties))))))))
+-31.925932740338 -101.890247721522
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up)) (ADVP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))
+-31.932786167643 -105.247606507662
+(S1 (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (NP (UH uh)) (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-32.349432942040 -105.214094321123
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up)) (PP (ADVP (UH uh)) (IN in) (NP (DT the) (DT the) (NNS sixties))))))
+-32.498000040463 -104.632622658548
+(S1 (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up)) (NP (UH uh))) (PP (IN in) (NP (DT the) (DT the) (NNS sixties)))))
+

@@ -1,0 +1,102 @@
+50 x
+-23.093149168018 -88.349640279673
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))
+-23.758332531302 -90.885314740440
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))))
+-24.489468490659 -92.080229185811
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (SBAR (S (NP (PRP you)) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))
+-24.844004782925 -93.240309483222
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))
+-24.864296364998 -91.822038738485
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you))) (PRN (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-25.325416498919 -92.409276074025
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))))
+-25.330412239476 -88.677759073840
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-25.726474141052 -96.478959988958
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you))) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-25.907827840261 -94.944950807388
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))))
+-26.011382786502 -95.973077232715
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))))
+-26.025529433708 -96.745612770061
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (SBAR (S (NP (NP (PRP you)) (NP (PRP you))) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))
+-26.083669300223 -89.658094334311
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-26.206715000138 -96.969790551067
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-26.230829902172 -94.098384380517
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (PRP you))) (PRN (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-26.306320231612 -93.351072391478
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (PRN (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-26.375158036686 -94.347940468759
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (S (NP (PRP you)) (VP (VBN talked) (PP (IN about) (NP (NN something))))))))
+-26.542237335690 -96.667554394328
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VB remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))))
+-26.688642201980 -96.238566106258
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBN talked) (PP (IN about) (NP (NN something)))))))))
+-26.794415099437 -96.139865077935
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (SBAR (S (NP (PRP you)) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))))
+-26.912125192108 -97.620974848623
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (SBAR (S (NP (PRP you)) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))
+-27.220574513743 -99.172022159506
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (PRP you))) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-27.348146357324 -97.567339615728
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (NP (PRP you)) (VP (VBN talked) (PP (IN about) (NP (NN something)))))))
+-27.427068678483 -97.633903285983
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))))
+-27.461308302331 -98.953024789308
+(S1 (S (CC but) (NP (PRP I)) (VP (VP (VBP remember) (NP (PRP you))) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))
+-27.461330820340 -97.747528955678
+(S1 (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (PRP you)) (S (NP (PRP you)) (VP (VBN talked) (PP (IN about) (NP (NN something))))))))
+-27.477935197526 -93.403497028703
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (NP (PRP you)))) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-27.538560131645 -97.137374406631
+(S1 (S (CC but) (SBAR (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you))))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-27.615002366621 -95.966664926699
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (NP (PRP you)))) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-27.675732244018 -96.095798023323
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (PRP you)))) (PRN (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-27.695033064749 -97.347301274238
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))
+-27.844666062637 -96.205229287979
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (NP (IN about) (NN something))))))))
+-28.000441094426 -94.508870742625
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))))
+-28.082494029644 -97.311757125919
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBN talked) (PP (IN about) (NP (NN something))))))
+-28.155843790692 -96.062038500946
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VB remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-28.159737557881 -97.710176924771
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (SBAR (S (NP (PRP you)) (ADVP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))
+-28.211174285486 -98.734184861598
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (S (NP (NN something))))))))))
+-28.491400035921 -98.740903748746
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (NP (IN about) (NN something)))))))))
+-28.665624513467 -97.044545404059
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))))))
+-28.674215251886 -98.407576666343
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (S (NP (PRP you)) (VP (VBN talked) (PP (IN about) (NP (NN something)))))))))
+-28.857668389639 -95.730388827229
+(S1 (S (CC but) (S (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something)))))))
+-28.920788554238 -98.513531504274
+(S1 (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)) (S (NP (PRP you)) (ADJP (VBN talked) (PP (IN about) (NP (NN something))))))))
+-28.929194796808 -98.965711048291
+(S1 (S (SBAR (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you))))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-28.946053315477 -96.687082820077
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VB remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-29.130330346307 -98.308559287792
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBN talked) (PP (IN about) (NP (NN something))))))
+-29.434508729370 -98.239459728585
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBP remember) (SBAR (S (NP (PRP you)) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))))))
+-29.610367262638 -96.533348288343
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (NP (IN about) (NN something)))))
+-29.642150223755 -98.462071288564
+(S1 (S (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you))))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-30.023201574972 -98.823771025135
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (NP (PRP you)) (NP (PRP you))))) (VP (VBD talked) (PP (IN about) (NP (NN something))))))
+-30.363624323386 -97.513683548813
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (NP (IN about) (NN something)))))
+-30.545964429731 -99.062303655766
+(S1 (S (S (CC but) (NP (PRP I)) (VP (VBP remember) (NP (PRP you)))) (NP (PRP you)) (VP (VBD talked) (PP (IN about) (S (NP (NN something)))))))
+

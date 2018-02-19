@@ -1,0 +1,102 @@
+50 x
+-22.149051448179 -79.254332036264
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-22.192097690754 -79.234260481432
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-23.402618329559 -85.258760225841
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-23.966303869702 -87.125290168483
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-23.977349222061 -81.236686596179
+(S1 (S (ADVP (RB Actually)) (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-24.106135036948 -83.158183986512
+(S1 (S (ADVP (RB Actually)) (S (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-24.600398214182 -81.227997231681
+(S1 (SQ (RB Actually) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-25.063232633393 -84.047267002262
+(S1 (S (RB Actually) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-25.285783733701 -89.140850041188
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (S (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-25.305739202506 -84.537360113780
+(S1 (S (RB Actually) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-25.321437505563 -87.241114689877
+(S1 (S (ADVP (RB Actually)) (S (NP (PRP I)) (VP (VBP teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-25.350926235031 -90.769328228814
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (JJ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-25.678950281919 -92.155347648639
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (NP (JJ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-25.717818216280 -85.749941134049
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids))) (PP (IN at) (NP (NN home)))))
+-25.931544602971 -91.299894700499
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (JJ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-25.950298821481 -91.704717868801
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (S (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-25.969897176382 -91.049213612879
+(S1 (S (ADVP (RB Actually)) (S (NP (PRP I)) (VP (VB teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-26.276945061902 -89.529383699515
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (VP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-26.316799514773 -90.051695191840
+(S1 (S (RB Actually) (NP (PRP I)) (VP (VBP teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-26.466897671345 -90.368620515882
+(S1 (SQ (RB Actually) (NP (PRP I)) (VP (VB teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-26.471990475772 -86.586794288118
+(S1 (S (RB Actually) (S (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-26.489835228366 -88.764750561868
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids))) (PP (IN at) (NP (NN home)))))
+-26.601644683747 -85.789657210361
+(S1 (S (RB Actually) (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-26.714678173295 -89.727462328035
+(S1 (FRAG (ADVP (RB Actually)) (SBAR (S (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-26.831532502103 -89.360401393855
+(S1 (FRAG (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-26.856550812167 -87.438794130673
+(S1 (S (INTJ (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-27.017444389714 -92.575295726324
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (VP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-27.079945381454 -92.428389800831
+(S1 (S (RB Actually) (NP (PRP I)) (VP (VB teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-27.101110766890 -90.492203530305
+(S1 (FRAG (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-27.234076505700 -88.410781897665
+(S1 (S (NP (RB Actually) (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-27.286313881752 -88.635366463760
+(S1 (S (INTJ (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-27.328105883743 -90.532126502982
+(S1 (SBAR (RB Actually) (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-27.420865334331 -92.223693754552
+(S1 (SQ (RB Actually) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-27.529478076499 -89.105207287277
+(S1 (S (NP (RB Actually) (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-27.544426790857 -91.123204535306
+(S1 (S (ADVP (RB Actually)) (S (NP (PRP I)) (VP (VBP teach) (S (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-27.556743248803 -91.862353969691
+(S1 (FRAG (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-27.567628803999 -91.438837023788
+(S1 (FRAG (ADVP (RB Actually)) (SBAR (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-27.864115806570 -90.816601993718
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (ADVP (IN at) (RB home)))))
+-27.905071160521 -92.052436923863
+(S1 (S (ADVP (ADVP (RB Actually)) (NP (PRP I))) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))
+-27.945732967249 -91.794085304060
+(S1 (S (RB Actually) (S (NP (PRP I)) (VP (VBP teach) (NP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-27.960096396102 -90.794566009588
+(S1 (FRAG (RB Actually) (SBAR (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-27.968461714099 -91.425399097629
+(S1 (S (ADJP (RB Actually) (SBAR (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))))
+-28.045729011755 -91.511738123044
+(S1 (S (ADVP (RB Actually)) (S (NP (PRP I)) (VP (VBP teach) (VP (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-28.142448505702 -92.130877230542
+(S1 (FRAG (RB Actually) (SBAR (S (NP (PRP I)) (VP (VB teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-28.368423938096 -92.458819253651
+(S1 (SQ (RB Actually) (NP (PRP I)) (VP (VB teach) (S (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))
+-28.396423758744 -90.210650664552
+(S1 (ADJP (RB Actually) (SBAR (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-28.419277101286 -91.617927526507
+(S1 (S (ADVP (RB Actually)) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (ADVP (IN at) (RB home)))))
+-28.823668076548 -91.170643448037
+(S1 (FRAG (SBAR (RB Actually) (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home))))))))
+-29.169187715090 -92.579174207270
+(S1 (S (RB Actually) (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids))) (PP (IN at) (NP (NN home)))))
+-29.699610099338 -91.875846566255
+(S1 (FRAG (ADJP (RB Actually) (SBAR (S (NP (PRP I)) (VP (VBP teach) (NP (PRP$ my) (NNS kids)) (PP (IN at) (NP (NN home)))))))))
+

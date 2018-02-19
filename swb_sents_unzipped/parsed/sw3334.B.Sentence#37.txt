@@ -1,0 +1,102 @@
+50 x
+-28.151567920738 -84.336790554671
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-28.499672696493 -87.202012696041
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (INTJ (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-28.979702272907 -93.820172638196
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))))
+-29.111448865057 -90.302222234256
+(S1 (S (NP (EX there)) (VP (POS 's) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-29.119021360974 -92.113661614522
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-29.128386215569 -92.805382985736
+(S1 (S (NP (EX there)) (VP (VBZ 's) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-29.711272958623 -91.576240444655
+(S1 (S (NP (EX there)) (VP (VBZ 's) (SBAR (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-29.759842569381 -91.865295018708
+(S1 (S (NP (EX there)) (VP (POS 's) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))
+-29.937923115125 -89.961996130669
+(S1 (S (S (NP (EX there)) (VP (POS 's) (INTJ (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-30.202252795218 -95.032209241821
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (UH uh) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))))
+-30.258834263340 -89.054381540855
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's)))))))
+-30.451279410695 -94.225252832320
+(S1 (S (NP (EX there)) (VP (VBZ 's) (ADVP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-30.510424335197 -90.480796892713
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (ADVP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-30.532274417922 -92.402155505444
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-30.558555443469 -96.104861864856
+(S1 (S (NP (EX there)) (VP (VBZ 's) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))
+-30.606939036307 -91.919603682225
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (INTJ (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's)))))))
+-30.667693859742 -91.378482928184
+(S1 (S (NP (EX there)) (VP (POS 's) (SBAR (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-30.734689118288 -94.177786658782
+(S1 (S (NP (EX there)) (VP (POS 's) (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))
+-30.857224777658 -95.019813220440
+(S1 (S (NP (EX there)) (VP (POS 's) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's))))))))))
+-30.861626054879 -93.006197965902
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (UH uh)) (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))
+-30.955037373575 -96.831252600706
+(S1 (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's))))))))))
+-31.073535927316 -91.019302275614
+(S1 (S (S (NP (EX there)) (VP (POS 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-31.229807942725 -92.059518976661
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VBZ 's))))))
+-31.433343338345 -95.584309302712
+(S1 (S (NP (EX there)) (VP (POS 's) (ADVP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's))))))))))
+-31.576975157118 -95.903928645994
+(S1 (S (NP (EX there)) (VP (VBZ 's) (SBAR (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ seems)))) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-31.577912715693 -94.924741118030
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (INTJ (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VBZ 's))))))
+-31.596162309194 -96.582886004892
+(S1 (S (NP (EX there)) (VP (POS 's) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's)))))))))
+-31.600422801224 -96.293831430839
+(S1 (S (NP (EX there)) (VP (VBZ 's) (SBAR (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's))))))))))
+-31.953881311513 -96.968061657499
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (PP (IN like) (NP (EX there) (VBZ 's))))))
+-32.045189457727 -94.679587116853
+(S1 (S (S (NP (EX there)) (VP (POS 's) (INTJ (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's)))))))
+-32.205097744617 -96.954066980864
+(S1 (S (NP (EX there)) (VP (POS 's) (ADVP (UH uh)) (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))
+-32.278050327736 -97.119746491628
+(S1 (S (NP (EX there)) (VP (POS 's) (NP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's))))))))))
+-32.358845493568 -93.671388965784
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (PP (IN like) (S (NP (EX there)) (VP (POS 's)))))))
+-32.530463489556 -96.096073914369
+(S1 (S (NP (EX there)) (VP (POS 's) (SBAR (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's))))))))))
+-32.617690677798 -95.198387878897
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (ADVP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's)))))))
+-32.658683653125 -96.960689663741
+(S1 (S (NP (EX there)) (VP (POS 's) (S (ADVP (UH uh)) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))))
+-32.671653156432 -92.896726099613
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (PP (IN like) (SBAR (S (NP (EX there)) (VP (POS 's))))))))
+-32.699511335885 -95.799606812429
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (PP (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-32.706950266535 -96.536611107153
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (INTJ (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (PP (IN like) (S (NP (EX there)) (VP (POS 's)))))))
+-32.799160123459 -96.311883491045
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (WHADVP (IN like)) (S (NP (EX there)) (VP (VBZ 's)))))))
+-33.019757929399 -95.761948240982
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (INTJ (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (PP (IN like) (SBAR (S (NP (EX there)) (VP (POS 's))))))))
+-33.180802267130 -95.736893261798
+(S1 (S (S (NP (EX there)) (VP (POS 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (POS 's)))))))
+-33.545505643635 -95.188071878696
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (RB there)) (VP (VBZ 's)))))))
+-33.924453035507 -94.810007115082
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (VP (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-33.987018601332 -94.555993343734
+(S1 (S (S (NP (RB there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (EX there)) (VP (VBZ 's)))))))
+-34.190134798738 -96.913809058635
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (PP (IN like) (S (NP (EX there)) (NP (POS 's)))))))
+-34.396015844885 -96.039128347074
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (S (VP (VB like) (SBAR (S (NP (EX there)) (VP (VBZ 's)))))))))
+-34.440490289435 -97.041305954768
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (WHNP (IN like)) (S (NP (EX there)) (VP (VBZ 's)))))))
+-34.463604758524 -95.720891790237
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (JJ like) (SBAR (S (NP (EX there)) (VP (VBZ 's))))))))
+-34.893291645138 -97.206227163398
+(S1 (S (S (NP (EX there)) (VP (VBZ 's) (NP (UH uh)))) (NP (PRP it)) (VP (VBZ seems) (SBAR (S (VP (VBP like) (SBAR (S (NP (EX there)) (VP (VBZ 's))))))))))
+

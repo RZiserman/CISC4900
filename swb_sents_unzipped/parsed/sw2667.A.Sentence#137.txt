@@ -1,0 +1,102 @@
+50 x
+-25.066343126971 -80.380580445240
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup))))))))
+-25.871428297153 -83.607252695273
+(S1 (S (CC and) (NP (PRP it) (VBZ 's)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))
+-26.215937487322 -81.439332659030
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup))))))))
+-26.263464210579 -81.103105749370
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))))))
+-26.750703225463 -83.272030166549
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup))))))))
+-26.843460350577 -83.310498789773
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))))
+-27.158782698825 -84.399456902814
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))
+-27.373006005645 -86.498702416582
+(S1 (S (CC and) (NP (PRP it) (VBZ 's)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))
+-27.416668555596 -84.301953728065
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup))))))))
+-27.602714342602 -82.482744882237
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))))))
+-27.704374813763 -85.957180619993
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))))
+-27.827070537571 -87.679181764729
+(S1 (S (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))
+-27.900297585814 -84.330782380339
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup))))))))
+-27.947824309071 -83.994555470680
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))))))
+-28.337264279410 -86.252070178341
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))))))
+-28.403049775778 -87.528625978099
+(S1 (S (CC and) (NP (PRP it) (VBZ 's)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup)))))
+-28.527820449069 -86.201948511082
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))))
+-28.566262915947 -85.360705941855
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup))))))))
+-28.613789639204 -85.024479032196
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup)))))))))
+-28.660360407317 -87.290906624123
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))
+-28.823911363238 -90.051837074236
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))
+-28.915626036706 -86.679705810844
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup))))))))
+-29.015256564666 -88.123236309084
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup))))))))
+-29.127813059173 -85.601424510513
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup))))))))
+-29.193785779203 -87.231872072599
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup)))))))
+-29.287074441093 -85.374194603546
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))))))
+-29.293004892368 -90.159316572027
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))))))
+-29.328648248851 -90.570631486038
+(S1 (S (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))
+-29.388734912255 -88.848630341302
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))))
+-29.690404180238 -88.320830185640
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup)))))
+-29.932898229356 -88.828096760546
+(S1 (S (CC and) (NP (PRP it) (VBZ 's)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup)))))
+-29.953039774014 -86.404118165063
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup)))))))))
+-30.021624377902 -89.143519899650
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))))))
+-30.054700242388 -89.878553902819
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup)))))))
+-30.168581813267 -88.599700599603
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup)))))))))
+-30.277407419525 -86.660176724303
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup))))))))
+-30.324934142782 -86.323949814644
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup)))))))))
+-30.451922836121 -88.059345108756
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup))))))))
+-30.599986135198 -89.571155532153
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup))))))))
+-30.687589708035 -90.173443461167
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup)))))))))
+-30.699616663157 -91.014686030393
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup))))))))
+-30.743813251523 -90.470866730347
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB pretty) (JJ nice)) (NN setup))))))))
+-30.904930285568 -88.531342855046
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup)))))))
+-31.220252633816 -89.620300968087
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup)))))
+-31.265951465331 -90.601079093670
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (RB pretty) (JJ nice) (NN setup))))))))
+-31.664184277592 -87.703588947510
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup)))))))))
+-31.765844748754 -91.178024685266
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup)))))))
+-31.852941911759 -91.491150320912
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup)))))))))
+-32.136282934613 -90.950794830065
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ pretty) (JJ nice) (NN setup))))))))
+-32.398734211613 -91.472914243614
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ pretty) (JJ nice)) (NN setup)))))))))
+

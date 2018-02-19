@@ -1,0 +1,102 @@
+50 x
+-32.379712049706 -121.544477778196
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-32.818844800477 -123.849681133672
+(S1 (S (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))))))
+-32.857567371869 -119.746547234170
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))))))
+-33.405014634734 -121.717082201358
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-33.448274811184 -120.325323615600
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-33.757514019391 -123.898310852194
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBP got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))
+-33.844147413382 -124.022285556833
+(S1 (S (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))))))
+-33.882869984774 -119.919151657332
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))))))
+-33.887407589833 -122.630526971076
+(S1 (S (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))))))
+-33.926130161225 -118.527393071574
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))))))
+-34.010654354013 -121.660574595200
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-34.024651743717 -121.496404859172
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))
+-34.230719498279 -122.728437211627
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-34.473577396212 -120.497928038762
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-34.686353601493 -123.376230769751
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas)))))))))))
+-34.708574848319 -120.930506667601
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))))))
+-34.815254676421 -124.428962802739
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-34.826076780869 -122.679156689598
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBP got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))
+-34.912710174861 -122.803131394238
+(S1 (S (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))))))
+-34.951432746252 -118.699997494736
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))))))
+-34.959805960867 -121.669009217367
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))
+-35.035956939041 -121.833179018362
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-35.079217115492 -120.441420432605
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-35.093214505195 -120.277250696577
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))
+-35.164208923656 -121.578300225725
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas))))))))))))
+-35.299282259757 -121.509283049032
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-35.711656186521 -123.548835192913
+(S1 (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas)))))))))))
+-35.738415038406 -123.814486404508
+(S1 (S (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))))))
+-35.777137609797 -119.711352505006
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))))))
+-35.861661802586 -122.844534028632
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-35.883817437899 -123.209808640144
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-35.920162544340 -123.337814348475
+(S1 (FRAG (IN Because) (NP (DT every) (NN time) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-36.028368750223 -120.449855054772
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))
+-36.104519728397 -120.614024855767
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-36.189511508683 -121.750904648887
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas))))))))))))
+-36.197540460534 -122.680364075800
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas)))))))))
+-36.317295905800 -123.492327586756
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas)))))))))))
+-36.331293295504 -123.328157850727
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas))))))))
+-36.900626658893 -123.860812697509
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-36.930224591942 -121.625379866036
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-36.945465157245 -123.510418771636
+(S1 (FRAG (IN Because) (NP (DT every) (NN time) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-36.988725333696 -122.118660185879
+(S1 (FRAG (IN Because) (NP (DT every) (NN time) (SBAR (S (NP (PRP I)) (VP (VBD got) (SBAR (IN through) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-37.015216400106 -122.762259659157
+(S1 (FRAG (PP (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas))))))))))))
+-37.266103222012 -121.461209913204
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas))))))))))
+-37.266447512654 -123.500762208923
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas))))))))
+-37.342598490828 -123.664932009918
+(S1 (FRAG (IN Because) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas)))))))))))
+-37.771170020790 -124.521773781906
+(S1 (FRAG (IN Because) (NP (DT every) (NN time) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas) (NNP Texas))))))))))))
+-38.014027918723 -122.291264609041
+(S1 (FRAG (IN Because) (NP (DT every) (NN time) (SBAR (S (NP (PRP I)) (VP (VBD got) (ADVP (RB through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+-38.504182012321 -124.512117067355
+(S1 (S (PP (IN Because) (NP (DT every) (NN time))) (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Dallas))) (NP (NNP Texas))))))))
+-38.839732782268 -123.302619619311
+(S1 (FRAG (IN Because) (NP (DT every) (NN time) (SBAR (S (NP (PRP I)) (VP (VBD got) (PRT (RP through)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Dallas)) (NP (NNP Texas)))))))))))))
+

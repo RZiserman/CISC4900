@@ -1,0 +1,102 @@
+50 x
+-61.001925195387 -223.545671130282
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-61.065841863998 -225.418161957060
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (VBD invaded) (PP (TO to) (NP (PRP me))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-61.157995501765 -226.365698773268
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VP (VBD seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me))))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-61.428130916827 -226.222231128980
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VP (VBD seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me))))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-61.554193925927 -224.942967259978
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy))) (VP (VBN seemed))))))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-61.640799572722 -226.359727451169
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-61.794503895563 -225.520260784132
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-61.824329340988 -224.799499615690
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy))) (VP (VBN seemed))))))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-61.919717462072 -224.106640438080
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))
+-62.017705266209 -225.465170964497
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-62.081076749518 -225.338960081071
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-62.164537188411 -224.833245232456
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-62.228453857022 -226.705736059234
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (VBD invaded) (PP (TO to) (NP (PRP me))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-62.252644844087 -225.224416790859
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (RB very) (RB much) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-62.265296535711 -226.597554744017
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (S (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))))
+-62.287840681271 -225.321703320209
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-62.287891652474 -225.320533595606
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (SBAR (S (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country))))))))))
+-62.651322445414 -225.177065951318
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (SBAR (S (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))))
+-62.830129992045 -226.420654975851
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-62.956520994934 -223.783864111412
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBN seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-62.998869016203 -225.899929388869
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))
+-63.067023009247 -224.769847345652
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))
+-63.082329455096 -225.394214540254
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))
+-63.219844718951 -226.230541362153
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy))) (VP (VBN seemed))))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-63.406519695119 -226.592788566480
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy))) (VP (VBN seemed))))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-63.415256837111 -226.511990893034
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (RB very) (RB much) (JJ everyday))) (PP (IN in) (NP (DT this) (NN country))))))
+-63.426805474295 -226.609277422384
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-63.450503645498 -226.608107697780
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (SBAR (S (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country))))))))))
+-63.489980134012 -226.087073717865
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy))) (VP (VBN seemed))))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-63.726198378109 -224.291680537675
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+-63.806633347958 -225.071438213586
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBN seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-63.813934438438 -226.464640053492
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (SBAR (S (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))))
+-63.832768998611 -226.487409013476
+(S1 (S (CC And) (S (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-63.941621305466 -226.646490241318
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (RB very) (RB much) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))
+-63.983567194901 -225.996164684457
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy))) (VP (VBN seemed))))))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-64.007210517342 -226.596016113524
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBN seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADJP (ADVP (RB very) (RB much)) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-64.012647181449 -226.373731020084
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (SBAR (S (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country))))))))))
+-64.020273520244 -226.400163628283
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBN seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (ADJP (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-64.061830260374 -226.636224139595
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBN seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-64.102904441551 -226.343941369188
+(S1 (S (CC And) (S (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed))) (VP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country)))))))
+-64.146174563378 -226.563136296442
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))
+-64.200350859589 -224.671109052525
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+-64.221885535184 -226.518368388976
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (VP (ADVP (RB very) (RB much) (JJ everyday)) (PP (IN in) (NP (DT this) (NN country)))))))
+-64.229635002271 -226.057421447827
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday) (PP (IN in) (NP (DT this) (NN country))))))))
+-64.479491980322 -226.543599879303
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (VBD invaded) (PP (TO to) (NP (PRP me))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+-64.805349932241 -226.084969488464
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+-64.888810371133 -225.579254639849
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (UCP (VP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+-65.253716994411 -226.349854713102
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NP (NN invasion)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (RB very) (RB much) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+-65.279502385842 -226.464398003314
+(S1 (S (CC And) (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+-65.362962852613 -225.958683154699
+(S1 (S (CC And) (NP (NP (NP (DT the) (JJ first) (NN kind)) (PP (IN of) (NP (NN invasion)))) (PP (IN of) (NP (NP (DT the) (JJ first) (NN type)) (PP (IN of) (NP (NN privacy)))))) (VP (VBD seemed) (ADJP (ADJP (VBD invaded) (PP (TO to) (NP (PRP me)))) (CC and) (ADJP (ADVP (RB very) (RB much)) (JJ everyday)))) (PP (IN in) (NP (DT this) (NN country)))))
+

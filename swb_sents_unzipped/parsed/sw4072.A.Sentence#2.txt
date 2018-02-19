@@ -1,0 +1,102 @@
+50 x
+-28.130842624005 -86.879642418914
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-28.173684205864 -87.419478082459
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-28.645355539899 -90.344459868809
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-28.795945370455 -96.488140245466
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP keep) (ADVP (RB up)) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-28.986198507318 -93.304305798281
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-29.231200389457 -91.133527387302
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-29.537557205933 -93.069287766786
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-29.581865870167 -89.350579883778
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-29.968205734635 -94.629404225056
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (NP (PRP you)) (S (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-30.115692594345 -95.335351562241
+(S1 (S (INTJ (WRB How)) (VP (VBP do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-30.162936740388 -94.564931050141
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (ADVP (RB up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-30.183001515570 -94.296818369705
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-30.216567302852 -90.232735422894
+(S1 (FRAG (WHADVP (WRB How)) (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-30.438408256333 -93.804217094204
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (ADVP (IN up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-30.451045928041 -95.568782443928
+(S1 (S (INTJ (WRB How)) (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-30.456785224423 -95.028946907991
+(S1 (S (INTJ (WRB How)) (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))
+-30.539619375784 -92.729435229581
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-30.842477225359 -96.602077017458
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (NP (PRP you)) (S (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-30.862637498921 -95.913269676766
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP keep) (ADVP (RB up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-30.907388552357 -92.234189881337
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-30.975643627368 -95.981090284820
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (ADVP (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-31.003670945263 -94.258006501981
+(S1 (FRAG (WRB How) (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.004050395872 -95.236739992438
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RB up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-31.026275766555 -94.289700609349
+(S1 (S (ADVP (WRB How)) (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.032015037847 -93.749864988144
+(S1 (S (ADVP (WRB How)) (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))
+-31.049218875629 -91.419493670175
+(S1 (FRAG (WHADVP (WRB How)) (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))
+-31.067752312969 -95.079083396338
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RB up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.089140284726 -93.242639702282
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-31.167943948237 -95.973707748187
+(S1 (S (VP (ADVP (WRB How)) (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.322471479423 -94.547117594868
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (NP (PRP you)) (S (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.335363605699 -96.178554711091
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NN current) (NNS events))))))))
+-31.374490739116 -96.073885903995
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)))) (PP (IN with) (NP (JJ current) (NNS events)))))))
+-31.427559537541 -96.085455742613
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VP (VB do) (NP (PRP you))) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.429983252146 -96.202485631754
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))))
+-31.447624931683 -95.100511483662
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))
+-31.522014786202 -93.072152658210
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-31.533958987558 -96.718390374635
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NN current) (NNS events)))))))))
+-31.573992168061 -93.611988321755
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-31.757897223706 -96.400638574347
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (NP (PRP you)) (VP (VB keep) (ADVP (IN up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.815945729446 -95.239152458687
+(S1 (FRAG (WRB How) (VP (VB do) (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))
+-31.820548704281 -96.238235969333
+(S1 (FRAG (WHADVP (WRB How)) (VP (VB do) (NP (PRP you)) (S (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-31.860758217405 -94.573024727001
+(S1 (FRAG (WHADVP (WRB How)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))
+-31.965216148517 -95.063783360432
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (ADVP (IN up) (PP (IN with) (NP (JJ current) (NNS events))))))))))
+-31.981341950760 -95.967467600259
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))))))
+-32.330877334690 -96.496032851461
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (S (NP (PRP you)) (VP (VB keep) (ADVP (RB up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-32.432574603423 -95.735318895523
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (S (NP (PRP you)) (VP (VB keep) (ADVP (IN up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+-32.478809637964 -93.624445726316
+(S1 (FRAG (WHADVP (WRB How)) (VP (VP (VB do) (NP (PRP you))) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ current) (NNS events)))))))
+-32.599748260126 -96.403697025170
+(S1 (FRAG (WHADVP (WRB How)) (VP (VBP do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)))) (PP (IN with) (NP (JJ current) (NNS events))))))
+-32.727400131406 -95.504150195145
+(S1 (FRAG (WHADVP (WRB How)) (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (PRT (RP up)))) (PP (IN with) (NP (JJ current) (NNS events))))))
+-33.035854483321 -96.617474434639
+(S1 (FRAG (WHADVP (WRB How)) (VP (VB do) (S (NP (PRP you)) (VP (VB keep) (ADVP (IN up)) (PP (IN with) (NP (JJ current) (NNS events))))))))
+

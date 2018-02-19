@@ -1,0 +1,102 @@
+50 x
+-11.827131409066 -40.990278565129
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it))))))
+-13.043295379585 -41.712803780839
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it)))))))
+-13.127705257162 -44.294523701673
+(S1 (S (CC And) (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it))))))
+-13.944373681720 -44.032064926178
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it))))))
+-14.462528164353 -46.119400119972
+(S1 (S (CC And) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it))))))))
+-14.490165743692 -45.759771262438
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it))))))))
+-14.706977086424 -43.092443055604
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it)))))))
+-15.011356481155 -54.307074730674
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's) (PP (IN worth) (NP (PRP it))))))
+-15.129199558874 -53.769218943565
+(S1 (S (CC And) (NP (PRP it)) (VP (POS 's) (PP (IN worth) (NP (PRP it))))))
+-15.164078874250 -49.107261220984
+(S1 (S (CC And) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it)))))))
+-15.238773657480 -44.754590274856
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it)))))))
+-15.299090192141 -46.770539766928
+(S1 (X (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it)))))))
+-15.349054952811 -48.310102527503
+(S1 (S (CC And) (NP (PRP it)) (VP (POS 's) (PP (JJ worth) (NP (PRP it))))))
+-16.115489651190 -50.769014745394
+(S1 (FRAG (S (CC And) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it)))))))
+-16.268210028310 -49.161186556819
+(S1 (S (CC And) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it))))))))
+-16.293029954446 -52.096290379433
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it))))))))
+-16.396789507648 -48.801557699286
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it))))))))
+-16.402017009702 -55.029600079351
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN worth) (NP (PRP it)))))))
+-16.450972900208 -54.020996388566
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth)) (NP (PRP it)))))
+-16.883276415854 -55.894698400816
+(S1 (S (CC And) (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth)) (NP (PRP it)))))
+-16.910595359715 -46.134229386741
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it)))))))
+-16.932378785420 -51.605795065840
+(S1 (X (CC And) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it)))))))
+-16.994578435294 -56.449454545618
+(S1 (S (CC And) (SBAR (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it))))))))
+-17.312525385108 -51.454891642246
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it)))))))
+-17.502708482159 -49.812326157179
+(S1 (X (CC And) (S (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it)))))))
+-17.586594714112 -52.945454288022
+(S1 (S (NP (CC And) (NP (PRP it))) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it))))))
+-17.629343326899 -53.122840046814
+(S1 (S (CC And) (S (NP (PRP it)) (VP (POS 's) (PP (JJ worth) (NP (PRP it)))))))
+-17.671973757688 -54.842083625670
+(S1 (FRAG (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it))))))))
+-17.707686195817 -54.743521691089
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth)) (NP (PRP it))))))
+-17.854972154004 -54.329749709144
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (S (NP (PRP it)))))))
+-17.897261717938 -54.206825437335
+(S1 (S (NP (CC And) (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it))))))
+-17.997655129149 -56.409239191237
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN worth) (NP (PRP it)))))))
+-18.236274224481 -53.810801076531
+(S1 (FRAG (S (CC And) (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it)))))))
+-18.311810185374 -56.295807716848
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's)) (PP (JJ worth) (NP (PRP it)))))
+-18.470024939599 -53.879865933906
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth)) (S (NP (PRP it))))))
+-18.517473166402 -58.234357414741
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ 's) (VP (IN worth) (NP (PRP it))))))
+-18.855032555095 -56.111869205263
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP it)) (VP (POS 's) (PP (JJ worth) (NP (PRP it))))))))
+-18.943186291147 -57.279245578568
+(S1 (S (NP (CC And) (PRP it)) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it))))))
+-19.157305750280 -55.621373891671
+(S1 (X (CC And) (S (NP (PRP it)) (VP (POS 's) (PP (JJ worth) (NP (PRP it)))))))
+-19.320551660839 -56.123160819965
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth)) (NP (PRP it))))))
+-19.332908316850 -57.917002582976
+(S1 (S (CC And) (NP (PRP it)) (VP (POS 's) (ADJP (JJ worth) (S (NP (PRP it)))))))
+-19.370649924523 -55.052274924854
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (S (NP (PRP it))))))))
+-19.397578993188 -57.834442269845
+(S1 (S (NP (CC And) (NP (PRP it))) (VP (POS 's) (ADJP (JJ worth) (NP (PRP it))))))
+-19.511643500756 -55.470470468077
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (POS 's) (PP (JJ worth) (NP (PRP it)))))))
+-19.721833376766 -55.987240649071
+(S1 (S (NP (CC And) (NP (PRP it))) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it))))))
+-19.829876185208 -54.602391233918
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth)) (S (NP (PRP it)))))))
+-19.867452035584 -57.883870119687
+(S1 (FRAG (S (CC And) (S (NP (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it))))))))
+-20.014503990592 -57.248611798385
+(S1 (S (NP (CC And) (PRP it)) (VP (VBZ 's) (PP (JJ worth) (NP (PRP it))))))
+-20.734817831362 -56.431914199618
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (S (NP (PRP it))))))))
+-21.339603722533 -55.982030437631
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth)) (S (NP (PRP it)))))))
+

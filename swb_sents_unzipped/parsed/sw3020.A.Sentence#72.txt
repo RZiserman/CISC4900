@@ -1,0 +1,102 @@
+50 x
+-30.238160412885 -105.402533131648
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-30.374835538464 -106.637815998690
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-31.552312595032 -113.279253725966
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-32.032628571385 -112.054033107930
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))))
+-32.219744812987 -110.659562535427
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NN wildlife))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-32.362084138567 -111.894845402469
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NN wildlife))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-32.430071564940 -119.489659982859
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-32.514178158867 -113.224872975351
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-32.910387541293 -118.264439364823
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))))
+-32.994494135220 -111.999652357315
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-33.009538151330 -118.234069988159
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-33.047860410942 -117.591052286614
+(S1 (SBAR (IN If) (S (NP (PRP you)) (PP (IN like) (NP (NN wildlife))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))
+-33.101228672056 -115.535073476267
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-33.412649395753 -116.247670799074
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-33.453380513336 -116.989656445952
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (PP (IN like) (NP (NN wildlife))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-33.481304693634 -115.754373578910
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (PP (IN like) (NP (NN wildlife))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-33.595814870865 -117.780680675470
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NNP wildlife))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-33.695840638566 -119.015963542512
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NNP wildlife))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-33.696804766357 -117.927428671263
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-33.787700970091 -118.077247085578
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))))
+-33.879113825535 -120.156328764899
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NNP wildlife))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-33.879391490817 -115.378250573685
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-33.892965372106 -115.022450181038
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))))
+-34.008839452759 -118.066093431357
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (PP (IN like) (NP (NN wildlife))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))
+-34.087161884927 -115.086622498650
+(S1 (S (IN If) (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-34.177120742710 -116.702208053227
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-34.267984949467 -119.766863538464
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))))
+-34.516343956817 -116.681332465967
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-34.553630063124 -116.390519792251
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife))))) (NP (PRP it)) (VP (POS 's) (S (NP (DT a) (JJ fabulous) (NN vacation))))))
+-34.966255348762 -115.032241789159
+(S1 (S (IN If) (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))
+-34.996659905292 -115.456111847930
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-35.133185833084 -120.095923590453
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-35.176731963263 -119.188033157312
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife))))) (NP (PRP it)) (VP (VBZ 's) (S (NP (DT a) (JJ fabulous) (NN vacation))))))
+-35.284065186987 -120.731234865349
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))
+-35.354240226770 -119.393448075911
+(S1 (FRAG (PP (IN If) (NP (NP (PRP you)) (PP (IN like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))))
+-35.613501809437 -118.870702972417
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))))
+-35.715429864518 -119.660287729470
+(S1 (SBAR (PP (IN If) (NP (PRP you))) (IN like) (NN wildlife) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))
+-35.733918985648 -118.055039571758
+(S1 (S (IN If) (NP (PRP you)) (VP (VBP like) (NP (NN wildlife) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-35.764381135462 -119.506014247312
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-35.789449618489 -119.615891006027
+(S1 (FRAG (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))
+-35.895795415713 -119.708619414623
+(S1 (S (PP (IN If) (NP (PRP you))) (PP (IN like) (NP (NN wildlife))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))
+-36.148881956252 -119.734797485071
+(S1 (S (IN If) (NP (PRP you)) (VP (VBP like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))
+-36.215477890500 -120.293172391838
+(S1 (S (PP (IN If) (NP (PRP you))) (PP (IN like) (NP (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-36.430200217032 -119.003044240322
+(S1 (S (IN If) (NP (PRP you)) (VP (VB like) (NP (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))
+-36.543407555658 -114.794538150495
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (ADJP (JJ fabulous)) (NN vacation)))))
+-36.624547818431 -115.646625198284
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP like) (NP (NN wildlife))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ fabulous)) (NN vacation)))))
+-37.010974548835 -118.488701238650
+(S1 (S (IN If) (NP (PRP you)) (VP (VBP like) (NP (NP (NN wildlife)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation))))))))
+-37.487840486163 -120.037151274671
+(S1 (FRAG (PP (IN If) (NP (NP (PRP you)) (SBAR (IN like) (NN wildlife) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+-38.524991955760 -120.051567554275
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VB like) (NP (NN wildlife))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (ADJP (JJ fabulous)) (NN vacation)))))
+-38.918498660242 -120.616919889102
+(S1 (FRAG (PP (IN If) (NP (NP (PRP you) (JJ like) (NN wildlife)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fabulous) (NN vacation)))))))))
+

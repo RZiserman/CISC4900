@@ -1,0 +1,102 @@
+50 x
+-19.600854630945 -66.439301111886
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-20.495792731166 -73.116962191700
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task))))))))))
+-20.532092000573 -64.153339579189
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))
+-20.645827284902 -63.945954384245
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task)))))
+-20.697457841125 -66.914342239440
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))
+-20.807373436278 -70.803065620896
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-20.975890476475 -71.959593963033
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's)))) (VP (VBP exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))
+-21.592395941346 -73.592003319254
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task)))))))))))
+-21.703752291089 -72.488527198248
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-21.889679148365 -76.208485859729
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task)))))))))
+-21.903976646458 -71.278106748450
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-21.911267118500 -75.732637916654
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (NN exercise) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-21.946780060208 -73.617971818372
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's)))) (VP (VB exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))
+-22.195283604120 -72.636106291665
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBP exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))))
+-22.282068098372 -73.342631798984
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (S (VP (VB exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))
+-22.380031773365 -74.631144503403
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VB exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-22.561062566047 -74.167504634328
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (POS 's) (NP (NN exercise))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))
+-22.732471152617 -74.105000146436
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))
+-22.773687345164 -73.960119439384
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (POS 's) (NP (NN exercise))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task)))))
+-22.800355501269 -72.963568325802
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))
+-22.873081054393 -69.744068311449
+(S1 (S (IN if) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-22.986282358545 -76.683526987284
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task))))))))))
+-23.007870325892 -76.207679044209
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (NN exercise) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-23.224669955418 -75.721766568776
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-23.284947238589 -76.567012129054
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VB exercise) (NP (PRP it)))))) (VP (VBZ 's) (NP (DT a) (NN task)))))
+-23.291886814300 -73.111147419220
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBP exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))))
+-23.316751867318 -72.639409235959
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-23.378671308552 -73.817672926539
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (S (VP (VB exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))))
+-23.471031774546 -75.106185630958
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VB exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))
+-23.520887960968 -70.999383805475
+(S1 (SBAR (WHNP (IN if)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-23.768019154615 -76.421729391263
+(S1 (S (IN if) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task)))))))))
+-23.800008270878 -74.107832856403
+(S1 (S (IN if) (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))
+-23.829074360009 -74.580041273990
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-24.321273165598 -76.196807696330
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-24.413355074710 -73.114450363514
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-24.533712449016 -74.871684176971
+(S1 (S (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-24.559243752791 -76.250750535961
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (VB exercise))))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))
+-24.664463784578 -74.649088465915
+(S1 (FRAG (IN if) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))
+-24.704043671977 -76.596958247871
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (S (VP (VB exercise) (NP (PRP it))))))) (VP (VBZ 's) (NP (DT a) (NN task)))))
+-24.727406763513 -75.363148314485
+(S1 (SBAR (WHNP (IN if)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-24.762399014538 -75.793294397811
+(S1 (S (IN if) (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))
+-24.788634651120 -76.043365341017
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (VB exercise))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task)))))
+-25.360428950842 -75.940873426280
+(S1 (S (IN if) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBP exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))
+-25.498107940211 -73.914233572659
+(S1 (FRAG (SBAR (WHNP (IN if)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task)))))))))))
+-25.513588791821 -76.647398995752
+(S1 (S (IN if) (NP (PRP it)) (VP (VBZ 's) (S (VP (VB exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-25.623785618324 -77.048609891837
+(S1 (SBAR (WHNP (IN if)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-25.949211822574 -76.561734006475
+(S1 (FRAG (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))))
+-25.962384009521 -76.540039950165
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise))))) (NP (PRP it)) (VP (POS 's) (S (NP (DT a) (NN task))))))
+-26.548759620767 -75.944176435522
+(S1 (S (IN if) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN exercise)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN task))))))))
+-27.184798259575 -74.657137937067
+(S1 (S (SBAR (WHNP (IN if)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN exercise))))) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN task)))))
+

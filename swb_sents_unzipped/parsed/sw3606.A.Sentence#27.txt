@@ -1,0 +1,102 @@
+50 x
+-19.166080432674 -74.651220658813
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-20.676009680951 -77.491963843604
+(S1 (S (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-21.466449124825 -77.498060338879
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-21.813462768131 -83.096384252659
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBN watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-21.918625127713 -81.183602613720
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-22.716148464421 -78.927771396764
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN week)))))
+-22.858609883016 -82.371192372863
+(S1 (FRAG (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-23.196470638375 -82.438084048450
+(S1 (FRAG (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-23.313091952701 -83.226961666393
+(S1 (S (CC and) (NP (PRP I)) (RB maybe) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-23.531369627314 -80.338803510101
+(S1 (S (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-23.754493752097 -84.684227927860
+(S1 (S (CC and) (S (NP (PRP I)) (VP (ADVP (RB maybe)) (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-23.824637325759 -83.316224437791
+(S1 (S (CC and) (NP (NP (PRP I)) (ADVP (RB maybe))) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-23.858211292605 -86.191255771279
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-24.067821705154 -83.781016093130
+(S1 (S (NP (CC and) (NP (PRP I))) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-24.237398587802 -84.873714743942
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBN watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-24.251669721944 -84.742788166404
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-24.283486643528 -85.840135443738
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-24.288303843077 -85.886151374427
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (ADVP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-24.503622513642 -90.400282934584
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VBN watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-24.522656635613 -89.630773287389
+(S1 (S (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBN watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-24.816291742208 -82.315030868545
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VBD watched) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN week)))))
+-24.967848367998 -85.510126205842
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBN watched) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN week)))))
+-25.051285119706 -89.885073046517
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (SBAR (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-25.079207996720 -87.268856744934
+(S1 (S (NP (CC and) (NP (PRP I))) (ADVP (RB maybe)) (VP (VBN watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-25.103730396482 -89.145218771689
+(S1 (FRAG (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBN watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-25.136850580840 -89.605564745726
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-25.158978538926 -85.218031917085
+(S1 (FRAG (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-25.306420821184 -85.885384776184
+(S1 (S (NP (CC and) (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-25.363577666546 -86.865338211787
+(S1 (S (CC and) (NP (PRP I)) (VP (RB maybe) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-25.524803411497 -85.284923592672
+(S1 (FRAG (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-25.549894596458 -89.031998965583
+(S1 (S (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (NP (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-25.556949305482 -87.486136459154
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB maybe)) (VP (VP (VBD watched) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN week))))))
+-25.625674026488 -86.073801317639
+(S1 (S (CC and) (NP (PRP I)) (RB maybe) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-25.866796768081 -88.726894611951
+(S1 (S (CC and) (S (NP (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (ADVP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-25.953332569973 -90.066747361193
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VBD watched) (NP (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-25.955369821988 -87.979348741898
+(S1 (S (CC and) (S (NP (NP (PRP I)) (ADVP (RB maybe))) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-26.105305675540 -89.645112583110
+(S1 (S (CC and) (NP (NP (PRP I)) (ADVP (RB maybe))) (VP (VBN watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-26.125803899546 -86.163064089037
+(S1 (S (CC and) (NP (NP (PRP I)) (ADVP (RB maybe))) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-26.292784810086 -89.914601241939
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (ADVP (RB maybe)) (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-26.368190397305 -86.627855773196
+(S1 (S (NP (CC and) (NP (PRP I))) (ADVP (RB maybe)) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-26.371885051509 -90.073625300211
+(S1 (S (CC and) (S (NP (PRP I)) (VP (ADVP (RB maybe)) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-26.527095265133 -89.689538632243
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (ADVP (RB maybe)) (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-26.639325359297 -88.243413676860
+(S1 (S (CC and) (S (NP (PRP I)) (VP (ADVP (RB maybe)) (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-27.410333022789 -90.701931948982
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))))
+-27.498887056050 -87.104543122879
+(S1 (S (CC and) (NP (NP (PRP I)) (ADVP (RB maybe))) (VP (VBD watched) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN week)))))
+-27.503143819180 -89.046187236217
+(S1 (S (NP (CC and) (NP (PRP I))) (ADVP (RB maybe)) (VP (VBN watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-27.606789513334 -88.732224456251
+(S1 (S (NP (CC and) (PRP I)) (ADVP (RB maybe)) (VP (VBD watched) (S (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week)))))))
+-27.746947130267 -89.996433364498
+(S1 (S (NP (CC and) (NP (PRP I))) (RB maybe) (VP (VBD watched) (NP (PRP it)) (PP (IN for) (NP (DT a) (NN week))))))
+-27.871003699793 -90.391053650616
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (RB maybe)) (VBN watched) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN week)))))
+-29.000897845071 -90.207411075231
+(S1 (S (CC and) (NP (NP (PRP I)) (ADVP (RB maybe))) (VP (VBN watched) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN week)))))
+

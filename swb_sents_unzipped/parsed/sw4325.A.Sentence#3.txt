@@ -1,0 +1,102 @@
+50 x
+-14.692423208489 -49.117822039374
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (NP (NN something)))))
+-16.018231198859 -54.645933944250
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VBP say) (NP (NN something)))))
+-16.819953164473 -55.161926229849
+(S1 (S (VP (VBZ Does) (NP (PRP it))) (VP (VB say) (NP (NN something)))))
+-16.884967915416 -55.579407034501
+(S1 (SQ (VP (VBZ Does)) (NP (PRP it)) (VP (VB say) (NP (NN something)))))
+-17.145891417853 -57.342736315820
+(S1 (SQ (VBZ Does) (S (NP (PRP it)) (VP (VB say) (NP (NN something))))))
+-17.189054710797 -57.606742996721
+(S1 (S (VP (VBZ Does) (S (NP (PRP it)) (VP (VB say) (NP (NN something)))))))
+-17.510335817717 -59.830642818001
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VBP say) (NP (NN something))))
+-17.694002226995 -58.892410160561
+(S1 (S (VP (VBZ Does) (NP (PRP it))) (VP (VBP say) (NP (NN something)))))
+-17.724637886338 -61.483275893327
+(S1 (S (VP (VBZ Does) (SBAR (S (NP (PRP it)) (VP (VB say) (NP (NN something))))))))
+-17.946156110014 -59.161738398885
+(S1 (SQ (VBZ Does) (NP (PRP it)) (NP (VBP say) (NN something))))
+-18.014172217128 -59.488575975429
+(S1 (SQ (VBZ Does) (NP (PRP it)) (NP (VB say) (NN something))))
+-18.040561247463 -59.718498722291
+(S1 (SQ (VBZ Does) (NP (PRP it)) (NP (NN say) (NN something))))
+-18.101425412557 -57.517389882024
+(S1 (SINV (VBZ Does) (NP (PRP it)) (VP (VB say)) (NP (NN something))))
+-18.122050935574 -61.107518939377
+(S1 (SQ (VP (VBZ Does)) (NP (PRP it)) (VP (VBP say) (NP (NN something)))))
+-18.609641452332 -63.944293338659
+(S1 (SQ (VBZ Does) (S (NP (PRP it)) (VP (VBP say) (NP (NN something))))))
+-18.769710312111 -60.617741759694
+(S1 (VP (VBZ Does) (S (NP (PRP it)) (VP (VB say) (NP (NN something))))))
+-18.818549983602 -60.497287142030
+(S1 (SQ (VBZ Does) (NP (NP (PRP it)) (VP (VB say) (NP (NN something))))))
+-19.345270544466 -63.230534593496
+(S1 (S (VP (VBZ Does) (NP (PRP it)) (VP (VB say) (NP (NN something))))))
+-19.680687464332 -63.918030851104
+(S1 (SINV (VP (VBZ Does) (NP (PRP it))) (VBP say) (NP (NN something))))
+-19.889421326169 -63.256748917489
+(S1 (S (VP (VBZ Does) (NP (PRP it)) (S (VP (VB say) (NP (NN something)))))))
+-19.932610438038 -64.975541823968
+(S1 (VP (VBZ Does) (SBAR (S (NP (PRP it)) (VP (VB say) (NP (NN something)))))))
+-19.975669832235 -62.956458118685
+(S1 (SQ (VBZ Does) (NP (PRP it)) (SBAR (S (VP (VB say) (NP (NN something)))))))
+-20.144359345889 -64.015466434015
+(S1 (S (S (VP (VBZ Does) (NP (PRP it)))) (VP (VBP say) (NP (NN something)))))
+-20.246881197740 -62.684896198483
+(S1 (S (S (VP (VBZ Does) (NP (PRP it)))) (VP (VB say) (NP (NN something)))))
+-20.427382205858 -65.450695122175
+(S1 (S (VP (VBZ Does) (NP (NP (PRP it)) (VP (VB say) (NP (NN something)))))))
+-20.568847248116 -65.457587622646
+(S1 (SQ (VBZ Does) (NP (PRP it)) (SBAR (S (VP (VBP say) (NP (NN something)))))))
+-20.623026799306 -64.515743733488
+(S1 (VP (VBZ Does) (NP (PRP it)) (VP (VB say) (NP (NN something)))))
+-20.624814455749 -67.332091772373
+(S1 (SINV (VBZ Does) (NP (PRP it)) (VP (VBP say)) (NP (NN something))))
+-20.679429676017 -62.435752324821
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (S (NP (NN something))))))
+-20.869209379214 -64.982634545554
+(S1 (S (VP (VP (VBZ Does) (NP (PRP it))) (VP (VB say) (NP (NN something))))))
+-21.057004620766 -68.845893232768
+(S1 (SQ (VBZ Does) (NP (NP (PRP it)) (VP (VBP say) (NP (NN something))))))
+-21.344561944005 -65.205255362066
+(S1 (VP (VBZ Does) (NP (PRP it)) (S (VP (VB say) (NP (NN something))))))
+-21.447490204795 -66.063599840577
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VBP say) (S (NP (NN something))))))
+-21.525587256403 -65.190551835914
+(S1 (SQ (VP (VBZ Does) (NP (PRP it))) (S (VP (VB say) (NP (NN something))))))
+-21.611796823244 -66.941293333363
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VBP say) (ADVP (NN something)))))
+-21.637323852210 -65.116399504521
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (VP (NN something)))))
+-21.718162636585 -67.779783963902
+(S1 (SINV (VBZ Does) (NP (NP (PRP it)) (VP (VB say) (NP (NN something))))))
+-21.884149352524 -66.686282285755
+(S1 (VP (VP (VBZ Does) (NP (PRP it))) (VP (VB say) (NP (NN something)))))
+-21.951907897948 -65.063418881743
+(S1 (S (VP (VBZ Does) (ADVP (PRP it)) (VP (VB say) (NP (NN something))))))
+-22.024274156999 -67.349887473246
+(S1 (SQ (VBZ Does) (NP (NP (PRP it)) (S (VP (VB say) (NP (NN something)))))))
+-22.040414419769 -68.297107972426
+(S1 (SQ (VP (VBZ Does) (NP (PRP it))) (S (VP (VBP say) (NP (NN something))))))
+-22.043884344514 -64.831880655707
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (S (VP (NN something))))))
+-22.234172764322 -65.590626191014
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (ADVP (NN something)))))
+-22.306848917915 -67.907470342119
+(S1 (S (VP (VBZ Does) (NP (PRP it))) (VP (VB say) (S (NP (NN something))))))
+-22.384277555768 -64.482572180245
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (ADJP (NN something)))))
+-22.717638263086 -67.645007708662
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VBP say) (ADJP (NN something)))))
+-23.101851232356 -68.469817886605
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (SBAR (S (NP (NN something)))))))
+-23.305860902825 -68.033456901572
+(S1 (S (VP (VBZ Does) (NP (PRP it))) (VP (VB say) (ADVP (NN something)))))
+-23.475347535384 -66.686376591414
+(S1 (SQ (VBZ Does) (NP (PRP it)) (VP (VB say) (S (ADJP (NN something))))))
+-23.702050021943 -67.847729938733
+(S1 (VP (VBZ Does) (ADVP (PRP it)) (VP (VB say) (NP (NN something)))))
+

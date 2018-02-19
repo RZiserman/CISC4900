@@ -1,0 +1,102 @@
+50 x
+-20.534111779173 -68.784058994314
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here))))))
+-20.584339317518 -71.146361406151
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RB out) (RB here)))))
+-21.307530774737 -70.110804312023
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here))))))
+-21.343528147810 -74.033716468279
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RB out)) (ADVP (RB here)))))
+-21.357758310295 -72.473106723860
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RB out) (RB here)))))
+-21.498943625267 -70.230666123305
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (RB out) (RB here)))))))
+-21.515876383973 -71.970801661587
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (PP (IN out) (NP (RB here))))))))
+-21.523050494866 -70.513916084506
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (IN out) (RB here)))))
+-21.592602784768 -74.363490278889
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here))))))
+-21.622389155316 -73.610513909986
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here))))))
+-21.642830320326 -76.725792690726
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RB out) (RB here)))))
+-21.672616690873 -75.972816321823
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RB out) (RB here)))))
+-21.997007450501 -73.787199592914
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (ADVP (RB here))))))
+-22.116947143374 -75.360461785988
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RB out)) (ADVP (RB here)))))
+-22.272362620832 -71.557411441014
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (RB out) (RB here)))))))
+-22.289295379537 -73.297546979296
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (PP (IN out) (NP (RB here))))))))
+-22.296469490431 -71.840661402215
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (IN out) (RB here)))))
+-22.541162133094 -77.194660844295
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school) (PRT (RP out)) (ADVP (RB here)))))))
+-22.557434630862 -75.810097407881
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (RB out) (RB here)))))))
+-22.574367389568 -77.550232946162
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (PP (IN out) (NP (RB here))))))))
+-22.581541500461 -76.093347369082
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (IN out) (RB here)))))
+-22.587221001410 -75.057121038977
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (RB out) (RB here)))))))
+-22.604153760116 -76.797256577259
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (PP (IN out) (NP (RB here))))))))
+-22.611327871009 -75.340371000178
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (IN out) (RB here)))))
+-22.770426446065 -75.113944910623
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (ADVP (RB here))))))
+-22.956172656550 -76.261361222077
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school) (RP out)) (ADVP (RB here)))))))
+-23.029563171492 -74.566784201891
+(S1 (S (RB So) (S (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here)))))))
+-23.147029811585 -76.089411970311
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (IN out)) (ADVP (RB here)))))
+-23.228070644384 -76.929086500098
+(S1 (S (RB So) (S (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RB out) (RB here))))))
+-23.317129927790 -77.658211307434
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school) (RP out) (ADVP (RB here)))))))
+-23.327507276134 -72.075374007204
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (IN out) (RB here)))))))
+-23.680157544726 -76.412524858587
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (S (VP (NN school) (PRT (RP out)) (NP (RB here))))))))
+-23.729591652115 -77.588106539786
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school) (RP out)) (ADVP (RB here)))))))
+-23.761862155124 -77.771726682128
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (RP out) (RB here)))))
+-23.770239265549 -76.313883576024
+(S1 (S (ADVP (IN So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here))))))
+-23.794660563347 -73.167561546018
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school)) (PP (IN out) (NP (RB here)))))))
+-23.841899555141 -77.753526829957
+(S1 (S (RB So) (S (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (PP (IN out) (NP (RB here)))))))))
+-23.920448807149 -77.416157288020
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (IN out)) (ADVP (RB here)))))
+-23.969350846519 -76.296641178454
+(S1 (S (RB So) (S (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school))) (ADVP (IN out) (RB here))))))
+-24.038765974435 -76.013391291676
+(S1 (S (RB So) (S (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (RB out) (RB here))))))))
+-24.100926268910 -73.402119324913
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (IN out) (RB here)))))))
+-24.385998278941 -77.654805291779
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (IN out) (RB here)))))))
+-24.415784649489 -76.901828922876
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (IN out) (RB here)))))))
+-24.443608461944 -74.754013150491
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here)))))))
+-24.453576540290 -77.739270176296
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (S (VP (NN school) (PRT (RP out)) (NP (RB here))))))))
+-24.568079556124 -74.494306863727
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NN school)) (PP (IN out) (NP (RB here)))))))
+-24.735071111643 -77.760490705016
+(S1 (S (ADVP (IN So)) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (RB out) (RB here)))))))
+-25.083300135503 -77.418492785200
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (PP (IN at) (NP (NP (NN school)) (ADVP (RP out) (RB here)))))))
+-25.217027457508 -76.080758468200
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD was) (PP (PP (IN at) (NP (NN school))) (PP (IN out) (NP (RB here)))))))
+-25.550064200057 -77.420935577204
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD was) (ADVP (IN at) (NN school)) (ADVP (IN out) (RB here)))))
+

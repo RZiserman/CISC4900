@@ -1,0 +1,102 @@
+50 x
+-23.087026607674 -73.020025637834
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-23.131776528985 -75.395563962839
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))
+-24.095250935791 -78.235303839494
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))))
+-24.197702389743 -78.513213380494
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (NN work) (NP (JJ last) (NN time)))))))
+-24.394904742431 -80.626775473434
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (NN work) (NP (JJ last) (NN time))))))))
+-24.476666754756 -79.960545310531
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (NP (PRP it)) (VP (NN work) (NP (JJ last) (NN time))))))
+-24.945257356724 -82.791604963321
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-25.320939904811 -78.099901935391
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (RB n't) (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-25.765318623305 -80.579934051373
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (PRT (RB n't)) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-25.877980702805 -81.154943956270
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (ADVP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-25.945663122329 -83.159508154473
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (NP (PRP it)) (S (VP (VB work) (NP (JJ last) (NN time)))))))
+-26.098660412231 -81.293506918312
+(S1 (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))))
+-26.157868226403 -79.499243880152
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (ADVP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))
+-26.339441868947 -81.946327297396
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (ADVP (PRP it)) (VP (NN work) (NP (JJ last) (NN time)))))))
+-26.398314218870 -83.684978552252
+(S1 (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (NN work) (NP (JJ last) (NN time)))))))))
+-26.562447748811 -84.946120452529
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (PRT (RB n't)) (S (NP (PRP it)) (VP (NN work) (NP (JJ last) (NN time)))))))
+-26.709033487389 -83.879086070273
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (RB n't) (NP (PRP it)) (VP (NN work) (NP (JJ last) (NN time)))))))
+-26.799090126581 -83.651522885245
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (SBAR (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))))
+-26.892967731078 -84.058550955051
+(S1 (S (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't)))) (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))
+-26.896073255807 -82.626018338060
+(S1 (S (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (NP (PRP it))))) (VP (VB work) (NP (JJ last) (NN time)))))
+-26.922508914117 -85.740965492123
+(S1 (FRAG (WRB Why) (VP (VBD did) (RB n't) (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))
+-26.929017222805 -83.365427167119
+(S1 (FRAG (WRB Why) (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-26.950781763163 -85.849808042139
+(S1 (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))))
+-26.955301138567 -83.140965939876
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (ADVP (RB n't)) (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-27.053288313129 -85.636111771892
+(S1 (S (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (NP (PRP it))))) (VP (VBP work) (NP (JJ last) (NN time)))))
+-27.054051698075 -81.319314908723
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (ADVP (PRP it)) (VP (NN work) (NP (JJ last) (NN time))))))
+-27.126630031606 -84.443077615196
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (NP (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-27.211106230099 -76.183005389482
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time)))))))
+-27.386521249813 -80.131581566712
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (NP (RB n't) (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-27.487140491960 -82.491293709859
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (VP (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))))
+-27.675806095285 -84.653513103025
+(S1 (S (ADVP (WRB Why)) (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-27.851404503202 -85.402171892356
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (VP (RB n't) (S (NP (PRP it)) (VP (NN work) (NP (JJ last) (NN time))))))))
+-27.852737682590 -83.322427915170
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (VP (RB n't) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))))
+-27.883505109244 -84.213147035088
+(S1 (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (ADVP (PRP it)) (VP (VB work) (NP (JJ last) (NN time))))))))
+-27.969917061563 -85.975933198846
+(S1 (S (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (NP (PRP it))))) (VP (NN work) (NP (JJ last) (NN time)))))
+-28.113887295532 -83.253307816932
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (NP (NP (PRP it) (NN work)) (NP (JJ last) (NN time))))))
+-28.121597959217 -81.398283591141
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time))))))))
+-28.299111157303 -82.975913740420
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (S (NP (JJ last) (NN time))))))))
+-28.315133209822 -81.345302750602
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (NP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time))))))
+-28.344966275386 -85.004530376214
+(S1 (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (ADVP (PRP it)) (VP (NN work) (NP (JJ last) (NN time))))))))
+-28.389536268836 -84.789120018891
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (NP (RB n't)) (S (NP (PRP it)) (VP (VB work) (NP (JJ last) (NN time)))))))
+-28.839750724880 -86.180362082848
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (NP (NP (PRP it) (NN work)) (NP (JJ last) (NN time)))))))
+-29.223786131418 -85.624842094998
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (NP (RB n't) (PRP it)) (VP (NN work) (NP (JJ last) (NN time)))))))
+-29.445019527237 -81.262881687039
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (RB n't) (NP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time)))))))
+-29.889398245730 -83.742913803020
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (PRT (RB n't)) (S (NP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time)))))))
+-30.125007435656 -84.456486669959
+(S1 (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (S (NP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time)))))))))
+-31.045883628052 -85.788997913369
+(S1 (S (SBAR (WHADVP (WRB Why)) (S (VP (VBD did) (RB n't) (NP (PRP it))))) (VP (VB work) (ADVP (JJ last) (NN time)))))
+-31.341224926754 -85.448982743595
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (RB n't) (ADVP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time))))))
+-31.510600872238 -83.294561318360
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (S (NP (RB n't) (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time)))))))
+-31.619153114385 -85.654273461507
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBD did) (VP (RB n't) (S (NP (PRP it)) (VP (VB work) (ADVP (JJ last) (NN time))))))))
+

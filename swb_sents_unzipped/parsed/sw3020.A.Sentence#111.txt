@@ -1,0 +1,102 @@
+50 x
+-30.018116971181 -100.960095222690
+(S1 (S (CC and) (NP (NNP MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.109395795663 -100.778604582038
+(S1 (S (CC and) (S (NP (NNS MUMBLEx))) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-30.384746435272 -99.797884199453
+(S1 (S (NP (CC and) (NP (NN MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.488621906797 -103.987435369210
+(S1 (S (CC and) (NP (NP (NN MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.653354566427 -103.074569195888
+(S1 (S (CC and) (NP (NN MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.714316570943 -100.797924591723
+(S1 (S (NP (CC and) (NNP MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.727482115371 -104.751456555062
+(S1 (S (CC and) (NP (NNP MUMBLEx)) (PP (IN but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.759345204585 -100.681394988090
+(S1 (S (CC and) (S (NP (CD MUMBLEx))) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-30.831551061185 -103.338876888317
+(S1 (S (NP (CC and) (NP (NNP MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.847463827651 -105.915352771723
+(S1 (S (CC and) (NP (NNP MUMBLEx) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-30.994790070660 -99.874656203657
+(S1 (S (CC and) (S (NP (NN MUMBLEx))) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-31.147326066204 -100.750294103907
+(S1 (NP (CC and) (NP (NN MUMBLEx)) (CC but) (NP (NP (DT this) (VBZ is)) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.160577824319 -100.191131547081
+(S1 (NP (CC and) (NP (NNP MUMBLEx)) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-31.413288298947 -106.036954875666
+(S1 (S (NP (NNP and) (NNP MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.417487444218 -105.727480059105
+(S1 (S (CC and) (NP (NP (NNP MUMBLEx)) (PP (IN but) (NP (DT this)))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.457031642674 -105.485862171470
+(S1 (S (CC and) (NP (JJ MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.475124002058 -107.686521985945
+(S1 (S (CC and) (NP (NP (NNP MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.527412697018 -106.064925751726
+(S1 (S (CC and) (NP (NP (NN MUMBLEx)) (PP (IN but) (NP (DT this)))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.551398537701 -102.703384734034
+(S1 (S (CC and) (S (NP (NNP MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-31.706257178918 -101.749876337441
+(S1 (NP (CC and) (NP (NN MUMBLEx)) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-31.756255276369 -103.670818630533
+(S1 (S (CC and) (S (NP (NNP MUMBLEx))) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-31.760717304798 -104.993760085973
+(S1 (S (NP (CC and) (NP (JJ MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.824093264894 -104.526138369326
+(S1 (S (CC and) (S (NP (JJ MUMBLEx))) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-31.988543917665 -107.040160651781
+(S1 (S (NP (CC and) (NP (CD MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-31.999899449505 -106.045860692130
+(S1 (S (CC and) (NP (NP (NN MUMBLEx)) (PP (CC but) (NP (DT this)))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-32.073006772638 -106.368951480280
+(S1 (S (CC and) (S (NP (NNP MUMBLEx) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-32.260400319971 -105.518496569536
+(S1 (S (CC and) (NP (NP (NNP MUMBLEx)) (PP (CC but) (NP (DT this)))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-32.336337021003 -106.456722663558
+(S1 (S (CC and) (S (NP (NP (NN MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-32.363197840825 -104.817858843214
+(S1 (S (CC and) (S (NP (NN MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-32.364846874960 -106.331949481808
+(S1 (NP (CC and) (NP (NNP MUMBLEx)) (CC but) (NP (NP (DT this) (VBZ is)) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-32.533541700914 -107.800009790971
+(S1 (S (CC and) (NP (NNP MUMBLEx)) (PP (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-32.543193145852 -106.365678483140
+(S1 (NP (CC and) (NP (NN MUMBLEx)) (CC but) (NP (DT this) (VBZ is)) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))
+-32.560342697277 -103.919801067656
+(S1 (S (NP (CC and) (NP (NNP MUMBLEx) (CC but) (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-32.665697780167 -103.708831108116
+(S1 (S (CC and) (NP (NNP MUMBLEx) (CC but) (DT this)) (VP (VBZ is)) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))
+-32.691679515128 -106.554112033974
+(S1 (NP (CC and) (NP (CD MUMBLEx)) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-32.873382958316 -107.229151629361
+(S1 (S (CC and) (S (NP (JJ MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-32.906780551229 -107.017714795698
+(S1 (NP (CC and) (NP (NN MUMBLEx)) (CC but) (NP (DT this) (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-33.146437444783 -106.736171254636
+(S1 (S (CC and) (NP (NP (NN MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is)) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))
+-33.300935375413 -105.823305081314
+(S1 (S (CC and) (NP (NN MUMBLEx) (CC but) (DT this)) (VP (VBZ is)) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))
+-33.336810011743 -107.586209433616
+(S1 (S (NP (CC and) (NP (NP (NN MUMBLEx)) (CC but) (NP (DT this)))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-33.496552530002 -106.674347505396
+(S1 (FRAG (CC and) (NP (NP (NN MUMBLEx)) (CC but) (NP (NP (DT this) (VBZ is)) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-33.545418312506 -107.688612075163
+(S1 (S (CC and) (S (S (NP (CD MUMBLEx))) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))))
+-33.566106444158 -102.849176312345
+(S1 (FRAG (CC and) (S (NP (NNP MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-33.822847616697 -105.974535430010
+(S1 (FRAG (CC and) (S (NP (NNP MUMBLEx) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-33.954594679254 -106.904978445628
+(S1 (FRAG (CC and) (NP (NP (NNP MUMBLEx)) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))))
+-34.044465963087 -106.902027278411
+(S1 (S (NP (CC and) (NP (NN MUMBLEx) (CC but) (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))
+-34.164630789492 -107.678146058306
+(S1 (FRAG (CC and) (NP (NP (NN MUMBLEx)) (CC but) (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong))))))))
+-34.186771079918 -106.138189609564
+(S1 (FRAG (CC and) (S (NP (NP (NN MUMBLEx)) (CC but) (NP (DT this))) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-34.390250204160 -104.963650465781
+(S1 (FRAG (CC and) (S (NP (NN MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+-34.797143232651 -107.374943250667
+(S1 (FRAG (CC and) (S (NP (JJ MUMBLEx) (CC but) (DT this)) (VP (VBZ is) (PP (IN from) (NP (NNP Hong) (NNP Kong)))))))
+

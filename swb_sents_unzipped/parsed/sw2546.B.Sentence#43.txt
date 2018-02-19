@@ -1,0 +1,102 @@
+50 x
+-37.811955041969 -128.762429091766
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-38.325311736825 -130.541129336124
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (SBAR (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-38.404509078543 -133.826262722437
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-38.562485716191 -129.351001383994
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-38.630919702573 -126.986659440913
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-39.023882399046 -135.411219736876
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-39.128729826802 -131.129701764092
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (SBAR (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-39.155039752765 -134.414835014664
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-39.310774629226 -135.019994007032
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-39.381450376794 -127.575231733140
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+-39.471874488830 -132.748824342179
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+-39.523017235914 -130.292938424690
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))
+-39.600293183345 -131.410418753914
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-39.774413073268 -135.999792029103
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-39.910287633425 -133.877211208280
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-40.061305303448 -135.608566299260
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-40.222405163051 -133.337396634406
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people))))))))))))))
+-40.267492009183 -132.592213159897
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))))))
+-40.273547910135 -130.881510716918
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))
+-40.305161259839 -136.348768588617
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-40.350823829689 -131.998991046141
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-40.378097411312 -133.942555626774
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+-40.660818307646 -134.465783500507
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+-40.685993745971 -134.085985224501
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))))) (SBAR (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))
+-40.769282613802 -134.389138012744
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-41.018022683404 -133.180785452124
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))))
+-41.028798366851 -136.184505233287
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (SBAR (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-41.055691934061 -136.937340880844
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-41.128628085534 -134.531127919001
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people))))))))))))))
+-41.294738531886 -136.168170179852
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PRT (RP on)) (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-41.389940357670 -136.442148091370
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))))) (SBAR (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-41.413712026834 -135.520909822352
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBN killed) (NP (CD four) (NNS people))))))))))))
+-41.519813288024 -134.977710304972
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-41.523875075948 -134.674557652469
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years))))) (SBAR (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))
+-41.869269266828 -136.773077661255
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (SBAR (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+-42.012485242188 -135.792590114316
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years)))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-42.045269206107 -136.756742472079
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PRT (RP on)) (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-42.163646191227 -136.638622518038
+(S1 (S (NP (PRP he) (VBZ 's)) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-42.257990479243 -136.858389370624
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBN killed) (NP (CD four) (NNS people)))))))))))))
+-42.314483571567 -131.919954870795
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))
+-42.490394995244 -136.352335968337
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NP (NN death) (NN row)) (PP (IN for) (NP (CD eight) (NNS years))))))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))
+-42.592911513188 -136.594426327172
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (SBAR (S (VP (VBD killed) (NP (CD four) (NNS people))))))))))))))
+-42.763015916410 -136.381162406544
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (CD eight) (NNS years)))) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-42.801735953935 -136.040019335819
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PRT (RP on)) (NP (NN death) (NN row)) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-42.922206964138 -136.667567727459
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))) (PP (PP (IN for) (NP (CD eight) (NNS years))) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-43.065014245789 -132.508527163023
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (IN on) (NP (NN death) (NN row))))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))
+-43.516901747018 -136.725487711433
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (PP (IN on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+-43.552266628156 -136.628591628047
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PRT (RP on)) (NP (NN death) (NN row)) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+-43.665660443082 -136.078530431312
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (RP on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (VP (VBD killed) (NP (CD four) (NNS people))))))))))))
+-44.416191117303 -136.667102723540
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG sitting) (PP (RP on) (NP (NN death) (NN row))) (PP (IN for) (NP (NP (CD eight) (NNS years)) (PP (IN after) (S (VP (VBG having) (S (VP (VBD killed) (NP (CD four) (NNS people)))))))))))))
+

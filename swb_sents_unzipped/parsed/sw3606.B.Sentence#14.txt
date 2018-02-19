@@ -1,0 +1,102 @@
+50 x
+-16.320640644628 -64.974646655416
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one))))))
+-17.225080588118 -66.118243311777
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one))))))
+-18.060067105280 -63.262683804794
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one))))))
+-18.241151770016 -67.384800968753
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one))))))
+-19.145591716294 -68.528397625113
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one))))))
+-19.302596732856 -65.504044176571
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one))))))
+-19.410583220618 -69.126623902097
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (CD one))))))
+-19.980578233455 -65.672838118130
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one))))))
+-19.980994208481 -73.757458406990
+(S1 (S (ADVP (RB occasionally)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one)))))))
+-20.534401601305 -72.478983373130
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (QP (RB that) (CD one)))))))
+-20.615629171158 -72.163054577544
+(S1 (S (RB occasionally) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one)))))))
+-20.789653144175 -74.033896990804
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (CD one))))))
+-20.816880801628 -75.534851413361
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (QP (DT that) (CD one)))))))
+-20.869179455926 -72.086625452321
+(S1 (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one))))))))
+-20.929254825244 -73.981362289120
+(S1 (S (INTJ (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one))))))
+-21.018605753432 -73.301373934210
+(S1 (S (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one)))))))))
+-21.167457518972 -74.901055063350
+(S1 (S (ADVP (RB occasionally)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one)))))))
+-21.223107858244 -67.914198489907
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one))))))
+-21.315475757408 -75.438173132850
+(S1 (S (NP (RB occasionally) (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one))))))
+-21.331094348793 -71.536778215433
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (CD one))))))
+-21.365697332343 -74.802688994229
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (QP (IN that) (CD one)))))))
+-21.486541457562 -75.237053434791
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (RB that) (CD one))))))
+-21.549358271921 -72.045495556368
+(S1 (S (ADVP (RB occasionally)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one)))))))
+-21.673578246176 -68.509909523052
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (SBAR (IN that) (S (NP (CD one))))))))
+-21.802092481648 -73.306651233904
+(S1 (S (RB occasionally) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one)))))))
+-21.833694771522 -75.124958945480
+(S1 (S (INTJ (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one))))))
+-21.868620342204 -73.230222108681
+(S1 (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one))))))))
+-22.008381763423 -72.185505957085
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (SBAR (IN that) (S (NP (NN one))))))))
+-22.183993234598 -70.451091726921
+(S1 (S (RB occasionally) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one)))))))
+-22.223577836710 -74.444970590570
+(S1 (S (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one)))))))))
+-22.234453043732 -73.751821354024
+(S1 (FRAG (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (NN one)))))))))
+-22.454912729481 -74.889137686466
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (QP (RB that) (CD one)))))))
+-22.611802419671 -71.589411083587
+(S1 (S (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one)))))))))
+-22.633438522165 -70.374662601698
+(S1 (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one))))))))
+-22.668681288684 -72.269399438498
+(S1 (S (INTJ (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one))))))
+-22.738365596709 -74.286855928145
+(S1 (S (ADVP (RB occasionally)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one)))))))
+-22.759515130010 -74.895418010384
+(S1 (FRAG (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (DT that) (CD one)))))))))
+-22.966616046285 -73.895896901684
+(S1 (FRAG (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one))))))))
+-23.054902220848 -73.726210282227
+(S1 (S (NP (RB occasionally) (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one))))))
+-23.074062045990 -75.422088463705
+(S1 (FRAG (ADVP (RB occasionally)) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one))))))))
+-23.105056300589 -75.559184120464
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (SBAR (IN that) (S (NP (PRP one))))))))
+-23.373000559386 -72.692452098698
+(S1 (S (RB occasionally) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one)))))))
+-23.594089374351 -70.920063836388
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (SBAR (IN that) (S (NP (CD one))))))))
+-23.621658773061 -75.005239586080
+(S1 (S (ADVP (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (SBAR (WHNP (WDT that)) (S (NP (CD one))))))))
+-23.769821944447 -73.830771455364
+(S1 (S (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one)))))))))
+-23.844980344154 -72.616022973475
+(S1 (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one))))))))
+-23.911210913472 -74.510759810275
+(S1 (S (INTJ (RB occasionally)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one))))))
+-23.928892888810 -74.595660270421
+(S1 (S (RB occasionally) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (SBAR (IN that) (S (NP (NN one))))))))
+-23.950397309972 -72.039858503401
+(S1 (FRAG (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WDT that) (NN one)))))))))
+-25.148166684748 -74.281218875178
+(S1 (FRAG (ADJP (RB occasionally) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (IN that) (NN one)))))))))
+

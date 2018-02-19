@@ -1,0 +1,102 @@
+50 x
+-23.619766565640 -85.018145339361
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-25.408662499338 -83.783093987398
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-25.880582300019 -86.858085568819
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that))))))))
+-26.023340993546 -90.124029605373
+(S1 (S (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-26.749448335752 -94.820779807515
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADVP (RB quite)) (ADJP (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-26.823773566232 -91.614454112291
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-26.975438091527 -88.154224217963
+(S1 (FRAG (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-27.185042033628 -87.077689327461
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-27.233880433608 -90.765428744294
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-27.690730238717 -85.623034216856
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-27.740586382451 -94.742473748293
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (RB quite) (ADJP (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-27.939586721714 -91.510082378555
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-28.038125092327 -94.136873356168
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (NP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-28.094086670698 -92.659274941830
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADVP (RB quite)) (ADJP (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-28.168335448948 -95.654311997159
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (NP (NP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-28.421223754582 -94.991546374823
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (ADVP (RB quite)) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-28.434420545138 -91.963969834831
+(S1 (S (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))))
+-28.582270669506 -95.242556257871
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (RB there) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-28.715805605167 -91.093799285085
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (RB quite) (ADJP (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-28.874310785173 -94.840292159226
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (NP (EX there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-28.912186429267 -92.786948433446
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (RB there) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-29.110858083611 -93.454394341749
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))))
+-29.244220049907 -89.994164447421
+(S1 (FRAG (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))))
+-29.328691208007 -88.917629556919
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-29.356277602988 -92.605368973752
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that))))))))
+-29.469911675989 -95.117474618199
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different) (PP (RB there) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-29.532682742764 -95.470915727238
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (EX there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-29.549870741838 -92.019802182056
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (NP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-29.552679249781 -94.870754068504
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (ADVP (RB there)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-29.823925994582 -95.849312297692
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (ADVP (EX there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-29.980370469038 -93.994977612209
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (ADVP (EX there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-30.076414875093 -93.350022608013
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))))
+-30.077814114787 -92.085326705287
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (NP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-30.172855618361 -94.750533116162
+(S1 (FRAG (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))))
+-30.192507901868 -93.874621323202
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (NP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))
+-30.210119688281 -93.756495022860
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (ADVP (RB quite)) (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-30.376154410077 -94.499215171288
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADVP (RB quite)) (ADJP (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-30.582584322284 -93.901507625695
+(S1 (FRAG (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-30.591088015264 -95.868989709774
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (ADJP (RB quite) (JJ different)) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))))
+-30.997873341758 -92.933739514543
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (RB quite) (ADJP (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-31.055835603646 -94.626888662904
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (RB there) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-31.102967631859 -95.749502900085
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (RB quite) (ADJP (JJ different))) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that)))))))
+-31.103659645990 -94.717204835774
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (ADVP (RB there)) (PP (IN in) (NP (NNS terms)))) (PP (IN of) (NP (DT that)))))
+-31.281701083663 -94.646161212600
+(S1 (FRAG (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (DT that))))))))))
+-31.831938481217 -93.859742411514
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (NP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-32.125259953417 -95.834917841667
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (ADVP (EX there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-32.221463286378 -93.925266934744
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different))) (PP (NP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-32.314905071247 -95.714561552660
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (NP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that))))))))
+-32.492187427660 -95.596435252318
+(S1 (S (CC and) (NP (NNS things)) (VP (VBP are) (ADJP (ADVP (RB quite)) (JJ different)) (ADVP (RB there))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))
+-32.712947715663 -95.741447855152
+(S1 (FRAG (CC and) (S (NP (NNS things)) (VP (VBP are) (ADJP (RB quite) (JJ different)) (PP (ADVP (RB there)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (WDT that)))))))))
+

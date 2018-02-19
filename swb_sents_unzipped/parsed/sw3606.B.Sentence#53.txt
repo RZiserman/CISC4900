@@ -1,0 +1,102 @@
+50 x
+-16.783967980888 -59.453821137588
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (DT that)) (PRT (RP on))))))
+-17.202026225601 -64.744310814757
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (DT that)) (PP (IN on))))))
+-17.312729299456 -63.711845903587
+(S1 (S (NP (PRP I)) (VP (VBP do) (S (VP (VB turn) (NP (DT that)) (PP (IN on)))))))
+-17.468192973037 -60.534214218907
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (DT that)) (PP (IN on)))))
+-17.901450791000 -62.332454301494
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (VB turn) (DT that)) (PP (IN on)))))
+-17.926106505404 -64.269660930125
+(S1 (S (NP (PRP I)) (VBP do) (VP (VB turn) (NP (DT that)) (PP (IN on)))))
+-18.030144669520 -64.214217507997
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (DT that)) (PRT (IN on))))))
+-18.065350034155 -64.343449751338
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (DT that)) (ADVP (RB on))))))
+-18.335258528360 -59.217468011048
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (DT that)) (PRT (RP on)))))
+-18.443395072435 -66.569902920620
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (DT that)) (PRT (RB on))))))
+-18.712111694389 -64.396894438259
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (VB turn) (IN that)) (PP (IN on)))))
+-18.872293361420 -66.881279995022
+(S1 (S (NP (PRP I)) (VP (VB do) (NP (VB turn) (DT that)) (PP (IN on)))))
+-19.003458423557 -67.191346799053
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (DT that) (PP (IN on)))))
+-19.060038585216 -67.200374274768
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (PP (DT that) (IN on)))))
+-19.074764040086 -63.404648657332
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (ADVP (RB that) (RB on))))))
+-19.149753160730 -60.912366969067
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (IN that)) (PRT (RP on))))))
+-19.164062523681 -64.347152351478
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (RB turn) (DT that)) (PP (IN on)))))
+-19.243115404249 -65.392347375007
+(S1 (S (NP (PRP I)) (VBP do) (VP (VB turn) (NP (DT that)) (PRT (RP on)))))
+-19.260608386796 -65.000855450603
+(S1 (S (NP (PRP I)) (VP (VB do) (VP (VB turn) (NP (DT that)) (PRT (RP on))))))
+-19.307287785230 -66.202856646236
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (IN that)) (PP (IN on))))))
+-19.307927978847 -64.834532234989
+(S1 (S (NP (PRP I)) (VP (VBP do) (S (VP (VB turn) (NP (DT that)) (PRT (RP on)))))))
+-19.359745013127 -63.136534130141
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (IN that)) (PP (IN on)))))
+-19.432261859522 -63.664596459524
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (DT that)) (PRT (RB on)))))
+-19.688468114599 -65.828903846585
+(S1 (S (NP (PRP I)) (VP (VBP do) (S (VP (VB turn) (NP (IN that)) (PP (IN on)))))))
+-19.894758621750 -64.832615519071
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (VB turn) (DT that)) (PRT (RP on)))))
+-20.040447699628 -65.902427247105
+(S1 (S (NP (PRP I)) (VP (VBP do) (S (VP (VB turn) (ADVP (RB that) (RB on)))))))
+-20.098489535984 -66.936110663716
+(S1 (S (NP (PRP I)) (VP (VB do) (NP (VB turn) (DT that)) (ADVP (RB on)))))
+-20.211703397362 -65.672763339475
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (IN that)) (PRT (IN on))))))
+-20.256414459760 -66.386718873123
+(S1 (S (NP (PRP I)) (VBP do) (VP (VB turn) (NP (IN that)) (PP (IN on)))))
+-20.301997517797 -64.740121865281
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (DT that)) (PRT (IN on)))))
+-20.342871003296 -65.595229162585
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (ADVP (IN that) (RB on))))))
+-20.397348461450 -61.819787922282
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (IN that)) (PRT (RP on)))))
+-20.459845563997 -65.801995582817
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (IN that)) (ADVP (RB on))))))
+-20.579244245549 -67.131337883326
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (VB turn) (DT that)) (ADVP (RB on)))))
+-20.709311481556 -67.279821333348
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (ADVP (RB that) (RB on)))))
+-20.752840192182 -67.005480852684
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (NP (WDT that)) (PRT (RP on))))))
+-20.951228383576 -66.460242275142
+(S1 (S (NP (PRP I)) (VBP do) (VP (VB turn) (ADVP (RB that) (RB on)))))
+-20.960532958139 -66.897055655836
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (VB turn) (IN that)) (PRT (RP on)))))
+-21.077046838843 -65.263287270017
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (DT that)) (PP (RP on)))))
+-21.077854463330 -66.943245431510
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (WDT that)) (PP (IN on)))))
+-21.084088967431 -66.847313569055
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (RB turn) (DT that)) (PRT (RP on)))))
+-21.127777291475 -67.056611646082
+(S1 (S (NP (PRP I)) (VP (VBP do) (S (VP (VB turn) (NP (DT that)) (PP (RP on)))))))
+-21.283669869552 -66.910755244448
+(S1 (S (NP (PRP I)) (VP (VBP do) (SBAR (S (VP (VBP turn) (NP (DT that)) (PRT (RP on))))))))
+-21.370831722612 -66.266916370758
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (IN that)) (PRT (RB on)))))
+-21.384312316637 -66.459401282082
+(S1 (S (NP (PRP I)) (VP (VB do) (VP (VB turn) (NP (IN that)) (PRT (RP on))))))
+-21.423059859681 -66.018640305068
+(S1 (S (NP (PRP I)) (VP (VBP do) (NP (VB turn) (DT that)) (PP (RP on)))))
+-21.669374737742 -67.077640669607
+(S1 (S (NP (PRP I)) (VP (VBP do) (VP (VB turn) (S (NP (DT that)) (ADVP (RP on)))))))
+-21.948496839652 -65.626499223651
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (WDT that)) (PRT (RP on)))))
+-21.983721807990 -66.951590177987
+(S1 (S (NP (PRP I)) (VP (VBP do) (S (VP (VB turn) (NP (IN that)) (PRT (RP on)))))))
+-22.205215928887 -67.342441776515
+(S1 (S (NP (PRP I)) (VBP do) (VP (VBP turn) (NP (IN that)) (PRT (IN on)))))
+

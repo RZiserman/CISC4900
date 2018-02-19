@@ -1,0 +1,102 @@
+50 x
+-12.915038588504 -46.513187041322
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-16.926879767092 -59.097643069491
+(S1 (S (NP (DT this)) (VP (VBZ is) (VP (NP (NN college) (NN basketball))))))
+-17.009260443578 -56.303093451090
+(S1 (S (DT this) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-17.059184952697 -62.930547565652
+(S1 (S (NP (NNP this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-17.331808840257 -52.848938426536
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (NP (NN college) (NN basketball))))))
+-18.205474953743 -62.375611928099
+(S1 (NP (DT this) (VBZ is) (NN college) (NN basketball)))
+-18.317969325117 -64.808106441252
+(S1 (S (NP (DT this)) (VP (VBZ is) (VP (NN college) (NP (NN basketball))))))
+-18.353077114078 -63.909373215022
+(S1 (S (NP (NN this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-18.389240634077 -56.285530162943
+(S1 (SBAR (DT this) (S (VP (VBZ is) (NP (NN college) (NN basketball))))))
+-18.407554514872 -61.339802401798
+(S1 (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (NN college) (NN basketball))))))
+-18.803089791165 -62.047244316515
+(S1 (S (NP (DT this)) (VP (VBZ is) (ADJP (NN college) (NN basketball)))))
+-19.218751626707 -59.422447477737
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (NP (NN college) (NN basketball)))))))
+-19.345688572655 -65.444492834004
+(S1 (NP (NP (DT this)) (VBZ is) (NN college) (NN basketball)))
+-19.429297680258 -66.325272675136
+(S1 (NP (DT this) (VBZ is) (NP (NN college) (NN basketball))))
+-20.466761755773 -69.932835960830
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (NN college)) (NN basketball)))))
+-20.479090486227 -65.739040827360
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (VP (NP (NN college) (NN basketball)))))))
+-20.595367223572 -67.717377318657
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (NN college)) (VP (NN basketball))))))
+-20.632137679530 -63.495081038713
+(S1 (S (RB this) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-20.686930572468 -67.377242271163
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (NN college)) (NP (NN basketball))))))
+-20.782950246652 -67.179274880936
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (VP (NN college) (NP (NN basketball)))))))
+-20.908437542165 -68.887549479260
+(S1 (S (DT this) (VP (VBZ is) (VP (NP (NN college) (NN basketball))))))
+-20.992352034861 -69.936727783114
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NN college)) (NP (NN basketball)))))
+-21.309501746330 -62.638844836304
+(S1 (S (DT this) (VP (VBZ is) (S (NP (NN college) (NN basketball))))))
+-21.311397994696 -68.372858296616
+(S1 (S (ADVP (RB this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-21.317932409907 -67.882495084732
+(S1 (S (NP (DT this) (VBZ is) (NN college) (NN basketball))))
+-21.374595834128 -71.972741315545
+(S1 (NP (NP (DT this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-21.444960151662 -69.266298950866
+(S1 (S (NP (NNP this)) (VP (VBZ is) (S (NP (NN college) (NN basketball))))))
+-21.493632537318 -71.779484491511
+(S1 (NP (NP (NNP this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-21.844116857463 -69.825741387765
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (VP (NP (NN college) (NN basketball))))))))
+-21.953435070316 -67.267582282441
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (NP (NN college)) (NP (NN basketball))))))
+-22.080569743714 -67.082392382985
+(S1 (S (NP (RB this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-22.271175126645 -71.606248348694
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (VP (NN college) (NP (NN basketball))))))))
+-22.312230207296 -68.185707441935
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (ADJP (NN college) (NN basketball))))))
+-22.321329948240 -68.869986210407
+(S1 (SBAR (DT this) (S (VP (VBZ is) (VP (NP (NN college) (NN basketball)))))))
+-22.366876170491 -73.924258235101
+(S1 (SBAR (S (NP (DT this)) (VP (VBZ is) (VP (NP (NN college) (NN basketball)))))))
+-22.699506013043 -70.245124600236
+(S1 (S (NP (NN this)) (VP (VBZ is) (S (NP (NN college) (NN basketball))))))
+-22.728461842787 -70.242082140212
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (NP (NN college)) (VP (NN basketball))))))
+-22.761719546239 -71.837150726283
+(S1 (S (DT this) (VP (VBZ is) (ADJP (NN college) (NN basketball)))))
+-22.807786168646 -62.621281700844
+(S1 (SBAR (DT this) (S (VP (VBZ is) (S (NP (NN college) (NN basketball)))))))
+-22.854567920412 -67.675553799945
+(S1 (SBAR (S (NP (DT this)) (VP (VBZ is) (S (NP (NN college) (NN basketball)))))))
+-22.867720582037 -71.713255402073
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (NP (NN college)) (VP (NN basketball)))))))
+-23.081693174332 -72.398914878138
+(S1 (S (NP (NP (DT this)) (VBZ is) (NN college) (NN basketball))))
+-23.193955993113 -73.910217272539
+(S1 (S (NP (DT this) (VBZ is) (NP (NN college) (NN basketball)))))
+-23.206643121780 -69.212353887506
+(S1 (S (DT this) (VP (VBZ is) (SBAR (S (NP (NN college) (NN basketball)))))))
+-23.599117585052 -73.000422298321
+(S1 (S (ADVP (DT this)) (VP (VBZ is) (NP (NN college) (NN basketball)))))
+-24.145808732069 -73.694631954459
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (ADJP (NN college) (NN basketball)))))))
+-24.419121953284 -71.819587320015
+(S1 (SBAR (DT this) (S (VP (VBZ is) (ADJP (NN college) (NN basketball))))))
+-24.764441739672 -69.194790767710
+(S1 (SBAR (DT this) (S (VP (VBZ is) (SBAR (S (NP (NN college) (NN basketball))))))))
+-24.981189992495 -69.830832423927
+(S1 (S (RB this) (VP (VBZ is) (S (NP (NN college) (NN basketball))))))
+-26.517784277867 -73.418143768199
+(S1 (S (NP (RB this)) (VP (VBZ is) (S (NP (NN college) (NN basketball))))))
+

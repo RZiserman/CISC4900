@@ -1,0 +1,102 @@
+50 x
+-12.238585359492 -39.772307045425
+(S1 (SQ (CC or) (MD should) (NP (PRP I)) (VP (VB start))))
+-13.953749936213 -45.088597857071
+(S1 (SQ (CC or) (MD should) (NP (PRP I)) (VP (VBP start))))
+-15.173186022178 -49.862709602265
+(S1 (SQ (CC or) (MD should) (NP (PRP I)) (NP (NN start))))
+-16.406375738370 -51.358470953343
+(S1 (SQ (CC or) (MD should) (NP (PRP I)) (VP (NN start))))
+-16.420298778073 -54.419275778736
+(S1 (S (CC or) (MD should) (NP (PRP I)) (VP (VBP start))))
+-16.586742047024 -52.311711606050
+(S1 (SQ (CC or) (MD should) (S (NP (PRP I)) (VP (VBP start)))))
+-17.568831952212 -55.826432750293
+(S1 (SQ (CC or) (MD should) (NP (PRP I)) (NP (VB start))))
+-17.759085989236 -57.084611598988
+(S1 (SQ (CC or) (MD should) (NP (PRP I)) (VP (NP (VB start)))))
+-17.960689498809 -56.010264532839
+(S1 (SQ (CC or) (MD should) (NP (NN I)) (VP (VB start))))
+-18.547631815248 -59.734013310960
+(S1 (SQ (CC or) (MD should) (S (NP (PRP I)) (VP (VB start)))))
+-18.722479761933 -64.445062790524
+(S1 (S (CC or) (MD should) (NP (PRP I)) (VP (VB start))))
+-19.266202356281 -62.374019593426
+(S1 (SQ (CC or) (MD should) (NP (PRP I)) (VP (NP (NN start)))))
+-19.497693674324 -64.360285318540
+(S1 (SQ (CC or) (MD should) (NP (NP (PRP I)) (VP (VB start)))))
+-19.989445250259 -69.102019284190
+(S1 (S (CC or) (VP (MD should) (S (NP (PRP I)) (VP (VB start))))))
+-20.352800383426 -70.844003911175
+(S1 (S (CC or) (VP (MD should) (NP (PRP I)) (VP (VB start)))))
+-20.354941684481 -67.336779953974
+(S1 (S (CC or) (VP (MD should) (S (NP (PRP I)) (VP (VBP start))))))
+-20.479281280086 -63.568894773172
+(S1 (SQ (CC or) (MD should) (NP (PRP I) (NN start))))
+-20.501091097078 -63.839285032600
+(S1 (SQ (CC or) (MD should) (S (NP (PRP I)) (VP (NN start)))))
+-20.594988761530 -61.326555344485
+(S1 (SQ (CC or) (MD should) (NP (NN I)) (VP (VBP start))))
+-20.834869378305 -67.035590252737
+(S1 (SQ (CC or) (MD should) (NP (NP (PRP I)) (NN start))))
+-21.319562784985 -70.527275356648
+(S1 (S (CC or) (MD should) (NP (PRP I)) (VP (NN start))))
+-21.382464846350 -67.654197420441
+(S1 (SQ (CC or) (MD should) (NP (NN I) (NN start))))
+-21.543613994283 -66.100667089678
+(S1 (SQ (CC or) (MD should) (NP (NN I)) (NP (NN start))))
+-21.831789286656 -69.240696761265
+(S1 (SQ (CC or) (MD should) (NP (NP (PRP I)) (NP (NN start)))))
+-21.896578347230 -67.362425614058
+(S1 (SQ (CC or) (MD should) (NP (NP (PRP I)) (VP (NN start)))))
+-22.131547664718 -69.611681637921
+(S1 (SINV (CC or) (MD should) (NP (PRP I)) (NP (NN start))))
+-22.273664297573 -71.853472343288
+(S1 (SQ (CC or) (MD should) (NP (NP (PRP I)) (VP (VBP start)))))
+-22.369087653535 -70.911386131424
+(S1 (SQ (CC or) (MD should) (NP (NP (PRP I)) (NP (VB start)))))
+-22.650114030475 -67.596428440757
+(S1 (SQ (CC or) (MD should) (NP (NN I)) (VP (NN start))))
+-22.682691411469 -67.736095927738
+(S1 (SINV (CC or) (MD should) (NP (PRP I) (NN start))))
+-22.838861964008 -70.439339056031
+(S1 (SINV (CC or) (MD should) (NP (NP (PRP I)) (NN start))))
+-23.218925914317 -72.064390237706
+(S1 (SQ (CC or) (MD should) (NP (NN I)) (NP (VB start))))
+-23.251431501134 -73.341377043968
+(S1 (SINV (CC or) (MD should) (NP (NP (PRP I)) (VP (VB start)))))
+-23.277164321441 -75.184865650944
+(S1 (S (CC or) (VP (MD should) (S (NP (PRP I)) (VP (NN start))))))
+-23.405698138186 -71.564963315843
+(S1 (SINV (CC or) (MD should) (NP (PRP I)) (NP (VB start))))
+-23.529350291341 -73.322569086402
+(S1 (SQ (CC or) (MD should) (NP (NN I)) (VP (NP (VB start)))))
+-23.581961698079 -77.460520821912
+(S1 (S (CC or) (VP (MD should) (NP (NN I)) (VP (VB start)))))
+-23.592017717335 -72.843068436564
+(S1 (SQ (CC or) (MD should) (S (NP (NN I)) (VP (VB start)))))
+-23.745710849069 -75.245691586469
+(S1 (SQ (CC or) (MD should) (S (NP (PRP I)) (VP (NP (NN start))))))
+-23.891414734306 -75.895245040928
+(S1 (SQ (CC or) (MD should) (S (NP (PRP I)) (VP (NP (VB start))))))
+-23.979533963458 -73.867900685716
+(S1 (SINV (CC or) (MD should) (NP (NN I) (NN start))))
+-24.164312002438 -74.263750009201
+(S1 (S (CC or) (MD should) (NP (NN I)) (VP (VBP start))))
+-24.806621209300 -76.162370265546
+(S1 (SQ (CC or) (MD should) (NP (NP (NN I)) (NN start))))
+-25.044679070092 -73.372403606853
+(S1 (SQ (CC or) (MD should) (S (NP (NN I)) (VP (VBP start)))))
+-25.046474077083 -78.448468805789
+(S1 (SQ (CC or) (MD should) (NP (NP (PRP I)) (VP (NP (NN start))))))
+-25.313844839305 -76.814491967273
+(S1 (SQ (CC or) (MD should) (NP (NP (NN I)) (NP (NN start)))))
+-25.438160036560 -77.822484391466
+(S1 (SINV (CC or) (MD should) (NP (NP (PRP I)) (NP (NN start)))))
+-25.619636728385 -78.611977080840
+(S1 (SQ (CC or) (MD should) (NP (NN I)) (VP (NP (NN start)))))
+-25.661030434828 -76.343517339486
+(S1 (SINV (CC or) (MD should) (NP (NP (PRP I)) (VP (NN start)))))
+-26.341638063136 -77.241462867391
+(S1 (SQ (CC or) (MD should) (S (NP (NN I)) (VP (NN start)))))
+

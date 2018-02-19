@@ -1,0 +1,102 @@
+50 x
+-28.925338845033 -97.769142074121
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-28.955197651492 -95.266387232136
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-29.090237085834 -100.779273569023
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-29.114114315129 -98.835465658138
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (EX there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-29.154601408669 -101.338220500122
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (EX there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-29.345604369499 -97.047915481148
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))
+-29.413357926886 -100.815688298877
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (NP (RB there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))))
+-29.443216733345 -98.312933461739
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (NP (RB there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))))
+-29.469942119575 -101.020552569935
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (NP (EX there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))))
+-29.701599328355 -98.276518711433
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-29.745614808348 -100.616993907149
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (EX there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))
+-30.008034931797 -101.730797287667
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NN nothing)) (PP (IN in) (NP (NP (RB there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-30.029794027497 -97.954779198324
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-30.059652833956 -95.452024356340
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-30.101609758841 -101.845597137434
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NP (NN nothing)) (PP (IN in) (NP (EX there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-30.194692259935 -100.964910693226
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-30.218569494806 -99.021102782341
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (EX there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-30.259056582770 -101.523857624326
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (EX there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-30.266170086439 -99.222737972022
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))
+-30.450059551963 -97.233552605352
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-30.517813100987 -101.001325423081
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (NP (RB there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))))
+-30.547671915810 -98.498570585942
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (NP (RB there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))))
+-30.574397293676 -101.206189694138
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (NP (EX there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))))
+-30.806054510819 -98.462155835637
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-30.850069982449 -100.802631031353
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (EX there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-31.112490105898 -101.916434411871
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NN nothing)) (PP (IN in) (NP (NP (RB there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))))
+-31.370625268903 -99.408375096226
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-31.890689369884 -100.881059752605
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (IN that)) (S (VP (NNS interests) (NP (PRP me))))))))))
+-31.920548162405 -98.378304910620
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (IN that)) (S (VP (NNS interests) (NP (PRP me))))))))))
+-32.158753584053 -100.249979449843
+(S1 (S (IN Because) (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (WDT that)) (S (VP (VBZ interests) (NP (PRP me)))))))))
+-32.521080277753 -101.715361316235
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me))))))))))
+-32.550939087000 -99.212606474251
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me))))))))))
+-32.675055345879 -101.863128586098
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (EX there)))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me)))))))))
+-32.758594493585 -101.915687359930
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (NP (RB there)) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me))))))))))))
+-32.828033041455 -98.294050160097
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me)))))))))
+-32.995144543985 -101.066696876808
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (IN that)) (S (VP (NNS interests) (NP (PRP me)))))))))))
+-33.025003342081 -98.563942034824
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (WHNP (IN that)) (S (VP (NNS interests) (NP (PRP me)))))))))))
+-33.196013156642 -99.285627316567
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (VBZ interests) (NP (PRP me)))))))))
+-33.483260307442 -101.110670361544
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (IN that) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-33.485879383488 -101.095408159311
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (IN that)) (S (VP (NNS interests) (NP (PRP me))))))))))
+-33.625535451854 -101.900998440439
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me)))))))))))
+-33.655394269464 -99.398243598455
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me)))))))))))
+-33.781951322333 -100.468872650972
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me)))))))))
+-33.932488221131 -98.479687284301
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me))))))))))
+-34.149931420794 -101.460449807442
+(S1 (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (VBZ interests) (NP (PRP me)))))))))
+-34.300468336319 -99.471264440771
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (VBZ interests) (NP (PRP me))))))))))
+-34.587715481543 -101.296307485748
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NN nothing)) (PP (IN in) (NP (RB there))) (SBAR (IN that) (S (VP (VBZ interests) (NP (PRP me)))))))))))
+-34.590334557589 -101.281045283514
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (NP (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (WHNP (IN that)) (S (VP (NNS interests) (NP (PRP me)))))))))))
+-34.886406496434 -100.654509775175
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (NNS interests) (NP (PRP me))))))))))
+-35.254386594895 -101.646086931646
+(S1 (FRAG (SBAR (IN Because) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB just) (NN nothing)) (PP (IN in) (NP (RB there)))) (SBAR (IN that) (S (VP (VBZ interests) (NP (PRP me))))))))))
+

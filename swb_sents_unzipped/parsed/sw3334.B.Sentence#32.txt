@@ -1,0 +1,102 @@
+50 x
+-14.011826979692 -43.120154467586
+(S1 (S (NP (PRP you)) (VP (VBP know) (ADJP (JJ unstable)))))
+-15.695105794342 -48.374799717271
+(S1 (S (NP (PRP you)) (VP (VB know) (ADJP (JJ unstable)))))
+-16.471904810866 -52.359875538085
+(S1 (S (NP (PRP you)) (VP (VBP know) (NP (JJ unstable)))))
+-17.102184044546 -52.912048122818
+(S1 (S (NP (PRP you)) (VP (VBP know) (ADVP (JJ unstable)))))
+-17.386060688198 -51.707565025337
+(S1 (S (NP (PRP you)) (VP (VBP know) (S (ADJP (JJ unstable))))))
+-17.660708794616 -53.066163054093
+(S1 (S (NP (PRP you)) (VP (VBP know) (VP (JJ unstable)))))
+-18.001088829282 -55.961867907380
+(S1 (S (NP (PRP you)) (VP (VB know) (S (ADJP (JJ unstable))))))
+-18.400298450329 -57.437944525401
+(S1 (S (NP (PRP you)) (VP (VB know) (NP (JJ unstable)))))
+-18.812936813777 -56.494726796990
+(S1 (S (NP (PRP you)) (VP (VB know) (ADVP (JJ unstable)))))
+-19.665627807707 -56.164536026717
+(S1 (S (NP (PRP you)) (VP (VBP know) (S (ADVP (JJ unstable))))))
+-19.823551509479 -57.767874707671
+(S1 (S (NP (PRP you)) (VP (VBP know) (VP (ADJP (JJ unstable))))))
+-20.418492767072 -59.468940396838
+(S1 (S (NP (PRP you)) (VP (VB know) (S (ADVP (JJ unstable))))))
+-20.494869336401 -61.337834074647
+(S1 (S (NP (PRP you)) (VP (VB know) (VP (JJ unstable)))))
+-20.524919308866 -59.591203136059
+(S1 (S (NP (PRP you)) (VP (VBP know) (S (NP (JJ unstable))))))
+-20.629491331833 -62.679507178148
+(S1 (S (NP (PRP you)) (VP (VBP know) (S (VP (JJ unstable))))))
+-20.882305572127 -60.618844450298
+(S1 (S (NP (PRP you)) (VP (VB know) (S (NP (JJ unstable))))))
+-21.018740619472 -61.061022296479
+(S1 (S (NP (PRP you)) (VP (VBP know) (NP (ADJP (JJ unstable))))))
+-21.136848182708 -64.308219241789
+(S1 (S (NP (PRP you)) (VP (VB know) (S (VP (JJ unstable))))))
+-21.395096234208 -62.830323715131
+(S1 (S (NP (PRP you)) (VP (VBP know) (SBAR (S (ADJP (JJ unstable)))))))
+-21.505087264803 -62.015739314509
+(S1 (S (NP (PRP you)) (VP (VBP know) (VP (ADVP (JJ unstable))))))
+-21.590651509776 -63.798918124927
+(S1 (S (NP (PRP you)) (VP (VB know) (VP (ADJP (JJ unstable))))))
+-22.285696468335 -68.699520614198
+(S1 (NP (NP (PRP you)) (VP (VB know) (ADJP (JJ unstable)))))
+-22.722307495459 -66.919615837654
+(S1 (S (NP (PRP you)) (VP (VB know) (NP (ADJP (JJ unstable))))))
+-22.907679369357 -69.681343359596
+(S1 (S (NP (PRP you)) (VP (VB know) (SBAR (S (ADJP (JJ unstable)))))))
+-22.955312217799 -68.370115007340
+(S1 (S (NP (PRP you)) (VP (VBP know) (SBAR (S (VP (JJ unstable)))))))
+-23.130456339271 -68.459775285622
+(S1 (S (NP (PRP you)) (VP (VBP know) (S (VP (ADJP (JJ unstable)))))))
+-23.195392573146 -70.088487349263
+(S1 (S (NP (PRP you)) (VP (VB know) (S (VP (ADJP (JJ unstable)))))))
+-23.638447244922 -67.638283932879
+(S1 (S (NP (NP (PRP you)) (VP (VB know) (ADJP (JJ unstable))))))
+-23.674835893067 -68.046782909314
+(S1 (S (NP (PRP you)) (VP (VB know) (VP (ADVP (JJ unstable))))))
+-23.972535501996 -69.995103470390
+(S1 (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (JJ unstable)))))))
+-24.095086000290 -74.511923352039
+(S1 (NP (NP (PRP you)) (VP (VBP know) (ADJP (JJ unstable)))))
+-24.153274131635 -74.570599479400
+(S1 (NP (NP (PRP you)) (VP (VB know) (S (ADJP (JJ unstable))))))
+-24.522074386551 -70.904093932191
+(S1 (S (NP (PRP you)) (VP (VBP know) (SBAR (S (ADVP (JJ unstable)))))))
+-24.843027547013 -72.780219399474
+(S1 (S (NP (PRP you)) (VP (VBP know) (S (VP (ADVP (JJ unstable)))))))
+-25.092183645948 -75.221134651805
+(S1 (S (NP (PRP you)) (VP (VB know) (SBAR (S (VP (JJ unstable)))))))
+-25.310612355887 -74.408931463115
+(S1 (S (NP (PRP you)) (VP (VB know) (S (VP (ADVP (JJ unstable)))))))
+-25.478350365429 -74.150383114814
+(S1 (S (NP (PRP you)) (VP (VBP know) (SBAR (S (VP (ADJP (JJ unstable))))))))
+-25.520461473127 -78.756342734234
+(S1 (NP (NP (PRP you)) (VP (VB know) (NP (JJ unstable)))))
+-25.596136718221 -73.509362798081
+(S1 (S (NP (NP (PRP you)) (VP (VB know) (S (ADJP (JJ unstable)))))))
+-25.599754573123 -73.290733974308
+(S1 (S (NP (NP (PRP you)) (VP (VBP know) (ADJP (JJ unstable))))))
+-25.641020108487 -71.796584989189
+(S1 (S (NP (PRP you)) (VP (VB know) (S (NP (ADJP (JJ unstable)))))))
+-25.726054459439 -70.768943674951
+(S1 (S (NP (PRP you)) (VP (VBP know) (S (NP (ADJP (JJ unstable)))))))
+-26.041201926673 -78.688602068849
+(S1 (NP (NP (PRP you)) (VP (VB know) (ADVP (JJ unstable)))))
+-26.127002245145 -76.846123114855
+(S1 (S (NP (PRP you)) (VP (VB know) (SBAR (S (NP (JJ unstable)))))))
+-26.437306099488 -77.755113576656
+(S1 (S (NP (PRP you)) (VP (VB know) (SBAR (S (ADVP (JJ unstable)))))))
+-26.836940749713 -77.695106052915
+(S1 (S (NP (NP (PRP you)) (VP (VB know) (NP (JJ unstable))))))
+-27.191346861753 -78.470827228666
+(S1 (S (NP (PRP you)) (VP (VBP know) (SBAR (S (VP (ADVP (JJ unstable))))))))
+-27.381478703259 -77.627365387529
+(S1 (S (NP (NP (PRP you)) (VP (VB know) (ADVP (JJ unstable))))))
+-28.338585010392 -78.182392385414
+(S1 (S (NP (NP (PRP you)) (VP (VB know) (S (ADVP (JJ unstable)))))))
+-28.732120289098 -79.080205980018
+(S1 (S (NP (NP (PRP you)) (VP (VB know) (S (NP (JJ unstable)))))))
+

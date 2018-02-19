@@ -1,0 +1,102 @@
+50 x
+-56.424972794590 -197.538101360843
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))
+-56.477269052220 -194.231027628662
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-56.892395557613 -197.490583197937
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))
+-56.938270522173 -198.134616528091
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))))))))
+-57.494607313073 -198.087098365184
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well)))))))))))
+-57.590317475552 -200.575733739539
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))
+-57.624847343135 -201.172248766440
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))))))))
+-57.779785591773 -198.354361311530
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-57.820846246378 -198.263938173485
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NN total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-57.854013060934 -197.977793607873
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))))))
+-58.076138999230 -198.371944336580
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well)))))
+-58.105372557904 -200.699076033072
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))
+-58.113611860870 -201.571011905666
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NN total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))
+-58.228816425487 -201.295591059972
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well)))))))))))
+-58.409316288667 -195.318766271750
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (VP (ADVP (RB actually)) (VBP do) (ADVP (RB pretty) (RB well)))))
+-58.410349823956 -197.930275444966
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))))
+-58.459144310870 -197.931875730364
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))
+-58.473322887907 -199.184796760946
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))
+-58.540589854018 -201.015425846222
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))))))
+-58.544954500621 -201.758199033612
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)))) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))))))
+-58.581034623892 -201.523493742760
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NN total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))
+-58.666100215947 -197.789684355105
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-58.872339532246 -199.781312070172
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))))))))
+-58.947074955209 -198.528391039590
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well)))))))))))
+-59.017149351046 -201.609601612158
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))) (SBAR (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)))))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-59.030643352267 -201.693273040961
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))))))))
+-59.144558936370 -201.138768139754
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))))
+-59.343300709433 -201.140718446698
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (SBAR (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-59.381488282900 -200.447474254668
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (VP (ADVP (RB actually)) (VB do) (ADVP (RB pretty) (RB well)))))
+-59.460697039382 -201.601376113394
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)))) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))))
+-59.572226067622 -201.913018037973
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-59.586980143167 -201.645754878054
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well)))))))))))
+-59.709099228220 -199.442099954618
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (PRT (RP together))))))) (NP (PRP we)) (VP (ADVP (RB actually)) (VBP do) (ADVP (RB pretty) (RB well)))))
+-59.752893454947 -199.351676816573
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NN total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (VP (ADVP (RB actually)) (VBP do) (ADVP (RB pretty) (RB well)))))
+-59.788082043129 -199.624489149954
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))))))
+-59.817278518114 -201.963185989789
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NN total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))))
+-59.862817493970 -198.371568119372
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))))
+-59.946385891028 -201.536450120743
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))))))))
+-60.147783405028 -201.964786275187
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NN total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))
+-60.176352412957 -201.930601063023
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well)))))
+-60.219697182227 -201.822594899928
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NN total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-60.240460488796 -201.592853470455
+(S1 (FRAG (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well))))))
+-60.305906865554 -199.274464053298
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (RB actually) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-60.502722681928 -201.488931957836
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))))
+-60.509529674517 -198.877422998194
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together))))))) (NP (PRP we)) (VP (ADVP (RB actually)) (VBP do) (ADVP (RB pretty) (RB well)))))
+-60.892474087212 -201.166801308487
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (NP (JJ total) (NN income)) (SBAR (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (ADVP (RB together)))))))))))) (NP (PRP we)) (ADVP (RB actually)) (VP (VB do) (ADVP (RB pretty) (RB well)))))
+-60.920863766311 -201.057163316219
+(S1 (S (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income)))))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (S (ADJP (RB together) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))
+-61.388358203649 -201.653678598125
+(S1 (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (S (ADJP (RB together) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well)))))))))))))
+-61.955190324063 -201.930224632242
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (S (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (NP (DT all) (NNS taxes)) (VP (VBN lumped) (SBAR (RB together) (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))))
+-62.304100742410 -201.496855677907
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VB compute) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (NN income))))) (S (NP (DT all) (NNS taxes)) (VP (VBN lumped) (S (ADJP (RB together) (SBAR (S (NP (PRP we)) (ADVP (RB actually)) (VP (VBP do) (ADVP (RB pretty) (RB well))))))))))))))
+

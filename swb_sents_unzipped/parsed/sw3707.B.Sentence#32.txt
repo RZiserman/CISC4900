@@ -1,0 +1,102 @@
+50 x
+-29.341716082428 -91.759284169945
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-29.587495432101 -95.259815965803
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))
+-29.921760338363 -95.033918128775
+(S1 (S (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old))))) (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))
+-30.315409212416 -98.561072956530
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))
+-30.379893818822 -95.622761983458
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-30.409225402105 -91.944921294148
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))))
+-30.655004751777 -95.445453090007
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-31.382918532092 -98.746710080734
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))
+-31.447403141287 -95.808399107661
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))))
+-31.662947108113 -96.396335368757
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (VB control)))))))))))
+-31.838225364848 -99.670969327587
+(S1 (S (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old))))) (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (VB control))))))
+-32.017429690187 -99.576121186262
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (NP (NP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-32.137265662245 -101.158618819966
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (POS 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))))
+-32.252465075998 -99.896867164615
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (VB control))))))))))
+-32.507134532828 -99.538794084292
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB so)) (ADJP (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))
+-32.701124850083 -100.259813182270
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (VB control)))))))))))
+-32.748200207790 -96.581972492961
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (VB control))))))))))))
+-32.827031313341 -97.420152707549
+(S1 (S (IN because) (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))
+-32.903216051357 -99.541513675113
+(S1 (S (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (NP (RB so) (JJ old))))) (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))
+-33.033402242022 -99.243896462450
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (NN control)))))))))))
+-33.084939009864 -99.761758310466
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (NP (NP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))))
+-33.087538833759 -100.256984808845
+(S1 (S (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB so)) (ADJP (JJ old))))) (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))
+-33.114145815130 -95.687526016549
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (JJ much)) (NN control)))))))))))
+-33.275784048103 -100.920684553746
+(S1 (S (IN because) (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))
+-33.337718181250 -100.082504288819
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (VB control)))))))))))
+-33.359925162014 -99.188057812408
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (JJ much)) (NN control))))))))))
+-33.365601495527 -100.520413025326
+(S1 (SBAR (WHADVP (IN because)) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-33.574643855293 -99.724431208496
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB so)) (ADJP (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-33.694190071064 -98.962159975379
+(S1 (S (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old))))) (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (JJ much)) (NN control))))))
+-33.786377944184 -100.445450306474
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (VB control))))))))))))
+-33.840255925279 -99.062571675842
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-33.874304564947 -99.406842135467
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB so)) (VP (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control)))))))))))
+-33.959871035053 -100.666534553085
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much)) (NP (NN control)))))))))))
+-33.969792068726 -99.238972874907
+(S1 (S (RB because) (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))
+-34.152323551524 -99.551003830062
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (JJ much)) (NN control)))))))))))
+-34.181655134806 -95.873163140753
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (JJ much)) (NN control))))))))))))
+-34.185240129487 -99.429533586654
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much) (NN control))))))))))))
+-34.427434484478 -99.373694936611
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (JJ much)) (NN control)))))))))))
+-34.477425308000 -97.841428013062
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (RB much)) (NN control)))))))))))
+-34.686747081254 -99.332382016876
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (ADVP (RB much)) (NP (NN control)))))))))))
+-34.691611772298 -101.116061971892
+(S1 (S (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old))))) (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (RB much)) (NN control))))))
+-34.872434415062 -98.649302567165
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))))
+-34.936210675624 -99.592479259671
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB so)) (VP (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much) (NN control))))))))))))
+-34.967379857913 -101.132719408830
+(S1 (S (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old))))) (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much)) (NP (NN control))))))
+-34.983469554766 -97.858085450000
+(S1 (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much)) (NP (NN control)))))))))))
+-35.027380349154 -100.852171677289
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (JJ much)) (NP (NN control))))))))))))
+-35.219832871200 -99.736640954266
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADJP (RB so) (JJ old)) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (JJ much)) (NN control))))))))))))
+-35.629263195464 -98.027065137265
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (ADJP (RB much)) (NN control))))))))))))
+-35.838584965930 -99.518019141080
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (ADVP (RB much)) (NP (NN control))))))))))))
+-36.135307439442 -98.043722574203
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB so) (JJ old) (SBAR (S (NP (PRP she)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (RB much)) (NP (NN control))))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-13.236799317717 -49.437851005952
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN surmise)))))
+-13.763763418690 -50.910853980463
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (DT a) (NN surmise)))))
+-16.033861915769 -55.440063578333
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ surmise)))))
+-16.935683288065 -60.442626813974
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (FW surmise)))))
+-17.108954925534 -58.831936501128
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (DT a) (JJ surmise)))))
+-17.474087905424 -61.390852562992
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (DT a) (FW surmise)))))
+-18.144884659356 -66.036035992282
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (VB surmise)))))
+-18.442582513721 -61.435036510569
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (DT a) (NN surmise))))))
+-18.464420505588 -61.103824581623
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (DT a) (JJ surmise)))))
+-18.530428151709 -66.177235214383
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (DT a) (VB surmise)))))
+-18.804822345075 -65.498513779885
+(S1 (NP (NP (PRP It) (POS 's)) (NP (DT a) (NN surmise))))
+-19.055296548216 -63.330023408460
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (DT a) (JJ surmise)))))
+-19.093734564847 -61.993373176671
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT a) (NN surmise))))))
+-19.358324856200 -63.083178866360
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (FW a) (FW surmise)))))
+-19.359871907415 -64.453680245661
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (FW a) (FW surmise)))))
+-19.485678165084 -61.346011074844
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (DT a) (NN surmise))))
+-19.503416347739 -63.418776794858
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (FW a) (FW surmise)))))
+-19.702379295472 -65.401905915744
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (FW a) (FW surmise)))))
+-19.997129844639 -65.706219455189
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT a) (NN surmise)))))))
+-20.236179826420 -69.194355430261
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (DT a) (VP (VB surmise)))))
+-20.322471183348 -66.198216747032
+(S1 (S (NP (PRP It) (POS 's)) (NP (DT a) (NN surmise))))
+-20.973381511987 -67.766972406101
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (DT a) (JJ surmise))))))
+-21.034274885282 -67.649242843066
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT a) (NN surmise)))))))
+-21.072903679606 -67.653018750737
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (DT a) (JJ surmise))))))
+-21.111161415574 -64.715904692805
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a)) (NN surmise)))))
+-21.386422313943 -67.119713967622
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT a) (JJ surmise))))))
+-21.571105109955 -72.183523866306
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (DT a) (VP (NN surmise)))))
+-21.580679460817 -66.102662232315
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (NP (DT a)) (NN surmise)))))
+-21.801629564681 -69.691824343652
+(S1 (S (NP (NP (PRP It) (POS 's)) (NP (DT a) (NN surmise)))))
+-21.945128144898 -73.458665026275
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (DT a) (VB surmise))))))
+-22.000476363550 -75.050821991281
+(S1 (NP (NP (PRP It) (POS 's)) (NP (DT a) (FW surmise))))
+-22.065053619675 -68.509546131515
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (DT a) (JJ surmise))))))
+-22.219846647673 -74.076368901480
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT a) (VB surmise))))))
+-22.473939132485 -74.183942595705
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (DT a) (FW surmise))))))
+-22.495275712850 -73.310320679514
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT a) (FW surmise))))))
+-22.536283801032 -75.601706277664
+(S1 (NP (NP (PRP It) (POS 's)) (NP (DT a) (JJ surmise))))
+-22.538226912873 -67.590618450612
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (DT a) (JJ surmise))))
+-22.824212868293 -74.123812905079
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT a) (FW surmise)))))))
+-22.839197247094 -69.126951932865
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (DT a) (JJ surmise))))
+-23.020189297373 -72.340159402409
+(S1 (S (NP (PRP It) (VBZ 's)) (DT a) (VP (VB surmise))))
+-23.049373409457 -70.878535581474
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (NP (DT a)) (JJ surmise)))))
+-23.526957762905 -74.080406634487
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (DT a) (VB surmise))))
+-23.670273537443 -73.602772608047
+(S1 (S (NP (PRP It) (VBZ 's)) (DT a) (VP (NN surmise))))
+-23.728977394671 -75.007582060874
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT a) (FW surmise)))))))
+-23.739178077382 -75.794489445124
+(S1 (S (NP (PRP It) (POS 's)) (ADJP (DT a) (JJ surmise))))
+-23.777368981456 -75.777195453422
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT a)) (VP (VB surmise))))))
+-23.956915990478 -74.513488876968
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (NP (DT a)) (JJ surmise)))))
+-23.984073599459 -75.939497738054
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (FW a) (FW surmise))))))
+-24.124002944009 -75.308415388183
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (DT a) (FW surmise))))
+-25.277499625426 -75.973016851296
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (FW a) (FW surmise))))
+

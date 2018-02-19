@@ -1,0 +1,102 @@
+50 x
+-12.651839274738 -50.397009056260
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (RB better)) (VP (VB go)))))
+-15.122404084456 -58.080511829375
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (ADVP (RB better)) (VB go)))))
+-15.137260476435 -52.899302506759
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (RBR better)) (VP (VB go)))))
+-15.778256297465 -54.761080704183
+(S1 (S (NP (PRP you)) (VP (MD 'd) (RB better) (VP (VB go)))))
+-15.899259264904 -57.170703599400
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (RB better)) (VP (VBP go)))))
+-16.019263420915 -56.491504411853
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (ADVP (RB better)) (VBP go)))))
+-16.432948388726 -61.145764683476
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (RB better)) (S (VP (VB go))))))
+-16.517039130484 -57.632358489027
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (ADVP (RBR better)) (VB go)))))
+-16.523824078984 -54.677527454756
+(S1 (S (NP (PRP you)) (MD 'd) (RB better) (VP (VB go))))
+-16.900579491958 -57.492356300254
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (JJR better)) (VP (VB go)))))
+-17.182299615923 -57.137435280117
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (ADVP (RBR better)) (VBP go)))))
+-17.348534222646 -61.835080879603
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (ADVP (RB better)) (VP (VB go))))))
+-17.444349418752 -63.878683248040
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (ADVP (RB better)) (VP (VB go)))))
+-17.909719415711 -60.546769766675
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (ADVP (JJR better)) (VB go)))))
+-18.123327305941 -62.949965646905
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (ADVP (RBR better)) (VP (VB go)))))
+-18.185674648602 -59.672997049899
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (RBR better)) (VP (VBP go)))))
+-18.325287292200 -59.797844385801
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (ADVP (JJR better)) (VBP go)))))
+-18.357153806192 -62.471749721367
+(S1 (S (NP (PRP you)) (VP (MD 'd) (RB better) (VP (VBP go)))))
+-18.416484345569 -64.973430818902
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (RBR better) (VP (VB go))))))
+-18.465322993499 -60.461059870205
+(S1 (S (NP (PRP you)) (MD 'd) (RB better) (VP (VBP go))))
+-18.475212968538 -63.310253449047
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (RB better) (VB go)))))
+-18.781309754423 -63.648058133976
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (RBR better)) (S (VP (VB go))))))
+-19.003622853800 -68.366370677043
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (VP (ADVP (RB better)) (VB go)))))
+-19.102051233793 -68.046586408038
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (S (ADVP (RB better)) (VP (VB go))))))
+-19.126556903845 -67.039270066989
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (ADVP (RB better)) (S (VP (VB go))))))
+-19.148448741280 -62.956118688351
+(S1 (S (NP (PRP you)) (VP (MD 'd) (RB better) (S (VP (VB go))))))
+-19.399872785666 -62.128375538119
+(S1 (S (NP (PRP you)) (MD 'd) (VP (ADVP (RB better)) (VBP go))))
+-19.587290714828 -67.918217336696
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (VP (ADVP (RBR better)) (VB go)))))
+-19.589161195500 -68.893203033283
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (VP (ADVP (RB better)) (VB go))))))
+-19.641254476692 -68.740829895458
+(S1 (S (NP (PRP you)) (MD 'd) (VP (ADVP (RB better)) (VB go))))
+-19.644848089034 -66.110552465854
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (ADVP (RBR better)) (S (VP (VB go))))))
+-19.806118414145 -65.315251563396
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (RB better) (VP (VB go)))))
+-19.875496486124 -64.266050843394
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (JJR better)) (VP (VBP go)))))
+-20.010762454139 -63.709752221988
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (RB better) (VP (VB go))))))
+-20.122180202879 -65.730157019893
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (ADVP (JJR better)) (VP (VB go)))))
+-20.512799897733 -68.241111927471
+(S1 (S (NP (PRP you)) (VP (MD 'd) (ADVP (JJR better)) (S (VP (VB go))))))
+-20.667677299577 -67.261313858152
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (ADVP (RBR better)) (VP (VB go))))))
+-20.778686786891 -63.284527685316
+(S1 (S (NP (PRP you)) (MD 'd) (VP (ADVP (RBR better)) (VBP go))))
+-20.937969793998 -68.444481409398
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (VP (ADVP (RBR better)) (VB go))))))
+-20.973374465437 -68.369691374889
+(S1 (S (NP (PRP you)) (VP (MD 'd) (NP (JJR better)) (VP (VB go)))))
+-21.017731133486 -69.691920651591
+(S1 (S (NP (PRP you)) (VP (MD 'd) (VP (RB better) (S (VP (VB go)))))))
+-21.149135373402 -68.292108271574
+(S1 (S (NP (PRP you)) (MD 'd) (VP (ADVP (RBR better)) (VB go))))
+-21.365416190445 -69.377823553224
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (S (RB better) (VP (VB go))))))
+-21.539945372802 -67.289797054630
+(S1 (S (NP (PRP you)) (VP (MD 'd) (NP (RB better)) (VP (VB go)))))
+-21.564788544857 -68.689927387649
+(S1 (S (NP (PRP you)) (VP (MD 'd) (NP (RBR better)) (VP (VB go)))))
+-21.610230583971 -68.890743838842
+(S1 (S (NP (PRP you)) (VP (VBD 'd) (ADVP (JJR better)) (S (VP (VB go))))))
+-21.659557385359 -68.969693404638
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (ADVP (JJR better)) (VP (VB go))))))
+-21.746615301556 -69.055241149847
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (NP (JJR better)) (VP (VB go))))))
+-22.200727771975 -66.866320254709
+(S1 (S (NP (PRP you)) (MD 'd) (VP (ADVP (JJR better)) (VBP go))))
+-22.916260542206 -69.733502368268
+(S1 (S (NP (PRP you)) (VP (MD 'd) (S (NP (RB better)) (VP (VB go))))))
+

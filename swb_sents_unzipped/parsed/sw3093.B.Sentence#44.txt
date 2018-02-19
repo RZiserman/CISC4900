@@ -1,0 +1,102 @@
+50 x
+-20.321362940324 -62.879356000506
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive)) (ADVP (UH uh)))))
+-22.648341746060 -74.491351630619
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (ADJP (RB very) (JJ expensive)) (UH uh)))))
+-22.937300375914 -67.625975501649
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive))) (ADVP (UH uh))))
+-23.119890761856 -74.393889880560
+(S1 (S (NP (PRP it)) (VP (POS 's) (RB not) (ADJP (RB very) (JJ expensive)) (ADVP (UH uh)))))
+-23.513187430985 -74.442040876881
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive)) (NP (UH uh)))))
+-23.839219858360 -72.626379226381
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive)) (ADVP (UH uh)))))
+-23.878772442454 -72.615326003751
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive)) (NP (UH uh)))))
+-24.149916189134 -76.845254777431
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (RB very) (RB expensive)) (NP (UH uh)))))
+-24.187370163413 -73.074914244386
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive))) (NP (UH uh))))
+-24.994431570159 -77.043350726281
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (RB not) (RB very) (JJ expensive)) (ADVP (UH uh)))))
+-25.255995540160 -81.104449499193
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (RB very) (JJ expensive) (UH uh)))))
+-25.284437183804 -78.894938080810
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB not) (RB very) (RB expensive)) (NP (UH uh)))))
+-25.339517099604 -75.438382473058
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive))) (ADVP (UH uh))))
+-25.376817697443 -73.404797182449
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive)) (S (NP (UH uh))))))
+-25.378946146408 -79.847653720896
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive))) (NP (NNP uh))))
+-25.474612915167 -77.907237211189
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RB not) (RB very) (JJ expensive)) (ADVP (UH uh))))))
+-25.616142579568 -79.358565709513
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (RB not) (RB very) (JJ expensive)) (NP (UH uh)))))
+-25.620428506480 -80.919239411848
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (RB not) (ADJP (RB very) (JJ expensive)) (UH uh)))))
+-25.740553797260 -76.364062845568
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive)) (S (ADVP (UH uh))))))
+-26.130649988320 -82.425319232267
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (ADJP (RB not) (RB very) (JJ expensive)) (UH uh)))))
+-26.147366011205 -79.455706218498
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive)) (S (NP (NNP uh))))))
+-26.269822997299 -81.586163077124
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (RB very) (RB expensive)) (ADVP (UH uh)))))
+-26.307032281490 -78.155586737375
+(S1 (S (NP (PRP it)) (VP (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive))) (NP (UH uh)))))
+-26.388485171644 -74.189564012808
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive)) (SBAR (S (NP (UH uh)))))))
+-26.446930512173 -80.637478813899
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (ADJP (RB very) (JJ expensive)) (ADVP (UH uh))))))
+-26.516717548001 -81.539146604461
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (ADJP (RB not) (RB very) (JJ expensive)) (ADVP (UH uh))))))
+-26.589586889890 -80.887321215794
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive))) (NP (UH uh))))
+-26.761179100463 -79.575698715685
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ very) (JJ expensive)) (ADVP (UH uh)))))
+-26.785453858642 -80.924163698900
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (RB very) (JJ expensive)) (NP (UH uh)))))
+-26.935007699476 -77.101824592237
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive)) (SBAR (S (ADVP (UH uh)))))))
+-27.031123295279 -83.506340644248
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (ADJP (JJ very) (JJ expensive)) (UH uh)))))
+-27.112605057568 -82.036685119940
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB not)) (ADJP (RB very) (JJ expensive)) (NP (UH uh)))))
+-27.137877819244 -81.041006679864
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (RB not) (RB very) (JJ expensive))) (ADVP (UH uh))))
+-27.193539551775 -74.927050881107
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive) (S (NP (UH uh)))))))
+-27.306571654270 -79.812195699757
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (ADVP (RB very)) (JJ expensive)) (ADVP (UH uh)))))
+-27.333346764464 -80.276366855463
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADVP (RB not) (RB very)) (JJ expensive)) (ADVP (UH uh)))))
+-27.355617836702 -75.061485833290
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive) (SBAR (S (NP (UH uh))))))))
+-27.372899348558 -80.265313632833
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADVP (RB not) (RB very)) (JJ expensive)) (NP (UH uh)))))
+-27.701608116109 -77.903317113374
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive) (S (ADVP (UH uh)))))))
+-27.705306361188 -79.327989685315
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive)) (S (NP (UH uh))))))
+-27.902140364533 -77.973746412719
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB very) (JJ expensive) (SBAR (S (ADVP (UH uh))))))))
+-27.966247623215 -81.802372604667
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (RB very) (JJ expensive)) (ADVP (UH uh))))))
+-28.069042458218 -82.287255348434
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive)) (S (ADVP (UH uh))))))
+-28.173506087171 -82.157922709035
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (ADVP (RB not) (RB very)) (JJ expensive)) (ADVP (UH uh))))))
+-28.728396040850 -82.425529818057
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (RB very) (JJ expensive)) (ADVP (UH uh)))))
+-28.815790813141 -81.440688905094
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive) (S (NP (UH uh)))))))
+-28.833644005708 -83.088370102139
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADVP (RB not) (RB very)) (JJ expensive))) (ADVP (UH uh))))
+-28.881876062416 -83.291618656422
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB not)) (ADJP (RB very) (JJ expensive))) (ADVP (UH uh))))
+-29.089671364199 -82.163143081918
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive) (SBAR (S (NP (UH uh))))))))
+-29.496732316772 -82.138396005222
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very) (JJ expensive)) (SBAR (S (NP (UH uh)))))))
+

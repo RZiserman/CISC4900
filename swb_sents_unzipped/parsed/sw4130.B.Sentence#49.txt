@@ -1,0 +1,102 @@
+50 x
+-20.992844444914 -67.630838400955
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-21.376652965081 -72.718832122358
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-21.667181586738 -70.494757791900
+(S1 (S (WHNP (WP What)) (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-22.042738609911 -70.699593931497
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-22.078084712482 -75.582751530366
+(S1 (S (WHNP (WP What)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-22.579942473795 -69.498834727963
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-22.693731910452 -72.453820757664
+(S1 (S (WHNP (WP What)) (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-22.728915361539 -77.373587105070
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-22.744170357312 -73.563513339504
+(S1 (S (WHNP (WP What)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-22.963750993963 -74.586828449367
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject)))))))))))
+-23.145748543922 -77.054111116943
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP do)))) (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject))))))
+-23.234874472647 -73.492492997863
+(S1 (SBAR (WHNP (WP What)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-23.293624748370 -72.649323531034
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP do)))) (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))
+-23.629836638793 -72.567590258505
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))))
+-23.657292532933 -69.915298991403
+(S1 (FRAG (WHNP (WP What)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-23.853662586405 -72.091501883719
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-24.005415493073 -75.411033108382
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-24.064778668198 -76.854206386787
+(S1 (S (WHNP (WP What)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-24.181936696147 -75.864036978957
+(S1 (S (WHNP (WDT What)) (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-24.263294409360 -77.179495609780
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-24.313680412801 -75.793097457236
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP do) (NP (PRP you))))) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))
+-24.316013387632 -79.241583432078
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-24.385353750532 -78.642437726541
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-24.540415939275 -75.806705590995
+(S1 (SBAR (WHNP (WP What)) (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-24.601903993973 -77.823099944721
+(S1 (S (WHNP (WDT What)) (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-24.611375225968 -77.892878651806
+(S1 (SBAR (WHNP (WP What)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-24.706547945136 -78.033098659558
+(S1 (S (NP (WP What)) (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-24.860105578740 -75.360489324871
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-24.929380054190 -75.160257418918
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-24.931983299042 -74.315684645347
+(S1 (FRAG (WHNP (WP What)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-25.077153028071 -78.479788638924
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-25.229899498557 -76.196153675355
+(S1 (FRAG (X (WP What)) (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-25.273520782075 -79.086429750257
+(S1 (S (NP (WP What)) (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-25.280768836721 -78.932792526561
+(S1 (S (WHNP (WDT What)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-25.412265078250 -75.668304296082
+(S1 (FRAG (X (WP What)) (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-25.513069745253 -77.743669077986
+(S1 (FRAG (WP What) (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-25.519515732741 -78.271518640298
+(S1 (FRAG (WP What) (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-25.532834201245 -77.896035183871
+(S1 (FRAG (WHNP (WP What)) (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-25.565000384629 -77.155339777971
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-25.592500011899 -76.494241356786
+(S1 (FRAG (WHNP (WDT What)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-25.636779773581 -78.800642438709
+(S1 (FRAG (WHNP (WP What)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-25.693399673704 -76.658785497859
+(S1 (FRAG (WHNP (WP What)) (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))
+-25.862562759319 -77.081946339543
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (WDT that) (NN subject)))))))))
+-26.111612664647 -77.110824044600
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (IN that) (NN subject)))))))))
+-26.335005537471 -78.670444249101
+(S1 (FRAG (WHNP (WDT What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject)))))))))
+-26.458632051857 -78.868188155020
+(S1 (FRAG (WHNP (WP What)) (SBAR (S (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (DT that) (NN subject))))))))))
+-26.597824656472 -78.408971028789
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (S (NP (DT that) (NN subject))))))))))
+-27.401345988200 -78.949942666551
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (WDT that) (NN subject))))))))))
+-27.636623443528 -78.978820371608
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (IN that) (NN subject))))))))))
+-28.378168447338 -79.366406929991
+(S1 (FRAG (WHNP (WP What)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB think) (PP (IN about) (NP (WDT that) (NN subject)))))))))
+

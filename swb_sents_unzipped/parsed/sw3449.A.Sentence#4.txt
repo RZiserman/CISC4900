@@ -1,0 +1,102 @@
+50 x
+-11.491138507406 -38.142060110753
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (NP (NN work)))))
+-13.723568344732 -46.863886873473
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (NP (VB work)))))
+-13.981187161905 -51.547276895071
+(S1 (S (VP (VBP Are) (NP (PRP you)) (PP (IN at) (NP (NN work))))))
+-15.140427805794 -51.532750214094
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (NN work))))))
+-15.537843350719 -52.560147646722
+(S1 (SINV (VBP Are) (NP (PRP you)) (PP (IN at) (NP (NN work)))))
+-16.473487773933 -52.198079171403
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (VB work))))))
+-16.590048267179 -54.793850143190
+(S1 (SINV (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (NN work))))))
+-16.651520126755 -48.099054913507
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (NN work))))))
+-16.662556423206 -60.898000651140
+(S1 (S (VP (VBP Are) (NP (PRP you)) (PP (IN at) (NP (VB work))))))
+-16.822276853374 -58.140090928251
+(S1 (S (VP (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (NN work)))))))
+-16.857055713625 -56.583259932452
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (NP (VBP work)))))
+-16.899632431302 -59.263460853278
+(S1 (VP (VBP Are) (NP (PRP you)) (PP (IN at) (NP (NN work)))))
+-17.133194421598 -57.708671905683
+(S1 (S (VP (VBP Are) (S (NP (PRP you)) (PP (IN at) (NP (NN work)))))))
+-17.236225823654 -61.244581605079
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (VB work))))))
+-17.783105160886 -61.346180105705
+(S1 (SINV (VBP Are) (NP (PRP you)) (PP (IN at) (NP (VB work)))))
+-17.935225765987 -53.165400833010
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (S (NP (NN work))))))
+-17.990711257214 -55.415511703878
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (VBP work))))))
+-18.623171469368 -67.005175624131
+(S1 (S (VP (VBP Are) (VP (NP (PRP you)) (PP (IN at) (NP (NN work)))))))
+-18.680779054252 -64.505681534176
+(S1 (SINV (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (VB work))))))
+-19.251676335391 -68.614184609346
+(S1 (VP (VBP Are) (NP (PRP you)) (PP (IN at) (NP (VB work)))))
+-19.290233818447 -67.851922319236
+(S1 (S (VP (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (VB work)))))))
+-19.650284074743 -65.210936821009
+(S1 (VP (VBP Are) (S (NP (PRP you)) (PP (IN at) (NP (NN work))))))
+-19.845133715014 -69.942608670346
+(S1 (S (VP (VBP Are) (NP (PRP you)) (PP (IN at) (NP (VBP work))))))
+-19.927992592427 -65.807080237361
+(S1 (S (VP (VBP Are) (S (NP (PRP you)) (PP (IN at) (NP (VB work)))))))
+-19.998214846734 -67.805388670896
+(S1 (S (VP (VBP Are) (SBAR (S (NP (PRP you)) (PP (IN at) (NP (NN work))))))))
+-20.023113678578 -63.195429829938
+(S1 (S (VP (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (NN work)))))))
+-20.130359871579 -62.699981181494
+(S1 (S (VP (VBP Are) (PP (NP (PRP you)) (IN at) (NP (NN work))))))
+-20.310580752910 -67.349296876179
+(S1 (VP (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (NN work))))))
+-20.367448105968 -66.828329924405
+(S1 (S (VP (VBP Are) (PP (NP (PRP you)) (PP (IN at) (NP (NN work)))))))
+-20.423339402434 -70.092134782454
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (PP (IN at) (NP (VBP work))))))
+-20.492332336726 -68.417682777724
+(S1 (S (VP (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (VB work)))))))
+-20.796971647206 -70.684819156181
+(S1 (SINV (VBP Are) (NP (PRP you)) (PP (IN at) (NP (VBP work)))))
+-20.992170722421 -69.742921851690
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (PP (IN at) (S (VP (VB work)))))))
+-21.064136768682 -64.548220078981
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (S (NP (VB work))))))
+-21.298877982519 -69.685429550559
+(S1 (SINV (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (VB work))))))
+-21.481977630248 -65.586405529760
+(S1 (SINV (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (NN work))))))
+-21.498138303534 -65.557137806900
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (PP (IN at) (S (VP (NN work)))))))
+-21.512557390809 -68.261775749441
+(S1 (S (VP (VBP Are) (NP (PRP you)) (PP (IN at) (S (NP (NN work)))))))
+-21.596772218658 -69.603433042622
+(S1 (S (VP (VBP Are) (S (NP (NP (PRP you)) (PP (IN at) (NP (NN work))))))))
+-22.148035491375 -69.813172826370
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (SBAR (IN at) (S (VP (VB work)))))))
+-22.218324415084 -71.252959802256
+(S1 (S (VP (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (VBP work)))))))
+-22.310141100083 -70.009772253681
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (IN at) (NP (NN work)))))
+-22.765683269480 -70.652751449264
+(S1 (SINV (VBP Are) (NP (PRP you)) (PP (IN at) (S (NP (NN work))))))
+-22.947758764919 -68.818237735996
+(S1 (SINV (VBP Are) (NP (NP (PRP you)) (PP (IN at) (S (VP (NN work)))))))
+-22.987582015766 -70.623483726404
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (PP (IN at) (S (NP (NN work)))))))
+-22.995439951724 -71.083616769775
+(S1 (S (VP (VBP Are) (S (NP (PRP you)) (PP (IN at) (S (VP (NN work))))))))
+-23.273755713470 -69.726551130273
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (SBAR (IN at) (S (VP (VBP work)))))))
+-23.282327423762 -70.911613788144
+(S1 (VP (VBP Are) (NP (PRP you)) (PP (IN at) (S (VP (NN work))))))
+-23.530419703511 -70.178341756578
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (SBAR (IN at) (S (VP (NN work)))))))
+-23.631135107217 -71.127032913394
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (IN at) (S (NP (VBP work))))))
+

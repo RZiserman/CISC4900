@@ -1,0 +1,102 @@
+50 x
+-14.914137590168 -51.717551048848
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (NP (NNP French)))))
+-15.418624438879 -53.432272985098
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (NP (NNPS French)))))
+-16.407950207142 -57.010417412083
+(S1 (S (CC and) (NP (PRP they)) (VP (VB speak) (NP (NNP French)))))
+-17.053195339102 -56.423828086027
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (NP (NNP French))))))
+-17.513975768044 -53.223203239362
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (ADVP (JJ French)))))
+-17.525002898026 -58.138550022277
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (NP (NNPS French))))))
+-17.665576466533 -55.255413653058
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (ADJP (JJ French)))))
+-17.865653528284 -60.895425322704
+(S1 (S (CC and) (NP (PRP they)) (VP (VB speak) (NP (NNPS French)))))
+-18.333265619720 -60.733381310892
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBP speak) (NP (NNP French)))))))
+-18.382130418893 -58.001660525628
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (NP (JJ French)))))
+-18.695804961142 -62.365714377846
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VB speak) (NP (NNP French))))))
+-18.875783995432 -62.448103247143
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBP speak) (NP (NNPS French)))))))
+-19.035413642463 -55.640401745497
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (NP (NNP French))))))
+-19.133691965428 -61.856200959545
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (VP (NNP French)))))
+-19.264503494387 -57.355123681747
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (NP (NNPS French))))))
+-19.278264050799 -58.158971501348
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (VP (JJ French)))))
+-19.281646232848 -57.658088740703
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (S (ADJP (JJ French))))))
+-19.467340530482 -60.245880854478
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (S (NP (NNP French))))))
+-19.505450372605 -61.817167398728
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (ADVP (NNP French)))))
+-19.533979834306 -58.749525223030
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (ADJP (NNP French)))))
+-19.826108883781 -62.530365285373
+(S1 (S (CC and) (NP (PRP they)) (VP (VB speak) (ADJP (JJ French)))))
+-19.951119831705 -57.929480335302
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (ADVP (JJ French))))))
+-20.023880552374 -65.246104692778
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (VP (NP (NNP French))))))
+-20.125771039173 -60.512069307997
+(S1 (S (CC and) (NP (PRP they)) (VP (VB speak) (ADVP (JJ French)))))
+-20.135721147841 -63.187746241286
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBP speak) (NP (NNP French)))))))
+-20.222722543831 -59.961690716412
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (ADJP (JJ French))))))
+-20.252261131035 -63.395835681522
+(S1 (S (CC and) (NP (PRP they)) (VP (VB speak) (S (ADJP (JJ French))))))
+-20.313826309732 -64.219447644351
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (S (NP (NNPS French))))))
+-20.435521816552 -64.902468177537
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBP speak) (NP (NNPS French)))))))
+-20.612056232327 -64.922806120734
+(S1 (S (NP (CC and) (PRP they)) (VP (VBP speak) (NP (NNP French)))))
+-20.697692468975 -61.744562507091
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VB speak) (NP (NNP French))))))
+-20.770279695039 -62.707937562806
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (NP (JJ French))))))
+-20.820111296793 -65.124096319194
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VB speak) (NP (NNP French)))))))
+-21.019144600503 -65.239676410395
+(S1 (FRAG (S (CC and) (NP (PRP they)) (VP (VBP speak) (NP (NNP French))))))
+-21.199638312082 -62.239033427355
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBP speak) (ADVP (JJ French)))))))
+-21.440822407661 -64.271243925672
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (VBP speak) (ADJP (JJ French)))))))
+-21.570489752204 -64.952157902129
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (S (NP (NNP French)))))))
+-21.586870502314 -59.178264280828
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (ADJP (JJ French))))))
+-21.625794881159 -57.146053764718
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (ADVP (JJ French))))))
+-21.633886984570 -62.364365788354
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (S (ADJP (JJ French)))))))
+-21.655083018006 -62.865248480330
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (VP (JJ French))))))
+-21.697999039372 -63.569504202279
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP speak) (S (ADJP (NNP French))))))
+-21.842034381604 -63.455802286384
+(S1 (S (CC and) (S (NP (PRP they)) (VP (VBP speak) (ADJP (NNP French))))))
+-22.422717831400 -61.924511222277
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (NP (JJ French))))))
+-22.838889403202 -64.693398357749
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (VBP speak) (ADVP (JJ French)))))))
+-23.312699954327 -61.580939286509
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (S (ADJP (JJ French)))))))
+-23.335838124672 -62.081821885569
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (VP (JJ French))))))
+-23.535962507087 -62.672375850801
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (ADJP (NNP French))))))
+-23.579082888961 -64.168731400284
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VBP speak) (S (NP (NNP French)))))))
+-24.328857457886 -65.246214177426
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (VB speak) (ADVP (JJ French))))))
+

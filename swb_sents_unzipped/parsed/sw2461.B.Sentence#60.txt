@@ -1,0 +1,102 @@
+50 x
+-18.497250196585 -62.534650789180
+(S1 (S (NP (DT Another) (NN reason)) (ADJP (JJ yo-))))
+-19.266872190031 -63.184310540562
+(S1 (NP (NP (DT Another) (NN reason)) (JJ yo-)))
+-19.391414913789 -65.653603937021
+(S1 (NP (DT Another) (NN reason) (JJ yo-)))
+-19.655857927105 -71.901073460520
+(S1 (S (NP (DT Another) (NN reason)) (VP (VBD yo-))))
+-19.864312129138 -62.037230186464
+(S1 (FRAG (NP (DT Another) (NN reason)) (ADJP (JJ yo-))))
+-20.207663039826 -73.498579343846
+(S1 (S (NP (DT Another) (NN reason)) (VP (VBN yo-))))
+-20.326926887581 -63.859634246650
+(S1 (NP (NP (DT Another) (NN reason)) (ADJP (JJ yo-))))
+-20.492260567276 -72.573125903973
+(S1 (S (NP (DT Another) (NN reason)) (VP (VBZ yo-))))
+-20.659159577803 -69.951039314894
+(S1 (S (NP (DT Another) (NN reason)) (VP (JJ yo-))))
+-20.871693440920 -71.171325792460
+(S1 (NP (DT Another) (NN reason) (NN yo-)))
+-20.941966103098 -64.967589600455
+(S1 (NP (NP (DT Another) (NN reason)) (ADVP (JJ yo-))))
+-21.393342111809 -69.946861088816
+(S1 (NP (NP (DT Another) (NN reason)) (NP (JJ yo-))))
+-21.468091641027 -71.085863863510
+(S1 (S (NP (DT Another) (NN reason)) (NP (JJ yo-))))
+-21.569763446478 -73.561946209067
+(S1 (NP (NP (DT Another) (NN reason)) (VP (VBN yo-))))
+-21.596368488096 -70.342999431938
+(S1 (FRAG (NP (DT Another) (NN reason)) (JJ yo-)))
+-21.772477802107 -73.979639881311
+(S1 (NP (DT Another) (NN reason) (JJR yo-)))
+-21.823350296343 -69.462964830292
+(S1 (FRAG (NP (DT Another) (NN reason)) (NP (JJ yo-))))
+-21.838888949777 -70.589990597685
+(S1 (ADJP (NP (DT Another) (NN reason)) (JJ yo-)))
+-22.062928842795 -68.490767079560
+(S1 (FRAG (NP (DT Another) (NN reason) (JJ yo-))))
+-22.083687288501 -70.102527190585
+(S1 (NP (NP (DT Another) (NN reason)) (NP (NN yo-))))
+-22.151395650447 -71.107843861633
+(S1 (S (NP (DT Another) (NN reason)) (NP (NNS yo-))))
+-22.232512588307 -71.990308432068
+(S1 (NP (NP (DT Another) (NN reason)) (NN yo-)))
+-22.252561755373 -72.506401658022
+(S1 (NP (NP (DT Another) (NN reason)) (NP (NNS yo-))))
+-22.291613900481 -70.578983389479
+(S1 (S (NP (DT Another) (NN reason)) (ADVP (JJ yo-))))
+-22.292278719532 -73.218739454419
+(S1 (S (ADJP (NP (DT Another) (NN reason)) (JJ yo-))))
+-22.324378788891 -69.449360447188
+(S1 (FRAG (NP (DT Another) (NN reason)) (ADVP (JJ yo-))))
+-22.455772580740 -73.263479815862
+(S1 (S (NP (DT Another) (NN reason)) (ADJP (VBN yo-))))
+-22.509629617683 -70.750045960688
+(S1 (NP (NP (DT Another) (NN reason)) (VP (JJ yo-))))
+-22.712542495548 -75.441388739140
+(S1 (S (ADJP (DT Another) (NN reason) (JJ yo-))))
+-22.775110462472 -69.502854647260
+(S1 (FRAG (NP (DT Another) (NN reason)) (S (ADJP (JJ yo-)))))
+-22.878088740833 -74.964998985888
+(S1 (NP (NP (DT Another) (NN reason)) (NNS yo-)))
+-22.947770469574 -71.775518943550
+(S1 (S (NP (DT Another) (NN reason) (JJ yo-))))
+-22.976576060301 -70.452187958086
+(S1 (FRAG (NP (DT Another) (NN reason)) (NP (NN yo-))))
+-23.066584016989 -67.773953488292
+(S1 (FRAG (NP (NP (DT Another) (NN reason)) (ADJP (JJ yo-)))))
+-23.133093298725 -75.840157312681
+(S1 (S (NP (DT Another) (NN reason)) (ADJP (JJR yo-))))
+-23.316212658629 -73.775942805888
+(S1 (S (NP (DT Another) (NN reason)) (NP (NN yo-))))
+-23.324206415635 -71.579737399667
+(S1 (FRAG (NP (NP (DT Another) (NN reason)) (JJ yo-))))
+-23.485072491259 -71.998960643621
+(S1 (S (NP (NP (DT Another) (NN reason)) (JJ yo-))))
+-23.485494559806 -75.275489425203
+(S1 (FRAG (NP (DT Another) (NN reason) (NN yo-))))
+-23.497338211184 -73.046658492644
+(S1 (FRAG (S (NP (DT Another) (NN reason)) (ADJP (JJ yo-)))))
+-23.550593729350 -73.572127506111
+(S1 (FRAG (ADJP (NP (DT Another) (NN reason)) (JJ yo-))))
+-23.557920713222 -75.138613249604
+(S1 (NP (NP (DT Another) (NN reason)) (ADJP (JJR yo-))))
+-23.688559535003 -75.264579845536
+(S1 (S (NP (DT Another)) (VP (NN reason) (ADJP (JJ yo-)))))
+-23.728586719466 -73.086654000454
+(S1 (FRAG (NP (NP (DT Another) (NN reason)) (NP (JJ yo-)))))
+-23.753643115509 -70.264167968464
+(S1 (S (NP (NP (DT Another) (NN reason)) (ADJP (JJ yo-)))))
+-23.822381546037 -69.809511188652
+(S1 (FRAG (NP (NP (DT Another) (NN reason)) (ADVP (JJ yo-)))))
+-24.547120082430 -73.820341989298
+(S1 (FRAG (NP (NP (DT Another) (NN reason)) (NP (NN yo-)))))
+-24.683620545417 -72.323570834675
+(S1 (S (NP (NP (DT Another) (NN reason)) (ADVP (JJ yo-)))))
+-24.691511420254 -73.294148851861
+(S1 (FRAG (NP (NP (DT Another) (NN reason)) (VP (JJ yo-)))))
+-24.694341305343 -75.290169581693
+(S1 (FRAG (NP (DT Another) (NN reason)) (ADJP (VBN yo-))))
+

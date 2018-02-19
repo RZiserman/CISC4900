@@ -1,0 +1,102 @@
+50 x
+-47.760426388598 -171.019943851322
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-47.877140322920 -171.425807571662
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-47.963624944089 -168.594472857905
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.095082824861 -170.485084678207
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.163807290411 -169.000336578245
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.295265171184 -170.890948398547
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.305016823867 -171.669071141298
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-48.418072698016 -171.713520152657
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.503320482518 -171.201058233829
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-48.508215379358 -169.243600147881
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.522753629366 -169.822908332355
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.549498860671 -171.561401393483
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-48.649412912512 -170.472035622331
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.702916534219 -169.456433364712
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (RB well) (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.708397753558 -169.649463868221
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.789987450009 -168.775587240412
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.836165828162 -169.135930400066
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-48.941207282699 -171.205580975526
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-49.057921217021 -171.611444695866
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-49.144405838190 -168.780109982108
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.275863718962 -170.670721802410
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.344588184512 -169.185973702448
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.476046065285 -171.076585522751
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.485797745846 -171.854708265502
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-49.684101404497 -171.386695358033
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-49.688996301337 -169.429237272085
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.703534551344 -170.008545456559
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.730279754771 -171.747038517687
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-49.830193806613 -170.657672746535
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.874178165827 -169.679267273359
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (CD one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-49.883697428320 -169.642070488916
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (RB well) (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.889178647659 -169.835100992425
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-49.970768371988 -168.961224364616
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-50.016946722263 -169.321567524269
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-50.065230100368 -171.439644370810
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-) (NN well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-50.173431556069 -170.390465322488
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-51.054959059928 -169.864904397563
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (CD one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-51.180088446857 -171.861601149434
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-51.246010994468 -171.625281495014
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-) (NN well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))))
+-51.354212450170 -170.576102446692
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+-51.694372983580 -170.633165709618
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-51.802243578168 -171.212473917838
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (WDT that)) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-51.898596934891 -169.984038478022
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (WHNP (IN that)) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-51.906760761780 -171.039029546523
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (NP (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-51.988350458231 -170.165152824329
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (ADVP (RB well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-52.110984713092 -170.389902314927
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (NP (RB well) (DT the) (JJ first) (NN one)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-52.308160629306 -170.525495890708
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (JJ bir-) (NN well)) (NP (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-52.650093929021 -170.845999038336
+(S1 (S (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN bir-)) (NP (RB well) (DT the) (JJ first) (NN one) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had)))))))) (VP (VBD was) (NP (PRP$ his) (NN bird)))))
+-52.984820016412 -171.308873749591
+(S1 (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (JJ bir-) (NN well)) (NP (DT the) (JJ first) (CD one))) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird))))))))))))
+-54.165600938391 -171.494510873795
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (JJ bir-) (NN well)) (NP (DT the) (JJ first) (CD one))) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD had) (SBAR (S (VP (VBD was) (NP (PRP$ his) (NN bird)))))))))))))
+

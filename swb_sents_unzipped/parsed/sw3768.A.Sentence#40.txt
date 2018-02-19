@@ -1,0 +1,102 @@
+50 x
+-8.807344220850 -35.747573262418
+(S1 (S (NP (DT That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-11.637028608701 -42.921261673546
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-13.015867060837 -41.673198246143
+(S1 (S (NP (IN That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-13.063781080655 -43.547916988885
+(S1 (S (NP (DT That)) (VP (VBZ helps) (S (NP (DT a) (NN lot))))))
+-13.116146738776 -42.195588393783
+(S1 (S (NP (WDT That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-13.587806687491 -50.812122119000
+(S1 (S (DT That) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-13.611684002434 -44.752342971677
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ helps) (NP (DT a) (NN lot)))))))
+-13.799285042578 -46.948993217513
+(S1 (SBAR (DT That) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-13.819525339249 -48.130332717267
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-14.121613212690 -49.279366017101
+(S1 (S (WHNP (WDT That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-14.495231124689 -54.398079365297
+(S1 (S (NP (NN That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-14.521326015998 -51.296973220787
+(S1 (SBAR (IN That) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-14.695730726630 -49.825610954382
+(S1 (SBAR (WDT That) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-14.839394681794 -48.645862744731
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-15.378710461310 -54.603604656868
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-15.438448222688 -51.282911229193
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-15.771811117117 -51.445621687740
+(S1 (S (RB That) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-15.938829410822 -51.738080493652
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-15.999760085899 -50.721605568373
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ helps) (S (NP (DT a) (NN lot)))))))
+-16.028659670929 -51.191718237239
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ helps) (NP (DT a) (NN lot)))))))
+-16.232238781195 -54.093375683064
+(S1 (PP (IN That) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-16.337370578817 -53.788907933598
+(S1 (FRAG (NP (DT That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-16.820994875254 -56.279245408770
+(S1 (S (NP (DT That)) (VP (VBZ helps) (SBAR (S (NP (DT a) (NN lot)))))))
+-16.824512814576 -56.348781922473
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-17.048524164049 -57.197636156761
+(S1 (S (ADVP (RB That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-17.140888177785 -54.747460155117
+(S1 (S (NP (DT That)) (VP (VBZ helps) (NP (NP (DT a)) (NN lot)))))
+-17.141587811668 -54.521998472242
+(S1 (SINV (RB That) (VP (VBZ helps)) (NP (DT a) (NN lot))))
+-17.209874121328 -53.694512585078
+(S1 (S (NP (RB That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-17.278183027695 -57.244839484728
+(S1 (FRAG (NP (DT That)) (S (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-17.295944210273 -55.369239168743
+(S1 (FRAG (WHNP (WDT That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-17.350261675855 -49.473541972610
+(S1 (S (NP (IN That)) (VP (VBZ helps) (S (NP (DT a) (NN lot))))))
+-17.405120198582 -49.995932120250
+(S1 (S (NP (WDT That)) (VP (VBZ helps) (S (NP (DT a) (NN lot))))))
+-17.415841606416 -54.785623410423
+(S1 (FRAG (SBAR (WDT That) (S (VP (VBZ helps) (NP (DT a) (NN lot)))))))
+-17.635167974945 -57.677335589995
+(S1 (S (PP (IN That) (S (VP (VBZ helps) (NP (DT a) (NN lot)))))))
+-17.678491169909 -55.750834797501
+(S1 (SINV (ADVP (RB That)) (VP (VBZ helps)) (NP (DT a) (NN lot))))
+-17.974415479632 -52.552686866504
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ helps) (S (NP (DT a) (NN lot))))))))
+-18.060066461778 -54.489803539977
+(S1 (SINV (ADVP (RB That)) (VBZ helps) (NP (DT a) (NN lot))))
+-18.115592013853 -56.888805689498
+(S1 (FRAG (PP (IN That) (S (VP (VBZ helps) (NP (DT a) (NN lot)))))))
+-18.144389136989 -54.749337112340
+(S1 (SBAR (DT That) (S (VP (VBZ helps) (S (NP (DT a) (NN lot)))))))
+-18.199703888569 -55.930676519104
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ helps) (S (NP (DT a) (NN lot)))))))
+-18.320678809708 -57.079709743568
+(S1 (S (WHNP (WDT That)) (VP (VBZ helps) (S (NP (DT a) (NN lot))))))
+-18.517511256510 -55.466747328739
+(S1 (SINV (ADVP (IN That)) (VP (VBZ helps)) (NP (DT a) (NN lot))))
+-18.667511859369 -54.960948512700
+(S1 (FRAG (NP (WDT That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+-18.836269990379 -54.205716071215
+(S1 (SINV (ADVP (IN That)) (VBZ helps) (NP (DT a) (NN lot))))
+-19.005315890327 -56.446206529782
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ helps) (S (NP (DT a) (NN lot)))))))
+-19.045845003828 -57.625954849208
+(S1 (SBAR (WDT That) (S (VP (VBZ helps) (S (NP (DT a) (NN lot)))))))
+-19.154294025335 -55.125234644903
+(S1 (FRAG (S (NP (WDT That)) (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-19.243809657660 -54.635451221658
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ helps) (NP (DT a) (NN lot))))))
+-19.309379894031 -57.267321494089
+(S1 (SINV (ADVP (DT That)) (VBZ helps) (NP (DT a) (NN lot))))
+-19.509590919479 -55.791855298048
+(S1 (FRAG (NP (IN That)) (VP (VBZ helps) (NP (DT a) (NN lot)))))
+

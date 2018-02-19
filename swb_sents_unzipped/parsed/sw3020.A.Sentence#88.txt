@@ -1,0 +1,102 @@
+50 x
+-52.380355871799 -189.277944795026
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-52.707029162504 -193.429175960599
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (IN down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-52.882233934672 -189.792604197285
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-53.356274451547 -193.539065362374
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-53.421228215344 -191.292463575523
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-53.537767532886 -194.403361570354
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down)) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-53.563140598565 -191.417971167774
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-53.584432767329 -192.391096744958
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (RP over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-53.857792856606 -194.445468313595
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down)) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-53.860440074993 -191.975585130419
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-53.877272684173 -193.710332718270
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (JJ Au-) (NNP Adelaide)))))))
+-54.040738492410 -193.948353841338
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.056474133532 -192.020780408740
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RB down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-54.094191343883 -189.726413213461
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-54.342666081231 -192.309752797324
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.354485504488 -194.612071964047
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (ADVP (RB down)) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-54.402429774958 -194.586674408862
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.471281747046 -194.224992120528
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (JJ Au-) (NNP Adelaide)))))))
+-54.484578436574 -192.435260327540
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.489540896492 -192.468429855084
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.677988789712 -192.593937515178
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.806652642876 -194.327762123293
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.823945996829 -192.909596674482
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.826803583557 -194.284028738272
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (PP (IN from) (NP (NNP Sidney))) (PP (ADVP (RB down)) (TO to) (NP (NNP Melbourne))) (CC and) (PP (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-54.903813724795 -193.830586855008
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down)) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-55.020879424559 -194.542302948203
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RB down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-55.045270497084 -193.234441745326
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (IN down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-55.252075944301 -191.335755215762
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-55.260674168433 -194.907699387628
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (RP over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))))
+-55.341350307142 -194.792452273678
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (IN down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-55.388129853351 -194.304541418354
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RP over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-55.395360878200 -193.787445664933
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RB down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))))
+-55.403301526257 -194.158801136704
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (JJ Au-) (NNP Adelaide)))))))
+-55.439146297521 -191.461262818020
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-55.486182481421 -193.912953267191
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (RP down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))))
+-55.486208758757 -194.191546778685
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (IN over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-55.618469877108 -194.410179627559
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (PP (IN from) (NP (NNP Sidney))) (PP (RB down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-55.687428990535 -194.065892602406
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney)) (ADVP (IN down))) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (ADVP (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-55.949155341359 -194.739830532227
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (ADVP (RB down)) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-55.966708390849 -194.251731044608
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (IN down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-56.007454314255 -194.107999295976
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney)) (ADVP (IN down))) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (RB over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-56.012476662448 -194.793066290206
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (RB over) (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-56.079924388403 -193.048866546907
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RP down) (PP (TO to) (NP (NNP Melbourne))) (CONJP (CC and) (RB over)) (PP (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-56.081201043988 -194.410408235576
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (IN down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-56.180470431546 -193.751819743503
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NP (NNP Sidney)) (UCP (ADVP (RB down) (PP (TO to) (NP (NNP Melbourne)))) (CC and) (PP (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))))
+-56.190541649664 -193.609134119884
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (PP (RB down) (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-56.850942691796 -193.277733547154
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney))) (ADVP (IN down) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-57.053475154566 -193.493117751173
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NNP Sidney)) (ADVP (IN down))) (PP (PP (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide)))))))
+-57.233946629400 -194.592999957793
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (PP (IN from) (NP (NNP Sidney))) (PP (PP (ADVP (RB down)) (TO to) (NP (NNP Melbourne))) (CC and) (PP (ADVP (RB over)) (TO to) (NP (NNP Au-) (NNP Adelaide))))))))
+-57.735963526022 -193.361745554279
+(S1 (S (NP (PRP I)) (VP (VBD drove) (PP (IN from) (NP (NP (NNP Sidney)) (UCP (ADVP (IN down) (PP (TO to) (NP (NNP Melbourne)))) (CC and) (PP (IN over) (PP (TO to) (NP (NNP Au-) (NNP Adelaide))))))))))
+

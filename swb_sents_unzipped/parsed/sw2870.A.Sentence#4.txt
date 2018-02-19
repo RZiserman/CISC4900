@@ -1,0 +1,102 @@
+50 x
+-17.775520441670 -54.171131715050
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-18.552154675336 -54.866080559688
+(S1 (S (RB Well) (VP (VBP see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-18.662601647636 -55.760627982336
+(S1 (S (RB Well) (VP (VB see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-18.679872682001 -57.902443565928
+(S1 (S (ADVP (RB Well)) (VP (VB see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-19.105401678292 -57.171605326288
+(S1 (S (INTJ (UH Well)) (VP (VB see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-19.202541402079 -56.797471272398
+(S1 (S (ADVP (RB Well)) (VP (VBP see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-19.360852665289 -61.381028916491
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me)))))))
+-19.448834791536 -54.783880560685
+(S1 (S (INTJ (RB Well)) (VP (VBP see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-19.793191298812 -59.902381894900
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-19.846181944497 -62.365800330244
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (SBAR (S (NP (DT that)) (VP (POS 's) (NP (PRP me))))))))
+-19.852741342162 -61.922009041832
+(S1 (S (RB Well) (VP (VB see) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me)))))))
+-20.114979574955 -62.075977761129
+(S1 (S (RB Well) (VP (VBP see) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me)))))))
+-20.197199006555 -59.683987674464
+(S1 (S (RB Well) (VP (VB see) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP me))))))))
+-20.223792720920 -61.825803258056
+(S1 (S (ADVP (RB Well)) (VP (VB see) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP me))))))))
+-20.248812375146 -61.965764093787
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (SBAR (IN that) (S (VP (POS 's) (NP (PRP me))))))))
+-20.418411685499 -58.252889191829
+(S1 (S (INTJ (RB Well)) (VP (VB see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-20.508663694313 -60.082715553235
+(S1 (S (RB Well) (VP (VB see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-20.520075578678 -62.224531136827
+(S1 (S (ADVP (RB Well)) (VP (VB see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-20.528952237211 -61.094965018416
+(S1 (S (INTJ (UH Well)) (VP (VB see) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP me))))))))
+-20.539188930647 -62.146097752122
+(S1 (S (RB Well) (VP (VB see) (SBAR (IN that) (S (VP (POS 's) (NP (PRP me))))))))
+-20.567716045266 -60.597330739539
+(S1 (S (RB Well) (VP (VBP see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-20.875939261834 -60.984536499026
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (SBAR (DT that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-20.889262134969 -61.493692897187
+(S1 (S (INTJ (UH Well)) (VP (VB see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-21.000692623460 -61.782163263786
+(S1 (S (VP (ADVP (RB Well)) (VB see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-21.011659691155 -61.993777762126
+(S1 (S (INTJ (RB Well)) (VP (VBP see) (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me)))))))
+-21.023337121600 -62.660712938425
+(S1 (S (RB Well) (VP (VBP see) (SBAR (IN that) (S (VP (POS 's) (NP (PRP me))))))))
+-21.036196358265 -60.374075947063
+(S1 (VP (ADVP (RB Well)) (VB see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me)))))))
+-21.042391742010 -62.528721452249
+(S1 (S (ADVP (RB Well)) (VP (VBP see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-21.081580964795 -60.403926536337
+(S1 (SINV (ADVP (RB Well)) (VP (VBP see)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP me)))))))
+-21.159263668365 -60.929470786407
+(S1 (S (RB Well) (VP (VB see) (SBAR (DT that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-21.253559705116 -62.392922101485
+(S1 (FRAG (RB Well) (VP (VB see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-21.277785097887 -61.604865940033
+(S1 (SINV (ADVP (RB Well)) (VP (VBP see)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me)))))))
+-21.458975351466 -60.515130740536
+(S1 (S (INTJ (RB Well)) (VP (VBP see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-21.468250447065 -60.306075947935
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (PRP me))))))))
+-21.504354849447 -60.706011097005
+(S1 (S (VP (ADVP (RB Well)) (VBP see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-21.515166369761 -62.207764164254
+(S1 (SINV (ADVP (RB Well)) (VP (VBP see)) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me)))))))
+-21.539862106233 -62.340448130359
+(S1 (S (INTJ (UH Well)) (VP (VB see) (SBAR (DT that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-21.645043195500 -61.679485343664
+(S1 (S (RB Well) (VP (VBP see) (SBAR (DT that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-21.914596427800 -62.578512939422
+(S1 (S (INTJ (RB Well)) (VP (VBP see) (SBAR (IN that) (S (VP (POS 's) (NP (PRP me))))))))
+-21.953009044418 -62.176248883957
+(S1 (S (INTJ (RB Well)) (VP (VB see) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP me))))))))
+-22.019881270630 -62.775973443843
+(S1 (FRAG (ADVP (RB Well)) (VP (VBP see) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-22.244884680731 -61.001024792573
+(S1 (S (RB Well) (VP (VBP see) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (PRP me))))))))
+-22.264473732176 -62.574976762728
+(S1 (S (INTJ (RB Well)) (VP (VB see) (SBAR (IN that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-22.413971737485 -61.451385270796
+(S1 (S (INTJ (UH Well)) (VP (VBP see) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-22.541723311700 -61.597285344661
+(S1 (S (INTJ (RB Well)) (VP (VBP see) (SBAR (DT that) (S (VP (VBZ 's) (NP (PRP me))))))))
+-22.557877259819 -61.895572215221
+(S1 (S (RB Well) (VP (VB see) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (PRP me))))))))
+-22.705160890262 -62.932415505283
+(S1 (S (ADVP (RB Well)) (VP (VBP see) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (PRP me))))))))
+-23.141564796931 -60.918824793570
+(S1 (S (INTJ (RB Well)) (VP (VBP see) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (PRP me))))))))
+-23.190605973940 -62.146334115434
+(S1 (S (RB Well) (VP (VBP see) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (PRP me))))))))
+-24.087286090140 -62.064134116431
+(S1 (S (INTJ (RB Well)) (VP (VBP see) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (PRP me))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-9.334686481080 -35.855731634918
+(S1 (NP (NP (NN something)) (PP (IN like) (NP (DT that)))))
+-11.288185198571 -40.233730898132
+(S1 (NP (NP (NN something)) (PP (IN like) (NP (IN that)))))
+-11.344797590683 -37.080793376589
+(S1 (FRAG (NP (NP (NN something)) (PP (IN like) (NP (DT that))))))
+-11.699278446931 -37.451529951270
+(S1 (S (NP (NP (NN something)) (PP (IN like) (NP (DT that))))))
+-12.940356861876 -42.791522458250
+(S1 (NP (NP (NN something)) (PP (IN like) (NP (WDT that)))))
+-13.209427785387 -41.458792639803
+(S1 (FRAG (NP (NP (NN something)) (PP (IN like) (NP (IN that))))))
+-13.314358444566 -50.918007889276
+(S1 (NP (NP (NN something)) (PP (IN like) (NP (NN that)))))
+-13.344876414597 -48.761280918499
+(S1 (NP (NN something) (PP (IN like) (NP (DT that)))))
+-13.508336275471 -40.666035645981
+(S1 (S (NP (NN something)) (PP (IN like) (NP (DT that)))))
+-13.524029089635 -41.829529214484
+(S1 (S (NP (NP (NN something)) (PP (IN like) (NP (IN that))))))
+-13.740127481415 -45.337383276202
+(S1 (S (VP (NN something) (PP (IN like) (NP (DT that))))))
+-14.901310583772 -53.259769724045
+(S1 (S (NP (NN something)) (VP (VB like) (NP (DT that)))))
+-14.938130168692 -44.016584199920
+(S1 (FRAG (NP (NP (NN something)) (PP (IN like) (NP (WDT that))))))
+-15.032932063743 -47.177643290999
+(S1 (FRAG (NP (NN something)) (PP (IN like) (NP (DT that)))))
+-15.173881860517 -48.395401464068
+(S1 (S (VP (NN something) (PP (IN like) (NP (IN that))))))
+-15.208800019207 -44.971016616962
+(S1 (S (NP (NN something)) (PP (IN like) (NP (IN that)))))
+-15.308784621382 -52.143069630947
+(S1 (FRAG (NP (NP (NN something)) (PP (IN like) (NP (NN that))))))
+-15.340078638940 -44.387320774602
+(S1 (S (NP (NP (NN something)) (PP (IN like) (NP (WDT that))))))
+-15.408012229300 -53.139280181714
+(S1 (NP (NN something) (PP (IN like) (NP (IN that)))))
+-15.411744028418 -52.513806205628
+(S1 (S (NP (NP (NN something)) (PP (IN like) (NP (NN that))))))
+-15.497876477490 -55.036142763421
+(S1 (NP (NP (NN something)) (PP (IN like) (DT that))))
+-15.614366630269 -50.215225658952
+(S1 (VP (NN something) (PP (IN like) (NP (DT that)))))
+-15.695174174934 -48.644113243452
+(S1 (S (ADJP (NN something) (PP (IN like) (NP (DT that))))))
+-15.986592898485 -47.282999927821
+(S1 (FRAG (ADJP (NN something) (PP (IN like) (NP (DT that))))))
+-16.069712944134 -54.200077039606
+(S1 (S (NP (NN something)) (VP (VBP like) (NP (DT that)))))
+-16.155340628694 -49.768761433034
+(S1 (FRAG (VP (NN something) (PP (IN like) (NP (DT that))))))
+-16.366324484854 -52.924139346268
+(S1 (FRAG (NP (NN something) (PP (IN like) (NP (DT that))))))
+-16.451262965819 -54.436010143267
+(S1 (NP (NP (NN something)) (PP (IN like) (ADVP (RB that)))))
+-16.573403952916 -53.099709163582
+(S1 (S (NP (NN something)) (VP (IN like) (NP (DT that)))))
+-16.583617838616 -50.896032014113
+(S1 (FRAG (NP (NN something)) (PP (IN like) (NP (IN that)))))
+-17.052281424105 -53.041698033683
+(S1 (FRAG (S (NP (NP (NN something)) (PP (IN like) (NP (DT that)))))))
+-17.141287747532 -52.344117500238
+(S1 (NP (NP (NN something)) (ADVP (IN like) (DT that))))
+-17.190484236348 -49.754674078711
+(S1 (S (NP (NN something)) (PP (IN like) (NP (WDT that)))))
+-17.200258334159 -53.273243846818
+(S1 (VP (NN something) (PP (IN like) (NP (IN that)))))
+-17.232066565572 -55.789408947067
+(S1 (S (NP (NN something)) (VP (VB like) (NP (IN that)))))
+-17.280052885563 -55.831215098134
+(S1 (FRAG (NP (NN something)) (VP (VB like) (NP (DT that)))))
+-17.344092792605 -55.697071741831
+(S1 (NP (NN something) (PP (IN like) (NP (WDT that)))))
+-17.383138507694 -52.593798937538
+(S1 (S (VP (NN something) (PP (IN like) (NP (WDT that))))))
+-17.403508084160 -55.124935253888
+(S1 (NP (NP (NN something)) (PP (IN like) (ADVP (IN that)))))
+-17.458151047069 -53.986281268751
+(S1 (S (NP (NN something)) (VP (IN like) (NP (IN that)))))
+-17.498741849977 -54.239876345504
+(S1 (NP (NP (NN something)) (PP (IN like) (ADJP (RB that)))))
+-17.564982135010 -53.703543886761
+(S1 (S (ADJP (NN something) (PP (IN like) (NP (IN that))))))
+-17.615664605274 -55.522117628946
+(S1 (ADJP (NN something) (PP (IN like) (NP (DT that)))))
+-17.652363812584 -52.826779620900
+(S1 (FRAG (VP (NN something) (PP (IN like) (NP (IN that))))))
+-17.919669657774 -52.342430571129
+(S1 (FRAG (ADJP (NN something) (PP (IN like) (NP (IN that))))))
+-18.089928840343 -54.102497181640
+(S1 (FRAG (NP (NN something)) (PP (IN like) (NP (WDT that)))))
+-18.524478531789 -55.661071589733
+(S1 (FRAG (NP (NP (NN something)) (PP (IN like) (ADVP (RB that))))))
+-19.571957491217 -55.464938067809
+(S1 (FRAG (NP (NP (NN something)) (PP (IN like) (ADJP (RB that))))))
+-19.770833209587 -55.835674537453
+(S1 (S (NP (NP (NN something)) (PP (IN like) (ADJP (RB that))))))
+-19.867547310322 -55.929629220058
+(S1 (FRAG (ADJP (NN something) (PP (IN like) (NP (WDT that))))))
+

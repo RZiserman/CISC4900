@@ -1,0 +1,102 @@
+50 x
+-20.165706657733 -71.370555104872
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (VP (VB see))))))))
+-20.454287244941 -73.606576059667
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (VB see)))))))
+-21.433778699034 -75.057224964828
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (NP (VB see))))))))
+-21.879521020096 -77.488876583235
+(S1 (S (CC And) (NP (PRP I)) (VP (VB like) (S (VP (TO to) (VP (NN sight) (VP (VB see))))))))
+-22.168101607304 -79.724897538029
+(S1 (S (CC And) (NP (PRP I)) (VP (VB like) (S (VP (TO to) (VP (NN sight) (VB see)))))))
+-22.375931235055 -74.750177760814
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (VP (VB see)))))))))
+-22.664511822263 -76.986198715609
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (VB see))))))))
+-22.691807515217 -74.250893773851
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (ADVP (NN sight)) (VP (VB see)))))))
+-22.708283832365 -75.109043690715
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (ADVP (NN sight)) (VB see)))))))
+-23.022170300431 -80.132172711383
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (S (VP (VB see)))))))))
+-23.350447717911 -73.690641760706
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (VP (VB see)))))))))
+-23.554575709847 -80.066843002401
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (NP (VBP see))))))))
+-23.639028305119 -75.926662715500
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (VB see))))))))
+-23.644003276356 -78.436847620770
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (NP (VB see)))))))))
+-23.700676939141 -80.362369503579
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VB like) (S (VP (TO to) (VP (NN sight) (VP (VB see)))))))))
+-23.722865163013 -80.723725546602
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (ADVP (VB see))))))))
+-23.723697471820 -78.319883528616
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (PP (TO to) (NP (NN sight))) (VP (VB see)))))
+-23.852721760659 -75.638526158059
+(S1 (S (CC And) (NP (PRP I)) (PP (IN like) (PP (TO to) (NP (NN sight)))) (VP (VBP see))))
+-24.237554806676 -78.117900467144
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (S (VP (VBP see)))))))))
+-24.387239277580 -80.369215252213
+(S1 (S (CC And) (NP (PRP I)) (VP (VB like) (S (VP (TO to) (ADVP (NN sight)) (VP (VB see)))))))
+-24.611576879212 -77.377311620662
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (NP (VB see)))))))))
+-24.871426996107 -79.457772641300
+(S1 (S (CC And) (NP (PRP I)) (ADVP (IN like) (PP (TO to) (NP (NN sight)))) (VP (VB see))))
+-24.876715182838 -80.423915532889
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (VP (VB see))))))))
+-24.902032092539 -77.630516429793
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (ADVP (NN sight)) (VP (VB see))))))))
+-24.918508409687 -78.488666346656
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (ADVP (NN sight)) (VB see))))))))
+-24.983102527754 -79.111150656502
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (S (NP (NN sight)) (VP (VB see))))))))
+-25.299816987917 -79.455179022164
+(S1 (S (CC And) (NP (PRP I)) (ADVP (JJ like) (PP (TO to) (NP (NN sight)))) (VP (VB see))))
+-25.523064718631 -79.764170903173
+(S1 (S (CC And) (NP (PRP I)) (ADJP (JJ like) (PP (TO to) (NP (NN sight)))) (S (VP (VB see)))))
+-25.876548575395 -76.570980429684
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (ADVP (NN sight)) (VP (VB see))))))))
+-25.893024892543 -77.429130346548
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (ADVP (NN sight)) (VB see))))))))
+-25.948357196692 -80.651132929980
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (PP (TO to) (NP (NN sight))))) (VP (VB see))))
+-26.154375211140 -77.729966875745
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight)))))) (VP (VBP see))))
+-26.197572382060 -80.248814208065
+(S1 (S (S (CC And) (NP (PRP I)) (VP (VBP like) (PP (TO to) (NP (NN sight))))) (VP (VB see))))
+-26.227457746387 -79.673464627815
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VB like) (PP (TO to) (NP (NN sight))))) (VP (VB see))))
+-26.348885722973 -78.100592248933
+(S1 (S (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight)))))) (VP (VBP see))))
+-26.351908944429 -80.626900136434
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight)))))) (VP (VB see))))
+-26.382451694980 -79.658926471899
+(S1 (S (S (CC And) (NP (PRP I)) (VP (VB like) (PP (TO to) (NP (NN sight))))) (VP (VB see))))
+-26.507044377634 -79.247624456907
+(S1 (S (CC And) (NP (PRP I)) (ADVP (IN like) (PP (TO to) (NP (NN sight)))) (VP (VBP see))))
+-26.521281637205 -78.679975771743
+(S1 (S (CC And) (NP (PRP I)) (VP (ADVP (JJ like) (PP (TO to) (NP (NN sight)))) (VBP see))))
+-26.565664259986 -79.545106173565
+(S1 (S (CC And) (NP (PRP I)) (VP (ADVP (IN like) (PP (TO to) (NP (NN sight)))) (VBP see))))
+-26.601124127008 -80.224581414520
+(S1 (S (S (CC And) (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight)))))) (VP (VB see))))
+-26.624241612403 -77.754199669290
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (PP (TO to) (NP (NN sight))))) (VP (VBP see))))
+-26.818168043998 -80.639970193530
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP like) (PP (TO to) (NP (NN sight))) (VP (VB see))))))
+-26.818752124236 -78.124825042478
+(S1 (S (S (CC And) (NP (PRP I)) (VP (VBP like) (PP (TO to) (NP (NN sight))))) (VP (VBP see))))
+-27.012709675649 -79.579663763515
+(S1 (S (CC And) (NP (PRP I)) (ADVP (JJ like) (PP (TO to) (NP (NN sight)))) (VP (VBP see))))
+-27.315080964066 -80.437987122978
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (VP (NN sight) (S (VP (VBP see))))))))))
+-27.594550062411 -78.273202531463
+(S1 (S (CC And) (NP (PRP I)) (PP (JJ like) (TO to) (NP (NN sight))) (VP (VBP see))))
+-27.830720915600 -78.945693120776
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VB like) (PP (TO to) (NP (NN sight))))) (VP (VBP see))))
+-28.141993754363 -79.857112073921
+(S1 (S (S (CC And) (NP (PRP I)) (VP (VB like) (PP (TO to) (NP (NN sight))))) (VP (VBP see))))
+-29.143988770725 -80.816055179116
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP like) (S (VP (TO to) (NP (NN sight)))))) (VP (VBP see))))
+

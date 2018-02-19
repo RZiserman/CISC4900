@@ -1,0 +1,102 @@
+50 x
+-14.031913935989 -48.412728915669
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-14.255095182642 -48.341198003603
+(S1 (S (RB Well) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-14.504177847947 -49.062829195370
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-15.897476129545 -52.872538616959
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-15.955861603712 -50.802357321596
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-16.288531028051 -54.087287098847
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))))
+-16.503797150784 -53.119451612394
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-16.602284084465 -56.393772916944
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-16.946598995838 -55.184974581899
+(S1 (S (NP (RB Well) (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-17.009123713687 -58.733431871156
+(S1 (SBAR (RB Well) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-17.097536607351 -54.537734518662
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))))
+-17.550340400704 -57.880897538142
+(S1 (FRAG (ADVP (RB Well)) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-17.566492066842 -57.195540667243
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-17.696288685376 -62.335087981307
+(S1 (S (VP (NN Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))))
+-17.900303887638 -61.938382769816
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VBP tell) (NP (PRP you))))))
+-18.065697894223 -57.444542162982
+(S1 (S (ADVP (UH Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-18.123485137079 -61.866851857750
+(S1 (S (RB Well) (NP (PRP I)) (VP (MD 'll) (VP (VBP tell) (NP (PRP you))))))
+-18.365670892548 -61.731664580679
+(S1 (S (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-18.372567799596 -62.588483049517
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (MD 'll) (VP (VBP tell) (NP (PRP you))))))
+-18.401560046491 -59.371948816211
+(S1 (FRAG (SBAR (RB Well) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-19.008856964764 -64.797443597070
+(S1 (S (VP (NN Well) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-19.137903162634 -66.170765413810
+(S1 (S (ADVP (RB Well)) (NP (NNP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-19.223755733275 -64.025289206426
+(S1 (ADJP (RB Well) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-19.371472834723 -60.845280977528
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (S (VP (VB tell) (NP (PRP you)))))))
+-19.427574664060 -61.833389137787
+(S1 (FRAG (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-19.499458670333 -66.424086050416
+(S1 (S (INTJ (UH Well)) (NP (NNP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-19.576492090085 -63.735936536782
+(S1 (S (ADVP (RB Well)) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-19.594654084165 -60.773750065462
+(S1 (S (RB Well) (NP (PRP I)) (VP (MD 'll) (S (VP (VB tell) (NP (PRP you)))))))
+-19.622976759755 -62.706351882088
+(S1 (FRAG (S (INTJ (UH Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-19.660735988320 -64.932278689622
+(S1 (S (ADVP (NN Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-19.824251558149 -64.328011175743
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VBP tell) (NP (PRP you))))))
+-19.843736746682 -61.495381257229
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (MD 'll) (S (VP (VB tell) (NP (PRP you)))))))
+-19.891720676994 -66.398192471105
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VBP tell) (NP (PRP you))))))))
+-19.993197441832 -64.052660575077
+(S1 (FRAG (S (RB Well) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-20.054908009102 -66.421159127500
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (MD 'll) (VP (VBP tell) (NP (PRP you)))))
+-20.098954937465 -64.862443192795
+(S1 (S (NP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+-20.203784205594 -63.666421785081
+(S1 (S (VP (RB Well) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-20.256405980330 -59.142632488751
+(S1 (FRAG (S (NP (RB Well) (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-20.472134366967 -65.957569561579
+(S1 (FRAG (ADJP (RB Well) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+-20.946602420180 -66.541142853331
+(S1 (FRAG (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))))
+-21.253283577650 -65.445794387079
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (S (NP (PRP you)))))))
+-21.295420502447 -63.234909383455
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (MD 'll) (S (VP (VB tell) (NP (PRP you)))))))
+-21.367332566489 -64.457702625410
+(S1 (FRAG (S (INTJ (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-21.426148527076 -66.227353914556
+(S1 (S (ADVP (UH Well)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)))))))
+-21.476464827091 -65.374263475012
+(S1 (S (RB Well) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (S (NP (PRP you)))))))
+-21.498083841553 -65.305090617926
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (VP (VB tell) (NP (PRP you)))))))))
+-21.653600540059 -66.519839099815
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (MD 'll) (S (VP (VB tell) (NP (PRP you))))))))))
+-21.680717748853 -65.552003558712
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (MD 'll) (S (VP (VB tell) (NP (PRP you))))))))
+-21.725547489608 -66.095894666779
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (S (NP (PRP you)))))))
+-22.009083874153 -64.206543201912
+(S1 (FRAG (SBAR (S (NP (RB Well) (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))))
+

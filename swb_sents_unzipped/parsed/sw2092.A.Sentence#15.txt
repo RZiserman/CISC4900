@@ -1,0 +1,102 @@
+50 x
+-12.602784630657 -44.253301104675
+(S1 (S (IN So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-13.332803123047 -45.120328788845
+(S1 (S (RB So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-13.557438851316 -50.266598844058
+(S1 (S (CC So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-14.168333073679 -49.508319104992
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-14.245603557176 -49.142068566707
+(S1 (S (IN So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-14.323946005606 -49.668279517774
+(S1 (S (IN So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's)))))))
+-14.586423293063 -53.556480624082
+(S1 (SBAR (IN So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-15.015253795209 -50.535307201945
+(S1 (S (RB So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's)))))))
+-15.283575189396 -47.992501149123
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-15.388598026266 -55.681577257158
+(S1 (S (CC So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's)))))))
+-15.440743569862 -52.385283156715
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))
+-15.727603322110 -53.728694746033
+(S1 (S (IN So) (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (VBZ 's))))))
+-15.747715939337 -54.557046979807
+(S1 (S (IN So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's))))))))
+-15.822278114330 -53.815926024227
+(S1 (S (IN So) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-15.833806597376 -54.432291830540
+(S1 (S (CC So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-15.850783748628 -54.923297518092
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's)))))))
+-16.230776392661 -51.986249498360
+(S1 (S (ADVP (RB So)) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-16.268081963460 -55.012146883305
+(S1 (S (IN So) (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (POS 's))))))
+-16.435613915802 -52.797052660537
+(S1 (S (ADVP (IN So)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-16.457621811713 -54.595722430203
+(S1 (S (RB So) (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (VBZ 's))))))
+-16.559969909948 -58.550351228108
+(S1 (S (CC So) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-16.625407714743 -54.717660976384
+(S1 (S (RB So) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-16.702754378986 -54.735161599136
+(S1 (S (IN So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VBZ 's))))))
+-16.718071571557 -53.407479562223
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's))))))))
+-16.884839178523 -57.800261569815
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's)))))))))
+-16.959389755850 -55.879174567475
+(S1 (S (RB So) (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (POS 's))))))
+-16.976988868882 -58.098839903851
+(S1 (S (IN So) (NP (PRP I)) (VP (VBP mean) (NP (PRP it) (POS 's)))))
+-16.998814642529 -56.285659188654
+(S1 (S (IN So) (NP (PRP I)) (VP (VBP mean) (NP (PRP it) (VBZ 's)))))
+-17.356250704510 -58.617461993802
+(S1 (S (IN So) (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (VBZ 's)))))))
+-17.428462830174 -58.588612468491
+(S1 (S (IN So) (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-17.432772868589 -55.602189283306
+(S1 (S (RB So) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VBZ 's))))))
+-17.432996266804 -57.660653152304
+(S1 (SBAR (RB So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-17.459673314912 -55.771275834527
+(S1 (S (NP (RB So) (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-17.466912069433 -58.327097681825
+(S1 (S (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))))
+-17.532107721396 -55.957828753910
+(S1 (S (INTJ (RB So)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-17.643840472664 -56.791993152481
+(S1 (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))
+-17.657443602430 -55.940255341149
+(S1 (FRAG (RB So) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))
+-17.665272774822 -57.401227911460
+(S1 (S (ADVP (RB So)) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's))))))))
+-17.728323119996 -55.274983053905
+(S1 (S (ADVP (IN So)) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-17.728833132132 -57.152686872825
+(S1 (S (RB So) (NP (PRP I)) (VP (VBP mean) (NP (PRP it) (VBZ 's)))))
+-17.857417003016 -55.943491064470
+(S1 (FRAG (CC So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-18.156775287964 -58.212031073637
+(S1 (S (ADVP (IN So)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (POS 's)))))))
+-18.158194685835 -57.941800786347
+(S1 (SQ (RB So) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
+-18.394222339518 -57.467894576217
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (VBZ 's)))))))
+-18.648035990867 -58.751346713489
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (POS 's)))))))
+-18.793445561178 -58.440178558131
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))
+-18.891397383475 -58.151620250216
+(S1 (FRAG (SBAR (RB So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))
+-18.926870266327 -57.994991867136
+(S1 (FRAG (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))))
+-19.232894235592 -58.678639812004
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBP mean) (NP (PRP it)))) (VP (VBZ 's))))
+-19.383544934938 -58.474361643584
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VBZ 's)))))))
+

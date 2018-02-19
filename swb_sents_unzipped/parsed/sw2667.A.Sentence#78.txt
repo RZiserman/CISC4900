@@ -1,0 +1,102 @@
+50 x
+-19.387734593148 -66.741634671458
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring)))))
+-21.162098993848 -68.458057522422
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring))))))
+-21.786395243288 -73.023912359940
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (VBG boring)))))
+-22.091723847199 -78.040441175435
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (ADJP (RB n't) (RB too) (JJ boring)))))
+-22.138078357764 -75.714760749569
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (NP (RB too) (JJ boring)))))
+-22.209792013745 -78.766907583358
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (VP (VBG boring)))))
+-22.411902038540 -72.464713714982
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring)))))))
+-22.565869239458 -68.479190191499
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring))))))
+-22.576018425778 -72.764175525228
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (JJ boring)))))
+-22.771462820875 -72.367876990516
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring)))))))
+-23.487471306989 -74.740335210903
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (VBG boring))))))
+-23.544777854525 -77.431183552936
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (NP (RB too) (JJ boring))))))
+-23.604155110881 -79.819579361165
+(S1 (S (CC and) (NP (DT the) (NNS aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring)))))
+-23.673914221960 -80.483330495753
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (VP (VBG boring))))))
+-23.905985301411 -79.375482116690
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (RB too) (ADJP (JJ boring)))))
+-23.912804450562 -74.736643519412
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (ADVP (RB too)) (JJ boring)))))
+-23.915281820108 -81.011785894735
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (ADJP (ADVP (RB n't) (RB too)) (JJ boring)))))
+-24.048850731437 -75.762689651120
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (VBG boring)))))
+-24.142972408895 -77.389109574103
+(S1 (FRAG (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring))))))
+-24.171440594899 -79.756864029484
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (ADJP (RB n't) (RB too) (JJ boring))))))
+-24.339020890237 -74.480598249936
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (JJ boring))))))
+-24.426501281681 -78.746991403464
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (VBG boring)))))))
+-24.567795815578 -81.437840095316
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (NP (RB too) (JJ boring)))))))
+-24.618793745039 -81.176236247457
+(S1 (S (CC and) (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too) (JJ boring)))))
+-24.887317321599 -74.761467879980
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (VBG boring))))))
+-24.898416853016 -78.650154678997
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (VBG boring)))))))
+-25.012944013991 -74.982055111322
+(S1 (S (NP (CC and) (NP (DT the) (NN aerobics))) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring)))))
+-25.096515488447 -80.504463269165
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (VP (VBG boring))))))
+-25.169293599725 -80.899576536399
+(S1 (S (CC and) (S (NP (DT the) (NNS aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring))))))
+-25.177816959125 -81.341003370849
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (NP (RB too) (JJ boring)))))))
+-25.286294828873 -79.777996732287
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (ADJP (RB n't) (RB too) (JJ boring))))))
+-25.339888195225 -77.452316307364
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (NP (RB too) (JJ boring))))))
+-25.343775751262 -76.453066370376
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (ADVP (RB too)) (JJ boring))))))
+-25.598610661684 -77.479112375828
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (VBG boring))))))
+-25.634330492022 -81.091904875237
+(S1 (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (RB too) (ADJP (JJ boring))))))
+-25.654796195484 -80.859137127139
+(S1 (FRAG (S (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring)))))))
+-25.768828686027 -74.501731100553
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (JJ boring))))))
+-25.769343060138 -78.487254760002
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (JJ boring)))))))
+-25.945665917135 -77.791277755986
+(S1 (S (NP (CC and) (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring)))))
+-25.963060406473 -78.390418035535
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (JJ boring)))))))
+-26.310028921522 -79.691814377617
+(S1 (FRAG (CC and) (S (NP (DT the) (NNS aerobics)) (VP (VBZ is) (RB n't) (ADJP (RB too) (JJ boring))))))
+-26.593578795954 -80.459722562936
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (ADVP (RB too)) (JJ boring)))))))
+-26.704974021585 -81.485768885894
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (VBG boring)))))))
+-26.953139578289 -80.362885838469
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (ADVP (RB too)) (JJ boring)))))))
+-27.011046154133 -81.388932161427
+(S1 (FRAG (CC and) (SBAR (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (VBG boring)))))))
+-27.090939096872 -76.474199039452
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADJP (ADVP (RB too)) (JJ boring))))))
+-27.098795533783 -81.113037594794
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (RB too) (ADJP (JJ boring))))))
+-27.151262686474 -77.500245226445
+(S1 (FRAG (CC and) (S (NP (DT the) (NN aerobics)) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (VBG boring))))))
+-27.411604664131 -81.264332799804
+(S1 (S (NP (CC and) (NP (DT the) (NN aerobics))) (VP (VBZ is) (RB n't) (ADJP (RB too) (VBG boring)))))
+-28.201227846621 -81.004595965092
+(S1 (S (NP (CC and) (NP (DT the) (NN aerobics))) (VP (VBZ is) (RB n't) (ADVP (RB too)) (ADJP (JJ boring)))))
+

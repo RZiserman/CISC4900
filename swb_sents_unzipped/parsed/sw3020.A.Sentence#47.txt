@@ -1,0 +1,102 @@
+50 x
+-25.803880106071 -91.698903296098
+(S1 (S (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-26.167207573947 -93.125863676833
+(S1 (S (NP (DT The) (ADJP (DT the) (JJS worst)) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-26.254085530164 -86.508438848865
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-26.437758589162 -97.682630170846
+(S1 (S (NP (DT The) (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-26.592733980059 -93.905815835004
+(S1 (S (NP (DT The) (NP (DT the) (JJS worst) (NN place))) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-27.457891610590 -97.567926200998
+(S1 (NP (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-27.614439888125 -100.095375008148
+(S1 (S (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NN Marrakech))))))
+-27.639321794113 -97.157028720736
+(S1 (NP (NP (DT The) (ADJP (DT the) (JJS worst)) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-27.803308485207 -98.696713004101
+(S1 (NP (DT The) (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-27.916281987806 -94.904910560915
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NN Marrakech)))))))
+-28.226482533422 -100.367223700344
+(S1 (NP (DT The) (NP (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-28.274226052148 -94.064955979018
+(S1 (S (X (DT The)) (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-28.496397498570 -100.957546173241
+(S1 (NP (NP (DT The) (NP (DT the) (JJS worst) (NN place))) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-28.985183565368 -95.861429505907
+(S1 (S (NP (DT The)) (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-29.148946531590 -97.169516293350
+(S1 (FRAG (NP (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-29.164226265864 -94.953735411657
+(S1 (S (ADVP (DT The)) (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-29.282911053513 -100.096310753209
+(S1 (S (NP (DT The) (NP (DT the) (JJS worst)) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-29.330376731840 -96.758618866659
+(S1 (FRAG (NP (NP (DT The) (ADJP (DT the) (JJS worst)) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-29.451763848918 -97.221967698669
+(S1 (NP (NP (DT The)) (SBAR (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))))
+-29.595233683239 -98.550495302391
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (JJ Marrakech)))))))
+-29.624782453616 -100.647913528370
+(S1 (S (NP (DT The) (NP (DT the) (JJS worst))) (VP (VBP place) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-29.669288782847 -98.881879650201
+(S1 (FRAG (NP (DT The) (ADJP (DT the) (JJS worst)) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-29.785749636796 -100.351251576384
+(S1 (S (NP (NP (DT The)) (NP (DT the) (JJS worst) (NN place))) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-29.925536656164 -99.808286681563
+(S1 (FRAG (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))
+-30.125021867110 -100.303024257312
+(S1 (FRAG (NP (DT The) (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-30.211944647054 -95.236245642429
+(S1 (FRAG (X (DT The)) (NP (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-30.293416226425 -100.356216906720
+(S1 (NP (NP (DT The)) (NP (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-30.351724769136 -99.441311423840
+(S1 (FRAG (NP (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (SBAR (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))))
+-30.533154969386 -99.030413997149
+(S1 (FRAG (NP (NP (DT The) (ADJP (DT the) (JJS worst)) (NN place)) (SBAR (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))))
+-30.563015749296 -98.794364953775
+(S1 (S (NP (DT The) (NP (DT the) (JJS worst))) (VP (VBP place) (SBAR (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))))
+-30.638050452320 -97.486927415796
+(S1 (FRAG (NP (DT The) (ADJP (DT the) (JJS worst)) (NN place)) (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-30.830624470842 -99.035935922823
+(S1 (FRAG (S (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-30.889070810204 -101.104403569502
+(S1 (S (NP (DT The) (NP (DT the) (JJS worst))) (VP (VBP place) (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))))
+-30.894298325637 -98.413334447158
+(S1 (FRAG (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-30.941342135216 -100.783985871466
+(S1 (S (NP (DT The) (X (DT the)) (JJS worst) (NN place)) (VP (VBD was)) (PP (IN in) (NP (NNP Marrakech)))))
+-30.973518558162 -100.921578043529
+(S1 (S (NP (DT The) (ADJP (DT the) (JJS worst))) (VP (VBP place) (SBAR (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))))
+-31.140663434674 -100.901596495184
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst)) (VP (VBP place) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))))
+-31.193951938718 -100.462896251279
+(S1 (FRAG (S (NP (DT The) (ADJP (DT the) (JJS worst)) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-31.292047379803 -100.633411337378
+(S1 (S (NP (DT The)) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-31.414722867873 -97.508040711892
+(S1 (FRAG (X (DT The)) (NP (NP (DT the) (JJS worst) (NN place)) (SBAR (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))))
+-31.466446019509 -96.961924709813
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PRT (RP in)) (NP (NNP Marrakech))))))
+-31.523018005227 -101.315831088452
+(S1 (FRAG (NP (DT The) (NP (DT the) (JJS worst) (NN place))) (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-32.154379254554 -101.011487856690
+(S1 (FRAG (NP (DT The)) (NP (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-32.160982725173 -99.048047772814
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst)) (VP (VBP place) (SBAR (S (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))))))
+-32.312206126767 -98.741784627929
+(S1 (FRAG (NP (DT The)) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech)))))))
+-32.490118823964 -100.178761739690
+(S1 (FRAG (SBAR (X (DT The)) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (IN in) (NP (NNP Marrakech))))))))
+-32.931709883590 -100.582613783751
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PP (RP in) (NP (NNP Marrakech)))))))
+-32.965132829756 -98.335257124599
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (NP (IN in) (NNP Marrakech))))))
+-33.863271472583 -101.102556951593
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (PRT (IN in)) (NP (NNP Marrakech))))))
+-34.104324270204 -100.573403551482
+(S1 (SBAR (DT The) (S (NP (DT the) (JJS worst) (NN place)) (VP (VBD was) (ADVP (RP in)) (NP (NNP Marrakech))))))
+

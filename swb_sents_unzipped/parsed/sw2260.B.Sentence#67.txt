@@ -1,0 +1,102 @@
+50 x
+-18.311909378657 -60.086514039328
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-20.125465877853 -65.812375955517
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-20.762676313720 -61.716739045890
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-20.823516308326 -65.952766400050
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADJP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-21.803382823750 -71.476520679472
+(S1 (S (NP (PRP We)) (VP (VBN bought) (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-21.977259277639 -66.275388825252
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (PRP ours) (CD five) (NNS years)) (RB ago)))))
+-22.010735786004 -72.999963059500
+(S1 (S (NP (PRP We)) (VP (VBN bought) (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-22.405158215633 -67.208549851955
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (QP (JJ ours) (CD five)) (NNS years)) (RB ago)))))
+-22.591300047160 -67.478467602094
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-22.618321406266 -77.813188482618
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (PRP ours)) (NP (CD five) (NNS years) (RB ago)))))
+-22.638793684402 -68.393006955288
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago))))))
+-22.715533901128 -67.442600962080
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-22.777752208994 -71.712732106051
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADJP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-23.070165204479 -74.023441946464
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (RB ago))))))
+-23.245415795072 -78.398879222344
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (PRP ours)) (NP (CD five) (NNS years)) (RB ago)))))
+-23.326603213682 -71.484954970603
+(S1 (S (NP (PRP We)) (VP (VBD bought) (PRT (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-23.428658365370 -75.854341632955
+(S1 (S (NP (PRP We)) (VP (VBD bought) (S (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (IN ago))))))
+-23.459077207352 -75.189425506621
+(S1 (S (NP (PRP We)) (VP (VBN bought) (ADJP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-23.474785127718 -73.640618735706
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (JJ ours) (CD five) (NNS years)) (RB ago)))))
+-23.524331135859 -71.581450324373
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-23.550995507287 -75.828272408700
+(S1 (S (NP (PRP We)) (VP (VBN bought) (ADJP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-23.633364886420 -77.415748959933
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (IN ago))))))
+-23.676533501966 -72.478276845351
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (PRP ours) (CD five) (NNS years)) (IN ago)))))
+-23.676623708456 -74.463362685118
+(S1 (S (NP (PRP We)) (VP (VBD bought) (S (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (RB ago))))))
+-23.699166465994 -72.615138168247
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (IN ago))))))
+-24.026479222244 -77.458378670881
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (PRP ours) (CD five) (NNS years)) (ADVP (RB ago)))))
+-24.032430226005 -73.812176902643
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (QP (JJ ours) (CD five)) (NNS years)) (IN ago)))))
+-24.116712606357 -74.999278245305
+(S1 (S (NP (PRP We)) (VP (VBN bought) (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-24.274833454481 -78.016898047334
+(S1 (S (NP (PRP We)) (VP (VBN bought) (ADVP (NP (QP (JJ ours) (CD five)) (NNS years)) (IN ago)))))
+-24.345924892390 -76.765015157833
+(S1 (S (NP (PRP We)) (VP (VBN bought) (S (NP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (RB ago))))))
+-24.418791102654 -76.682997990043
+(S1 (S (NP (PRP We)) (VP (VBN bought) (ADVP (NP (PRP ours) (CD five) (NNS years)) (IN ago)))))
+-24.455237549611 -76.522720625333
+(S1 (S (NP (PRP We)) (VP (VBN bought) (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-24.471886329686 -74.749786172055
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (JJ ours)) (NP (CD five) (NNS years)) (RB ago)))))
+-24.718613077111 -76.063418498961
+(S1 (S (NP (PRP We)) (VP (VBN bought) (NP (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago))))))
+-24.731565635815 -74.853065181586
+(S1 (S (NP (PRP We)) (VP (VBN bought) (ADVP (NP (PRP ours) (CD five) (NNS years)) (RB ago)))))
+-24.731859035472 -73.906787409555
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-24.977150503096 -79.020935632452
+(S1 (S (NP (PRP We)) (VP (VBD bought) (VP (JJ ours) (ADVP (NP (CD five) (NNS years)) (RB ago))))))
+-24.979852291598 -75.786226208289
+(S1 (S (NP (PRP We)) (VP (VBN bought) (ADVP (NP (QP (JJ ours) (CD five)) (NNS years)) (RB ago)))))
+-25.024745909220 -76.476476965781
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (QP (NP (PRP ours)) (CD five)) (NNS years)) (RB ago)))))
+-25.385727728108 -78.941767067107
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADJP (JJ ours) (ADVP (NP (CD five) (NNS years)) (IN ago))))))
+-25.504476949558 -74.830957608690
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (ADVP (JJ ours)) (CD five) (NNS years)) (RB ago)))))
+-25.531457359601 -78.143906062877
+(S1 (S (NP (PRP We)) (VP (VBD bought) (PRT (JJ ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-25.533718143171 -78.009770131833
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (PRP ours)) (ADVP (NP (CD five) (NNS years)) (IN ago)))))
+-25.692668031169 -79.144451953904
+(S1 (S (NP (PRP We)) (VP (VBD bought) (NP (ADJP (JJ ours) (NP (CD five) (NNS years)))) (ADVP (RB ago)))))
+-25.884751136948 -74.628456388355
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (ADVP (PRP ours)) (CD five) (NNS years)) (RB ago)))))
+-26.070643099118 -77.999957074702
+(S1 (S (NP (PRP We)) (VP (VBN bought) (ADVP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago)))))
+-26.428777353918 -77.662863540811
+(S1 (S (NP (PRP We)) (VP (VBD bought) (S (NP (JJ ours)) (ADVP (NP (CD five) (NNS years)) (RB ago))))))
+-26.619184620804 -78.660933334960
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (QP (NP (JJ ours)) (CD five)) (NNS years)) (RB ago)))))
+-26.869875722838 -78.478741817225
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (ADJP (JJ ours) (NP (CD five))) (NNS years)) (RB ago)))))
+-27.057729939480 -77.662584206542
+(S1 (S (NP (PRP We)) (VP (VBD bought) (ADVP (NP (QP (ADVP (JJ ours)) (CD five)) (NNS years)) (RB ago)))))
+

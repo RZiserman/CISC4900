@@ -1,0 +1,102 @@
+50 x
+-26.150757925287 -92.316085937402
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (ADVP (RB there)))))))
+-26.420380600268 -92.077190461863
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NNS relatives)) (ADVP (RB there)))))))
+-26.893521636386 -91.291375134231
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there))))))))
+-26.981378342593 -90.941000351009
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (ADVP (RB there))))))))
+-26.992084515350 -92.023686381834
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (ADVP (RB there))))))))
+-27.251001020362 -90.702104875470
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NNS relatives)) (ADVP (RB there))))))))
+-27.567649927633 -97.794383195545
+(S1 (S (PP (IN because) (NP (UH uh))) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (ADVP (RB there))))))
+-27.724142056479 -89.916289547838
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))))
+-27.822704935443 -90.648600795441
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))))
+-28.109138452614 -97.555487720007
+(S1 (S (PP (IN because) (NP (UH uh))) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NNS relatives)) (ADVP (RB there))))))
+-28.287275717696 -97.501983639978
+(S1 (S (PP (IN because) (NP (UH uh))) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))
+-28.318775249240 -95.056350676617
+(S1 (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (ADVP (RB there)))))))
+-28.368718128732 -96.769672392375
+(S1 (S (PP (IN because) (NP (UH uh))) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))
+-28.374206543093 -96.340158987843
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives) (EX there)))))))
+-28.588397924221 -94.817455201079
+(S1 (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NNS relatives)) (ADVP (RB there)))))))
+-28.879302879770 -97.553369406958
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (NP (EX there)))))))))
+-28.898632392654 -96.522030931419
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (NP (EX there))))))))
+-29.055259437399 -94.965073401450
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives) (EX there))))))))
+-29.061538960339 -94.031639873447
+(S1 (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there))))))))
+-29.088286294672 -96.022274651536
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (NP (NNS relatives)) (ADVP (RB there)))))))))
+-29.116892942242 -97.737490401106
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (NP (EX there)))))))))
+-29.147583496079 -94.903522306028
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (NNS relatives)) (ADVP (RB there))))))))
+-29.149395669333 -93.681265101377
+(S1 (FRAG (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (ADVP (RB there))))))))
+-29.160101839302 -94.763951121050
+(S1 (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (ADVP (RB there))))))))
+-29.255897411988 -97.434952362098
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (EX there))))))))
+-29.419018347102 -93.442369625839
+(S1 (FRAG (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NNS relatives)) (ADVP (RB there))))))))
+-29.742879027000 -96.523203624673
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (ADVP (NP (NNS relatives)) (RB there)))))))
+-29.892159383220 -92.656554298207
+(S1 (FRAG (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))))
+-29.918906714766 -94.647189065143
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (NP (NNS relatives)) (ADVP (RB there))))))))))
+-29.936950309082 -96.059866775705
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (EX there)))))))))
+-29.947982911258 -96.792178023308
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (ADVP (EX there)))))))))
+-29.978203913385 -93.528436719635
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (NNS relatives)) (ADVP (RB there)))))))))
+-29.990722262183 -93.388865545810
+(S1 (FRAG (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))))
+-30.107647380414 -97.622979531434
+(S1 (S (INTJ (RB because)) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (ADVP (RB there))))))
+-30.256817549602 -96.632326964823
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (NP (RB there)))))))))
+-30.313429377105 -97.688823187970
+(S1 (S (INTJ (RB because) (INTJ (UH uh))) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))
+-30.396575179426 -97.191558386896
+(S1 (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (S (NP (NNS relatives)) (ADVP (RB there))))))))
+-30.573499447093 -95.148118038280
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (ADVP (NP (NNS relatives)) (RB there))))))))
+-30.581937888861 -96.816447958971
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (NP (RB there)))))))))
+-30.649135908183 -97.384084055895
+(S1 (S (INTJ (RB because)) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NNS relatives)) (ADVP (RB there))))))
+-30.819228766107 -97.548468068450
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives)) (NP (RB there))))))))
+-30.827273173264 -97.330579975866
+(S1 (S (INTJ (RB because)) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))
+-30.908715584301 -96.598268728263
+(S1 (S (INTJ (RB because)) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there)))))))
+-31.002438244371 -96.623629357718
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (ADVP (NP (NNS relatives)) (RB there))))))))
+-31.181652229993 -97.531433114996
+(S1 (S (RB because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NNS relatives)) (ADVP (RB there))))))))
+-31.223276764139 -97.705338151818
+(S1 (FRAG (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NNS relatives) (EX there))))))))
+-31.227195596731 -95.816472800503
+(S1 (FRAG (SBAR (IN because) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (S (NP (NNS relatives)) (ADVP (RB there)))))))))
+-31.315600820032 -97.643787045244
+(S1 (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (NNS relatives)) (ADVP (RB there))))))))
+-32.086924041506 -97.387453815512
+(S1 (FRAG (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (NP (NNS relatives)) (ADVP (RB there))))))))))
+-32.146221240125 -96.268701470003
+(S1 (FRAG (SBAR (IN because) (S (ADVP (UH uh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (NP (NNS relatives)) (ADVP (RB there)))))))))
+

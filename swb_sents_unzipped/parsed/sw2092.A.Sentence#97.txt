@@ -1,0 +1,102 @@
+50 x
+-14.723059987816 -51.975219073157
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (NP (NN skiing)))))
+-15.430652420846 -54.867696848436
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (VP (VBG skiing)))))
+-15.613893914395 -56.235327853741
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (S (VP (VBG skiing))))))
+-16.044866859488 -58.644587068881
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (NP (VBG skiing)))))
+-16.137854473922 -55.145534383557
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (NP (NN skiing))))))
+-16.647752253194 -58.038012290444
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (VP (VBG skiing))))))
+-16.941396958653 -59.405643201650
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (S (VP (VBG skiing)))))))
+-17.363449585594 -61.814902379281
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (NP (VBG skiing))))))
+-17.708848527321 -55.315390813504
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (ADVP (NN skiing)))))
+-18.377292337424 -55.519078848861
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (ADJP (NN skiing)))))
+-18.406958612339 -61.845627649582
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (NP (NN skiing)))))))
+-18.424359231916 -64.738105308424
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (VP (VBG skiing)))))))
+-18.470041860065 -57.324344496421
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (ADJP (VBG skiing)))))
+-18.639293863410 -60.798609410476
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (VP (NN skiing)))))
+-18.794990862465 -66.105736308581
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (S (VP (VBG skiing))))))))
+-19.170994366366 -57.802959162374
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (S (NP (NN skiing))))))
+-19.273166947366 -58.485706169092
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (ADVP (NN skiing))))))
+-19.333975491065 -62.515638441893
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (NP (NN skiing)))))))
+-19.483094919688 -60.781585354542
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (NP (NN skiing))))))
+-19.586005528424 -63.438624957104
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (VP (NP (NN skiing))))))
+-19.707180470642 -65.408116100735
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (VP (VBG skiing)))))))
+-19.736259225660 -61.355990859507
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (S (VP (NN skiing))))))
+-19.827413268457 -62.297948516536
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (NP (NN skiing)))))
+-19.830712955201 -60.494659951700
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (ADJP (VBG skiing))))))
+-19.834175192560 -58.689394304140
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (ADJP (NN skiing))))))
+-19.952605455758 -63.968924852484
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (VP (NN skiing))))))
+-20.233558140894 -64.456151519941
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VBD went) (NP (NN skiing))))))
+-20.294798928700 -65.190426291815
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (VP (VBG skiing)))))
+-20.452212063869 -63.674063167624
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (VP (VBG skiing))))))
+-20.485655555037 -66.558057297121
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (S (VP (VBG skiing))))))
+-20.532035733965 -65.041694052954
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (S (VP (VBG skiing)))))))
+-20.594709170623 -60.973274510283
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (S (NP (NN skiing)))))))
+-20.793017776558 -65.104910185936
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (S (ADJP (VBG skiing))))))
+-20.809946378699 -64.402317199591
+(S1 (S (NP (CC and) (PRP I)) (VP (VBD went) (NP (NN skiing)))))
+-20.899317120772 -66.608940399112
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (VP (NP (NN skiing)))))))
+-21.159974029918 -64.526306207416
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (S (VP (NN skiing)))))))
+-21.478237062996 -65.185799425293
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (ADVP (NN skiing)))))))
+-21.506360185895 -62.036544639354
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (SBAR (S (NP (NN skiing)))))))
+-21.615104844070 -65.389487326104
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (ADJP (NN skiing)))))))
+-21.835370097151 -65.174822893481
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (S (ADJP (NN skiing))))))
+-21.850747155984 -64.784135226019
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (SBAR (S (VP (NN skiing)))))))
+-22.426535590344 -64.121757129579
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (ADVP (NN skiing))))))
+-22.699457741721 -65.855810217604
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (ADVP (NN skiing)))))))
+-22.813201807963 -65.638120256884
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (ADVP (NN skiing)))))
+-22.816198922795 -66.059498118415
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBD went) (ADJP (NN skiing)))))))
+-22.954267148242 -65.206860084260
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (SBAR (S (NP (NN skiing))))))))
+-23.269869616023 -64.325445194704
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (ADJP (NN skiing))))))
+-23.372476048664 -66.130710842264
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (ADJP (VBG skiing))))))
+-23.481645615278 -65.841808292240
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (ADJP (NN skiing)))))
+-24.079279275935 -66.609325361587
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (S (NP (NN skiing)))))))
+

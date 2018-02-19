@@ -1,0 +1,102 @@
+50 x
+-16.484231008410 -61.574117599641
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (ADVP (RB um)))))
+-17.742596692853 -61.561903969721
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (JJ true) (NN um)))))
+-18.256505134600 -64.424608191652
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (JJ true) (NN um)))))
+-18.742932790545 -63.639102419679
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (RB um)))))
+-18.822956643421 -65.900561489782
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true)) (ADVP (RB um))))))
+-18.911956890184 -65.788008936881
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (VP (VBN um))))))
+-18.940414431104 -62.620380745559
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (NP (CD um))))))
+-19.209395225364 -66.945453916945
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (NP (CD um)))))
+-19.410142025304 -67.054518665587
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (JJ true) (NNS um)))))
+-19.486039117411 -66.295725646833
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (VP (VB um))))))
+-19.580014413631 -65.888348053335
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (JJ true) (NN um))))))
+-19.653498886166 -69.162199702112
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (JJ true) (NNS um)))))
+-19.759244889611 -68.096122351699
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (ADVP (RB um))))))
+-19.910743832781 -64.433174788060
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (NP (NN um)))))
+-20.173282746611 -65.521658144207
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (CD um)))))
+-20.267022014891 -69.471056601119
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (VBG um)))))
+-20.406624685689 -69.171813851576
+(S1 (SBAR (DT that) (S (VP (VBZ 's) (ADJP (JJ true)) (ADVP (RB um))))))
+-20.423324692097 -67.678398608904
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (JJ true) (JJ um)))))
+-20.427996823156 -65.269392006717
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (ADVP (JJ um)))))
+-20.522784572061 -67.674078405963
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (ADVP (RB um))))))
+-20.658246123630 -69.245976880413
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (JJ um)))))
+-20.952392080973 -67.792683560093
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true)) (ADVP (RB um)))))))
+-21.017717468540 -68.236992756867
+(S1 (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ true)) (ADVP (RB um)))))
+-21.027631156083 -66.946824831436
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true) (NP (CD um)))))))
+-21.103429010606 -67.825191151643
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (NP (NN um))))))
+-21.149413791413 -65.408593108193
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (ADJP (JJ um))))))
+-21.212532601311 -67.965546505555
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true) (RB um))))))
+-21.243363452187 -69.159600415129
+(S1 (SBAR (DT that) (S (VP (VBZ 's) (NP (JJ true) (NN um))))))
+-21.353145338648 -68.562143449983
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (ADJP (RB um))))))
+-21.353982924666 -69.413830735494
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (ADJP (JJR um))))))
+-21.359501423340 -68.705130265406
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (ADJP (VBN um))))))
+-21.424721853694 -65.442033424096
+(S1 (S (NP (IN that)) (VP (POS 's) (NP (JJ true) (NN um)))))
+-21.502965983775 -69.426677169544
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (NP (JJ um)))))
+-21.579168841184 -67.780470123646
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (JJ true) (NN um)))))))
+-21.679896330269 -68.646163167613
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (NP (CD um))))))
+-21.683122563893 -68.029039404226
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (NP (NNS um)))))
+-21.689264669247 -69.248248609790
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ true)) (ADVP (RB um)))))
+-21.718800871896 -67.661864954347
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (JJ true) (NN um))))))
+-21.798676132196 -68.759618836833
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true)) (NP (NN um))))))
+-22.064848282235 -69.388219296259
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADVP (JJ true)) (NP (NN um)))))
+-22.250272875482 -68.224779126948
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (JJ true) (NN um)))))
+-22.319851378820 -68.779725696121
+(S1 (S (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true))))) (VP (VBZ um))))
+-22.499897611272 -69.352721886306
+(S1 (S (NP (WDT that)) (VP (POS 's) (NP (JJ true) (NN um)))))
+-22.538849205389 -69.236034979871
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (JJ true) (NN um)))))
+-22.779426019633 -68.720341662852
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true) (NP (CD um)))))))
+-22.959646960635 -68.838946901747
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ true) (NP (CD um))))))))
+-23.004308110400 -68.659500004310
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (NP (NN um))))))
+-23.100020742042 -68.417629037381
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADVP (JJ true)) (ADJP (JJ um)))))
+-23.373695005446 -69.283255902785
+(S1 (S (NP (IN that)) (VP (VBZ 's) (ADJP (JJ true) (NP (CD um))))))
+-23.387992555707 -67.915731278047
+(S1 (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)) (S (NP (NNS um))))))
+

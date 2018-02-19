@@ -1,0 +1,102 @@
+50 x
+-16.892422464317 -62.420367393802
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (NP (JJ front) (NN desk)))))
+-18.015401977703 -64.927842336466
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (NP (JJ front) (NN desk))))))
+-18.837553101992 -68.643185505382
+(S1 (S (CC and) (NP (PRP I)) (VP (VBN worked) (NP (JJ front) (NN desk)))))
+-20.746216353612 -70.159627999695
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD worked) (NP (JJ front) (NN desk))))))
+-20.794499627522 -73.172521442807
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBN worked) (NP (JJ front) (NN desk))))))
+-20.975957698730 -74.124663531353
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (NP (NN front) (NN desk)))))
+-21.046988571837 -68.502950424566
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (S (NP (JJ front) (NN desk))))))
+-21.203005835457 -71.182163589191
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBN worked) (NP (JJ front) (NN desk)))))
+-21.454484215477 -72.490034994875
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD worked) (NP (JJ front) (NN desk)))))
+-21.747711399446 -75.744977436206
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (VP (NP (JJ front) (NN desk))))))
+-21.927794240542 -74.857034197736
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VBD worked) (NP (JJ front) (NN desk))))))
+-21.938162039952 -72.395343607020
+(S1 (S (CC and) (NP (PRP I)) (VP (VBN worked) (S (NP (JJ front) (NN desk))))))
+-21.971733543951 -77.034913393988
+(S1 (S (CC and) (NP (NN I)) (VP (VBD worked) (NP (JJ front) (NN desk)))))
+-21.991452644721 -73.570230040313
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBN worked) (NP (JJ front) (NN desk))))))
+-22.082765527344 -75.842985137651
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (ADVP (RB front)) (NP (NN desk)))))
+-22.212593099328 -76.632138474016
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (NP (NN front) (NN desk))))))
+-22.285366336648 -71.010425348342
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (S (NP (JJ front) (NN desk)))))))
+-22.478813917347 -78.725401194702
+(S1 (S (CC and) (NP (NN I)) (VP (VBN worked) (NP (JJ front) (NN desk)))))
+-22.521984856335 -80.070701201507
+(S1 (S (CC and) (NP (PRP I)) (VP (VBN worked) (NP (NN front) (NN desk)))))
+-22.524314453306 -77.728335535332
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (NP (JJ front) (NN desk)))))))
+-22.680668441507 -74.594403677930
+(S1 (S (NP (CC and) (PRP I)) (VP (VBD worked) (NP (JJ front) (NN desk)))))
+-22.728956570489 -79.624975931578
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (NP (RB front) (NN desk)))))
+-22.817764670854 -72.857504865068
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (SBAR (S (NP (JJ front) (NN desk)))))))
+-22.875685896591 -78.252452258085
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (VP (NP (JJ front) (NN desk)))))))
+-23.140277827277 -78.350459965631
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (ADVP (RB front)) (NP (NN desk))))))
+-23.339916186660 -80.279024932154
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (NP (ADVP (RB front)) (NN desk)))))
+-23.420390468825 -78.559963373520
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (NP (NP (NN front)) (VP (NN desk))))))
+-23.445020406251 -78.022316830929
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (ADVP (JJ front) (NN desk)))))
+-23.526617884490 -80.117634570660
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (ADVP (RB front)) (VP (NN desk)))))
+-23.639966344720 -77.974209316546
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (NP (NN front)) (NP (NN desk)))))
+-23.747064155295 -77.933431286073
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (ADVP (JJ front)) (NP (NN desk)))))
+-23.786567831873 -80.026140889731
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (VP (NN front) (NP (NN desk))))))
+-23.841633822879 -79.092771266415
+(S1 (S (CC and) (NP (NP (NN I)) (VP (VBD worked) (NP (JJ front) (NN desk))))))
+-23.865284340155 -79.224358353685
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (VP (JJ front) (NP (NN desk))))))
+-23.879346888996 -76.924679612414
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBN worked) (S (NP (JJ front) (NN desk)))))))
+-23.881895120560 -78.772923619588
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (ADJP (JJ front)) (NP (NN desk)))))
+-23.956998024472 -77.711648181533
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (RB front) (NP (NN desk)))))
+-23.969761834671 -78.686835645353
+(S1 (S (NP (CC and) (PRP I)) (VP (VBN worked) (NP (JJ front) (NN desk)))))
+-24.025840036068 -77.903311823614
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (RB front) (VP (NN desk)))))
+-24.054914557174 -79.504537037676
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (S (VP (NN front) (NP (NN desk)))))))
+-24.080334535211 -75.364979677179
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (SBAR (S (NP (JJ front) (NN desk))))))))
+-24.132026088998 -78.047404674466
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD worked) (S (NP (NN front) (NN desk))))))
+-24.140407498350 -78.835378014973
+(S1 (FRAG (CC and) (NP (NP (PRP I)) (VP (VBD worked) (NP (JJ front) (NN desk))))))
+-24.303614773417 -74.934321690829
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBN worked) (S (NP (JJ front) (NN desk))))))
+-24.929724108297 -80.219123183202
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (RB front) (NP (NN desk))))))
+-25.049032483435 -76.242211111750
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD worked) (S (NP (JJ front) (NN desk)))))))
+-25.104539439469 -77.322388149722
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBN worked) (S (NP (JJ front) (NN desk)))))))
+-25.109507194803 -80.410786730155
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD worked) (RB front) (VP (NN desk))))))
+-25.257323350831 -79.191756238267
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (VP (VBD worked) (NP (JJ front) (NN desk))))))
+-25.608100712785 -78.572618025639
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD worked) (S (NP (JJ front) (NN desk))))))
+

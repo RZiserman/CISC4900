@@ -1,0 +1,102 @@
+50 x
+-12.474593872050 -48.487923116196
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it))))))
+-14.255013550569 -51.182195748547
+(S1 (S (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it)))))))
+-15.052570090879 -54.247756432744
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it))))))))
+-15.119059980558 -54.459160867506
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it))))))))
+-15.674300053036 -53.001300199628
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it)))))))
+-16.428573298737 -56.825940924355
+(S1 (S (CC and) (NP (PRP they)) (MD should) (VP (VB study) (NP (PRP it)))))
+-16.643004039188 -62.848381504026
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (VP (VBP study) (NP (PRP it))))))
+-16.704735085561 -56.949496507109
+(S1 (S (CC and) (NP (PRP they)) (MD should) (VP (VBP study) (NP (PRP it)))))
+-16.836491664567 -58.118202144103
+(S1 (FRAG (S (CC and) (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it)))))))
+-16.838445648667 -64.554028608248
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (VP (NN study) (NP (PRP it))))))
+-17.679458838302 -57.917460845554
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (VP (VB study) (S (NP (PRP it)))))))
+-17.702251037541 -59.469000540560
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (S (VP (VB study) (NP (PRP it)))))))
+-17.906843903729 -62.451347376189
+(S1 (S (NP (CC and) (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it))))))
+-18.106119804149 -61.287904121337
+(S1 (S (NP (CC and) (NP (PRP they))) (VP (MD should) (VP (VB study) (NP (PRP it))))))
+-18.220624850599 -62.927737019269
+(S1 (S (CC and) (NP (PRP they)) (MD should) (VP (NN study) (NP (PRP it)))))
+-18.295089590495 -65.542654136377
+(S1 (S (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VBP study) (NP (PRP it)))))))
+-18.392037057186 -67.248301240599
+(S1 (S (CC and) (S (NP (PRP they)) (VP (MD should) (VP (NN study) (NP (PRP it)))))))
+-18.839031469803 -63.828143880462
+(S1 (FRAG (S (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it))))))))
+-19.218319900805 -68.608214820574
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VBP study) (NP (PRP it))))))))
+-19.320032426545 -62.163273104304
+(S1 (S (CC and) (S (NP (PRP they)) (VP (MD should) (S (VP (VB study) (NP (PRP it))))))))
+-19.375517040484 -68.819619255336
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VBP study) (NP (PRP it))))))))
+-19.379111522496 -70.313861924796
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (NN study) (NP (PRP it))))))))
+-19.520912600821 -60.611733477905
+(S1 (S (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VB study) (S (NP (PRP it))))))))
+-19.574871762174 -70.525266359558
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (NN study) (NP (PRP it))))))))
+-20.012360800837 -68.887287753496
+(S1 (FRAG (S (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it)))))))))
+-20.036987402962 -67.361758587458
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VBP study) (NP (PRP it)))))))
+-20.276290629653 -69.067405691680
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (MD should) (VP (NN study) (NP (PRP it)))))))
+-20.305737897520 -65.228833893802
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (S (VP (VB study) (NP (PRP it)))))))))
+-20.411266441131 -63.677294162102
+(S1 (S (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VB study) (S (NP (PRP it)))))))))
+-20.477756330809 -63.888698596864
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VB study) (S (NP (PRP it)))))))))
+-20.526759898528 -70.467878106197
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (S (VP (NN study) (NP (PRP it)))))))
+-20.607765987199 -65.440238328563
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP they)) (VP (MD should) (S (VP (VB study) (NP (PRP it)))))))))
+-20.744331343312 -69.750940940545
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (VP (VBP study) (S (NP (PRP it)))))))
+-20.974306403287 -62.430837928986
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VB study) (S (NP (PRP it))))))))
+-20.985915329677 -63.982377660685
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (MD should) (S (VP (VB study) (NP (PRP it))))))))
+-21.164565150779 -65.039963494605
+(S1 (S (CC and) (NP (PRP they)) (MD should) (VP (VB study) (S (NP (PRP it))))))
+-21.207870314570 -63.868823121205
+(S1 (S (CC and) (NP (PRP they)) (MD should) (VP (VBP study) (S (NP (PRP it))))))
+-21.246141985143 -66.983056045559
+(S1 (FRAG (S (NP (CC and) (PRP they)) (VP (MD should) (VP (VB study) (NP (PRP it)))))))
+-21.359016411991 -69.595168231450
+(S1 (FRAG (S (CC and) (NP (PRP they)) (MD should) (VP (VB study) (NP (PRP it))))))
+-21.557032502767 -66.219982318265
+(S1 (FRAG (S (NP (CC and) (NP (PRP they))) (VP (MD should) (VP (VB study) (NP (PRP it)))))))
+-21.880280829430 -70.597924301368
+(S1 (FRAG (S (CC and) (NP (PRP they)) (MD should) (VP (VBP study) (NP (PRP it))))))
+-22.007061214819 -67.547739873461
+(S1 (FRAG (S (CC and) (NP (PRP they)) (VP (MD should) (VP (VB study) (S (NP (PRP it))))))))
+-22.023027073996 -69.099279605160
+(S1 (FRAG (S (CC and) (NP (PRP they)) (VP (MD should) (S (VP (VB study) (NP (PRP it))))))))
+-22.530038577831 -72.445213572896
+(S1 (S (CC and) (S (NP (PRP they)) (VP (MD should) (VP (VBP study) (S (NP (PRP it))))))))
+-22.602806886004 -67.683023423297
+(S1 (S (CC and) (NP (PRP they)) (VP (MD should) (S (VP (VB study) (S (NP (PRP it))))))))
+-23.111708869981 -71.880885105547
+(S1 (S (NP (CC and) (PRP they)) (VP (MD should) (VP (VB study) (S (NP (PRP it)))))))
+-23.310984770401 -70.717441850695
+(S1 (S (NP (CC and) (NP (PRP they))) (VP (MD should) (VP (VB study) (S (NP (PRP it)))))))
+-23.329819532427 -72.268981545700
+(S1 (S (NP (CC and) (NP (PRP they))) (VP (MD should) (S (VP (VB study) (NP (PRP it)))))))
+-24.220588277796 -70.377295987042
+(S1 (S (CC and) (S (NP (PRP they)) (VP (MD should) (S (VP (VB study) (S (NP (PRP it)))))))))
+-25.884841197141 -72.196400543423
+(S1 (FRAG (CC and) (S (NP (PRP they)) (VP (MD should) (S (VP (VB study) (S (NP (PRP it)))))))))
+

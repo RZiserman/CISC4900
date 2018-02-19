@@ -1,0 +1,102 @@
+50 x
+-20.030355228363 -72.452277181146
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (JJ fresh) (JJ next) (NN week))))))
+-22.075998951346 -81.803980466920
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (S (VP (JJ fresh) (NP (JJ next) (NN week))))))))
+-22.118932912715 -76.830152238880
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (NP (JJ fresh) (JJ next) (NN week))))))
+-22.625555461027 -82.198096621573
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADJP (JJ fresh)) (NP (JJ next) (NN week))))))
+-23.054083721631 -78.804694158609
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (NP (JJ fresh) (JJ next) (NN week))))))
+-23.247012016851 -82.743480219773
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (JJ fresh)) (NP (JJ next) (NN week))))))
+-23.300106941573 -83.536772339776
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (VP (JJ fresh) (NP (JJ next) (NN week)))))))
+-23.560802723234 -85.637213244073
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (S (VP (JJ fresh) (NP (JJ next) (NN week))))))))
+-24.170633141506 -83.412984682932
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADVP (JJ fresh)) (NP (JJ next) (NN week))))))
+-24.368336757590 -86.128319906658
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (S (ADJP (JJ fresh)) (NP (JJ next) (NN week)))))))
+-24.543316233004 -84.638338080779
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (S (ADJP (JJ fresh) (NP (JJ next) (NN week))))))))
+-24.568809866900 -83.600957333986
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADJP (JJ fresh) (NP (JJ next) (NN week)))))))
+-24.809385164014 -86.894992290907
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (PP (JJ fresh) (NP (JJ next) (NN week)))))))
+-25.029672287326 -88.156397444583
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (S (VP (JJ fresh) (NP (JJ next) (NN week))))))))
+-25.238537755290 -83.799281992410
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (S (NP (JJ fresh) (JJ next) (NN week)))))))
+-25.608463974780 -83.505860947315
+(S1 (S (NP (PRP I)) (MD 'll) (RB just) (VP (VB start) (NP (JJ fresh) (JJ next) (NN week)))))
+-25.611511648053 -88.550513473433
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (ADJP (JJ fresh)) (NP (JJ next) (NN week))))))
+-25.740982720389 -87.461700914772
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VBP start) (NP (JJ fresh) (JJ next) (NN week))))))
+-25.847561608978 -89.961552683812
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (S (ADJP (JJ fresh)) (NP (JJ next) (NN week)))))))
+-25.856262045665 -85.603956539677
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (RB just) (VB start) (NP (JJ fresh) (JJ next) (NN week))))))
+-25.863920823628 -85.738360012768
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADJP (JJ fresh)) (NP (IN next) (NN week))))))
+-25.994445902517 -86.236726034443
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (S (VP (JJ fresh) (NP (IN next) (NN week))))))))
+-26.017995693055 -89.338697576511
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (NP (JJ fresh)) (NP (JJ next) (NN week))))))
+-26.022541087180 -88.471570857932
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (S (ADJP (JJ fresh) (NP (JJ next) (NN week))))))))
+-26.090368874278 -85.230870374416
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (ADJP (JJ fresh)) (JJ next) (NN week))))))
+-26.254764130416 -89.889189337576
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (VP (JJ fresh) (NP (JJ next) (NN week)))))))
+-26.270740529633 -89.095897269762
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (NP (JJ fresh)) (NP (JJ next) (NN week))))))
+-26.322674225816 -86.283743641765
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (JJ fresh)) (NP (IN next) (NN week))))))
+-26.482749145631 -87.840151494811
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (NP (JJ fresh)) (NP (JJ next) (NN week)))))))
+-26.565305832555 -86.337801017464
+(S1 (S (NP (PRP I)) (MD 'll) (RB just) (VP (VBP start) (NP (JJ fresh) (JJ next) (NN week)))))
+-26.578122192333 -89.821751565915
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VBP start) (NP (JJ fresh) (JJ next) (NN week))))))
+-26.593849080717 -88.396042824355
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (NP (JJ fresh)) (JJ next) (NN week))))))
+-26.713421189466 -87.632514769563
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (S (NP (JJ fresh) (JJ next) (NN week)))))))
+-26.974681336089 -87.884536696650
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADJP (JJ fresh)) (PP (IN next) (NP (NN week)))))))
+-27.018967393223 -84.050343473183
+(S1 (S (NP (PRP I)) (MD 'll) (VP (ADVP (RB just)) (VBP start) (NP (JJ fresh) (JJ next) (NN week)))))
+-27.063053190985 -89.976903371634
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (ADJP (JJ fresh) (NP (JJ next) (NN week)))))))
+-27.123633410987 -86.953247841609
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADVP (JJ fresh)) (NP (IN next) (NN week))))))
+-27.140390836105 -89.765401876127
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (ADVP (JJ fresh)) (NP (JJ next) (NN week))))))
+-27.447879345342 -90.024252303860
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADJP (JJ fresh) (PP (IN next) (NP (NN week))))))))
+-27.461545077193 -90.069958811597
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (S (VP (JJ fresh) (NP (IN next) (NN week))))))))
+-27.480772382973 -90.075283556514
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (S (ADJP (JJ fresh) (PP (IN next) (NP (NN week)))))))))
+-27.491115015532 -87.969517907300
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (VP (JJ fresh) (NP (IN next) (NN week)))))))
+-27.554766104106 -89.953374358961
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (ADJP (JJ fresh) (NP (JJ next) (NN week)))))))
+-27.770749331665 -90.310202241976
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (ADJP (JJ fresh) (JJ next)) (NN week))))))
+-27.801626395805 -90.573421291914
+(S1 (S (NP (PRP I)) (MD 'll) (VP (ADVP (RB just)) (VB start) (NP (JJ fresh) (JJ next) (NN week)))))
+-27.947979378636 -90.433252551069
+(S1 (S (NP (PRP I)) (MD 'll) (RB just) (VP (VBP start) (VP (JJ fresh) (NP (JJ next) (NN week))))))
+-27.981583359969 -89.822004124776
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (ADVP (JJ fresh)) (PP (IN next) (NP (NN week)))))))
+-27.996470636292 -90.918510491439
+(S1 (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB start) (NP (JJ fresh)) (PP (IN next) (NP (NN week)))))))
+-28.060537506630 -89.608745432150
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (ADVP (RB just)) (VB start) (NP (ADJP (JJ fresh)) (JJ next) (NN week))))))
+-28.235016598558 -90.151698970073
+(S1 (S (NP (PRP I)) (VP (MD 'll) (RB just) (VP (VB start) (S (NP (JJ fresh) (JJ next) (NN week)))))))
+

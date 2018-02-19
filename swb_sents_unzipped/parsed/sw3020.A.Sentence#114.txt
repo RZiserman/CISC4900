@@ -1,0 +1,102 @@
+50 x
+-24.984568572233 -84.611731752646
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu))))))
+-26.100921863894 -85.512179528194
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu)))))
+-26.452045211035 -87.782047307504
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu)))))))
+-27.291607796716 -92.708841505249
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP Beijing) (NP (NNP Shanghai) (NNP Chengdu))))))))
+-27.648405555483 -88.682495101514
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu))))))
+-28.151453795297 -90.123656349516
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-28.369689977417 -94.294652320486
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went)) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu)))))
+-28.657355854679 -91.258760046751
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai))) (NP (NNP Chengdu)))))
+-28.844599191186 -95.879156853158
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP Beijing) (NP (NNP Shanghai) (NNP Chengdu)))))))))
+-28.932024214069 -92.275961855698
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu))))))
+-29.035995815190 -95.748941448197
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-29.139655951391 -93.782260044484
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NNP Shanghai) (NNP Chengdu))))))
+-29.254737466364 -96.911444012109
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NP (NNP Chengdu)))))))
+-29.618930431310 -93.293971904373
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu))))))))
+-29.894940176687 -100.999725387065
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu))))))))
+-29.919510466922 -93.418098184504
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu)))))))
+-29.967049552875 -94.934461196026
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu))))))
+-30.310497376268 -94.429075620071
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai))) (NP (NNP Chengdu))))))
+-30.409358450082 -95.446277410556
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-30.493596714611 -96.342105561262
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing) (NNP Shanghai)) (NP (NNP Chengdu)))))))
+-30.503472451203 -98.919257003055
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NP (NNP Shanghai) (NNP Chengdu))))))))
+-30.553842757660 -99.561666286970
+(S1 (S (CC and) (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu))))))
+-30.607132590192 -96.952575599342
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NNP Shanghai) (NNP Chengdu)))))))
+-30.646638722129 -97.092664349902
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu)))))))
+-30.722214113528 -100.081759566967
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NP (NNP Chengdu))))))))
+-30.800844799841 -101.793642823863
+(S1 (S (CC and) (NP (PRP I)) (VP (VP (VBD went)) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu))))))
+-30.965126627692 -96.986072568762
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai)) (NP (NNP Chengdu))))))
+-31.056490811190 -94.318545788826
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu))))))
+-31.083402841748 -95.834908971574
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu)))))
+-31.083432776707 -99.819790333101
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went)) (PP (TO to) (NP (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu))))))
+-31.201245363117 -97.038829879080
+(S1 (S (NP (CC and) (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu))))))
+-31.243336986107 -102.066923516394
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (VP (TO to) (VP (NNP Beijing) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-31.505962909557 -100.562146842153
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu))))))))
+-31.594229057684 -100.462114062518
+(S1 (S (CC and) (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu)))))
+-31.762991963609 -97.993111954225
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu))))))
+-31.935221527178 -99.659150955579
+(S1 (S (CC and) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing) (NNP Shanghai)) (NNP Chengdu))))))
+-31.961073353413 -99.512421116119
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing) (NNP Shanghai)) (NP (NNP Chengdu))))))))
+-32.317598651989 -97.939277654628
+(S1 (S (NP (CC and) (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu)))))
+-32.340532124498 -101.515207704461
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP Beijing) (NP (NNP Shanghai) (NNP Chengdu)))))))))
+-32.442460858130 -100.156388123619
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai)) (NP (NNP Chengdu)))))))
+-32.702323256793 -101.462594636163
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-33.086395689986 -98.930022781373
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu))))))))
+-33.133934775938 -100.446385792895
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-33.612924799188 -100.065126307383
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai))) (NP (NNP Chengdu))))))
+-33.639836835320 -101.581489490131
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai))) (NP (NNP Chengdu)))))
+-33.866966111546 -101.082328287556
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-34.074597854443 -102.588626476342
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NNP Shanghai) (NNP Chengdu)))))))
+-34.368130591755 -102.550754475950
+(S1 (S (NP (CC and) (PRP I)) (VP (VBD went) (PP (TO to) (NP (NP (NNP Beijing)) (NP (NNP Shanghai) (NNP Chengdu)))))))
+-34.387233562989 -101.608318610552
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (PP (TO to) (NP (NNP Beijing) (NNP Shanghai) (NNP Chengdu)))))))
+-35.503586804470 -102.508766214875
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (VP (VBD went) (PP (TO to) (NP (NNP Beijing))) (NP (NNP Shanghai) (NNP Chengdu))))))
+

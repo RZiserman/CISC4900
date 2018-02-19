@@ -1,0 +1,42 @@
+20 x
+-12.504671182666 -40.595688479412
+(S1 (S (NP (DT Some) (NNS buildings)) (VP (VBP do))))
+-13.481181384135 -47.339435273407
+(S1 (NP (DT Some) (NNS buildings) (VB do)))
+-14.127353644249 -47.299629685835
+(S1 (S (NP (DT Some) (NNS buildings)) (VP (VB do))))
+-16.292143147086 -49.997887892634
+(S1 (S (NP (DT Some) (NNS buildings) (VB do))))
+-17.306727936746 -57.690379157047
+(S1 (NP (NP (DT Some) (NNS buildings)) (VP (VBP do))))
+-17.451179022921 -59.887495969757
+(S1 (NP (NP (DT Some) (NNS buildings)) (VP (VB do))))
+-18.589151840862 -57.991581026303
+(S1 (S (NP (NP (DT Some)) (NNS buildings)) (VP (VBP do))))
+-18.666879477386 -53.723699516999
+(S1 (S (NP (DT Some) (NX (NNS buildings))) (VP (VBP do))))
+-19.507996581164 -62.872676772332
+(S1 (S (NP (NP (DT Some) (NNS buildings)) (VP (VB do)))))
+-19.689825009888 -60.593090101330
+(S1 (S (NP (NP (DT Some) (NNS buildings)) (VP (VBP do)))))
+-20.420683887339 -60.966578514720
+(S1 (S (NP (DT Some) (NX (NNS buildings))) (VP (VB do))))
+-20.690470097067 -64.423813945285
+(S1 (S (NP (NP (DT Some)) (NNS buildings)) (VP (VB do))))
+-22.668146325940 -72.121514296112
+(S1 (NP (NP (NP (DT Some)) (NNS buildings)) (VP (VBP do))))
+-22.969388772115 -74.318631108822
+(S1 (NP (NP (NP (DT Some)) (NNS buildings)) (VP (VB do))))
+-23.211702660308 -68.807520552629
+(S1 (NP (NP (DT Some) (NX (NNS buildings))) (VP (VBP do))))
+-23.337031162271 -71.004637365339
+(S1 (NP (NP (DT Some) (NX (NNS buildings))) (VP (VB do))))
+-24.893982918902 -77.303812124592
+(S1 (S (NP (NP (NP (DT Some)) (NNS buildings)) (VP (VB do)))))
+-24.919019987626 -75.024225453590
+(S1 (S (NP (NP (NP (DT Some)) (NNS buildings)) (VP (VBP do)))))
+-25.769794727078 -75.019577247402
+(S1 (S (NP (NP (DT Some) (NX (NNS buildings))) (VP (VB do)))))
+-25.970745742802 -72.739990576400
+(S1 (S (NP (NP (DT Some) (NX (NNS buildings))) (VP (VBP do)))))
+

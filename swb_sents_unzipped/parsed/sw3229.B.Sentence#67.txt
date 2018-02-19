@@ -1,0 +1,102 @@
+50 x
+-29.471881397134 -100.885827874422
+(S1 (S (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))) (NP (NNP Cheryl))))))
+-29.977679957600 -101.482481857683
+(S1 (S (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl)))))))
+-30.170598541831 -99.096090310958
+(S1 (FRAG (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))) (NP (NNP Cheryl))))))
+-30.427715629873 -100.007668922920
+(S1 (SINV (ADJP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you)))) (NP (NNP Cheryl))))
+-30.711351167300 -101.999027629553
+(S1 (S (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)) (NP (NNP Cheryl)))))))
+-30.718294701812 -99.692744381102
+(S1 (FRAG (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl)))))))
+-31.064988686153 -101.018979388667
+(S1 (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))) (NP (NNP Cheryl))))))
+-31.338619713021 -94.805485649485
+(S1 (FRAG (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-31.442108344966 -100.209290152972
+(S1 (FRAG (ADJP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)) (NP (NNP Cheryl)))))))
+-31.571604718741 -101.615633318835
+(S1 (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl)))))))
+-32.028108136264 -97.728553917059
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))) (NP (NNP Cheryl)))))))
+-32.305275956319 -102.132179090705
+(S1 (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)) (NP (NNP Cheryl)))))))
+-32.492375273488 -99.118842678482
+(S1 (S (ADJP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-32.567135495524 -99.316696182636
+(S1 (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))) (NP (NNP Cheryl)))))
+-32.587625293456 -98.325207984500
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl))))))))
+-32.722203589150 -100.505849971481
+(S1 (S (ADJP (RB Well) (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl))))))
+-32.871564297101 -100.156924746745
+(S1 (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl))))))
+-32.922332578891 -101.438683318092
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))) (NP (NNP Cheryl))))))
+-33.014346536279 -95.076626876932
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-33.048965583635 -96.344381472640
+(S1 (S (ADJP (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-33.235208868347 -101.698602520763
+(S1 (SINV (VP (ADVP (RB Well) (JJ nice)) (VBG talking) (PP (TO to) (NP (PRP you)))) (NP (NNP Cheryl))))
+-33.275671172116 -102.150558265608
+(S1 (SINV (ADVP (RB Well)) (ADJP (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you)))) (NP (NNP Cheryl))))
+-33.311438925459 -98.841753756370
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)) (NP (NNP Cheryl))))))))
+-33.319744078043 -99.882343285591
+(S1 (NP (ADJP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NNP Cheryl)))
+-33.470028747235 -102.035337388236
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl)))))))
+-33.595377906802 -100.673470422978
+(S1 (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you)) (NP (NNP Cheryl))))))
+-33.798453809669 -99.632145568040
+(S1 (NP (ADJP (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))) (NNP Cheryl)))
+-33.938999701546 -97.161092100663
+(S1 (FRAG (ADVP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-34.025569700067 -99.433430327135
+(S1 (S (ADJP (RB Well) (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))) (NP (NNP Cheryl))))
+-34.136391521731 -97.248689952013
+(S1 (NP (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-34.297938016353 -95.398146233783
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-34.299548358890 -98.237277242664
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-34.332359208570 -100.771911869284
+(S1 (S (ADJP (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you) (NNP Cheryl)))))))
+-34.692682719586 -98.635052193111
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-34.976537423408 -99.769825354240
+(S1 (FRAG (NP (RB Well) (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-35.061712401997 -101.885970649106
+(S1 (NP (ADJP (RB Well) (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))) (NNP Cheryl)))
+-35.195791980625 -101.678038817804
+(S1 (NP (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-35.354452818536 -102.085107843901
+(S1 (S (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-35.374481786306 -100.694832105545
+(S1 (FRAG (RB Well) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-35.407487964080 -101.877101892183
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice) (VBG talking) (PP (TO to) (NP (PRP you)))) (NP (NNP Cheryl))))
+-35.489832797730 -101.424993773858
+(S1 (NP (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NNP Cheryl)))
+-35.604827428418 -101.733505828286
+(S1 (NP (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NNP Cheryl)))
+-35.716395559509 -100.426861458343
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))) (NP (NNP Cheryl))))
+-36.066587753543 -100.760462728702
+(S1 (FRAG (ADJP (ADVP (RB Well)) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-36.177111648063 -98.800416913817
+(S1 (FRAG (ADVP (RB Well)) (ADJP (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-36.303039863915 -100.755099337336
+(S1 (NP (NP (NP (QP (RB Well) (JJ nice))) (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-36.340408784727 -101.498331146597
+(S1 (FRAG (ADJP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (ADVP (NNP Cheryl))))
+-36.360234423963 -101.893106453681
+(S1 (FRAG (NP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (NP (NNP Cheryl))))
+-36.399468765024 -101.304697928410
+(S1 (FRAG (NP (NP (RB Well) (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))) (NP (NNP Cheryl))))
+-36.852711861956 -101.634718322904
+(S1 (FRAG (ADVP (RB Well) (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))) (ADVP (NNP Cheryl))))
+

@@ -1,0 +1,102 @@
+50 x
+-41.568995650995 -139.705959293097
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (NNP Gee) (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-41.754044363691 -141.499638479615
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)) (SBAR (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-42.105218737830 -137.641424338664
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-42.342883850170 -139.667857607016
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH Gee)) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-43.000617544917 -141.464650615965
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (NNP Gee) (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-43.036492919023 -137.947573231642
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-43.054120958735 -141.210674547589
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (NNP Gee) (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (ADVP (RB back)) (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-43.449591307803 -141.835366489991
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (NNP Gee) (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back))) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-43.497786616201 -139.192164682535
+(S1 (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee) (SBAR (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-43.568204881448 -139.146139593157
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (ADVP (RB back)) (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-43.618469018591 -140.022683255067
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PRT (RP back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-43.621513623053 -142.049116523418
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH Gee)) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PRT (RP back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-43.754223267630 -139.400115661532
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-43.774505744093 -141.426548929884
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH Gee)) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-43.828009185789 -141.172572861508
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH Gee)) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (ADVP (RB back)) (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-43.855797861313 -138.943919376346
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-43.963675202638 -139.770831535558
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back))) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-44.142537351665 -142.055453072931
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PRT (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-44.223479506979 -141.797264803910
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH Gee)) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back))) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))
+-44.421040055076 -140.557980219530
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything) (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-44.499479062641 -139.452288486135
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (ADVP (RB back)) (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-44.549743171906 -140.328832148045
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PRT (RP back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-44.602661101083 -141.633795055479
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))
+-44.685497448823 -139.706264554510
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-44.738586823453 -141.524225120530
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-44.776416389084 -141.573423598937
+(S1 (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee) (SBAR (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PRT (RP back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-44.812188062978 -142.033036291905
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (NNP Gee) (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-44.894949383831 -140.076980428536
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back))) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-44.929408510124 -140.950856005403
+(S1 (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee) (SBAR (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))))
+-44.982911923942 -140.696879937027
+(S1 (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee) (SBAR (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (ADVP (RB back)) (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-45.059368688919 -141.949397249111
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RP back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-45.150297712512 -140.754555571156
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-45.259447987590 -141.405273764026
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (RB back) (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-45.318783977053 -140.448634630838
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (ADVP (RB back)) (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-45.352314236269 -140.864129112508
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything) (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-45.369048114196 -141.325178292748
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PRT (RP back)) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-45.378382273010 -141.321571879428
+(S1 (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee) (SBAR (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back))) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-45.400750186710 -142.044553839169
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADJP (RB back))) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-45.504802363235 -140.702610699214
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-45.533935254398 -141.939943948458
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))
+-45.565793757813 -139.968501337473
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (NNP Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-45.586076262153 -141.994934605824
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (INTJ (UH Gee)) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))))))
+-45.669861004646 -141.830374013508
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-45.714254326121 -141.073326573240
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything)) (ADVP (RB back))) (PP (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-46.081571893705 -141.060704464135
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-46.171619178559 -141.860475257212
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NP (NN anything) (RB back)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-46.190722168783 -141.711422657004
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (PP (RB back) (IN for) (NP (DT a) (JJ long) (NN time)))))))
+-46.497067939006 -140.274650230451
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (INTJ (UH Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+-46.740979028184 -141.519241681343
+(S1 (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee) (SBAR (S (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))))))
+-47.316372881296 -141.270996375154
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ Gee)))) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN taken) (NP (NN anything)) (ADVP (RP back) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))))
+

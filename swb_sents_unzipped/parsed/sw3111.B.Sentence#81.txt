@@ -1,0 +1,102 @@
+50 x
+-10.151590090631 -35.362780719415
+(S1 (NP (DT the) (NN drug) (NN culture)))
+-12.255940116882 -38.841459539616
+(S1 (FRAG (NP (DT the) (NN drug) (NN culture))))
+-13.580432858353 -40.819962429516
+(S1 (S (NP (DT the) (NN drug) (NN culture))))
+-14.168097067885 -45.448360697147
+(S1 (S (NP (DT the) (NN drug)) (VP (NN culture))))
+-14.347402906227 -45.613879646692
+(S1 (NP (NP (DT the) (NN drug)) (NN culture)))
+-14.674963357375 -44.358881741945
+(S1 (X (NP (DT the) (NN drug) (NN culture))))
+-15.392680372139 -47.801140822460
+(S1 (NP (NP (DT the) (NN drug)) (NP (NN culture))))
+-15.487388366797 -46.998131783001
+(S1 (S (NP (DT the) (NN drug)) (NP (NN culture))))
+-15.849132670818 -47.008692856851
+(S1 (FRAG (NP (DT the) (NN drug)) (NP (NN culture))))
+-16.135751341738 -45.935551320625
+(S1 (S (NP (DT the) (NN drug)) (ADJP (NN culture))))
+-16.165345923886 -50.013677801274
+(S1 (NP (NP (DT the) (NN drug)) (VP (NN culture))))
+-16.854192938247 -47.993843265720
+(S1 (NP (NP (DT the)) (NN drug) (NN culture)))
+-17.572776845850 -56.984327147354
+(S1 (S (NP (DT the) (NN drug)) (VP (NP (NN culture)))))
+-17.665055389075 -51.076360606957
+(S1 (FRAG (NP (NP (DT the) (NN drug)) (NP (NN culture)))))
+-17.802210224550 -49.926114207422
+(S1 (X (NP (DT the) (NN drug)) (NP (NN culture))))
+-18.030971120792 -51.825333160881
+(S1 (FRAG (NP (NP (DT the) (NN drug)) (VP (NN culture)))))
+-18.520840281618 -54.988346574472
+(S1 (FRAG (NP (NP (DT the) (NN drug)) (NN culture))))
+-18.877932296364 -53.959923604202
+(S1 (S (NP (NP (DT the) (NN drug)) (VP (NN culture)))))
+-18.966586923622 -54.183396282756
+(S1 (S (NP (NP (DT the) (NN drug)) (NN culture))))
+-19.036835465006 -56.680723324348
+(S1 (FRAG (S (NP (DT the) (NN drug) (NN culture)))))
+-19.240243120773 -60.387721296286
+(S1 (NP (NP (DT the) (NN drug)) (VP (NP (NN culture)))))
+-19.745826191529 -56.644973673297
+(S1 (X (NP (NP (DT the) (NN drug)) (VP (NN culture)))))
+-20.042060410520 -56.854863887089
+(S1 (X (NP (NP (DT the) (NN drug)) (NP (NN culture)))))
+-20.113146666258 -59.045110011787
+(S1 (X (NP (NP (DT the) (NN drug)) (NN culture))))
+-20.294583551261 -57.112421488894
+(S1 (S (NP (NP (DT the) (NN drug)) (NP (NN culture)))))
+-20.531930343753 -56.096454238677
+(S1 (FRAG (NP (NP (DT the)) (NN drug) (NN culture))))
+-20.836286148530 -60.601626024026
+(S1 (FRAG (S (NP (DT the) (NN drug)) (VP (NN culture)))))
+-21.105868317678 -62.199376655893
+(S1 (FRAG (NP (NP (DT the) (NN drug)) (VP (NP (NN culture))))))
+-21.401914446819 -62.451726518459
+(S1 (FRAG (S (NP (DT the) (NN drug)) (NP (NN culture)))))
+-21.780453609013 -57.947799402673
+(S1 (S (NP (NP (DT the)) (NN drug) (NN culture))))
+-21.954684503251 -64.333967099215
+(S1 (S (NP (NP (DT the) (NN drug)) (VP (NP (NN culture))))))
+-22.432119743338 -61.186875710278
+(S1 (X (NP (NP (DT the)) (NN drug) (NN culture))))
+-22.650868200280 -63.979870271016
+(S1 (NP (NP (NP (DT the)) (NN drug)) (NN culture)))
+-22.776469551723 -62.714730530123
+(S1 (FRAG (S (NP (DT the) (NN drug)) (ADJP (NN culture)))))
+-22.820723388415 -67.019017168309
+(S1 (X (NP (NP (DT the) (NN drug)) (VP (NP (NN culture))))))
+-22.822993188536 -62.792924358141
+(S1 (NP (NP (NP (DT the)) (NN drug)) (NP (NN culture))))
+-23.287408650402 -64.644415149675
+(S1 (S (NP (NP (DT the)) (NN drug)) (VP (NN culture))))
+-23.993870731236 -64.547844360494
+(S1 (FRAG (NP (NP (DT the)) (NN drug)) (NP (NN culture))))
+-24.172500246964 -71.888775054365
+(S1 (FRAG (S (NP (DT the) (NN drug)) (VP (NP (NN culture))))))
+-24.259691853917 -69.550091777194
+(S1 (FRAG (S (NP (NP (DT the) (NN drug)) (VP (NN culture))))))
+-24.488989452101 -66.194186235529
+(S1 (S (NP (NP (DT the)) (NN drug)) (NP (NN culture))))
+-24.538261470807 -70.044156979701
+(S1 (FRAG (S (NP (NP (DT the) (NN drug)) (NN culture)))))
+-24.559006300027 -68.379668425598
+(S1 (NP (NP (NP (DT the)) (NN drug)) (VP (NN culture))))
+-25.059442231907 -66.068144042187
+(S1 (FRAG (NP (NP (NP (DT the)) (NN drug)) (NP (NN culture)))))
+-25.165139303255 -65.131605773154
+(S1 (S (NP (NP (DT the)) (NN drug)) (ADJP (NN culture))))
+-25.778128530863 -67.316075463726
+(S1 (X (NP (NP (DT the)) (NN drug)) (NP (NN culture))))
+-26.401837804449 -70.191323935421
+(S1 (FRAG (NP (NP (NP (DT the)) (NN drug)) (VP (NN culture)))))
+-27.073750880022 -72.325914382244
+(S1 (S (NP (NP (NP (DT the)) (NN drug)) (VP (NN culture)))))
+-27.253550870334 -72.104205046229
+(S1 (S (NP (NP (NP (DT the)) (NN drug)) (NP (NN culture)))))
+-27.361266378262 -71.846647228959
+(S1 (X (NP (NP (NP (DT the)) (NN drug)) (NP (NN culture)))))
+

@@ -1,0 +1,102 @@
+50 x
+-27.700222863434 -100.041691689607
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (IN like) (PP (IN for) (NP (DT a) (NN year)))))))))
+-28.780033383906 -104.269686420504
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (SBAR (S (VP (VBP like) (PP (IN for) (NP (DT a) (NN year)))))))))))
+-29.136134717071 -106.366767116891
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (ADVP (IN like)) (PP (IN for) (NP (DT a) (NN year))))))))
+-29.171157843375 -104.359961229353
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship) (VB like)) (PP (IN for) (NP (DT a) (NN year))))))))
+-29.624236936405 -105.772858837983
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship) (IN like)) (PP (IN for) (NP (DT a) (NN year))))))))
+-29.643400341413 -106.936083239434
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (IN like)) (PP (IN for) (NP (DT a) (NN year))))))))
+-29.711695316442 -105.609452340743
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (SBAR (IN like) (S (NP (DT a) (NN scholarship)) (VP (VB like) (PP (IN for) (NP (DT a) (NN year)))))))))
+-29.969052691188 -103.509835781221
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (ADVP (IN like) (PP (IN for) (NP (DT a) (NN year)))))))))
+-30.031026402920 -105.139561923302
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship) (JJ like)) (PP (IN for) (NP (DT a) (NN year))))))))
+-30.033321186687 -100.801980643144
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (PP (IN like) (PP (IN for) (NP (DT a) (NN year)))))))
+-30.585813199047 -105.661329201139
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (PP (IN like)) (PP (IN for) (NP (DT a) (NN year))))))
+-30.630003160675 -102.196579278613
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him))) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (IN like) (PP (IN for) (NP (DT a) (NN year))))))))
+-30.689576889723 -107.560382702467
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (SBAR (IN like) (S (PP (IN for) (NP (DT a) (NN year))))))))))
+-31.107637942944 -105.264754065759
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship)))) (VP (VB like) (PP (IN for) (NP (DT a) (NN year))))))
+-31.133893473796 -106.195087760219
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (SBAR (IN like) (S (PP (IN for) (NP (DT a) (NN year))))))))
+-31.170879265110 -107.040171945472
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (IN like) (PP (IN for) (NP (DT a) (NN year))))))))))
+-31.172555051725 -100.395184505708
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship)))) (PP (IN like) (PP (IN for) (NP (DT a) (NN year))))))
+-31.226552891568 -104.997646286160
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (ADVP (IN like)))) (PP (IN for) (NP (DT a) (NN year))))))
+-31.254816177603 -106.939266456437
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship) (SBAR (IN like) (S (PP (IN for) (NP (DT a) (NN year))))))))))
+-31.388726202628 -105.839868177762
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (ADVP (JJ like) (PP (IN for) (NP (DT a) (NN year)))))))))
+-31.442533843300 -103.787618073520
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (IN like) (NP (QP (IN for) (DT a)) (NN year))))))))
+-31.493894277495 -105.368360699954
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship) (IN like))) (PP (IN for) (NP (DT a) (NN year))))))
+-31.641568511567 -107.271273029905
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship) (SBAR (IN like) (FRAG (PP (IN for) (NP (DT a) (NN year))))))))))
+-31.662892808159 -106.633302937905
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship)))) (VP (VBP like) (PP (IN for) (NP (DT a) (NN year))))))
+-31.681318085902 -106.424574226108
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him))) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (SBAR (S (VP (VBP like) (PP (IN for) (NP (DT a) (NN year))))))))))
+-31.723623636340 -104.532541925097
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (JJ like) (IN for) (NP (DT a) (NN year))))))))
+-31.759418349162 -105.574514242616
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship) (JJ like))) (PP (IN for) (NP (DT a) (NN year))))))
+-31.811099025316 -106.632831591252
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (S (VP (VB like) (PP (IN for) (NP (DT a) (NN year))))))))
+-31.842924007802 -105.714001797485
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (IN like)))) (PP (IN for) (NP (DT a) (NN year))))))
+-32.100938140615 -106.514848818360
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him))) (PP (IN like) (NP (NP (DT a) (NN scholarship) (VB like)) (PP (IN for) (NP (DT a) (NN year)))))))
+-32.212504286899 -107.153608598176
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (IN like))) (PP (IN for) (NP (DT a) (NN year))))))
+-32.273890690143 -107.073707482491
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (PP (IN like) (IN for) (NP (DT a) (NN year))))))
+-32.325733037708 -104.273524391242
+(S1 (S (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))))) (VP (VBP like) (PP (IN for) (NP (DT a) (NN year))))))
+-32.332330377808 -107.784424397356
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (ADVP (IN like) (PP (IN for) (NP (DT a) (NN year)))))))
+-32.356260559877 -106.185181075399
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (S (NP (DT a) (NN scholarship)) (PP (IN like) (PP (IN for) (NP (DT a) (NN year)))))))))
+-32.484397977273 -107.071586973042
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (ADVP (JJ like)) (IN for) (NP (DT a) (NN year))))))))
+-32.652273526784 -106.123014128781
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (ADJP (JJ like)))) (PP (IN for) (NP (DT a) (NN year))))))
+-32.714464724239 -105.400195341608
+(S1 (S (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))))) (VP (VB like) (PP (IN for) (NP (DT a) (NN year))))))
+-32.883276086306 -105.664723548447
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him))) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (ADVP (IN like) (PP (IN for) (NP (DT a) (NN year))))))))
+-32.960806700160 -107.294449512309
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him))) (PP (IN like) (NP (NP (DT a) (NN scholarship) (JJ like)) (PP (IN for) (NP (DT a) (NN year)))))))
+-33.548391303323 -102.387455138782
+(S1 (S (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))))) (ADJP (JJ like) (PP (IN for) (NP (DT a) (NN year))))))
+-33.684397151288 -105.357871996532
+(S1 (S (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))))) (ADJP (IN like) (PP (IN for) (NP (DT a) (NN year))))))
+-33.753234647883 -107.314258873245
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (S (ADJP (JJ like) (PP (IN for) (NP (DT a) (NN year))))))))
+-33.754835945976 -107.282180249390
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship)))) (PP (IN like) (PP (IN for) (NP (DT a) (NN year)))))))
+-34.023454698936 -107.248956356031
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (ADVP (JJ like)))) (PP (IN for) (NP (DT a) (NN year))))))
+-34.174651456094 -107.188067883607
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship)))) (PP (IN like) (IN for) (NP (DT a) (NN year)))))
+-34.372314140540 -105.942505662527
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him))) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (IN like) (NP (QP (IN for) (DT a)) (NN year)))))))
+-34.653403933580 -106.687429514104
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him))) (PP (IN like) (NP (NP (DT a) (NN scholarship)) (PP (JJ like) (IN for) (NP (DT a) (NN year)))))))
+-34.758494047104 -106.766176030013
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))) (PP (IN like) (NP (QP (IN for) (DT a)) (NN year))))))
+-35.189071401328 -107.119468184356
+(S1 (S (NP (PRP They)) (VP (VBD gave) (NP (NP (PRP him)) (PP (IN like) (NP (DT a) (NN scholarship))))) (PP (IN like) (PP (IN for) (NP (DT a) (NN year))))))
+

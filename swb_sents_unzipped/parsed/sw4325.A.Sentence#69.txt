@@ -1,0 +1,102 @@
+50 x
+-18.894288683985 -65.274008534751
+(S1 (S (NP (DT Some) (NNS laws)) (ADVP (RB absolutely)) (VP (VBP prohibit) (NP (PRP it)))))
+-19.078950447777 -68.500482413099
+(S1 (S (NP (DT Some) (NNS laws)) (ADVP (RB absolutely)) (VP (VB prohibit) (NP (PRP it)))))
+-19.347736449916 -66.120739790711
+(S1 (S (NP (DT Some) (NNS laws)) (VP (ADVP (RB absolutely)) (VBP prohibit) (NP (PRP it)))))
+-20.196353948532 -72.244076548912
+(S1 (S (NP (DT Some) (NNS laws)) (VP (ADVP (RB absolutely)) (VB prohibit) (NP (PRP it)))))
+-20.423421650061 -67.014911169043
+(S1 (S (NP (DT Some) (NNS laws)) (RB absolutely) (VP (VBP prohibit) (NP (PRP it)))))
+-20.703095555323 -68.464793015347
+(S1 (S (NP (DT Some) (NNS laws)) (RB absolutely) (VP (VB prohibit) (NP (PRP it)))))
+-21.307631214759 -71.135037381515
+(S1 (S (NP (NP (DT Some) (NNS laws)) (ADVP (RB absolutely))) (VP (VBP prohibit) (NP (PRP it)))))
+-21.846607972836 -70.848769335353
+(S1 (S (NP (DT Some) (NNS laws) (RB absolutely)) (VP (VBP prohibit) (NP (PRP it)))))
+-22.135572422929 -75.520427739515
+(S1 (S (NP (NP (DT Some) (NNS laws)) (RB absolutely)) (VP (VBP prohibit) (NP (PRP it)))))
+-22.240893099720 -73.966222668080
+(S1 (S (NP (DT Some) (NNS laws)) (VP (ADVP (RB absolutely)) (VP (VBP prohibit) (NP (PRP it))))))
+-22.244561211453 -76.430092343950
+(S1 (S (NP (NP (DT Some) (NNS laws)) (ADVP (RB absolutely))) (VP (VB prohibit) (NP (PRP it)))))
+-22.551620009561 -75.316001665571
+(S1 (S (NP (DT Some) (NNS laws)) (VP (RB absolutely) (VP (VBP prohibit) (NP (PRP it))))))
+-22.618893046931 -75.702325197606
+(S1 (S (NP (DT Some) (NNS laws)) (VP (RB absolutely) (VB prohibit) (NP (PRP it)))))
+-22.737162242014 -77.820172471238
+(S1 (S (NP (DT Some) (NNS laws)) (ADVP (RB absolutely)) (S (VP (VB prohibit) (NP (PRP it))))))
+-23.012212157387 -77.703993951132
+(S1 (S (NP (DT Some) (NNS laws)) (VP (RB absolutely) (VP (VB prohibit) (NP (PRP it))))))
+-23.035897761382 -80.880690759638
+(S1 (S (NP (DT Some) (NNS laws)) (VP (ADVP (RB absolutely)) (VP (VB prohibit) (NP (PRP it))))))
+-23.400340765649 -75.569452536965
+(S1 (S (NP (DT Some) (NNS laws) (RB absolutely)) (VP (VB prohibit) (NP (PRP it)))))
+-23.614004050304 -72.644641516727
+(S1 (S (NP (DT Some) (NNS laws)) (ADVP (RB absolutely)) (VP (VBP prohibit) (S (NP (PRP it))))))
+-23.623926434218 -77.905873035275
+(S1 (S (NP (DT Some) (NNS laws)) (ADVP (RB absolutely)) (S (VP (VBP prohibit) (NP (PRP it))))))
+-23.662254473021 -75.794410631198
+(S1 (S (NP (DT Some) (NNS laws)) (ADVP (RB absolutely)) (VP (VB prohibit) (S (NP (PRP it))))))
+-24.049568021389 -77.913062989763
+(S1 (S (ADVP (NP (DT Some) (NNS laws)) (RB absolutely)) (VP (VB prohibit) (NP (PRP it)))))
+-24.065091728825 -81.101378033690
+(S1 (S (NP (NP (DT Some) (NNS laws)) (RB absolutely)) (VP (VB prohibit) (NP (PRP it)))))
+-24.145893675390 -79.716082398485
+(S1 (S (NP (DT Some) (NP (NNS laws))) (ADVP (RB absolutely)) (VP (VBP prohibit) (NP (PRP it)))))
+-24.163153824431 -74.044245018827
+(S1 (S (NP (DT Some) (NNS laws)) (VP (ADVP (RB absolutely)) (VBP prohibit) (S (NP (PRP it))))))
+-24.255089237121 -82.689730453757
+(S1 (S (NP (DT Some) (NP (NNS laws))) (ADVP (RB absolutely)) (VP (VB prohibit) (NP (PRP it)))))
+-24.400183238533 -80.562813654444
+(S1 (S (NP (DT Some) (NP (NNS laws))) (VP (ADVP (RB absolutely)) (VBP prohibit) (NP (PRP it)))))
+-24.565290697040 -79.887261721205
+(S1 (S (NP (DT Some)) (NP (NNS laws)) (VP (ADVP (RB absolutely)) (VBP prohibit) (NP (PRP it)))))
+-24.898984738781 -80.515560537576
+(S1 (S (ADVP (NP (DT Some) (NNS laws)) (RB absolutely)) (VP (VBP prohibit) (NP (PRP it)))))
+-25.148722153593 -74.385544151018
+(S1 (S (NP (DT Some) (NNS laws)) (RB absolutely) (VP (VBP prohibit) (S (NP (PRP it))))))
+-25.191044566574 -82.747652109785
+(S1 (S (NP (NP (DT Some)) (NNS laws)) (ADVP (RB absolutely)) (VP (VBP prohibit) (NP (PRP it)))))
+-25.286399558264 -75.758721156759
+(S1 (S (NP (DT Some) (NNS laws)) (RB absolutely) (VP (VB prohibit) (S (NP (PRP it))))))
+-25.430728793624 -81.403611612213
+(S1 (S (VP (ADVP (NP (DT Some) (NNS laws)) (RB absolutely)) (VB prohibit) (NP (PRP it)))))
+-25.510101532505 -83.594383365744
+(S1 (S (NP (NP (DT Some)) (NNS laws)) (VP (ADVP (RB absolutely)) (VBP prohibit) (NP (PRP it)))))
+-25.537872004678 -81.456985032777
+(S1 (S (NP (DT Some) (NP (NNS laws))) (RB absolutely) (VP (VBP prohibit) (NP (PRP it)))))
+-25.556363384460 -79.629617154864
+(S1 (S (NP (DT Some) (NX (NNS laws))) (ADVP (RB absolutely)) (VP (VBP prohibit) (NP (PRP it)))))
+-25.736747967448 -82.250621912511
+(S1 (S (NP (DT Some) (NNS laws)) (VP (ADVP (RB absolutely)) (VB prohibit) (S (NP (PRP it))))))
+-25.780400144666 -82.654041056005
+(S1 (S (NP (DT Some) (NP (NNS laws))) (RB absolutely) (VP (VB prohibit) (NP (PRP it)))))
+-25.831786048991 -80.476348410823
+(S1 (S (NP (DT Some) (NX (NNS laws))) (VP (ADVP (RB absolutely)) (VBP prohibit) (NP (PRP it)))))
+-25.837810721137 -83.395028879361
+(S1 (S (NP (DT Some) (NX (NNS laws))) (ADVP (RB absolutely)) (VP (VB prohibit) (NP (PRP it)))))
+-26.027998648290 -78.505670363490
+(S1 (S (NP (NP (DT Some) (NNS laws)) (ADVP (RB absolutely))) (VP (VBP prohibit) (S (NP (PRP it))))))
+-26.386655214633 -80.682556733533
+(S1 (S (NP (DT Some) (NNS laws)) (VP (ADVP (RB absolutely)) (VP (VBP prohibit) (S (NP (PRP it)))))))
+-26.566975406367 -78.219402317328
+(S1 (S (NP (DT Some) (NNS laws) (RB absolutely)) (VP (VBP prohibit) (S (NP (PRP it))))))
+-26.634288829862 -84.488554744077
+(S1 (S (NP (NP (DT Some)) (NNS laws)) (RB absolutely) (VP (VBP prohibit) (NP (PRP it)))))
+-26.697382124474 -82.032335731023
+(S1 (S (NP (DT Some) (NNS laws)) (VP (RB absolutely) (VP (VBP prohibit) (S (NP (PRP it)))))))
+-26.824038514577 -83.724020330247
+(S1 (S (NP (NP (DT Some) (NNS laws)) (ADVP (RB absolutely))) (VP (VB prohibit) (S (NP (PRP it))))))
+-26.855939856461 -82.891060721490
+(S1 (S (NP (NP (DT Some) (NNS laws)) (RB absolutely)) (VP (VBP prohibit) (S (NP (PRP it))))))
+-26.958290815536 -81.370519789156
+(S1 (S (NP (DT Some) (NX (NNS laws))) (RB absolutely) (VP (VBP prohibit) (NP (PRP it)))))
+-27.277108140937 -83.611942234826
+(S1 (S (NP (DT Some) (NNS laws)) (VP (RB absolutely) (VB prohibit) (S (NP (PRP it))))))
+-27.372143761895 -83.359339481609
+(S1 (S (NP (DT Some) (NX (NNS laws))) (RB absolutely) (VP (VB prohibit) (NP (PRP it)))))
+-27.979818065985 -82.863380523262
+(S1 (S (NP (DT Some) (NNS laws) (RB absolutely)) (VP (VB prohibit) (S (NP (PRP it))))))
+

@@ -1,0 +1,102 @@
+50 x
+-17.524174678281 -65.448143749577
+(S1 (S (VP (VBG Um) (NP (NN something) (DT that)))))
+-17.973733989321 -62.809828730605
+(S1 (S (VP (VB Um) (NP (NN something) (DT that)))))
+-17.997149625705 -62.687722602148
+(S1 (NP (JJ Um) (NN something) (IN that)))
+-19.177152987393 -67.546911393100
+(S1 (S (VP (VBG Um) (NP (NN something)) (NP (DT that)))))
+-19.191598723517 -65.718594994873
+(S1 (S (VP (VBZ Um) (NP (NN something) (DT that)))))
+-19.249846946353 -64.128277677328
+(S1 (NP (NP (CD Um) (NN something)) (NP (DT that))))
+-19.402890104572 -66.851266685564
+(S1 (S (NP (NNP Um)) (VP (NN something) (NP (DT that)))))
+-19.491613972476 -67.395524587930
+(S1 (S (VP (VBN Um) (NP (NN something) (DT that)))))
+-19.654040708507 -65.390698522055
+(S1 (VP (VB Um) (NP (NN something) (DT that))))
+-19.818777307741 -64.322083748348
+(S1 (S (VP (VB Um) (NP (NN something)) (NP (DT that)))))
+-20.227916160571 -67.664129590126
+(S1 (S (NP (NNS Um)) (VP (NN something) (NP (DT that)))))
+-20.230017117326 -64.165615134029
+(S1 (NP (NP (CD Um) (NN something)) (NP (IN that))))
+-20.448774928719 -67.459615295248
+(S1 (NP (NP (JJ Um) (NN something)) (NP (DT that))))
+-20.520129303885 -67.418410249305
+(S1 (VP (VBN Um) (NP (NN something) (DT that))))
+-20.521549069514 -68.303100484494
+(S1 (S (VP (VBG Um) (NP (NN something) (RB that)))))
+-20.526431420704 -68.744836773050
+(S1 (S (VP (NNP Um) (NP (NN something) (DT that)))))
+-20.559267092138 -66.698300874164
+(S1 (S (VP (VB Um) (NP (NN something)) (NP (IN that)))))
+-20.608439955295 -67.502608436271
+(S1 (NP (NP (CD Um) (NN something)) (IN that)))
+-20.785555752977 -67.824371191631
+(S1 (NP (NP (CD Um) (NN something)) (X (IN that))))
+-20.829189594148 -67.510754671171
+(S1 (SINV (VP (VBG Um) (NP (NN something))) (NP (DT that))))
+-20.968099991674 -66.446143916233
+(S1 (S (VP (VB Um) (NP (NN something) (RB that)))))
+-21.083706367097 -66.605161103188
+(S1 (FRAG (VP (VBZ Um) (NP (NN something) (DT that)))))
+-21.086685527692 -67.496952751949
+(S1 (NP (NP (JJ Um) (NN something)) (NP (IN that))))
+-21.089150292025 -68.540753868315
+(S1 (S (NP (NNP Um)) (VP (NN something) (NP (IN that)))))
+-21.120306351117 -67.007672136133
+(S1 (NP (ADJP (CD Um) (NN something)) (IN that)))
+-21.147803016003 -68.583757161175
+(S1 (X (FW Um) (NN something) (NP (DT that))))
+-21.210372346947 -66.448927476549
+(S1 (FRAG (NP (NP (CD Um) (NN something)) (NP (DT that)))))
+-21.305883146526 -61.580333227492
+(S1 (S (ADVP (NP (CD Um) (NN something)) (IN that))))
+-21.393565394260 -60.614861537089
+(S1 (FRAG (ADVP (NP (CD Um) (NN something)) (IN that))))
+-21.500453023946 -65.948309791936
+(S1 (ADVP (NP (CD Um) (NN something)) (RB that)))
+-21.586495526676 -67.126855626929
+(S1 (NP (NP (CD Um) (NN something)) (NP (WDT that))))
+-21.599157056146 -67.183413640777
+(S1 (VP (VB Um) (NP (NN something)) (NP (DT that))))
+-21.890097166049 -63.420588333004
+(S1 (FRAG (NP (CD Um) (NN something)) (ADVP (IN that))))
+-21.937315823747 -65.965799878592
+(S1 (SINV (VP (VB Um) (NP (NN something))) (NP (DT that))))
+-22.115097529880 -66.574760947571
+(S1 (FRAG (NP (NP (CD Um) (NN something)) (NP (IN that)))))
+-22.129127567923 -66.296568446942
+(S1 (FRAG (NP (JJ Um) (NN something)) (ADVP (IN that))))
+-22.175591839994 -68.573551518346
+(S1 (S (VP (VBZ Um) (NP (NN something) (RB that)))))
+-22.221749672123 -68.679309404509
+(S1 (VP (VB Um) (NP (NN something)) (NP (IN that))))
+-22.229565457363 -68.684419853815
+(S1 (S (NP (JJ Um) (NN something)) (ADJP (IN that))))
+-22.351673306166 -68.278701421354
+(S1 (SINV (VP (VBN Um) (NP (NN something))) (NP (DT that))))
+-22.431998950730 -68.239951904503
+(S1 (S (NP (JJ Um) (NN something)) (ADVP (IN that))))
+-22.448051783600 -67.905819818598
+(S1 (FRAG (ADVP (JJ Um) (NN something) (IN that))))
+-22.614155770506 -68.202035129136
+(S1 (ADVP (NP (CD Um) (NN something)) (IN that)))
+-22.718483705094 -66.305074784057
+(S1 (FRAG (NP (NN Um) (NN something)) (ADVP (IN that))))
+-22.814323792248 -68.751733125506
+(S1 (FRAG (NP (CD Um) (NN something)) (ADVP (RB that))))
+-22.947823368842 -67.172768683876
+(S1 (FRAG (ADVP (NP (CD Um) (NN something)) (RB that))))
+-23.181277482100 -67.266323259813
+(S1 (FRAG (ADVP (NP (JJ Um) (NN something)) (IN that))))
+-23.431140104366 -68.231794951312
+(S1 (S (ADVP (NP (JJ Um) (NN something)) (IN that))))
+-23.449646759090 -68.212621221427
+(S1 (FRAG (NP (VBN Um) (NN something)) (ADVP (IN that))))
+-23.661189540197 -68.639264538678
+(S1 (FRAG (NP (NNP Um) (NN something)) (ADVP (IN that))))
+

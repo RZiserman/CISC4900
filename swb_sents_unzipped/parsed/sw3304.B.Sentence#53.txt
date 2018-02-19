@@ -1,0 +1,102 @@
+50 x
+-55.958754280632 -178.980998484723
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN out) (NP (EX there)))))))))
+-56.192702814250 -177.283222391516
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-56.236589124480 -180.582838059597
+(S1 (FRAG (X (TO to) (DT another) (JJR f-)) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN out) (NP (EX there)))))))))
+-56.429659467109 -180.441234770726
+(S1 (NP (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN out) (NP (EX there))))))))
+-56.530427310098 -178.885061966389
+(S1 (FRAG (X (TO to) (DT another) (JJR f-)) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-56.741937002727 -178.743458677519
+(S1 (NP (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there)))))))
+-56.914950650545 -181.449991242355
+(S1 (FRAG (PP (TO to) (NP (DT another) (JJ f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN out) (NP (EX there)))))))))
+-57.025894298983 -178.853876991670
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN out) (NP (EX there)))))))))
+-57.081269967855 -180.584581173501
+(S1 (X (X (TO to) (DT another) (JJR f-)) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-57.136467224710 -180.513044288936
+(S1 (FRAG (PP (TO to) (NP (DT another) (NNS f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-57.223373356163 -179.752215149148
+(S1 (FRAG (PP (TO to) (NP (DT another) (JJ f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-57.259842832601 -177.156100898463
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-57.456354470674 -180.811724106179
+(S1 (FRAG (X (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN out) (NP (EX there)))))))))
+-57.627879075619 -180.949657187380
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (ADVP (RB out) (RB there))))))))
+-57.662800624431 -180.824325206716
+(S1 (X (TO to) (NP (DT another) (NN f-)) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-57.690303004292 -179.113948012971
+(S1 (FRAG (X (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-57.854171207890 -177.900628127332
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-57.910974505525 -181.631611215642
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RP out) (RB there))))))))
+-57.936112205586 -181.631688273468
+(S1 (S (PP (TO to) (NP (DT another) (JJ f-) (ADJP (NP (DT a) (UH uh)) (JJ old)) (NNP Indian) (NNP fort))) (NP (DT that)) (VP (POS 's) (ADVP (RB out) (RB there)))))
+-57.969669601496 -181.856024001820
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (JJ f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN out) (NP (EX there)))))))))
+-58.189307812216 -181.153458306322
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NNS f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-58.191895703738 -179.502467702205
+(S1 (FRAG (X (TO to) (DT another) (JJR f-)) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-58.231826728490 -181.643355695945
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (ADJP (NP (DT a) (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-58.278092307114 -180.158247908613
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (JJ f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-58.354657486368 -179.360864413335
+(S1 (NP (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there)))))))
+-58.405676557449 -181.214812853675
+(S1 (S (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort) (IN that)) (VP (POS 's) (ADVP (RB out) (RB there)))))
+-58.536146007418 -181.421178233894
+(S1 (S (PP (TO to) (NP (DT another) (JJ f-) (ADJP (NP (DT a) (UH uh)) (JJ old)) (NNP Indian) (NNP fort))) (NP (DT that)) (VP (VBZ 's) (ADVP (RB out) (RB there)))))
+-58.581914181554 -181.403753626079
+(S1 (FRAG (PP (TO to) (NP (NP (DT another) (NN f-)) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there)))))))))
+-58.693990451495 -181.201986909317
+(S1 (X (X (TO to) (DT another) (JJR f-)) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-58.695019093970 -180.822535694328
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (ADVP (RB out) (RB there))))))))
+-58.797935618350 -181.130450024752
+(S1 (FRAG (PP (TO to) (NP (DT another) (NNS f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-58.884841777681 -180.369620884964
+(S1 (FRAG (PP (TO to) (NP (DT another) (JJ f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-58.889483358801 -181.885346582596
+(S1 (S (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort) (IN that)) (VP (VBZ 's) (ADVP (RB out) (RB there)))))
+-58.921311226241 -177.773506634279
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-58.978114523876 -181.504489722590
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RP out) (RB there))))))))
+-58.982109703598 -181.106607688609
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there)))))))
+-59.275521108071 -181.441730942532
+(S1 (X (TO to) (NP (DT another) (NN f-)) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-59.298966746842 -181.516234202893
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (ADJP (NP (DT a) (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-59.351771397932 -179.731353748788
+(S1 (FRAG (X (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-59.408845865177 -181.811290591419
+(S1 (S (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (NP (DT that)) (VP (VBZ 's) (ADVP (RB out) (RB there)))))
+-59.530368702730 -180.737115697553
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-59.850776205856 -181.770864042138
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NNS f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-59.939560700754 -180.775653644429
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (JJ f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-60.312969033842 -181.504761822542
+(S1 (S (PP (TO to) (NP (NP (DT another) (NN f-)) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)))) (NP (DT that)) (VP (POS 's) (ADVP (RB out) (RB there)))))
+-60.597508721082 -180.609994204501
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB out) (RB there))))))))
+-60.856876097239 -181.724013424426
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (IN out) (RB there)))))))
+-60.922448183552 -181.294251782968
+(S1 (S (PP (TO to) (NP (NP (DT another) (NN f-)) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)))) (NP (DT that)) (VP (VBZ 's) (ADVP (RB out) (RB there)))))
+-61.389209020371 -181.354521433369
+(S1 (FRAG (PP (TO to) (NP (DT another) (NN f-))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-62.456349038722 -181.227399940317
+(S1 (FRAG (X (PP (TO to) (NP (DT another) (NN f-)))) (NP (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (IN out) (RB there))))))))
+-62.600655791193 -181.911657518784
+(S1 (S (PP (TO to) (NP (NP (DT another) (NN f-)) (NP (DT a) (ADJP (NP (UH uh)) (JJ old)) (NNP Indian) (NNP fort)))) (NP (DT that)) (VP (VBZ 's) (ADVP (IN out) (RB there)))))
+

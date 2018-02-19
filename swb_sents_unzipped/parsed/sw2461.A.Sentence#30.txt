@@ -1,0 +1,102 @@
+50 x
+-21.438070021819 -76.039467473820
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (VP (VBN taught) (NP (NN something))))))
+-23.562096502403 -78.736101394463
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (VP (VBN taught) (S (NP (NN something)))))))
+-23.762493693641 -84.221644518530
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (VP (VBD taught) (NP (NN something))))))
+-24.565579511332 -84.154911443685
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (NP (VBN taught) (NN something)))))
+-25.498766041651 -89.469373745900
+(S1 (S (CC or) (S (NP (PRP they)) (VP (VBG going))) (VP (VB be) (VP (VBN taught) (NP (NN something))))))
+-25.691911550295 -92.049277396900
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going) (VP (VB be) (VP (VBN taught) (NP (NN something)))))))
+-26.029258995725 -88.841566813328
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (NP (VBD taught) (NN something)))))
+-26.511933395687 -86.459571098650
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (S (VP (VBN taught) (NP (NN something)))))))
+-26.703944994015 -89.106500073859
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (VP (VB be) (VP (VBN taught) (NP (NN something))))))))
+-26.930418409969 -93.069617879885
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (VP (VBN taught) (NP (NN something))))))))
+-27.130309608511 -84.233672803576
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (ADJP (VBN taught)) (NP (NN something)))))
+-27.190424953868 -88.834847605139
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (PP (VBN taught) (NP (NN something))))))
+-27.516309901924 -89.309793509875
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (VP (VBD taught) (S (NP (NN something)))))))
+-27.647496622235 -92.166007666543
+(S1 (S (CC or) (S (NP (PRP they)) (VP (VBG going))) (VP (VB be) (VP (VBN taught) (S (NP (NN something)))))))
+-27.792774463971 -94.745911081198
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going) (VP (VB be) (VP (VBN taught) (S (NP (NN something))))))))
+-27.968570250476 -90.126840556844
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (VP (VBN taught) (NP (NN something)))))))))
+-27.978410290585 -97.651550790610
+(S1 (S (CC or) (S (NP (PRP they)) (VP (VBG going))) (VP (VB be) (VP (VBD taught) (NP (NN something))))))
+-28.226416175372 -93.393541708695
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (S (VP (VBD taught) (NP (NN something)))))))
+-28.236699783340 -95.664075067809
+(S1 (S (CC or) (NP (NP (PRP they)) (VP (VBG going))) (VP (VB be) (VP (VBN taught) (NP (NN something))))))
+-28.248509094229 -91.066257470449
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (ADJP (VBD taught)) (NP (NN something)))))
+-28.342579439961 -91.421574065750
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (SBAR (S (VP (VBN taught) (NP (NN something))))))))
+-28.563325775427 -93.244560418533
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (SBAR (S (VP (VBD taught) (NP (NN something))))))))
+-28.696416493161 -97.053988727735
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going) (SBAR (S (VP (VB be) (VP (VBN taught) (NP (NN something)))))))))
+-28.768394374331 -97.202802346115
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (VP (VB be) (VP (VBD taught) (NP (NN something))))))))
+-28.773635016600 -92.620175428617
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (VP (VBN taught) (SBAR (S (NP (NN something))))))))
+-28.784259130338 -96.580841815513
+(S1 (FRAG (CC or) (SBAR (S (NP (PRP they)) (VP (VBG going) (VP (VB be) (VP (VBN taught) (NP (NN something)))))))))
+-28.804807910479 -91.803133758156
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (VP (VB be) (VP (VBN taught) (S (NP (NN something)))))))))
+-28.830612379172 -91.367577914926
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (S (VP (VBN taught) (S (NP (NN something))))))))
+-28.959941242257 -97.970212728662
+(S1 (FRAG (S (CC or) (NP (PRP they)) (VP (VBG going) (VP (VB be) (VP (VBN taught) (NP (NN something))))))))
+-28.966697362315 -97.584817755019
+(S1 (S (CC or) (S (NP (PRP they)) (VP (VBG going))) (VP (VB be) (NP (VBN taught) (NN something)))))
+-29.035495890552 -95.766251800528
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (VP (VBN taught) (S (NP (NN something)))))))))
+-29.418004724826 -95.443487122748
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (VP (VB be) (NP (VBN taught) (NN something)))))))
+-29.500339838944 -94.609047218041
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (NP (ADJP (VBN taught)) (NN something)))))
+-29.714826230881 -94.111211404694
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (SBAR (S (VP (VB be) (VP (VBN taught) (NP (NN something))))))))))
+-29.886330102154 -95.246330751061
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (NP (ADJP (VBD taught)) (NN something)))))
+-29.947016696399 -98.279886163291
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VP (VB be)) (VP (VBN taught) (NP (NN something))))))
+-30.036215338510 -98.309017601554
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (VP (VBD taught) (NP (NN something)))))))))
+-30.041139761224 -97.601182293727
+(S1 (FRAG (CC or) (SBAR (S (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (VP (VBN taught) (NP (NN something))))))))))
+-30.073647731060 -92.823474477487
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (VP (VBN taught) (S (NP (NN something))))))))))
+-30.385430363923 -98.360708988452
+(S1 (S (CC or) (NP (NP (PRP they)) (VP (VBG going))) (VP (VB be) (VP (VBN taught) (S (NP (NN something)))))))
+-30.651851735174 -96.468256859042
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (S (NP (VBN taught) (NN something))))))
+-30.716638782291 -98.242284610287
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (NP (VBN taught) (NN something))))))))
+-30.720554746039 -96.161517735991
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (VP (VBD taught) (SBAR (S (NP (NN something))))))))
+-30.954819693265 -96.329580702165
+(S1 (S (CC or) (NP (PRP they)) (VP (VBG going)) (VP (VB be) (SBAR (S (VP (VBN taught) (S (NP (NN something)))))))))
+-31.234046623270 -98.076208463132
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (VP (VB be) (PP (VBN taught) (NP (NN something))))))))
+-31.296298033253 -97.663578985954
+(S1 (S (CC or) (S (NP (PRP they)) (VP (VBG going))) (VP (VB be) (ADJP (VBN taught)) (NP (NN something)))))
+-31.781334275644 -98.300442876643
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (SBAR (VB be) (S (VP (VBD taught) (NP (NN something)))))))))
+-31.815689214252 -96.807845325337
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (SBAR (S (VP (VB be) (VP (VBN taught) (S (NP (NN something)))))))))))
+-32.571486026685 -97.791144727829
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (VP (VB be) (ADJP (VBN taught)) (NP (NN something)))))))
+-33.441811045532 -98.321045917361
+(S1 (FRAG (CC or) (S (NP (PRP they)) (VP (VBG going) (S (VP (VB be) (ADJP (VBN taught)) (NP (NN something))))))))
+

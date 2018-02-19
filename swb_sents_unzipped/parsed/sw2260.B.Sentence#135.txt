@@ -1,0 +1,102 @@
+50 x
+-13.854973271189 -54.925762814548
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))
+-19.858243941605 -67.478157080531
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))
+-20.291915353620 -71.132744933820
+(S1 (S (NP (PRP it)) (VP (VBD was) (VP (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-20.488907676113 -66.780815779536
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-20.554163734998 -72.736047160660
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NN thing))))))
+-20.557611849059 -76.456251857200
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind) (PP (IN of) (NP (NN thing)))))))
+-21.264845287385 -70.411870429233
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (S (NP (NN thing))))))))
+-22.121949752001 -78.866657637023
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind) (IN of) (NN thing)))))
+-22.330553167892 -71.082683612942
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))))
+-22.820789990305 -72.696350431194
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (ADJP (JJ same)) (NN kind)) (PP (IN of) (NP (NN thing)))))))
+-23.048784350851 -72.684654156777
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (NP (DT the)) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))
+-23.146200175459 -75.970561765177
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (NX (JJ same) (NN kind))) (PP (IN of) (NP (NN thing)))))))
+-23.646469100164 -79.196120567273
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (IN of) (NP (NN thing))))))
+-23.815438864604 -75.307669121874
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))
+-24.166612277703 -83.808974514351
+(S1 (NP (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))
+-24.403195294143 -80.162425010774
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (VP (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))))
+-24.435474929814 -77.614911698094
+(S1 (S (NP (PRP it)) (VP (VBD was) (VP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))
+-24.899240900502 -88.795937409506
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind) (IN of) (NP (NN thing))))))
+-25.308823124747 -82.998092405378
+(S1 (S (NP (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-25.328998574435 -76.469838712403
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-25.653538834988 -83.415099420878
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (IN of) (NN thing)))))
+-25.846108106522 -84.727811533015
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NN thing)))))
+-25.949946921138 -87.649606746550
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind) (SBAR (IN of) (NN thing))))))
+-25.971689654801 -82.611917955693
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (VP (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))))
+-26.058268298854 -86.830191344813
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (SBAR (IN of) (NN thing))))))
+-26.237153348550 -80.165245250542
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (S (NP (NN thing)))))))
+-26.400414580329 -88.288709455545
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (DT the) (JJ same) (NN kind) (PP (IN of) (NP (NN thing))))))))
+-26.863858778819 -86.524781951739
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (JJ same) (NN kind) (SBAR (IN of) (S (NP (NN thing))))))))
+-26.972180139808 -85.705366480382
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ same) (NN kind)) (SBAR (IN of) (S (NP (NN thing))))))))
+-27.188098142709 -84.591100138232
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NN thing)))))))
+-27.301882016818 -84.400198473378
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (NX (ADJP (JJ same)) (NN kind))) (PP (IN of) (NP (NN thing)))))))
+-27.571678421031 -81.464444609026
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the)) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))
+-27.647220770107 -83.711726120687
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (VP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-27.701787369816 -86.618852548505
+(S1 (S (NP (PRP it)) (VP (VBD was) (VP (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (S (NP (NN thing)))))))))
+-27.898779647704 -82.266923237139
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (S (NP (NN thing)))))))))
+-28.231059371746 -87.068516671530
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (NX (JJ same) (NN kind))) (PP (IN of) (NP (NN thing))))))
+-28.389850816226 -82.724339702479
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (ADJP (JJ same)) (NN kind)) (PP (IN of) (NP (NN thing))))))
+-28.876779527949 -88.554407561788
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (NP (DT the) (JJ same) (NN kind)) (IN of) (NP (NN thing)))))))
+-29.029743634489 -88.892967971638
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NN thing))))))))
+-29.034977848282 -88.891636276049
+(S1 (S (NP (PRP it)) (VP (VBD was) (VP (NP (NP (NP (DT the)) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-29.083444095594 -84.539706949700
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (NP (NP (DT the)) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-29.101461908775 -84.551403282852
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (NP (DT the) (ADJP (JJ same)) (NN kind)) (PP (IN of) (NP (NN thing))))))))
+-29.197662709090 -86.161219061671
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (VP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))))
+-29.424658056152 -87.512039990767
+(S1 (S (NP (PRP it)) (VP (VBD was) (S (NP (NP (DT the) (NX (JJ same) (NN kind))) (PP (IN of) (NP (NN thing))))))))
+-29.740425139483 -86.568791070545
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (S (NP (NN thing))))))))))
+-30.230662006501 -88.182458045879
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (ADJP (JJ same)) (NN kind)) (PP (IN of) (S (NP (NN thing))))))))
+-30.458656364259 -88.170761771462
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (NP (DT the)) (JJ same) (NN kind)) (PP (IN of) (S (NP (NN thing))))))))
+-30.676265973605 -88.334801294799
+(S1 (S (NP (PRP it)) (VP (VBD was) (NP (NP (NP (DT the)) (ADJP (JJ same)) (NN kind)) (PP (IN of) (NP (NN thing)))))))
+-30.710349500374 -88.841574783106
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (NP (NP (NP (DT the)) (JJ same) (NN kind)) (PP (IN of) (NP (NN thing)))))))))
+-31.033843781942 -88.853271116258
+(S1 (S (NP (PRP it)) (VP (VBD was) (SBAR (S (NP (NP (DT the) (ADJP (JJ same)) (NN kind)) (PP (IN of) (NP (NN thing)))))))))
+

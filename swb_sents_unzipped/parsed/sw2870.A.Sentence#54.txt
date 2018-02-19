@@ -1,0 +1,102 @@
+50 x
+-62.204675874354 -203.029733607698
+(S1 (S (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school)))))) (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))
+-62.306907290068 -203.358044449835
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-62.310966486145 -202.381516875442
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))
+-62.872272246475 -203.852032556326
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NP (NN school)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-62.996467412247 -203.778182479889
+(S1 (S (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school)))))) (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))
+-63.102757996160 -203.129965747633
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-63.103761630839 -200.870066665346
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-63.365669287026 -203.900973957751
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))
+-63.399213781441 -202.976322795193
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-63.403272949641 -201.999795220801
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))
+-63.665067363292 -202.340582346230
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NP (NN school)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))))
+-63.687139317320 -203.909978062203
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-63.691198485520 -202.933450487810
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))
+-63.741562164519 -203.397921024872
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really))))))))))))
+-63.895553140854 -201.618515537537
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))))
+-63.966063683717 -203.934957254907
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (PP (IN in) (NP (NN school))) (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))
+-64.041370412071 -202.999238490301
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)))) (ADVP (RB not) (RB really)))))))))))
+-64.158464403842 -202.389523747655
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-64.195064487534 -202.748244092991
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-64.196068094335 -200.488345010705
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-64.282841885028 -202.474791983396
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-64.456858901185 -203.089031218421
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NP (NN school)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))))))
+-64.457975750522 -203.519252303110
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))
+-64.482990023413 -203.681899360001
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-64.483993630214 -201.422000277714
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-64.534357309213 -201.886470814776
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really)))))))))))))
+-64.582353203830 -203.604520538851
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-64.719770164172 -203.860039428539
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NP (NN school)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))))
+-64.758858800533 -202.423507044811
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (PP (IN in) (NP (NN school))) (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-64.833868655893 -203.016199370230
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really))))))))))))
+-64.844147645358 -203.945307664280
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NP (NN school)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))))
+-64.987859632228 -201.236793882895
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))))
+-65.095663069543 -203.356986495659
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NP (NN school)) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really)))))))))))))))
+-65.121794163893 -203.949854637239
+(S1 (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really))))))))))))
+-65.133676875567 -202.617516835659
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)))) (ADVP (RB not) (RB really)))))))))))
+-65.250770895216 -202.007802093014
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-65.275785140229 -202.170449149905
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))))
+-65.375148348524 -202.093070328755
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-65.421602411446 -203.551172102669
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)))) (ADVP (RB not) (RB really)))))))))))
+-65.538696431094 -202.941457360023
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-65.550650338426 -203.171955917002
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (PP (IN in) (NP (NN school))) (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (S (VP (VBG demo-) (S (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))))
+-65.589060082216 -203.405927756261
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN school))) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really)))))))))))))
+-65.626663800587 -201.504749160134
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really)))))))))))))
+-65.663073884402 -203.026725595764
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-65.813561601414 -203.942964127120
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (PP (IN in) (NP (NN school))) (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government)) (ADVP (RB not) (RB really)))))))))))))
+-65.914589308587 -202.438404427143
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (PP (IN in) (NP (NN school))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really)))))))))))))
+-66.189454506784 -203.439911194241
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (PP (IN in) (NP (NN school))) (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really)))))))))))))
+-66.429851121527 -203.612527270240
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (NP (DT the) (NN government)) (ADVP (RB not) (RB really))))))))))))))
+-66.681366545712 -203.024206101620
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (ADJP (JJ demo-)) (INTJ (UH uh)) (NP (DT the) (NN government) (RB not) (RB really)))))))))))))
+-68.053676872164 -202.557625480857
+(S1 (FRAG (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (IN in) (NN school) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB teach) (NP (PRP you)) (PP (IN about) (FRAG (JJ demo-) (INTJ (UH uh)) (NP (DT the) (NN government)))))))) (ADVP (RB not) (RB really)))))))
+

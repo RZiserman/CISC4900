@@ -1,0 +1,102 @@
+50 x
+-26.646532092289 -99.588612536472
+(S1 (S (NP (JJ canned) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-26.889890380024 -99.159485324618
+(S1 (S (NP (JJ canned) (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-27.275525661857 -101.527964876737
+(S1 (S (NP (VBN canned) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-27.605183121901 -100.411918960996
+(S1 (S (NP (VBN canned) (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-28.470296121189 -105.779954803291
+(S1 (S (NP (JJ canned) (NNP ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-28.923152468825 -105.900484488984
+(S1 (S (NP (JJ canned) (NNS ravioli)) (VP (VBD was) (NP (NP (NN one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-28.992568132137 -105.471357277130
+(S1 (S (NP (JJ canned) (NN ravioli)) (VP (VBD was) (NP (NP (NN one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-29.552146021667 -107.839836829248
+(S1 (S (NP (VBN canned) (NNS ravioli)) (VP (VBD was) (NP (NP (NN one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-29.707860851711 -106.723790913508
+(S1 (S (NP (VBN canned) (NN ravioli)) (VP (VBD was) (NP (NP (NN one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-29.838819453057 -106.708437311209
+(S1 (S (NP (JJ canned) (JJ ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-30.280166521123 -108.508409447039
+(S1 (NP (NP (VBN canned) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-30.309343259296 -107.540751574653
+(S1 (NP (NP (JJ canned) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-30.574469644476 -112.227844009466
+(S1 (S (NP (JJ canned) (CD ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-30.640056078877 -112.091826755802
+(S1 (S (NP (JJ canned) (NNP ravioli)) (VP (VBD was) (NP (NP (NN one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-30.959744195764 -109.263797899640
+(S1 (NP (NP (VBN canned) (NNS ravioli)) (SBAR (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-31.008406353745 -111.844818766105
+(S1 (S (NP (VBN canned) (NNP ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-31.019786914125 -107.759047376788
+(S1 (S (NP (JJ canned) (NNS ravioli)) (VP (VBD was) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-31.103974231436 -107.329920164934
+(S1 (S (NP (JJ canned) (NN ravioli)) (VP (VBD was) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-31.204179126060 -108.296140027254
+(S1 (NP (NP (JJ canned) (NNS ravioli)) (SBAR (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-31.240115749749 -110.841267240619
+(S1 (S (NP (JJ canned) (NN ravioli)) (VP (VBD was) (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))
+-31.249666566921 -110.340217080292
+(S1 (NP (VBN canned) (NNS ravioli) (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-31.469514507105 -110.177431150251
+(S1 (NP (JJ canned) (NNS ravioli) (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-31.526045314315 -111.270394452474
+(S1 (S (NP (JJ canned) (NNS ravioli)) (VP (VBD was) (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))
+-31.648780466966 -109.698399717052
+(S1 (S (NP (VBN canned) (NNS ravioli)) (VP (VBD was) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-31.819266951010 -108.582353801312
+(S1 (S (NP (VBN canned) (NN ravioli)) (VP (VBD was) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-31.955408497201 -112.093700876997
+(S1 (S (NP (VBN canned) (NN ravioli)) (VP (VBD was) (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))
+-31.976615403299 -113.361717218793
+(S1 (NP (NP (JJ canned) (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-32.029735532666 -109.965781574651
+(S1 (S (NP (NP (JJ canned) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-32.090481070745 -113.020309263721
+(S1 (S (NP (JJ canned) (JJ ravioli)) (VP (VBD was) (NP (NP (NN one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-32.130982541933 -112.995963228944
+(S1 (NP (NP (VBN canned) (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-32.155038867157 -113.209746792738
+(S1 (S (NP (VBN canned) (NNS ravioli)) (VP (VBD was) (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))
+-32.205491221471 -111.852939457361
+(S1 (NP (JJ canned) (NNS ravioli) (SBAR (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-32.218859177493 -111.777603222174
+(S1 (S (NP (ADJP (VBN canned)) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-32.228752271615 -110.933439306674
+(S1 (S (NP (NP (VBN canned) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-32.324932299257 -111.032483025408
+(S1 (S (NP (NP (VBN canned) (NNS ravioli)) (SBAR (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))))
+-32.341173780309 -110.064825293385
+(S1 (S (NP (NP (JJ canned) (NNS ravioli)) (SBAR (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))))
+-32.403886130717 -110.775977344399
+(S1 (S (VP (VBN canned) (SBAR (S (NP (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))))
+-32.439613627334 -113.478791748607
+(S1 (NP (NP (VBN canned) (NN ravioli)) (SBAR (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-32.903340668700 -113.844545738456
+(S1 (NP (NP (JJ canned) (NN ravioli)) (SBAR (S (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-33.077056390591 -110.121865184152
+(S1 (S (NP (ADJP (JJ canned)) (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-33.091101798315 -113.157312644166
+(S1 (S (VP (VBN canned) (SBAR (S (NP (NNP ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))))
+-33.120688168566 -112.997799724609
+(S1 (NP (NP (JJ canned) (NNS ravioli)) (VP (VBD was) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))
+-33.230220680195 -113.423032571700
+(S1 (S (NP (ADJP (VBN canned)) (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-33.370640343454 -110.159662152397
+(S1 (VP (VBN canned) (SBAR (S (NP (NNS ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-33.498658157617 -111.598650577236
+(S1 (S (NP (ADJP (JJ canned)) (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))
+-33.999263336568 -110.351864361563
+(S1 (S (VP (VBN canned) (SBAR (S (NP (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))))
+-34.157714711052 -112.540997452163
+(S1 (VP (VBN canned) (SBAR (S (NP (NNP ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-34.649521018092 -112.844020420959
+(S1 (S (VP (VBN canned) (SBAR (S (NP (JJ ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites))))))))))
+-35.001239771427 -109.735549169561
+(S1 (VP (VBN canned) (SBAR (S (NP (NN ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+-35.527017202951 -112.227705228956
+(S1 (VP (VBN canned) (SBAR (S (NP (JJ ravioli)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (NNS favorites)))))))))
+

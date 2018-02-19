@@ -1,0 +1,102 @@
+50 x
+-29.084761307655 -97.146110515673
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-30.122125435570 -99.141451126966
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-30.750728392143 -101.000953215695
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-30.862218282055 -103.761681156288
+(S1 (S (NP (RB Well) (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-30.959279436302 -103.194419876999
+(S1 (S (ADVP (RB Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-31.503249579250 -104.654331918322
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (RB just) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-31.677328242306 -101.283859738200
+(S1 (S (INTJ (RB Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-31.788092517270 -102.996293826987
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-32.030447680031 -103.513716639480
+(S1 (S (RB Well) (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-32.271050301013 -110.483056469174
+(S1 (S (NP (RB Well) (JJ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-32.528185372118 -107.616523856309
+(S1 (S (NP (RB Well) (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-32.540613704378 -106.649672529615
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (RB just) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-32.625246526365 -107.049262577021
+(S1 (S (ADVP (RB Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-32.757978618058 -107.103338176496
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (S (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-32.795350269097 -107.868406755761
+(S1 (SBAR (RB Well) (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-32.898385464176 -107.106471617226
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))))
+-32.922361883507 -110.077314866938
+(S1 (S (INTJ (UH Well)) (NP (JJ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-32.946097971983 -107.167995080843
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (S (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-33.280706559225 -111.269902558937
+(S1 (S (NP (RB Well) (PRP$ my) (NN son)) (VP (VBD was) (RB just) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-33.343295332370 -105.138702438222
+(S1 (S (INTJ (RB Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-33.377767713473 -110.702641279648
+(S1 (S (ADVP (RB Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (RB just) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-33.423457585892 -109.316548028653
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADJP (RB just) (VBG dying)) (PP (IN for) (NP (DT a) (NN bird))))))
+-33.620810179973 -105.891723182653
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))))
+-33.623225657309 -109.616071005411
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (RB just) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-33.686859876727 -107.821249154494
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADJP (RB just) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-33.788731455936 -109.964502134105
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PRT (RP for)) (NP (DT a) (NN bird))))))
+-33.828633843185 -109.098678787788
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (S (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-33.895350910095 -107.368559327474
+(S1 (S (RB Well) (S (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-34.016753197110 -109.163335692136
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (S (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-34.095816519477 -108.792081140849
+(S1 (S (INTJ (RB Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (RB just) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-34.154453382039 -108.263940972603
+(S1 (FRAG (ADVP (RB Well)) (SBAR (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))))
+-34.167115009415 -110.828639313296
+(S1 (S (ADVP (RB Well)) (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-34.346207637962 -108.506923700816
+(S1 (FRAG (SBAR (RB Well) (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))))
+-34.371727389874 -110.417805965842
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (S (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-34.439192315824 -111.021937893469
+(S1 (S (RB Well) (S (NP (PRP$ my) (NN son)) (VP (VBD was) (RB just) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-34.483791223274 -108.129178355465
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (S (NP (DT a) (NN bird))))))))
+-34.528333089709 -111.152516713334
+(S1 (FRAG (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-34.757515101854 -109.816589765786
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADJP (RB just) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-34.955479165726 -107.483757792086
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (PP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-34.961180947779 -107.556919084356
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))))
+-34.962848638427 -111.194958665178
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PRT (IN for)) (NP (DT a) (NN bird))))))
+-34.978923022118 -110.961314359835
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))))
+-35.371802210036 -109.746565925262
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP$ my) (NN son)) (VP (VBD was) (VP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))))
+-35.383836658285 -111.241087399022
+(S1 (S (INTJ (RB Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (S (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (NP (DT a) (NN bird))))))))
+-35.392788635751 -109.797741393355
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (ADJP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-35.521155348401 -110.124518966757
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (VP (VBG dying) (PP (IN for) (S (NP (DT a) (NN bird))))))))
+-35.592861702120 -110.683607614493
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADJP (ADJP (RB just) (VBG dying)) (PP (IN for) (NP (DT a) (NN bird)))))))
+-35.922815388109 -110.095516703757
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADJP (ADVP (RB just)) (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-36.026134390854 -109.479098403378
+(S1 (S (RB Well) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (PP (VBG dying) (PP (IN for) (NP (DT a) (NN bird)))))))
+-36.135545123942 -111.083497998384
+(S1 (S (INTJ (UH Well)) (NP (PRP$ my) (NN son)) (VP (VBD was) (ADVP (RB just)) (ADJP (VBG dying)) (PP (IN for) (NP (DT a) (NN bird))))))
+

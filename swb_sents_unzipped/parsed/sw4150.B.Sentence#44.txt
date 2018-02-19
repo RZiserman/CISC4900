@@ -1,0 +1,102 @@
+50 x
+-23.123718576920 -92.257026107052
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-23.449321398158 -88.426108467017
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-26.052302320363 -97.688615096472
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (VP (ADVP (RB always)) (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-26.881345437504 -98.693151428166
+(S1 (FRAG (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-27.171147271111 -101.068581386312
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (JJ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-27.267760249503 -99.163994509600
+(S1 (FRAG (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-27.424913930773 -102.103086980960
+(S1 (SBAR (IN In) (NN fact) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-27.496750089561 -97.237663746277
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (JJ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-27.534310887601 -100.934973269452
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (RB always) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-27.624136243999 -99.328941773454
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (NP (PRP$ my) (NNS toys)))) (VP (VBD were) (VP (VBN destroyed)))))
+-27.671010480266 -98.183775536667
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought))) (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))
+-27.823907146168 -103.850673931706
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-27.943643398093 -105.191648923849
+(S1 (PP (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))))
+-27.999954494688 -102.022390062666
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (NP (PRP I)) (ADVP (RB always))) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-28.108531954612 -102.429127950161
+(S1 (FRAG (PP (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))))))
+-28.112616796353 -106.840943192933
+(S1 (SBAR (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-28.118904054278 -102.223763911552
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (S (VP (VBN destroyed)))))))))
+-28.211244132893 -101.509448912451
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (ADJP (VBN destroyed))))))))
+-28.444506878304 -98.392846271517
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (S (VP (VBN destroyed))))))))))
+-28.451240271178 -101.416345817941
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (VP (ADVP (RB always)) (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-28.536846956919 -97.678531272416
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (ADJP (VBN destroyed)))))))))
+-28.592649627842 -103.872434227781
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBD destroyed)))))))))
+-28.882142054591 -103.213756551510
+(S1 (PP (IN In) (NP (NN fact) (SBAR (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))))
+-29.111654983296 -103.611505918771
+(S1 (FRAG (SBAR (IN In) (NN fact) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))))
+-29.121444721249 -103.470012854803
+(S1 (FRAG (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))))
+-29.218527618220 -101.066407562596
+(S1 (FRAG (PP (IN In) (NP (NN fact) (SBAR (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))))))
+-29.263332780407 -106.469496783839
+(S1 (FRAG (SBAR (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))))
+-29.303052440943 -106.040853194267
+(S1 (FRAG (IN In) (NP (NP (NN fact)) (SBAR (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))))
+-29.417705096887 -102.349916837375
+(S1 (S (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (NP (PRP$ my) (NNS toys)))) (VP (VBD were) (VP (VBN destroyed)))))
+-29.667045400275 -105.730870703468
+(S1 (PP (IN In) (NP (NN fact) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))))
+-29.994792540342 -106.500170375731
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (VP (ADVP (RB always)) (VBD thought) (SBAR (S (NP (JJ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-30.003430963904 -103.583521706800
+(S1 (FRAG (PP (IN In) (NP (NN fact) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))))
+-30.176735306201 -106.443537121215
+(S1 (S (PP (IN In) (NP (NN fact))) (ADVP (NP (PRP I)) (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-30.177524559969 -104.514020537846
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (NP (PRP I)) (ADVP (RB always))) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-30.226607587336 -106.629429662793
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NX (NNS toys))) (VP (VBD were) (VP (VBN destroyed))))))))
+-30.246722866139 -104.546977160852
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (NP (PRP$ my) (NNS toys)) (SBAR (S (VP (VBD were) (VP (VBN destroyed)))))))))
+-30.552210391848 -102.798512022758
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NX (NNS toys))) (VP (VBD were) (VP (VBN destroyed)))))))))
+-30.629603414146 -104.265655906034
+(S1 (S (PP (IN In) (NP (NN fact))) (ADVP (PRP I) (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed))))))))
+-30.717026390363 -103.699542717559
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (SBAR (S (VP (VBN destroyed)))))))))))
+-30.770701936849 -106.995331037382
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought))) (NP (JJ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))
+-30.786041739040 -106.753623789585
+(S1 (FRAG (IN In) (NP (NN fact) (SBAR (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))))
+-30.913537091453 -106.216252695026
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (S (ADJP (VBN destroyed)))))))))
+-30.928774126119 -107.504706707425
+(S1 (FRAG (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (JJ my) (NNS toys)) (VP (VBD were) (VP (VBN destroyed)))))))))
+-31.016722979077 -107.287435393695
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (VP (ADVP (RB always)) (VBD thought) (NP (PRP$ my) (NNS toys)) (SBAR (S (VP (VBD were) (VP (VBN destroyed))))))))
+-31.057214460607 -105.675887324640
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (VP (ADVP (RB always)) (VBD thought) (NP (PRP$ my) (NNS toys)))) (VP (VBD were) (VP (VBN destroyed)))))
+-31.139827879124 -106.941037901870
+(S1 (S (PP (IN In) (NP (NN fact))) (NP (PRP I)) (VP (ADVP (RB always)) (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (ADJP (VBN destroyed))))))))
+-31.239139923843 -102.385335054991
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (PRP$ my) (NNS toys)) (VP (VBD were) (S (ADJP (VBN destroyed))))))))))
+-32.491935583646 -107.204401550777
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (JJ my) (NNS toys)) (VP (VBD were) (S (VP (VBN destroyed))))))))))
+-32.584275662261 -106.490086551676
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought) (SBAR (S (NP (JJ my) (NNS toys)) (VP (VBD were) (ADJP (VBN destroyed)))))))))
+-33.062504995754 -107.436198375983
+(S1 (S (PP (IN In) (NP (NN fact))) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD thought))) (NP (PRP$ my) (NNS toys)) (VP (VBD were) (ADJP (VBN destroyed)))))
+

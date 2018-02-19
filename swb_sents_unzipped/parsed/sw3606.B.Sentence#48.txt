@@ -1,0 +1,102 @@
+50 x
+-18.428491313373 -74.040664153495
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (DT that) (NN one))))))
+-18.942601866519 -73.533241586427
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (DT that) (CD one))))))
+-19.849426343565 -73.608748345121
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (DT that) (NN one))))))))
+-20.203949706813 -72.328701302872
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (WDT that) (NN one))))))
+-20.316599500486 -73.966528843730
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VBP watch) (NP (DT that) (CD one)))))
+-20.334228446799 -75.945749545929
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VBP watch) (NP (DT that) (NN one)))))
+-20.427123878010 -76.716445611864
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (DT that) (NN one)))))))
+-20.463256632923 -73.101325778053
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (DT that) (CD one))))))))
+-21.073412675368 -76.209023044796
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (DT that) (CD one)))))))
+-21.167961105854 -78.159811339923
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VBP watch) (NP (DT that) (CD one))))))
+-21.290964199018 -76.541622176747
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (IN that) (CD one))))))
+-21.349240813430 -78.203589405250
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (S (VP (VB watch) (NP (DT that) (CD one)))))))
+-21.537894807361 -76.009529272967
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VBP watch) (NP (IN that) (CD one)))))
+-21.554349934217 -71.896785494499
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (WDT that) (NN one))))))))
+-21.645384201601 -74.570061674649
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (IN that) (NN one))))))
+-21.904332191959 -75.046919283737
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VBP watch) (NP (DT that) (CD one)))))
+-21.921961138272 -77.026139985936
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VBP watch) (NP (DT that) (NN one)))))
+-21.986482840702 -75.118942747449
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VBP watch) (NP (WDT that) (NN one)))))
+-22.031519871450 -75.004482761242
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (WDT that) (NN one)))))))
+-22.331700645770 -78.740531716256
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (S (NP (DT that) (NN one)))))))
+-22.337805280279 -77.753894534715
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (S (VP (VB watch) (NP (WDT that) (NN one)))))))
+-22.347761721889 -77.757959962997
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (S (NP (DT that) (CD one)))))))
+-22.428647434023 -78.555331843057
+(S1 (S (NP (NP (PRP I)) (NP (PRP I))) (VBP do) (VP (VBP watch) (NP (DT that) (CD one)))))
+-22.515498115500 -77.771673708136
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (S (VP (VB watch) (NP (DT that) (CD one)))))))))
+-22.532626572258 -77.727895531550
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VBP watch) (NP (DT that) (CD one))))))))
+-22.580531017373 -77.069234416372
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VB watch) (NP (DT that) (CD one)))))
+-22.688453109721 -78.331502435165
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VB watch) (NP (DT that) (NN one)))))
+-22.767288247258 -77.934872683516
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (SBAR (S (VP (VBP watch) (NP (DT that) (CD one))))))))
+-22.810400120577 -78.540416885204
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VB watch) (NP (WDT that) (NN one)))))
+-22.865813805422 -76.109706368373
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (IN that) (CD one))))))))
+-22.871549023444 -77.063216182931
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VBP watch) (NP (IN that) (NN one)))))
+-22.917113031793 -74.138145866276
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (IN that) (NN one))))))))
+-23.333808046136 -77.321978837601
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (S (VP (VB watch) (NP (WDT that) (NN one)))))))))
+-23.379550631834 -77.089919712973
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VBP watch) (NP (IN that) (CD one)))))
+-23.419432066238 -77.245843133019
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (NP (IN that) (NN one)))))))
+-23.460042077810 -78.054068870300
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (S (NP (NN watch)) (NP (DT that) (CD one))))))
+-23.565085618111 -78.207396058200
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VBP watch) (S (NP (DT that) (CD one))))))
+-23.654465425175 -76.199333187456
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VBP watch) (NP (WDT that) (NN one)))))
+-23.847965173174 -78.308615907882
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (S (NP (DT that) (NN one)))))))))
+-23.871533910671 -78.277695107222
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VBP do) (VP (VBP watch) (SBAR (IN that) (S (NP (CD one)))))))
+-23.881583334028 -78.637884166741
+(S1 (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (VP (VB watch) (SBAR (IN that) (S (NP (CD one))))))))
+-23.963745988293 -77.326044154624
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (S (NP (DT that) (CD one)))))))))
+-24.075297387025 -77.502956903099
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (SBAR (S (VP (VBP watch) (NP (DT that) (CD one))))))))))
+-24.136021670609 -76.619539545836
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VB watch) (NP (WDT that) (NN one)))))
+-24.563466117917 -78.143606622938
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VBP watch) (NP (IN that) (NN one)))))
+-24.638725961335 -78.880627487905
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (NN watch)) (NP (WDT that) (NN one)))))))
+-24.834322689879 -77.622153173186
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (S (NP (NN watch)) (NP (DT that) (CD one))))))))
+-25.003697081841 -78.655370806818
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (SBAR (S (VP (VBP watch) (NP (WDT that) (NN one))))))))))
+-25.367384240432 -78.205968358367
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (VP (VB watch) (SBAR (IN that) (S (NP (CD one))))))))))
+-25.424695309495 -78.860899841232
+(S1 (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do))) (VP (VB watch) (NP (IN that) (NN one)))))
+

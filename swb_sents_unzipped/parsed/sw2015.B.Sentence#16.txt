@@ -1,0 +1,102 @@
+50 x
+-10.279992038762 -45.445176780965
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them))))))
+-12.294447533930 -44.746401041042
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them)))))))
+-12.559370707975 -49.590231467713
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them)))))))
+-13.569926308545 -54.360635176114
+(S1 (S (CC and) (NP (PRP I)) (VP (VB go) (PP (IN through) (NP (PRP them))))))
+-14.754489485336 -56.822798664610
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them))))))))
+-14.844036446267 -55.626481275728
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (ADVP (RB through)) (NP (PRP them)))))
+-15.013602050067 -53.152609112921
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (PRT (RP through)) (NP (PRP them)))))
+-15.056345679183 -56.421661931936
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VB go) (PP (IN through) (NP (PRP them)))))))
+-15.109406562528 -55.513745034015
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go)) (PP (IN through) (NP (PRP them)))))
+-15.437229176031 -57.828870901131
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them))))))))
+-15.474878537286 -56.412070199464
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBP go) (PP (IN through) (NP (PRP them))))))
+-16.029019684434 -59.869933152187
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them)))))))
+-16.065419183995 -54.700511022991
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (PP (RB through) (NP (PRP them))))))
+-16.160682899708 -56.450858560475
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (PP (RP through) (NP (PRP them))))))
+-16.796241717082 -60.616246372812
+(S1 (S (CC and) (NP (PRP I)) (VP (VB go)) (PP (IN through) (NP (PRP them)))))
+-16.875064791263 -58.388012071593
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VB go) (PP (IN through) (NP (PRP them)))))))
+-16.894699033860 -59.484555066949
+(S1 (S (NP (CC and) (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them))))))
+-17.087388659436 -54.927705539574
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (ADVP (RB through)) (NP (PRP them))))))
+-17.097881299056 -59.771535986144
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBP go) (ADVP (RB through)) (NP (PRP them))))))
+-17.144419811962 -52.453833431244
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (PRT (RP through)) (NP (PRP them))))))
+-17.175996440251 -57.297663659988
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBP go) (PRT (RP through)) (NP (PRP them))))))
+-17.265362747606 -59.592736944256
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (ADVP (IN through)) (NP (PRP them)))))
+-17.295657129702 -59.574360665864
+(S1 (S (CC and) (NP (PRP I)) (VP (VB go) (PRT (RP through)) (NP (PRP them)))))
+-17.330435498272 -62.834905921026
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (IN through) (NP (PRP them))))))))
+-17.688880976770 -62.887149410892
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (VB go) (PP (IN through) (NP (PRP them))))))))
+-17.830129480522 -63.670449453152
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (VB go) (PP (IN through) (NP (PRP them)))))))
+-17.832763265088 -62.714440554248
+(S1 (S (CC and) (NP (PRP I)) (VP (VB go) (ADVP (RB through)) (NP (PRP them)))))
+-17.888744383104 -61.110189443583
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (PP (IN through) (S (NP (PRP them)))))))
+-17.935913846929 -61.005870908471
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (RB through) (NP (PRP them)))))
+-18.099556239163 -54.001735283067
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (RB through) (NP (PRP them)))))))
+-18.127384029506 -61.122710651775
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (ADVP (RP through)) (NP (PRP them)))))
+-18.183989934877 -55.752082820551
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (RP through) (NP (PRP them)))))))
+-18.262007306418 -62.396048881212
+(S1 (S (CC and) (NP (PRP I)) (VP (VB go) (PP (RP through) (NP (PRP them))))))
+-18.263706678922 -60.595913247223
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (RP through) (NP (PRP them)))))))
+-18.320128553208 -58.845565709739
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (RB through) (NP (PRP them)))))))
+-18.684941168171 -64.633550719644
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VB go) (PP (IN through) (NP (PRP them))))))
+-18.763185894272 -63.567365056235
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go) (ADVP (IN through) (NP (PRP them))))))
+-18.811457711491 -61.635387456422
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VB go) (PRT (RP through)) (NP (PRP them))))))
+-19.119633431048 -61.962523629158
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (VP (VBP go) (PP (IN through) (NP (PRP them)))))))
+-19.420106783853 -64.530230980195
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (VBP go) (PRT (RP through)) (NP (PRP them)))))))
+-19.489033403563 -58.893961208103
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (ADVP (IN through)) (NP (PRP them))))))
+-19.562871800395 -63.737791654672
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VBP go) (ADVP (IN through)) (NP (PRP them))))))
+-19.572071789844 -64.457075637033
+(S1 (S (CC and) (S (NP (PRP I)) (VP (VB go) (PP (RP through) (NP (PRP them)))))))
+-19.767767184703 -63.467780351197
+(S1 (S (CC and) (NP (PRP I)) (VP (VBP go)) (PP (RB through) (NP (PRP them)))))
+-19.903199878272 -60.411413703660
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (PP (IN through) (S (NP (PRP them))))))))
+-20.106927249734 -60.307095135985
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (RB through) (NP (PRP them))))))
+-20.206153188591 -64.119502531419
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (VBP go) (PRT (RP through)) (NP (PRP them)))))
+-20.359906225463 -60.423934915622
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (ADVP (RP through)) (NP (PRP them))))))
+-20.814643410570 -63.601737596078
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VB go) (PRT (RP through)) (NP (PRP them))))))
+-20.981883259743 -62.868589395051
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (VBP go) (ADVP (IN through) (NP (PRP them)))))))
+

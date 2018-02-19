@@ -1,0 +1,102 @@
+50 x
+-19.880447616846 -75.045744266759
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (NNP GENERAL) (NNP HOSPITAL)) (CC or) (NP (NN something)))))))
+-20.220246628005 -72.002548889785
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-20.302492823064 -76.209712973136
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-21.213525431882 -76.858272664343
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NNP GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-21.854805402840 -81.576287597924
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (NNP GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-21.872427251524 -76.727405140898
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NN GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-22.342953706312 -82.285777144356
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (NN GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-23.066001903681 -84.535995023829
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (JJ GENERAL) (NNP HOSPITAL)) (CC or) (NP (NN something)))))))
+-23.816827726597 -85.854646033730
+(S1 (S (NP (PRP It)) (VP (VBD was)) (PP (IN like) (NP (NP (NNP GENERAL) (NNP HOSPITAL)) (CC or) (NP (NN something))))))
+-23.971400600362 -80.503061616584
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (IN like) (NP (NP (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-24.195259189892 -86.416172570570
+(S1 (S (NP (PRP It)) (VP (VBD was)) (PP (IN like) (NP (NP (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something))))))
+-24.377467153145 -87.049256722628
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NNP GENERAL) (NNP HOSPITAL) (CC or) (NN something))))))
+-24.406683948355 -86.140369567074
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NNP GENERAL) (NNP HOSPITAL)) (CC or) (NP (NN something))))))
+-24.497468546773 -86.764871928813
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (S (NP (NP (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something))))))))
+-24.570167390386 -79.170553821492
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (IN like) (NP (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-24.626907499250 -83.236623713703
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ like) (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something)))))
+-24.631398732019 -87.846103666175
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (JJ GENERAL) (NNP HOSPITAL) (CC or) (NN something))))))
+-24.701960166142 -88.466926014610
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (IN like) (S (NP (NP (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something))))))))
+-24.897530017766 -88.008193641208
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (VB like) (NP (NP (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-25.019241233893 -79.918151929738
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (ADJP (JJ GENERAL))) (NP (NN HOSPITAL) (CC or) (NN something)))))
+-25.087910168370 -83.179159729651
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (JJ like) (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something))))))
+-25.138925489158 -83.795565797918
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (ADJP (JJ GENERAL)) (NN HOSPITAL) (CC or) (NN something))))))
+-25.141939292819 -85.022341177267
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (IN like) (NP (NP (NNP GENERAL) (NNP HOSPITAL)) (CC or) (NP (NN something)))))))
+-25.184058887382 -83.506154969155
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (JJ like) (NP (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-25.218858774721 -83.275795971959
+(S1 (S (NP (PRP It)) (VP (VBD was)) (PP (IN like) (NP (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something)))))
+-25.250995091634 -86.466290387640
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (VB like) (NP (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-25.337694489785 -87.008624913982
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (NNP GENERAL)) (NN HOSPITAL) (CC or) (NN something))))))
+-25.358230538062 -85.070532300698
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NN GENERAL))) (NP (NN HOSPITAL) (CC or) (NN something)))))
+-25.398689314965 -86.385457853146
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (JJ like) (NP (NP (JJ GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-25.407949577726 -83.919641833226
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (IN like) (NP (NNP GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-25.414635667296 -85.063669697657
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (JJ GENERAL)) (NN HOSPITAL) (CC or) (NN something))))))
+-25.453023751820 -87.596501541622
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (S (VP (JJ GENERAL) (NP (NN HOSPITAL) (CC or) (NN something))))))))
+-25.539256657229 -85.869636337915
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (IN like) (NP (NP (NNP GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-25.551953681531 -87.399387283165
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ like) (NNP GENERAL) (NN HOSPITAL) (CC or) (NN something)))))
+-25.671087175114 -88.260700481473
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (S (VP (NN GENERAL) (NP (NN HOSPITAL) (CC or) (NN something))))))))
+-25.770482682366 -86.579125986506
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (IN like) (NP (NP (NN GENERAL) (NN HOSPITAL)) (CC or) (NP (NN something)))))))
+-25.841533564329 -82.419675570730
+(S1 (S (NP (PRP It)) (VP (VBD was) (UCP (PP (IN like) (NP (NNP GENERAL) (NNP HOSPITAL))) (CC or) (NP (NN something))))))
+-25.991111373117 -86.781908343735
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NNP GENERAL))) (NP (NN HOSPITAL) (CC or) (NN something)))))
+-26.072404332874 -87.398638761277
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (NNP GENERAL) (NNP HOSPITAL)) (PP (CC or) (NP (NN something))))))))
+-26.081173787162 -88.217254740936
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ like) (NN GENERAL) (NN HOSPITAL) (CC or) (NN something)))))
+-26.190002163603 -85.453986728902
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (IN like) (NP (NN GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-26.191770156084 -84.815748169213
+(S1 (S (NP (PRP It)) (VP (VP (VBD was) (PP (IN like) (NP (NNP GENERAL) (NNP HOSPITAL)))) (CC or) (VP (NP (NN something))))))
+-26.243813177966 -88.255242779362
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (JJ like) (NP (NNP GENERAL) (NN HOSPITAL) (CC or) (NN something))))))
+-26.281046389749 -88.131519779207
+(S1 (S (NP (PRP It)) (VP (VBD was)) (PP (IN like) (NP (NNP GENERAL) (NN HOSPITAL) (CC or) (NN something)))))
+-26.413478170438 -84.460506925197
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (JJ GENERAL))) (NP (NN HOSPITAL) (CC or) (NN something)))))
+-26.721757111682 -84.866513613108
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (ADJP (JJ GENERAL))) (NP (NP (NN HOSPITAL)) (CC or) (NP (NN something))))))
+-26.766610116318 -88.161360099626
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (IN like) (FRAG (NP (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something)))))))
+-26.792835794033 -84.309740354706
+(S1 (S (NP (PRP It)) (VP (VP (VBD was) (PP (IN like) (NP (NNP GENERAL) (NNP HOSPITAL)))) (CC or) (VP (NN something)))))
+-26.858274267449 -88.000652535652
+(S1 (S (NP (PRP It)) (VP (VBD was)) (PP (IN like) (NP (NN GENERAL) (NN HOSPITAL) (CC or) (NN something)))))
+-27.282537119321 -88.450445106396
+(S1 (S (NP (PRP It)) (VP (VBD was) (PRT (IN like)) (NP (JJ GENERAL) (NN HOSPITAL) (CC or) (NN something)))))
+

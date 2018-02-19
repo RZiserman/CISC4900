@@ -1,0 +1,102 @@
+50 x
+-10.612401934274 -38.564286184413
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-11.913144889968 -42.408385526631
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-12.221724516944 -40.480606680438
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))))
+-13.494820651430 -47.936752313752
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-13.574232452847 -42.588242141274
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-14.123310323549 -45.360804708877
+(S1 (S (NP (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-14.256680921489 -47.777664713688
+(S1 (S (WHNP (WDT What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-14.917147801823 -57.181459852179
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (S (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))))
+-15.050133735170 -49.828874390100
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))))
+-15.162027981094 -55.177456684927
+(S1 (S (WHNP (WP What)) (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-15.272161967258 -54.803830012836
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB happen))))))))))
+-15.369562364025 -57.014961648938
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (JJ going)) (S (VP (TO to) (VP (VB happen))))))))
+-15.485966346092 -49.256692385662
+(S1 (FRAG (WHNP (WDT What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-15.534094957196 -53.238355449641
+(S1 (SBAR (WDT What) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-15.725597315162 -58.281773254936
+(S1 (SBAR (WHNP (WP What)) (S (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-15.773744271185 -54.119067583571
+(S1 (S (X (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-16.112820502029 -56.947927740267
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (VP (TO to) (VP (VB happen))))))))
+-16.114866158564 -54.682553508326
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (PP (TO to) (VP (VB happen))))))))
+-16.129386087568 -52.934093717508
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (PP (TO to) (NP (VB happen))))))))
+-16.235667878139 -55.705803078422
+(S1 (SBAR (WHNP (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-16.341554939624 -48.679660754514
+(S1 (FRAG (X (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-16.414785942006 -52.509025223628
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB happen))))))))
+-16.450845860153 -49.942618218224
+(S1 (FRAG (WHNP (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-16.690316631352 -50.407609538172
+(S1 (FRAG (WP What) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-16.856887106368 -51.898279055917
+(S1 (S (NP (WDT What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-16.866801262951 -58.647929355055
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB happen)))))))))
+-16.881484549927 -56.720150508862
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB happen)))))))))))
+-16.906915372661 -55.289402975055
+(S1 (FRAG (WHNP (WP What)) (S (NP (POS 's)) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-16.941029487773 -56.483632695792
+(S1 (FRAG (WHNP (WP What)) (S (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-16.989245597567 -58.029917389048
+(S1 (S (NP (WP What)) (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-17.322542854099 -57.840049957576
+(S1 (FRAG (S (WHNP (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-17.500658339832 -55.392576551038
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB happen))))))))))
+-17.572170632392 -51.343221705405
+(S1 (FRAG (S (NP (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-17.724188738446 -56.598874004352
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (PP (TO to) (VP (VB happen)))))))))
+-17.736120381470 -58.526652850545
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (VP (VBG going) (PP (TO to) (VP (VB happen)))))))
+-17.738708667450 -54.850414213534
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (PP (TO to) (NP (VB happen)))))))))
+-17.750640310474 -56.778193059727
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (VP (VBG going) (PP (TO to) (NP (VB happen)))))))
+-17.763224900402 -55.546742753213
+(S1 (FRAG (WP What) (SBAR (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))))
+-17.827526897724 -58.259408582897
+(S1 (FRAG (SBAR (WDT What) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))))
+-17.855089597594 -56.661325234691
+(S1 (SBAR (S (NP (WP What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+-17.917274437034 -56.353124459905
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB happen)))))))
+-17.965466593912 -58.326821534440
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (S (TO to) (VP (VB happen))))))))
+-18.038589553676 -54.425345719653
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB happen)))))))))
+-18.216210919196 -57.909236937078
+(S1 (FRAG (WHNP (WP What)) (SBAR (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))))
+-18.481945051610 -56.611068462611
+(S1 (FRAG (WHNP (WDT What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))))
+-18.660684324116 -55.938651236937
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going))))) (VP (TO to) (VP (VB happen)))))
+-19.109980922502 -57.308897047064
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB happen)))))))))))
+-19.411727873353 -56.958049674370
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (VP (VBG going) (PP (TO to) (NP (VB happen))))))))
+-19.551978311216 -56.532981149225
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB happen))))))))
+-20.338218684427 -58.029596621714
+(S1 (FRAG (S (NP (WDT What)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB happen)))))))))
+

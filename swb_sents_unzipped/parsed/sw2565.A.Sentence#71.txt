@@ -1,0 +1,102 @@
+50 x
+-14.389517361363 -57.198573744387
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))
+-16.283277248586 -60.010350380362
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-16.419154719022 -62.363986959929
+(S1 (S (CC and) (NP (PRP I)) (MD should) (VP (VBP have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))
+-17.256253540431 -62.159388998822
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-17.381477556021 -64.576602441742
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))))
+-17.597564411850 -69.771184482248
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VBP have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))
+-17.770706027730 -64.365198006980
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))))
+-18.381130902626 -67.276290972205
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-18.463254160595 -68.522765356577
+(S1 (S (CC and) (NP (PRP I)) (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))
+-18.571089684845 -65.167828705915
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))
+-19.358585739073 -72.582961118223
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VBP have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-19.389264883868 -67.860257516335
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (QP (CD two)))))))))
+-19.489216968259 -66.142609373440
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (TO to) (CD two)))))))
+-19.595075681680 -64.919947597738
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (QP (TO to) (CD two))))))))
+-20.058079229225 -72.739570246772
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (S (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-20.141055267074 -72.353766355001
+(S1 (S (CC and) (NP (NN I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))
+-20.361053075406 -70.082588117081
+(S1 (S (NP (CC and) (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))
+-20.388745239819 -72.656298512277
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two))))))))))
+-20.460837770917 -74.731999736683
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VBP have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-20.620411192389 -68.487000911394
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (ADVP (TO to) (CD two)))))))
+-20.984559628971 -69.701337371031
+(S1 (S (CC and) (NP (PRP I)) (MD should) (VP (VBP have) (VP (VBN been) (NP (TO to) (CD two))))))
+-21.066528072392 -68.478675595329
+(S1 (S (CC and) (NP (PRP I)) (MD should) (VP (VBP have) (VP (VBN been) (NP (QP (TO to) (CD two)))))))
+-21.283024768303 -70.672034152311
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (QP (CD two))))))))))
+-21.331938350325 -72.909071974357
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (PP (VBN been) (PP (TO to) (NP (CD two))))))))
+-21.342380138606 -74.489748479992
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (S (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-21.382976855482 -68.954386009415
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (TO to) (CD two))))))))
+-21.418902238739 -73.025670731878
+(S1 (S (CC and) (NP (PRP I)) (MD should) (VP (VBP have) (VP (VBN been) (PP (TO to) (NP (QP (CD two))))))))
+-21.488835566115 -67.731724233713
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (QP (TO to) (CD two)))))))))
+-21.620505253845 -70.547345090898
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-21.887949128253 -71.229672926008
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (ADJP (VBN been) (PP (TO to) (NP (CD two))))))))
+-22.109128097660 -75.551346882747
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (S (VP (VBN been) (PP (TO to) (NP (CD two))))))))))
+-22.256001060148 -72.821072770770
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (QP (CD two))))))))))
+-22.341753317327 -71.103424627875
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (TO to) (CD two))))))))
+-22.381225075738 -75.238286213691
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (QP (CD two)))))))))))
+-22.447612027960 -69.880762852173
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (QP (TO to) (CD two)))))))))
+-22.502380332917 -73.520638070795
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (TO to) (CD two)))))))))
+-22.514171079611 -71.298777547369
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (ADVP (TO to) (CD two))))))))
+-22.608239046338 -72.297976295093
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (QP (TO to) (CD two))))))))))
+-22.719906830372 -73.589974883503
+(S1 (S (CC and) (NP (PRP I)) (MD should) (VP (VBP have) (VP (VBN been) (ADVP (TO to) (CD two))))))
+-22.770453547447 -75.026881778929
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (QP (CD two)))))))))))
+-22.891608804626 -73.309233636034
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (TO to) (CD two)))))))))
+-22.997467515259 -72.086571860332
+(S1 (S (CC and) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (QP (TO to) (CD two))))))))))
+-23.057869027280 -73.836296736618
+(S1 (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (S (ADJP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-23.298854032777 -75.061734988863
+(S1 (FRAG (S (NP (CC and) (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (PP (TO to) (NP (CD two)))))))))
+-23.507651311456 -73.447816165828
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (ADVP (TO to) (CD two))))))))
+-23.586689222943 -74.997664825556
+(S1 (FRAG (S (CC and) (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (QP (TO to) (CD two)))))))))
+-23.670789288953 -74.111864334968
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (TO to) (CD two)))))))
+-23.730349410503 -75.529647497382
+(S1 (S (CC and) (NP (PRP I)) (MD should) (VP (VBP have) (ADJP (VBN been) (PP (TO to) (NP (CD two)))))))
+-23.776648002374 -72.889202559266
+(S1 (S (NP (CC and) (NP (PRP I))) (VP (MD should) (VP (VB have) (VP (VBN been) (NP (QP (TO to) (CD two))))))))
+-24.059935112687 -74.041449561983
+(S1 (S (CC and) (S (NP (PRP I)) (VP (MD should) (VP (VB have) (ADJP (VBN been) (PP (TO to) (NP (CD two)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-17.925301865464 -64.611394867438
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))
+-19.387666861629 -68.949355753295
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))
+-19.690021310727 -73.405368608730
+(S1 (S (CC So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))
+-20.206248780726 -72.294839699636
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me) (NP (DT a) (NN backpack))))))
+-20.467784935195 -72.782247667536
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (JJ backpack)))))
+-20.494063240859 -76.233483485274
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (S (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-20.934700929354 -78.660934192838
+(S1 (SBAR (IN So) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-21.037909421340 -75.346214295942
+(S1 (S (ADVP (RB So)) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))
+-21.487044310874 -76.590717221150
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-21.668613779680 -76.632800585492
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me) (NP (DT a) (NN backpack))))))
+-21.721676498200 -73.528595245552
+(S1 (S (RB So) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-21.810574341360 -77.120208553392
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (JJ backpack)))))
+-21.956428237024 -80.571444371130
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (S (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-21.970968225990 -81.088813440927
+(S1 (S (CC So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me) (NP (DT a) (NN backpack))))))
+-22.272553989412 -78.734183607790
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))))
+-22.324009870458 -81.576221408827
+(S1 (S (CC So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (JJ backpack)))))
+-22.447637183527 -80.064828071354
+(S1 (S (CC So) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-22.733784330429 -82.676990230219
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (VB backpack)))))
+-22.949409309828 -80.928678107007
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-23.042754883381 -79.219533837969
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (X (NP (DT a) (NN backpack))))))
+-23.318856336602 -83.029659128139
+(S1 (S (ADVP (RB So)) (NP (PRP he)) (VP (VBD gave) (NP (PRP me) (NP (DT a) (NN backpack))))))
+-23.356229589489 -78.559654799733
+(S1 (S (ADVP (IN So)) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))
+-23.456992571036 -79.094852546293
+(S1 (S (INTJ (RB So)) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))
+-23.460816901071 -83.517067096039
+(S1 (S (ADVP (RB So)) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (JJ backpack)))))
+-23.639745916275 -80.971477578227
+(S1 (S (ADJP (RB So) (SBAR (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))))
+-23.740884156945 -80.983364500149
+(S1 (S (ADVP (RB So)) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-23.745973066981 -84.477015742701
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (SBAR (S (NP (PRP me)) (NP (DT a) (NN backpack)))))))
+-23.834152042779 -79.436372988418
+(S1 (ADJP (RB So) (SBAR (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))))
+-23.970070217298 -82.225560280465
+(S1 (S (NP (RB So) (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))
+-24.054836696340 -84.096516017344
+(S1 (SBAR (RB So) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-24.061373874128 -81.212040194936
+(S1 (S (RB So) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me) (NP (DT a) (NN backpack)))))))
+-24.066369559868 -81.884762271739
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (ADVP (PRP me)) (NP (DT a) (NN backpack)))))
+-24.077989984931 -81.699448045650
+(S1 (S (RB So) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (JJ backpack))))))
+-24.101371035174 -83.360884872475
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me) (NP (DT a) (JJ backpack))))))
+-24.119441710179 -80.264848825389
+(S1 (FRAG (RB So) (SBAR (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))))
+-24.364365521978 -83.078558735160
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (X (DT a) (JJR backpack)))))
+-24.505119879547 -83.557494723826
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (X (NP (DT a) (NN backpack))))))
+-24.609861041493 -83.421681662558
+(S1 (S (IN So) (NP (PRP he)) (VP (VP (VBD gave) (NP (PRP me))) (NP (DT a) (NN backpack)))))
+-24.616537896810 -79.824099913999
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (NP (DT a)) (NN backpack)))))
+-24.687452421471 -78.990139090409
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (S (NP (DT a) (NN backpack))))))
+-24.768749614431 -81.646795474260
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (ADVP (DT a) (RB backpack)))))
+-25.016552167241 -83.569460897141
+(S1 (FRAG (ADVP (RB So)) (SBAR (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack)))))))
+-25.191876985531 -84.462018734907
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (S (NP (PRP me)) (DT a) (VP (VB backpack))))))
+-25.268272160154 -80.639371703073
+(S1 (FRAG (ADJP (RB So) (SBAR (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))))
+-25.453104366063 -84.547326729601
+(S1 (FRAG (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-25.664721513095 -84.196805003940
+(S1 (S (ADVP (IN So)) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN backpack))))))
+-25.696711617097 -83.452007209841
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (SBAR (S (NP (DT a) (NN backpack)))))))
+-26.078902895763 -84.162060799856
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (NP (NP (DT a)) (NN backpack)))))
+-26.149817420424 -83.328099976266
+(S1 (S (RB So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (S (NP (DT a) (NN backpack))))))
+-26.197103126430 -82.222050589062
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD gave) (NP (PRP me)) (ADVP (DT a) (NN backpack)))))
+

@@ -1,0 +1,102 @@
+50 x
+-36.994340976691 -128.640465214126
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-38.841633393364 -133.645652248462
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (VBG recording) (CC or) (NN s-)))))))
+-39.079531699480 -133.366901934580
+(S1 (S (RB Well) (VP (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))))
+-39.521170712332 -133.576526084022
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (DT a) (NN recording) (CC or) (NN s-))))))))
+-39.631835162856 -134.830764023542
+(S1 (S (RB Well) (VP (VBZ Does) (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-39.651428772391 -136.291683308433
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (VP (ADVP (RB usually)) (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-39.679693541689 -138.262700529161
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VBP make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-39.850362547199 -135.816435251226
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NNS s-)))))))
+-39.986170000746 -138.681592110175
+(S1 (S (ADVP (RB Well)) (VP (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))))
+-40.286483994824 -135.273801683592
+(S1 (S (RB Well) (VP (VBZ Does) (S (NP (PRP it)) (VP (ADVP (RB usually)) (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-40.374359497974 -130.564487892607
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VBP make)) (NP (DT a) (NN recording) (CC or) (NN s-))))
+-40.711689887277 -135.838890603637
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (QP (CC or) (JJR s-))))))))
+-40.746593861266 -138.033799744589
+(S1 (SINV (ADVP (UH Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-40.926824144031 -138.372088968916
+(S1 (S (RB Well) (VP (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (VBG recording) (CC or) (NN s-))))))))
+-40.986519192395 -138.424205041425
+(S1 (S (VP (ADVP (RB Well)) (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))))
+-41.052968167020 -137.636407622056
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (VBG recording) (QP (CC or) (JJR s-))))))))
+-41.216051583985 -131.643251217172
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VB make)) (NP (DT a) (NN recording) (CC or) (NN s-))))
+-41.220987268046 -135.583537782669
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (NP (DT a) (NN recording)) (CC or) (NP (NN s-))))))))
+-41.247531752945 -133.679900678426
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (DT a) (NN recording) (CC or) (JJ s-))))))))
+-41.261185267383 -134.803540788908
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (JJ s-)))))))
+-41.408668780799 -135.951671542342
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (NP (DT a) (NN recording)) (CC or) (NP (NN s-)))))))))
+-41.632135139980 -135.871483847845
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))))
+-41.644790476908 -134.643597726069
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VBP make)) (NP (DT a) (VBG recording) (CC or) (NN s-))))
+-41.664969835121 -138.302962804476
+(S1 (S (RB Well) (VP (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (DT a) (NN recording) (CC or) (NN s-)))))))))
+-41.727959659880 -135.089338081706
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (UCP (NP (DT a) (NN recording)) (CC or) (ADJP (JJ s-))))))))
+-41.859904895299 -137.910417169798
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))))
+-41.905046193017 -137.898623031062
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (NP (DT a) (NN recording)) (CC or) (NP (JJ s-))))))))
+-41.966866173021 -134.529226648580
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))
+-42.096571031721 -137.881826561888
+(S1 (S (S (RB Well) (VP (VBZ Does) (NP (PRP it)))) (ADVP (RB usually)) (VP (VBP make) (NP (DT a) (NN recording) (CC or) (NN s-)))))
+-42.168045556619 -138.560415315617
+(S1 (FRAG (RB Well) (VP (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))))
+-42.358727866252 -138.391924182436
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (NP (DT a) (NN recording)) (CC or) (NP (JJ s-)))))))))
+-42.363388922146 -136.901110249082
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ Does) (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))
+-42.366650700423 -137.736464645140
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ Does) (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-42.409420711344 -137.551108394902
+(S1 (FRAG (RB Well) (VP (VBZ Does) (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))
+-42.486482618675 -135.722361241803
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VB make)) (NP (DT a) (VBG recording) (CC or) (NN s-))))
+-42.656406050944 -136.708993599344
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VP (VB make) (NP (DT a) (NN recording))) (CC or) (VP (VB s-)))))))
+-42.790587520894 -138.658640294402
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (UCP (NP (DT a) (NN recording)) (CC or) (ADJP (JJR s-))))))))
+-42.832471122735 -138.406337398880
+(S1 (S (RB Well) (VP (VBZ Does) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (DT a) (NN recording) (CC or) (JJ s-)))))))))
+-42.929322485578 -136.567800077700
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VBP make)) (NP (NP (DT a) (NN recording)) (CC or) (NP (NN s-)))))
+-42.987258512392 -138.179502305190
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ Does) (S (NP (PRP it)) (VP (ADVP (RB usually)) (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-43.063710405336 -135.708883974805
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (DT a) (ADJP (VBG recording) (CC or) (JJ s-)))))))))
+-43.131723773649 -138.093576671566
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (NP (DT a) (ADJP (VBG recording) (CC or) (JJ s-))))))))
+-43.143164862969 -137.101556688937
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VB make)) (NP (DT a) (NN recording) (CC or) (NNS s-))))
+-43.386914417962 -138.699659937804
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VB make)) (NP (DT a) (NN recording) (QP (CC or) (JJR s-)))))
+-43.545033659767 -136.036836831115
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VB make)) (NP (NP (DT a) (NN recording)) (CC or) (NP (NN s-)))))
+-43.641194763112 -138.476055628633
+(S1 (S (RB Well) (VP (VBZ Does) (S (NP (PRP it)) (RB usually) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-)))))))
+-44.169583384212 -136.475064234761
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ Does)) (SBAR (S (NP (PRP it)) (ADVP (RB usually)) (VP (VB make) (S (NP (DT a) (ADJP (NN recording) (CC or) (JJ s-)))))))))
+-44.221701567091 -137.863119506870
+(S1 (S (S (NP (RB Well)) (VP (VBZ Does) (NP (PRP it)))) (ADVP (RB usually)) (VP (VBP make) (NP (DT a) (NN recording) (CC or) (NN s-)))))
+-44.389291433403 -137.912166533531
+(S1 (SINV (ADVP (RB Well)) (VBZ Does) (NP (PRP it)) (RB usually) (VP (VB make)) (NP (DT a) (NN recording) (CC or) (JJ s-))))
+-44.819992871348 -137.129093861590
+(S1 (S (RB Well) (VP (VBZ Does) (ADVP (PRP it) (RB usually)) (VP (VB make) (NP (DT a) (NN recording) (CC or) (NN s-))))))
+

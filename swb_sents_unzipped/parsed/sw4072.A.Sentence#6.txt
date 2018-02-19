@@ -1,0 +1,102 @@
+50 x
+-27.389777605479 -107.464082929374
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (S (VP (VBG T) (NP (NNS V))))))))
+-27.508444573755 -108.281717419498
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (S (VP (VBG T) (NP (NN V))))))))
+-27.665332990281 -104.864675189644
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (NNS V))))))
+-27.820940492854 -103.819798417618
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNP V))))))
+-28.021812515888 -107.565971988338
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNPS V))))))
+-28.078315544714 -105.252465966833
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (CD V))))))
+-28.287718176094 -106.419440256228
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (NN V))))))
+-28.383344245661 -109.056813310213
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (S (VP (VBG T) (NP (NNP V))))))))
+-28.430911489160 -110.496739953676
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (S (VP (VBG T) (ADVP (RB V))))))))
+-28.525965129053 -107.370861297970
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNS V))))))
+-28.581048294119 -105.233997233067
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (NNS V))))))
+-28.692707268889 -106.305872891227
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (NN V))))))
+-28.804805481589 -106.390972948301
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NN T) (NNS V))))))
+-28.850167791460 -107.173276227256
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (QP (CD T) (CD V)))))))
+-28.853749834633 -109.554254565585
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (S (VP (VBG T) (NP (CD V))))))))
+-28.926139636039 -110.428186703734
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (S (VP (VBG T) (NP (NNS V))))))))
+-28.987309989331 -108.519034704149
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (VBG T) (NNS V))))))
+-29.055657425807 -107.576342474075
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (NNS V))))))
+-29.108613975720 -107.676379992197
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (CD V))))))
+-29.188051852380 -106.531465702049
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNP V))))))
+-29.358099992388 -108.806717671586
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NN V))))))
+-29.409288967104 -108.302794083967
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (NNP V))))))
+-29.412427321191 -109.385047084191
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (CD V))))))
+-29.437996740679 -110.312046653700
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (VBN T) (NNS V))))))
+-29.475483436806 -107.815695932996
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NN T) (NN V))))))
+-29.547483035241 -107.964133251264
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (CD V))))))
+-29.687719111415 -110.277639272769
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNPS V))))))
+-29.819899243742 -109.131107540659
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (NN V))))))
+-29.821483945212 -109.715300387926
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (ADVP (RB up)) (PP (IN with) (NP (NNP T) (NNP V))))))
+-29.871900137527 -110.275583002956
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (S (VP (VBG T) (VP (VBN V))))))))
+-29.916289564579 -110.082528582402
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNS V))))))
+-29.971372729645 -107.945664517498
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (NNS V))))))
+-30.195129917116 -109.102640232732
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NN T) (NNS V))))))
+-30.224888364416 -109.017540175658
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (NN V))))))
+-30.292843301868 -109.525637685833
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NN T) (CD V))))))
+-30.304853641361 -108.476977099902
+(S1 (S (NP (PRP I)) (VP (ADVP (RB usually)) (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNP V))))))
+-30.323455748788 -109.521853871928
+(S1 (S (NP (PRP I)) (VP (ADVP (RB usually)) (VBP keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (NNS V))))))
+-30.456947658220 -110.430289465646
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNS T) (NNS V))))))
+-30.542436481986 -109.884943511687
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (QP (CD T) (CD V)))))))
+-30.800882666247 -110.388047276628
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (CD V))))))
+-31.007664532333 -110.527363217427
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NN T) (NN V))))))
+-31.234569400343 -109.909644649118
+(S1 (S (NP (PRP I)) (VP (ADVP (RB usually)) (VBP keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (CD V))))))
+-31.239171052626 -109.891175915351
+(S1 (S (NP (PRP I)) (VP (ADVP (RB usually)) (VBP keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (NNS V))))))
+-31.249273438371 -109.219849028839
+(S1 (S (NP (PRP I)) (RB usually) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (JJ T) (NNS V))))))
+-31.404880968822 -108.174972256813
+(S1 (S (NP (PRP I)) (RB usually) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (NNP V))))))
+-31.662255992804 -109.607639806028
+(S1 (S (NP (PRP I)) (RB usually) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NNP T) (CD V))))))
+-31.796883818344 -110.683108381492
+(S1 (S (NP (PRP I)) (ADVP (RB usually)) (VP (VB keep) (ADVP (IN up) (PP (IN with) (NP (NNP T) (NNP V)))))))
+-32.164988770087 -109.589171072262
+(S1 (S (NP (PRP I)) (RB usually) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (NNS V))))))
+-32.276647716979 -110.661046730422
+(S1 (S (NP (PRP I)) (RB usually) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (CD T) (NN V))))))
+-32.388745957557 -110.746146787495
+(S1 (S (NP (PRP I)) (RB usually) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NN T) (NNS V))))))
+

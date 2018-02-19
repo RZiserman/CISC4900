@@ -1,0 +1,102 @@
+50 x
+-11.792445014612 -36.263231444011
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy)))))
+-13.216314866405 -43.135193280012
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB easy)))))
+-13.236441084396 -40.898870113557
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (ADJP (JJ easy)))))
+-13.390036727918 -36.985756659721
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy))))))
+-14.173013460319 -46.816547654266
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (ADVP (RB easy)))))
+-14.344854925773 -43.857718449955
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB easy))))))
+-14.942543470687 -41.392352998854
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy)))))))
+-15.262399169969 -38.365395934485
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy))))))
+-15.323588003793 -45.920647178308
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (ADJP (RB easy)))))
+-15.459356488025 -41.032724141320
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy)))))))
+-15.652607257484 -45.711607632868
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ easy))))))
+-15.657394858696 -50.181447255931
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (RB easy))))
+-15.681176547570 -48.264314933708
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB easy)))))))
+-16.052359994888 -47.469278884983
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (ADJP (RB easy)))))
+-16.167068418019 -47.850680405502
+(S1 (S (CC and) (NP (PRP it) (VBZ 's)) (ADJP (JJ easy))))
+-16.335689367696 -47.904686076174
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB easy)))))))
+-16.407478814407 -51.629285173577
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (ADVP (RB easy))))))
+-16.464170262736 -46.041967624275
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy))))))
+-16.468215052505 -47.835465274232
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (JJ easy)))))
+-16.478577512734 -45.237357625523
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB easy))))))
+-16.627643601353 -49.103489306599
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (S (ADJP (JJ easy))))))
+-16.632702135452 -50.768024200496
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (JJ easy)))))
+-16.781505494312 -46.643172394017
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB easy))))))
+-16.784604230760 -49.580238688706
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (NP (RB easy)))))
+-16.968027525487 -50.903972408706
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (RB easy)))))
+-17.174281138581 -51.074344161241
+(S1 (S (CC and) (NP (PRP it)) (VP (POS 's) (NP (RB easy)))))
+-17.349676587679 -48.700636791317
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ easy)))))))
+-17.354506498988 -49.083339236949
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (VP (JJ easy)))))
+-17.641907204486 -50.199948657388
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (S (ADJP (JJ easy))))))
+-17.694278622445 -48.218407166903
+(S1 (S (NP (CC and) (NP (PRP it))) (VP (VBZ 's) (ADJP (JJ easy)))))
+-17.874201726271 -49.479778316217
+(S1 (S (NP (CC and) (PRP it)) (VP (VBZ 's) (ADJP (JJ easy)))))
+-17.942913403091 -50.925815654963
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ 's) (ADVP (JJ easy)))))
+-17.955131162538 -48.557990548961
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ easy))))))
+-17.956385995500 -52.913929315313
+(S1 (FRAG (S (CC and) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB easy))))))
+-18.008425874341 -48.059238054130
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ easy))))))
+-18.131846118005 -50.302763963434
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (RB easy))))))
+-18.280365431976 -52.282016404294
+(S1 (S (CC and) (S (NP (PRP it)) (VP (POS 's) (ADJP (RB easy))))))
+-18.304667967081 -51.049768733150
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB easy)))))))
+-18.402082109234 -50.115036504552
+(S1 (FRAG (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy)))))))
+-18.636514119151 -48.022811668782
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB easy))))))
+-18.769970376053 -49.805864334290
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (VP (JJ easy))))))
+-18.780451987207 -50.690139875617
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB easy)))))))
+-18.987964644265 -52.283611741894
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (RB easy)))))
+-19.072846119429 -50.922473848238
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (ADJP (JJ easy)))))))
+-19.211127682459 -51.648340824905
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (JJ easy))))))
+-19.948530157378 -49.937629832039
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ easy))))))
+-19.960681791009 -52.604958059791
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ easy)))))))
+-20.107891295632 -51.682403246512
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (RB easy))))))
+-20.871205472770 -51.185503711480
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (VP (JJ easy))))))
+-21.169228669844 -52.302113146151
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ 's) (S (ADJP (JJ easy)))))))
+

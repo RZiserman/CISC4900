@@ -1,0 +1,102 @@
+50 x
+-13.952689055620 -44.072732171412
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB not) (JJ smart)))))
+-14.465174283343 -45.322787273261
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB not) (ADJP (JJ smart)))))
+-15.172070235434 -47.544736088324
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADJP (RB not) (JJ smart)))))
+-16.315988276700 -51.404856022944
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB not) (NP (JJ smart)))))
+-16.466851640447 -55.340758517017
+(S1 (S (NP (PRP she)) (VP (POS 's) (RB not) (ADJP (JJ smart)))))
+-16.879358277008 -51.142302861742
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (ADJP (RB not) (JJ smart))))))
+-17.286207162450 -52.788713803124
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB not) (VP (JJ smart)))))
+-17.497516264461 -50.393221082316
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (ADJP (RB not) (JJ smart))))))
+-17.981251347198 -54.613374583016
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (NP (RB not) (JJ smart)))))
+-18.150093090569 -54.189389867245
+(S1 (S (NP (PRP she) (VBZ 's)) (ADJP (RB not) (JJ smart))))
+-18.491450213053 -59.514038451415
+(S1 (S (NP (PRP she)) (VBZ 's) (ADJP (RB not) (JJ smart))))
+-18.783807289522 -59.116064107755
+(S1 (S (NP (PRP she) (POS 's)) (ADJP (RB not) (JJ smart))))
+-18.829845305612 -57.985901346256
+(S1 (S (NP (PRP she)) (VP (POS 's) (NP (RB not) (JJ smart)))))
+-19.491853044362 -59.156556460009
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (RB not) (VP (ADJP (JJ smart))))))
+-20.088858940845 -61.606140342226
+(S1 (NP (NP (PRP she) (POS 's)) (ADJP (RB not) (JJ smart))))
+-20.186723295417 -61.265144127473
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADJP (QP (RB not) (JJ smart))))))
+-20.277158838756 -60.374372189536
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (VP (RB not) (ADJP (JJ smart))))))
+-20.347172181621 -60.988430449066
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB not)) (ADJP (JJ smart)))))
+-20.419618672144 -59.183060208849
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (NP (ADJP (RB not) (JJ smart))))))
+-20.474834976600 -61.961318095593
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADJP (QP (RB not) (JJ smart))))))
+-20.806723983798 -60.775324487999
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADJP (ADVP (RB not)) (JJ smart)))))
+-20.942580732408 -62.861982265379
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (NP (RB not) (JJ smart))))))
+-21.410479930398 -60.837021999146
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (NP (RB not) (JJ smart))))))
+-21.410831491642 -62.263751119539
+(S1 (S (NP (PRP she)) (VP (POS 's) (NP (ADJP (RB not) (JJ smart))))))
+-21.516984432359 -66.066101179773
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB not)) (NP (JJ smart)))))
+-21.714215034871 -68.210683476896
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (VP (RB not) (ADJP (JJ smart)))))))
+-21.957261356309 -66.218911591371
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (NP (QP (RB not) (JJ smart))))))
+-21.976922526996 -67.804292547682
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADVP (RB not)) (ADJP (JJ smart)))))
+-22.001432053346 -66.753500288395
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB not) (JJ smart)))))
+-22.110480618317 -64.019819562228
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADJP (ADVP (RB not)) (JJ smart)))))
+-22.123174041183 -66.576635689717
+(S1 (S (NP (PRP she)) (VP (POS 's) (NP (QP (RB not) (JJ smart))))))
+-22.451290113951 -69.191991847023
+(S1 (S (NP (PRP she)) (VP (POS 's) (ADVP (RB not) (JJ smart)))))
+-22.453898114419 -65.768115301916
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (VP (ADVP (RB not)) (JJ smart)))))
+-22.529085485265 -65.590197486298
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB not)) (VP (JJ smart)))))
+-22.648241007380 -63.637383800970
+(S1 (S (NP (NP (PRP she) (POS 's)) (ADJP (RB not) (JJ smart)))))
+-22.670364284016 -67.327667440258
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (SBAR (S (ADJP (RB not) (JJ smart)))))))
+-22.808088618303 -68.821361749787
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (VP (RB not) (ADJP (JJ smart)))))))
+-22.986448476657 -69.819004542831
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (ADJP (QP (RB not) (JJ smart)))))))
+-23.135430510896 -70.510600736798
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (ADVP (RB not)) (ADJP (JJ smart))))))
+-23.370086587068 -69.588096745277
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (ADVP (RB not)) (ADJP (JJ smart))))))
+-23.438111317898 -68.385254761577
+(S1 (S (NP (PRP she)) (VP (POS 's) (SBAR (S (ADJP (RB not) (JJ smart)))))))
+-23.605352294110 -69.069922763405
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (ADJP (QP (RB not) (JJ smart)))))))
+-23.646794040496 -70.454877887780
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (VP (ADVP (RB not)) (JJ smart))))))
+-24.070437396832 -67.772746867666
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (NP (ADJP (RB not) (JJ smart)))))))
+-24.170887358916 -71.329995806663
+(S1 (S (NP (PRP she) (VBZ 's)) (ADJP (QP (RB not) (JJ smart)))))
+-24.262753333236 -69.486405542118
+(S1 (S (NP (PRP she)) (VP (POS 's) (S (ADJP (ADVP (RB not)) (JJ smart))))))
+-24.365820623041 -65.747786601433
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (NP (ADJP (RB not) (JJ smart)))))))
+-24.390451022204 -70.787282879808
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (VP (ADVP (RB not)) (JJ smart))))))
+-24.574616997789 -68.737323762692
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (ADJP (ADVP (RB not)) (JJ smart))))))
+-25.137802302831 -69.592630896616
+(S1 (S (NP (PRP she)) (VP (VBZ 's) (S (NP (QP (RB not) (JJ smart)))))))
+

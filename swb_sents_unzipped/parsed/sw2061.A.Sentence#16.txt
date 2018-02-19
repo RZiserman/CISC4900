@@ -1,0 +1,102 @@
+50 x
+-11.193448996595 -42.756106131891
+(S1 (PP (IN On) (NP (DT the) (JJ other) (NN coast))))
+-11.696195110404 -41.934167626139
+(S1 (FRAG (PP (IN On) (NP (DT the) (JJ other) (NN coast)))))
+-12.271141133417 -43.528532316803
+(S1 (S (PP (IN On) (NP (DT the) (JJ other) (NN coast)))))
+-13.981393233104 -46.447236585282
+(S1 (FRAG (IN On) (NP (DT the) (JJ other) (NN coast))))
+-14.979518039308 -53.435271644064
+(S1 (NP (IN On) (NP (DT the) (JJ other) (NN coast))))
+-15.017477732625 -52.663004730660
+(S1 (NP (RB On) (DT the) (JJ other) (NN coast)))
+-15.166034896278 -51.717524083389
+(S1 (SBAR (S (PP (IN On) (NP (DT the) (JJ other) (NN coast))))))
+-15.213286081740 -53.456472944574
+(S1 (NP (IN On) (DT the) (JJ other) (NN coast)))
+-15.507920305233 -54.208092339613
+(S1 (X (PP (IN On) (NP (DT the) (JJ other) (NN coast)))))
+-15.963256611168 -53.284365123011
+(S1 (PP (IN On) (S (NP (DT the) (JJ other) (NN coast)))))
+-16.032109784101 -53.998976149602
+(S1 (SBAR (IN On) (S (NP (DT the) (JJ other) (NN coast)))))
+-16.162337718160 -51.816424752707
+(S1 (FRAG (ADVP (RB On)) (NP (DT the) (JJ other) (NN coast))))
+-16.238839726175 -51.641341200884
+(S1 (FRAG (X (IN On)) (NP (DT the) (JJ other) (NN coast))))
+-16.286594521523 -53.907523877682
+(S1 (FRAG (S (PP (IN On) (NP (DT the) (JJ other) (NN coast))))))
+-16.495555343878 -52.313306392574
+(S1 (FRAG (RB On) (NP (DT the) (JJ other) (NN coast))))
+-16.839766575540 -57.825569725249
+(S1 (S (IN On) (NP (DT the) (JJ other) (NN coast))))
+-16.915189481572 -56.407428589208
+(S1 (S (ADVP (RB On)) (NP (DT the) (JJ other) (NN coast))))
+-17.025771066387 -54.424214898971
+(S1 (FRAG (SBAR (S (PP (IN On) (NP (DT the) (JJ other) (NN coast)))))))
+-17.119638720711 -54.533179268081
+(S1 (FRAG (NP (RB On) (DT the) (JJ other) (NN coast))))
+-17.368311468837 -53.896176533495
+(S1 (FRAG (SBAR (IN On) (S (NP (DT the) (JJ other) (NN coast))))))
+-17.457074046504 -57.677046859490
+(S1 (NP (ADVP (RB On)) (DT the) (JJ other) (NN coast)))
+-17.630879938219 -55.860692035337
+(S1 (FRAG (NP (IN On) (DT the) (JJ other) (NN coast))))
+-17.937335360508 -57.381319064961
+(S1 (FRAG (PP (IN On) (S (NP (DT the) (JJ other) (NN coast))))))
+-18.051780521311 -56.918636422534
+(S1 (FRAG (ADVP (IN On)) (NP (DT the) (JJ other) (NN coast))))
+-18.235926089992 -58.780832752523
+(S1 (FRAG (NP (IN On) (NP (DT the) (JJ other) (NN coast)))))
+-18.375675516697 -58.048483774325
+(S1 (X (IN On) (NP (DT the) (JJ other) (NN coast))))
+-18.389766330720 -56.411383025029
+(S1 (S (NP (IN On) (DT the) (JJ other) (NN coast))))
+-18.537534951723 -52.924811836040
+(S1 (FRAG (ADVP (IN On) (NP (DT the) (JJ other) (NN coast)))))
+-18.554051710509 -54.026638060792
+(S1 (PP (IN On) (NP (DT the) (ADJP (JJ other)) (NN coast))))
+-18.568547253641 -56.252902979177
+(S1 (X (ADVP (RB On)) (NP (DT the) (JJ other) (NN coast))))
+-18.585218788392 -57.660423425516
+(S1 (S (NP (RB On) (DT the) (JJ other) (NN coast))))
+-18.635992934513 -61.025312344710
+(S1 (S (PP (IN On) (S (NP (DT the) (JJ other) (NN coast))))))
+-18.781748913026 -58.416020113107
+(S1 (S (NP (IN On) (NP (DT the) (JJ other) (NN coast)))))
+-18.901683083581 -61.460043753409
+(S1 (NP (ADVP (IN On)) (DT the) (JJ other) (NN coast)))
+-18.930807937175 -59.806026129943
+(S1 (S (ADVP (IN On)) (NP (DT the) (JJ other) (NN coast))))
+-19.056797802015 -53.204699483554
+(S1 (FRAG (PP (IN On) (NP (DT the) (ADJP (JJ other)) (NN coast)))))
+-19.114029312070 -55.663729406728
+(S1 (S (ADVP (IN On) (NP (DT the) (JJ other) (NN coast)))))
+-19.169442567662 -59.502767504549
+(S1 (PP (RB On) (NP (DT the) (JJ other) (NN coast))))
+-19.485027121806 -58.087829788501
+(S1 (X (ADVP (IN On)) (NP (DT the) (JJ other) (NN coast))))
+-19.615563762825 -58.059386452778
+(S1 (FRAG (PP (RB On) (NP (DT the) (JJ other) (NN coast)))))
+-19.698433180543 -54.799064241403
+(S1 (S (PP (IN On) (NP (DT the) (ADJP (JJ other)) (NN coast)))))
+-19.732173294628 -60.335474487346
+(S1 (ADVP (IN On) (NP (DT the) (JJ other) (NN coast))))
+-19.860486723161 -60.088631580360
+(S1 (FRAG (NP (ADVP (RB On)) (DT the) (JJ other) (NN coast))))
+-19.972590237040 -61.721384572467
+(S1 (X (NP (IN On) (DT the) (JJ other) (NN coast))))
+-20.520591943747 -60.422641963282
+(S1 (X (PP (RB On) (NP (DT the) (JJ other) (NN coast)))))
+-20.765529782872 -60.785230666664
+(S1 (S (NP (ADVP (RB On)) (DT the) (JJ other) (NN coast))))
+-21.084081026456 -56.103562103406
+(S1 (FRAG (IN On) (NP (DT the) (ADJP (JJ other)) (NN coast))))
+-21.463233798251 -61.050323297365
+(S1 (NP (IN On) (DT the) (ADJP (JJ other)) (NN coast)))
+-23.234243080112 -61.265651983024
+(S1 (FRAG (ADVP (RB On)) (NP (DT the) (ADJP (JJ other)) (NN coast))))
+-23.283792870915 -61.090568442403
+(S1 (FRAG (X (IN On)) (NP (DT the) (ADJP (JJ other)) (NN coast))))
+

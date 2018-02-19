@@ -1,0 +1,102 @@
+50 x
+-30.145311270005 -111.353095014393
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um))))))
+-30.160029495267 -114.767771135784
+(S1 (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um)))))))))
+-30.749881255326 -113.418746402730
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um))))))))))
+-30.751608745003 -112.098538864517
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NN um))))))
+-30.896501228324 -114.164190252854
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NN um))))))))))
+-30.943671859064 -112.942497944613
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (VP (VBG um)))))))
+-31.002428526529 -114.957349097023
+(S1 (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um)))))))))))
+-31.125975701385 -115.008149332950
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (VP (VBG um)))))))))))
+-31.265796739675 -115.262986922686
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NP (NN vacation)) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um))))))))))))
+-31.405274776964 -114.718188388849
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADVP (RB um))))))
+-31.493347002104 -115.267437928901
+(S1 (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um)))))))))
+-31.592280286588 -113.608324443857
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um))))))))))))
+-31.701483129586 -114.353768293981
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NN um))))))))))))
+-31.793694626842 -111.852761807510
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um))))))
+-31.846777217935 -111.436764981544
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um))))))
+-31.937400142163 -113.918413195847
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um))))))))))
+-32.205625172525 -115.197727374077
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (VP (VBG um)))))))))))))
+-32.562687305625 -114.902136937822
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um)))))))))
+-32.575537505403 -114.591318937201
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NP (NN vacation)) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um)))))))))))
+-32.580068674152 -112.762406129972
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (ADJP (JJ um)))))))
+-32.627238167469 -114.760356728800
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (VP (VB um)))))))
+-32.750061873425 -114.107991236974
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um))))))))))))
+-32.791906736197 -114.851441102935
+(S1 (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um)))))))))
+-32.902021080194 -112.936656458372
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um)))))))))))
+-33.025846218401 -115.336762787325
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NP (NN vacation)) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NN um)))))))))))
+-33.121684301100 -115.245145728687
+(S1 (S (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (VP (VBN um)))))))
+-33.209413277614 -114.938209784973
+(S1 (FRAG (ADVP (RB So)) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um)))))))))))
+-33.223499146256 -113.502416369881
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um))))))))))
+-33.352329765314 -113.682100308496
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NN um)))))))))))
+-33.358860958390 -114.915671862574
+(S1 (FRAG (RB So) (NP (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation)))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um)))))))))
+-33.439537196253 -114.526059388592
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (VP (VBG um))))))))))))
+-33.482588447459 -115.041019064174
+(S1 (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um)))))))))))
+-33.583279962240 -115.090985730318
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NP (NN vacation)) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um)))))))))))
+-33.587697310605 -115.346656889837
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NP (NN vacation)) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um))))))))))))
+-33.600167062462 -115.401803730939
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um)))))))))
+-33.824333436472 -114.828057518309
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (ADJP (JJ um)))))))))))
+-33.909763537031 -113.436323251489
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um)))))))))))
+-33.914180857518 -113.691994411008
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um))))))))))))
+-34.396340715227 -115.415338655690
+(S1 (FRAG (RB So) (NP (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation)))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um)))))))))
+-34.497070121815 -114.552730704671
+(S1 (S (PP (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NNS um))))))
+-34.515015175612 -115.017635559437
+(S1 (FRAG (PP (IN So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (ADJP (JJ um)))))))))))))
+-35.047091086813 -115.298174554795
+(S1 (S (PP (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (NP (NN um))))))
+-35.107209356333 -114.674988904352
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NP (NN vacation)) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um)))))))))))
+-35.246076476555 -114.985806904973
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um)))))))))
+-35.433692903246 -113.020326425523
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um)))))))))))
+-35.741085128544 -115.021879752124
+(S1 (FRAG (ADVP (RB So)) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um)))))))))))
+-36.022683969745 -114.636400671822
+(S1 (S (PP (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um))))))
+-36.034527221340 -114.345967573952
+(S1 (FRAG (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (S (ADJP (JJ um))))))))))))
+-36.042250101442 -114.999341829724
+(S1 (FRAG (RB So) (NP (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation)))) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB like) (ADJP (JJ um)))))))))
+-36.066925778652 -115.052397497788
+(S1 (S (PP (RB So) (NP (NP (DT the) (NN type)) (PP (IN of) (NP (NN vacation))))) (NP (PRP you)) (VP (MD 'd) (VP (VB like) (VP (VBN um))))))
+

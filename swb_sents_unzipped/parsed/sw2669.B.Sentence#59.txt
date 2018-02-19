@@ -1,0 +1,102 @@
+50 x
+-16.102303774594 -55.613687311279
+(S1 (NP (QP (RB About) (PDT half)) (DT a) (NN liter)))
+-16.515574230137 -58.371615944460
+(S1 (NP (RB About) (PDT half) (DT a) (NN liter)))
+-16.552138675520 -52.267433888824
+(S1 (NP (QP (IN About) (PDT half) (DT a)) (NN liter)))
+-16.721856009814 -57.731413416876
+(S1 (NP (IN About) (PDT half) (DT a) (NN liter)))
+-16.751887390182 -56.333180849068
+(S1 (NP (QP (RB About) (PDT half) (DT a)) (NN liter)))
+-16.864838973024 -55.397737899509
+(S1 (NP (QP (IN About) (PDT half)) (DT a) (NN liter)))
+-17.114490870136 -61.536544360926
+(S1 (NP (RB About) (RB half) (DT a) (NN liter)))
+-17.530402804620 -62.954158870540
+(S1 (NP (RB About) (PDT half) (NP (DT a) (NN liter))))
+-18.127144646928 -63.547905706067
+(S1 (NP (RB About) (PDT half) (DT a) (JJ liter)))
+-18.328251720249 -59.163221088067
+(S1 (PP (IN About) (NP (PDT half) (DT a) (NN liter))))
+-18.417048799626 -56.815533639025
+(S1 (FRAG (IN About) (NP (PDT half) (DT a) (NN liter))))
+-18.879381924827 -57.877748788315
+(S1 (FRAG (PP (IN About) (NP (PDT half) (DT a) (NN liter)))))
+-19.000432911891 -62.767933751151
+(S1 (NP (NP (IN About) (NN half)) (NP (DT a) (NN liter))))
+-19.014922910253 -59.822203564046
+(S1 (FRAG (NP (QP (RB About) (PDT half)) (DT a) (NN liter))))
+-19.029469550189 -64.361378056778
+(S1 (S (NP (RB About) (NN half)) (NP (DT a) (NN liter))))
+-19.167291272782 -62.290004107179
+(S1 (FRAG (NP (RB About) (PDT half) (DT a) (NN liter))))
+-19.298132059109 -55.537289102042
+(S1 (FRAG (NP (QP (IN About) (PDT half) (DT a)) (NN liter))))
+-19.410160643771 -59.603036062286
+(S1 (FRAG (NP (QP (RB About) (PDT half) (DT a)) (NN liter))))
+-19.641571208645 -61.649801108471
+(S1 (FRAG (NP (IN About) (PDT half) (DT a) (NN liter))))
+-19.655263096266 -60.810597975214
+(S1 (S (PP (IN About) (NP (PDT half) (DT a) (NN liter)))))
+-19.704713628741 -62.301841485085
+(S1 (S (NP (QP (RB About) (PDT half)) (DT a) (NN liter))))
+-19.788415210312 -64.550609904517
+(S1 (S (NP (RB About) (PDT half) (DT a) (NN liter))))
+-19.861712218683 -59.606254152276
+(S1 (FRAG (NP (QP (IN About) (PDT half)) (DT a) (NN liter))))
+-19.977677766406 -62.392770019906
+(S1 (FRAG (RB About) (NP (PDT half) (DT a) (NN liter))))
+-20.040433937587 -62.654095667247
+(S1 (FRAG (RB About) (RB half) (NP (DT a) (NN liter))))
+-20.043513649418 -61.743253222094
+(S1 (S (NP (IN About) (NN half)) (NP (DT a) (NN liter))))
+-20.048105790286 -58.334671921838
+(S1 (S (NP (QP (IN About) (PDT half) (DT a)) (NN liter))))
+-20.197401120948 -62.400418882082
+(S1 (S (NP (QP (RB About) (PDT half) (DT a)) (NN liter))))
+-20.336431966457 -58.400335170120
+(S1 (X (NP (QP (IN About) (PDT half) (DT a)) (NN liter))))
+-20.342326925151 -64.885668999007
+(S1 (PP (IN About) (NP (PDT half) (NP (DT a) (NN liter)))))
+-20.557995040119 -62.466082130364
+(S1 (X (NP (QP (RB About) (PDT half) (DT a)) (NN liter))))
+-20.570564139383 -62.085892073315
+(S1 (S (NP (QP (IN About) (PDT half)) (DT a) (NN liter))))
+-20.627110163875 -64.636621563438
+(S1 (S (NP (IN About) (PDT half) (DT a) (NN liter))))
+-20.721960050137 -62.985024544791
+(S1 (FRAG (PP (IN About) (NP (PDT half) (NP (DT a) (NN liter))))))
+-20.783398780793 -64.056545458478
+(S1 (X (NP (QP (RB About) (PDT half)) (DT a) (NN liter))))
+-20.802075007041 -64.100252714673
+(S1 (FRAG (ADVP (IN About) (PDT half)) (NP (DT a) (NN liter))))
+-20.961570826094 -66.076945047662
+(S1 (FRAG (ADVP (RB About)) (NP (PDT half) (DT a) (NN liter))))
+-20.996612126870 -64.348983890653
+(S1 (FRAG (IN About) (NP (RB half) (DT a) (NN liter))))
+-21.033885135967 -66.376809198861
+(S1 (X (NP (RB About) (PDT half) (DT a) (NN liter))))
+-21.042037282972 -64.639491259353
+(S1 (FRAG (IN About) (NP (PDT half) (NP (DT a) (NN liter)))))
+-21.243261581112 -64.760501708686
+(S1 (FRAG (PP (IN About) (NP (PDT half) (DT a) (JJR liter)))))
+-21.286566506697 -61.349148159327
+(S1 (FRAG (PP (IN About) (NP (NN half))) (NP (DT a) (NN liter))))
+-21.306514705314 -65.886367310934
+(S1 (X (NP (IN About) (PDT half) (DT a) (NN liter))))
+-21.387631857801 -66.039807370189
+(S1 (FRAG (NP (NP (IN About) (NN half)) (NP (DT a) (NN liter)))))
+-21.402591106693 -65.213920891747
+(S1 (FRAG (PP (IN About) (NP (JJ half) (DT a) (NN liter)))))
+-21.529759330223 -63.840596046708
+(S1 (X (NP (QP (IN About) (PDT half)) (DT a) (NN liter))))
+-21.711674027526 -65.941125042261
+(S1 (FRAG (IN About) (NP (PDT half) (DT a) (JJR liter))))
+-21.849307546775 -65.675178889927
+(S1 (FRAG (IN About) (NP (NP (NN half)) (NP (DT a) (NN liter)))))
+-22.114249493233 -65.264789494556
+(S1 (X (ADVP (IN About) (PDT half)) (NP (DT a) (NN liter))))
+-22.160403774533 -65.922230026495
+(S1 (X (ADVP (IN About) (PDT half)) (DT a) (JJR liter)))
+

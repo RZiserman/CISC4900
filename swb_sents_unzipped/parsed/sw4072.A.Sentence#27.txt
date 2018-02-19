@@ -1,0 +1,102 @@
+50 x
+-16.141845837619 -60.395583853075
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (NP (DT a) (RB better)))))
+-16.323621462615 -58.019822923942
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (NP (DT a) (JJR better)))))
+-16.663500638880 -61.043796737101
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (NP (DT a) (JJR better)))))
+-16.766619365678 -60.225546206595
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (NP (DT a) (RB better)))))
+-17.195755668451 -61.158964245176
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (X (DT a) (JJR better)))))
+-17.280815173236 -60.755957712757
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (DT a) (ADVP (RB better)))))
+-17.382189208802 -57.767638004377
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (ADJP (DT a) (JJR better)))))
+-17.391705857541 -64.107875970379
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (X (DT a) (JJR better)))))
+-17.466948724601 -60.294179771983
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (NP (DT a) (RBR better)))))
+-17.535544567921 -58.755979591762
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (NP (DT a) (RBR better)))))
+-17.600565710520 -60.222707599162
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (ADVP (DT a) (RBR better)))))
+-17.667815443993 -58.484763557891
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (ADJP (DT a) (JJR better)))))
+-18.031452767290 -62.535187151459
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (NP (DT a) (JJ better)))))
+-18.064087582751 -65.142152622060
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (NP (DT a) (JJ better)))))
+-18.225632315443 -66.203108811178
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (X (DT a) (RBR better)))))
+-18.278422444881 -63.301502800754
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (X (DT a) (RBR better)))))
+-18.291630407862 -61.487733606195
+(S1 (S (NP (PRP they)) (VP (ADVP (RB typically)) (VBP have) (NP (DT a) (JJR better)))))
+-18.368069108722 -60.808039543884
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (DT a) (ADJP (JJR better)))))
+-18.401949128137 -63.693456888847
+(S1 (S (NP (PRP they)) (VP (ADVP (RB typically)) (VBP have) (NP (DT a) (RB better)))))
+-18.616196333187 -63.158553002528
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (S (NP (DT a) (JJR better))))))
+-18.616834256060 -64.131900360636
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (ADVP (DT a) (RB better)))))
+-18.715134479452 -61.935359992192
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (ADVP (DT a) (RBR better)))))
+-18.716289035374 -62.653174546927
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (ADVP (DT a) (JJR better)))))
+-18.850287767059 -63.520592992046
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (ADVP (DT a) (RB better)))))
+-19.093346369071 -63.128019683803
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (S (ADJP (DT a) (JJR better))))))
+-19.105376185733 -63.827399398939
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (S (ADJP (DT a) (JJR better))))))
+-19.299762366171 -63.409845561140
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (DT a) (ADVP (RBR better)))))
+-19.387910510380 -62.223890274014
+(S1 (S (NP (PRP they)) (VP (ADVP (RB typically)) (VBP have) (NP (DT a) (RBR better)))))
+-19.516851896575 -64.277628438790
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (S (NP (DT a) (JJR better))))))
+-19.656502226766 -64.626986758873
+(S1 (S (NP (PRP they)) (RB typically) (VP (VBP have) (NP (DT a) (JJR better)))))
+-19.704915842333 -62.733482613177
+(S1 (S (NP (PRP they)) (VP (ADVP (RB typically)) (VBP have) (ADJP (DT a) (JJR better)))))
+-19.854768829232 -65.492801120129
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (ADVP (DT a) (JJR better)))))
+-19.861302019750 -66.003097833711
+(S1 (S (NP (PRP they)) (VP (ADVP (RB typically)) (VBP have) (NP (DT a) (JJ better)))))
+-19.865420537473 -65.184477089795
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (ADJP (NP (DT a)) (JJR better)))))
+-19.921407969129 -66.284491953140
+(S1 (S (NP (PRP they)) (RB typically) (VP (VB have) (NP (DT a) (RB better)))))
+-20.033980016367 -66.761836797700
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (NP (QP (DT a) (JJR better))))))
+-20.099500127041 -66.832710041525
+(S1 (S (NP (PRP they)) (RB typically) (VP (VBP have) (NP (DT a) (RB better)))))
+-20.146448287016 -63.277033729235
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (DT a) (ADJP (RBR better)))))
+-20.403210842308 -63.563505892365
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (DT a) (ADJP (RB better)))))
+-20.508845645328 -66.349841909225
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (ADJP (NP (DT a)) (JJR better)))))
+-20.558475527862 -66.738938772151
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VB have) (S (ADVP (DT a) (JJR better))))))
+-20.665288212953 -64.374801839308
+(S1 (S (NP (PRP they)) (RB typically) (VP (VBP have) (ADJP (DT a) (JJR better)))))
+-20.735684112742 -66.213337642267
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (ADVP (DT a)) (ADVP (RB better)))))
+-20.795640867639 -66.155188833959
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (NP (DT a) (NP (RBR better))))))
+-20.868425332072 -65.363143426693
+(S1 (S (NP (PRP they)) (RB typically) (VP (VBP have) (NP (DT a) (RBR better)))))
+-21.208509761838 -66.571579329600
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (S (ADVP (DT a) (JJR better))))))
+-21.246510856111 -66.183087872047
+(S1 (S (NP (PRP they)) (RB typically) (VP (VB have) (NP (DT a) (RBR better)))))
+-21.274866562726 -64.822564679481
+(S1 (S (NP (PRP they)) (ADVP (RB typically)) (VP (VBP have) (ADVP (DT a)) (ADJP (JJR better)))))
+-21.378291562786 -66.111615896883
+(S1 (S (NP (PRP they)) (RB typically) (VP (VB have) (ADVP (DT a) (RBR better)))))
+-21.445541204262 -64.373671534753
+(S1 (S (NP (PRP they)) (RB typically) (VP (VB have) (ADJP (DT a) (JJR better)))))
+

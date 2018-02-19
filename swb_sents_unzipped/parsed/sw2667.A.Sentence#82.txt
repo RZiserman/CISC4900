@@ -1,0 +1,102 @@
+50 x
+-29.567745866525 -97.857151735083
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-32.180195638555 -99.885431647371
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-32.396338954206 -105.037894542038
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VB feel) (ADJP (RB pretty) (JJ good)))))
+-32.693707460041 -106.993851398900
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VBG doing) (NP (PRP it))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-33.230604505679 -109.586946708012
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (RB pretty) (ADJP (JJ good)))))
+-33.275584699833 -108.811417514444
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (JJ pretty) (JJ good)))))
+-33.470575917577 -102.326762984567
+(S1 (FRAG (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-34.035671809227 -110.636322507257
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (RB good)))))
+-34.068087978099 -111.616435306672
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (S (ADJP (RB pretty) (JJ good))))))
+-34.478687574950 -107.521622437931
+(S1 (FRAG (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (S (NP (PRP I)) (VP (VB feel) (ADJP (RB pretty) (JJ good))))))))))
+-34.588676898312 -111.006328006859
+(S1 (FRAG (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))))))))
+-34.850614656033 -101.797545111723
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-34.952471036662 -109.353532319132
+(S1 (FRAG (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-35.306157229283 -109.022131311189
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VBG doing) (NP (PRP it))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-35.393238436831 -111.478652783452
+(S1 (FRAG (CC and) (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))))))
+-35.501101269075 -110.839697426733
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (JJ pretty) (JJ good))))))
+-35.555846593044 -111.615226518816
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (RB pretty) (ADJP (JJ good))))))
+-35.697011176840 -110.099232379753
+(S1 (S (CC and) (PP (IN of) (NP (NN course))) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-35.943729236522 -111.005862278842
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VB feel) (ADJP (RB pretty) (JJ good))))))
+-36.294852895420 -109.284498132342
+(S1 (S (CC and) (PP (IN of) (S (VP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it))))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-36.358928563521 -108.183462777891
+(S1 (S (CC and) (PP (IN of) (NP (NP (NN course)) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-36.410897188871 -111.418603336327
+(S1 (S (CC and) (SBAR (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))))
+-36.532261469337 -107.445175406960
+(S1 (FRAG (CC and) (SBAR (PP (IN of) (NP (NN course))) (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (S (NP (PRP I)) (VP (VB feel) (ADJP (RB pretty) (JJ good))))))))))
+-36.596537494365 -111.463462648384
+(S1 (FRAG (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VBG doing) (NP (PRP it))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-36.642250792699 -110.929880975888
+(S1 (FRAG (CC and) (SBAR (PP (IN of) (NP (NN course))) (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))))))))
+-36.709402774331 -103.585016597442
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-36.960141279429 -111.818314752663
+(S1 (FRAG (CC and) (SBAR (S (PP (IN of) (NP (NN course))) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))))
+-37.131413627129 -108.425605344210
+(S1 (FRAG (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (S (NP (PRP I)) (VP (VB feel) (ADJP (RB pretty) (JJ good))))))))))))
+-37.241402950491 -111.910310913138
+(S1 (FRAG (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))))))))))
+-37.316391760916 -108.550712143886
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VB feel) (ADJP (RB pretty) (JJ good)))))
+-37.446812331218 -111.402205752481
+(S1 (FRAG (CC and) (SBAR (PP (IN of) (NP (NN course))) (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))))))
+-37.680971913843 -103.525017003055
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-37.929491437929 -108.857369069613
+(S1 (S (CC and) (PP (IN of) (NP (NP (NN course)) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-37.967129775699 -110.934244775540
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VBG doing) (NP (PRP it))))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-38.055610246082 -112.127512292041
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course))) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-38.153641013718 -111.071969618060
+(S1 (S (CC and) (PP (IN of) (S (VP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it))))))))) (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-38.217716681820 -109.970934263609
+(S1 (S (CC and) (PP (IN of) (NP (NP (NN course)) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-38.340032732886 -106.942234005989
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-38.341070969996 -106.086251595421
+(S1 (FRAG (CC and) (S (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-38.496712273641 -110.378906589735
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (WHADVP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good)))))
+-38.695647502230 -111.011970049552
+(S1 (S (CC and) (S (PP (IN of) (S (VP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it))))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-39.105446421331 -109.910934669222
+(S1 (S (CC and) (S (PP (IN of) (NP (NP (NN course)) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-39.434603148407 -111.981513519000
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (S (NP (PRP I)) (VP (VB feel) (ADJP (RB pretty) (JJ good))))))
+-39.441252180843 -111.127771264440
+(S1 (FRAG (S (CC and) (PP (IN of) (NP (NN course) (SBAR (IN while) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-39.788279556227 -110.644840555331
+(S1 (S (CC and) (PP (IN of) (NP (NP (NN course)) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-40.198820851185 -108.729705491708
+(S1 (S (CC and) (PP (IN of) (NP (NN course) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (S (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-40.676009295739 -110.584840960944
+(S1 (S (CC and) (S (PP (IN of) (NP (NP (NN course)) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-41.170389990696 -108.669705897320
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-41.327069531452 -112.106378481066
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course) (SBAR (WHADVP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+-41.830489046850 -111.230940489687
+(S1 (FRAG (CC and) (S (PP (IN of) (NP (NN course) (SBAR (WHNP (IN while)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP feel) (ADJP (RB pretty) (JJ good))))))
+

@@ -1,0 +1,102 @@
+50 x
+-48.161567372093 -160.039330822240
+(S1 (S (NP (NP (NN kind)) (PP (IN of) (NP (NP (RB just) (RB in) (JJR more)) (PP (IN of) (NP (DT a)))))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-49.629798276447 -159.714502533212
+(S1 (S (NP (NP (NN kind)) (PP (IN of) (NP (NP (RB just) (RB in) (JJR more)) (PP (IN of) (NP (DT a)))))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-50.195295204240 -162.163623805063
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (RB just) (IN in) (S (NP (NP (JJR more)) (PP (IN of) (NP (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-50.898291286041 -160.001724671980
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (NP (JJR more)) (PP (IN of) (NP (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-51.741029062228 -161.838795797552
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (RB just) (IN in) (S (NP (NP (JJR more)) (PP (IN of) (NP (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-51.832189213124 -159.692801682766
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (NP (NP (JJR more)) (PP (IN of) (NP (DT a)))))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-51.954687641841 -159.589369546072
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (RB just) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-52.444025144029 -159.676896664468
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (NP (JJR more)) (PP (IN of) (NP (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-52.605940829531 -160.473643349553
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (QP (JJR more) (IN of) (DT a))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-52.712105653642 -157.427470412988
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-52.741124341157 -159.412255401914
+(S1 (S (ADVP (NN kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-52.949865949090 -154.848119540569
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-53.120294728723 -161.234464564460
+(S1 (S (NP (NP (NN kind)) (PP (IN of) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-53.195015498238 -162.444167706570
+(S1 (S (ADVP (NN kind) (IN of)) (VP (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VB make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-53.300420117478 -159.367973393738
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (NP (NP (JJR more)) (PP (IN of) (NP (DT a)))))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-53.448678633595 -162.310714475125
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (RB just) (IN in) (S (NP (QP (JJR more) (IN of) (DT a))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-53.500421499829 -159.264541538560
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (RB just) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-53.529585987220 -160.811852438426
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (QP (RBR more) (IN of) (DT a))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-53.685464918642 -159.245043666674
+(S1 (S (ADVP (RB kind) (IN of)) (VP (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VB make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-54.055891090211 -161.232727124944
+(S1 (FRAG (ADVP (NN kind) (IN of)) (ADVP (RB just)) (SBAR (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-54.151674687519 -160.148815342041
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (QP (JJR more) (IN of) (DT a))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-54.209355245511 -159.087427112886
+(S1 (S (ADVP (NN kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-54.214096725062 -161.080650367882
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (JJR more)) (ADVP (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-54.217032356420 -158.054898140915
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (JJR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-54.237889373727 -160.634249160364
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (JJR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-54.257839511630 -157.102642405477
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-54.418096881323 -154.523291251541
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-54.449578539215 -162.288084977297
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VB make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-54.588525633078 -160.909636275432
+(S1 (S (NP (NP (NN kind)) (PP (IN of) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-54.822793422316 -162.111558295471
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VB make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-55.075319845208 -160.487024430914
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (QP (RBR more) (IN of) (DT a))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-55.082441425507 -160.467823460457
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))
+-55.186349820718 -161.531287697858
+(S1 (FRAG (ADVP (RB kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))
+-55.379747459869 -161.175629051534
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (S (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))))
+-55.476521652840 -162.294205713231
+(S1 (S (ADVP (NN kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (JJR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-55.555817735710 -160.641899544009
+(S1 (S (ADVP (RB kind) (IN of)) (VP (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))
+-55.573550994454 -159.287744098781
+(S1 (S (ADVP (RB kind) (IN of)) (VP (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VB make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-55.601624948199 -160.907899117432
+(S1 (FRAG (ADVP (NN kind) (IN of)) (ADVP (RB just)) (SBAR (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-55.685263288652 -157.730069851887
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (JJR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-55.743897544159 -160.512221032047
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NP (DT a) (NN mess)) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-55.759830583050 -160.755822360370
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (NP (JJR more)) (ADVP (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-55.770670279740 -161.695141896203
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VB make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-55.783623231715 -160.309421152852
+(S1 (FRAG (ADVP (NN kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (JJR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-56.065416870719 -161.518615293016
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VB make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-56.732083678706 -161.206459690346
+(S1 (FRAG (ADVP (RB kind) (IN of)) (SBAR (ADVP (RB just)) (IN in) (S (ADVP (RBR more) (IN of) (DT a)) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))))
+-56.765125252902 -162.303938043880
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (NP (NP (JJR more)) (ADVP (IN of) (DT a))))) (VP (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-56.913178089977 -161.697326750548
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (S (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))
+-56.924060973650 -162.219513832626
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-56.942310081701 -160.314528526847
+(S1 (S (ADVP (RB kind) (IN of)) (VP (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VBP make) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks))))))
+-58.117275191031 -161.796470939919
+(S1 (S (ADVP (RB kind) (IN of)) (ADVP (RB just) (PP (IN in) (ADVP (RBR more) (IN of) (DT a)))) (VP (VBP make) (NP (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (DT a) (NN mess)))) (PP (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))
+

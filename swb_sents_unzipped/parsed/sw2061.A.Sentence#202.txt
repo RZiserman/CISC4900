@@ -1,0 +1,102 @@
+50 x
+-11.705625422906 -41.056200646409
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (RB so) (RB much)))))
+-11.724108286929 -41.298257113116
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (RB so) (JJ much)))))
+-12.271717571705 -43.122257488045
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADJP (RB so) (JJ much)))))
+-12.777477997450 -45.066538784212
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so) (RB much)))))
+-14.039040133774 -47.827806946055
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (ADJP (RB so) (JJ much))))))
+-14.495976928271 -48.903425743684
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (IN so) (JJ much)))))
+-14.705840317052 -52.728884966298
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so)) (NP (JJ much)))))
+-15.043027975445 -52.114920522324
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so)) (NP (RB much)))))
+-15.060408831324 -50.558921518443
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADJP (RB so) (RB much)))))
+-15.159595079161 -49.586680543763
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so) (JJ much)))))
+-15.379996876820 -49.995698095952
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (RB so) (NP (RB much)))))
+-15.533017139638 -52.502769832310
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (RB so) (NP (JJ much)))))
+-15.618703843564 -54.199558846779
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so)) (ADVP (RB much)))))
+-15.891494208425 -53.818101293424
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (ADJP (RB so) (RB much))))))
+-16.022586654033 -52.156599399358
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (VP (ADVP (RB so) (RB much))))))
+-16.049279448906 -52.540750204079
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (S (ADJP (RB so) (JJ much))))))
+-16.193478531683 -55.214232612389
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (QP (RB so) (RB much))))))
+-16.271304071617 -51.239944128149
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (S (ADVP (RB so) (RB much))))))
+-16.512770177985 -52.537321470321
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (IN so) (RB much)))))
+-16.551981643395 -53.204793779467
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (PP (RB so) (NP (RB much))))))
+-16.618948644511 -55.832035875411
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (RB so) (ADVP (RB much)))))
+-16.661670730052 -54.849230668647
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so)) (ADJP (JJ much)))))
+-16.791924614996 -55.898870654740
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (QP (RB so) (JJ much))))))
+-16.880707331124 -58.381875824617
+(S1 (S (NP (PRP it)) (VBZ takes) (ADJP (RB so) (JJ much))))
+-16.910566677678 -53.953847519890
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (RB so) (ADJP (JJ much)))))
+-16.934391475165 -57.008782415947
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (QP (IN so) (RB much))))))
+-16.965474087995 -56.190118354001
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (IN so)) (NP (JJ much)))))
+-17.173013978191 -56.361240215028
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (S (VP (ADVP (RB so) (RB much)))))))
+-17.459690144376 -55.576153910027
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (IN so)) (NP (RB much)))))
+-17.460930577136 -58.666948389019
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (PP (RB so) (ADVP (RB much))))))
+-17.512914403008 -55.604283447201
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (VP (ADVP (RB so)) (JJ much)))))
+-17.548377809747 -57.425033946900
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (PP (RB so) (NP (JJ much))))))
+-17.654357884537 -56.996873683537
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADJP (IN so) (JJ much)))))
+-17.777080312949 -57.663754256905
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADJP (ADVP (RB so)) (JJ much)))))
+-17.863317029442 -56.645091118496
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so)) (VP (JJ much)))))
+-17.925214009310 -56.944288279876
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADJP (IN so) (RB much)))))
+-17.930171328785 -57.999729655817
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (S (ADJP (RB so) (RB much))))))
+-18.007386431006 -54.439854952805
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (RB so) (ADJP (RB much)))))
+-18.055129313284 -58.096953325372
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (SBAR (IN so) (S (ADJP (JJ much)))))))
+-18.104917823109 -56.712594262303
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (RB so)) (ADJP (RB much)))))
+-18.124045116259 -57.026396428525
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (NP (ADJP (IN so) (JJ much))))))
+-18.240037860808 -59.058483633115
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (RB so) (VP (ADVP (RB much))))))
+-18.322125549319 -58.842336070065
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (S (NP (RB so) (JJ much))))))
+-18.345463501718 -56.293789419442
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (S (ADVP (RB so) (JJ much))))))
+-18.355140423618 -57.426130777191
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (RB so) (VP (JJ much)))))
+-18.608785828768 -55.073229916347
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (VP (ADVP (RB so) (JJ much))))))
+-18.781234821987 -57.660792234482
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (IN so)) (ADVP (RB much)))))
+-19.154153582091 -58.634473394144
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (SBAR (RB so) (S (ADJP (JJ much)))))))
+-19.276998640083 -58.310464056350
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (ADVP (IN so)) (ADJP (JJ much)))))
+-19.609857154490 -59.067681987874
+(S1 (S (NP (PRP it)) (VP (VBZ takes) (S (ADVP (IN so) (RB much))))))
+

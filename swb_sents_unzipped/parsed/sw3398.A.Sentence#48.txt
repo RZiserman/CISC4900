@@ -1,0 +1,102 @@
+50 x
+-27.764597009778 -87.849913446785
+(S1 (FRAG (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-27.967833064879 -93.351477741985
+(S1 (S (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-28.031274944594 -89.274117447547
+(S1 (FRAG (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-28.050922613066 -88.003266477164
+(S1 (X (S (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-28.801372868130 -97.214822583220
+(S1 (S (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-28.976060760353 -91.608872521030
+(S1 (X (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-29.275306816818 -92.255948877825
+(S1 (FRAG (NP (NP (RB there) (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-29.325446484984 -92.482933506344
+(S1 (FRAG (NP (EX there) (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-29.343421697857 -91.808009290141
+(S1 (X (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-29.358580580637 -91.906535758437
+(S1 (FRAG (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-29.476858268696 -93.653655449588
+(S1 (FRAG (ADVP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-29.530592184205 -92.079686808985
+(S1 (FRAG (NP (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-29.864320546278 -91.852403134254
+(S1 (FRAG (NP (ADVP (RB there)) (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-29.881528141806 -94.710468009767
+(S1 (X (S (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-29.973873320648 -94.316771045191
+(S1 (FRAG (NP (NP (ADVP (RB there)) (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-30.321293622157 -97.112106262440
+(S1 (FRAG (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees) (CC and))))))
+-30.359499556096 -94.716047258319
+(S1 (FRAG (NP (EX there)) (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))) (CC and)))
+-30.612359962700 -96.076712943758
+(S1 (FRAG (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees) (CC and))))))
+-30.765023558129 -95.609022988505
+(S1 (X (ADVP (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-30.825295416622 -97.438202930314
+(S1 (FRAG (NP (NP (NP (EX there)) (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-30.876440197597 -96.899898613367
+(S1 (NP (NP (RB there) (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))) (ADVP (CC and))))
+-30.881116934522 -95.467495149994
+(S1 (FRAG (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (RB pretty) (NNS trees)))) (CC and)))
+-30.940772918481 -97.374901485637
+(S1 (X (ADVP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-31.124618785490 -95.817796652216
+(S1 (FRAG (X (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-31.147794869338 -96.891699150756
+(S1 (FRAG (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (RB pretty) (NNS trees)))) (CC and)))
+-31.174261137783 -96.188385194015
+(S1 (X (S (NP (EX there)) (VP (NNS lots) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-31.232329052783 -94.407570527908
+(S1 (ADVP (ADVP (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-31.233615337811 -95.620848180373
+(S1 (X (S (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (RB pretty) (NNS trees))))) (CC and)))
+-31.264716157802 -96.101005240543
+(S1 (FRAG (ADVP (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-31.293836864059 -96.919373168754
+(S1 (FRAG (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)) (CC and)))))
+-31.386667236164 -97.460568575025
+(S1 (FRAG (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)) (CC and)))))
+-31.397913759836 -94.117693907177
+(S1 (FRAG (PP (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-31.584903204603 -95.883979850072
+(S1 (FRAG (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)) (CC and)))))
+-31.652391244008 -96.638191233924
+(S1 (FRAG (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (QP (RB pretty) (NNS trees)) (CC and))))))
+-31.745221616113 -97.179386640196
+(S1 (FRAG (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (QP (RB pretty) (NNS trees)) (CC and))))))
+-31.824510520537 -94.219365492688
+(S1 (FRAG (NP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-31.887518494244 -96.783037311409
+(S1 (FRAG (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (NP (JJ pretty) (NNS trees)) (ADVP (CC and)))))))
+-31.943457587340 -95.602797915243
+(S1 (FRAG (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (QP (RB pretty) (NNS trees)) (CC and))))))
+-32.083678324250 -97.054046971262
+(S1 (X (NP (EX there)) (S (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-32.101078491019 -97.413910135167
+(S1 (X (ADVP (RB there)) (S (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-32.159424852340 -96.919756970969
+(S1 (FRAG (FRAG (NP (NP (RB there) (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-32.186987537078 -95.899544080064
+(S1 (FRAG (ADVP (RB there) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (ADVP (CC and))))
+-32.278053690895 -96.323090336900
+(S1 (ADVP (ADVP (RB there) (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees)))) (CC and)))
+-32.818201872405 -96.766457077823
+(S1 (FRAG (FRAG (NP (ADVP (RB there)) (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-32.947190494036 -95.502863720752
+(S1 (X (S (NP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-33.222704847490 -95.983774214020
+(S1 (FRAG (NP (NP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (JJ pretty) (NNS trees))))) (CC and)))
+-33.319464070997 -96.501899021736
+(S1 (FRAG (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (ADJP (JJ pretty)) (NNS trees)))) (CC and)))
+-33.606856004285 -96.655252052116
+(S1 (X (S (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (ADJP (JJ pretty)) (NNS trees))))) (CC and)))
+-33.866490894369 -97.302229100700
+(S1 (FRAG (ADVP (RB there)) (NP (NP (NNS lots)) (PP (IN of) (NP (ADJP (RB pretty)) (NNS trees)))) (CC and)))
+-34.175409027658 -97.455582131080
+(S1 (X (S (NP (EX there)) (NP (NP (NNS lots)) (PP (IN of) (NP (ADJP (RB pretty)) (NNS trees))))) (CC and)))
+

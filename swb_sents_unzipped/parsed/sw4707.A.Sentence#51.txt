@@ -1,0 +1,102 @@
+50 x
+-16.326087904037 -53.771053860043
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-19.095099963066 -58.097497982814
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-19.164500114392 -67.089993698773
+(S1 (S (NP (DT That)) (VP (POS 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-19.236777816813 -62.684691392989
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-19.675893817347 -64.678356797536
+(S1 (S (DT That) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-20.130443775415 -59.871014726803
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-20.250604798167 -60.433929017269
+(S1 (S (NP (IN That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-20.574858332276 -63.095840558008
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))))
+-20.580658372015 -67.189708257013
+(S1 (S (NP (DT That)) (VBZ 's) (VP (ADVP (RB always)) (VBN been) (NP (DT a) (JJ high) (NN priority)))))
+-20.741760355464 -62.944142287973
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-20.766204332549 -57.193958596585
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-20.802502879302 -63.666914744140
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (ADVP (RB always)) (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-20.804154551619 -59.989620053126
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))))
+-20.849648372351 -63.741547464774
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (S (NP (DT a) (JJ high) (NN priority)))))))
+-21.138372851473 -64.456851205269
+(S1 (S (NP (DT That)) (VP (VBZ 's) (RB always) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-21.141302664234 -65.906647310619
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-21.260710588874 -61.445184870193
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-21.351806395448 -62.813833128383
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-21.376587272590 -67.450687152916
+(S1 (PP (IN That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-21.520824966486 -68.107418931216
+(S1 (S (NP (IN That)) (VP (POS 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-21.558559225235 -69.181345589324
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (PP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-21.728920090571 -65.001847283573
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-22.056179826413 -64.423170262117
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-22.152220732941 -65.809772121943
+(S1 (S (RB That) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))
+-22.426254590857 -65.702668339615
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-22.595466747344 -66.296383421889
+(S1 (S (NP (IN That)) (VBZ 's) (VP (ADVP (RB always)) (VBN been) (NP (DT a) (JJ high) (NN priority)))))
+-22.839110434124 -69.592392202283
+(S1 (NP (IN That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-23.329575813915 -69.458731108633
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority))))))))
+-23.535216391579 -61.520402719357
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+-23.570792834169 -68.067991587546
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (S (NP (DT a) (JJ high) (NN priority))))))))
+-23.676894245325 -66.107596129532
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+-23.873190800139 -68.783295304942
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (RB always) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-23.919956885545 -66.597853282332
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-24.116010243072 -68.101261534078
+(S1 (S (DT That) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-24.150139877666 -67.993358751681
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (ADVP (RB always)) (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-24.570560201139 -63.293919463345
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+-24.690721223891 -63.856833753811
+(S1 (S (NP (IN That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-24.733619188653 -67.576502517703
+(S1 (FRAG (S (NP (WDT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (JJ high) (NN priority)))))))
+-25.014974758001 -66.518745294550
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))))
+-25.181876781189 -66.367047024516
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-25.242619307815 -67.089819480682
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (ADVP (RB always)) (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-25.244270980131 -63.412524789668
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))))
+-25.578489277197 -67.879755941811
+(S1 (S (NP (DT That)) (VP (VBZ 's) (RB always) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-25.581419092747 -69.329552047162
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+-25.700827017386 -64.868089606735
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-25.791922821173 -66.236737864925
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+-26.169036519084 -68.424752020115
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+-26.496296254925 -67.846074998659
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+-26.592337161454 -69.232676858486
+(S1 (S (RB That) (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority))))))
+-26.866371019369 -69.125573076157
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (ADVP (RB always)) (VP (VBN been) (NP (DT a) (ADJP (JJ high)) (NN priority)))))))
+

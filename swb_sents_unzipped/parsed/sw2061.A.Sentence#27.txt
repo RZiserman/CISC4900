@@ -1,0 +1,102 @@
+50 x
+-18.775023992063 -59.667180615612
+(S1 (PP (IN At) (NP (NNP North) (NNP Carolina) (NNP State) (NNP University))))
+-19.266852728112 -60.568349127275
+(S1 (S (PP (IN At) (NP (NNP North) (NNP Carolina) (NNP State) (NNP University)))))
+-19.372086422256 -57.711857528433
+(S1 (FRAG (PP (IN At) (NP (NNP North) (NNP Carolina) (NNP State) (NNP University)))))
+-19.929245487346 -66.732414953814
+(S1 (NP (NNP At) (NNP North) (NNP Carolina) (NNP State) (NNP University)))
+-21.296125536198 -66.861909423555
+(S1 (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-21.582253809686 -63.609886575680
+(S1 (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NNP State) (NNP University))))
+-21.647030210401 -59.782965113329
+(S1 (PP (IN At) (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University))))
+-21.795546157052 -69.165635831529
+(S1 (PP (IN At) (NP (NNP North) (NNP Carolina) (NP (NNP State) (NNP University)))))
+-21.836030295652 -62.875356553510
+(S1 (S (PP (IN At) (NP (NNP North) (NNP Carolina))) (NP (NNP State) (NNP University))))
+-21.876644943809 -58.784321862144
+(S1 (FRAG (PP (IN At) (NP (NNP North) (NNP Carolina))) (NP (NNP State) (NNP University))))
+-21.917018268158 -69.992866207661
+(S1 (PP (IN At) (NP (NNPS North) (NNP Carolina) (NNP State) (NNP University))))
+-21.925194306800 -69.681329731905
+(S1 (NP (IN At) (NNP North) (NNP Carolina) (NNP State) (NNP University)))
+-22.061845860287 -65.511574130192
+(S1 (FRAG (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University))))))
+-22.179316242667 -61.654563502636
+(S1 (FRAG (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NNP State) (NNP University)))))
+-22.274825185876 -70.295075452201
+(S1 (X (PP (IN At) (NP (NNP North) (NNP Carolina) (NNP State) (NNP University)))))
+-22.398786993379 -67.232475119873
+(S1 (FRAG (PP (IN At) (NP (NNP North) (NNP Carolina) (NP (NNP State) (NNP University))))))
+-22.487695831146 -70.894034770242
+(S1 (S (PP (IN At) (NP (NNPS North) (NNP Carolina) (NNP State) (NNP University)))))
+-22.513680157865 -68.037543187152
+(S1 (FRAG (PP (IN At) (NP (NNPS North) (NNP Carolina) (NNP State) (NNP University)))))
+-22.619724124286 -73.347025809846
+(S1 (PP (IN At) (NP (JJ North) (NNP Carolina) (NNP State) (NNP University))))
+-22.813320595915 -64.511055268927
+(S1 (S (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NNP State) (NNP University)))))
+-22.861496826975 -70.877234913834
+(S1 (X (IN At) (NNP North) (NNP Carolina) (NNP State) (NNP University)))
+-22.986844699920 -68.386766649738
+(S1 (S (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University))))))
+-23.010570619602 -70.099628497096
+(S1 (S (PP (IN At) (NP (NNP North) (NNP Carolina) (NP (NNP State) (NNP University))))))
+-23.259549011206 -71.391702777927
+(S1 (FRAG (PP (IN At) (NP (JJ North) (NNP Carolina) (NNP State) (NNP University)))))
+-23.335640770516 -74.248194495116
+(S1 (S (PP (IN At) (NP (JJ North) (NNP Carolina) (NNP State) (NNP University)))))
+-23.643475336218 -70.947340688154
+(S1 (FRAG (S (PP (IN At) (NP (NNP North) (NNP Carolina) (NNP State) (NNP University))))))
+-24.032344510424 -76.982587036565
+(S1 (S (PP (IN At) (NP (NNP North))) (NP (NNP Carolina) (NNP State) (NNP University))))
+-24.349833090608 -65.356439062028
+(S1 (FRAG (PP (IN At) (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-24.456247027324 -76.271349118964
+(S1 (X (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University))))))
+-24.580931586776 -68.615547444248
+(S1 (X (ADVP (IN At)) (NP (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-24.609622946213 -73.779900890590
+(S1 (FRAG (PP (IN At) (NP (NNP North))) (NP (NNP Carolina) (NNP State) (NNP University))))
+-24.690076418140 -70.272165163252
+(S1 (FRAG (ADVP (IN At)) (NP (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-24.711477115741 -75.120001849485
+(S1 (FRAG (NP (NNP At) (NNP North) (NNP Carolina) (NNP State) (NNP University))))
+-24.717700438058 -76.116718377154
+(S1 (PP (IN At) (NP (NP (NNP North)) (NNP Carolina) (NNP State) (NNP University))))
+-24.997541917213 -74.392825867978
+(S1 (X (ADVP (IN At)) (NP (NNP North) (NNP Carolina) (NNP State) (NNP University))))
+-25.082055011862 -74.237781437500
+(S1 (X (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NNP State) (NNP University)))))
+-25.083772717618 -74.214035533541
+(S1 (PP (IN At) (NP (NNP North)) (NP (NNP Carolina) (NNP State) (NNP University))))
+-25.295262764090 -75.830041043815
+(S1 (SBAR (IN At) (S (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-25.314762882190 -74.161395338489
+(S1 (FRAG (PP (IN At) (NP (NP (NNP North)) (NNP Carolina) (NNP State) (NNP University)))))
+-25.318964346213 -75.423238809232
+(S1 (PP (IN At) (S (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-25.728178012670 -76.312351125672
+(S1 (FRAG (ADVP (IN At)) (NP (NNP North) (NNP Carolina) (NNP State) (NNP University))))
+-25.841874082315 -73.019855271698
+(S1 (FRAG (PP (IN At) (NP (NNP North) (NNP Carolina) (NNP State))) (NP (NNP University))))
+-25.914300358195 -72.906752828367
+(S1 (X (PP (IN At) (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-26.203115739061 -72.571580127350
+(S1 (FRAG (S (PP (IN At) (NP (NNP North) (NNP Carolina))) (NP (NNP State) (NNP University)))))
+-26.316681669576 -76.686472013058
+(S1 (PP (IN At) (NP (NNPS North) (NNP Carolina)) (NP (NNP State) (NNP University))))
+-26.499908171029 -74.225366068386
+(S1 (S (PP (IN At) (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University)))))
+-26.778111027389 -76.017558235341
+(S1 (FRAG (PP (IN At) (NP (NP (NNPS North) (NNP Carolina)) (NNP State) (NNP University)))))
+-26.845506070903 -75.695137179271
+(S1 (FRAG (SBAR (IN At) (S (NP (NNP North) (NNP Carolina)) (NP (NNP State) (NNP University))))))
+-26.947982191682 -75.687828683666
+(S1 (FRAG (PP (IN At) (NP (NNPS North) (NNP Carolina))) (NP (NNP State) (NNP University))))
+-27.189943204021 -74.890046829807
+(S1 (FRAG (S (PP (IN At) (NP (NP (NNP North) (NNP Carolina)) (NNP State) (NNP University))))))
+

@@ -1,0 +1,102 @@
+50 x
+-17.253213217245 -57.530859751375
+(S1 (S (IN so) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-17.659695090155 -57.335030344272
+(S1 (S (RB so) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-18.534711251177 -61.733628518182
+(S1 (S (ADVP (RB so)) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-18.614991917808 -66.455180007539
+(S1 (SBAR (IN so) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-18.734137406254 -65.323073833999
+(S1 (S (CC so) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-19.240737949053 -61.588554424980
+(S1 (S (RB so) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-19.794178718918 -65.853682951774
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))))
+-19.918484949701 -62.386446595074
+(S1 (S (IN so) (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))
+-20.289551979965 -69.489205266894
+(S1 (S (CC so) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-20.528443657592 -63.999182478110
+(S1 (S (ADVP (IN so)) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-20.586990555047 -63.244905942936
+(S1 (S (RB so) (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))
+-20.742554698589 -70.335934980300
+(S1 (SBAR (IN so) (S (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank))))))
+-20.843228841039 -67.486350500739
+(S1 (S (ADVP (RB so)) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-20.853899949720 -67.632185162826
+(S1 (S (CC so) (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))
+-21.397551253388 -70.048077159290
+(S1 (SBAR (RB so) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-21.428583618973 -72.525877495311
+(S1 (S (IN so) (NP (PRP they)) (VP (VBP have) (S (NP (DT this)) (VP (VB think) (NP (NN tank)))))))
+-21.536184882733 -73.503064922090
+(S1 (S (RB so) (NP (PRP they)) (VP (VBP have) (NP (DT this) (VB think) (NN tank)))))
+-21.600597819039 -66.832019460416
+(S1 (SQ (RB so) (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))
+-21.611015229779 -70.020891088514
+(S1 (S (ADJP (RB so) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))))
+-21.673635276831 -67.822013571963
+(S1 (FRAG (RB so) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))))
+-21.706912223519 -67.970231679358
+(S1 (S (IN so) (NP (PRP they)) (VP (VBP have) (NP (NP (DT this)) (NN think) (NN tank)))))
+-21.710808212926 -67.344595313457
+(S1 (S (IN so) (NP (PRP they)) (VP (VBP have) (S (NP (DT this) (NN think) (NN tank))))))
+-21.748925142120 -68.584908009806
+(S1 (S (ADVP (RB so)) (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))
+-21.750825244161 -68.485786604846
+(S1 (ADJP (RB so) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))))
+-21.782341788760 -70.828276204674
+(S1 (SQ (RB so) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-21.835065491882 -72.330048088208
+(S1 (S (RB so) (NP (PRP they)) (VP (VBP have) (S (NP (DT this)) (VP (VB think) (NP (NN tank)))))))
+-21.962189763885 -68.107193866902
+(S1 (S (RB so) (S (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank))))))
+-21.989921829870 -72.059529998172
+(S1 (S (CC so) (S (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank))))))
+-22.033498768235 -70.233135265216
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))))
+-22.113394096428 -67.774402272255
+(S1 (S (RB so) (NP (PRP they)) (VP (VBP have) (NP (NP (DT this)) (NN think) (NN tank)))))
+-22.117290088624 -67.148765906354
+(S1 (S (RB so) (NP (PRP they)) (VP (VBP have) (S (NP (DT this) (NN think) (NN tank))))))
+-22.134114903560 -69.235387415010
+(S1 (S (INTJ (RB so)) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-22.361074025454 -69.751904460667
+(S1 (S (ADVP (IN so)) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-22.520492563733 -70.336033472693
+(S1 (FRAG (CC so) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-22.806697915033 -73.620941663090
+(S1 (S (NP (RB so) (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))
+-22.988410257451 -72.173000446165
+(S1 (S (ADVP (RB so)) (NP (PRP they)) (VP (VBP have) (NP (NP (DT this)) (NN think) (NN tank)))))
+-22.992306246858 -71.547364080264
+(S1 (S (ADVP (RB so)) (NP (PRP they)) (VP (VBP have) (S (NP (DT this) (NN think) (NN tank))))))
+-23.036481586559 -70.539044257202
+(S1 (FRAG (SBAR (RB so) (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))))
+-23.045356738149 -72.029999553111
+(S1 (FRAG (ADVP (RB so)) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank)))))))
+-23.134223425498 -72.546460686468
+(S1 (SBAR (RB so) (S (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank))))))
+-23.190743364324 -69.688785319500
+(S1 (FRAG (ADJP (RB so) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))))
+-23.700950151427 -73.440647483597
+(S1 (FRAG (S (RB so) (NP (PRP they)) (VP (VBP have) (NP (DT this) (NN think) (NN tank))))))
+-23.831503975327 -72.027926352963
+(S1 (S (RB so) (S (NP (PRP they)) (VP (VBP have) (NP (NP (DT this)) (NN think) (NN tank))))))
+-24.006570561281 -71.402289859330
+(S1 (S (RB so) (S (NP (PRP they)) (VP (VBP have) (S (NP (DT this) (NN think) (NN tank)))))))
+-24.110207147677 -72.160838431951
+(S1 (S (ADVP (IN so)) (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))
+-24.184721751685 -71.722108530915
+(S1 (FRAG (RB so) (SBAR (S (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))))
+-24.379518719896 -72.322455451816
+(S1 (S (IN so) (NP (PRP they)) (VP (VB have) (NP (NP (DT this)) (NN think) (NN tank)))))
+-24.600060297463 -73.375367676609
+(S1 (S (IN so) (NP (PRP they)) (VP (VB have) (S (NP (DT this) (NN think) (NN tank))))))
+-24.745884675881 -73.037427784380
+(S1 (FRAG (SBAR (RB so) (S (NP (PRP they)) (VP (VB have) (NP (DT this) (NN think) (NN tank)))))))
+-25.048024328029 -73.180914799678
+(S1 (S (RB so) (NP (PRP they)) (VP (VB have) (NP (NP (DT this)) (NN think) (NN tank)))))
+

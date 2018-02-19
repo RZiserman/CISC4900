@@ -1,0 +1,102 @@
+50 x
+-12.754781999575 -52.464196987151
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VB do) (NP (PRP$ your) (NN research))))))
+-14.265921567996 -58.305333907779
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VBP do) (NP (PRP$ your) (NN research))))))
+-15.756129196619 -62.642280816644
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VB do) (NP (JJ your) (NN research))))))
+-16.275328791335 -57.068770155684
+(S1 (S (NP (PRP You)) (MD would) (VP (VBP do) (NP (PRP$ your) (NN research)))))
+-17.209827111090 -61.720190178566
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VB do) (S (NP (PRP$ your) (NN research)))))))
+-17.211391503324 -68.454378848897
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VBP do) (NP (JJ your) (NN research))))))
+-17.964579481078 -62.279990191792
+(S1 (S (NP (PRP You)) (MD would) (VP (VB do) (NP (PRP$ your) (NN research)))))
+-18.570391329789 -67.032671179747
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VB do) (NP (PRP$ your) (NN research)))))))
+-18.594492999055 -68.294327308213
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VBP do) (S (NP (PRP$ your) (NN research)))))))
+-19.240849101753 -67.217815189432
+(S1 (S (NP (PRP You)) (MD would) (VP (VBP do) (NP (JJ your) (NN research)))))
+-19.599993909102 -72.865144470109
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VBP do) (NP (PRP$ your) (NN research)))))))
+-19.652692690267 -68.571443270862
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VB do) (SBAR (S (NP (PRP$ your) (NN research))))))))
+-20.144279874147 -70.245794718106
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VB do) (S (NP (JJ your) (NN research)))))))
+-20.720161895170 -65.729048098713
+(S1 (S (NP (PRP You)) (MD would) (VP (VBP do) (S (NP (PRP$ your) (NN research))))))
+-20.926042241700 -72.458073708257
+(S1 (S (NP (PRP You)) (MD would) (VP (VB do) (NP (JJ your) (NN research)))))
+-21.256418225165 -76.178150074637
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VBP do) (SBAR (S (NP (PRP$ your) (NN research))))))))
+-21.538082443111 -76.819931847752
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VBP do) (S (NP (JJ your) (NN research)))))))
+-21.636341708411 -77.210754696212
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VB do) (NP (JJ your) (NN research)))))))
+-22.158292248190 -70.907503124853
+(S1 (S (NP (PRP You)) (MD would) (VP (VB do) (S (NP (PRP$ your) (NN research))))))
+-22.662459505353 -77.097047952653
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VB do) (SBAR (S (NP (JJ your) (NN research))))))))
+-22.766579876850 -71.808228868020
+(S1 (S (NP (PRP You)) (MD would) (VP (VBP do) (SBAR (S (NP (PRP$ your) (NN research)))))))
+-22.804311573521 -83.014189503857
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VBP do) (NP (JJ your) (NN research)))))))
+-22.928567643143 -75.660184236796
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VB do) (S (NP (PRP$ your) (NN research))))))))
+-23.577223339227 -74.254652638252
+(S1 (S (NP (PRP You)) (MD would) (VP (VBP do) (S (NP (JJ your) (NN research))))))
+-23.912562341301 -81.525422443907
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VBP do) (S (NP (PRP$ your) (NN research))))))))
+-24.308436251802 -85.041526372116
+(S1 (NP (NP (PRP You)) (VP (MD would) (VP (VB do) (NP (PRP$ your) (NN research))))))
+-24.353812735038 -84.703754756428
+(S1 (S (NP (PRP You)) (VP (MD would) (VP (VBP do) (SBAR (S (NP (JJ your) (NN research))))))))
+-24.565696425666 -78.068558745637
+(S1 (S (NP (PRP You)) (MD would) (VP (VB do) (SBAR (S (NP (PRP$ your) (NN research)))))))
+-24.996233201247 -79.433107664392
+(S1 (S (NP (PRP You)) (MD would) (VP (VB do) (S (NP (JJ your) (NN research))))))
+-25.273424515847 -83.820336977008
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (VP (VB do) (NP (PRP$ your) (NN research)))))))
+-25.383693032741 -82.821239774699
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VB do) (SBAR (S (NP (PRP$ your) (NN research)))))))))
+-25.777446383935 -80.333833549812
+(S1 (S (NP (PRP You)) (MD would) (VP (VBP do) (SBAR (S (NP (JJ your) (NN research)))))))
+-25.793337050215 -90.885196628454
+(S1 (NP (NP (PRP You)) (VP (MD would) (VP (VBP do) (NP (PRP$ your) (NN research))))))
+-25.977257560200 -84.185788776335
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VB do) (S (NP (JJ your) (NN research))))))))
+-26.102288000193 -87.604603196152
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VBP do) (SBAR (S (NP (PRP$ your) (NN research)))))))))
+-26.602336011472 -89.664007233346
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (VP (VBP do) (NP (PRP$ your) (NN research)))))))
+-27.114999489357 -90.051026983446
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VBP do) (S (NP (JJ your) (NN research))))))))
+-27.280413748846 -95.219610201610
+(S1 (NP (NP (PRP You)) (VP (MD would) (VP (VB do) (NP (JJ your) (NN research))))))
+-27.488935240752 -86.594163427429
+(S1 (S (NP (PRP You)) (MD would) (VP (VB do) (SBAR (S (NP (JJ your) (NN research)))))))
+-28.361593212891 -93.998420806502
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (VP (VB do) (NP (JJ your) (NN research)))))))
+-28.517680814614 -91.346844456491
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VB do) (SBAR (S (NP (JJ your) (NN research)))))))))
+-28.565071126830 -97.631250181197
+(S1 (NP (NP (PRP You)) (VP (MD would) (S (VP (VB do) (NP (PRP$ your) (NN research)))))))
+-28.756310221742 -94.297519540867
+(S1 (NP (NP (PRP You)) (VP (MD would) (VP (VB do) (S (NP (PRP$ your) (NN research)))))))
+-29.408542890875 -96.410060786089
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (S (VP (VB do) (NP (PRP$ your) (NN research))))))))
+-29.458530211279 -96.130207877943
+(S1 (S (NP (PRP You)) (VP (MD would) (S (VP (VBP do) (SBAR (S (NP (JJ your) (NN research)))))))))
+-29.634627446800 -99.813052174464
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (VP (VBP do) (NP (JJ your) (NN research)))))))
+-29.816627985787 -93.076330145758
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (VP (VB do) (S (NP (PRP$ your) (NN research))))))))
+-30.122300634910 -100.874190028888
+(S1 (NP (NP (PRP You)) (VP (MD would) (VP (VBP do) (S (NP (PRP$ your) (NN research)))))))
+-31.064921290531 -99.653000633780
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (VP (VBP do) (S (NP (PRP$ your) (NN research))))))))
+-32.052640068842 -99.927583341801
+(S1 (S (NP (NP (PRP You)) (VP (MD would) (VP (VB do) (SBAR (S (NP (PRP$ your) (NN research)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-15.834665250892 -62.158215830628
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (NN military)))))))))))
+-17.120300635865 -58.592894638845
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military)))))))))))
+-17.292385646206 -64.907240880354
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (NN military))))))))))
+-18.024050252923 -60.375174688961
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (JJ military)))))))))))
+-18.229893839379 -68.207560229589
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (NN military)))))))))))
+-18.419053753591 -60.057024431790
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (JJ military)))))))))))
+-18.531392401179 -61.341919688571
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military))))))))))
+-18.955093872645 -68.777018977371
+(S1 (S (NP (PRP I)) (VBP think) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (NN military))))))))
+-18.982328602122 -70.512226374408
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (NN military)))))))))))
+-19.225294677568 -68.821306835490
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (NN military)))))))))))
+-19.302118070618 -65.211697785587
+(S1 (S (NP (PRP I)) (VBP think) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military))))))))
+-19.367866167095 -66.946905182625
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military)))))))))))
+-19.423051856010 -68.178188866939
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (NN military)))))))))))
+-19.435142018237 -63.124199738686
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (JJ military))))))))))
+-19.640795481564 -63.737792015495
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (JJ military)))))))))))
+-19.687614234693 -70.956585279314
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (NN military))))))))))
+-19.828238764836 -71.714440196515
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (NN military)))))))))))
+-19.830145518905 -62.806049481516
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (JJ military))))))))))
+-20.180398048655 -63.442853369454
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (ADJP (JJ military))))))))))))
+-20.205867687677 -66.993977835703
+(S1 (S (NP (PRP I)) (VBP think) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (JJ military))))))))
+-20.271615784154 -68.729185232741
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (JJ military)))))))))))
+-20.335148621617 -70.578147753571
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (VP (NN military))))))))))))
+-20.484134735999 -71.901176428363
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP they)) (VP (VBP 're) (NP (NN military))))))))))
+-20.600871188345 -66.675827578533
+(S1 (S (NP (PRP I)) (VBP think) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (JJ military))))))))
+-20.644014951643 -65.299359851355
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (ADJP (JJ military))))))))))))
+-20.666619287609 -68.411034975570
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (JJ military)))))))))))
+-20.683015072882 -71.570331885216
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (NN military))))))))))
+-20.880772251324 -70.927213916665
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (NN military))))))))))
+-20.951836427964 -71.619322648856
+(S1 (S (NP (PRP I)) (VP (VB think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military))))))))))
+-21.035440077015 -71.704451110867
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (NP (NN military))))))))))))
+-21.051887246878 -66.486817065220
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (JJ military))))))))))
+-21.268421617021 -68.149119004731
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military)))))))))))
+-21.591489813969 -66.191878419180
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (ADJP (JJ military)))))))))))
+-21.793217700972 -68.335855236580
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military))))))))))
+-21.822612913530 -70.356595162237
+(S1 (S (NP (PRP I)) (VBP think) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (JJ military))))))))
+-21.884984560284 -68.480086269875
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military))))))))))
+-22.055106716957 -68.048384901081
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (ADJP (JJ military)))))))))))
+-22.172171234080 -69.931399054847
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (JJ military)))))))))))
+-22.362215483409 -70.061656516196
+(S1 (S (NP (PRP I)) (VBP think) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (ADJP (JJ military)))))))))
+-22.427963579886 -71.796863913234
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (ADJP (JJ military))))))))))))
+-22.567174737535 -69.613248797677
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (JJ military)))))))))))
+-22.761554361638 -69.952520868884
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (ADJP (JJ military))))))))))))
+-22.788734177343 -70.262366319991
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (NP (JJ military))))))))))
+-22.827250066164 -67.899824370834
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (ADVP (JJ military))))))))))))
+-22.840052848031 -70.118135286695
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP they)) (VP (VBP 're) (NP (JJ military))))))))))
+-23.119385134286 -71.084880286305
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ military)))))))))
+-23.183737678011 -69.944216062820
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (JJ military))))))))))
+-23.228787588698 -69.799985029525
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP they)) (VP (VBP 're) (VP (JJ military))))))))))
+-23.431943377323 -71.326491480177
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (NP (JJ military))))))))))))
+-24.238341831478 -70.648849420560
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (S (ADVP (JJ military)))))))))))
+

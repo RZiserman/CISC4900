@@ -1,0 +1,102 @@
+50 x
+-38.732802673573 -137.251696492165
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (NP (PRP myself)) (CC or) (RB not) (RB much)))))))
+-38.998425881237 -137.170266808597
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (NP (PRP myself)) (CC or) (RB not) (RB much))))))))
+-39.097304059209 -135.015443435206
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (UCP (PP (IN by) (NP (PRP myself))) (CC or) (ADVP (RB not) (RB much)))))))
+-39.710662152750 -134.934013751638
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (UCP (PP (IN by) (NP (PRP myself))) (CC or) (ADVP (RB not) (RB much))))))))
+-39.995215775912 -129.873302323299
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-40.186603167560 -136.185558051090
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (ADVP (RB not) (RB much))))
+-40.590653764498 -131.799698150863
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (JJ much)))))
+-40.631330819130 -132.718633772313
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (ADVP (RB not) (RB much)))))
+-40.802356422720 -136.921843778982
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (RB not) (ADJP (JJ much))))
+-40.846464088602 -131.341985598718
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-40.861063164087 -137.020089242501
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (ADVP (RB not) (RB much))))
+-41.159471649852 -135.884589859287
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (UCP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (RB not) (ADVP (RB much))))))
+-41.234623753228 -131.886813934106
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (RB much)))))
+-41.261384608045 -132.775264540969
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (ADVP (RB not) (JJ much)))))
+-41.283712382959 -133.424395343184
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-41.404880383668 -136.777846287295
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (RB much))))
+-41.441902049311 -133.268381426282
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (JJ much)))))
+-41.482579103943 -134.187317047733
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (ADVP (RB not) (RB much)))))
+-41.541835502638 -135.803160088858
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (UCP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (RB not) (ADVP (RB much)))))))
+-41.589874858087 -134.843007346748
+(S1 (UCP (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (ADVP (RB not) (RB much))))
+-41.717455037865 -136.758289257405
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (UCP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (RB not) (ADJP (JJ much))))))
+-41.737500857242 -132.086007486505
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (VP (ADJP (RB not) (JJ much)))))))
+-41.879150371545 -135.350791170748
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (JJ much)))))
+-41.890330003537 -136.774575436248
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (UCP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (ADJP (RB not) (RB much))))))
+-41.919827426177 -136.269726792198
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (ADVP (RB not) (RB much)))))
+-42.085872065919 -133.355497209526
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (RB much)))))
+-42.093299755649 -134.893078618603
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-42.112632920736 -134.243947816389
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (ADVP (RB not) (JJ much)))))
+-42.126322478261 -136.954768549994
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (UCP (PP (IN by) (NP (PRP myself))) (CC or) (RB not) (ADJP (JJ much)))))))
+-42.185842989650 -136.676859486976
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (UCP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (RB not) (ADJP (JJ much)))))))
+-42.312533944200 -136.693145665820
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (UCP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (ADJP (RB not) (RB much)))))))
+-42.396264171906 -132.004577802937
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (VP (ADJP (RB not) (JJ much))))))))
+-42.523120388153 -135.437906953991
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (RB much)))))
+-42.549881242970 -136.326357560854
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (ADVP (RB not) (JJ much)))))
+-42.682899961885 -133.530224548031
+(S1 (UCP (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (ADJP (RB not) (RB much))))
+-42.688737716358 -136.819474446167
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (JJ much)))))
+-42.696181520788 -135.179264421624
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RB out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-42.739844707555 -136.024544957323
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (ADJP (RB not) (RB much)))))
+-42.821085780803 -136.873338866426
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (UCP (PP (IN by) (NP (PRP myself))) (CC or) (RB not) (ADJP (JJ much))))))))
+-42.828619671528 -135.546268242747
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (JJ much)))))
+-43.291619481496 -137.105660249188
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RB out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (JJ much)))))
+-43.332707732966 -136.906590229410
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (RB much)))))
+-43.510654133019 -136.043935315274
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (ADVP (RB out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-43.547429833478 -136.647947697044
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RB out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-43.679867984218 -137.014951518167
+(S1 (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (S (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (JJ much)))))
+-43.860127468450 -136.931006243508
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (ADVP (IN out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADVP (RB much)))))
+-43.901853876810 -137.081317567915
+(S1 (UCP (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBD got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (ADJP (RB not) (RB much))))
+-43.935589498104 -137.192776032431
+(S1 (S (S (CC and) (RB so) (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VBN got) (PRT (RB out)) (PP (IN by) (NP (PRP myself)))))) (CC or) (FRAG (RB not) (ADJP (RB much)))))
+-44.767549599751 -136.016141400448
+(S1 (S (CC and) (ADVP (IN so)) (S (NP (PRP I)) (ADVP (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (VP (ADJP (RB not) (JJ much))))))))
+-46.457057010209 -136.312652921322
+(S1 (S (CC and) (ADVP (RB so) (PRP I) (RB never)) (NP (PRP you)) (VP (VBP know) (VP (VP (VBN got) (PRT (RP out)) (PP (IN by) (NP (PRP myself)))) (CC or) (VP (ADJP (RB not) (JJ much)))))))
+

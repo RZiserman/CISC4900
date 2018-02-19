@@ -1,0 +1,102 @@
+50 x
+-18.725976071672 -53.868715420041
+(S1 (FRAG (PP (IN For) (NP (NN example))) (INTJ (UH uh) (UH oh))))
+-20.309593832003 -59.882514327501
+(S1 (FRAG (IN For) (NP (NN example)) (INTJ (UH uh) (UH oh))))
+-20.540098691589 -59.642704345400
+(S1 (FRAG (PP (IN For) (NP (NN example))) (INTJ (UH uh)) (INTJ (UH oh))))
+-20.863100414653 -61.035901839726
+(S1 (FRAG (PP (IN For) (NP (NN example))) (INTJ (UH uh) (INTJ (UH oh)))))
+-21.558563408210 -61.036091718837
+(S1 (FRAG (X (PP (IN For) (NP (NN example)))) (INTJ (UH uh) (UH oh))))
+-22.176033034377 -65.884619017438
+(S1 (FRAG (IN For) (NP (NN example)) (INTJ (UH uh)) (INTJ (UH oh))))
+-22.536204558522 -67.370694736707
+(S1 (FRAG (IN For) (NP (NN example)) (INTJ (UH uh) (INTJ (UH oh)))))
+-22.692754608925 -66.235843961028
+(S1 (FRAG (PP (IN For) (NP (NN example))) (INTJ (INTJ (UH uh)) (INTJ (UH oh)))))
+-23.314852253686 -67.380311153657
+(S1 (FRAG (X (IN For)) (NP (NN example)) (INTJ (UH uh) (UH oh))))
+-23.447909308612 -66.810080576919
+(S1 (FRAG (X (PP (IN For) (NP (NN example)))) (INTJ (UH uh)) (INTJ (UH oh))))
+-23.695687751191 -68.203278138522
+(S1 (FRAG (X (PP (IN For) (NP (NN example)))) (INTJ (UH uh) (INTJ (UH oh)))))
+-23.858079736792 -68.204516957690
+(S1 (FRAG (X (IN For) (NP (NN example))) (INTJ (UH uh) (UH oh))))
+-24.391751311419 -72.663515303140
+(S1 (FRAG (IN For) (NP (NN example)) (INTJ (INTJ (UH uh)) (INTJ (UH oh)))))
+-24.716027021961 -71.727055557358
+(S1 (FRAG (ADJP (IN For) (NN example)) (INTJ (UH uh) (UH oh))))
+-24.869099005246 -70.423970559017
+(S1 (FRAG (FRAG (PP (IN For) (NP (NN example)))) (INTJ (UH uh) (UH oh))))
+-25.028378399708 -71.154830868839
+(S1 (FRAG (ADVP (IN For)) (NP (NN example)) (INTJ (UH uh) (UH oh))))
+-25.129079559354 -71.572502736705
+(S1 (FRAG (NP (IN For) (NN example)) (INTJ (UH uh) (UH oh))))
+-25.180579897470 -73.475548102736
+(S1 (FRAG (ADVP (IN For) (NN example)) (INTJ (UH uh) (UH oh))))
+-25.187560253496 -73.404902457753
+(S1 (FRAG (X (IN For)) (NP (NN example)) (INTJ (UH uh)) (INTJ (UH oh))))
+-25.490702077487 -74.686408613325
+(S1 (FRAG (X (IN For)) (NP (NN example)) (INTJ (UH uh) (INTJ (UH oh)))))
+-25.525341945463 -73.403220259825
+(S1 (FRAG (X (PP (IN For) (NP (NN example)))) (INTJ (INTJ (UH uh)) (INTJ (UH oh)))))
+-25.711585863882 -77.442801976482
+(S1 (FRAG (SBAR (IN For) (NN example)) (INTJ (UH uh) (UH oh))))
+-25.747425637194 -73.978505815772
+(S1 (FRAG (X (IN For) (NP (NN example))) (INTJ (UH uh)) (INTJ (UH oh))))
+-25.995204079773 -75.371703377375
+(S1 (FRAG (X (IN For) (NP (NN example))) (INTJ (UH uh) (INTJ (UH oh)))))
+-26.024987516754 -77.275157450349
+(S1 (FRAG (PP (IN For) (NN example)) (INTJ (UH uh) (UH oh))))
+-26.335432156971 -80.842160626311
+(S1 (FRAG (PP (IN For) (NP (NN example) (INTJ (UH uh) (UH oh))))))
+-26.462976280232 -76.859106284454
+(S1 (FRAG (FRAG (IN For) (NP (NN example))) (INTJ (UH uh) (UH oh))))
+-26.613383233751 -74.372955650368
+(S1 (FRAG (FRAG (X (IN For)) (NP (NN example))) (INTJ (UH uh) (UH oh))))
+-26.675235553077 -77.751646615237
+(S1 (FRAG (ADJP (IN For) (NN example)) (INTJ (UH uh)) (INTJ (UH oh))))
+-26.822038844861 -76.426075384675
+(S1 (FRAG (FRAG (PP (IN For) (NP (NN example)))) (INTJ (UH uh)) (INTJ (UH oh))))
+-26.824289318339 -76.960395303421
+(S1 (FRAG (NP (IN For) (NN example)) (INTJ (UH uh)) (INTJ (UH oh))))
+-26.891876845763 -79.033153017027
+(S1 (FRAG (ADJP (IN For) (NN example)) (INTJ (UH uh) (INTJ (UH oh)))))
+-27.020499881549 -77.607766788027
+(S1 (FRAG (ADVP (IN For)) (NP (NN example)) (INTJ (UH uh)) (INTJ (UH oh))))
+-27.069925867567 -79.249537214371
+(S1 (FRAG (ADVP (IN For) (NN example)) (INTJ (UH uh)) (INTJ (UH oh))))
+-27.095709731766 -77.912150968223
+(S1 (FRAG (FRAG (PP (IN For) (NP (NN example)))) (INTJ (UH uh) (INTJ (UH oh)))))
+-27.204228223509 -78.460928328508
+(S1 (FRAG (ADVP (IN For)) (NP (NN example)) (INTJ (UH uh) (INTJ (UH oh)))))
+-27.266203902336 -78.739689156389
+(S1 (FRAG (NP (IN For) (NN example)) (INTJ (UH uh) (INTJ (UH oh)))))
+-27.317704240451 -80.642734522421
+(S1 (FRAG (ADVP (IN For) (NN example)) (INTJ (UH uh) (INTJ (UH oh)))))
+-27.346248833171 -79.979229179758
+(S1 (FRAG (X (IN For)) (NP (NN example)) (INTJ (INTJ (UH uh)) (INTJ (UH oh)))))
+-27.485782534027 -78.809809968678
+(S1 (FRAG (SBAR (IN For) (S (NP (NN example)))) (INTJ (UH uh) (UH oh))))
+-27.553077510383 -76.679724829162
+(S1 (FRAG (FRAG (ADJP (IN For) (NN example))) (INTJ (UH uh) (UH oh))))
+-27.591335737209 -78.738310232355
+(S1 (FRAG (X (X (IN For)) (NP (NN example))) (INTJ (UH uh) (UH oh))))
+-27.632715480109 -77.994997294194
+(S1 (FRAG (IN For) (S (NP (NN example))) (INTJ (UH uh) (UH oh))))
+-27.824858274045 -80.571645498678
+(S1 (FRAG (X (IN For) (NP (NN example))) (INTJ (INTJ (UH uh)) (INTJ (UH oh)))))
+-28.091097058002 -78.689749625643
+(S1 (FRAG (ADJP (QP (IN For) (NN example))) (INTJ (UH uh) (UH oh))))
+-28.388392213500 -77.795882309686
+(S1 (FRAG (NP (QP (IN For) (NN example))) (INTJ (UH uh) (UH oh))))
+-28.572591748140 -80.397546654557
+(S1 (FRAG (FRAG (X (IN For)) (NP (NN example))) (INTJ (UH uh)) (INTJ (UH oh))))
+-28.617914523291 -79.154382889546
+(S1 (FRAG (FRAG (ADVP (IN For)) (NP (NN example))) (INTJ (UH uh) (UH oh))))
+-28.919486195784 -79.316683061448
+(S1 (FRAG (FRAG (NP (IN For) (NN example))) (INTJ (UH uh) (UH oh))))
+-28.970147157164 -81.174253917112
+(S1 (FRAG (PP (IN For) (S (NP (NN example)))) (INTJ (UH uh) (UH oh))))
+

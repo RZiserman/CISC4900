@@ -1,0 +1,102 @@
+50 x
+-14.271802280414 -58.077322016230
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (RB very) (JJ interesting)) (NN vacation)))))
+-18.850844019366 -68.914542374119
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (JJ very) (JJ interesting) (NN vacation)))))
+-19.426534812872 -68.580048588653
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (RB very) (JJ interesting) (NN vacation)))))
+-20.013680950755 -69.863177761166
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (ADJP (RB very) (JJ interesting)) (NN vacation))))))
+-20.263587284945 -69.163115359631
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (JJ very) (JJ interesting)) (NN vacation)))))
+-21.697457833179 -73.949679460864
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a)) (ADJP (RB very) (JJ interesting)) (NN vacation)))))
+-21.770823247205 -73.932390252512
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (DT a) (ADJP (RB very) (JJ interesting)) (NN vacation)))))))
+-21.824745734643 -74.774642883284
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (ADVP (RB very)) (JJ interesting)) (NN vacation)))))
+-22.180884975525 -75.968215946113
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (RB very) (ADJP (JJ interesting))) (NN vacation)))))
+-23.400907695731 -77.754153205592
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (ADJP (RB very) (JJ interesting))) (NN vacation)))))
+-23.914867833488 -77.689259062832
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (RB very)) (JJ interesting) (NN vacation)))))
+-24.234145864024 -77.390944778363
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (JJ very) (ADJP (JJ interesting)) (NN vacation)))))
+-24.393172419042 -85.771810935087
+(S1 (NP (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (RB very) (JJ interesting)) (NN vacation)))))
+-24.763290952986 -80.267537436454
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (JJ very) (JJ interesting) (NN vacation))))))
+-24.770666341979 -84.974596247112
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (ADJP (RB very)) (JJ interesting)) (NN vacation)))))
+-24.986892117584 -79.472625320324
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (RB very) (ADJP (JJ interesting)) (NN vacation)))))
+-25.126707631327 -80.288273768910
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (RB very) (JJ interesting) (NN vacation))))))
+-25.160803293170 -83.369441629700
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADVP (RB very)) (JJ interesting) (NN vacation)))))
+-25.284897317024 -80.436065498752
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (JJ very)) (JJ interesting) (NN vacation)))))
+-25.570660133299 -84.960928826114
+(S1 (S (NP (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (RB very) (JJ interesting)) (NN vacation))))))
+-25.980132750403 -86.098343646794
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (RB very)) (JJ interesting) (NN vacation)))))
+-26.145941489123 -84.245687855733
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (NP (DT a)) (ADJP (RB very) (JJ interesting))) (NN vacation)))))
+-26.158424714108 -83.904069687818
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (RB very) (JJ interesting)) (NN vacation)))))
+-26.187487117708 -80.948971140468
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (ADJP (JJ very) (JJ interesting)) (NN vacation))))))
+-26.237741263570 -85.776365793403
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (ADJP (JJ very)) (JJ interesting)) (NN vacation)))))
+-26.505554497711 -84.336749953939
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (DT a) (JJ very) (JJ interesting) (NN vacation)))))))
+-26.775389493276 -85.795716397018
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (JJ very)) (JJ interesting) (NN vacation)))))
+-26.873896119750 -84.357486195383
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (DT a) (RB very) (JJ interesting) (NN vacation)))))))
+-27.047956748714 -88.006018583637
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (JJ very) (JJ interesting)) (NN vacation)))))
+-27.063488430609 -87.651224891905
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a)) (RB very) (JJ interesting) (NN vacation)))))
+-27.325046698991 -85.445356598718
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (NP (DT a)) (ADJP (RB very) (JJ interesting)) (NN vacation))))))
+-27.366425411877 -84.336054812426
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a)) (JJ very) (JJ interesting) (NN vacation)))))
+-27.508506737895 -86.560498528514
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (ADJP (ADVP (RB very)) (JJ interesting)) (NN vacation))))))
+-27.949568018888 -85.018183631814
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (DT a) (ADJP (JJ very) (JJ interesting)) (NN vacation)))))))
+-27.986814765913 -87.983827586381
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (ADJP (RB very) (ADJP (JJ interesting))) (NN vacation))))))
+-28.048577554480 -85.035472918081
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a)) (ADJP (JJ very) (JJ interesting)) (NN vacation)))))
+-28.774161086929 -86.996018244113
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (NP (DT a) (ADJP (RB very) (JJ interesting))) (NN vacation))))))
+-28.897240237430 -91.025489413282
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a)) (ADJP (RB very) (ADJP (JJ interesting))) (NN vacation)))))
+-28.998949205139 -89.514569011669
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (NP (DT a)) (ADJP (RB very) (JJ interesting)) (NN vacation)))))))
+-29.061365217348 -90.647000369298
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a)) (ADJP (ADVP (RB very)) (JJ interesting)) (NN vacation)))))
+-29.266113576345 -90.629711019860
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (DT a) (ADJP (ADVP (RB very)) (JJ interesting)) (NN vacation)))))))
+-29.368474559182 -88.538225236638
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (ADJP (RB very)) (JJ interesting) (NN vacation))))))
+-29.577367626566 -89.308463913512
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (RB very)) (ADJP (JJ interesting)) (NN vacation)))))
+-29.615137277403 -88.816841926991
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (ADJP (JJ very) (JJ interesting))) (NN vacation)))))
+-29.743957062362 -92.053040077727
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (DT a) (ADJP (RB very) (ADJP (JJ interesting))) (NN vacation)))))))
+-30.402295778315 -91.065230695373
+(S1 (S (NP (PRP It)) (VP (VBD was) (SBAR (S (NP (NP (DT a) (ADJP (RB very) (JJ interesting))) (NN vacation)))))))
+-30.735205877482 -91.165336868452
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (JJ very) (ADJP (JJ interesting)) (NN vacation))))))
+-30.990656425584 -92.347905502173
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (RB very) (ADJP (JJ interesting)) (NN vacation))))))
+-31.172570922103 -92.055270349432
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (ADJP (JJ very)) (ADJP (JJ interesting)) (NN vacation)))))
+-31.230668732761 -92.397538495432
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (DT a) (ADJP (JJ very)) (JJ interesting) (NN vacation))))))
+

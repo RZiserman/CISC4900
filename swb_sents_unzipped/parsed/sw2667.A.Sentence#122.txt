@@ -1,0 +1,102 @@
+50 x
+-41.582490892113 -135.394347044113
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money))))))))
+-42.737342620933 -140.635026965205
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))))))))
+-43.003966515025 -137.586229275555
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))))))))))
+-43.135336361803 -136.890811332688
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))))))
+-43.350031978895 -136.840595488790
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (INTJ (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-43.422145004775 -132.384397362689
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-43.593492590258 -134.549220126820
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-43.978134203193 -139.562139446008
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay)) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money))))))))
+-44.195223704328 -136.584386322833
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (ADJP (JJ Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-44.220036718424 -137.971337940758
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (NP (UH Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-44.235155960515 -138.115293568605
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money))))))))))))))
+-44.309053881785 -140.136160704890
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (NP (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-44.490874525743 -139.959353195882
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (ADVP (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-44.492219712382 -137.794530431750
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADVP (UH Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-44.612157301914 -139.082693591914
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money))))))))))))))
+-44.734692530407 -137.345005445640
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay)))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-44.934633087149 -139.136949108634
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (ADVP (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))
+-44.942140921268 -134.790373870249
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money))))))))
+-45.311876555510 -138.268562362960
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money))))))))))))
+-45.816348810189 -140.533436733304
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (ADJP (ADJP (JJ Okay)) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))))))
+-45.843346747404 -139.611757884964
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))))))))))))
+-46.096992622210 -140.031053791340
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))))))))
+-46.363616516302 -136.982256101690
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))))))))))
+-46.494986390958 -136.286838158823
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))))))
+-46.747933390172 -136.236622314925
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (INTJ (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-46.820046416052 -131.780424188824
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-46.920067342399 -139.765026679319
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (JJ much) (NN money)))))))))))))
+-46.991394029413 -133.945246952955
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-47.328182067700 -140.560118084390
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money))))))))))))
+-47.337784232348 -138.958166272143
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay)) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money))))))))
+-47.593125115605 -135.980413148968
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (ADJP (JJ Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-47.594805961792 -137.511320394740
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money))))))))))))))
+-47.617938157579 -137.367364766893
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (NP (UH Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-47.706955293063 -139.532187531025
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (NP (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-47.884474480649 -140.393294802062
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))))))
+-47.888775937020 -139.355380022017
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (ADVP (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-47.890121151537 -137.190557257885
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADVP (UH Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-47.971807303192 -138.478720418049
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money))))))))))))))
+-48.132593969562 -136.741032271775
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay)))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-48.240460894013 -140.649974583924
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (NP (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-48.332534498426 -138.532975934769
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (ADVP (UH Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-48.422473134817 -140.713386828579
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money))))))))))
+-48.671526556787 -137.664589189095
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (INTJ (UH Okay)) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money))))))))))))
+-49.175998839344 -139.929463559439
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive))))) (NP (PRP I)) (VP (VBP think) (ADJP (ADJP (JJ Okay)) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))))))
+-49.202996748681 -139.007784711099
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))))))))))))
+-49.452962929154 -140.386716459542
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADVP (JJ Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-49.483018956474 -140.524287855803
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (S (NP (PRP I)) (VP (VB think) (ADVP (JJ Okay))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-49.607474705760 -140.879721851563
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VB think) (ADJP (JJ Okay)))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+-50.279717343677 -139.161053505454
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RBR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay) (SBAR (S (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))))))))))
+-50.550611168001 -140.352573264672
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJR more) (JJ expensive)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADJP (JJ Okay))))))))) (NP (PRP you)) (VP (VBD spent) (NP (DT that) (ADJP (JJ much)) (NN money)))))
+

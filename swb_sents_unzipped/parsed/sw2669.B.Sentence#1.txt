@@ -1,0 +1,14 @@
+6 x
+-12.510172307375 -34.963571113895
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (PRP they)) (VP (VB do) (NP (PRP it))))))
+-13.983259514246 -40.834462777733
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (PRP they)) (VP (VBP do) (NP (PRP it))))))
+-18.000010108562 -44.289259897887
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (PRP they)) (VP (VB do) (S (NP (PRP it)))))))
+-19.008870380916 -48.808267804959
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (PRP they)) (VP (VBP do) (S (NP (PRP it)))))))
+-21.992080765900 -58.149321543629
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (PRP they)) (VP (VB do) (SBAR (S (NP (PRP it))))))))
+-22.941953084940 -62.605416018470
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (PRP they)) (VP (VBP do) (SBAR (S (NP (PRP it))))))))
+

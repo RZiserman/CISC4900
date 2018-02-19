@@ -1,0 +1,102 @@
+50 x
+-15.416755335022 -49.782411352900
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-16.276446850999 -51.912229548397
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-16.860985745520 -55.947392762936
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-17.083969398622 -59.498985056195
+(S1 (SBAR (IN So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-17.243523650341 -58.250460721310
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-17.927983946687 -54.975942909400
+(S1 (S (RB So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-18.390062419195 -56.003255274534
+(S1 (S (ADVP (IN So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-18.469807438361 -59.733935971329
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-19.125683351574 -62.428764458487
+(S1 (S (CC So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-19.484136263930 -58.479065074210
+(S1 (ADJP (RB So) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-19.540926512062 -60.014169626361
+(S1 (S (ADJP (RB So) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))))
+-19.643359880402 -61.899665421595
+(S1 (S (IN So) (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-19.834699059417 -63.231898245770
+(S1 (S (ADVP (RB So)) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-19.938885503214 -64.393502018763
+(S1 (SBAR (RB So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-20.289073016549 -61.992604525148
+(S1 (S (INTJ (RB So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-20.294065587255 -61.150730157985
+(S1 (FRAG (RB So) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-20.438550863349 -63.381226065706
+(S1 (FRAG (ADVP (RB So)) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-20.872437461804 -62.760044366849
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (S (NP (DT a) (NN lot)))))))
+-20.918256384092 -59.682063788865
+(S1 (FRAG (ADJP (RB So) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))))
+-20.980263427676 -69.245484363569
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VBP learn) (NP (DT a) (NN lot))))))
+-21.000365751092 -63.287760757368
+(S1 (S (ADVP (IN So)) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-21.482191405170 -63.465445787858
+(S1 (S (RB So) (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-21.551282946384 -64.884469116675
+(S1 (FRAG (SBAR (RB So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-21.634670891407 -65.606321187125
+(S1 (FRAG (S (IN So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-21.732128974994 -64.889862562345
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (S (NP (DT a) (NN lot)))))))
+-21.748291844546 -65.499947115014
+(S1 (FRAG (S (RB So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-21.783276090471 -69.775763484791
+(S1 (S (CC So) (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-21.832976245193 -67.274658215024
+(S1 (S (NP (RB So) (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-21.839954943654 -71.375302559065
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VBP learn) (NP (DT a) (NN lot))))))
+-21.870204654412 -71.368155422537
+(S1 (SBAR (IN So) (S (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-21.998897110630 -67.465655164511
+(S1 (FRAG (CC So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-22.059157373912 -67.908189902955
+(S1 (FRAG (CC So) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-22.203673571401 -69.418812353992
+(S1 (S (NP (RB So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-22.222863654258 -68.164129834903
+(S1 (FRAG (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-22.271233037715 -69.417074906438
+(S1 (FRAG (S (CC So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-22.316667872303 -68.925025776885
+(S1 (S (ADVP (RB So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (S (NP (DT a) (NN lot)))))))
+-22.657645913539 -68.230332630253
+(S1 (S (ADVP (RB So)) (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-22.699205777123 -71.228093735259
+(S1 (S (CC So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (S (NP (DT a) (NN lot)))))))
+-23.082490184205 -70.975284498946
+(S1 (FRAG (SBAR (S (IN So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-23.125476377204 -68.919628761976
+(S1 (S (IN So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (NP (DT a)) (NN lot))))))
+-23.126083908214 -68.286195141851
+(S1 (S (ADVP (IN So)) (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))
+-23.127922432584 -71.292808755938
+(S1 (FRAG (PP (RB So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-23.166174844629 -71.295245655710
+(S1 (FRAG (ADVP (IN So)) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-23.434494934374 -66.300428665974
+(S1 (S (RB So) (S (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-23.478995570682 -67.953575923348
+(S1 (S (RB So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (S (NP (DT a) (NN lot))))))))
+-23.621513007508 -70.730648377997
+(S1 (FRAG (S (RB So) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+-23.809066798050 -68.759774393652
+(S1 (FRAG (S (ADVP (IN So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot)))))))
+-23.845744545978 -68.980888288483
+(S1 (S (ADVP (IN So)) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (S (NP (DT a) (NN lot)))))))
+-23.985167893182 -71.049446957472
+(S1 (S (RB So) (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (NP (DT a)) (NN lot))))))
+-25.588684306508 -70.348235440553
+(S1 (ADJP (RB So) (SBAR (S (NP (NN she)) (VP (VBD did) (RB n't) (VP (VB learn) (NP (DT a) (NN lot))))))))
+

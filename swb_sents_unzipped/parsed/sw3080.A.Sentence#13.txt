@@ -1,0 +1,102 @@
+50 x
+-19.006408120983 -59.981813383631
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))
+-20.052257304633 -61.440043969618
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again))))))))))
+-20.663067458602 -62.950451349629
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again)))))))))
+-21.350673650428 -72.689004170592
+(S1 (S (CC but) (NP (DT that)) (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))
+-21.708916642251 -64.408681935616
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again))))))))))
+-21.850317460244 -62.221278848913
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again))))))
+-21.947583938156 -71.934967029827
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (PRT (RB soon)) (ADVP (RB again)))))))))
+-22.261186462684 -67.245643601211
+(S1 (S (CC but) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))))
+-22.537294059333 -63.773541835037
+(S1 (FRAG (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again))))))))))
+-22.568129095612 -64.862775595025
+(S1 (S (CC but) (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))
+-22.812219425006 -63.679509434900
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again)))))))
+-22.940355508988 -66.358265711658
+(S1 (S (CC but) (NP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))
+-23.186120692272 -70.640043613951
+(S1 (S (CC but) (WHNP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))
+-23.437694661840 -70.590317513314
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (NP (RB soon)) (ADVP (RB again)))))))))
+-23.778717301771 -71.258483656680
+(S1 (S (CC but) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))))
+-23.810525248256 -70.287121329777
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (NP (RB again)))))))))
+-23.825889287222 -70.602277232664
+(S1 (FRAG (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again))))))))))
+-23.917845800303 -70.214281567209
+(S1 (S (CC but) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again)))))))))))
+-23.930501832842 -67.689870167384
+(S1 (FRAG (CC but) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))))
+-24.193953394164 -66.742179801035
+(S1 (FRAG (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again))))))))))
+-24.224788430443 -67.831413561023
+(S1 (S (CC but) (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again)))))))))
+-24.260465865501 -67.669843747598
+(S1 (FRAG (CC but) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))))
+-24.350061708525 -66.833688526382
+(S1 (FRAG (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))))
+-24.483543845490 -72.048548099301
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (NP (RB soon)) (ADVP (RB again))))))))))
+-24.597014846607 -69.326903677656
+(S1 (S (CC but) (NP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again)))))))))
+-24.823340369536 -68.473123817844
+(S1 (S (CC but) (S (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again))))))))))
+-24.856374431906 -71.745351915763
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (NP (RB again))))))))))
+-25.021148585846 -69.485109066493
+(S1 (S (CC but) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again))))))))
+-25.069045304165 -69.044987575022
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start)))) (ADVP (RB soon) (RB again))))))
+-25.080244675494 -72.425129984300
+(S1 (S (CC but) (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (S (ADVP (RB soon) (RB again))))))))))
+-25.234643674539 -69.494352806730
+(S1 (S (CC but) (S (NP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again))))))))))
+-25.381203395807 -66.013007300319
+(S1 (FRAG (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again)))))))
+-25.412038432086 -67.102241060307
+(S1 (S (CC but) (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again))))))
+-25.587161167673 -70.658508133381
+(S1 (FRAG (CC but) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again)))))))))))
+-25.624434114343 -71.045943473566
+(S1 (FRAG (CC but) (SBAR (DT that) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again)))))))))))
+-25.784264848249 -68.597731176940
+(S1 (S (CC but) (NP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again))))))
+-25.917125200332 -70.638481713596
+(S1 (FRAG (CC but) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again)))))))))))
+-26.006721043356 -69.802326492380
+(S1 (FRAG (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again)))))))))))
+-26.030947268927 -70.503218161009
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start)))) (ADVP (RB soon) (RB again)))))))
+-26.479999704367 -71.441761783841
+(S1 (S (CC but) (S (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again))))))))))
+-26.690463953216 -69.929335632666
+(S1 (FRAG (CC but) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again))))))))
+-26.891303009370 -72.462990772728
+(S1 (S (CC but) (S (NP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon) (RB again))))))))))
+-27.017861380285 -70.495031966096
+(S1 (FRAG (CC but) (S (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again))))))))))
+-27.020427985875 -69.909309212880
+(S1 (FRAG (CC but) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again))))))))
+-27.110023828898 -69.073153991664
+(S1 (FRAG (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again))))))))
+-27.494249672857 -71.472489016757
+(S1 (FRAG (CC but) (S (NP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon)) (ADVP (RB again))))))))))
+-27.583302489909 -70.712589283126
+(S1 (S (CC but) (S (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again)))))))
+-27.994605794912 -71.733818272012
+(S1 (S (CC but) (S (NP (WDT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again)))))))
+-28.599931239727 -72.836716026428
+(S1 (FRAG (CC but) (S (NP (DT that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start)))) (ADVP (RB soon) (RB again)))))))
+-29.861770716758 -72.734497431378
+(S1 (FRAG (CC but) (S (NP (IN that)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB start) (ADVP (RB soon))))) (ADVP (RB again)))))))
+

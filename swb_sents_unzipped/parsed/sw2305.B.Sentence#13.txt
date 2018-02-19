@@ -1,0 +1,90 @@
+44 x
+-8.628787544261 -34.133468913716
+(S1 (NP (JJ Political) (NN science)))
+-12.744916524462 -41.112456463823
+(S1 (FRAG (NP (JJ Political) (NN science))))
+-13.058531581532 -39.875455416294
+(S1 (S (NP (JJ Political) (NN science))))
+-13.787002968540 -45.527219049801
+(S1 (X (NP (JJ Political) (NN science))))
+-14.693882094236 -44.157702096981
+(S1 (ADJP (JJ Political) (NN science)))
+-15.163651596794 -46.611367898457
+(S1 (NP (ADJP (JJ Political)) (NN science)))
+-15.178278579000 -48.495790090676
+(S1 (NP (NP (JJ Political)) (NN science)))
+-15.568669354927 -47.413339291957
+(S1 (NP (NP (JJ Political)) (NP (NN science))))
+-15.588256690756 -44.473535991675
+(S1 (S (ADJP (JJ Political) (NN science))))
+-15.715235269426 -47.217897438202
+(S1 (ADJP (JJ Political) (NP (NN science))))
+-15.736934575904 -48.488584187011
+(S1 (FRAG (JJ Political) (NP (NN science))))
+-16.068185710706 -48.849753228840
+(S1 (S (VP (JJ Political) (NP (NN science)))))
+-16.146398948544 -45.165290297006
+(S1 (FRAG (ADJP (JJ Political) (NN science))))
+-16.492910207044 -45.273742465032
+(S1 (FRAG (ADJP (JJ Political)) (NP (NN science))))
+-16.799364776297 -54.103703766062
+(S1 (S (VP (NP (JJ Political) (NN science)))))
+-17.014170286932 -46.596594650254
+(S1 (S (ADJP (JJ Political)) (NP (NN science))))
+-17.371280776003 -50.146313018493
+(S1 (S (ADJP (JJ Political) (NP (NN science)))))
+-17.591587062919 -49.765542896648
+(S1 (FRAG (ADJP (JJ Political) (NP (NN science)))))
+-18.067319333231 -50.472404066802
+(S1 (S (NP (JJ Political)) (NP (NN science))))
+-18.319309976132 -50.501360575025
+(S1 (FRAG (NP (ADJP (JJ Political)) (NN science))))
+-18.626356740545 -52.377998977122
+(S1 (FRAG (NP (NP (JJ Political)) (NP (NN science)))))
+-18.894220714618 -54.913606214618
+(S1 (FRAG (NP (NP (JJ Political)) (NN science))))
+-18.975457592656 -55.736216173998
+(S1 (FRAG (S (NP (JJ Political) (NN science)))))
+-19.473631879158 -56.166915351461
+(S1 (X (NP (ADJP (JJ Political)) (NN science))))
+-19.550462235050 -52.619325426921
+(S1 (FRAG (S (ADJP (JJ Political) (NN science)))))
+-19.619713907103 -52.434903107577
+(S1 (S (NP (ADJP (JJ Political)) (NN science))))
+-19.906599195851 -59.556132803512
+(S1 (X (NP (NP (JJ Political)) (NN science))))
+-20.126694546500 -57.005479046282
+(S1 (FRAG (S (VP (JJ Political) (NP (NN science))))))
+-20.308922939581 -55.131381674178
+(S1 (S (NP (NP (JJ Political)) (NN science))))
+-21.333393413909 -58.292102453738
+(S1 (FRAG (S (ADJP (JJ Political) (NP (NN science))))))
+-21.874001022061 -59.358023796113
+(S1 (S (NP (NP (JJ Political)) (NP (NN science)))))
+-22.354446195246 -67.620852866593
+(S1 (FRAG (S (VP (NP (JJ Political) (NN science))))))
+-22.950944296453 -65.066000118283
+(S1 (S (VP (NP (ADJP (JJ Political)) (NN science)))))
+-23.128187268871 -62.898481933545
+(S1 (FRAG (S (ADJP (JJ Political)) (NP (NN science)))))
+-23.136063243430 -68.607434660695
+(S1 (X (NP (NP (JJ Political)) (NP (NN science)))))
+-23.474034641733 -69.461077864444
+(S1 (S (VP (NP (NP (JJ Political)) (NN science)))))
+-24.455722059736 -66.269152549053
+(S1 (FRAG (S (NP (JJ Political)) (NP (NN science)))))
+-24.863630241277 -70.077320329479
+(S1 (S (VP (NP (NP (JJ Political)) (NP (NN science))))))
+-25.544955018835 -68.295663690061
+(S1 (FRAG (S (NP (ADJP (JJ Political)) (NN science)))))
+-25.824622094821 -68.134934785568
+(S1 (FRAG (S (NP (NP (JJ Political)) (NP (NN science))))))
+-26.231694996281 -70.992142440219
+(S1 (FRAG (S (NP (NP (JJ Political)) (NN science)))))
+-28.506025715402 -78.583149218815
+(S1 (FRAG (S (VP (NP (ADJP (JJ Political)) (NN science))))))
+-28.860566945328 -78.005294084497
+(S1 (FRAG (S (VP (NP (NP (JJ Political)) (NP (NN science)))))))
+-29.029116060682 -82.978226964976
+(S1 (FRAG (S (VP (NP (NP (JJ Political)) (NN science))))))
+

@@ -1,0 +1,102 @@
+50 x
+-22.579795398597 -84.613103362102
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (JJ only) (JJ forty-five) (NNS dollars)))))
+-22.764062494849 -82.361713314068
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (RB only) (JJ forty-five) (NNS dollars)))))
+-23.368651929857 -85.466173085914
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (ADJP (RB only) (JJ forty-five)) (NNS dollars)))))
+-23.379824429095 -83.648968798933
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (JJ only) (JJ forty-five) (NNS dollars)))))
+-23.512949825346 -81.397578750900
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (RB only) (JJ forty-five) (NNS dollars)))))
+-23.602751684596 -83.087461924935
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (QP (RB only) (JJ forty-five)) (NNS dollars)))))
+-23.743244232244 -88.588876950757
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (JJ only) (NN forty-five) (NNS dollars)))))
+-23.817400554700 -85.116912941406
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADVP (RB only)) (NP (JJ forty-five) (NNS dollars)))))
+-24.094666897567 -84.502038522746
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (ADJP (RB only) (JJ forty-five)) (NNS dollars)))))
+-24.465691755093 -82.123327361767
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (QP (RB only) (JJ forty-five)) (NNS dollars)))))
+-24.543273262742 -87.624742387588
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (JJ only) (NN forty-five) (NNS dollars)))))
+-24.564484245733 -89.353279167290
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (VP (JJ only) (NP (JJ forty-five) (NNS dollars))))))
+-24.731221460822 -86.339972297663
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADVP (RB only) (NP (JJ forty-five) (NNS dollars))))))
+-24.743855386086 -86.647857255495
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (ADJP (JJ only) (JJ forty-five)) (NNS dollars)))))
+-24.752103385198 -84.152778378238
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only)) (NP (JJ forty-five) (NNS dollars)))))
+-25.137241644456 -90.241255806282
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only)) (VP (VB forty-five) (NP (NNS dollars))))))
+-25.277029452801 -88.820607366120
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADVP (RB only)) (NP (NN forty-five) (NNS dollars)))))
+-25.481702793796 -85.683722692326
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (ADJP (JJ only) (JJ forty-five)) (NNS dollars)))))
+-25.491418621208 -90.043514079943
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (RB only) (NP (JJ forty-five) (NNS dollars)))))
+-25.635563688532 -85.375837734495
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only) (NP (JJ forty-five) (NNS dollars))))))
+-25.676020343443 -88.389144604122
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (VP (JJ only) (NP (JJ forty-five) (NNS dollars))))))
+-25.759463509513 -90.110563383166
+(S1 (S (NP (DT This) (PRP one)) (VP (VBD was) (NP (JJ only) (JJ forty-five) (NNS dollars)))))
+-25.790605996124 -87.228926679640
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADVP (RB only)) (VP (JJ forty-five) (NP (NNS dollars))))))
+-25.892588908552 -87.859173335133
+(S1 (S (NP (DT This) (PRP one)) (VP (VBD was) (NP (RB only) (JJ forty-five) (NNS dollars)))))
+-25.896215570551 -88.603941399636
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADJP (RB only) (JJ forty-five)) (NP (NNS dollars)))))
+-26.009017582813 -87.096166409800
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (VP (ADVP (RB only)) (JJ forty-five) (NP (NNS dollars))))))
+-26.067665955587 -90.632002137392
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (QP (RB only) (NN forty-five)) (NNS dollars)))))
+-26.068578460760 -90.384395613516
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (RB only) (NN forty-five) (NNS dollars)))))
+-26.081713890140 -87.743212580715
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (PP (RB only) (NP (JJ forty-five) (NNS dollars))))))
+-26.198106192440 -90.501768192146
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (NP (ADJP (ADVP (RB only)) (JJ forty-five)) (NNS dollars)))))
+-26.211732280511 -87.856472802951
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only)) (NP (NN forty-five) (NNS dollars)))))
+-26.392047180773 -90.963633106978
+(S1 (S (NP (DT This) (PRP one)) (VP (VBD was) (NP (ADJP (RB only) (JJ forty-five)) (NNS dollars)))))
+-26.585445351706 -89.079379516774
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (RB only) (NP (JJ forty-five) (NNS dollars)))))
+-26.691847438299 -88.584921945999
+(S1 (S (NP (DT This) (PRP one)) (VP (VBD was) (NP (QP (RB only) (JJ forty-five)) (NNS dollars)))))
+-26.761314296621 -86.264792116472
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only)) (VP (JJ forty-five) (NP (NNS dollars))))))
+-26.790824965616 -90.614372962471
+(S1 (S (NP (DT This) (PRP one)) (VP (VBD was) (ADVP (RB only)) (NP (JJ forty-five) (NNS dollars)))))
+-26.833769922938 -89.537633628978
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (ADJP (ADVP (RB only)) (JJ forty-five)) (NNS dollars)))))
+-26.859265201048 -87.639806836468
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADJP (RB only) (JJ forty-five)) (NP (NNS dollars)))))
+-26.930606023297 -89.667867574223
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (NP (QP (RB only) (NN forty-five)) (NNS dollars)))))
+-27.004183840638 -86.779078017547
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (PP (RB only) (NP (JJ forty-five) (NNS dollars))))))
+-27.060316083311 -86.132031846631
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (VP (ADVP (RB only)) (JJ forty-five) (NP (NNS dollars))))))
+-27.220815029618 -90.668640278811
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADVP (RB only) (JJ forty-five)) (NP (NNS dollars)))))
+-27.356137612217 -90.735098433971
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (S (NP (RB only) (JJ forty-five) (NNS dollars))))))
+-28.178057650116 -89.704505715642
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only) (JJ forty-five)) (NP (NNS dollars)))))
+-28.300004991715 -89.770963870803
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (S (NP (RB only) (JJ forty-five) (NNS dollars))))))
+-28.402748446968 -90.897445891296
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADVP (RB only)) (ADJP (JJ forty-five)) (NP (NNS dollars)))))
+-28.506389429385 -90.080985676145
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (RB only) (VP (JJ forty-five) (NP (NNS dollars))))))
+-28.741779100213 -90.941182789683
+(S1 (S (NP (DT This) (NN one)) (VP (VBD was) (ADVP (RB only)) (NP (ADJP (JJ forty-five)) (NNS dollars)))))
+-29.337451277466 -89.933311328127
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only)) (ADJP (JJ forty-five)) (NP (NNS dollars)))))
+-29.676481930711 -89.977048226514
+(S1 (S (NP (DT This) (CD one)) (VP (VBD was) (ADVP (RB only)) (NP (ADJP (JJ forty-five)) (NNS dollars)))))
+

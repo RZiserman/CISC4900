@@ -1,0 +1,102 @@
+50 x
+-20.989133843138 -78.318516841467
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk)))))))
+-22.118417466152 -81.444358267044
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk)))))))
+-23.510717644412 -85.675267640606
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (JJ quart)) (PP (IN of) (NP (NN milk)))))))
+-24.273818928583 -90.803647680456
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (VB milk)))))))
+-24.498961259406 -89.479135127956
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (NNS quart)) (PP (IN of) (NP (NN milk)))))))
+-24.599481659318 -89.557988111836
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (JJ quart)) (PP (IN of) (NP (NN milk)))))))
+-24.721441872918 -87.783251502851
+(S1 (S (NP (PRP You)) (VP (VBP buy) (S (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk))))))))
+-24.751170398497 -91.801585672830
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (VB quart)) (PP (IN of) (NP (NN milk)))))))
+-25.084851266740 -93.657104392130
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (VB quart)) (PP (IN of) (NP (NN milk)))))))
+-25.139554741597 -93.929489106033
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (VB milk)))))))
+-25.280100103442 -88.014462210501
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk))))))
+-25.345875974359 -92.340348603051
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (NNS quart)) (PP (IN of) (NP (NN milk)))))))
+-25.809472334723 -90.210763293972
+(S1 (S (NP (PRP You)) (VP (VB buy) (S (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk))))))))
+-26.172109660716 -92.567444946918
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (S (VP (VB milk))))))))
+-26.427325921847 -91.739109380771
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart) (PP (IN of) (NP (NN milk)))))))
+-26.558113426551 -92.372439680512
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk))))))
+-26.719323509856 -98.160398479595
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (JJ quart)) (PP (IN of) (NP (VB milk)))))))
+-26.837259952259 -94.171336074965
+(S1 (S (NP (PRP You)) (VP (VBP buy) (VP (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk))))))))
+-26.897676888316 -93.828223816989
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (NN milk))))))
+-27.037845470942 -95.693286372495
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (S (VP (VB milk))))))))
+-27.075039557373 -93.413275366838
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (JJ quart)) (PP (IN of) (NP (NN milk))))))
+-27.235229310181 -94.897186827525
+(S1 (S (NP (PRP You)) (VP (VBP buy) (SBAR (S (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk)))))))))
+-27.356182264572 -94.370056777480
+(S1 (S (NP (PRP You)) (VP (VB buy) (S (NP (NP (DT a) (JJ quart)) (PP (IN of) (NP (NN milk))))))))
+-27.368790381338 -97.543403900338
+(S1 (S (NP (PRP You)) (VP (VB buy) (S (NP (NP (DT a) (VB quart)) (PP (IN of) (NP (NN milk))))))))
+-27.429610313183 -94.864921389057
+(S1 (S (NP (PRP You)) (VP (VBP buy) (S (NP (NP (DT a) (JJ quart)) (PP (IN of) (NP (NN milk))))))))
+-27.698256198852 -91.513914287047
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (S (NP (NN milk))))))))
+-27.734997771636 -95.241593910717
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (DT a) (NN quart) (PP (IN of) (NP (NN milk)))))))
+-27.754169714987 -94.400690915020
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (ADJP (JJ quart) (PP (IN of) (NP (NN milk))))))))
+-27.958452045508 -95.728676572507
+(S1 (S (NP (PRP You)) (VP (VBP buy) (DT a) (ADJP (JJ quart) (PP (IN of) (NP (NN milk)))))))
+-28.008550404322 -97.296089986202
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NNS quart)) (PP (IN of) (NP (NN milk))))))
+-28.026960508542 -96.954065242565
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (NN milk))))))
+-28.046039804236 -91.994885308102
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart))) (PP (IN of) (NP (NN milk)))))
+-28.056469863478 -97.755686754893
+(S1 (S (NP (PRP You)) (VP (VBP buy) (S (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk)))))))
+-28.398996339881 -98.923245472433
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart)) (PP (IN of) (NP (VB milk))))))
+-28.466486533908 -99.321692951973
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (DT a) (JJ quart)) (PP (IN of) (NP (NN milk))))))
+-28.590264076753 -99.510210439552
+(S1 (S (NP (PRP You)) (VP (VB buy) (S (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk)))))))
+-28.695975272374 -94.172074551324
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (DT a) (NN quart))) (PP (IN of) (NP (NN milk)))))
+-28.721985284100 -96.747180182005
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (NP (DT a)) (NN quart)) (PP (IN of) (NP (NN milk)))))))
+-28.827539819078 -94.639755712624
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (DT a) (NN quart)) (PP (IN of) (S (NP (NN milk))))))))
+-28.968588022360 -100.077249538535
+(S1 (S (NP (PRP You)) (VP (VBP buy) (VP (NP (NP (DT a) (JJ quart)) (PP (IN of) (NP (NN milk))))))))
+-29.220163703164 -99.498862109324
+(S1 (S (NP (PRP You)) (VP (VB buy) (SBAR (S (NP (NP (DT a) (NN quart)) (PP (IN of) (NP (NN milk)))))))))
+-29.230490699559 -98.486609369646
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (DT a) (ADJP (JJ quart) (PP (IN of) (NP (NN milk))))))))
+-29.588915771028 -99.045181141037
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart)) (PP (IN of) (S (VP (VB milk)))))))
+-29.738734246860 -99.153548187282
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart) (IN of) (NN milk)))))
+-29.904473595380 -97.393698464439
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (JJ quart))) (PP (IN of) (NP (NN milk)))))
+-30.150259205139 -100.085868568553
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (NN quart)) (IN of) (NP (NN milk))))))
+-30.231098036814 -99.873021607581
+(S1 (S (NP (PRP You)) (VP (VB buy) (NP (NP (NP (DT a)) (NN quart)) (PP (IN of) (NP (NN milk)))))))
+-30.375512626136 -99.649803820323
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (NP (DT a) (JJ quart)) (PP (IN of) (S (NP (NN milk))))))))
+-30.557698460047 -96.973998162386
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart)) (PP (IN of) (S (NP (NN milk)))))))
+-31.555596913023 -100.231237028587
+(S1 (S (NP (PRP You)) (VP (VBP buy) (NP (DT a) (NN quart))) (PP (IN of) (NN milk))))
+

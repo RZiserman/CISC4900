@@ -1,0 +1,102 @@
+50 x
+-33.718291361920 -122.553434281232
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-34.633015249323 -128.379655076006
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (NP (PRP$ their) (NNS homes)) (SBAR (WHNP (WDT that)) (S (NP (PRP you)) (VP (VBP know)))))))))))))))
+-34.671442200158 -128.646601992638
+(S1 (S (CC so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-34.899286553334 -122.469718382819
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-34.920639977135 -123.521446924489
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-35.341815136794 -122.891486029678
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-35.367769511863 -127.762587470152
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (NP (PRP$ their) (NNS homes)) (SBAR (WHNP (IN that)) (S (NP (PRP you)) (VP (VBP know)))))))))))))))
+-35.557442045751 -128.839350921855
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))))
+-35.852437391572 -128.562886094226
+(S1 (S (CC so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-35.873790815373 -129.614614635895
+(S1 (S (CC so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-36.136446131648 -127.732211976872
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VB babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-36.179915981776 -127.539798277628
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-36.256539024197 -128.717706824452
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (NP (PRP$ their) (NNS homes)) (SBAR (WHNP (WDT that)) (S (NP (PRP you)) (VP (VBP know)))))))))))))))
+-36.522810328208 -122.807770131265
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-36.544163779887 -123.859498672935
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-36.659515799381 -128.764402841084
+(S1 (S (ADVP (RB so)) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-36.667104881164 -128.676361744759
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))))))))
+-36.729028556027 -127.896967258515
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (SBAR (PP (IN in) (NP (PRP$ their) (NNS homes))) (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-36.991293286737 -128.100639218598
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (NP (PRP$ their) (NNS homes)) (SBAR (WHNP (IN that)) (S (NP (PRP you)) (VP (VBP know)))))))))))))))
+-37.180965848503 -129.177402670301
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))))
+-37.233479605032 -127.249735632929
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes)))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))
+-37.455309342265 -127.688316902332
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (IN in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-37.759969906522 -128.070263725317
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VB babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-37.768125842237 -127.285384898677
+(S1 (S (RB so) (S (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))))))))
+-37.798898429557 -128.131137309432
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes)))))))) (SBAR (WHNP (IN that)) (S (NP (PRP you)) (VP (VBP know))))))))
+-37.803439756650 -127.877850026074
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-37.840510990795 -128.680686942671
+(S1 (S (ADVP (RB so)) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-37.861864442475 -129.732415484341
+(S1 (S (ADVP (RB so)) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-38.290628683916 -129.014413493205
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))))))))
+-38.352552330901 -128.235019006961
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (SBAR (PP (IN in) (NP (PRP$ their) (NNS homes))) (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-38.472189263761 -129.231595177331
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes)))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))
+-38.623436345059 -128.732148553991
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (SBAR (PP (IN in) (NP (PRP$ their) (NNS homes))) (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-38.660733544200 -128.856927550259
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))
+-38.857003407785 -127.587787381375
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes)))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))
+-38.949121033651 -127.201669000264
+(S1 (S (RB so) (S (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))))))))
+-38.970474457453 -128.253397541934
+(S1 (S (RB so) (S (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))))))))
+-39.078833145017 -128.026368650778
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (IN in)) (NP (PRP$ their) (NNS homes)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-39.138384274816 -126.788422088161
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+-39.226152340847 -129.738329226763
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes))))))) (SBAR (WHNP (IN that)) (S (NP (PRP you)) (VP (VBP know))))))))
+-39.422422232309 -128.469189057878
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes)))))))) (SBAR (WHNP (IN that)) (S (NP (PRP you)) (VP (VBP know))))))))
+-39.753469298554 -128.882007916449
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit))))))) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+-40.095713038635 -129.569646925777
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes)))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))
+-40.246960119934 -129.070200302437
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (SBAR (PP (IN in) (NP (PRP$ their) (NNS homes))) (IN that) (S (NP (PRP you)) (VP (VBP know)))))))))))))
+-40.284257319075 -129.194979298705
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know))))))))
+-40.377093905666 -128.770281632563
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+-40.565638186106 -128.395614005491
+(S1 (S (IN so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+-40.761908049690 -127.126473836607
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+-41.376993101306 -129.220059664895
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit))))))) (PP (IN in) (NP (PRP$ their) (NNS homes))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+-42.000617708419 -129.108333381009
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD babysit) (PP (IN in) (NP (PRP$ their) (NNS homes))))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+-42.189161988858 -128.733665753937
+(S1 (S (RB so) (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP babysit) (PRT (RP in)) (NP (PRP$ their) (NNS homes)))))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP know)))))))
+

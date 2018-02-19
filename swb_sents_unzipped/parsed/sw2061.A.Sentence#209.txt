@@ -1,0 +1,102 @@
+50 x
+-15.447185030893 -55.193322606364
+(S1 (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (RB approximately)))))
+-15.574425530409 -51.332755933009
+(S1 (S (IN so) (NP (PRP you)) (VP (MD can) (RB approximately))))
+-15.717200973096 -60.302627439688
+(S1 (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (ADVP (RB approximately))))))
+-15.741498190089 -61.098102630246
+(S1 (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately)))))))
+-15.762600070817 -57.237535935274
+(S1 (S (IN so) (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately))))))
+-15.837333782188 -56.442060779836
+(S1 (S (IN so) (NP (PRP you)) (VP (MD can) (ADVP (RB approximately)))))
+-15.910866777960 -52.784028367713
+(S1 (S (RB so) (NP (PRP you)) (VP (MD can) (RB approximately))))
+-16.099041315580 -58.688808369978
+(S1 (S (RB so) (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately))))))
+-16.173775026951 -57.893333214540
+(S1 (S (RB so) (NP (PRP you)) (VP (MD can) (ADVP (RB approximately)))))
+-16.400490961893 -55.669749307159
+(S1 (S (IN so) (S (NP (PRP you)) (VP (MD can) (RB approximately)))))
+-16.494447568595 -53.165383458369
+(S1 (S (RB so) (S (NP (PRP you)) (VP (MD can) (RB approximately)))))
+-16.500455077197 -62.972011956286
+(S1 (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (VP (RB approximately))))))
+-16.521556955138 -59.111445261314
+(S1 (S (IN so) (NP (PRP you)) (VP (MD can) (VP (RB approximately)))))
+-16.660181979271 -61.574529175415
+(S1 (S (IN so) (S (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately)))))))
+-16.670506904095 -60.779054144142
+(S1 (S (IN so) (S (NP (PRP you)) (VP (MD can) (ADVP (RB approximately))))))
+-16.754138585974 -59.070163326624
+(S1 (S (RB so) (S (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately)))))))
+-16.764463513586 -58.274688295351
+(S1 (S (RB so) (S (NP (PRP you)) (VP (MD can) (ADVP (RB approximately))))))
+-16.857998202688 -60.562717696018
+(S1 (S (RB so) (NP (PRP you)) (VP (MD can) (VP (RB approximately)))))
+-16.949357872219 -54.557907106061
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (RB approximately))))))
+-17.029161739095 -58.230757165034
+(S1 (S (ADVP (RB so)) (NP (PRP you)) (VP (MD can) (RB approximately))))
+-17.217336276715 -64.135537167299
+(S1 (S (ADVP (RB so)) (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately))))))
+-17.219373814421 -59.667211939386
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (ADVP (RB approximately)))))))
+-17.243671031414 -60.462687129944
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately))))))))
+-17.292069988086 -63.340062011860
+(S1 (S (ADVP (RB so)) (NP (PRP you)) (VP (MD can) (ADVP (RB approximately)))))
+-17.419138863592 -63.448438501455
+(S1 (S (IN so) (S (NP (PRP you)) (VP (MD can) (VP (RB approximately))))))
+-17.513095470294 -60.944072652664
+(S1 (S (RB so) (S (NP (PRP you)) (VP (MD can) (VP (RB approximately))))))
+-17.768396356280 -60.512736381653
+(S1 (S (CC so) (NP (PRP you)) (VP (MD can) (RB approximately))))
+-18.002627918522 -62.336596455984
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (VP (RB approximately)))))))
+-18.344651198574 -61.418484867996
+(S1 (S (CC so) (S (NP (PRP you)) (VP (MD can) (RB approximately)))))
+-18.634470076229 -63.639313080846
+(S1 (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (S (ADVP (RB approximately)))))))
+-18.726787715807 -59.778746346837
+(S1 (S (IN so) (NP (PRP you)) (VP (MD can) (S (ADVP (RB approximately))))))
+-18.891817722774 -63.269076676953
+(S1 (SBAR (RB so) (S (NP (PRP you)) (VP (MD can) (RB approximately)))))
+-19.063228960570 -61.230018781541
+(S1 (S (RB so) (NP (PRP you)) (VP (MD can) (S (ADVP (RB approximately))))))
+-19.271499949282 -59.563913609597
+(S1 (S (ADVP (IN so)) (NP (PRP you)) (VP (MD can) (RB approximately))))
+-19.359080416596 -62.892422689657
+(S1 (S (NP (RB so) (PRP you)) (VP (MD can) (RB approximately))))
+-19.405155181180 -64.397966111531
+(S1 (S (ADVP (RB so)) (S (NP (PRP you)) (VP (MD can) (RB approximately)))))
+-19.459674486902 -65.468693611862
+(S1 (S (ADVP (IN so)) (NP (PRP you)) (VP (MD can) (VP (ADVP (RB approximately))))))
+-19.534408201060 -64.673218456423
+(S1 (S (ADVP (IN so)) (NP (PRP you)) (VP (MD can) (ADVP (RB approximately)))))
+-19.553153890502 -64.115739721091
+(S1 (S (IN so) (S (NP (PRP you)) (VP (MD can) (S (ADVP (RB approximately)))))))
+-19.647110497205 -61.611373872301
+(S1 (S (RB so) (S (NP (PRP you)) (VP (MD can) (S (ADVP (RB approximately)))))))
+-19.689228834413 -64.072990984292
+(S1 (S (IN so) (NP (PRP you)) (VP (MD can) (S (VP (ADVP (RB approximately)))))))
+-19.702198788489 -61.387497876680
+(S1 (ADJP (RB so) (SBAR (S (NP (PRP you)) (VP (MD can) (RB approximately))))))
+-19.889126351919 -61.995533396829
+(S1 (FRAG (RB so) (SBAR (S (NP (PRP you)) (VP (MD can) (RB approximately))))))
+-19.936304109348 -62.922602496096
+(S1 (S (ADJP (RB so) (SBAR (S (NP (PRP you)) (VP (MD can) (RB approximately)))))))
+-19.958313690899 -63.352362901897
+(S1 (FRAG (ADVP (RB so)) (SBAR (S (NP (PRP you)) (VP (MD can) (RB approximately))))))
+-20.136642917555 -63.003897580544
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (S (ADVP (RB approximately))))))))
+-20.224755232428 -64.196156573110
+(S1 (S (INTJ (RB so)) (NP (PRP you)) (VP (MD can) (RB approximately))))
+-20.500888422157 -63.760043774865
+(S1 (FRAG (SBAR (RB so) (S (NP (PRP you)) (VP (MD can) (RB approximately))))))
+-20.879702431429 -64.815374261682
+(S1 (FRAG (S (RB so) (NP (PRP you)) (VP (MD can) (RB approximately)))))
+-21.122702585864 -62.590496591334
+(S1 (FRAG (ADJP (RB so) (SBAR (S (NP (PRP you)) (VP (MD can) (RB approximately)))))))
+

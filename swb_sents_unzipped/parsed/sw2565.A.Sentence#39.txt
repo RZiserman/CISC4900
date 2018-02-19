@@ -1,0 +1,102 @@
+50 x
+-19.447795513052 -69.772006095938
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (VP (VB rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now)))))))
+-20.399521772546 -73.004257616202
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (S (VP (VB rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now))))))))
+-20.433518381002 -67.252718180456
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now))))))
+-20.440819098201 -64.031695742309
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now)))))
+-20.716264593429 -71.103970412884
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (VP (VB rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now))))))
+-20.976229562904 -71.517579033210
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (VP (VB rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now)))))))
+-21.267236050868 -73.633688970181
+(S1 (S (INTJ (WRB Why)) (VP (VB get) (VP (VB rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now))))))
+-22.134663052197 -70.019720148620
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (VP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now)))))))))
+-22.389902719789 -71.114400910836
+(S1 (S (INTJ (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now)))))
+-22.635262067036 -68.728489157380
+(S1 (FRAG (WRB Why) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now)))))
+-22.747523699819 -72.013131274441
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBP get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now)))))
+-22.762792611852 -74.569574653445
+(S1 (S (ADVP (WRB Why)) (VP (VB get) (VP (VB rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now))))))
+-22.912935907670 -68.633189045280
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him))))) (ADVP (RB now))))
+-22.997950830233 -74.289914063286
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (VP (VB rid) (PP (IN of) (NP (PRP him)) (ADVP (RB now))))))))
+-23.063808099933 -70.535295957317
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (ADJP (VB rid) (PP (IN of) (NP (PRP him))))) (ADVP (RB now)))))
+-23.112833320452 -71.351684561056
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (VP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-23.268135546576 -73.522581916143
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (S (VP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))))
+-23.315203230315 -68.673232416083
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now)))))))))
+-23.538590314631 -73.427244607159
+(S1 (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now)))))))
+-23.639569480013 -73.881403022862
+(S1 (S (INTJ (WRB Why)) (VP (VB get) (VP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-23.701363048726 -70.744599162273
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)) (ADVP (RB now))))))))
+-23.733952446934 -72.035903333151
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (VP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now)))))))))
+-23.822268392890 -67.694744480389
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-23.854989307320 -72.050286467939
+(S1 (S (ADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now)))))
+-23.901648549989 -73.362327204744
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (VP (VB rid) (PP (IN of) (NP (PRP him))))) (ADVP (RB now))))
+-23.911434025384 -72.391705914952
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (VP (VB rid) (PP (IN of) (NP (PRP him))))) (ADVP (RB now)))))
+-24.231762703817 -74.671165667236
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now)))))))
+-24.345905058088 -69.766111226579
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)) (ADVP (RB now)))))))
+-24.368557267855 -73.939291107138
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBP get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him))))) (ADVP (RB now))))
+-24.427992555258 -72.304129601433
+(S1 (FRAG (WRB Why) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him))))) (ADVP (RB now))))
+-24.495725781651 -71.326631488036
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (ADJP (JJ rid)) (PP (IN of) (NP (PRP him)))) (ADVP (RB now)))))
+-24.530998764526 -72.632123320204
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (ADJP (VB rid) (PP (IN of) (NP (PRP him)))))) (ADVP (RB now))))
+-24.549024819943 -74.124485960063
+(S1 (FRAG (WRB Why) (S (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)))) (ADVP (RB now))))))
+-24.636275198694 -73.692677808214
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him))) (ADVP (RB now))))))
+-24.755984770616 -71.597164360421
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him))))) (RB now)))
+-24.771444078438 -73.000846569097
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBP get) (ADJP (JJ rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-25.017356866372 -74.824335243381
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (VP (VB rid) (PP (IN of) (NP (PRP him) (RB now))))))))
+-25.135126043785 -74.817288706126
+(S1 (S (ADVP (WRB Why)) (VP (VB get) (VP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-25.170833667178 -73.110616476576
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (S (ADJP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))))
+-25.219409835447 -74.548012820544
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VBP get) (VP (JJ rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-25.220319352423 -71.251691302721
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (ADJP (VB rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now)))))))))
+-25.341926680253 -72.534915190405
+(S1 (S (INTJ (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-25.378624692765 -74.488533277839
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (VP (VB rid) (PP (IN of) (NP (PRP him)))))) (ADVP (RB now))))
+-25.452528553197 -73.323058066948
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (S (ADJP (VB rid) (PP (IN of) (NP (PRP him)) (ADVP (RB now))))))))
+-25.728086501451 -74.606281936594
+(S1 (S (INTJ (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)) (ADVP (RB now)))))))
+-26.016711339422 -72.391537819766
+(S1 (FRAG (WRB Why) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+-26.027792311216 -72.405649695520
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him) (RB now))))))))
+-26.487049436791 -71.427161759826
+(S1 (FRAG (WHADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him) (RB now)))))))
+-26.540348004620 -74.462904565955
+(S1 (FRAG (WRB Why) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (PRP him)) (ADVP (RB now)))))))
+-26.807013270572 -73.470800758893
+(S1 (S (ADVP (WRB Why)) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (NP (PRP him)) (ADVP (RB now))))))))
+

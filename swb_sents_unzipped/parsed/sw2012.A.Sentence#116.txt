@@ -1,0 +1,102 @@
+50 x
+-64.507266189541 -214.594860949785
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))
+-64.673841314487 -211.880471122421
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-64.835366713293 -213.208585133129
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-64.979825138443 -215.839917007269
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (NP (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-65.109030186084 -214.099659757170
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-65.321027576156 -213.058800198652
+(S1 (S (PP (IN Because) (NP (PRP I))) (NP (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)))))) (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))
+-65.336162971945 -214.060573071092
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-65.405197740586 -214.148634009703
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-65.515365024859 -212.964893369822
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-65.571772865532 -211.434244182339
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-65.733298264338 -212.762358193047
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-65.774736637262 -215.581732348087
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (S (VP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))))
+-65.806685675512 -215.252182276050
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))
+-65.827011643183 -214.646567537763
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (NP (PRP I)))) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))
+-65.852455188721 -214.670762806044
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone)) (NP (PRP I))) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))
+-65.854028895653 -215.277988870733
+(S1 (S (PP (IN Because) (NP (PRP I))) (NP (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)))))) (TO to) (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))
+-65.877756689488 -215.393690067187
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (NP (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-65.950553868578 -215.184082002603
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-65.964960426556 -214.709272608155
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number) (S (VP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-65.973260772580 -212.537792448686
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-66.006961709251 -213.653432817088
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-66.065553428480 -214.556065743705
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (S (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-66.134786199263 -213.865906459394
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))
+-66.234094495112 -213.614346131010
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))))
+-66.369153404972 -214.725086135979
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (NP (PRP I))) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))
+-66.408449644177 -214.756981083435
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))
+-66.413296548026 -212.518666429740
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))))
+-66.518546903554 -215.730989785163
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (NP (PRP I)))) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))
+-66.543990449093 -215.755185053444
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone)) (NP (PRP I))) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))
+-66.635582430038 -214.717894397357
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-66.658291957169 -215.516338611607
+(S1 (PP (IN Because) (S (NP (PRP I)) (NP (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-66.669283366709 -215.833534765759
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-66.672668188307 -215.135505408005
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (S (VP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))))
+-66.814784482951 -213.622214696087
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-66.848485419623 -214.737855062521
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-66.862891977600 -214.263045668073
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number) (S (VP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))))
+-66.963484979525 -214.109838803623
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (S (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))))
+-67.060688665344 -215.809508383379
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (NP (PRP I))) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))
+-67.249973326671 -215.841403328868
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (TO to) (S (VP (VBZ is) (ADJP (JJ welcome)) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-67.264379884648 -215.366593934420
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number) (S (VP (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-67.364972914451 -215.213387069970
+(S1 (S (IN Because) (NP (PRP I)) (DT any) (VP (NN anyone) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (NP (PRP$ my) (NN number)) (SBAR (S (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-67.445942917137 -215.825566802375
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)))))) (S (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))
+-67.721446866199 -215.728262898284
+(S1 (PP (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))
+-67.869341202273 -215.120205053241
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone)) (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+-67.870808392177 -215.504990624234
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (SBAR (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))))))))
+-67.914438734376 -214.636471566693
+(S1 (S (PP (IN Because) (NP (NN I))) (NP (NP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone))) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)))))) (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))
+-68.031037286270 -215.526157610589
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)) (SBAR (S (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))
+-68.284412651582 -215.395612296851
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number)))))) (S (TO to) (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me)))))))))))))
+-68.944948738340 -215.428532447367
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (NP (DT any) (NN friend) (NN anyone)) (SBAR (S (NP (PRP I)) (VP (VBP give) (NP (PRP$ my) (NN number) (S (VP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))))))
+-69.073056969586 -215.587306408511
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (NP (DT any) (NN anyone)) (NP (DT any) (NN friend) (NN anyone)) (S (NP (PRP I)) (VP (VB give) (NP (PRP$ my) (NN number)) (PP (TO to) (S (VP (VBZ is) (ADJP (JJ welcome) (S (VP (TO to) (VP (VB call) (NP (PRP me))))))))))))))))
+

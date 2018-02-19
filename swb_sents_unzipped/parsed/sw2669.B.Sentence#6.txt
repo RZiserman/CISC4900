@@ -1,0 +1,102 @@
+50 x
+-13.332502200800 -47.175203438354
+(S1 (S (NP (PRP they)) (VP (VBD tried) (X (DT the)))))
+-13.881916642977 -49.311228343036
+(S1 (S (NP (PRP they)) (VP (VBD tried) (NP (DT the)))))
+-14.555802363298 -48.772437431066
+(S1 (S (NP (PRP they)) (VP (VBD tried) (ADVP (DT the)))))
+-15.322013503449 -56.179478424459
+(S1 (S (NP (PRP they)) (VP (VBD tried) (DT the))))
+-15.423293025838 -54.452400455564
+(S1 (S (NP (PRP they)) (VP (VBN tried) (X (DT the)))))
+-15.542303143321 -51.751943386878
+(S1 (S (NP (PRP they)) (VP (VBN tried) (ADVP (DT the)))))
+-15.675954168899 -55.066964026451
+(S1 (S (NP (PRP they)) (VP (VBN tried) (NP (DT the)))))
+-15.908000149553 -48.075340889173
+(S1 (S (NP (PRP they)) (VP (VBD tried) (S (NP (DT the))))))
+-16.211716583819 -51.760504979584
+(S1 (S (NP (PRP they)) (VP (VBD tried) (ADJP (DT the)))))
+-16.380935900394 -56.048747896920
+(S1 (S (NP (PRP they)) (VP (VBD tried) (X (NP (DT the))))))
+-17.708578214000 -60.241951899725
+(S1 (S (NP (PRP they)) (VP (VBD tried) (SBAR (DT the)))))
+-18.049170351090 -57.632193027685
+(S1 (S (NP (PRP they)) (VP (VBN tried) (S (NP (DT the))))))
+-18.488642642645 -63.325944914130
+(S1 (S (NP (PRP they)) (VP (VBN tried) (X (NP (DT the))))))
+-18.735872606715 -60.104462145763
+(S1 (S (NP (PRP they)) (VP (VBN tried) (ADJP (DT the)))))
+-19.865337513138 -67.365557517405
+(S1 (S (NP (PRP they)) (VP (VBN tried) (SBAR (DT the)))))
+-20.036430226324 -62.734496948241
+(S1 (S (NP (PRP they)) (VP (VBD tried) (S (ADVP (DT the))))))
+-20.414442038766 -64.601569065266
+(S1 (S (NP (PRP they)) (VP (VBD tried) (S (ADJP (DT the))))))
+-20.676456998932 -61.354464470448
+(S1 (S (NP (PRP they)) (VP (VBD tried) (SBAR (S (NP (DT the)))))))
+-21.233254805574 -72.071751700514
+(S1 (NP (NP (PRP they)) (VP (VBN tried) (X (DT the)))))
+-21.250841569867 -68.720156029125
+(S1 (NP (NP (PRP they)) (VP (VBD tried) (NP (DT the)))))
+-21.270569170211 -70.111673208231
+(S1 (NP (NP (PRP they)) (VP (VBD tried) (X (DT the)))))
+-21.348998233973 -67.133334828326
+(S1 (NP (NP (PRP they)) (VP (VBD tried) (ADVP (DT the)))))
+-21.399013598656 -70.304616166671
+(S1 (NP (NP (PRP they)) (VP (VBN tried) (ADVP (DT the)))))
+-21.736293719796 -66.478266487791
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (NP (DT the))))))
+-21.769845859139 -67.869783666898
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (X (DT the))))))
+-21.975351083901 -64.891445286992
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (ADVP (DT the))))))
+-22.078457087752 -69.893786280112
+(S1 (S (NP (NP (PRP they)) (VP (VBN tried) (X (DT the))))))
+-22.084696396861 -72.291349086753
+(S1 (S (NP (PRP they)) (VP (VBN tried) (S (ADVP (DT the))))))
+-22.181626086348 -73.434054078387
+(S1 (NP (NP (PRP they)) (VP (VBN tried) (NP (DT the)))))
+-22.221276980834 -68.126650746269
+(S1 (S (NP (NP (PRP they)) (VP (VBN tried) (ADVP (DT the))))))
+-22.522284794881 -68.591282531124
+(S1 (S (NP (PRP they)) (VP (VBN tried) (SBAR (S (NP (DT the)))))))
+-22.543737095515 -74.158421203777
+(S1 (S (NP (PRP they)) (VP (VBN tried) (S (ADJP (DT the))))))
+-22.587695145925 -76.625517673939
+(S1 (NP (NP (PRP they)) (VP (VBD tried) (DT the))))
+-23.042893768526 -71.256088657986
+(S1 (S (NP (NP (PRP they)) (VP (VBN tried) (NP (DT the))))))
+-23.081365395853 -74.383628132605
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (DT the)))))
+-23.344226037086 -74.718517029233
+(S1 (NP (NP (PRP they)) (VP (VBN tried) (S (NP (DT the))))))
+-24.086347119264 -72.540551608832
+(S1 (S (NP (NP (PRP they)) (VP (VBN tried) (S (NP (DT the)))))))
+-24.120690323925 -72.194325004345
+(S1 (NP (NP (PRP they)) (VP (VBD tried) (S (NP (DT the))))))
+-24.282905622494 -75.067566179863
+(S1 (NP (NP (PRP they)) (VP (VBD tried) (ADJP (DT the)))))
+-24.298604425169 -80.945296159080
+(S1 (NP (NP (PRP they)) (VP (VBN tried) (X (NP (DT the))))))
+-24.319002869805 -78.985217666798
+(S1 (NP (NP (PRP they)) (VP (VBD tried) (X (NP (DT the))))))
+-24.603647280853 -69.952435463011
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (S (NP (DT the)))))))
+-24.808831422423 -72.825676638529
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (ADJP (DT the))))))
+-24.818279558733 -76.743328125464
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (X (NP (DT the)))))))
+-24.992768517057 -75.966615490431
+(S1 (S (NP (PRP they)) (VP (VBD tried) (SBAR (S (ADVP (DT the)))))))
+-25.003018017205 -79.453714824278
+(S1 (NP (NP (PRP they)) (VP (VBN tried) (ADJP (DT the)))))
+-25.143806707346 -78.767330738679
+(S1 (S (NP (NP (PRP they)) (VP (VBN tried) (X (NP (DT the)))))))
+-25.258599052754 -77.127273146705
+(S1 (S (NP (PRP they)) (VP (VBD tried) (SBAR (S (ADJP (DT the)))))))
+-25.835737689383 -77.275749403877
+(S1 (S (NP (NP (PRP they)) (VP (VBN tried) (ADJP (DT the))))))
+-26.491656059945 -82.044637936802
+(S1 (S (NP (NP (PRP they)) (VP (VBD tried) (SBAR (DT the))))))
+

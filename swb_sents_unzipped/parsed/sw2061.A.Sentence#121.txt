@@ -1,0 +1,102 @@
+50 x
+-17.742713206663 -58.970462515668
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-20.308089651228 -66.798323809446
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager))))))))
+-20.314124335523 -66.426404240394
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-20.518152297435 -68.818625773898
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-21.260860260805 -73.699817847268
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))
+-21.800651697378 -72.195069059146
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))
+-22.150335095823 -69.938622335338
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone)))) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-22.220954028263 -76.239903465134
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (NN everyone) (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-22.426259583165 -75.571700519871
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-22.455291053165 -76.809828529817
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone)) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager)))))))))
+-22.745250368182 -76.357669627430
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone)) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager)))))))))
+-22.828575709451 -80.546818137371
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone) (VBZ 's)) (NP (DT a) (NN manager))))))
+-22.844982690141 -79.382670814220
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))
+-23.004526421580 -78.524008782535
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone) (POS 's)) (DT a) (NN manager)))))
+-23.045883606436 -77.926951244337
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (NN everyone) (VBZ 's)) (NP (DT a) (NN manager))))))
+-23.071257254996 -81.236061422153
+(S1 (S (NP (PRP I)) (NP (JJ mean) (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))
+-23.092099776802 -75.083282390092
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))))
+-23.096254182639 -79.177034525051
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone) (S (VP (POS 's) (NP (DT a) (NN manager))))))))
+-23.178467395939 -76.062905210325
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone)) (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-23.235352087341 -76.657759182316
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone)) (S (VP (POS 's) (NP (DT a) (NN manager)))))))
+-23.345224296898 -80.555579686927
+(S1 (S (NP (PRP I)) (VBP mean) (NP (NN everyone)) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-23.350135941382 -76.450895920443
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone) (VBZ 's)) (NP (DT a) (NN manager)))))
+-23.468481037994 -80.075199347251
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager)))))))))
+-23.495235960877 -80.760867751610
+(S1 (S (NP (PRP I)) (VP (VB mean) (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))
+-23.610179365692 -75.411357905240
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone)) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-23.626864929913 -71.481161663099
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone)))) (VP (POS 's) (NP (DT a) (NN manager)))))
+-23.633907466463 -79.915018535532
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))
+-23.759527580578 -78.483986750321
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN everyone)) (S (VP (POS 's) (NP (DT a) (NN manager))))))))
+-23.824993180580 -78.178370454664
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager)))))
+-23.873456243860 -78.871259820567
+(S1 (S (NP (PRP I)) (VBP mean) (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))
+-23.885639521082 -80.141854967640
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone) (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-23.978660294024 -76.410511614921
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone)) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager))))))))
+-24.036642125655 -78.960013961021
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager))))))))
+-24.091516118802 -72.641990579747
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (S (NP (DT a) (NN manager)))))))))
+-24.215628841590 -80.947946203930
+(S1 (S (NP (PRP I)) (VP (VB mean) (NP (NP (NN everyone) (POS 's)) (DT a) (NN manager)))))
+-24.257126675562 -78.374217638730
+(S1 (S (NP (PRP I)) (VP (VB mean) (NP (NN everyone)) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager))))))))
+-24.284602666877 -81.612122053415
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (NN everyone)) (VP (POS 's) (NP (DT a) (NN manager)))))))
+-24.370384066812 -78.059673697248
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NP (NN everyone) (POS 's)) (NP (DT a) (NN manager))))))))
+-24.446127662922 -78.155372302481
+(S1 (S (S (NP (PRP I)) (VP (VB mean) (NP (NN everyone)))) (VP (VBZ 's) (NP (DT a) (NN manager)))))
+-24.510251342610 -79.371739141651
+(S1 (S (NP (PRP I)) (VP (VB mean) (NP (NN everyone) (VBZ 's)) (NP (DT a) (NN manager)))))
+-24.588339007377 -81.089033266620
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager)))))))))
+-24.717790471807 -75.209410152726
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (SBAR (S (NP (DT a) (NN manager))))))))))
+-24.885694608354 -79.841327722552
+(S1 (S (NP (PRP I)) (VP (VB mean) (NP (NN everyone))) (VP (POS 's) (NP (DT a) (NN manager)))))
+-25.183926435472 -76.225673164318
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (ADVP (DT a) (NN manager))))))))
+-25.530014620113 -78.619017679560
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN everyone)) (VP (POS 's) (S (NP (DT a) (NN manager)))))))))
+-25.534677606518 -81.020991135176
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone))) (SBAR (S (VP (VBZ 's) (NP (DT a) (NN manager)))))))
+-25.922619405023 -81.138425784442
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NN everyone))) (SBAR (S (VP (POS 's) (NP (DT a) (NN manager)))))))
+-26.173376909785 -75.912219752568
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (NP (NP (DT a)) (NN manager))))))))
+-26.305046084232 -80.517283429749
+(S1 (S (S (NP (PRP I)) (VP (VB mean) (NP (NN everyone)))) (VP (POS 's) (NP (DT a) (NN manager)))))
+-26.662927247662 -80.097932304473
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN everyone)) (VP (VBZ 's) (S (NP (DT a) (NN manager)))))))))
+

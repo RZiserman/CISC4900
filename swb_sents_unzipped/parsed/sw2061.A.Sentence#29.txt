@@ -1,0 +1,102 @@
+50 x
+-14.797989881923 -61.403415868175
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-16.126720623879 -61.888697973345
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))))
+-16.767610265542 -65.281380308010
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-17.000956954997 -66.706857657883
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-17.337131640045 -69.297935588551
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-18.445148879991 -66.642820812516
+(S1 (FRAG (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-18.467680792719 -68.659592041759
+(S1 (S (NP (CC and) (NP (PRP I))) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-18.964395567739 -66.889734530691
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-19.240085872400 -70.484880177157
+(S1 (FRAG (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-19.318004548012 -74.790057731650
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (S (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-19.561377082215 -71.207945183599
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Raleigh)))))
+-19.805794173586 -73.792724504138
+(S1 (S (CC and) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-19.938971005395 -70.567361021330
+(S1 (FRAG (CC and) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-20.045359542900 -73.467468962761
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm)) (PP (IN in) (NP (NNP Raleigh)))))
+-20.050427116257 -72.684719203327
+(S1 (FRAG (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))))
+-20.100312684911 -69.045407277560
+(S1 (FRAG (CC and) (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))))
+-20.188454275311 -71.609018905871
+(S1 (FRAG (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-20.232626901024 -72.758677128625
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNP Raleigh)))))
+-20.271385859293 -71.732076909244
+(S1 (S (NP (CC and) (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-20.363855542988 -74.729909920940
+(S1 (S (CC and) (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))))
+-20.630696996551 -74.241949585598
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP 'm)) (PP (IN in) (NP (NNP Raleigh)))))
+-20.686921697625 -71.693227395063
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Raleigh)))))))
+-21.152589074471 -74.860470133896
+(S1 (FRAG (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))))
+-21.208289060331 -76.817043302520
+(S1 (FRAG (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))))
+-21.228501963390 -75.022475519943
+(S1 (S (CC and) (ADVP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-21.301712067651 -75.085909774921
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Raleigh))))))
+-21.515872068678 -73.243959147989
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNP Raleigh)))))))
+-21.592658885151 -76.078014698715
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (S (NP (NNP Raleigh)))))))
+-21.594825741974 -76.727973243502
+(S1 (S (CC and) (NP (PRP I)) (ADVP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-21.642148792352 -73.749012566323
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (NP (IN in) (NNP Raleigh)))))
+-21.697463857107 -76.511387124794
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Raleigh))))))
+-21.995153146526 -74.560846166188
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in)) (NP (NNP Raleigh)))))
+-22.062540171672 -76.636641708919
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNP Raleigh))))))
+-22.210225769412 -76.986051255487
+(S1 (S (CC and) (NP (NP (PRP I)) (ADVP (PRP I))) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh))))))
+-22.336733057627 -70.372214723147
+(S1 (FRAG (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-22.754363607761 -74.234294791326
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (IN in) (NNP Raleigh)))))))
+-22.823862557107 -76.563296803885
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (S (NP (NNP Raleigh)))))))))
+-22.860738209324 -76.604326274213
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (ADVP (RP in)) (NP (NNP Raleigh)))))
+-22.885617373971 -77.433804610737
+(S1 (FRAG (CC and) (NP (NNP I)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-22.953051777197 -77.084796886501
+(S1 (FRAG (S (NP (CC and) (NP (PRP I))) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-23.159692977475 -75.437851106848
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (S (NP (NNP Raleigh))))))
+-23.252810247981 -76.447350041289
+(S1 (FRAG (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Raleigh))))))
+-23.448996614820 -77.626976973587
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP 'm) (NP (IN in) (NNP Raleigh))))))
+-23.463731220706 -75.509645044949
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBP 'm) (ADJP (IN in) (NNP Raleigh)))))
+-23.545977414180 -75.046128185552
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in)) (NP (NNP Raleigh)))))))
+-23.751856847959 -77.252842128796
+(S1 (FRAG (CC and) (S (NP (PRP I)) (ADVP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Raleigh)))))))
+-23.799996150819 -76.694263846114
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Raleigh)))))
+-24.153741036978 -77.089608293577
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RP in)) (NP (NNP Raleigh)))))))
+-24.199363102884 -75.923133332393
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (S (NP (NNP Raleigh))))))))
+-24.723608782662 -75.994927138793
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (IN in) (NNP Raleigh)))))))
+

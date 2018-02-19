@@ -1,0 +1,102 @@
+50 x
+-9.863654252383 -41.298626137547
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-10.543734621702 -42.687209987818
+(S1 (S (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-11.343447338476 -43.166622464555
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-11.646483453751 -47.215993566798
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-12.552260739055 -44.900874729103
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-12.773716134223 -48.056489174875
+(S1 (S (WHNP (WDT What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-13.088233055487 -48.960300424565
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-13.130277395575 -47.115034495445
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-13.458707948777 -50.186478074512
+(S1 (S (NP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-13.636530672316 -52.006998841411
+(S1 (SBAR (WDT What) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-14.084469691700 -56.092873705262
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (SBAR (S (VP (TO to) (VP (VB get))))))))))
+-14.123115859319 -48.503618330033
+(S1 (S (WHNP (WP What)) (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-14.504209734233 -51.479817094485
+(S1 (FRAG (WHNP (WDT What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-14.583270881669 -48.983030822453
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))))
+-14.961903394156 -53.032401924696
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-15.058446401019 -57.481457555534
+(S1 (S (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (SBAR (S (VP (TO to) (VP (VB get)))))))))
+-15.357287004884 -53.373190842936
+(S1 (FRAG (WHNP (WP What)) (SBAR (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-15.417692852201 -55.658312124310
+(S1 (SBAR (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-15.564262777793 -57.960870032271
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (SBAR (S (VP (TO to) (VP (VB get)))))))))))
+-15.568170233681 -58.203493304071
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (PP (TO to) (VP (VB get))))))))
+-15.711799089418 -54.836877786697
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (TO to) (VP (VB get))))))))
+-15.751436239178 -57.143304849435
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (PP (TO to) (NP (VB get))))))))
+-15.815655131326 -56.880236674634
+(S1 (FRAG (SBAR (WDT What) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-15.954932409785 -55.722989116863
+(S1 (S (NP (WDT What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-16.022331119787 -55.516048251083
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (S (VP (VB get))))))))))
+-16.042164718003 -50.717283291350
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-16.073026368459 -51.767093404282
+(S1 (FRAG (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-16.093202550480 -57.405031627846
+(S1 (SBAR (S (NP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-16.147737754584 -58.731374873468
+(S1 (FRAG (S (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-16.305867469954 -52.142576860708
+(S1 (FRAG (WP What) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-16.376853398680 -54.776708782464
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))))
+-16.391879458738 -56.225461636968
+(S1 (S (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (S (TO to) (VP (VB get)))))))
+-16.401894174628 -53.872897517090
+(S1 (S (WHNP (WDT What)) (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-16.702411489106 -56.904632101355
+(S1 (S (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (S (VP (VB get)))))))))
+-16.752027878497 -58.531888699707
+(S1 (S (WHNP (WP What)) (VP (VBP are) (VP (VBG trying) (PP (TO to) (NP (VB get)))))))
+-16.951950615509 -57.823407199309
+(S1 (SBAR (WDT What) (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-17.031361446071 -58.875517956206
+(S1 (SBAR (WHNP (WP What)) (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-17.031706624181 -56.002886416727
+(S1 (S (NP (WP What)) (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-17.191592175512 -56.704874113705
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (TO to) (VP (VB get)))))))))
+-17.231229328059 -59.011301176444
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (PP (TO to) (NP (VB get)))))))))
+-17.269569493005 -55.009390252507
+(S1 (FRAG (WHNP (WP What)) (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-17.455415913248 -57.704726655879
+(S1 (FRAG (S (NP (WP What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-17.502124208668 -57.384044578091
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (S (VP (VB get)))))))))))
+-17.546606594500 -55.384873708934
+(S1 (FRAG (WP What) (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))
+-18.042910515969 -57.296225656732
+(S1 (FRAG (WHNP (WDT What)) (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))
+-18.131442804425 -58.346035769664
+(S1 (FRAG (WHNP (WDT What)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))
+-18.400405576090 -58.439126378253
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (TO to) (VP (VB get))))))))
+-18.437061935195 -58.921790342456
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (VP (VBG trying) (S (TO to) (VP (VB get)))))))))
+-18.594781248077 -59.189599200834
+(S1 (FRAG (WHNP (WP What)) (SBAR (S (VP (VBP are) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get)))))))))))
+-18.710937606458 -59.118296842639
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (S (VP (VB get))))))))))
+

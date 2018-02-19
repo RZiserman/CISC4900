@@ -1,0 +1,102 @@
+50 x
+-23.636646991946 -83.893621418847
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-24.394993399763 -84.311874151259
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-24.413934908333 -81.727430028620
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-24.602479045788 -80.598580188352
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (FRAG (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-24.685605951733 -80.641791206679
+(S1 (FRAG (CC But) (INTJ (UH uh)) (SBAR (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-25.331399571924 -84.619354278080
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (SBAR (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-25.332209901104 -84.515197536623
+(S1 (FRAG (CC But) (FRAG (INTJ (UH uh)) (CC but) (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-25.427979482723 -89.814701212945
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-25.450310450280 -85.553974300397
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WP what) (IN if) (SBAR (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-25.819926221224 -84.908708575552
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-25.823004241131 -85.487585965439
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))
+-25.933479731507 -86.053850692874
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (FRAG (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-26.186325893327 -90.232953945357
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-26.204280092110 -87.648509822718
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))))
+-26.266545033888 -83.750015979901
+(S1 (FRAG (FRAG (CC But) (INTJ (UH uh))) (CC but) (FRAG (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-26.292627622570 -91.649759321577
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (NP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-26.301218172509 -86.562871000777
+(S1 (FRAG (CC But) (INTJ (UH uh)) (SBAR (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-26.355931600882 -86.244443341904
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))
+-26.475238829564 -86.519659982450
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (FRAG (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))))
+-26.767533840132 -85.326116189075
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WP what) (IN if) (SBAR (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-26.786857600721 -87.696476152003
+(S1 (FRAG (CC But) (FRAG (INTJ (UH uh)) (CC but) (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-27.018668369458 -89.665452453568
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WP what) (IN if) (SBAR (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-27.065807638880 -90.436277330721
+(S1 (FRAG (CC But) (FRAG (INTJ (UH uh)) (CC but) (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))))
+-27.079852873747 -91.019305941650
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (WHNP (WDT what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-27.134708632750 -87.782256881261
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (FRAG (SBAR (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-27.172329035701 -90.540434072178
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (SBAR (WP what) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-27.190718262970 -85.492720086947
+(S1 (FRAG (CC But) (ADVP (UH uh)) (SBAR (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-27.232164980659 -87.499430914741
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (FRAG (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))))
+-27.279190292892 -88.387834648953
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (SBAR (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-27.341386610324 -85.259727988606
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-27.431828567841 -87.704659593090
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (SBAR (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-27.463583685772 -87.306011978743
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (FRAG (WHNP (WDT what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-27.553573415777 -89.816649650433
+(S1 (FRAG (CC But) (NP (UH uh)) (SBAR (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-27.597545719608 -89.205286484423
+(S1 (FRAG (FRAG (CC But) (INTJ (UH uh))) (CC but) (FRAG (WP what) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-27.610271405000 -90.829788369650
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))))
+-27.626995437507 -88.113883861828
+(S1 (FRAG (CC But) (FRAG (INTJ (UH uh)) (CC but) (WP what) (IN if) (SBAR (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-27.693041400231 -90.871497188542
+(S1 (FRAG (CC But) (INTJ (UH uh)) (CC but) (SBAR (WHNP (WP what)) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-27.904312910660 -88.047495610989
+(S1 (FRAG (CC But) (FRAG (INTJ (UH uh)) (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-27.937193265863 -86.016585365071
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-28.139304817665 -89.671095773999
+(S1 (FRAG (FRAG (CC But) (INTJ (UH uh))) (CC but) (FRAG (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))))
+-28.219983715444 -89.092445909371
+(S1 (UCP (FRAG (CC But) (INTJ (UH uh))) (CC but) (SBAR (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-28.290426396565 -91.535084137975
+(S1 (FRAG (FRAG (CC But) (INTJ (UH uh))) (CC but) (SBAR (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+-28.334904452311 -89.437594342247
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WP what) (IN if) (SBAR (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))))
+-28.379581394710 -89.530155515041
+(S1 (FRAG (CC But) (FRAG (INTJ (UH uh)) (CC but) (FRAG (WHNP (WP what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))))
+-28.386095030199 -88.804352987454
+(S1 (FRAG (CC But) (FRAG (INTJ (UH uh)) (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-28.632395933208 -91.616140365944
+(S1 (FRAG (CC But) (INTJ (UH uh)) (FRAG (CC but) (WHNP (WDT what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-28.798774620850 -90.933692672809
+(S1 (FRAG (FRAG (CC But) (INTJ (UH uh))) (CC but) (FRAG (SBAR (WP what) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-28.806330483747 -91.413799881045
+(S1 (FRAG (CC But) (ADVP (UH uh)) (SBAR (CC but) (WP what) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for) (NP (PRP it))))))))
+-29.127649673873 -90.457447770292
+(S1 (FRAG (FRAG (CC But) (INTJ (UH uh))) (CC but) (FRAG (WHNP (WDT what)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it)))))))))
+-29.548277997395 -91.769652833627
+(S1 (UCP (FRAG (CC But) (INTJ (UH uh))) (CC but) (SBAR (WHNP (WP what)) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for) (NP (PRP it))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.437187451797 -69.132821459584
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))
+-22.168111671235 -70.159840425078
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-22.553707499786 -69.913614587588
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))
+-22.713640052749 -67.162352537957
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))))
+-22.790075094422 -70.979706782153
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper))))))
+-22.857500294049 -66.181755569794
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper))))))
+-22.965298210158 -73.279231317442
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN lot) (JJR cheaper)))))
+-23.072796631096 -69.299876575301
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))
+-23.171446989776 -73.934414272024
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (RB lot)) (JJR cheaper)))))
+-23.256001981951 -73.392404792424
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP it)) (VP (POS 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-23.284631716435 -70.940633553082
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-23.565819763972 -67.208774467955
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-23.599911147096 -68.189371415201
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))))
+-23.624820857133 -72.006725688627
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-23.649681660002 -75.154924649316
+(S1 (S (CC And) (NP (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))
+-23.803720847746 -70.326895540794
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-24.090050123841 -74.698618635365
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-24.287967037765 -74.715207400028
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (RB lot)) (JJR cheaper)))))
+-24.346546150139 -74.968462130721
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN lot) (JJR cheaper)))))
+-24.380605876652 -76.181943614810
+(S1 (S (CC And) (NP (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-24.402605581616 -75.661838480830
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (DT a) (NN lot) (JJR cheaper)))))))
+-24.429716390576 -76.169286665544
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN lot) (JJR cheaper))))))
+-24.512922638492 -74.681241533585
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (DT a) (NN lot) (JJR cheaper))))))
+-24.569155082513 -70.983348314901
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (RB lot)) (JJR cheaper))))))
+-24.602524820462 -75.781299535573
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (RB lot)) (JJR cheaper))))))
+-24.638171293720 -75.081635605703
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP it)) (VP (POS 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-24.655296045638 -71.963945262147
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (RB lot)) (JJR cheaper)))))))
+-24.791867249647 -73.648804218195
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN lot) (JJR cheaper)))))))
+-24.807056169075 -74.101469387740
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (RB lot)) (JJR cheaper)))))
+-24.870139267369 -76.282460140527
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (POS 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-25.073272902114 -74.566505226898
+(S1 (FRAG (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper))))))
+-25.089988559440 -73.761977693178
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (POS 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))))
+-25.151203151983 -73.478541214623
+(S1 (FRAG (CC And) (ADVP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))))
+-25.206570169041 -75.479411763369
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-25.318306068574 -74.202058169186
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (NN lot) (JJR cheaper))))))
+-25.354913694429 -71.007521678542
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))))
+-25.368766373631 -75.299625196521
+(S1 (S (FRAG (CC And) (ADVP (UH uh))) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN lot) (JJR cheaper)))))
+-25.407593322004 -72.728149713738
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (JJR cheaper)))))))
+-25.484028366465 -76.545503957934
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-25.510362966092 -71.747552745575
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-25.663082165368 -74.315231644169
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (POS 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-25.725659300351 -74.865673751082
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-25.781592372037 -75.593524125059
+(S1 (FRAG (CC And) (S (INTJ (UH uh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-25.967136614352 -72.034540576703
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))))
+-26.037474246330 -74.505560091867
+(S1 (FRAG (CC And) (ADVP (UH uh)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))))
+-26.099690590281 -76.326644162015
+(S1 (S (FRAG (CC And) (ADVP (UH uh))) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN lot)) (JJR cheaper)))))
+-26.970471932893 -75.809114423649
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (RB lot)) (JJR cheaper)))))))
+-27.279976503689 -75.862461681061
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (ADJP (JJR cheaper)))))))
+-27.309115058085 -76.383346039666
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (NP (DT a) (NN lot)) (JJR cheaper))))))
+-28.007776363684 -76.573318854323
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (JJR cheaper)))))))
+

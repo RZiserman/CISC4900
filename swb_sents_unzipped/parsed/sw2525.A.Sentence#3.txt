@@ -1,0 +1,102 @@
+50 x
+-31.190128440460 -99.176234843143
+(S1 (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-31.217072652343 -97.621411840296
+(S1 (S (INTJ (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-31.252399180041 -95.908326421460
+(S1 (S (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-31.899615562827 -104.133149200378
+(S1 (S (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-31.930548863029 -101.760423370287
+(S1 (NP (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas)))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-32.308182925956 -107.423045943382
+(S1 (S (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-32.477345184449 -103.631812928978
+(S1 (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas))) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+-32.871409062593 -100.919421308377
+(S1 (S (ADVP (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-32.910899165142 -104.706216121735
+(S1 (S (VP (NNP uh) (PP (IN in) (NP (NNP Dallas))) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))))
+-32.945336340857 -100.152210609723
+(S1 (S (ADVP (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-32.949323444210 -105.550235736521
+(S1 (NP (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas)))) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+-33.041058695499 -105.862181003640
+(S1 (NP (UH uh) (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-33.104474160024 -106.941765471337
+(S1 (S (VP (NNP uh) (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+-33.671039929966 -105.257908342566
+(S1 (S (ADVP (NNP uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-33.726507647209 -100.699252886050
+(S1 (INTJ (UH uh) (PP (IN in) (NP (NP (NNP Dallas)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))))
+-33.744674809481 -104.041102772867
+(S1 (FRAG (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas)))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-33.770611038509 -105.574625294591
+(S1 (S (ADVP (NNP uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-33.784840157810 -106.687471928706
+(S1 (S (VP (NNP uh) (SBAR (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))))
+-34.039156306171 -106.876212757237
+(S1 (S (INTJ (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (NP (RB definitely) (DT a) (NN crime) (NN problem)))))
+-34.074482811567 -105.163127338400
+(S1 (S (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (NP (RB definitely) (DT a) (NN crime) (NN problem)))))
+-34.148566504872 -103.860086082100
+(S1 (FRAG (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-34.171602168433 -106.697954561012
+(S1 (S (NP (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-34.274244741988 -106.487762485722
+(S1 (NP (NP (NNP uh)) (PP (IN in) (NP (NP (NNP Dallas)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))))
+-34.346638951860 -104.512930461445
+(S1 (S (INTJ (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (RB definitely) (NP (DT a) (NN crime) (NN problem)))))
+-34.356119321637 -107.433712493174
+(S1 (S (INTJ (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (POS 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-34.381965457255 -102.799845042608
+(S1 (S (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (RB definitely) (NP (DT a) (NN crime) (NN problem)))))
+-34.384896119732 -106.067753716231
+(S1 (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (RB definitely) (NP (DT a) (NN crime) (NN problem))))))
+-34.446156936261 -103.753168509911
+(S1 (S (ADVP (ADVP (UH uh)) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-34.542742145630 -104.781970013931
+(S1 (FRAG (INTJ (UH uh)) (SBAR (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+-34.733572364067 -105.441791058376
+(S1 (FRAG (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+-34.746651012773 -104.832605057152
+(S1 (FRAG (S (INTJ (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-34.781923529620 -103.973107566604
+(S1 (INTJ (UH uh) (PP (IN in) (NP (NP (NNP Dallas)) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))))
+-34.929868148264 -108.196052154070
+(S1 (S (INTJ (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (POS 's) (NP (RB definitely) (DT a) (NN crime) (NN problem)))))
+-34.939512541962 -106.522878028886
+(S1 (FRAG (NP (NP (NNP uh)) (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+-35.023432001513 -108.166501323147
+(S1 (S (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (POS 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-35.060674583520 -102.150207610523
+(S1 (S (PP (ADVP (UH uh)) (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-35.160122144119 -106.995542935948
+(S1 (S (NP (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-35.514070466997 -102.621752466256
+(S1 (FRAG (INTJ (UH uh)) (SBAR (IN in) (S (NP (NNP Dallas) (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+-35.545291922829 -108.360114793015
+(S1 (S (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (NP (ADVP (RB definitely)) (DT a) (NN crime) (NN problem)))))
+-35.786990004700 -105.705972379991
+(S1 (FRAG (NP (UH uh)) (PP (IN in) (NP (NNP Dallas))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-35.827002441057 -106.376764861319
+(S1 (S (INTJ (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (RB there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-36.000975345382 -107.810939929526
+(S1 (S (ADVP (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (RB definitely) (NP (DT a) (NN crime) (NN problem)))))
+-36.074902623647 -107.043729230872
+(S1 (S (ADVP (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (EX there)) (VP (VBZ 's) (RB definitely) (NP (DT a) (NN crime) (NN problem)))))
+-36.113182118424 -107.365928445711
+(S1 (FRAG (NP (UH uh) (PP (IN in) (NP (NNP Dallas)))) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-36.158278817185 -105.857351213436
+(S1 (S (INTJ (UH uh) (PP (IN in) (NP (NNP Dallas)))) (NP (RB there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-36.169761380366 -108.302944534283
+(S1 (FRAG (S (ADVP (UH uh)) (PP (IN in) (NP (NNP Dallas))) (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem))))))
+-36.287144493548 -105.121975774519
+(S1 (S (INTJ (UH uh)) (IN in) (NP (NNP Dallas) (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))
+-36.292455753999 -107.590771475719
+(S1 (INTJ (UH uh) (PP (IN in) (NP (NP (NNP Dallas)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (RB definitely) (NP (DT a) (NN crime) (NN problem)))))))))
+-36.462676006816 -106.834467795415
+(S1 (FRAG (INTJ (UH uh)) (PP (IN in) (NP (NP (NNP Dallas)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))))
+-36.605316155277 -106.342253539520
+(S1 (FRAG (ADVP (UH uh)) (SBAR (IN in) (S (NP (NNP Dallas) (EX there)) (VP (VBZ 's) (ADVP (RB definitely)) (NP (DT a) (NN crime) (NN problem)))))))
+

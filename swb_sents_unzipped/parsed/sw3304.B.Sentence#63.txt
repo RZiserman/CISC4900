@@ -1,0 +1,102 @@
+50 x
+-11.718381673616 -44.169287619756
+(S1 (S (CC but) (ADVP (RB maybe)) (NP (JJ next) (NN year))))
+-12.469857410496 -42.136186493744
+(S1 (FRAG (CC but) (RB maybe) (NP (JJ next) (NN year))))
+-13.309438699476 -45.884676756596
+(S1 (S (CC but) (NP (RB maybe) (JJ next) (NN year))))
+-13.338376001533 -44.732976135765
+(S1 (FRAG (CC but) (ADVP (RB maybe)) (NP (JJ next) (NN year))))
+-14.496067190280 -43.158688549658
+(S1 (FRAG (CC but) (ADVP (RB maybe) (NP (JJ next) (NN year)))))
+-15.108909183913 -50.882375005115
+(S1 (NP (CC but) (NP (RB maybe) (JJ next) (NN year))))
+-15.648315416510 -49.530946021852
+(S1 (FRAG (CC but) (NP (RB maybe) (JJ next) (NN year))))
+-15.820965175384 -45.213042107665
+(S1 (FRAG (CC but) (RB maybe) (NP (IN next) (NN year))))
+-15.903745779987 -54.608516795220
+(S1 (S (ADVP (CC but) (RB maybe)) (NP (JJ next) (NN year))))
+-15.913878057482 -49.984230395945
+(S1 (FRAG (CONJP (CC but) (RB maybe)) (NP (JJ next) (NN year))))
+-16.214990512116 -47.763126850298
+(S1 (FRAG (CC but) (ADVP (RB maybe)) (NP (IN next) (NN year))))
+-16.395820011421 -52.493502026348
+(S1 (NP (QP (CC but) (RB maybe)) (JJ next) (NN year)))
+-16.417913253372 -51.653421885509
+(S1 (FRAG (CC but) (PP (RB maybe) (NP (JJ next) (NN year)))))
+-16.420556951993 -48.572895006947
+(S1 (X (CC but) (NP (RB maybe) (JJ next) (NN year))))
+-16.499212564064 -46.383088398555
+(S1 (FRAG (CC but) (RB maybe) (PP (IN next) (NP (NN year)))))
+-16.566894637547 -54.952777928463
+(S1 (NP (RB but) (RB maybe) (JJ next) (NN year)))
+-16.707761587955 -53.557823464085
+(S1 (S (CC but) (ADVP (RB maybe)) (NP (IN next) (NN year))))
+-16.793575193428 -55.281951820924
+(S1 (S (CC but) (ADVP (RB maybe) (NP (JJ next) (NN year)))))
+-16.863859873619 -48.294418334011
+(S1 (FRAG (CC but) (ADVP (RB maybe)) (PP (IN next) (NP (NN year)))))
+-16.902636939520 -54.346712755316
+(S1 (S (CC but) (NP (RB maybe) (IN next) (NN year))))
+-16.921234838065 -54.209528531764
+(S1 (FRAG (RB but) (RB maybe) (NP (JJ next) (NN year))))
+-17.037034451958 -46.779275707587
+(S1 (FRAG (CC but) (RB maybe) (ADVP (JJ next) (NN year))))
+-17.073570149728 -56.525648379688
+(S1 (S (CC but) (NP (RB maybe)) (NP (JJ next) (NN year))))
+-17.124176427316 -51.161391061600
+(S1 (FRAG (CC but) (NP (RB maybe) (IN next) (NN year))))
+-17.347780078369 -50.626512715606
+(S1 (FRAG (CC but) (RB maybe) (SBAR (S (NP (JJ next) (NN year))))))
+-17.355134691660 -52.081992759235
+(S1 (FRAG (RB but) (ADVP (RB maybe) (NP (JJ next) (NN year)))))
+-17.364980914748 -55.787811999381
+(S1 (X (CC but) (ADVP (RB maybe)) (NP (JJ next) (NN year))))
+-17.467882392773 -54.176175365303
+(S1 (X (CC but) (PP (RB maybe) (NP (JJ next) (NN year)))))
+-17.515060315509 -55.327190407676
+(S1 (FRAG (CC but) (FRAG (ADVP (RB maybe)) (NP (JJ next) (NN year)))))
+-17.728831072560 -47.148022488111
+(S1 (FRAG (CC but) (ADVP (RB maybe) (NP (IN next) (NN year)))))
+-17.766032225883 -56.571634327687
+(S1 (FRAG (CC but) (NP (NP (RB maybe)) (NP (JJ next) (NN year)))))
+-17.965520105661 -56.897147366102
+(S1 (FRAG (CC but) (FRAG (RB maybe) (NP (JJ next) (NN year)))))
+-18.007749301910 -52.657743892650
+(S1 (FRAG (NP (NP (QP (CC but) (RB maybe))) (NP (JJ next) (NN year)))))
+-18.033988280393 -51.211163971168
+(S1 (X (CC but) (NP (RB maybe) (IN next) (NN year))))
+-18.142810474634 -52.703044690769
+(S1 (FRAG (CC but) (FRAG (ADVP (RB maybe) (NP (JJ next) (NN year))))))
+-18.168556992537 -50.930649105123
+(S1 (FRAG (CC but) (RB maybe) (RB next) (NP (NN year))))
+-18.497068884346 -51.084247711307
+(S1 (FRAG (CC but) (ADVP (RB maybe) (JJ next) (NN year))))
+-18.503928955648 -56.550585707939
+(S1 (FRAG (NP (RB but) (RB maybe) (JJ next) (NN year))))
+-18.593909712817 -52.587699740042
+(S1 (FRAG (CC but) (ADVP (RB maybe)) (SBAR (S (NP (JJ next) (NN year))))))
+-18.947033269774 -56.597192650822
+(S1 (X (CC but) (NP (NP (RB maybe)) (NP (JJ next) (NN year)))))
+-19.033192173758 -56.626414938855
+(S1 (FRAG (CC but) (FRAG (PP (RB maybe) (NP (JJ next) (NN year))))))
+-19.134194617188 -56.792845705476
+(S1 (FRAG (CC but) (FRAG (NP (RB maybe) (JJ next) (NN year)))))
+-19.154447551624 -53.078849123695
+(S1 (FRAG (CONJP (CC but) (RB maybe)) (NP (IN next) (NN year))))
+-19.261617319986 -55.794155128443
+(S1 (FRAG (CC but) (PP (ADVP (RB maybe)) (IN next) (NP (NN year)))))
+-19.783176987798 -53.602312861465
+(S1 (FRAG (CC but) (ADVP (RB maybe) (PP (IN next) (NP (NN year))))))
+-20.279051552739 -55.527568601331
+(S1 (FRAG (CC but) (ADVP (RB maybe)) (ADVP (JJ next) (NN year))))
+-20.496072769821 -55.963238639601
+(S1 (FRAG (CC but) (RB maybe) (PP (JJ next) (NP (NN year)))))
+-20.587898573939 -56.071326697688
+(S1 (FRAG (RB but) (ADVP (RB maybe) (NP (IN next) (NN year)))))
+-20.968697631084 -53.954290839657
+(S1 (FRAG (NP (NP (QP (CC but) (RB maybe))) (NP (IN next) (NN year)))))
+-21.507292166913 -56.692378629221
+(S1 (FRAG (CC but) (FRAG (ADVP (RB maybe) (NP (IN next) (NN year))))))
+

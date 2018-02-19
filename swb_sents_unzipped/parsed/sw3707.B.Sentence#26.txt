@@ -1,0 +1,102 @@
+50 x
+-51.872715807546 -169.526073969072
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something)) (ADVP (RB outside)))))))
+-51.975419777377 -165.725708703031
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-52.338897614991 -169.451020436829
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something)) (ADVP (RB outside)))))))
+-52.351279989081 -169.926320899954
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something)) (ADVP (RB outside)))))))
+-52.423921696437 -166.701012520346
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-52.456308807226 -166.225712057222
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-52.715187206355 -164.444281180092
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-52.790114371628 -170.008786294446
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (ADVP (RB maybe)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-52.991281053137 -169.066757264385
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat))) (ADVP (RB maybe)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))
+-53.119328876095 -169.037914463222
+(S1 (S (VP (VB Have) (NP (PRP you))) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-53.181369013800 -164.369227647849
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-53.193751387890 -164.844528110974
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-53.196695360485 -165.746751186499
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-53.212342372309 -169.413607158639
+(S1 (S (VP (VB Have) (SBAR (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))))
+-53.343631119144 -170.043717889414
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (NP (DT a) (NN treat)) (ADVP (RB maybe))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-53.366410391058 -169.476120147277
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-53.522575211365 -168.311471161372
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (RB maybe) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-53.567830795156 -170.013218280537
+(S1 (S (VP (VB Have) (NP (PRP you))) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-53.600217878066 -169.537917817412
+(S1 (S (VP (VB Have) (NP (PRP you))) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-53.621620936549 -169.904412867732
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-53.645197279545 -166.722055003814
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-53.677584362455 -166.246754540690
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-53.693231374279 -169.913610512830
+(S1 (S (VP (VB Have) (SBAR (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))))
+-53.845724006319 -166.577288629158
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (RB maybe) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-53.847299420906 -169.976123501467
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-53.971133979029 -168.514451020301
+(S1 (S (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat) (RB maybe)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))
+-54.191339556266 -168.477635911597
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-54.220502724322 -170.062745568276
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-54.279870917596 -168.187233480041
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (NP (DT a) (NN treat)) (ADVP (RB maybe))))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-54.432120349657 -169.925455371781
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))))
+-54.564906702252 -170.064760372882
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (NP (DT a) (NN treat)) (ADVP (RB maybe))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-54.589541643379 -170.296100985711
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat))) (ADVP (RB maybe))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-54.639841475326 -169.452939728912
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-54.672228586115 -168.977639265788
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-54.680245082481 -166.657966610929
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat) (RB maybe)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-54.686684531768 -169.987692036033
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)))) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-54.743850766594 -168.332513644840
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (RB maybe) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-54.831967223878 -166.223454354677
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-54.923567455860 -169.840121850164
+(S1 (S (VP (VBP Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-55.192409562136 -168.535493503769
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat) (RB maybe)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-55.280469142938 -167.198758171992
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-55.301147365556 -168.142463952412
+(S1 (SINV (VBP Have) (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)))) (SBAR (WHADVP (ADVP (NP (DT a) (NN treat)) (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+-55.312856225848 -166.723457708868
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-55.346543957388 -169.333226302179
+(S1 (VP (VB Have) (SBAR (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-55.351424573117 -169.733359171537
+(S1 (S (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat))))) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))
+-55.795045876448 -170.308530119494
+(S1 (VP (VB Have) (SBAR (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (RB maybe) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-55.827432987236 -169.833229656369
+(S1 (VP (VB Have) (SBAR (S (NP (PRP you)) (VP (VP (VBD praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (WHADVP (ADVP (RB maybe)) (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))))))
+-56.379122629987 -168.809216813018
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat)) (SBAR (RB maybe) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-56.827681425529 -169.012196671947
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat) (RB maybe)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside))))))))))
+-57.353874550127 -169.740712983313
+(S1 (VP (VB Have) (S (NP (PRP you)) (VP (VP (VBN praised) (NP (PRP it))) (CC and) (VP (VBN given) (NP (PRP it)) (NP (DT a) (NN treat))))) (SBAR (ADVP (RB maybe)) (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ does) (NP (NN something) (JJ outside)))))))
+

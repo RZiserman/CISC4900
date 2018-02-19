@@ -1,0 +1,102 @@
+50 x
+-24.500942972846 -79.193317977889
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-25.364066511286 -87.059427121952
+(S1 (PP (IN So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-26.119482717485 -88.294297305164
+(S1 (S (RB So) (WHNP (WP what)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-26.311986619480 -86.880970856713
+(S1 (FRAG (PP (IN So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))))
+-26.321973026269 -85.335720908188
+(S1 (SBAR (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-26.367463323848 -83.786583987133
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-26.371689330084 -91.752081335457
+(S1 (S (PP (IN So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))))
+-26.478412178794 -87.851562739374
+(S1 (SBAR (RB So) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-26.580945146749 -88.270388325754
+(S1 (S (IN So) (NP (WP what)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-26.593618617045 -86.383473098747
+(S1 (SBAR (WHNP (RB So) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-26.968564754696 -86.165343817779
+(S1 (FRAG (RB So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-27.078367269982 -87.692385599835
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-27.161763644786 -91.798184861393
+(S1 (S (ADVP (RB So)) (WHNP (WP what)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-27.232444632491 -90.552245384503
+(S1 (S (WHNP (RB So) (WP what)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-27.280632805254 -90.420094548288
+(S1 (SBAR (RB So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-27.326515348559 -90.497155478179
+(S1 (FRAG (SBAR (IN So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))))
+-27.412078244692 -90.665833342994
+(S1 (SBAR (ADVP (IN So)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-27.492660787113 -90.939833654388
+(S1 (FRAG (IN So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-27.615226531546 -91.044162367800
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (WDT what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-27.702173673453 -89.876416912577
+(S1 (FRAG (CC So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-27.789700476264 -84.108015996051
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks))))))))
+-27.859720584512 -86.249065511826
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-27.918286014537 -89.723421100683
+(S1 (S (RB So) (NP (WP what)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-27.978587833809 -86.271835208177
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-28.147840451811 -91.166035293978
+(S1 (SBAR (WHNP (ADVP (RB So)) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-28.265441184062 -86.467489215994
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks)))))))))
+-28.282112199715 -91.563240609083
+(S1 (FRAG (RB So) (WP what) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-28.434995492647 -90.138570152368
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (NN use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-28.475647247519 -91.002157966975
+(S1 (FRAG (RB So) (WP what) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-28.697851304926 -88.251469425756
+(S1 (FRAG (SBAR (WHNP (RB So) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-28.793610376444 -89.971978672260
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-28.930707585190 -91.140815158526
+(S1 (FRAG (RB So) (WP what) (SBAR (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-29.010791811480 -88.840663979749
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you)) (NP (NN use)) (PP (IN for) (NP (NNS cookbooks)))))))
+-29.052631343962 -90.012246957400
+(S1 (FRAG (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-29.368831114445 -91.407492508440
+(S1 (S (RB So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you))))) (VP (VB use) (PP (IN for) (NP (NNS cookbooks))))))
+-29.466459889686 -90.250418926350
+(S1 (SBAR (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks)))))))))
+-29.504257122521 -91.395577457153
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you)) (VP (VB use) (PP (IN for) (NP (NNS cookbooks))))))))
+-29.544393820110 -91.795668874874
+(S1 (FRAG (PP (IN So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks))))))))))
+-29.656220827266 -88.701282005295
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks)))))))))
+-29.726240935514 -90.842331521069
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB use) (PP (IN for) (NP (NNS cookbooks)))))))))))
+-29.749607680385 -91.415652325940
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use) (PRT (RP for)) (NP (NNS cookbooks)))))))))
+-29.845108184810 -90.865101217421
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB use) (PP (IN for) (NP (NNS cookbooks))))))))))
+-29.882376120462 -91.298171116909
+(S1 (SBAR (WHNP (RB So) (WP what)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks))))))))
+-30.026061630059 -90.574689955491
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP use)) (PP (IN for) (NP (NNS cookbooks)))))))))
+-30.082916041318 -87.197238563773
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (NP (NP (PRP you) (NN use)) (PP (IN for) (NP (NNS cookbooks))))))))
+-30.131961535064 -91.060755225238
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks))))))))))
+-30.139046898113 -91.080041835941
+(S1 (FRAG (RB So) (SBAR (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN use)) (PP (IN for) (NP (NNS cookbooks)))))))))
+-30.161983587523 -91.822468038026
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB use) (PP (IN for) (NP (NNS cookbooks)))))))))
+-30.270810822395 -90.029933007354
+(S1 (SBAR (ADVP (RB So)) (WHNP (WP what)) (S (VP (VBP do) (NP (PRP you) (NN use)) (PP (IN for) (NP (NNS cookbooks)))))))
+-31.949436392320 -91.790504573017
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (NP (NP (PRP you) (NN use)) (PP (IN for) (NP (NNS cookbooks)))))))))
+

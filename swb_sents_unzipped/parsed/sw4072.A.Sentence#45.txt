@@ -1,0 +1,102 @@
+50 x
+-20.888437810930 -75.505464844823
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these) (JJ dead) (NNS people)))))))
+-21.881327356300 -80.069703030965
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these) (VBN dead) (NNS people)))))))
+-23.292911745364 -80.299535413579
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (PP (IN like) (NP (DT these) (JJ dead) (NNS people))))))))
+-23.651146784791 -84.310801403042
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these) (NN dead) (NNS people)))))))
+-23.663420155621 -83.813943392159
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (NP (NN showing)) (PP (IN like) (NP (DT these) (JJ dead) (NNS people)))))))
+-23.882472545890 -84.928291898527
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (NP (IN like) (DT these) (JJ dead) (NNS people))))))
+-23.943525067827 -82.184241012421
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PRT (IN like)) (NP (DT these) (JJ dead) (NNS people))))))
+-24.071913507421 -85.140972714460
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (S (VP (VB like) (NP (DT these) (JJ dead) (NNS people))))))))
+-24.241169506284 -77.255182647828
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-24.348762820734 -84.863773599720
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (PP (IN like) (NP (DT these) (VBN dead) (NNS people))))))))
+-24.353687337134 -86.263090392926
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (VP (VB like) (NP (DT these) (JJ dead) (NNS people)))))))
+-24.370380614102 -86.299957407603
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (NP (VBG showing)) (PP (IN like) (NP (DT these) (JJ dead) (NNS people)))))))
+-24.647752423293 -88.378181663920
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (NP (NN showing)) (PP (IN like) (NP (DT these) (VBN dead) (NNS people)))))))
+-24.784609657518 -85.418787704961
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (NN showing)) (PP (IN like) (NP (DT these) (JJ dead) (NNS people))))))
+-24.796647194753 -87.799679402409
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (IN like) (NP (DT these) (JJ dead) (NNS people))))))
+-24.974993459487 -86.885320237119
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (NN showing) (PP (IN like) (NP (DT these) (JJ dead) (NNS people)))))))
+-25.054797878476 -85.337058660363
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (VP (IN like) (NP (DT these) (JJ dead) (NNS people)))))))
+-25.090657554848 -84.970310276627
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADJP (VBG showing) (PP (IN like) (NP (DT these) (JJ dead) (NNS people)))))))
+-25.304007500225 -89.386247402818
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these) (NP (JJ dead) (NNS people))))))))
+-25.351968802232 -87.465017908819
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PRT (IN like)) (NP (DT these) (VBN dead) (NNS people))))))
+-25.369321565680 -88.786721719859
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (VBG showing)) (PP (IN like) (NP (DT these) (JJ dead) (NNS people))))))
+-25.412079480913 -86.240006045235
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (VBG showing) (PP (IN like) (NP (DT these) (JJ dead) (NNS people)))))))
+-25.574701280812 -89.451157317096
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (SBAR (IN like) (S (NP (DT these) (JJ dead) (NNS people))))))))
+-25.927283739461 -84.970193475323
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADJP (VBG showing)) (PP (IN like) (NP (DT these) (JJ dead) (NNS people))))))
+-26.073908984317 -89.512506621078
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (SBAR (S (VP (VBP like) (NP (DT these) (JJ dead) (NNS people)))))))))
+-26.137515639647 -89.529281778201
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (NP (IN like) (DT these) (JJ dead) (NNS people)))))))
+-26.211374519225 -89.104871971797
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (PP (IN like) (NP (DT these) (NN dead) (NNS people))))))))
+-26.222377561427 -89.296548790453
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (S (VP (VB like) (NP (DT these) (JJ dead) (NNS people)))))))))
+-26.261925130884 -89.534548582351
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADJP (VBG showing) (PP (IN like) (NP (DT these) (VBN dead) (NNS people)))))))
+-26.301441664035 -86.340261969077
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these))) (NP (JJ dead) (NNS people))))))
+-26.327729320745 -89.670168348417
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these) (ADJP (VBN dead)) (NNS people)))))))
+-26.627084767236 -86.732751239894
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (PRT (IN like)) (NP (DT these) (JJ dead) (NNS people)))))))
+-26.645643440718 -82.049253216584
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people))))))))
+-27.016151901155 -85.563661376367
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (NP (NN showing)) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-27.032134082043 -89.534431661464
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADJP (VBG showing)) (PP (IN like) (NP (DT these) (VBN dead) (NNS people))))))
+-27.142170455221 -88.731169267942
+(S1 (S (NP (PRP they)) (VP (VBD were)) (PP (VBG showing) (PP (IN like) (NP (DT these) (JJ dead) (NNS people))))))
+-27.470442272575 -89.262719841244
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (NN showing) (PP (IN like) (NP (DT these) (JJ dead) (NNS people))))))))
+-27.682583750018 -87.210997606369
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (NP (IN like) (DT these) (ADJP (JJ dead)) (NNS people))))))
+-27.723112356849 -88.049675391811
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (NP (VBG showing)) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-27.917829211579 -85.036876433950
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PRT (IN like)) (NP (DT these) (ADJP (JJ dead)) (NNS people))))))
+-28.133784635924 -87.624178845442
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (S (VP (VB like) (NP (DT these) (ADJP (JJ dead)) (NNS people))))))))
+-28.137341352872 -87.168505507966
+(S1 (S (NP (PRP they)) (VP (VBD were) (NP (NN showing)) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people))))))
+-28.327725152053 -88.635038040124
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (NN showing) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-28.415558418244 -88.746296364930
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (VP (VB like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-28.443389317109 -86.720028329786
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADJP (VBG showing) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-28.764811220872 -87.989724020464
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (VBG showing) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-29.119595871256 -88.514301924124
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (VP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+-29.280015432027 -86.719911278328
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADJP (VBG showing)) (PP (IN like) (NP (DT these) (ADJP (JJ dead)) (NNS people))))))
+-29.698939675743 -87.583110526878
+(S1 (S (NP (PRP they)) (VP (VBD were) (VP (VBG showing) (PP (IN like) (NP (DT these))) (NP (ADJP (JJ dead)) (NNS people))))))
+-30.601388891474 -89.585386588310
+(S1 (S (NP (PRP they)) (VP (VBD were) (S (VP (VBG showing) (PRT (IN like)) (NP (DT these) (ADJP (JJ dead)) (NNS people)))))))
+

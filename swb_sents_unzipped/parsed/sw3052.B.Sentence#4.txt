@@ -1,0 +1,102 @@
+50 x
+-20.081821604717 -64.779517843749
+(S1 (FRAG (CC but) (RB not) (ADVP (RB that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-22.224188442815 -67.257248616563
+(S1 (FRAG (CC but) (RB not) (ADVP (IN that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-22.575690732088 -76.383668384145
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (S (ADJP (JJ far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-22.807539820104 -71.094612022953
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (FRAG (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-22.853274521438 -71.622850455507
+(S1 (FRAG (CC but) (RB not) (ADVP (DT that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-23.104958876665 -72.454855948099
+(S1 (FRAG (CC but) (RB not) (ADJP (RB that) (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-23.381488513087 -73.580596797073
+(S1 (FRAG (CC but) (ADVP (RB not) (RB that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-23.492143113205 -72.899291564255
+(S1 (FRAG (CC but) (RB not) (PP (ADVP (RB that) (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-23.659090714959 -72.586682900191
+(S1 (FRAG (CC but) (RB not) (ADJP (IN that) (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-23.691958348416 -73.253084184577
+(S1 (FRAG (CC but) (RB not) (ADVP (RB that) (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-23.971149431989 -78.132289280290
+(S1 (FRAG (CC but) (RB not) (ADVP (RB that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (JJ future)))))
+-23.983771032494 -76.727933242325
+(S1 (FRAG (CC but) (RB not) (NP (DT that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-24.004620586550 -77.264804124540
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (S (ADJP (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))))
+-24.152980506643 -77.164667272413
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (S (ADVP (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))))
+-24.156297847335 -76.446135502140
+(S1 (FRAG (CC but) (RB not) (NP (NP (DT that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-24.227465033619 -73.300875836560
+(S1 (FRAG (CC but) (RB not) (ADVP (RB that)) (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-24.312464623665 -77.035941291202
+(S1 (FRAG (CC but) (RB not) (SBAR (WHNP (WDT that)) (FRAG (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-24.440751440971 -72.340101398875
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (FRAG (ADVP (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-24.471463971982 -74.581932837043
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (FRAG (ADVP (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))))
+-24.648725043507 -76.340750921428
+(S1 (FRAG (CC but) (RB not) (ADVP (IN that) (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-24.660208689614 -71.585369260084
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (FRAG (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-24.705109381959 -76.935099280951
+(S1 (FRAG (CC but) (RB not) (NP (DT that)) (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-24.713842435780 -77.284829323095
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (FRAG (ADJP (JJ far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))))
+-24.765193619542 -77.667832296363
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (ADJP (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-24.842996926555 -76.353627084562
+(S1 (FRAG (CC but) (RB not) (ADVP (ADVP (RB that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-24.880032693733 -75.638923376242
+(S1 (FRAG (CC but) (RB not) (NP (NP (IN that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-25.118547239527 -76.416704215828
+(S1 (FRAG (CC but) (RB not) (SBAR (WHNP (IN that)) (FRAG (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-25.137644799928 -77.727546475522
+(S1 (FRAG (CC but) (RB not) (NP (IN that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-25.140194212643 -75.959860804666
+(S1 (FRAG (CC but) (RB not) (SBAR (WHNP (WDT that)) (FRAG (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-25.147290237388 -75.643107787566
+(S1 (FRAG (CC but) (RB not) (ADVP (RB that)) (ADJP (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-25.161019642727 -76.059183497659
+(S1 (FRAG (CC but) (ADVP (RB not) (IN that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-25.167244670394 -76.262380390159
+(S1 (FRAG (CC but) (RB not) (PP (ADVP (DT that) (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-25.227346491709 -75.816123395374
+(S1 (FRAG (CC but) (RB not) (PP (IN that) (ADVP (RB far))) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-25.246491920288 -77.880140779068
+(S1 (FRAG (CC but) (RB not) (SBAR (WHNP (WDT that)) (FRAG (ADVP (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-25.258387830154 -75.519700837563
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (FRAG (PP (RB far) (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-25.353077389467 -77.998400423449
+(S1 (FRAG (CC but) (RB not) (NP (NP (RB that) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-25.429678058372 -75.536498861534
+(S1 (FRAG (CC but) (RB not) (SBAR (IN that) (FRAG (PP (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))))
+-25.451454065458 -75.622342769818
+(S1 (FRAG (CC but) (RB not) (PP (ADVP (IN that) (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-25.683756677862 -78.017900854607
+(S1 (FRAG (CC but) (RB not) (ADVP (RB that)) (PP (RB far) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-25.811051920988 -76.450381729794
+(S1 (FRAG (CC but) (RB not) (ADVP (NP (WDT that)) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-25.956718137708 -76.064028562889
+(S1 (FRAG (CC but) (RB not) (ADVP (IN that)) (ADJP (RB far) (PP (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-26.009474268061 -77.329786415740
+(S1 (FRAG (CC but) (RB not) (ADVP (NP (IN that)) (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-26.153635220919 -73.721796611883
+(S1 (FRAG (CC but) (RB not) (ADVP (IN that)) (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-26.157805583626 -77.620600293305
+(S1 (FRAG (CC but) (RB not) (PP (IN that) (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future))))))
+-26.335432853888 -76.770563632012
+(S1 (FRAG (CC but) (RB not) (NP (WDT that)) (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-26.676602547607 -77.662193591750
+(S1 (FRAG (CC but) (RB not) (SBAR (WHNP (IN that)) (FRAG (ADVP (RB far)) (PP (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-26.744366669122 -77.327410944884
+(S1 (FRAG (CC but) (RB not) (SBAR (WHNP (DT that)) (FRAG (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-26.766258980335 -76.556195857483
+(S1 (FRAG (CC but) (RB not) (SBAR (WHNP (IN that)) (FRAG (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))))
+-26.890436968019 -77.602662543425
+(S1 (FRAG (CC but) (RB not) (NP (IN that)) (PP (ADVP (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+-27.113464326311 -76.958723483276
+(S1 (FRAG (CC but) (RB not) (PP (ADVP (NP (WDT that)) (RB far)) (IN in) (NP (DT the) (JJ distant) (NN future)))))
+

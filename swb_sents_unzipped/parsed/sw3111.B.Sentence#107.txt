@@ -1,0 +1,102 @@
+50 x
+-10.769281760524 -40.138026265830
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (ADJP (JJ uninsured)))))
+-12.896687810451 -43.816706918073
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (JJ uninsured)))))
+-13.083898492552 -45.685548766341
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (VP (JJ uninsured)))))
+-13.887911870415 -48.466796215247
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ uninsured))))))
+-14.286228426878 -48.499624673731
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (ADVP (JJ uninsured)))))
+-15.230990137139 -53.339228061625
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ uninsured)))))))
+-15.292122829623 -48.166482704966
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ uninsured))))))
+-15.970075983615 -52.145476813865
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (JJ uninsured))))))
+-16.058957378684 -54.014318854995
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (VP (JJ uninsured))))))
+-16.654540778971 -52.827586920997
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ uninsured))))))
+-16.672082818141 -52.691188914861
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ uninsured)))))))
+-17.207813254864 -54.990407806752
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (ADJP (JJ uninsured))))))
+-17.512294121193 -56.828394600503
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ uninsured))))))
+-17.611958140983 -58.886750712193
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (JJ uninsured)))))))
+-17.764082905206 -55.123546761859
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (VP (JJ uninsured))))))
+-17.810079403792 -57.017908769155
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (JJ uninsured)))))))
+-18.042306223524 -54.164312022374
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ uninsured))))))
+-18.377584933241 -56.495252712034
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ uninsured)))))))
+-18.739284374539 -63.433355655108
+(S1 (S (NP (CC but) (NP (PRP he))) (VP (VBD was) (ADJP (JJ uninsured)))))
+-18.825101313628 -59.772426839029
+(S1 (FRAG (S (CC but) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ uninsured)))))))
+-18.977094884794 -56.369869622391
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (JJ uninsured)))))))
+-18.994232594773 -58.238711565429
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (JJ uninsured)))))))
+-19.066571307455 -55.835864406179
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (ADVP (JJ uninsured))))))
+-19.330451051517 -58.669088517562
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (JJ uninsured))))))
+-19.344614165743 -64.179970890860
+(S1 (S (NP (CC but) (PRP he)) (VP (VBD was) (ADJP (JJ uninsured)))))
+-19.364307732521 -61.700826595356
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ uninsured)))))))
+-19.489363369194 -60.537930387962
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (VP (JJ uninsured))))))
+-19.673139982579 -56.856702718294
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (NP (JJ uninsured))))))
+-19.727928954923 -61.156356816789
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ uninsured)))))))
+-20.071694112267 -61.367684627164
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ uninsured))))))))
+-20.083451620177 -57.842992733184
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (JJ uninsured))))))
+-20.321614885853 -59.711834603584
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (VP (JJ uninsured))))))
+-20.731768480732 -63.352006284205
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (ADVP (JJ uninsured))))))
+-20.825527013524 -61.052787448592
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ uninsured)))))))
+-20.849545008824 -63.452316768927
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (VP (JJ uninsured)))))))
+-20.866690424465 -67.112036307352
+(S1 (S (NP (CC but) (NP (PRP he))) (VP (VBD was) (NP (JJ uninsured)))))
+-20.907265429616 -63.451107437647
+(S1 (FRAG (S (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (JJ uninsured)))))))
+-20.950552394685 -65.319949478777
+(S1 (FRAG (S (CC but) (S (NP (PRP he)) (VP (VBD was) (VP (JJ uninsured)))))))
+-21.410749732179 -62.525910499827
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ uninsured))))))
+-21.524149593269 -60.719645480400
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ uninsured))))))))
+-21.567932372312 -66.028788772080
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ uninsured))))))))
+-21.740455121661 -63.018864157408
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ uninsured)))))))
+-22.152033408285 -64.164634413246
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (ADVP (JJ uninsured)))))))
+-22.672293590320 -62.192768373030
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ uninsured)))))))
+-22.734947856102 -65.380749625315
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ uninsured))))))))
+-22.758602086197 -65.185472725362
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (NP (JJ uninsured)))))))
+-23.088304020037 -67.679968520486
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ uninsured)))))))
+-23.314774379242 -67.800883335816
+(S1 (FRAG (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ uninsured))))))))
+-23.841304591484 -66.853872736108
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ uninsured)))))))
+-23.996109668852 -67.676709537293
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (S (VP (JJ uninsured))))))))
+

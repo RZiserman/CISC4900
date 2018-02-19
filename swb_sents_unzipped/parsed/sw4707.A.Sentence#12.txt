@@ -1,0 +1,102 @@
+50 x
+-15.332768286007 -53.953234717843
+(S1 (S (CC and) (NP (DT the) (NNS sales) (NN tax)) (VP (MD ca) (RB n't))))
+-15.765937646832 -55.719360167557
+(S1 (S (CC and) (S (NP (DT the) (NNS sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-15.931910232425 -56.921662064185
+(S1 (S (CC and) (NP (DT the) (JJ sales) (NN tax)) (VP (MD ca) (RB n't))))
+-16.337802722006 -58.687787710906
+(S1 (S (CC and) (S (NP (DT the) (JJ sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-17.613940946477 -56.672675941548
+(S1 (FRAG (CC and) (S (NP (DT the) (NNS sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-18.281687624258 -59.641103306088
+(S1 (FRAG (CC and) (S (NP (DT the) (JJ sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-19.244582060955 -61.598291113666
+(S1 (FRAG (S (CC and) (NP (DT the) (NNS sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-19.716635916478 -65.281273812264
+(S1 (S (NP (CC and) (DT the) (NNS sales) (NN tax)) (VP (MD ca) (RB n't))))
+-19.843724024099 -64.566718511715
+(S1 (FRAG (S (CC and) (NP (DT the) (JJ sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-20.101139222440 -67.000395789546
+(S1 (FRAG (S (CC and) (S (NP (DT the) (NNS sales) (NN tax)) (VP (MD ca) (RB n't))))))
+-20.334290469514 -67.777716864713
+(S1 (S (NP (CC and) (DT the) (JJ sales) (NN tax)) (VP (MD ca) (RB n't))))
+-20.415079831431 -65.304285966684
+(S1 (S (NP (CC and) (NP (DT the) (NNS sales) (NN tax))) (VP (MD ca) (RB n't))))
+-20.673004297614 -69.968823332895
+(S1 (FRAG (S (CC and) (S (NP (DT the) (JJ sales) (NN tax)) (VP (MD ca) (RB n't))))))
+-21.007823368738 -68.087592684336
+(S1 (S (NP (CC and) (NP (DT the) (JJ sales) (NN tax))) (VP (MD ca) (RB n't))))
+-21.202696172826 -72.056608747024
+(S1 (S (CC and) (NP (DT the) (NNS sales)) (VP (VB tax) (SBAR (S (VP (MD ca) (RB n't)))))))
+-21.254085239930 -70.879101539529
+(S1 (S (CC and) (NP (DT the) (NNS sales)) (VP (NN tax) (S (VP (MD ca) (RB n't))))))
+-21.276641916245 -75.263360245491
+(S1 (S (CC and) (NP (DT the) (NNS sales)) (VP (VB tax) (S (VP (MD ca) (RB n't))))))
+-21.484763359638 -68.581489325503
+(S1 (S (CC and) (NP (DT the) (NNS sales)) (VP (NN tax) (SBAR (S (VP (MD ca) (RB n't)))))))
+-21.679303405239 -72.396826335647
+(S1 (S (CC and) (NP (DT the) (NNS sales)) (NP (NN tax)) (VP (MD ca) (RB n't))))
+-22.267148060847 -72.583897749658
+(S1 (S (CC and) (NP (DT the) (NNS sales)) (ADVP (NN tax)) (VP (MD ca) (RB n't))))
+-22.407221079109 -73.523567970523
+(S1 (S (CC and) (S (NP (DT the) (NNS sales)) (ADVP (NN tax)) (VP (MD ca) (RB n't)))))
+-22.536037455296 -67.697253315482
+(S1 (FRAG (S (NP (CC and) (DT the) (NNS sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-22.552698359755 -76.132545092983
+(S1 (S (CC and) (S (NP (DT the) (NNS sales)) (VP (VB tax) (SBAR (S (VP (MD ca) (RB n't))))))))
+-22.571741455180 -74.622167415833
+(S1 (S (CC and) (NP (NP (DT the) (NNS sales)) (ADVP (NN tax))) (VP (MD ca) (RB n't))))
+-22.927104957334 -76.307174010448
+(S1 (S (CC and) (S (NP (NP (DT the) (NNS sales)) (ADVP (NN tax))) (VP (MD ca) (RB n't)))))
+-23.093283936974 -70.105555135102
+(S1 (S (CC and) (NP (DT the) (ADJP (NNS sales)) (NN tax)) (VP (MD ca) (RB n't))))
+-23.153691988818 -70.193696300875
+(S1 (FRAG (S (NP (CC and) (DT the) (JJ sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-23.172308922369 -67.497248514358
+(S1 (FRAG (S (NP (CC and) (NP (DT the) (NNS sales) (NN tax))) (VP (MD ca) (RB n't)))))
+-23.407825526927 -74.907789737501
+(S1 (S (CC and) (NP (DT the) (NX (NNS sales) (NN tax))) (VP (MD ca) (RB n't))))
+-23.435575328831 -74.696185564886
+(S1 (S (CC and) (S (NP (DT the) (NX (NNS sales) (NN tax))) (VP (MD ca) (RB n't)))))
+-23.470722902804 -71.448433326925
+(S1 (S (CC and) (NP (NP (DT the)) (NNS sales) (NN tax)) (VP (MD ca) (RB n't))))
+-23.552480226648 -71.871680554160
+(S1 (S (CC and) (S (NP (DT the) (ADJP (NNS sales)) (NN tax)) (VP (MD ca) (RB n't)))))
+-23.765052462464 -70.280555232010
+(S1 (FRAG (S (NP (CC and) (NP (DT the) (JJ sales) (NN tax))) (VP (MD ca) (RB n't)))))
+-23.829224729095 -74.877403782442
+(S1 (S (CC and) (NP (DT the) (JJ sales)) (VP (NN tax) (S (VP (MD ca) (RB n't))))))
+-24.031086058095 -77.318768892522
+(S1 (S (CC and) (S (NP (DT the) (NNS sales)) (VP (NN tax) (SBAR (S (VP (MD ca) (RB n't))))))))
+-24.141523964115 -73.214558713287
+(S1 (S (CC and) (S (NP (NP (DT the)) (NNS sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-24.205880028803 -72.579791568415
+(S1 (S (CC and) (NP (DT the) (JJ sales)) (VP (NN tax) (SBAR (S (VP (MD ca) (RB n't)))))))
+-24.339918574573 -71.618826231699
+(S1 (S (CC and) (NP (DT the) (ADJP (JJ sales)) (NN tax)) (VP (MD ca) (RB n't))))
+-24.382107992334 -75.038530927753
+(S1 (S (CC and) (NP (NP (DT the)) (JJ sales) (NN tax)) (VP (MD ca) (RB n't))))
+-24.642209173794 -75.964428667513
+(S1 (FRAG (CC and) (S (NP (NP (DT the) (NNS sales)) (ADVP (NN tax))) (VP (MD ca) (RB n't)))))
+-24.672162548612 -76.809206866814
+(S1 (FRAG (CC and) (S (NP (DT the) (NNS sales)) (ADVP (NN tax)) (VP (MD ca) (RB n't)))))
+-24.864602301035 -73.384951650757
+(S1 (S (CC and) (S (NP (DT the) (ADJP (JJ sales)) (NN tax)) (VP (MD ca) (RB n't)))))
+-25.129835009221 -76.804656325057
+(S1 (S (CC and) (S (NP (NP (DT the)) (JJ sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-25.309441870872 -75.920923696884
+(S1 (FRAG (CC and) (S (NP (DT the) (NNS sales)) (VP (NN tax) (SBAR (S (VP (MD ca) (RB n't))))))))
+-25.379341372840 -72.824996204390
+(S1 (FRAG (CC and) (S (NP (DT the) (ADJP (NNS sales)) (NN tax)) (VP (MD ca) (RB n't)))))
+-25.455452149265 -76.771962597556
+(S1 (FRAG (CC and) (S (NP (DT the) (NX (NNS sales) (NN tax))) (VP (MD ca) (RB n't)))))
+-25.735728147915 -76.436530698952
+(S1 (S (NP (CC and) (DT the) (ADJP (NNS sales)) (NN tax)) (VP (MD ca) (RB n't))))
+-25.945489725523 -74.167874508904
+(S1 (FRAG (CC and) (S (NP (NP (DT the)) (NNS sales) (NN tax)) (VP (MD ca) (RB n't)))))
+-26.211816091880 -77.198516647166
+(S1 (S (NP (CC and) (NP (DT the) (NNS sales))) (VP (NN tax) (SBAR (S (VP (MD ca) (RB n't)))))))
+-26.690680913227 -74.338267300988
+(S1 (FRAG (CC and) (S (NP (DT the) (ADJP (JJ sales)) (NN tax)) (VP (MD ca) (RB n't)))))
+

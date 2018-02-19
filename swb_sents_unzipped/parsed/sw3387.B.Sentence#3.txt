@@ -1,0 +1,102 @@
+50 x
+-9.870416502252 -35.570246869664
+(S1 (NP (DT The) (VBN elected) (NNS people)))
+-10.223452316955 -37.914672833588
+(S1 (NP (DT The) (JJ elected) (NNS people)))
+-12.768029861220 -45.778482847955
+(S1 (NP (DT The) (VBN elected) (NN people)))
+-13.048700893395 -39.694104411543
+(S1 (S (NP (DT The) (VBN elected) (NNS people))))
+-13.095618177082 -48.330501800299
+(S1 (NP (DT The) (JJ elected) (NN people)))
+-13.355976407550 -48.835671535976
+(S1 (S (DT The) (VP (VBD elected) (NP (NNS people)))))
+-13.389208330599 -41.785559275170
+(S1 (FRAG (NP (DT The) (JJ elected) (NNS people))))
+-13.392480049961 -41.436293300733
+(S1 (S (NP (DT The) (JJ elected) (NNS people))))
+-13.539402959928 -41.791935262719
+(S1 (FRAG (NP (DT The) (VBN elected) (NNS people))))
+-13.808667037870 -51.207826557621
+(S1 (S (NP (DT The)) (VP (VBD elected) (NP (NNS people)))))
+-14.017298565434 -48.833379888144
+(S1 (NP (DT The) (VBD elected) (NNS people)))
+-14.061161415113 -49.486235190324
+(S1 (NP (DT The) (NP (VBN elected) (NNS people))))
+-14.429530415612 -46.310670491805
+(S1 (X (NP (DT The) (VBN elected) (NNS people))))
+-14.690523948239 -52.536008241907
+(S1 (S (DT The) (VP (VBN elected) (NP (NNS people)))))
+-14.732111104267 -48.012152997007
+(S1 (X (NP (DT The) (JJ elected) (NNS people))))
+-14.738155406597 -45.840552730094
+(S1 (NP (DT The) (ADJP (VBN elected)) (NNS people)))
+-15.036326203252 -48.589277905847
+(S1 (FRAG (NP (DT The) (VBN elected) (NN people))))
+-15.141497162238 -52.298825263271
+(S1 (NP (DT The) (NP (JJ elected) (NNS people))))
+-15.221563807058 -50.456272497537
+(S1 (FRAG (NP (DT The) (JJ elected) (NN people))))
+-15.464161908756 -48.289501916055
+(S1 (X (DT The) (JJ elected) (NNS people)))
+-15.636269994871 -55.674025739444
+(S1 (S (NP (DT The)) (VP (VBN elected) (NP (NNS people)))))
+-15.779165353348 -44.278075616901
+(S1 (NP (DT The) (ADJP (JJ elected)) (NNS people)))
+-15.809196461085 -50.681832505423
+(S1 (S (NP (DT The) (JJ elected) (NN people))))
+-15.958335190601 -50.272023566750
+(S1 (S (NP (DT The) (VBN elected) (NN people))))
+-16.331996730326 -55.755479162824
+(S1 (NP (NP (DT The)) (VP (VBN elected) (NP (NNS people)))))
+-16.705975346356 -51.495962095938
+(S1 (NP (DT The) (ADJP (VBD elected)) (NNS people)))
+-16.785565441583 -53.083957004325
+(S1 (FRAG (NP (DT The) (NP (VBN elected) (NNS people)))))
+-16.898277973720 -53.584074662609
+(S1 (NP (NP (DT The)) (VBN elected) (NNS people)))
+-17.074021812179 -55.622496252840
+(S1 (S (DT The) (VP (VBN elected) (S (NP (NNS people))))))
+-17.129437519407 -51.726049384351
+(S1 (X (DT The) (NP (VBN elected) (NNS people))))
+-17.159768907121 -54.529316508205
+(S1 (NP (NP (DT The)) (NP (VBN elected) (NNS people))))
+-17.308433094565 -51.974075947101
+(S1 (X (DT The) (NP (JJ elected) (NNS people))))
+-17.395782523303 -53.597380983647
+(S1 (S (NP (DT The) (VBD elected) (NNS people))))
+-17.418558082319 -53.512904798729
+(S1 (S (NP (DT The) (NP (VBN elected) (NNS people)))))
+-17.581890860637 -55.019211187886
+(S1 (S (DT The) (VP (VBD elected) (S (NP (NNS people))))))
+-17.620528445458 -54.443162589451
+(S1 (NP (DT The) (ADJP (VBN elected)) (NN people)))
+-17.679126973713 -55.775717496442
+(S1 (X (NP (DT The) (VBN elected) (NN people))))
+-17.788147291199 -55.431747649977
+(S1 (FRAG (NP (DT The) (VBD elected) (NNS people))))
+-17.833698727153 -49.923507858235
+(S1 (S (NP (DT The) (ADJP (VBN elected)) (NNS people))))
+-17.880134402466 -55.896546937073
+(S1 (FRAG (NP (DT The) (NP (JJ elected) (NNS people)))))
+-18.085508001359 -55.247337200049
+(S1 (NP (NP (DT The)) (JJ elected) (NNS people)))
+-18.296756745886 -55.295097798457
+(S1 (S (NP (DT The)) (NP (VBN elected) (NNS people))))
+-18.361988005339 -53.622489963209
+(S1 (NP (DT The) (ADJP (JJ elected)) (NN people)))
+-18.428394783941 -54.592064339880
+(S1 (S (NP (DT The)) (NP (JJ elected) (NNS people))))
+-18.435034880293 -52.091425276752
+(S1 (FRAG (NP (DT The) (ADJP (VBN elected)) (NNS people))))
+-18.659543365181 -55.547345292720
+(S1 (FRAG (S (NP (DT The) (VBN elected) (NNS people)))))
+-19.204562938534 -48.877710658260
+(S1 (S (NP (DT The) (ADJP (JJ elected)) (NNS people))))
+-19.548593793090 -50.738130766789
+(S1 (FRAG (NP (DT The) (ADJP (JJ elected)) (NNS people))))
+-19.961135254000 -56.028695697816
+(S1 (S (NP (DT The) (ADJP (VBD elected)) (NNS people))))
+-20.414551492507 -55.275261371002
+(S1 (X (NP (DT The) (ADJP (JJ elected)) (NNS people))))
+

@@ -1,0 +1,102 @@
+50 x
+-24.426361140499 -76.337346522800
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WHNP (WP what)) (PP (IN about) (NP (NNP Astonia)))))
+-24.894741776678 -74.430234166895
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WP what) (IN about) (NP (NNP Astonia))))
+-25.257551063873 -73.902314603193
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WHNP (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-25.841174367881 -79.801122616701
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (WP what) (IN about) (NP (NNP Astonia)))))
+-25.925945672651 -83.303090536121
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WP what) (PP (IN about) (NP (NNP Astonia)))))
+-26.192795685940 -80.854607420953
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WP what) (IN about) (NP (NN Astonia))))
+-26.338043595429 -82.025715208833
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WP what) (RB about) (NP (NNP Astonia))))
+-26.373480390041 -78.468657461713
+(S1 (FRAG (CC And) (FRAG (INTJ (UH uh)) (WHNP (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-26.620021431497 -84.330841693095
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (WP what) (PP (IN about) (NP (NNP Astonia))))))
+-26.860705842746 -85.170803322247
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WHNP (WP what)) (PP (IN about) (NP (NN Astonia)))))
+-26.989997105122 -81.608245597850
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (WP what)) (PP (IN about) (NP (NNP Astonia)))))
+-27.321835247513 -83.208403020859
+(S1 (FRAG (CC And) (FRAG (INTJ (UH uh)) (WP what) (PP (IN about) (NP (NNP Astonia))))))
+-27.341355106121 -82.735771402641
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WHNP (WP what)) (PP (IN about) (NP (NN Astonia))))))
+-27.462876308097 -83.438487385951
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WP what) (PP (IN about) (NP (NNP Astonia))))))
+-27.463361933018 -81.441184666101
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (WHNP (WP what)) (FRAG (PP (IN about) (NP (NNP Astonia)))))))
+-27.511537832928 -86.382953539006
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (WP what) (IN about) (NP (NN Astonia)))))
+-27.903303252253 -89.546950975277
+(S1 (FRAG (CC And) (INTJ (UH uh)) (X (WP what)) (PP (IN about) (NP (NNP Astonia)))))
+-27.942171150524 -83.161377540348
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WP what) (RB about) (NP (NNP Astonia)))))
+-27.970480940634 -84.294413235937
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (X (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-28.108258787315 -81.730032830817
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WP what) (IN about) (NP (NNP Astonia)))))
+-28.145202806458 -89.370016658869
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (WDT what) (PP (IN about) (NP (NNP Astonia))))))
+-28.156745746968 -82.179798884309
+(S1 (FRAG (CC And) (FRAG (INTJ (UH uh)) (WP what) (IN about) (NP (NNP Astonia)))))
+-28.320728716491 -81.034130314953
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (NP (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-28.376449998247 -83.482364993083
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (WHNP (WP what)) (FRAG (RB about) (NP (NNP Astonia))))))
+-28.401499152199 -85.509861591038
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (WDT what)) (PP (IN about) (NP (NNP Astonia)))))
+-28.419569751295 -85.623642511385
+(S1 (FRAG (CC And) (ADVP (UH uh)) (SBAR (WP what) (IN about) (NP (NNP Astonia)))))
+-28.496501163289 -87.302114261161
+(S1 (FRAG (CC And) (FRAG (INTJ (UH uh)) (WHNP (WP what)) (PP (IN about) (NP (NN Astonia))))))
+-28.587178013116 -87.282250113218
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WHNP (WP what)) (ADVP (RB about)) (NP (NNP Astonia))))
+-28.636954442002 -89.803388861003
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (WHNP (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-28.659188531525 -86.132602604300
+(S1 (FRAG (CC And) (FRAG (INTJ (UH uh)) (WP what) (RB about) (NP (NNP Astonia)))))
+-28.755841155842 -87.972181619406
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-29.096289179587 -83.722671101037
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (WP what) (IN about) (S (NP (NNP Astonia))))))
+-29.190516666365 -83.166057850896
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WP what) (IN about) (S (NP (NNP Astonia)))))
+-29.193657105703 -88.649009579256
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WP what) (IN about) (NP (NN Astonia)))))
+-29.220274760937 -88.573488342943
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WHNP (WP what)) (IN about) (NP (NNP Astonia))))
+-29.281360796356 -89.098775632748
+(S1 (FRAG (CC And) (FRAG (INTJ (UH uh)) (WP what) (IN about) (NP (NN Astonia)))))
+-29.427084879188 -87.585719417698
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (SBAR (WP what) (IN about) (NP (NNP Astonia))))))
+-29.580280731084 -86.739741703621
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WHNP (WP what)) (ADVP (RB about)) (NP (NNP Astonia)))))
+-30.061873421978 -86.556067340029
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (WHNP (WP what)) (FRAG (IN about) (NP (NNP Astonia))))))
+-30.082138228739 -89.867587114401
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (NP (WP what)) (PP (IN about) (NP (NN Astonia))))))
+-30.145056558770 -88.058793802467
+(S1 (FRAG (CC And) (INTJ (UH uh)) (WHNP (WP what)) (ADVP (IN about) (NP (NNP Astonia)))))
+-30.179381763435 -87.757373188705
+(S1 (FRAG (CC And) (ADVP (UH uh)) (SBAR (WHNP (WP what)) (FRAG (PP (IN about) (NP (NNP Astonia)))))))
+-30.186692022814 -86.131644460768
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (SBAR (WHNP (WP what)) (FRAG (PP (IN about) (NP (NNP Astonia))))))))
+-30.233810872509 -87.609539955949
+(S1 (FRAG (CC And) (FRAG (INTJ (UH uh)) (FRAG (WHNP (WP what)) (PP (IN about) (NP (NNP Astonia)))))))
+-30.290867145248 -88.553992585473
+(S1 (FRAG (CC And) (ADVP (UH uh)) (FRAG (WHNP (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-30.486649629046 -89.724759341215
+(S1 (FRAG (CC And) (FRAG (ADVP (UH uh)) (WHNP (WP what)) (PP (IN about) (NP (NNP Astonia))))))
+-31.073884156517 -89.435791959112
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (WHNP (WP what)) (PP (RB about) (NP (NNP Astonia))))))
+-31.079870440831 -88.172824787751
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (SBAR (WHNP (WP what)) (FRAG (RB about) (NP (NNP Astonia)))))))
+-31.092469831452 -89.798553515688
+(S1 (FRAG (CC And) (ADVP (UH uh)) (SBAR (WHNP (WP what)) (FRAG (RB about) (NP (NNP Astonia))))))
+-31.674684565789 -89.545190995721
+(S1 (FRAG (CC And) (ADVP (UH uh)) (SBAR (WP what) (IN about) (S (NP (NNP Astonia))))))
+

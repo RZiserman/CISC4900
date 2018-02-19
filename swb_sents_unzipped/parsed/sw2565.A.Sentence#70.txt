@@ -1,0 +1,102 @@
+50 x
+-18.010078786974 -61.586404459303
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-20.826318341120 -67.106357332567
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-22.091855875724 -72.669746675081
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (PRP one) (NN game)))))))
+-22.122466182225 -76.024282057069
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (NN one) (NN game)))))))
+-22.178067171867 -75.443394266482
+(S1 (S (NP (PRP I)) (VP (VB 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-22.341137324368 -72.807256296260
+(S1 (S (NP (PRP I)) (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (CD one) (NN game))))))
+-23.128086524750 -71.158509641259
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (ADJP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-23.143206076275 -74.176425177755
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB already) (VP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-23.430391087268 -75.785316753963
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (NP (CD one)) (NP (NN game))))))))
+-23.491938188038 -80.069697612438
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (NP (CD one)) (NN game)))))))
+-23.508752789640 -73.932768779658
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (PP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-23.749025160873 -80.488138449365
+(S1 (S (NP (PRP I)) (VP (VBP 've) (SBAR (S (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))))
+-24.089515503252 -84.722301526372
+(S1 (S (NP (PRP I)) (VP (VBP 've) (S (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+-24.094703687051 -80.827559683762
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (S (VP (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+-24.325627922057 -78.340555544336
+(S1 (S (NP (PRP I)) (VP (VB 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-24.394219972015 -75.780114499219
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (NP (NN one)) (NP (NN game))))))))
+-24.603116245759 -80.476278510802
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (QP (CD one) (NN game))))))))
+-24.734751145760 -80.572372940689
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (SBAR (S (VP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))))
+-24.814246844645 -83.453131015032
+(S1 (S (NP (PRP I)) (VP (VBP 've) (S (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+-24.857102629869 -78.189699548346
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (PRP one) (NN game)))))))
+-25.050948036370 -81.544234930333
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (NN one) (NN game)))))))
+-25.107077482925 -79.013642828184
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (ADJP (CD one) (NN game)))))))
+-25.205258464059 -80.809609964199
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (CD one)) (NP (NN game)))))))
+-25.655733130235 -78.389456985866
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (ADJP (VBN been)) (PP (TO to) (NP (CD one) (NN game))))))
+-25.738373238037 -82.739583355972
+(S1 (S (NP (PRP I)) (VP (VBP 've) (SBAR (S (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))))
+-25.748244716101 -77.870833835637
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (RB already) (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-25.824201396761 -82.184359589054
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (NP (PRP one)) (NP (NN game))))))))
+-25.933483767162 -84.491760082037
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN been) (PP (TO to) (NP (NP (NN one)) (NN game)))))))
+-26.008414401129 -77.603899005796
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (RB already) (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-26.246630644202 -81.305269627228
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (NP (CD one)) (NP (NN game))))))))
+-26.307208010329 -83.890598512038
+(S1 (S (NP (PRP I)) (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (PRP one) (NN game))))))
+-26.401670723154 -80.073117986449
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (S (ADJP (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+-26.460051181325 -79.509754049203
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-26.558272162659 -82.981675477001
+(S1 (S (NP (PRP I)) (VP (VBP 've) (S (ADJP (RB already) (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+-26.797411766400 -82.159126382496
+(S1 (S (NP (PRP I)) (VBP 've) (VP (RB already) (VBN been) (PP (TO to) (NP (CD one) (NN game))))))
+-26.827796846704 -84.002317446171
+(S1 (S (NP (NN I)) (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (CD one) (NN game))))))
+-26.956234072610 -84.202072448943
+(S1 (S (NP (PRP I)) (VP (VB 've) (ADVP (RB already)) (PP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-27.048032480934 -82.976395324050
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (RB already) (VBN been)) (PP (TO to) (NP (CD one) (NN game))))))
+-27.166985267618 -82.241852087406
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (ADJP (VBN been) (PP (TO to) (NP (PRP one) (NN game)))))))
+-27.322701826161 -81.300067372483
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (NP (NP (NN one)) (NP (NN game))))))))
+-27.707984058646 -82.689430200794
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (SBAR (S (ADJP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))))
+-27.857604638045 -82.362483188800
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (ADJP (VBN been) (PP (TO to) (NP (NP (CD one)) (NP (NN game))))))))
+-27.859389088600 -81.208659635824
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB already) (ADJP (VBN been) (PP (TO to) (NP (CD one) (NN game)))))))
+-27.890186555167 -83.881355492746
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (RB already) (VP (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+-27.903429402027 -80.689517927930
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (ADJP (ADJP (VBN been)) (PP (TO to) (NP (CD one) (NN game)))))))
+-27.923317037070 -84.533595701448
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB already)) (VBN been) (PP (TO to) (ADJP (CD one) (NN game)))))))
+-28.006169769569 -81.531246065995
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (ADJP (RB already) (VBN been)) (PP (TO to) (NP (CD one) (NN game)))))))
+-28.065468329088 -84.080049330101
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB already)) (PP (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+-29.304789463014 -84.090184275499
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (ADJP (VBN been) (PP (TO to) (NP (NP (NN one)) (NP (NN game))))))))
+-30.135629750833 -83.507791388332
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (RB already) (PP (VBN been) (PP (TO to) (NP (CD one) (NN game))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-10.963368098775 -35.869390523180
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT no) (NN question)))))
+-12.392962493453 -38.285966054499
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT no) (NN question)))))
+-15.531578712950 -47.440614205119
+(S1 (S (RB There) (VP (VBZ 's) (NP (DT no) (NN question)))))
+-15.782341961793 -51.349002793315
+(S1 (S (ADVP (RB There)) (VP (VBZ 's) (NP (DT no) (NN question)))))
+-15.981767932886 -51.348262005618
+(S1 (S (ADVP (RB There)) (VP (POS 's) (NP (DT no) (NN question)))))
+-16.005812821045 -46.941520517742
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (RB no) (NN question)))))
+-16.218703571964 -45.924144009048
+(S1 (S (NP (RB There)) (VP (VBZ 's) (NP (DT no) (NN question)))))
+-16.613664040327 -50.113609973007
+(S1 (SINV (ADVP (RB There)) (VBZ 's) (NP (DT no) (NN question))))
+-16.719003397110 -52.119052488013
+(S1 (S (VP (ADVP (RB There)) (VBZ 's) (NP (DT no) (NN question)))))
+-16.819310827547 -52.119163675873
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT no) (NP (NN question))))))
+-16.857544040297 -49.120375757468
+(S1 (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB no)) (NP (NN question)))))
+-17.001995393694 -52.865681249988
+(S1 (S (RB There) (VP (POS 's) (NP (DT no) (NN question)))))
+-17.119847889583 -53.211391658219
+(S1 (S (NP (EX There)) (VP (VBZ 's) (DT no) (NP (NN question)))))
+-17.137963366990 -54.177854388842
+(S1 (VP (ADVP (RB There)) (VBZ 's) (NP (DT no) (NN question))))
+-17.372109271565 -50.436059567556
+(S1 (S (NP (RB There)) (VP (POS 's) (NP (DT no) (NN question)))))
+-17.466471072087 -50.549297394261
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (RB no) (NN question)))))
+-17.577322168747 -50.547963266949
+(S1 (S (NP (EX There)) (VP (VBZ 's) (RB no) (NP (NN question)))))
+-17.602516811914 -50.059403922762
+(S1 (S (NP (EX There)) (VP (POS 's) (S (NP (DT no) (NN question))))))
+-18.149277582558 -52.671941642483
+(S1 (S (NP (EX There)) (VP (VBZ 's) (S (NP (DT no) (NN question))))))
+-18.383523536112 -55.578229719448
+(S1 (S (ADVP (EX There)) (VP (VBZ 's) (NP (DT no) (NN question)))))
+-18.465883261995 -55.288570515500
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT no) (NP (NN question))))))
+-18.703519958668 -54.811348021691
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT no)) (NN question)))))
+-18.801937085185 -55.437328346135
+(S1 (S (NP (EX There)) (VP (VBZ 's) (SBAR (S (NP (DT no) (NN question)))))))
+-19.081178796035 -57.420999479821
+(S1 (S (ADVP (EX There)) (VP (POS 's) (NP (DT no) (NN question)))))
+-19.247931865532 -55.811665334241
+(S1 (SINV (ADVP (EX There)) (VBZ 's) (NP (DT no) (NN question))))
+-19.573316876274 -55.678822383604
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (ADVP (RB no)) (NN question)))))
+-19.832220778567 -55.479131865208
+(S1 (S (NP (EX There)) (VP (POS 's) (SBAR (S (NP (DT no) (NN question)))))))
+-20.085266610866 -61.112707888662
+(S1 (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB no)) (VP (VB question)))))
+-20.344429413557 -57.141677838390
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT no)) (NN question)))))
+-20.386065612191 -60.207766921980
+(S1 (S (NP (EX There)) (VP (VBZ 's) (RB no) (VP (VB question)))))
+-20.587720262432 -58.512744199681
+(S1 (S (RB There) (VP (VBZ 's) (NP (RB no) (NN question)))))
+-20.722783525846 -62.436173730354
+(S1 (S (VP (ADVP (EX There)) (VBZ 's) (NP (DT no) (NN question)))))
+-20.771881994063 -62.421132787877
+(S1 (S (ADVP (RB There)) (VP (VBZ 's) (NP (RB no) (NN question)))))
+-20.811574019851 -59.824483662379
+(S1 (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB no)) (VP (NN question)))))
+-20.819382113028 -59.834768197241
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (ADVP (DT no)) (NN question)))))
+-20.911501840156 -61.038620022921
+(S1 (S (NP (EX There)) (VP (VBZ 's) (RB no) (VP (NN question)))))
+-21.159213828938 -58.460590549065
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (ADVP (RB no)) (NN question)))))
+-21.171200392275 -61.820264233696
+(S1 (SINV (ADVP (RB There)) (VBZ 's) (NP (RB no) (NN question))))
+-21.255039276126 -56.996274003610
+(S1 (S (NP (RB There)) (VP (VBZ 's) (NP (RB no) (NN question)))))
+-21.272238324922 -61.500021031488
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT no)) (NP (NN question)))))
+-21.302892481684 -60.691599439406
+(S1 (S (RB There) (VP (VBZ 's) (ADVP (RB no)) (NP (NN question)))))
+-21.542584355872 -61.474328355413
+(S1 (S (NP (EX There)) (VP (VBZ 's) (ADVP (DT no)) (NP (NN question)))))
+-21.622307981826 -60.418746580599
+(S1 (S (NP (EX There)) (VP (POS 's) (S (NP (RB no) (NN question))))))
+-21.834257776780 -60.187963980791
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (RB no)) (NN question)))))
+-22.058277679698 -59.175129243335
+(S1 (S (NP (RB There)) (VP (VBZ 's) (ADVP (RB no)) (NP (NN question)))))
+-22.074646297948 -62.173917161740
+(S1 (S (NP (RB There)) (VP (VBZ 's) (NP (DT no) (NP (NN question))))))
+-22.088866411951 -58.967287102338
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (RB no)) (NP (NN question)))))
+-22.153826263134 -62.119186948887
+(S1 (S (RB There) (VP (VBZ 's) (RB no) (NP (NN question)))))
+-22.617452731026 -62.209497435819
+(S1 (S (NP (RB There)) (VP (POS 's) (S (NP (DT no) (NN question))))))
+-22.928107628148 -60.602716752816
+(S1 (S (NP (RB There)) (VP (VBZ 's) (RB no) (NP (NN question)))))
+

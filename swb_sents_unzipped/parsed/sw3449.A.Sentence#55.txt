@@ -1,0 +1,102 @@
+50 x
+-15.817916651502 -57.898090166754
+(S1 (S (NP (DT the) (NN poor)) (VP (VBD got) (ADJP (JJR poorer)))))
+-16.578245619690 -52.350813028866
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBD got) (ADJP (JJR poorer)))))
+-17.242722519727 -64.004498339271
+(S1 (S (NP (DT the) (NN poor)) (VP (VBD got) (NP (JJR poorer)))))
+-17.290885317620 -61.125489905188
+(S1 (S (NP (DT the) (NN poor)) (VP (VBD got) (S (ADJP (JJR poorer))))))
+-17.842330269845 -62.686389484043
+(S1 (S (NP (DT the) (NN poor)) (VP (VBD got) (ADVP (JJR poorer)))))
+-17.990042227915 -58.457221201382
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBD got) (NP (JJR poorer)))))
+-18.127087884808 -55.578212767299
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBD got) (S (ADJP (JJR poorer))))))
+-18.291138358419 -57.821410143226
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBP got) (ADJP (JJR poorer)))))
+-18.527218290821 -57.139112346154
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBD got) (ADVP (JJR poorer)))))
+-18.629283998328 -65.306533719672
+(S1 (S (NP (DT the) (NN poor)) (VP (VBN got) (ADJP (JJR poorer)))))
+-18.731562225653 -65.165718219441
+(S1 (S (NP (DT the) (NN poor)) (VP (VBN got) (S (ADJP (JJR poorer))))))
+-19.088991719705 -65.855162056579
+(S1 (NP (DT the) (JJ poor) (VBD got) (JJR poorer)))
+-19.262105638719 -67.828800640756
+(S1 (S (NP (DT the) (NN poor)) (VP (VBN got) (NP (JJR poorer)))))
+-19.435281826336 -61.419665904692
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBN got) (ADJP (JJR poorer)))))
+-19.554353611087 -68.386259881856
+(S1 (S (NP (DT the) (NN poor)) (VP (VBP got) (ADJP (JJR poorer)))))
+-19.563016598568 -61.949236385337
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBP got) (NP (JJR poorer)))))
+-19.580944356662 -61.278850404461
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBN got) (S (ADJP (JJR poorer))))))
+-19.588781576823 -59.566494332427
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBP got) (S (ADJP (JJR poorer))))))
+-19.813469728470 -64.876698958755
+(S1 (S (NP (DT the) (NN poor)) (VP (VBD got) (S (ADVP (JJR poorer))))))
+-19.877647658614 -66.058961069520
+(S1 (NP (NP (DT the) (NN poor)) (VP (VBD got) (S (ADJP (JJR poorer))))))
+-19.935218892600 -63.846945521427
+(S1 (NP (NP (DT the) (JJ poor)) (VP (VBD got) (ADJP (JJR poorer)))))
+-19.938883579515 -63.941932825776
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBN got) (NP (JJR poorer)))))
+-20.022035469470 -63.168894930495
+(S1 (NP (DT the) (JJ poor) (S (VP (VBD got) (ADJP (JJR poorer))))))
+-20.106116354127 -67.378965165057
+(S1 (S (NP (DT the) (NN poor)) (VP (VBD got) (S (NP (JJR poorer))))))
+-20.144310454885 -62.384531200044
+(S1 (NP (NP (DT the) (JJ poor)) (VP (VBD got) (S (ADJP (JJR poorer))))))
+-20.202746044724 -65.713412740210
+(S1 (NP (NP (DT the) (JJ poor) (VBD got)) (JJR poorer)))
+-20.308880669232 -65.665676367783
+(S1 (NP (NP (DT the) (JJ poor)) (VP (VBN got) (S (ADJP (JJR poorer))))))
+-20.574231345658 -59.329421820866
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBD got) (S (ADVP (JJR poorer))))))
+-20.645601249095 -66.429562150412
+(S1 (NP (NP (DT the) (JJ poor)) (VP (VBD got) (NP (JJR poorer)))))
+-20.878518966112 -65.511523250451
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBN got) (ADVP (JJR poorer)))))
+-20.929309661315 -61.831688027168
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBD got) (S (NP (JJR poorer))))))
+-21.047829043942 -66.076122573797
+(S1 (S (NP (DT the) (JJ poor) (VBD got)) (ADJP (JJR poorer))))
+-21.083090479720 -67.906915613843
+(S1 (NP (NP (DT the) (JJ poor)) (VP (VBN got) (ADJP (JJR poorer)))))
+-21.085977806909 -65.334886786745
+(S1 (NP (NP (DT the) (JJ poor)) (VP (VBD got) (ADVP (JJR poorer)))))
+-21.158079413481 -59.290611403733
+(S1 (S (NP (DT the) (ADJP (JJ poor))) (VP (VBD got) (ADJP (JJR poorer)))))
+-21.565103477164 -66.396294689887
+(S1 (NP (DT the) (JJ poor) (S (VP (VBD got) (S (ADJP (JJR poorer)))))))
+-21.775940268003 -67.138880263809
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBP got) (ADVP (JJR poorer)))))
+-21.872094201957 -65.582626983417
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBN got) (S (ADVP (JJR poorer))))))
+-22.105974824054 -67.957194369081
+(S1 (NP (DT the) (JJ poor) (S (VP (VBD got) (ADVP (JJR poorer))))))
+-22.258961347390 -63.594806969887
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBP got) (S (ADVP (JJR poorer))))))
+-22.393996512767 -64.927210510822
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBP got) (S (NP (JJR poorer))))))
+-22.510201162836 -64.462810292899
+(S1 (S (NP (DT the) (ADJP (JJ poor))) (VP (VBP got) (ADJP (JJR poorer)))))
+-22.569876024493 -65.397019576250
+(S1 (S (NP (DT the) (ADJP (JJ poor))) (VP (VBD got) (NP (JJR poorer)))))
+-22.591453915735 -66.135740253611
+(S1 (NP (NP (DT the) (JJ poor)) (VP (VBD got) (S (ADVP (JJR poorer))))))
+-22.679613960388 -67.248396567061
+(S1 (S (NP (DT the) (JJ poor)) (VP (VBN got) (S (NP (JJR poorer))))))
+-22.706921678598 -62.518011142167
+(S1 (S (NP (DT the) (ADJP (JJ poor))) (VP (VBD got) (S (ADJP (JJR poorer))))))
+-22.750215029927 -65.658298342698
+(S1 (S (NP (QP (DT the) (JJ poor))) (VP (VBD got) (ADJP (JJR poorer)))))
+-23.107052084611 -64.078910721021
+(S1 (S (NP (DT the) (ADJP (JJ poor))) (VP (VBD got) (ADVP (JJR poorer)))))
+-23.807844381240 -66.207894482099
+(S1 (S (NP (DT the) (ADJP (JJ poor))) (VP (VBP got) (S (ADJP (JJR poorer))))))
+-25.154065142236 -66.269220195733
+(S1 (S (NP (DT the) (ADJP (JJ poor))) (VP (VBD got) (S (ADVP (JJR poorer))))))
+

@@ -1,0 +1,102 @@
+50 x
+-17.177288110111 -62.703264613623
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (ADVP (RB though)))))
+-18.250021173372 -67.319149898259
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (NN call)) (ADVP (RB though)))))
+-18.396799875850 -67.915178010481
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (ADVP (IN though)))))
+-18.670231133277 -69.855733089909
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (NN call)) (ADVP (IN though))))))
+-18.837026041008 -70.148251407100
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call) (IN though)))))
+-19.122291136916 -71.069521921959
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (VB call) (IN though)))))
+-19.163158110521 -70.630221854300
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (NN call)) (ADVP (IN though)))))
+-19.423664248385 -72.991355765178
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (NN call)) (IN though)))))
+-19.463410763153 -74.061993654551
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (PP (IN though)))))
+-19.486138914382 -70.639005422515
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (PRT (RB though)))))
+-19.530368200872 -65.286536549943
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call))) (ADVP (RB though))))
+-19.902227866314 -72.671900479030
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (PRT (IN though)))))
+-20.014718128574 -67.421013595862
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (NN call)) (ADVP (RB though))))))
+-20.041242392889 -68.637159964424
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (JJ call)) (ADVP (RB though)))))
+-20.057460492690 -75.742727509528
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (VB call)) (PP (IN though))))))
+-20.198072271558 -75.087373814274
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (NP (DT the) (NN call)) (ADVP (IN though))))))
+-20.342450094728 -72.503438469057
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (VB call)) (ADVP (RB though)))))
+-20.374642230852 -75.882723606195
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (VB call) (IN though)))))
+-20.437601406021 -71.002469268895
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (S (NP (DT the) (NN call)) (ADVP (RB though))))))
+-20.439066502878 -75.001044306253
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (NN call) (IN though)))))
+-20.479356080122 -74.924986963977
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (NN call)) (PRT (RB though)))))
+-20.500190551948 -75.247313719291
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (NN call)) (PRT (IN though)))))
+-20.672089904297 -72.004472320490
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (ADVP (NP (DT the) (NN call)) (IN though)))))
+-20.767849468113 -76.091167953198
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (NN call)) (PP (IN though))))))
+-20.782503901021 -71.577435204133
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (S (NP (DT the) (NN call)) (ADJP (RB though))))))
+-20.813793786306 -76.067263143210
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (NP (IN though)))))
+-21.094955077142 -73.308162209270
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (PP (RB though)))))
+-21.265374772531 -72.541210540546
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call)) (NP (RB though)))))
+-21.371335921627 -73.849073361282
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (JJ call)) (ADVP (IN though)))))
+-21.393742782061 -75.512229268173
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (JJ call)) (ADVP (RB though)))))
+-21.411391726770 -74.286793621291
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (VB call)) (ADVP (RB though))))))
+-21.521645786855 -72.652654320227
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (NP (DT the) (NN call)) (ADVP (RB though))))))
+-21.562477567661 -74.637178824096
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (S (NP (DT the) (NN call)) (ADVP (RB though))))))
+-21.579852902076 -71.030653496986
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (NN call))) (ADVP (RB though))))
+-21.608848382835 -76.667946719120
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (JJ call)) (ADVP (IN though))))))
+-21.817585144038 -71.628084487546
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call))) (ADVP (IN though))))
+-21.826009740027 -71.705970332249
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (ADVP (NP (DT the) (NN call)) (RB though)))))
+-21.827286415489 -74.924843168742
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (S (NP (DT the) (NN call)) (ADJP (RB though))))))
+-21.928513994189 -74.123184115785
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (ADVP (NP (DT the) (NN call)) (IN though)))))
+-22.044688709684 -72.409407445712
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the) (JJ call)) (ADVP (RB though))))))
+-22.067150537160 -76.572900773316
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (JJ call)) (PRT (RB though)))))
+-22.097126131269 -76.666465299928
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (NP (DT the) (NN call)) (PP (RB though)))))
+-22.122042898638 -73.151849419776
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call) (RB though)))))
+-22.308718612050 -76.777848284881
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (ADVP (DT the) (NN call) (IN though)))))
+-22.539681373650 -71.220431900744
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (JJ call))) (ADVP (RB though))))
+-22.719800843043 -76.261005188485
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (NN call) (PRT (RB though))))))
+-22.764686353789 -75.251446606678
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (SBAR (DT the) (S (VP (VBP call) (ADVP (RB though))))))))
+-22.815813554489 -75.086710405377
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (DT the) (VB call))) (ADVP (RB though))))
+-23.393109657844 -74.615639436543
+(S1 (S (NP (PRP I)) (VP (VB appreciate) (ADVP (NP (DT the) (NN call)) (RB though)))))
+-23.827252583707 -76.657641188381
+(S1 (S (NP (PRP I)) (VP (VBP appreciate) (NP (NP (DT the)) (NN call)) (ADVP (RB though)))))
+

@@ -1,0 +1,102 @@
+50 x
+-20.888970773255 -66.502971292601
+(S1 (FRAG (RB Um) (WP what) (PP (IN about) (NP (PRP you)))))
+-20.995902437757 -67.468027390094
+(S1 (FRAG (NNS Um) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.018145299054 -66.249229442535
+(S1 (FRAG (NP (NN Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.056706961708 -62.673104581491
+(S1 (FRAG (RB Um) (WP what) (IN about) (NP (PRP you))))
+-21.170609744037 -65.730466801805
+(S1 (FRAG (X (SYM Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.260149756364 -66.255119440201
+(S1 (FRAG (ADJP (JJ Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.340341886055 -64.585335091519
+(S1 (FRAG (NP (NNP Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.427164515964 -67.039266855830
+(S1 (FRAG (NP (CD Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.446143978481 -66.509195023127
+(S1 (FRAG (ADVP (RB Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.638475615412 -68.268175417052
+(S1 (FRAG (RB Um) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.672482846953 -68.601110437470
+(S1 (FRAG (NP (NNS Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.724965151923 -66.255640031949
+(S1 (FRAG (WHNP (RB Um) (WP what)) (PP (IN about) (NP (PRP you)))))
+-21.825626163492 -68.230159628018
+(S1 (S (VP (VB Um) (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))))
+-21.994517384800 -66.867404752547
+(S1 (FRAG (ADVP (RB Um)) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-22.016468610831 -66.644845018297
+(S1 (FRAG (NP (NN Um)) (WP what) (IN about) (NP (PRP you))))
+-22.020786456426 -65.698934949413
+(S1 (FRAG (X (SYM Um)) (WP what) (IN about) (NP (PRP you))))
+-22.126475223246 -69.963091692256
+(S1 (NP (NP (NNP Um)) (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP you))))))
+-22.179459382450 -72.017263347274
+(S1 (S (VP (VB Um) (NP (WP what)) (PP (IN about) (NP (PRP you))))))
+-22.181951411851 -68.786426329404
+(S1 (FRAG (RB Um) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-22.183825586643 -72.258866135362
+(S1 (S (VP (VB Um) (SBAR (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))))
+-22.204052991801 -69.291356924190
+(S1 (FRAG (NP (NN Um)) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-22.252880267196 -69.862550294588
+(S1 (FRAG (RB Um) (WP what) (RB about) (NP (PRP you))))
+-22.261253149505 -66.566765677432
+(S1 (FRAG (ADVP (RB Um)) (WP what) (IN about) (NP (PRP you))))
+-22.450833346077 -68.394892315822
+(S1 (FRAG (ADJP (JJ Um)) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-22.623775120638 -71.018947876374
+(S1 (NP (NP (NNS Um)) (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP you))))))
+-22.640892474429 -72.430856161682
+(S1 (FRAG (NP (NN Um)) (X (WP what)) (PP (IN about) (NP (PRP you)))))
+-22.687362111087 -68.917672820512
+(S1 (FRAG (WHNP (ADVP (RB Um)) (WP what)) (PP (IN about) (NP (PRP you)))))
+-22.703122601609 -67.693149872158
+(S1 (FRAG (ADJP (JJ Um)) (WP what) (IN about) (NP (PRP you))))
+-22.799357706635 -68.887914136465
+(S1 (FRAG (NP (NNS Um)) (WP what) (IN about) (NP (PRP you))))
+-22.881536095532 -68.324421350524
+(S1 (FRAG (NP (NNP Um)) (WP what) (IN about) (NP (PRP you))))
+-22.902296312605 -71.534426042358
+(S1 (FRAG (NP (NNS Um)) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-22.910937091430 -70.766961810667
+(S1 (FRAG (NP (NNP Um)) (X (WP what)) (PP (IN about) (NP (PRP you)))))
+-23.094300138551 -73.220893574978
+(S1 (FRAG (NP (CD Um)) (X (WP what)) (PP (IN about) (NP (PRP you)))))
+-23.109486109032 -70.550201120973
+(S1 (FRAG (NP (CD Um)) (WP what) (IN about) (NP (PRP you))))
+-23.171256122941 -71.801013478412
+(S1 (VP (VB Um) (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP you))))))
+-23.194346853149 -71.111201675036
+(S1 (FRAG (ADVP (JJ Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-23.231721988238 -72.723215533407
+(S1 (S (VP (NNS Um) (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))))
+-23.413266149513 -73.924314239260
+(S1 (NP (NP (NN Um)) (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP you))))))
+-23.418997884290 -70.970933256417
+(S1 (FRAG (NP (NNP Um)) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-23.446474065513 -72.746856913945
+(S1 (FRAG (NP (VBG Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-23.530212802553 -72.327036732793
+(S1 (FRAG (NP (JJ Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-23.661016397790 -73.196713026865
+(S1 (FRAG (NP (CD Um)) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-23.930964651707 -71.547111457870
+(S1 (FRAG (ADVP (JJ Um)) (SBAR (WP what) (IN about) (NP (PRP you)))))
+-23.974501044593 -71.142778632531
+(S1 (FRAG (ADJP (JJ Um)) (SBAR (WHNP (WP what)) (FRAG (PP (IN about) (NP (PRP you)))))))
+-24.274137643624 -71.246472382754
+(S1 (FRAG (ADVP (JJ Um)) (WP what) (IN about) (NP (PRP you))))
+-24.389541550358 -73.225819689791
+(S1 (FRAG (ADJP (VBG Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-24.544087384944 -72.340518307830
+(S1 (FRAG (NP (RB Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-24.554998705976 -72.461916395698
+(S1 (FRAG (ADVP (RB Um)) (SBAR (WHNP (WP what)) (FRAG (PP (IN about) (NP (PRP you)))))))
+-25.262320346808 -73.892291227080
+(S1 (FRAG (ADVP (NNP Um)) (WHNP (WP what)) (PP (IN about) (NP (PRP you)))))
+-25.781483734716 -71.186653138369
+(S1 (FRAG (RB Um) (WP what) (IN about) (S (NP (PRP you)))))
+

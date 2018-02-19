@@ -1,0 +1,102 @@
+50 x
+-21.431425835640 -96.094662854438
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (PP (IN below))))))
+-21.458474318106 -101.580521577599
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (PP (IN below))))))))))))
+-22.147988258535 -101.603545012375
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (PP (IN below)))))))))))))
+-22.457926146690 -96.348534388488
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (ADVP (RB below))))))
+-22.661824404599 -95.139702540576
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (PP (IN below))))))
+-22.712467539408 -101.153270130442
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (PP (IN below))))))))))))
+-22.847272659853 -100.625561263737
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (PP (IN below))))))))))))
+-22.908431433668 -95.667411407281
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (PP (IN below))))))
+-23.401981507714 -101.176293565218
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (PP (IN below)))))))))))))
+-23.477614243054 -103.381524078002
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (PP (IN below))))))))))))
+-23.537918770281 -100.648584698513
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (PP (IN below)))))))))))))
+-23.805463925650 -97.587765071032
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (IN down)) (PP (IN below))))))
+-23.817270557516 -99.825315036952
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (NP (IN below))))))
+-24.106173347105 -101.325867395033
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RBR down)) (PP (IN below))))))
+-24.110446360846 -102.037154048722
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RB down)) (PP (IN below))))))
+-24.179441894540 -103.073623794193
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (IN down)) (PP (IN below))))))))))))
+-24.270264449957 -102.494146794600
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges))) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (PP (IN below))))))))))
+-24.272614617390 -103.021855661306
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges))) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (PP (IN below))))))))))
+-24.439904754005 -101.834393111649
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (ADVP (RB below))))))))))))
+-24.449541477999 -101.048626724809
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PP (IN down) (NP (IN below)))))))
+-24.450144798506 -99.143329790156
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (ADVP (IN below))))))
+-24.731607464355 -102.954272630846
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (PP (IN below))))))))))))
+-24.762567906608 -96.132850462392
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (ADVP (RB below))))))
+-24.866412584800 -102.426563764140
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (PP (IN below))))))))))))
+-24.872333214969 -103.096647228969
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (IN down)) (PP (IN below)))))))))))))
+-24.960910560386 -102.517170229376
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges))) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (PP (IN below)))))))))))
+-24.962128557819 -103.044879096082
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges))) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (PP (IN below)))))))))))
+-25.079108265461 -97.827011582192
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down) (RB below))))))
+-25.230359612658 -96.660559329098
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (ADVP (RB below))))))
+-25.410920127940 -101.570649495062
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (NP (RB below))))))
+-25.421121432662 -102.977296065622
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (PP (IN below)))))))))))))
+-25.428805944433 -101.857416546425
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RP down)) (ADVP (RB below)))))))))))))
+-25.538494136642 -102.291025582772
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (PRT (RB down)) (ADVP (RB below))))))
+-25.557058695229 -102.449587198916
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (PP (IN below)))))))))))))
+-25.782035377640 -103.389278129165
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADJP (RP down)) (PP (IN below))))))
+-25.863268931382 -98.812938593069
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (ADVP (IN below))))))
+-26.059788936287 -101.618709185554
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (ADVP (RB below))))))))))))
+-26.081557314256 -98.627952776972
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (IN down) (RB below))))))
+-26.280586380869 -102.356710986469
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down) (RB below))))))
+-26.325242887461 -101.983759018488
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down) (IN below))))))
+-26.454054195526 -102.878748283570
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADJP (RB down)) (PP (IN below))))))
+-26.532611589564 -103.312870305354
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down) (RB below))))))))))))
+-26.562500814451 -99.340647459774
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (ADVP (IN below))))))
+-26.681885878639 -98.580912992849
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (IN down)) (ADVP (RB below))))))
+-26.878433740700 -102.146418052259
+(S1 (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (ADVP (RB below))))))))))))
+-26.981732812519 -102.319015316850
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RBR down)) (ADVP (RB below))))))
+-27.025759916715 -101.641732620330
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down)) (ADVP (RB below)))))))))))))
+-27.498582569992 -103.335893740130
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RB down) (RB below)))))))))))))
+-27.573423810857 -101.261001123525
+(S1 (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NNS colleges)))))) (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (IN down)) (ADVP (IN below))))))
+-27.867334931128 -102.169441487035
+(S1 (FRAG (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ works) (PP (IN at) (NP (NP (NNS colleges)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADVP (RP down)) (ADVP (RB below)))))))))))))
+

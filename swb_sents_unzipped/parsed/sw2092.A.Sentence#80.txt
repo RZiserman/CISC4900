@@ -1,0 +1,102 @@
+50 x
+-28.448738198307 -99.654334308102
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-29.653633109810 -101.586171929366
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-29.874574694241 -104.881215164695
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-30.063449754263 -102.869987543659
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-30.933454504888 -102.912853930129
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))))
+-31.511651398591 -102.594865225433
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-31.798223622241 -104.445615169982
+(S1 (X (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))))
+-32.035095667513 -108.527983152172
+(S1 (S (CC and) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-32.089845730002 -110.639583736442
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBN needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-32.166715894042 -110.623088518236
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (S (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-32.301296039275 -107.028252596073
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm)) (NP (NN clock))))))))
+-32.672791192998 -108.541980104891
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (S (NP (DT an) (NN alarm) (NN clock)))))))))
+-32.987691728188 -107.868044361424
+(S1 (FRAG (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))))
+-33.077388024940 -109.145941921408
+(S1 (S (NP (CC and) (NP (PRP I))) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-33.195314842715 -113.446039317241
+(S1 (S (CC and) (NP (PRP I)) (NP (NNP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-33.238110285201 -111.180237112331
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (NP (DT an) (NN alarm)) (NN clock))))))))
+-33.271631836205 -110.517267394923
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (NP (DT an) (NN alarm)) (NP (NN clock)))))))))
+-33.294740672171 -112.571421357706
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBN needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-33.385327782824 -110.166092169568
+(S1 (X (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-33.386139348723 -109.029136993043
+(S1 (S (CC and) (ADVP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-33.503547611151 -113.118959480843
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBN needed) (S (NP (DT an) (NN alarm) (NN clock)))))))))
+-33.506190953566 -108.960090217337
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm)) (NP (NN clock)))))))))
+-33.534732271961 -112.161113302173
+(S1 (FRAG (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-33.658582455488 -111.423616116976
+(S1 (X (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-33.727132537997 -112.255133452666
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm)) (NP (NN clock))))))))
+-33.813007338698 -110.240198181737
+(S1 (S (CC and) (NP (PRP I)) (ADVP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-33.877686107288 -110.473817726156
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (S (NP (DT an) (NN alarm) (NN clock))))))))))
+-33.916007598018 -110.243905831630
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm)) (NP (NN clock)))))))))
+-34.004398969900 -113.373690472615
+(S1 (S (CC and) (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))))
+-34.195279501656 -111.329254480852
+(S1 (FRAG (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-34.287502751741 -111.757633340448
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (S (NP (DT an) (NN alarm) (NN clock))))))))))
+-34.341089590912 -112.539764185281
+(S1 (FRAG (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-34.397237679053 -112.777025079346
+(S1 (S (CC and) (NP (PRP I)) (VP (ADVP (PRP I)) (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-34.443005199491 -113.112074733595
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (NP (DT an) (NN alarm)) (NN clock)))))))))
+-34.476526750495 -112.449105016187
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (NP (DT an) (NN alarm)) (NP (NN clock))))))))))
+-34.661487933757 -111.250310604463
+(S1 (S (NP (CC and) (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-34.691125375456 -111.505109689640
+(S1 (X (CC and) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))))
+-34.786012348644 -110.286772218100
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm)) (NP (NN clock))))))))))
+-34.891566767437 -112.656193461491
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (S (NP (DT an) (NN alarm)) (NP (NN clock)))))))))
+-34.899287485734 -111.144064142224
+(S1 (S (CC and) (S (NP (PRP I)) (ADVP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-34.954575150475 -113.298188762566
+(S1 (S (CC and) (NP (NP (PRP I)) (ADVP (PRP I))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))
+-34.983287810795 -111.317177353698
+(S1 (X (CC and) (NP (PRP I)) (NP (PRP I)) (SBAR (S (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock))))))))))
+-35.157507502366 -111.800499726918
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (S (NP (DT an) (NN alarm) (NN clock)))))))))))
+-35.339332171813 -112.365519412470
+(S1 (S (CC and) (S (ADVP (PRP I)) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-35.364209242346 -109.968783513404
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm)) (NP (NN clock))))))))
+-35.650781465997 -111.819533457953
+(S1 (X (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm)) (NP (NN clock))))))))))
+-35.735704396069 -111.482511022223
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (S (NP (DT an) (NN alarm) (NN clock)))))))))
+-35.928215321210 -110.936826224366
+(S1 (FRAG (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (DT an) (NN alarm) (NN clock)))))))))
+-36.022276619719 -113.333260966771
+(S1 (X (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (S (NP (DT an) (NN alarm) (NN clock)))))))))))
+-36.334545039276 -113.457798312254
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD needed) (NP (NP (DT an) (NN alarm)) (NP (NN clock)))))))))
+

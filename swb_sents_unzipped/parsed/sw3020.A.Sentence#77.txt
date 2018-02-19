@@ -1,0 +1,102 @@
+50 x
+-13.935256982508 -45.144702855267
+(S1 (S (CC and) (VP (VB be) (ADJP (RB so) (JJ close)))))
+-15.184177374822 -45.926623157849
+(S1 (SQ (CC and) (VP (VB be) (ADJP (RB so) (JJ close)))))
+-15.207207819634 -47.255224459187
+(S1 (S (CC and) (VP (VB be) (ADVP (RB so) (RB close)))))
+-15.281523454455 -44.058664409456
+(S1 (FRAG (CC and) (VP (VB be) (ADJP (RB so) (JJ close)))))
+-15.967147110521 -47.991305470665
+(S1 (S (CC and) (VP (VB be) (ADJP (RB so) (RB close)))))
+-15.987807225731 -49.485875645882
+(S1 (S (CC and) (S (VP (VB be) (ADJP (RB so) (JJ close))))))
+-16.162926038254 -48.338468666200
+(S1 (X (CC and) (VP (VB be) (ADJP (RB so) (JJ close)))))
+-16.272777632427 -52.096572997139
+(S1 (S (CC and) (VP (VB be) (NP (RB so) (JJ close)))))
+-16.402259291510 -45.044054206977
+(S1 (FRAG (CC and) (VP (VB be) (ADVP (RB so) (RB close)))))
+-16.770656317099 -51.596397380669
+(S1 (S (CC and) (S (VP (VB be) (ADVP (RB so) (RB close))))))
+-17.038683098464 -48.233579033820
+(S1 (FRAG (CC and) (VP (VB be) (NP (RB so) (JJ close)))))
+-17.258291502027 -48.394593176045
+(S1 (SQ (CC and) (VP (VB be) (ADJP (RB so) (RB close)))))
+-17.301764547120 -49.121967063699
+(S1 (X (CC and) (VP (VB be) (ADVP (RB so) (RB close)))))
+-17.476316846694 -51.824204096662
+(S1 (S (CC and) (VP (VB be) (ADVP (RB so) (JJ close)))))
+-17.500343785458 -47.011210192200
+(S1 (FRAG (CC and) (VP (VB be) (ADJP (RB so) (RB close)))))
+-17.507854337596 -52.768559791750
+(S1 (FRAG (CC and) (VP (VB be) (NP (RB so) (VB close)))))
+-17.537836784638 -53.592753042190
+(S1 (S (CC and) (VP (VB be) (ADJP (IN so) (JJ close)))))
+-17.580502206719 -50.913095477053
+(S1 (X (CC and) (S (VP (VB be) (ADJP (RB so) (JJ close))))))
+-17.618607583731 -51.709920036927
+(S1 (SQ (CC and) (VP (VB be) (ADVP (RB so) (RB close)))))
+-17.690562824624 -48.441409887695
+(S1 (FRAG (CC and) (VP (VB be)) (ADJP (RB so) (JJ close))))
+-17.757188620772 -50.118673161074
+(S1 (FRAG (CC and) (VP (VB be) (NP (RB so) (RB close)))))
+-17.775120721745 -52.332478261280
+(S1 (S (CC and) (S (VP (VB be) (ADJP (RB so) (RB close))))))
+-17.863935568217 -52.030745848437
+(S1 (FRAG (CC and) (VP (VB be) (S (ADJP (RB so) (JJ close))))))
+-17.894672988297 -53.569978425538
+(S1 (SQ (CC and) (VP (VB be) (NP (RB so) (JJ close)))))
+-17.972062444745 -51.248850253263
+(S1 (FRAG (CC and) (S (VP (VB be) (ADJP (RB so) (JJ close))))))
+-17.980688476894 -46.800045051528
+(S1 (FRAG (CC and) (VP (VB be)) (ADVP (RB so) (RB close))))
+-18.137425738377 -53.172537663247
+(S1 (X (CC and) (VP (VB be) (NP (RB so) (JJ close)))))
+-18.222899181815 -51.568965183290
+(S1 (X (CC and) (VP (VB be)) (ADJP (RB so) (JJ close))))
+-18.328457525661 -51.974838046596
+(S1 (FRAG (CC and) (VP (VB be) (ADVP (RB so)) (ADVP (RB close)))))
+-18.441665170476 -53.451665535747
+(S1 (S (CC and) (VP (VB be) (ADVP (IN so) (RB close)))))
+-18.460459112457 -51.291014448944
+(S1 (X (CC and) (VP (VB be) (ADJP (RB so) (RB close)))))
+-18.661968353287 -53.023617211840
+(S1 (X (CC and) (S (VP (VB be) (ADVP (RB so) (RB close))))))
+-18.879696432534 -49.685495140168
+(S1 (FRAG (CC and) (VP (VB be) (ADVP (RB so) (JJ close)))))
+-18.886077249265 -48.372723368564
+(S1 (FRAG (CC and) (VP (VB be)) (ADJP (RB so) (RB close))))
+-18.956400051161 -53.288219765799
+(S1 (FRAG (CC and) (VP (VB be) (NP (IN so) (JJ close)))))
+-18.974815850900 -53.359371988050
+(S1 (FRAG (CC and) (S (VP (VB be) (ADVP (RB so) (RB close))))))
+-19.055507090647 -52.506714544893
+(S1 (FRAG (CC and) (VP (VB be) (ADJP (IN so) (JJ close)))))
+-19.261726719998 -53.681470187576
+(S1 (FRAG (CC and) (VP (VB be) (S (RB so) (VP (VB close))))))
+-19.389609367388 -52.339218112854
+(S1 (FRAG (CC and) (VP (VB be) (S (ADJP (RB so) (RB close))))))
+-19.577251304404 -51.558861344200
+(S1 (FRAG (CC and) (VP (VB be) (S (ADVP (RB so) (RB close))))))
+-19.633460405888 -53.065880775533
+(S1 (FRAG (CC and) (VP (VB be) (ADVP (RB so))) (ADVP (RB close))))
+-19.654281250230 -50.563898013066
+(S1 (FRAG (CC and) (VP (VB be)) (ADVP (RB so) (JJ close))))
+-19.687998121880 -53.714367418589
+(S1 (FRAG (CC and) (VP (VB be) (NP (IN so) (NN close)))))
+-19.949674745441 -51.240495380639
+(S1 (FRAG (CC and) (VP (VB be) (ADVP (IN so) (RB close)))))
+-20.000499628870 -53.691589054808
+(S1 (X (CC and) (VP (VB be)) (ADJP (RB so) (RB close))))
+-20.002195728811 -53.039562888448
+(S1 (FRAG (CC and) (VP (VB be) (ADJP (IN so) (RB close)))))
+-20.134376644772 -53.162174879047
+(S1 (FRAG (CC and) (VP (VB be) (FRAG (ADVP (RB so) (RB close))))))
+-20.271610384363 -53.153854331237
+(S1 (FRAG (CC and) (VP (VB be) (ADVP (RB so)) (ADVP (JJ close)))))
+-20.474180407099 -52.856851272392
+(S1 (FRAG (CC and) (VP (VB be) (ADVP (IN so) (JJ close)))))
+-20.935295093195 -53.578352420095
+(S1 (FRAG (CC and) (VP (VB be)) (ADVP (IN so) (RB close))))
+

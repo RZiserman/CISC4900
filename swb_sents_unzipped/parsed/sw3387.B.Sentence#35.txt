@@ -1,0 +1,102 @@
+50 x
+-24.735510614594 -88.928838584006
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-26.553230582208 -90.174404167417
+(S1 (S (NP (PRP We)) (SBAR (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))))
+-26.593289076113 -90.178561661206
+(S1 (S (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-26.764782678862 -94.022374966714
+(S1 (S (NP (NP (PRP We)) (NP (PRP we))) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-27.321724610026 -93.332650016554
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-28.073591670883 -97.729481750047
+(S1 (S (NP (PRP We)) (NP (PRP we)) (ADJP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-28.249648955486 -95.939587892564
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking)))))))
+-28.345143273295 -98.607036037736
+(S1 (S (NP (PRP We)) (NP (PRP we)) (S (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-28.713691945189 -95.867222035301
+(S1 (S (NP (PRP We)) (NP (PRP we)) (S (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-28.781056767800 -102.022709533421
+(S1 (S (NP (PRP We)) (NP (PRP we)) (ADJP (JJ buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-28.880067512561 -101.981377050347
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (S (VP (JJ intimate) (NP (JJ international) (NN banking))))))))
+-28.978309198457 -95.444130421231
+(S1 (FRAG (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-28.989663303235 -97.959669754941
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (ADJP (JJ intimate) (JJ international)) (NN banking))))))
+-28.991780008124 -102.683028373067
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (NN buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-29.148308585301 -97.605448321817
+(S1 (S (NP (PRP We)) (NP (PRP we)) (ADJP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-29.214212167966 -96.105206166385
+(S1 (S (NP (PRP We)) (VP (VBP we) (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-29.672599727757 -98.752581284491
+(S1 (S (NP (PRP We)) (S (NP (PRP we)) (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-29.718743464511 -101.062363307719
+(S1 (S (NP (NP (PRP We)) (NP (PRP we))) (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-29.743018762124 -98.535180568910
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (ADJP (JJ intimate)) (JJ international) (NN banking))))))
+-29.756277003281 -100.812484704411
+(S1 (S (NP (NP (PRP We)) (NP (PRP we))) (ADJP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-29.801691092317 -100.148077323235
+(S1 (FRAG (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-29.856117860457 -99.338212323477
+(S1 (S (NP (PRP We)) (SBAR (S (NP (PRP we)) (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))))
+-29.950553744515 -102.649639258136
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy)) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))
+-29.951169083821 -100.772417083827
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (NP (JJ intimate)) (JJ international) (NN banking))))))
+-29.969841853101 -97.185153475975
+(S1 (S (NP (PRP We)) (SBAR (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking)))))))))
+-30.009900347006 -97.189310969763
+(S1 (S (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking))))))))
+-30.094789794024 -100.239510297390
+(S1 (S (NP (PRP We)) (ADVP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-30.278921025330 -101.033124275271
+(S1 (S (NP (NP (PRP We)) (NP (PRP we))) (VP (VBP buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking)))))))
+-30.291263064402 -98.673385827744
+(S1 (S (NP (PRP We)) (VP (VBP we) (S (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))))
+-30.381199323980 -98.201890680233
+(S1 (FRAG (NP (PRP We)) (S (NP (PRP we)) (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-30.491376836284 -101.179314113933
+(S1 (S (NP (PRP We)) (VP (VBP we) (S (VP (NN buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))))
+-30.636404254880 -100.018738107487
+(S1 (S (NP (PRP We)) (VP (VBP we) (ADJP (JJ buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-30.787222320679 -100.547446691163
+(S1 (FRAG (S (NP (NP (PRP We)) (NP (PRP we))) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))
+-30.807383270850 -99.205235338352
+(S1 (S (NP (PRP We)) (SBAR (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (ADJP (JJ intimate) (JJ international)) (NN banking))))))))
+-30.847441764755 -99.209392832141
+(S1 (S (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (ADJP (JJ intimate) (JJ international)) (NN banking)))))))
+-30.852028013399 -100.090962873456
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VB buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking)))))))
+-30.956760510350 -99.730910358485
+(S1 (S (ADVP (PRP We)) (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-31.001773899556 -99.657326494407
+(S1 (S (NP (PRP We)) (VP (VBP we) (SBAR (S (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking)))))))))
+-31.148046873945 -102.703464479698
+(S1 (S (NP (NP (PRP We)) (NP (PRP we))) (ADJP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-31.330526958424 -101.630301726634
+(S1 (S (NP (PRP We)) (ADVP (PRP we)) (VP (VB buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))
+-31.560738726951 -99.780746152321
+(S1 (S (NP (PRP We)) (SBAR (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (ADJP (JJ intimate)) (JJ international) (NN banking))))))))
+-31.600797223643 -99.784903646109
+(S1 (S (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (ADJP (JJ intimate)) (JJ international) (NN banking)))))))
+-31.647523428455 -102.363481187489
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VB buy) (PP (IN from) (NP (ADJP (JJ intimate) (JJ international)) (NN banking))))))
+-31.768889054223 -102.017982667238
+(S1 (S (NP (PRP We)) (SBAR (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (NP (JJ intimate)) (JJ international) (NN banking))))))))
+-31.781036970670 -102.690157627953
+(S1 (FRAG (S (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (JJ intimate) (JJ international) (NN banking))))))))
+-31.808947550916 -102.022140161026
+(S1 (S (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (NP (NP (JJ intimate)) (JJ international) (NN banking)))))))
+-32.146468272987 -102.625534892203
+(S1 (S (NP (PRP We)) (NP (PRP we)) (S (VP (VB buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking))))))))
+-32.310970981768 -102.938992001457
+(S1 (S (NP (PRP We)) (NP (PRP we)) (VP (VB buy) (PP (IN from) (NP (ADJP (JJ intimate)) (JJ international) (NN banking))))))
+-32.492447530986 -102.454879729788
+(S1 (FRAG (NP (PRP We)) (S (NP (PRP we)) (VP (VBP buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking))))))))
+-32.646988459523 -102.863518915815
+(S1 (S (NP (PRP We)) (VP (VBP we) (VP (VB buy) (PP (IN from) (S (NP (JJ intimate) (JJ international) (NN banking))))))))
+

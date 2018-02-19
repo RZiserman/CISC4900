@@ -1,0 +1,102 @@
+50 x
+-12.810646660490 -50.068703121358
+(S1 (S (NP (PRP I)) (VP (VBD had) (NP (CD four) (NNS brothers)))))
+-16.149082461348 -59.896708968565
+(S1 (S (NP (PRP I)) (VP (VBN had) (NP (CD four) (NNS brothers)))))
+-17.725229039937 -59.913393504054
+(S1 (S (NP (PRP I)) (VP (VBD had) (S (NP (CD four) (NNS brothers))))))
+-18.371922196719 -63.655517022036
+(S1 (S (NP (NN I)) (VP (VBD had) (NP (CD four) (NNS brothers)))))
+-18.636236954765 -61.376934996789
+(S1 (S (NP (PRP I)) (VP (VBD had) (NP (CD four)) (NP (NNS brothers)))))
+-18.998177528472 -65.054056781423
+(S1 (S (NP (PRP I)) (VP (VBD had) (NP (NP (CD four)) (NNS brothers)))))
+-19.230225608577 -67.657259968533
+(S1 (S (NP (PRP I)) (VP (VBD had) (NP (QP (CD four) (NNS brothers))))))
+-19.984627136583 -67.341088628762
+(S1 (S (NP (PRP I)) (VP (VBN had) (S (NP (CD four) (NNS brothers))))))
+-20.080757689924 -65.069752974547
+(S1 (S (NP (PRP I)) (VP (VBD had) (SBAR (S (NP (CD four) (NNS brothers)))))))
+-20.538251550387 -68.592607302080
+(S1 (S (NP (PRP I)) (VP (VBD had) (ADJP (CD four) (NNS brothers)))))
+-20.659880582828 -68.198991054885
+(S1 (S (NP (PRP I)) (VP (VBD had) (S (ADJP (CD four) (NNS brothers))))))
+-20.780776243633 -72.216820118063
+(S1 (S (NP (NN I)) (VP (VBN had) (NP (CD four) (NNS brothers)))))
+-21.137309292899 -73.485885748180
+(S1 (S (NP (PRP I)) (VP (VBN had) (NP (QP (CD four) (NNS brothers))))))
+-21.206379299471 -68.183520993713
+(S1 (NP (NP (NN I)) (VP (VBD had) (NP (CD four) (NNS brothers)))))
+-21.266124335901 -67.910991400858
+(S1 (S (NP (PRP I)) (VP (VBD had) (S (NP (CD four)) (NP (NNS brothers))))))
+-21.972542626283 -73.426095104740
+(S1 (S (NP (PRP I)) (VP (VBN had) (NP (NP (CD four)) (NNS brothers)))))
+-22.127283068143 -75.112298902656
+(S1 (NP (NP (PRP I)) (VP (VBD had) (NP (CD four) (NNS brothers)))))
+-22.135295337708 -71.570675261221
+(S1 (NP (NP (NN I)) (VP (VBN had) (NP (CD four) (NNS brothers)))))
+-22.141301263083 -72.775131302662
+(S1 (S (NP (PRP I)) (VP (VBD had) (NP (NP (CD four)) (NP (NNS brothers))))))
+-22.467633020092 -73.766335056504
+(S1 (S (NP (PRP I)) (VP (VBN had) (NP (CD four)) (NP (NNS brothers)))))
+-22.485370112293 -71.716917092765
+(S1 (S (NP (PRP I)) (VP (VBD had) (S (NP (QP (CD four) (NNS brothers)))))))
+-22.778550911751 -73.828247455571
+(S1 (S (NP (NP (PRP I)) (VP (VBD had) (NP (CD four) (NNS brothers))))))
+-22.990548336531 -72.526523752750
+(S1 (S (NP (PRP I)) (VP (VBD had) (SBAR (S (ADJP (CD four) (NNS brothers)))))))
+-23.184431776165 -73.500207404732
+(S1 (S (NP (NN I)) (VP (VBD had) (S (NP (CD four) (NNS brothers))))))
+-23.305670546723 -76.271501881252
+(S1 (S (NP (PRP I)) (VP (VBN had) (SBAR (S (NP (CD four) (NNS brothers)))))))
+-23.523964474523 -76.691007683292
+(S1 (S (NP (PRP I)) (VP (VBN had) (S (ADJP (CD four) (NNS brothers))))))
+-23.730936834656 -76.201954090432
+(S1 (S (NP (PRP I)) (VP (VBN had) (S (NP (CD four)) (NP (NNS brothers))))))
+-23.829306266499 -74.187289191193
+(S1 (S (NP (PRP I)) (VP (VBD had) (S (NP (NP (CD four)) (NNS brothers))))))
+-23.833142537393 -81.191383383478
+(S1 (NP (NP (PRP I)) (VP (VBN had) (NP (CD four) (NNS brothers)))))
+-24.119763835110 -73.028494748850
+(S1 (S (NP (PRP I)) (VP (VBD had) (SBAR (S (NP (CD four)) (NP (NNS brothers)))))))
+-24.153069490993 -74.963748897467
+(S1 (S (NP (NN I)) (VP (VBD had) (NP (CD four)) (NP (NNS brothers)))))
+-24.160854429279 -75.774522132040
+(S1 (NP (NP (NN I)) (VP (VBN had) (S (NP (CD four) (NNS brothers))))))
+-24.219626557629 -73.589134621146
+(S1 (S (NP (NP (NN I)) (VP (VBD had) (NP (CD four) (NNS brothers))))))
+-24.534454532439 -79.144612217474
+(S1 (S (NP (PRP I)) (VP (VBN had) (S (NP (QP (CD four) (NNS brothers)))))))
+-24.564836124869 -79.661199778260
+(S1 (S (NP (NN I)) (VP (VBN had) (S (NP (CD four) (NNS brothers))))))
+-24.601315040743 -76.414876684466
+(S1 (S (NP (PRP I)) (VP (VBD had) (SBAR (S (NP (QP (CD four) (NNS brothers))))))))
+-24.634963264700 -78.640870682101
+(S1 (S (NP (NN I)) (VP (VBD had) (NP (NP (CD four)) (NNS brothers)))))
+-24.798185338341 -79.971256154690
+(S1 (S (NP (NP (PRP I)) (VP (VBN had) (NP (CD four) (NNS brothers))))))
+-24.922964704805 -81.244073869211
+(S1 (S (NP (NN I)) (VP (VBD had) (NP (QP (CD four) (NNS brothers))))))
+-24.962340785727 -76.728106533898
+(S1 (S (NP (NP (NN I)) (VP (VBN had) (NP (CD four) (NNS brothers))))))
+-25.173782463153 -76.347212156614
+(S1 (NP (NP (NN I)) (VP (VBD had) (S (NP (CD four) (NNS brothers))))))
+-25.554303278940 -78.656566875225
+(S1 (S (NP (NN I)) (VP (VBD had) (SBAR (S (NP (CD four) (NNS brothers)))))))
+-26.090277392823 -79.343648633807
+(S1 (S (NP (PRP I)) (VP (VBD had) (SBAR (S (NP (NP (CD four)) (NNS brothers)))))))
+-26.220072202145 -81.614984315902
+(S1 (S (NP (PRP I)) (VP (VBN had) (S (NP (NP (CD four)) (NNS brothers))))))
+-26.328464830844 -81.785804955563
+(S1 (S (NP (NN I)) (VP (VBD had) (S (ADJP (CD four) (NNS brothers))))))
+-26.338107926615 -82.179421202758
+(S1 (S (NP (NN I)) (VP (VBD had) (ADJP (CD four) (NNS brothers)))))
+-26.680884072129 -81.497805301536
+(S1 (S (NP (NN I)) (VP (VBD had) (S (NP (CD four)) (NP (NNS brothers))))))
+-26.857493930960 -81.601387827756
+(S1 (S (NP (NP (PRP I)) (VP (VBD had) (S (NP (CD four) (NNS brothers)))))))
+-26.959634985662 -80.931953430684
+(S1 (S (NP (NP (NN I)) (VP (VBN had) (S (NP (CD four) (NNS brothers)))))))
+-28.275416225523 -81.752825784048
+(S1 (S (NP (NP (NN I)) (VP (VBD had) (S (NP (CD four) (NNS brothers)))))))
+

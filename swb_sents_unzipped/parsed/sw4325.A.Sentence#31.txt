@@ -1,0 +1,102 @@
+50 x
+-16.830287818721 -61.193485652781
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (DT that)))))))
+-17.412834374747 -60.178666705417
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (NP (DT that))))))
+-18.414578459326 -63.535318566666
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (IN that)))))))
+-19.019491273362 -68.193096100888
+(S1 (S (VP (TO to) (VP (VB get) (NP (NNS references) (CC and) (DT that))))))
+-19.082261212564 -62.520499619301
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (NP (IN that))))))
+-19.322639907440 -69.085636736528
+(S1 (S (VP (TO to) (VP (VB get) (S (NP (NP (NNS references)) (CC and) (NP (DT that))))))))
+-19.528245457081 -69.456533836108
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (IN that))))))
+-19.583624724017 -66.849554454907
+(S1 (S (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (DT that))))))
+-19.650391535495 -70.899313192099
+(S1 (S (VP (TO to) (VP (VB get) (NP (NNS references) (CC and) (NN that))))))
+-20.182465786487 -68.951337932064
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (RB that))))))
+-20.183980949047 -65.569196443174
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (WDT that)))))))
+-20.319668001557 -71.485545084984
+(S1 (S (VP (TO to) (VP (VB get) (NP (NNS references)) (CC and) (NP (DT that))))))
+-20.344357422275 -68.503972424751
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (IN that)))))
+-20.471555878089 -69.750464710251
+(S1 (S (VP (TO to) (VP (VB get) (UCP (NP (NNS references)) (CC and) (ADVP (IN that)))))))
+-20.556735196149 -72.638942628190
+(S1 (S (VP (TO to) (VP (VB get) (NP (NNS references) (CC and) (NP (DT that)))))))
+-20.631365210458 -71.386798560988
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (PP (CC and) (NP (DT that))))))))
+-20.636122921376 -71.038931511373
+(S1 (S (VP (TO to) (VP (VB get) (S (NP (NP (NNS references)) (CC and) (NP (IN that))))))))
+-20.751040402761 -69.459290042744
+(S1 (S (VP (TO to) (VP (VB get) (UCP (NP (NNS references)) (CC and) (ADJP (IN that)))))))
+-20.781166407073 -64.554377495809
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (NP (WDT that))))))
+-20.946839812524 -70.660531427261
+(S1 (S (TO to) (VP (VBP get) (NP (NNS references) (CC and) (DT that)))))
+-21.017658883989 -71.150567739909
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (PP (CC and) (NP (DT that)))))))
+-21.242039273996 -72.252939065064
+(S1 (S (TO to) (VP (VB get) (NP (NNS references)) (CC and) (NP (DT that)))))
+-21.352464066344 -72.413370068677
+(S1 (S (VP (TO to) (VP (VB get) (NP (NNS references) (CC and) (NP (IN that)))))))
+-21.354369754621 -69.191387368792
+(S1 (S (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (IN that))))))
+-21.381854978357 -67.569294215075
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (RB that)))))
+-21.499026053172 -72.842338268446
+(S1 (S (VP (TO to) (VP (VB get) (NP (NNS references)) (CC and) (NP (IN that))))))
+-21.626997114883 -72.204139488474
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (NP (NN that))))))
+-21.684144263099 -72.547733165731
+(S1 (S (VP (TO to) (VP (VB get) (NP (NNS references)) (PP (CC and) (NP (DT that)))))))
+-21.705025731595 -72.927882148785
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (ADVP (RB that)))))))
+-21.721571839061 -72.970999954824
+(S1 (S (TO to) (VP (VBP get) (NP (NNS references) (CC and) (NP (DT that))))))
+-21.755979027139 -73.450680636092
+(S1 (S (TO to) (VP (VB get) (NP (NNS references) (CC and) (DT that)))))
+-21.912104836645 -73.218958435839
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (NN that)))))))
+-22.064675917773 -71.922458988943
+(S1 (S (TO to) (VP (VP (VBP get) (NP (NNS references))) (CC and) (VP (VBP that)))))
+-22.081337747336 -71.809501692133
+(S1 (S (VP (TO to) (VP (VB get) (UCP (NP (NNS references)) (CC and) (ADJP (RB that)))))))
+-22.174512844967 -62.210423856851
+(S1 (UCP (S (VP (TO to) (VP (VB get) (NP (NNS references))))) (CC and) (ADVP (IN that))))
+-22.455091908782 -73.006202392580
+(S1 (S (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (RB that)))))))
+-22.538647499449 -65.757181856449
+(S1 (UCP (S (VP (TO to) (VP (VB get) (NP (NNS references))))) (CC and) (ADVP (RB that))))
+-22.555853490388 -73.072809507627
+(S1 (S (VP (TO to) (VP (VB get) (S (NP (NP (NNS references)) (CC and) (NP (WDT that))))))))
+-22.565668029149 -71.804911593067
+(S1 (VP (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (DT that))))))
+-22.602436912045 -72.745427395311
+(S1 (S (TO to) (VP (VBP get) (NP (NNS references) (CC and) (NP (IN that))))))
+-22.708381235069 -72.625425656099
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (ADVP (RB that))))))
+-23.005345097130 -71.225265245300
+(S1 (S (TO to) (VP (VB get) (NP (NP (NNS references)) (CC and) (NP (WDT that))))))
+-23.146627803699 -69.983282722910
+(S1 (UCP (S (VP (TO to) (VP (VB get) (NP (NNS references))))) (CC and) (PP (IN that))))
+-23.223816814808 -71.991383445216
+(S1 (S (TO to) (VP (VBP get) (NP (NP (NNS references)) (CC and) (NP (RB that))))))
+-23.462265503323 -70.277335690042
+(S1 (UCP (VP (TO to) (VP (VB get) (NP (NNS references)))) (CC and) (NP (DT that))))
+-24.531862375787 -70.359089197930
+(S1 (UCP (S (VP (TO to) (VP (VB get) (NP (NNS references))))) (CC and) (ADVP (DT that))))
+-24.714558647162 -69.953476686981
+(S1 (UCP (VP (TO to) (VP (VB get) (NP (NNS references)))) (CC and) (ADJP (IN that))))
+-24.998856832723 -71.263679670881
+(S1 (UCP (VP (TO to) (VP (VB get) (NP (NNS references)))) (CC and) (ADVP (IN that))))
+-25.598204059068 -72.465156214611
+(S1 (UCP (VP (TO to) (VP (VB get) (NP (NNS references)))) (CC and) (ADJP (RB that))))
+-26.365693866089 -73.185020733753
+(S1 (UCP (VP (TO to) (VP (VB get) (NP (NNS references)))) (CC and) (NP (WDT that))))
+

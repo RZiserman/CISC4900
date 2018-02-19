@@ -1,0 +1,102 @@
+50 x
+-14.784623858156 -59.758160564107
+(S1 (S (NP (PRP I)) (VP (VBP work) (PP (IN with) (NP (NNP Elma))))))
+-16.540570306730 -67.133191538811
+(S1 (S (NP (PRP I)) (VP (VBP work) (PP (IN with) (NP (FW Elma))))))
+-16.708463132870 -63.682442937924
+(S1 (S (NP (PRP I)) (VP (NN work) (PP (IN with) (NP (NNP Elma))))))
+-17.072310219401 -67.958733661601
+(S1 (S (NP (PRP I)) (VP (VBP work) (PP (IN with) (NP (NN Elma))))))
+-18.121470752794 -66.717015322799
+(S1 (S (NP (PRP I)) (VP (VB work) (PP (IN with) (NP (NNP Elma))))))
+-18.199875520656 -71.057473912629
+(S1 (S (NP (PRP I)) (VP (NN work) (PP (IN with) (NP (FW Elma))))))
+-18.743033738912 -65.958088360770
+(S1 (S (NP (PRP I)) (NP (NP (NN work)) (PP (IN with) (NP (NNP Elma))))))
+-18.794467591115 -71.883016035419
+(S1 (S (NP (PRP I)) (VP (NN work) (PP (IN with) (NP (NN Elma))))))
+-19.576267810368 -74.092046297504
+(S1 (S (NP (PRP I)) (VP (VB work) (PP (IN with) (NP (FW Elma))))))
+-19.703418001560 -73.345268014361
+(S1 (S (NP (PRP I)) (NP (NP (NN work)) (PP (IN with) (NP (FW Elma))))))
+-20.199304588039 -74.917588420294
+(S1 (S (NP (PRP I)) (VP (VB work) (PP (IN with) (NP (NN Elma))))))
+-20.277943462178 -72.697680283460
+(S1 (S (NP (PRP I)) (VP (VBP work) (PP (IN with) (S (NP (NNP Elma)))))))
+-20.331608528797 -74.758664541652
+(S1 (S (NP (PRP I)) (NP (NP (NN work)) (PP (IN with) (NP (NN Elma))))))
+-20.344914470535 -70.968227083375
+(S1 (S (NP (PRP I)) (VP (NP (NN work)) (PP (IN with) (NP (NNP Elma))))))
+-21.255152025020 -77.652789501479
+(S1 (NP (NP (NN I) (NN work)) (PP (IN with) (NP (NNP Elma)))))
+-21.277450071586 -78.620118930112
+(S1 (S (NP (PRP I)) (VP (VBP work) (PP (IN with) (NNP Elma)))))
+-21.534950998689 -73.110545300820
+(S1 (S (NP (PRP I)) (NP (NP (VB work)) (PP (IN with) (NP (NNP Elma))))))
+-21.711227405109 -78.343258058080
+(S1 (S (NP (PRP I)) (VP (NP (NN work)) (PP (IN with) (NP (FW Elma))))))
+-21.777605733004 -76.099818671587
+(S1 (NP (NP (PRP I) (NN work)) (PP (IN with) (NP (NNP Elma)))))
+-22.078239177568 -79.631220014789
+(S1 (S (NP (PRP I)) (VP (VBP work) (PP (IN with) (S (NP (NN Elma)))))))
+-22.187069300374 -75.651427125526
+(S1 (S (NP (NN I)) (VP (NN work) (PP (IN with) (NP (NNP Elma))))))
+-22.194062928780 -79.168800180870
+(S1 (S (NP (PRP I)) (VP (NP (NN work)) (PP (IN with) (NP (NN Elma))))))
+-22.251186219627 -81.813840596238
+(S1 (NP (NP (NP (PRP I)) (NN work)) (PP (IN with) (NP (NNP Elma)))))
+-22.408789433771 -73.695660627918
+(S1 (S (NP (PRP I)) (NP (NN work)) (PP (IN with) (NP (NNP Elma)))))
+-22.514279495211 -77.282520627083
+(S1 (S (NP (PRP I)) (VP (NN work) (PP (IN with) (S (NP (NNP Elma)))))))
+-22.607904772406 -75.950930375020
+(S1 (S (NP (NP (NN I) (NN work)) (PP (IN with) (NP (NNP Elma))))))
+-22.680542768336 -80.497724954411
+(S1 (S (NP (PRP I)) (NP (NP (VB work)) (PP (IN with) (NP (FW Elma))))))
+-23.091542087231 -81.869595883709
+(S1 (S (NP (NN I)) (VP (VBP work) (PP (IN with) (NP (NNP Elma))))))
+-23.154439472875 -74.397959475579
+(S1 (S (NP (NP (PRP I) (NN work)) (PP (IN with) (NP (NNP Elma))))))
+-23.160522908048 -79.766913535707
+(S1 (S (NP (PRP I)) (VP (NN work) (PRT (RP with)) (NP (NNP Elma)))))
+-23.217452703853 -77.297323382925
+(S1 (S (NP (PRP I)) (VP (VBP work) (SBAR (IN with) (S (NP (NNP Elma)))))))
+-23.226530592532 -80.279994467936
+(S1 (S (NP (PRP I)) (VP (VBP work) (PRT (RP with)) (NP (NNP Elma)))))
+-23.485366266045 -79.967886446387
+(S1 (S (NP (PRP I)) (VP (VBP work) (NP (IN with) (NNP Elma)))))
+-23.561374401750 -80.627228463505
+(S1 (S (NP (PRP I)) (VP (NP (VB work)) (PP (IN with) (NP (NNP Elma))))))
+-23.649880746509 -79.404098599570
+(S1 (S (NP (PRP I)) (VP (VB work) (PP (IN with) (S (NP (NNP Elma)))))))
+-23.672671459437 -80.111981458799
+(S1 (S (NP (NP (NP (PRP I)) (NN work)) (PP (IN with) (NP (NNP Elma))))))
+-23.691659266895 -77.693534734228
+(S1 (NP (NP (NN I)) (VP (NN work) (PP (IN with) (NP (NNP Elma))))))
+-23.947765242390 -81.343662578511
+(S1 (S (NP (PRP I)) (NP (NN work)) (PP (IN with) (NP (FW Elma)))))
+-23.961064041274 -80.760074964032
+(S1 (NP (NP (NN I)) (NP (NN work)) (PP (IN with) (NP (NNP Elma)))))
+-23.998465266958 -81.476223130618
+(S1 (S (NP (PRP I)) (NP (NN work)) (PP (IN with) (NP (NN Elma)))))
+-24.006055688977 -81.055915401545
+(S1 (S (NP (PRP I)) (VP (VB work) (PRT (RP with)) (NP (NNP Elma)))))
+-24.028940602713 -78.066160354315
+(S1 (S (NP (PRP I)) (NP (VB work)) (PP (IN with) (NP (NNP Elma)))))
+-24.033784460247 -80.515453182224
+(S1 (S (NP (PRP I)) (VP (VBP work) (PRT (IN with)) (NP (NNP Elma)))))
+-24.034996954036 -80.436231418163
+(S1 (NP (NP (NN I)) (NP (NP (NN work)) (PP (IN with) (NP (NNP Elma))))))
+-24.233358287416 -77.927072548372
+(S1 (S (NP (NN I)) (NP (NP (NN work)) (PP (IN with) (NP (NNP Elma))))))
+-24.249770279522 -81.785139129170
+(S1 (S (NP (NP (PRP I) (NN work)) (PP (IN with) (NP (FW Elma))))))
+-24.653891943363 -80.639304596261
+(S1 (S (NP (PRP I)) (VP (NN work) (PRT (IN with)) (NP (NNP Elma)))))
+-24.733799749056 -80.659735990334
+(S1 (S (NP (PRP I)) (VP (NN work) (SBAR (IN with) (S (NP (NNP Elma)))))))
+-25.387236923709 -79.486053309494
+(S1 (S (NP (PRP I) (NN work)) (PP (IN with) (NP (NNP Elma)))))
+-25.558140432851 -81.805597014851
+(S1 (S (NP (PRP I)) (NP (NP (NN work)) (PP (IN with) (S (NP (NNP Elma)))))))
+

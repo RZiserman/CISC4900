@@ -1,0 +1,102 @@
+50 x
+-12.401974244539 -47.022403493085
+(S1 (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call))))
+-14.352278641828 -49.782022091943
+(S1 (FRAG (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call)))))
+-14.521282212573 -55.781536138513
+(S1 (NP (CD Five) (NNS dollars) (NP (DT a) (NN call))))
+-15.765322005240 -56.336075066783
+(S1 (S (NP (CD Five)) (VP (NNS dollars) (NP (DT a) (NN call)))))
+-16.200315243786 -54.804293052329
+(S1 (NP (QP (CD Five) (NNS dollars)) (DT a) (NN call)))
+-16.246997995762 -56.746989221180
+(S1 (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (JJ call))))
+-16.274926180308 -55.430794667961
+(S1 (S (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call)))))
+-16.473134209633 -60.626474827176
+(S1 (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (VB call))))
+-16.640615911580 -57.198351039663
+(S1 (S (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call))))
+-16.936905083396 -55.948740382422
+(S1 (X (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call)))))
+-17.287396518309 -58.453172721297
+(S1 (NP (QP (CD Five) (NNS dollars)) (DT a) (JJ call)))
+-17.503537282098 -56.118535709929
+(S1 (FRAG (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call))))
+-17.643259991588 -66.216247427787
+(S1 (NP (CD Five) (NNS dollars) (NP (DT a) (VB call))))
+-18.059008464484 -63.586260205391
+(S1 (S (NP (CD Five)) (VP (NNS dollars) (NP (DT a) (VB call)))))
+-18.282513908901 -60.730597872587
+(S1 (NP (NP (NP (CD Five)) (NNS dollars)) (NP (DT a) (NN call))))
+-18.299478778903 -55.553092791516
+(S1 (X (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call))))
+-18.357718478557 -62.761151964611
+(S1 (S (NP (CD Five)) (VP (NNS dollars) (NP (DT a) (JJ call)))))
+-18.395042856435 -66.463937396357
+(S1 (NP (NP (CD Five) (NNS dollars)) (DT a) (NN call)))
+-18.445776462851 -57.139052624593
+(S1 (FRAG (X (NP (CD Five) (NNS dollars))) (NP (DT a) (NN call))))
+-18.607336788615 -60.711766895419
+(S1 (FRAG (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (JJ call)))))
+-18.636012681733 -64.010362793710
+(S1 (NP (NP (QP (CD Five) (NNS dollars))) (NP (DT a) (NN call))))
+-18.848827548060 -64.571061543740
+(S1 (FRAG (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (VB call)))))
+-18.856534955590 -65.896513033592
+(S1 (FRAG (NP (CD Five) (NNS dollars) (NP (DT a) (NN call)))))
+-18.913908155662 -65.416427143081
+(S1 (S (NP (CD Five) (NNS dollars)) (VP (NP (DT a) (NN call)))))
+-18.915525660733 -62.410995956439
+(S1 (S (NP (CD Five) (NNS dollars)) (DT a) (VP (VBP call))))
+-19.024008027089 -62.526467741996
+(S1 (S (VP (NP (CD Five) (NNS dollars)) (NP (DT a) (NN call)))))
+-19.124270294888 -59.618383218146
+(S1 (FRAG (NP (QP (CD Five) (NNS dollars)) (DT a) (NN call))))
+-19.160837165672 -65.082992573652
+(S1 (S (NP (CD Five) (NNS dollars)) (NP (DT a) (VB call))))
+-19.210031447706 -65.473801057907
+(S1 (S (NP (CD Five) (NNS dollars)) (DT a) (VP (VB call))))
+-19.792692422975 -65.554149574233
+(S1 (S (NP (CD Five) (NNS dollars)) (NP (DT a) (JJ call))))
+-19.865030697032 -64.660668361421
+(S1 (NP (NP (CD Five)) (NP (NNS dollars)) (NP (DT a) (NN call))))
+-19.870559043724 -62.935909892988
+(S1 (S (NP (QP (CD Five) (NNS dollars)) (DT a) (NN call))))
+-20.215277273570 -65.679867508859
+(S1 (S (NP (NP (CD Five) (NNS dollars)) (NP (DT a) (JJ call)))))
+-20.232818295039 -63.490216430378
+(S1 (FRAG (NP (NP (NP (CD Five)) (NNS dollars)) (NP (DT a) (NN call)))))
+-20.270167495394 -64.078461426624
+(S1 (S (NP (CD Five)) (VP (NNS dollars) (S (NP (DT a) (NN call))))))
+-20.503471378532 -66.472808002574
+(S1 (FRAG (NP (NP (QP (CD Five) (NNS dollars))) (NP (DT a) (NN call)))))
+-20.658175447602 -64.546703519071
+(S1 (FRAG (NP (CD Five) (NNS dollars)) (DT a) (JJ call)))
+-20.659725051979 -65.049957023607
+(S1 (X (NP (CD Five) (NNS dollars)) (NP (DT a) (VB call))))
+-20.680037797523 -65.731642163553
+(S1 (FRAG (NP (CD Five) (NNS dollars)) (NP (DT a) (VB call))))
+-20.729891005993 -62.790704917735
+(S1 (X (X (NP (CD Five) (NNS dollars))) (NP (DT a) (NN call))))
+-20.745267511045 -64.705064913969
+(S1 (S (NP (QP (CD Five) (NNS dollars))) (NP (DT a) (NN call))))
+-20.851994527253 -64.672747948778
+(S1 (S (NP (QP (CD Five) (NNS dollars)) (DT a) (JJ call))))
+-20.906511865391 -65.038035878441
+(S1 (FRAG (NP (CD Five) (NNS dollars)) (NP (DT a) (JJ call))))
+-20.949033245968 -63.596473897801
+(S1 (X (NP (QP (CD Five) (NNS dollars)) (DT a) (NN call))))
+-21.119265981105 -64.613683778949
+(S1 (FRAG (NP (QP (CD Five) (NNS dollars)) (DT a) (JJ call))))
+-21.378278626673 -63.723514601345
+(S1 (FRAG (NP (QP (CD Five) (NNS dollars))) (NP (DT a) (NN call))))
+-21.550095389546 -65.850968835622
+(S1 (S (NP (NP (CD Five)) (NNS dollars)) (NP (DT a) (NN call))))
+-21.961797120788 -65.154365530480
+(S1 (FRAG (NP (NP (CD Five)) (NNS dollars)) (NP (DT a) (NN call))))
+-22.801668725415 -64.946441202102
+(S1 (X (NP (QP (CD Five) (NNS dollars))) (NP (DT a) (NN call))))
+-23.305650019667 -64.498841955776
+(S1 (X (NP (CD Five)) (NP (NNS dollars)) (NP (DT a) (NN call))))
+

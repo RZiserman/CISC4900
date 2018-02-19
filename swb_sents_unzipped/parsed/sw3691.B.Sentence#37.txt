@@ -1,0 +1,102 @@
+50 x
+-45.258278606721 -162.667898977113
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PRT (RP out)) (PP (IN in) (NP (NNP California))))))
+-47.447169945110 -162.345735678988
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-47.534048460225 -168.535347417567
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PRT (RB out)) (PP (IN in) (NP (NNP California))))))
+-47.613822551856 -165.504054546021
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California))))))))
+-47.635489893886 -165.440197823208
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PRT (RP out)) (PP (IN in) (NP (NNP California))))))
+-47.701593569120 -163.973480010032
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (JJ exotic) (JJ pet) (NN shop))) (PRT (RP out)) (PP (IN in) (NP (NNP California))))))
+-47.783194089729 -164.832614758116
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (NN pet) (NN shop)) (PRT (RP out)) (PP (IN in) (NP (NNP California))))))
+-47.993524583781 -167.144366566405
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PRT (RP out)) (PP (IN in) (NP (NNP California)))))))
+-48.015217550248 -164.937148154278
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (JJ exotic) (NN pet) (NN shop))) (PRT (RP out)) (PP (IN in) (NP (NNP California))))))
+-48.229777684760 -166.376676232826
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California))))))))
+-48.278978184177 -166.732199207522
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California))))))))
+-48.378747949584 -168.064532171323
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (ADVP (IN out)) (PP (IN in) (NP (NNP California))))))
+-48.421437033929 -167.018841515343
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (JJ pet) (NN shop) (NN out)) (PP (IN in) (NP (NNP California)))))))
+-49.093066335902 -165.600138036889
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (RB out) (IN in) (NP (NNP California)))))))
+-49.097441949499 -164.790999104996
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (RB out) (IN in) (NP (NNP California))))))
+-49.167245466687 -168.169216815638
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (JJ pet) (NN shop) (NN out)) (PP (IN in) (NP (NNP California))))))
+-49.429828331511 -168.696072827452
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (ADVP (IN out)) (IN in) (NP (NNP California)))))))
+-49.597443126861 -166.087431368427
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-49.638433416640 -167.885232383997
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (RP out) (PP (IN in) (NP (NNP California)))))))
+-49.824381232275 -165.118034525083
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-49.943923932137 -167.357439159545
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California))))))))
+-50.002081498118 -164.510451459991
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-50.097192612759 -166.907775289744
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (ADJP (JJ exotic) (JJ pet)) (NN shop)) (PRT (RP out)) (PP (IN in) (NP (NNP California))))))
+-50.105813197985 -168.172151198743
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (NP (NP (DT a) (JJ exotic) (JJ pet) (NN shop) (NN out)) (PP (IN in) (NP (NNP California)))))))
+-50.122212291814 -168.449947943865
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (JJ exotic) (JJ pet) (NN shop))) (PRT (RP out)) (PP (IN in) (NP (NNP California)))))))
+-50.234140873171 -166.822203259033
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California))))))))
+-50.333149675251 -166.344578472420
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-50.340062035575 -168.580488829069
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (NP (DT a) (JJ exotic) (NN pet) (NN shop))) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-50.497353635036 -168.395638342223
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (ADVP (IN out)) (IN in) (NP (NNP California))))))
+-50.674658750947 -168.333547294523
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (ADJP (JJ exotic) (JJ pet)) (NN shop))) (PRT (RP out)) (PP (IN in) (NP (NNP California))))))
+-50.851318018560 -167.723203835458
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))))
+-50.900518490099 -168.078726673820
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))))
+-50.925235027758 -167.999247651290
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (JJ exotic) (JJ pet) (NN shop))) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-51.147006743655 -168.637844975280
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (RB out) (IN in) (NP (NNP California)))))))
+-51.403341326183 -167.453522650414
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (RB out) (IN in) (NP (NNP California)))))))
+-51.474653264542 -167.563297951091
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (RB out) (IN in) (NP (NNP California))))))
+-51.688972992507 -166.955714885999
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (RB out) (IN in) (NP (NNP California))))))
+-51.939611220613 -167.255774575247
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh) (PP (ADVP (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (IN out)) (IN in) (NP (NNP California)))))))
+-51.970129281249 -168.532694794435
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (RB out) (IN in) (NP (NNP California))))))
+-52.313774480148 -167.555975839095
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (NP (DT a) (ADJP (JJ exotic) (JJ pet)) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-52.337231494148 -166.585611991619
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (ADVP (UH uh)) (DT a) (ADJP (JJ exotic) (JJ pet)) (NN shop)) (PP (IN out) (PP (IN in) (NP (NNP California)))))))
+-52.626996399779 -167.547791450685
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (ADVP (IN out)) (IN in) (NP (NNP California)))))))
+-52.850138703028 -168.511459594930
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (PP (ADVP (IN out)) (IN in) (NP (NNP California)))))))
+-53.094999534499 -164.277753400992
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (PP (ADVP (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (IN out)) (IN in) (NP (NNP California))))))
+-53.645784691742 -168.574488515359
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (PP (ADVP (RB out)) (IN in) (NP (NNP California)))))))
+-53.754026882559 -167.527220975013
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (PP (ADVP (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (IN out)) (IN in) (NP (NNP California))))))
+-54.017758357763 -167.742624603780
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (PP (NP (NP (DT a) (JJ exotic) (JJ pet) (NN shop)) (ADVP (IN out))) (IN in) (NP (NNP California))))))
+-54.215137341980 -167.387101901628
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (UH uh)) (PP (NP (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (ADVP (IN out))) (IN in) (NP (NNP California))))))
+-54.337437338871 -167.760994712032
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (NP (DT a) (INTJ (UH uh))) (PP (ADVP (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (IN out)) (IN in) (NP (NNP California))))))
+-54.808468347124 -167.066628416744
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP$ my) (NN brother)) (VP (VBZ has) (FRAG (DT a) (INTJ (UH uh)) (PP (ADVP (NP (DT a) (JJ exotic) (NN pet) (NN shop)) (IN out)) (IN in) (NP (NNP California)))))))
+

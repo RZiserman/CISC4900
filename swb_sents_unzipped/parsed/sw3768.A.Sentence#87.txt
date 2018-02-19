@@ -1,0 +1,102 @@
+50 x
+-18.098277690552 -64.774132386181
+(S1 (S (VP (VB Find) (PRT (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-19.794364872890 -65.971657424912
+(S1 (VP (VB Find) (PRT (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-21.761471369598 -73.741349063292
+(S1 (S (VP (VB Find) (PRT (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-21.945614023058 -75.442621414601
+(S1 (S (VP (VBP Find) (PRT (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-22.072687096075 -70.227544405419
+(S1 (S (VP (VB Find) (ADVP (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-22.157119166478 -73.446232861663
+(S1 (S (VP (VB Find) (PP (RP out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-22.452775621257 -74.903063181817
+(S1 (S (VP (VB Find) (PP (IN out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-23.145256486794 -69.709029982612
+(S1 (VP (VB Find) (ADVP (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-23.152010651640 -74.884531989905
+(S1 (VP (VB Find) (PRT (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-23.163954914426 -74.404105630971
+(S1 (S (VP (VB Find) (PRT (IN out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-23.235330415070 -79.966162763439
+(S1 (S (VP (VBP Find) (PP (IN out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-23.546429343904 -75.358082472184
+(S1 (S (VP (VB Find) (ADVP (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-23.894902468371 -75.327678318458
+(S1 (VP (VB Find) (PP (IN out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.190706337043 -80.994397592422
+(S1 (S (VP (VBP Find) (PP (RP out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-24.266528198551 -75.561060805867
+(S1 (VP (VB Find) (PP (RP out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.307253034946 -77.048152870755
+(S1 (S (VP (VB Find) (ADVP (RB out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-24.379556815885 -75.383019752362
+(S1 (VP (VB Find) (PRT (IN out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-24.415746733269 -76.123270047262
+(S1 (S (VP (VB Find) (SBAR (WHADVP (RB out) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.584443143269 -75.241979962017
+(S1 (S (VP (VB Find) (ADVP (IN out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.708302434137 -78.378227574962
+(S1 (S (VP (VB Find) (ADJP (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.734958001284 -78.998394693917
+(S1 (S (VP (VB Find) (SBAR (RB out) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.772095092338 -74.752907339052
+(S1 (VP (VB Find) (ADVP (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-24.893437293397 -77.228514993415
+(S1 (S (VP (VB Find) (SBAR (ADVP (RB out)) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.919152946742 -81.171482932306
+(S1 (S (VP (VBP Find) (ADVP (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-24.961418359739 -74.896200049161
+(S1 (S (VP (VB Find) (ADVP (ADVP (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-24.963073627765 -78.740784140988
+(S1 (S (VP (VB Find) (SBAR (ADVP (RP out)) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-25.126287427844 -78.472904961320
+(S1 (S (VP (VB Find) (PRT (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NX (NNS languages))) (VP (VBP are)))))))
+-25.556649576641 -77.542815199027
+(S1 (VP (VB Find) (ADJP (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-25.682802414628 -78.180851410222
+(S1 (S (VP (VB Find) (ADJP (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-25.702989837095 -74.892801561640
+(S1 (VP (VB Find) (ADVP (IN out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-25.779948618275 -79.027689209431
+(S1 (VP (VB Find) (ADVP (RB out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-25.929818226132 -81.645294648175
+(S1 (S (VP (VBP Find) (SBAR (WHADVP (RB out) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-25.947367241829 -77.117490227339
+(S1 (S (VP (VB Find) (SBAR (WHADVP (ADVP (RB out)) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-26.006838554223 -79.960531839856
+(S1 (S (VP (VB Find) (ADJP (RB out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-26.011862706932 -77.171468361884
+(S1 (VP (VB Find) (SBAR (WHADVP (RB out) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-26.129766258193 -79.396729077163
+(S1 (S (VP (VB Find) (SBAR (WHADVP (ADVP (RP out)) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-26.175814435543 -80.725587269331
+(S1 (S (VP (VB Find) (SBAR (ADVP (IN out)) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-26.350686827715 -77.378673781864
+(S1 (VP (VB Find) (ADJP (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-26.381077683976 -80.046593137180
+(S1 (VP (VB Find) (SBAR (RB out) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-26.393175281541 -76.740167779017
+(S1 (VP (VB Find) (ADVP (ADVP (RB out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-26.743065439848 -78.276713310482
+(S1 (VP (VB Find) (SBAR (ADVP (RB out)) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-26.743443662970 -79.670430000051
+(S1 (VP (VB Find) (PRT (RP out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NX (NNS languages))) (VP (VBP are))))))
+-26.757188158894 -80.793435143938
+(S1 (S (VP (VB Find) (ADVP (ADVP (IN out)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))))
+-26.887170275681 -79.547742437518
+(S1 (S (VP (VB Find) (SBAR (WHADVP (ADVP (IN out)) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-26.989957315216 -79.788982458055
+(S1 (VP (VB Find) (SBAR (ADVP (RP out)) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-27.124138476032 -81.007791620298
+(S1 (VP (VB Find) (ADJP (RB out) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are)))))))
+-27.534985238493 -78.165688541961
+(S1 (VP (VB Find) (SBAR (WHADVP (ADVP (RB out)) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-27.899953528857 -80.444927391785
+(S1 (VP (VB Find) (SBAR (WHADVP (ADVP (RP out)) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-28.024212555995 -81.773785586397
+(S1 (VP (VB Find) (SBAR (ADVP (IN out)) (WHADVP (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+-28.400596246344 -80.595940752139
+(S1 (VP (VB Find) (SBAR (WHADVP (ADVP (IN out)) (WRB where)) (S (NP (DT the) (NNS languages)) (VP (VBP are))))))
+

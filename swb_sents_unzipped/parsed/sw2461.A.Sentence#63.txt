@@ -1,0 +1,102 @@
+50 x
+-14.692005892987 -53.059144808423
+(S1 (PP (IN like) (NP (JJ good) (NN grief))))
+-14.922193990728 -51.181685885083
+(S1 (NP (JJ like) (JJ good) (NN grief)))
+-15.178958868578 -51.380445797910
+(S1 (FRAG (PP (IN like) (NP (JJ good) (NN grief)))))
+-15.536815498105 -50.421578620075
+(S1 (FRAG (IN like) (NP (JJ good) (NN grief))))
+-15.903121674972 -54.219651624214
+(S1 (S (PP (IN like) (NP (JJ good) (NN grief)))))
+-15.929983663242 -54.352447144787
+(S1 (S (VP (VB like) (NP (JJ good) (NN grief)))))
+-16.297868232068 -54.411398467808
+(S1 (NP (IN like) (JJ good) (NN grief)))
+-16.598534139044 -56.575586864450
+(S1 (NP (VB like) (JJ good) (NN grief)))
+-16.978780036346 -58.485382194427
+(S1 (S (VP (VBP like) (NP (JJ good) (NN grief)))))
+-17.030415709541 -55.885079003927
+(S1 (VP (VB like) (NP (JJ good) (NN grief))))
+-17.134033649089 -58.855300503544
+(S1 (NP (JJ like) (NN good) (NN grief)))
+-17.169983073457 -52.471986027090
+(S1 (FRAG (NP (JJ like) (JJ good) (NN grief))))
+-17.777234986928 -55.128782862646
+(S1 (S (NP (JJ like) (JJ good) (NN grief))))
+-18.545815989245 -59.923566217562
+(S1 (PP (IN like) (S (NP (JJ good) (NN grief)))))
+-18.692671971905 -59.299276898425
+(S1 (FRAG (VP (VB like) (NP (JJ good) (NN grief)))))
+-18.767356777350 -63.341405611895
+(S1 (PP (IN like) (NP (NN good) (NN grief))))
+-18.803518641896 -59.553955041523
+(S1 (FRAG (IN like) (NP (NN good) (NN grief))))
+-18.819766747056 -63.892870882562
+(S1 (X (PP (IN like) (NP (JJ good) (NN grief)))))
+-19.031984102342 -61.139145833648
+(S1 (FRAG (VP (VBP like) (NP (JJ good) (NN grief)))))
+-19.040637333998 -63.578440455561
+(S1 (SINV (VBP like) (NP (JJ good) (NN grief))))
+-19.379129889668 -61.662706659608
+(S1 (FRAG (PP (IN like) (NP (NN good) (NN grief)))))
+-19.419794616079 -58.714032041037
+(S1 (FRAG (NP (IN like) (JJ good) (NN grief))))
+-19.560769090249 -60.740890054088
+(S1 (FRAG (NP (VB like) (JJ good) (NN grief))))
+-19.593703580283 -62.916196816429
+(S1 (FRAG (S (VP (VBP like) (NP (JJ good) (NN grief))))))
+-19.624562434623 -62.291489578596
+(S1 (PP (IN like) (NP (ADJP (JJ good)) (NN grief))))
+-19.818645929351 -61.909598730854
+(S1 (FRAG (NP (JJ like) (NN good) (NN grief))))
+-19.837947567213 -64.501912515194
+(S1 (S (PP (IN like) (NP (NN good) (NN grief)))))
+-19.850762402262 -63.594031886883
+(S1 (FRAG (S (PP (IN like) (NP (JJ good) (NN grief))))))
+-19.877132721669 -63.412822223507
+(S1 (FRAG (S (VP (VB like) (NP (JJ good) (NN grief))))))
+-19.900475607915 -61.352094908039
+(S1 (S (VP (VB like) (S (NP (JJ good) (NN grief))))))
+-19.968304166194 -58.302213599642
+(S1 (FRAG (IN like) (NP (ADJP (JJ good)) (NN grief))))
+-19.971693667241 -60.276959179118
+(S1 (X (NP (JJ like) (JJ good) (NN grief))))
+-19.988381125603 -63.928314326393
+(S1 (X (IN like) (NP (JJ good) (NN grief))))
+-20.013923958215 -62.556880254480
+(S1 (S (NP (VB like) (JJ good) (NN grief))))
+-20.081368153203 -59.774553973554
+(S1 (S (NP (IN like) (JJ good) (NN grief))))
+-20.111515415790 -60.612790591909
+(S1 (FRAG (PP (IN like) (NP (ADJP (JJ good)) (NN grief)))))
+-20.125268418578 -61.815490191406
+(S1 (FRAG (PP (IN like) (S (NP (JJ good) (NN grief))))))
+-20.188836111295 -62.157396811906
+(S1 (NP (JJ like) (ADJP (JJ good)) (NN grief)))
+-20.299531944542 -63.927109634563
+(S1 (S (NP (JJ like) (NN good) (NN grief))))
+-20.619437918849 -63.451996521465
+(S1 (S (PP (IN like) (NP (ADJP (JJ good)) (NN grief)))))
+-20.693247128310 -63.579593029693
+(S1 (S (VP (VB like) (NP (ADJP (JJ good)) (NN grief)))))
+-20.821434814634 -63.060617990416
+(S1 (NP (IN like) (ADJP (JJ good)) (NN grief)))
+-21.020546775342 -64.102858766692
+(S1 (FRAG (IN like) (NP (NP (JJ good)) (NN grief))))
+-21.110305698937 -65.132429286757
+(S1 (FRAG (PP (IN like) (NP (NP (JJ good)) (NN grief)))))
+-21.226629497758 -63.659130012936
+(S1 (S (VP (VB like) (ADVP (JJ good) (NN grief)))))
+-21.594578957156 -64.968518297706
+(S1 (X (NP (IN like) (JJ good) (NN grief))))
+-21.617634940331 -65.747133389647
+(S1 (VP (VB like) (S (NP (JJ good) (NN grief)))))
+-22.009919528124 -65.112224959514
+(S1 (VP (VB like) (NP (ADJP (JJ good)) (NN grief))))
+-22.627572096707 -66.114064044770
+(S1 (VP (VB like) (ADVP (JJ good) (NN grief))))
+-22.742484042978 -65.194777247649
+(S1 (FRAG (NP (JJ like) (ADJP (JJ good)) (NN grief))))
+

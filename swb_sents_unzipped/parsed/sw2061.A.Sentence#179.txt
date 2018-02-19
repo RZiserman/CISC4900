@@ -1,0 +1,102 @@
+50 x
+-35.180261629362 -117.852278003009
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-35.598152969062 -114.660659909479
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))
+-35.677236493004 -117.525603589661
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-35.788001098405 -121.862449293677
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (VP (POS 's) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-36.112186186225 -121.616802577747
+(S1 (S (NP (PRP I)) (VP (SYM B) (SBAR (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))))
+-36.438645401102 -118.852337966122
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (S (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-36.450963570671 -121.122339479602
+(S1 (S (NP (PRP I)) (VP (SYM B) (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-36.530077525926 -118.425184484217
+(S1 (S (NP (PRP I)) (VP (SYM B) (SBAR (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))))
+-36.609161049868 -121.290128164399
+(S1 (S (NP (PRP I)) (VP (SYM B) (SBAR (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))))
+-36.960259037425 -120.810465497661
+(S1 (S (NP (PRP I)) (X (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))
+-37.011255787971 -120.889576634250
+(S1 (S (NP (PRP I)) (SBAR (S (NP (NNP B) (NNP M)) (VP (VBZ says)))) (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))
+-37.293845223224 -122.039337946729
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RB away))))))))
+-37.311398021308 -117.131724356420
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away))))))))
+-37.370569930088 -122.616862540860
+(S1 (S (NP (PRP I)) (VP (SYM B) (SBAR (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (S (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))))
+-37.377606156080 -121.185910499938
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away)))))))))
+-37.455230198985 -121.725187373458
+(S1 (S (NP (PRP I)) (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))
+-37.512716704813 -120.746565062575
+(S1 (S (NP (PRP I)) (SBAR (X (SYM B)) (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-37.559807218489 -121.645872853932
+(S1 (S (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says))) (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))
+-37.599992628414 -120.562902220902
+(S1 (S (NP (PRP I)) (SBAR (S (NP (NNP B) (NNP M)) (VP (VBZ says)))) (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))
+-37.623150151305 -117.697958795025
+(S1 (S (NP (PRP I)) (SBAR (S (NP (NNP B) (NNP M)) (VP (VBZ says)))) (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))
+-37.917377310522 -120.859236086590
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away)))))))))
+-37.936434453070 -120.524120466350
+(S1 (S (NP (PRP I)) (VP (NNP B) (SBAR (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))))
+-37.972871672263 -122.856969377213
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (SBAR (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-38.032684153243 -121.546735132616
+(S1 (S (NP (PRP I)) (NP (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-38.148517864754 -121.319198440584
+(S1 (S (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says))) (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))
+-38.164771492092 -119.427393669728
+(S1 (FRAG (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-38.171701553945 -118.454255024632
+(S1 (S (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says))) (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))
+-38.308901007626 -123.128248255048
+(S1 (S (NP (PRP I) (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))
+-38.377215545467 -121.889636750901
+(S1 (S (NP (PRP I)) (SBAR (S (NP (NNP B) (NNP M)) (VP (VBZ says)))) (VP (VB let) (NP (PRP 's)) (S (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))
+-38.408890524222 -122.040563689688
+(S1 (FRAG (NP (PRP I)) (X (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-38.454418696474 -122.970078360612
+(S1 (S (NP (PRP I)) (VP (SYM B) (NP (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-38.582662831792 -116.235775576199
+(S1 (FRAG (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-38.661746355735 -119.100719256381
+(S1 (FRAG (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-38.775013720293 -120.896248931157
+(S1 (S (NP (PRP I)) (VP (SYM B) (SBAR (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away)))))))))))
+-38.807289685697 -122.185970571021
+(S1 (S (X (NP (PRP I)) (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (S (VP (VB throw) (NP (PRP it)) (PRT (RP away)))))))))
+-38.822636655673 -120.169023241966
+(S1 (S (NP (PRP I)) (SBAR (S (NP (NNP B) (NNP M)) (VP (VBZ says)))) (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away))))))
+-38.905865387865 -121.713889276340
+(S1 (FRAG (NP (PRP I)) (X (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-38.909240873922 -118.848945596158
+(S1 (FRAG (NP (PRP I)) (X (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))
+-38.925766892351 -122.645932811050
+(S1 (S (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says))) (VP (VB let) (NP (PRP 's)) (S (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))
+-39.371188086190 -120.925319471572
+(S1 (S (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says))) (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away))))))
+-39.423155235954 -120.427453632842
+(S1 (FRAG (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (S (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-39.596498068027 -122.945076820594
+(S1 (S (NP (PRP I)) (SBAR (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away))))))))))
+-39.629937125962 -123.040623652801
+(S1 (FRAG (NP (PRP I)) (X (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (S (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-39.889138810141 -122.077869544905
+(S1 (FRAG (X (NP (PRP I)) (SYM B)) (NP (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-40.061600847437 -122.995184913290
+(S1 (S (NP (PRP I)) (VP (NNP B) (SBAR (S (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away)))))))))))
+-40.280051148160 -118.706840023139
+(S1 (FRAG (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away)))))))))
+-40.281173793813 -122.637001332287
+(S1 (FRAG (NP (PRP I)) (S (X (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (ADVP (RB away)))))))))
+-40.346259310810 -122.761026166658
+(S1 (FRAG (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away))))))))))
+-40.438660970290 -121.320010043098
+(S1 (FRAG (NP (PRP I)) (X (SYM B)) (NP (NNP M)) (VP (VBZ says) (S (VP (VB let) (NP (PRP 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away))))))))
+-40.886030465252 -122.434351753310
+(S1 (FRAG (NP (PRP I)) (S (NP (NNP B) (NNP M)) (VP (VBZ says) (S (VP (VB let) (S (NP (POS 's)) (VP (VB throw) (NP (PRP it)) (PRT (RP away))))))))))
+

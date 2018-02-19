@@ -1,0 +1,102 @@
+50 x
+-10.190546468431 -34.806306688667
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))
+-12.642765940861 -45.054572353256
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))
+-13.827119723381 -51.181114432055
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG going) (S (VP (TO to) (VP (VB be)))))))))
+-14.323583696419 -47.429915302060
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (PP (TO to) (VP (VB be)))))))
+-14.582071476815 -51.045850517091
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB be)))))))))
+-14.586071305315 -53.423480249048
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG going) (S (VP (TO to) (VP (VB be)))))))))
+-15.211664353600 -48.809803441618
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (PP (TO to) (NP (VB be)))))))
+-15.641169198013 -53.859940534643
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (VP (TO to) (VP (VB be)))))))
+-15.868009498579 -55.707620824340
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG going) (PP (TO to) (VP (VB be))))))))
+-15.953258731960 -52.850602083680
+(S1 (S (NP (PRP he) (VBZ 's)) (VP (VBG going) (S (VP (TO to) (VP (VB be)))))))
+-16.093584509498 -48.751045621941
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB be)))))))
+-16.330044798489 -57.425146610688
+(S1 (S (NP (PRP he) (POS 's)) (VP (VBG going) (S (VP (TO to) (VP (VB be)))))))
+-16.414306470232 -50.335417499281
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB be)))))))))
+-16.528711310513 -57.949986641333
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG going) (PP (TO to) (VP (VB be))))))))
+-16.582653372422 -52.016286960728
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (S (TO to) (VP (VB be)))))))
+-16.682936454905 -57.160990248617
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG going) (PP (TO to) (VP (VB be)))))))
+-16.733697303202 -56.958706552930
+(S1 (S (NP (PRP he)) (VP (VP (VBZ 's)) (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))
+-16.736045086712 -61.850411622224
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB be))))))))))
+-16.756090155760 -57.087508962448
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (VP (VBG going) (PP (TO to) (NP (VB be))))))))
+-16.793426886458 -60.735890780529
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB be)))))))))
+-16.944630514855 -59.437985953324
+(S1 (S (NP (PRP he)) (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB be)))))))
+-17.080602051985 -57.146233280667
+(S1 (S (NP (PRP he)) (VP (POS 's) (NP (VBG going)) (S (VP (TO to) (VP (VB be)))))))
+-17.094268881902 -61.415559541473
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (SBAR (S (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))))
+-17.101239565097 -59.184970602132
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (NP (VBG going)) (VP (TO to) (VP (VB be)))))))
+-17.416791967694 -59.329874779440
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG going) (PP (TO to) (NP (VB be))))))))
+-17.475148777629 -56.773529460333
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (PP (TO to) (S (VP (VB be))))))))
+-17.524554574430 -56.317876883475
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (NP (VBG going)) (S (VP (TO to) (VP (VB be)))))))
+-17.571017112086 -58.540878388176
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG going) (PP (TO to) (NP (VB be)))))))
+-17.571287350546 -64.092777439216
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (S (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB be))))))))))
+-17.692243368856 -62.022582276270
+(S1 (S (NP (PRP he)) (VP (POS 's) (S (NP (VBG going)) (VP (TO to) (VP (VB be)))))))
+-17.753195648979 -55.913685929883
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (ADJP (VBG going)) (SBAR (S (VP (TO to) (VP (VB be))))))))
+-17.797751017318 -60.778969597141
+(S1 (S (NP (PRP he)) (VP (POS 's) (SBAR (S (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))))
+-18.089421538219 -57.377108421040
+(S1 (S (NP (PRP he) (VBZ 's)) (VP (VBG going) (PP (TO to) (VP (VB be))))))
+-18.243541467075 -62.608570698175
+(S1 (NP (NP (PRP he) (POS 's)) (VP (VBG going) (S (VP (TO to) (VP (VB be)))))))
+-18.276950615345 -57.500192924039
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (SBAR (TO to) (S (VP (VB be))))))))
+-18.483650034748 -61.951652948048
+(S1 (S (NP (PRP he) (POS 's)) (VP (VBG going) (PP (TO to) (VP (VB be))))))
+-18.700367839201 -63.519899177796
+(S1 (S (NP (PRP he) (VBZ 's)) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB be))))))))
+-18.714478717330 -61.967161810436
+(S1 (NP (NP (PRP he) (VBZ 's)) (VP (VBG going) (S (VP (TO to) (VP (VB be)))))))
+-18.828883545400 -58.756996559148
+(S1 (S (NP (PRP he) (VBZ 's)) (VP (VBG going) (PP (TO to) (NP (VB be))))))
+-18.919383842662 -60.583683163871
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB be)))))))))
+-18.932505263125 -63.754914644952
+(S1 (S (NP (PRP he)) (VP (VP (POS 's)) (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))
+-18.955904332639 -62.264552625317
+(S1 (S (NP (PRP he)) (VP (POS 's) (VP (VBG going) (S (TO to) (VP (VB be)))))))
+-19.017209556689 -63.964492307606
+(S1 (S (NP (PRP he)) (VBZ 's) (VP (VBG going) (PP (TO to) (VP (VB be))))))
+-19.060096251637 -60.075829286061
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (PP (VBG going) (PP (TO to) (VP (VB be)))))))
+-19.223112041929 -63.331541086156
+(S1 (S (NP (PRP he) (POS 's)) (VP (VBG going) (PP (TO to) (NP (VB be))))))
+-19.396457940187 -60.692124991953
+(S1 (S (NP (PRP he)) (VP (POS 's) (PP (VBG going) (PP (TO to) (VP (VB be)))))))
+-19.545881642068 -59.606668738990
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (PP (VBG going) (PP (TO to) (NP (VB be)))))))
+-19.882243330619 -60.222964444881
+(S1 (S (NP (PRP he)) (VP (POS 's) (PP (VBG going) (PP (TO to) (NP (VB be)))))))
+-20.018897148440 -63.983631989371
+(S1 (S (NP (NP (PRP he) (POS 's)) (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))
+-21.322461369482 -62.746044652575
+(S1 (S (NP (PRP he)) (VP (VBZ 's) (ADJP (VBG going)) (PP (TO to) (VP (VB be))))))
+

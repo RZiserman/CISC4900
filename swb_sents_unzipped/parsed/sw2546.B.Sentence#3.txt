@@ -1,0 +1,102 @@
+50 x
+-20.981050920674 -70.430541785887
+(S1 (S (ADVP (RB probably)) (NP (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-21.311626425929 -74.080683756472
+(S1 (NP (NP (ADJP (RB probably) (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-22.450352505857 -76.914253676755
+(S1 (S (ADVP (RB probably)) (NP (NP (JJ pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-22.613055325726 -79.967307350213
+(S1 (S (ADJP (RB probably) (JJ pretty)) (NP (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-22.683567557304 -76.928057895712
+(S1 (NP (NP (RB probably) (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-22.717495618336 -74.201760744145
+(S1 (S (ADVP (RB probably)) (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-22.726918084691 -74.140683298332
+(S1 (FRAG (ADVP (RB probably)) (NP (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-22.972923691747 -76.464748612723
+(S1 (NP (ADVP (RB probably)) (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-23.127131478033 -73.966405871652
+(S1 (S (NP (NP (ADJP (RB probably) (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.220442203561 -73.412704695491
+(S1 (FRAG (RB probably) (NP (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.366730166048 -80.550137879169
+(S1 (NP (NP (ADJP (ADVP (RB probably)) (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-23.374786693400 -78.613555612432
+(S1 (S (ADVP (RB probably)) (ADJP (RB pretty) (JJ similar)) (NP (NP (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.446139717166 -74.482073408420
+(S1 (FRAG (RB probably) (RB pretty) (NP (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.539328974337 -76.827620691430
+(S1 (S (ADVP (RB probably)) (NP (NP (RB pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.602460026072 -77.432425332484
+(S1 (S (NP (ADJP (RB probably) (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-23.625598131748 -76.722444757462
+(S1 (X (ADVP (RB probably)) (NP (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.734014402267 -76.310215666752
+(S1 (FRAG (NP (NP (ADJP (RB probably) (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.765868136509 -79.696908505615
+(S1 (NP (NP (RB probably) (RB pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-23.817803257268 -79.493038108096
+(S1 (S (ADVP (RB probably) (RB pretty)) (NP (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.848597938488 -80.008958654376
+(S1 (NP (NP (ADJP (ADVP (RB probably) (RB pretty)) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-23.898579283288 -78.017165527842
+(S1 (FRAG (ADVP (RB probably)) (RB pretty) (NP (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.924264168183 -78.073726141066
+(S1 (S (ADJP (RB probably) (RB pretty) (JJ similar)) (NP (NP (NNS views)) (PP (IN on) (NP (PRP it))))))
+-23.965678641204 -80.624395410381
+(S1 (FRAG (ADVP (RB probably)) (NP (NP (JJ pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-24.083981764449 -79.816853850195
+(S1 (FRAG (ADVP (RB probably) (RB pretty)) (NP (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-24.163149390042 -80.771404881867
+(S1 (NP (RB probably) (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-24.459989276875 -79.896416807540
+(S1 (FRAG (RB probably) (NP (NP (JJ pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-24.490648262943 -75.290223473378
+(S1 (S (ADVP (RB probably)) (NP (NP (ADJP (JJ pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-24.495128941710 -76.813780092600
+(S1 (S (NP (NP (RB probably) (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-24.610129034767 -79.328536803651
+(S1 (FRAG (ADVP (RB probably)) (ADJP (RB pretty) (JJ similar)) (NP (NP (NNS views)) (PP (IN on) (NP (PRP it))))))
+-24.626764330380 -77.609721718916
+(S1 (FRAG (RB probably) (RB pretty) (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-24.764114617268 -80.062079061088
+(S1 (ADVP (RB probably) (NP (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-24.796137543788 -80.711832771028
+(S1 (S (ADVP (RB probably)) (NP (RB pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-24.801903681906 -80.761433822907
+(S1 (FRAG (ADVP (RB probably)) (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-24.806987014971 -80.916795112529
+(S1 (S (ADVP (RB probably)) (VP (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-25.006942999608 -79.068661913273
+(S1 (S (ADVP (RB probably)) (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (VP (IN on) (NP (PRP it)))))
+-25.020692488042 -79.466319537522
+(S1 (FRAG (RB probably) (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-25.044376188328 -80.983208739688
+(S1 (FRAG (ADVP (RB probably)) (RB pretty) (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-25.105955583822 -79.157589992422
+(S1 (FRAG (NP (NP (RB probably) (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-25.120458509200 -80.537762493633
+(S1 (FRAG (ADVP (RB probably)) (NP (NP (RB pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-25.346171068152 -80.435859994350
+(S1 (S (NP (NP (ADJP (ADVP (RB probably)) (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-25.519203797118 -81.119555352507
+(S1 (ADVP (RB probably) (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-25.613982628070 -79.809783890792
+(S1 (FRAG (RB probably) (NP (NP (RB pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-25.616598101576 -79.526491419859
+(S1 (FRAG (CONJP (RB probably) (RB pretty)) (NP (NP (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-25.811451851401 -79.582630629623
+(S1 (S (NP (NP (RB probably) (RB pretty) (JJ similar) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-25.837740803380 -79.894680769556
+(S1 (S (NP (NP (ADJP (ADVP (RB probably) (RB pretty)) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-26.125162153393 -79.061442431636
+(S1 (S (ADVP (RB probably)) (NP (ADJP (JJ pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it)))))
+-26.125164128747 -79.000364985824
+(S1 (FRAG (ADVP (RB probably)) (NP (NP (ADJP (JJ pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-26.279042073393 -81.020573469805
+(S1 (S (NP (RB probably)) (NP (NP (ADJP (RB pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-26.619474761630 -78.272386382982
+(S1 (FRAG (RB probably) (NP (NP (ADJP (JJ pretty) (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+-27.962729332087 -79.655628426768
+(S1 (FRAG (RB probably) (RB pretty) (NP (NP (ADJP (JJ similar)) (NNS views)) (PP (IN on) (NP (PRP it))))))
+

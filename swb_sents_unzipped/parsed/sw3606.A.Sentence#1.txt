@@ -1,0 +1,102 @@
+50 x
+-18.576301369976 -63.771258663719
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows))))))
+-19.242532259356 -65.159842462519
+(S1 (S (WHNP (WP What)) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))
+-19.788092080775 -64.104238345233
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite))))) (VP (VBZ shows))))
+-20.208299108857 -65.639254990728
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))))
+-20.271708839470 -70.321145074993
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite) (NNS shows))))))
+-20.656441009344 -69.688626092971
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows))))))
+-20.780309003262 -64.425291354650
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite))))) (VP (VBZ shows))))
+-20.834479458850 -71.709728873793
+(S1 (S (WHNP (WP What)) (VP (VBP are) (NP (PRP$ your) (NN favorite) (NNS shows)))))
+-20.931183550603 -70.531716052482
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (SBAR (S (NP (PRP$ your) (NN favorite)) (VP (VBZ shows))))))))
+-20.949269408166 -71.920299696897
+(S1 (S (WHNP (WP What)) (VP (VBP are) (SBAR (S (NP (PRP$ your) (NN favorite)) (VP (VBZ shows)))))))
+-21.036735057364 -69.137078485300
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (VBZ shows))))))
+-21.215260151956 -70.525662284100
+(S1 (S (WHNP (WP What)) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (VBZ shows)))))
+-21.337714447576 -74.535904363777
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (JJ your) (JJ favorite) (NNS shows))))))
+-21.440612961665 -70.529121649576
+(S1 (S (WHNP (WDT What)) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))
+-21.481232959436 -67.373507258441
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows))))))
+-21.905257878351 -72.189141402001
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite) (NNS shows)))))))
+-22.141495012957 -75.924488162576
+(S1 (S (WHNP (WP What)) (VP (VBP are) (NP (JJ your) (JJ favorite) (NNS shows)))))
+-22.155300614650 -74.029717243761
+(S1 (S (WHNP (WP What)) (VP (VBP are) (NP (PRP$ your) (NN favorite) (VBZ shows)))))
+-22.200618727770 -72.641133444961
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite) (VBZ shows))))))
+-22.250395263868 -71.432932950738
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))))
+-22.321417185218 -72.659110549213
+(S1 (S (NP (WP What)) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))
+-22.351848478838 -76.238512504244
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite) (NNS shows))))))
+-22.363316432984 -72.399712379490
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (SBAR (S (NP (PRP$ your) (NN favorite)) (VP (VBZ shows)))))))))
+-22.468867936957 -71.005074812309
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (VBZ shows)))))))
+-22.633547701697 -74.479631367583
+(S1 (SBAR (WDT What) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows))))))
+-22.656870167412 -69.692598683171
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP are)))) (NP (PRP$ your) (NN favorite)) (VP (VBZ shows))))
+-22.915236688929 -73.923393669715
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite) (NNS shows))))))
+-22.969712186458 -76.403900690785
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (JJ your) (JJ favorite) (NNS shows)))))))
+-23.132701310080 -74.739992404820
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (JJ your) (NN favorite))))) (VP (VBZ shows))))
+-23.183800541971 -76.449083481733
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP are) (SBAR (S (NP (PRP$ your) (NN favorite)) (VP (VBZ shows))))))))
+-23.206515074048 -74.133964582309
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (SBAR (S (NP (PRP$ your) (NN favorite)) (VP (VBZ shows))))))))
+-23.233381805944 -75.054445914552
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (VBZ shows))))))
+-23.402166595535 -72.739327080022
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (VBZ shows))))))
+-23.449393195825 -72.780969840401
+(S1 (FRAG (WHNP (WP What)) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))
+-23.513177472614 -73.952449623823
+(S1 (FRAG (WHNP (WDT What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows))))))
+-23.557414656203 -72.701885009942
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (ADJP (JJ favorite)) (NNS shows))))))
+-23.605882999265 -75.894941471157
+(S1 (S (WHNP (WDT What)) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (VBZ shows)))))
+-23.632751610151 -74.509129771969
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite) (VBZ shows)))))))
+-23.633707080266 -76.672188484044
+(S1 (SBAR (WHNP (WP What)) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))
+-23.662189998321 -73.156453296827
+(S1 (FRAG (WP What) (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))
+-23.702098768491 -75.497642353453
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite))))) (VP (NNS shows))))
+-23.951742596265 -75.845823369108
+(S1 (FRAG (WHNP (WP What)) (SBAR (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (NNS shows)))))))
+-24.267133415583 -74.090468808742
+(S1 (S (WHNP (WP What)) (VP (VBP are) (NP (PRP$ your) (ADJP (JJ favorite)) (NNS shows)))))
+-24.373278258229 -76.243382039683
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (NN favorite) (VBZ shows))))))
+-24.627471203968 -76.798752772319
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite) (VBZ shows)))))))
+-24.726042296676 -76.771224182358
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (NP (PRP$ your) (JJ favorite)) (NP (NNS shows)))))))
+-24.847661545765 -75.818695362870
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (JJ favorite))))) (VP (NNS shows))))
+-25.189412395084 -74.569881336950
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (ADJP (JJ favorite)) (NNS shows)))))))
+-25.561367758347 -76.711073589065
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (ADJP (JJ favorite)))))) (VP (VBZ shows))))
+-26.505834112874 -76.304133604664
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (NP (PRP$ your) (ADJP (JJ favorite)) (NNS shows))))))
+

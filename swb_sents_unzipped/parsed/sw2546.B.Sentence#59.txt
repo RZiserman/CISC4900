@@ -1,0 +1,102 @@
+50 x
+-46.434316478481 -155.534713266156
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (NP (NP (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-46.640122653861 -154.121260915075
+(S1 (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-47.009576785636 -156.872576403767
+(S1 (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (RB also) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-47.410111595326 -154.528941588995
+(S1 (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (RB also) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-47.808449100334 -149.572493562540
+(S1 (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CONJP (CC but) (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-47.878314468221 -157.260244660758
+(S1 (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (PP (ADVP (ADVP (RB also)) (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-48.033946364966 -157.912799715453
+(S1 (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also) (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-48.085800843953 -154.710290752775
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (NP (NP (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-48.140750320066 -157.381637822341
+(S1 (FRAG (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-48.247467326033 -157.928345072903
+(S1 (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (ADVP (RB also)) (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-48.291607019334 -153.296838401694
+(S1 (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-48.424182146182 -157.181703709241
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (NP (NP (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))))) (CC but) (ADVP (RB also)) (ADJP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-48.499447146604 -153.358359832686
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-48.577166321776 -155.270400210663
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (NP (NP (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-48.629988349441 -155.768251358160
+(S1 (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (ADJP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-48.673139667206 -154.975970153963
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (RB indirectly) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-48.723187735649 -156.915905267903
+(S1 (ADVP (ADVP (RB not) (RB only)) (PP (IN of) (RB indirectly) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (RB also) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-48.733884689070 -157.222095658477
+(S1 (FRAG (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (RB also) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-48.772487750525 -156.965122645571
+(S1 (ADVP (RB not) (RB only) (PP (IN of) (RB indirectly) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (RB also) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-48.782972525034 -153.856947859582
+(S1 (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-49.135126841956 -152.265647841492
+(S1 (FRAG (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CONJP (CC but) (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-49.241665727811 -157.829281381904
+(S1 (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CONJP (CC but) (RB also) (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-49.440271804537 -156.740177321830
+(S1 (S (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CONJP (CC but) (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-49.445337398652 -157.478035591622
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (ADVP (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-49.487123932395 -156.869259286912
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (NP (NP (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))))) (CC but) (ADVP (RB also)) (PP (RB indirectly) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-49.526010963970 -156.965459455820
+(S1 (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CONJP (CC but) (RB also)) (PP (ADVP (RB indirectly)) (IN by) (IN that) (NP (JJ indirect) (NN involvement)))))
+-49.542119233987 -157.691809192423
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (RB indirectly) (PP (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-49.543836669143 -154.342444614591
+(S1 (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CONJP (CC but) (RB also)) (PP (RB indirectly) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-49.692930107775 -155.455806935831
+(S1 (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (PP (RB indirectly) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-49.803574467410 -156.597891948221
+(S1 (FRAG (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-50.000074812809 -156.618736739952
+(S1 (FRAG (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-50.037015957709 -157.149898633064
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also) (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-50.150931512077 -152.533937319305
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-50.250536918776 -157.165443990514
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (ADVP (RB also)) (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-50.283600163361 -157.117324729690
+(S1 (FRAG (UCP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))))
+-50.324624004800 -154.151547640583
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (RB indirectly) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-50.489312842184 -155.005350275771
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADJP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-50.642297017777 -153.094046777193
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-50.663005334907 -156.622960597048
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (RB indirectly) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADJP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-50.815989510501 -154.711657098470
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (RB indirectly) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-50.870514438643 -157.035598893543
+(S1 (FRAG (PP (CONJP (RB not) (RB only) (IN of) (RB indirectly)) (PP (IN of) (NP (DT the) (NN crime))) (CONJP (CC but) (RB also)) (PP (RB indirectly) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-51.016668994069 -157.871785275652
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (RB also) (ADVP (RB indirectly)) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-51.552254628396 -154.692905853442
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (RB indirectly) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-51.662898988031 -155.834990865832
+(S1 (FRAG (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-51.725947121120 -156.310516174719
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (RB indirectly) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (RB indirectly) (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))
+-51.836591480755 -157.452601187110
+(S1 (FRAG (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (RB indirectly) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (PP (ADVP (RB indirectly)) (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-52.142924656104 -156.354423647301
+(S1 (FRAG (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))))
+-52.316617176706 -157.972033968579
+(S1 (FRAG (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (RB indirectly) (IN of) (NP (DT the) (NN crime)))) (CC but) (ADVP (RB also)) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))))
+-52.998923496229 -157.571661461384
+(S1 (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (RB also) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement))))))
+-53.620326243516 -157.678196361860
+(S1 (FRAG (UCP (CONJP (RB not) (RB only)) (PP (IN of) (PP (ADVP (RB indirectly)) (IN of) (NP (DT the) (NN crime)))) (CC but) (RB also) (ADVP (RB indirectly) (PP (IN by) (NP (DT that) (JJ indirect) (NN involvement)))))))
+

@@ -1,0 +1,102 @@
+50 x
+-23.131141727978 -89.671691906263
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-24.841096511169 -92.128748922932
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-24.931459415239 -94.316491861536
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-25.498601783325 -97.526222832809
+(S1 (S (PP (IN in) (NP (NN fact))) (SBAR (S (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-25.559934057067 -95.816951457541
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (PRT (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-25.704973841191 -96.756097957153
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBN stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-26.063798323967 -96.492188072571
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-26.145874770805 -94.554298441300
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (PP (ADVP (RB there)) (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-26.509087179436 -100.046411552514
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBN stayed) (NP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-26.564227318430 -96.773548873643
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (NP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-26.679312521971 -100.067167052463
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-26.721662941839 -100.253550479624
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (EX there) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-26.739684462729 -98.313722716376
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (ADVP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-26.923459082461 -99.746065881185
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-27.070968028215 -95.827798354814
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-27.301514774075 -98.274008615570
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (PRT (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-27.412918777754 -97.011355319719
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (PP (ADVP (RB there)) (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-27.658224946878 -98.784413039883
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-27.717718065851 -98.687303477257
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (PP (RB there) (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-27.745853248185 -100.391351248517
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there))) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))
+-27.851032393331 -103.206252808126
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBN stayed) (ADVP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.000846588794 -98.949245047804
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-28.100803164517 -101.858750573146
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBN stayed) (NP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-28.201925596161 -102.171022779902
+(S1 (S (PP (IN in) (NP (NN fact))) (SBAR (S (NP (PRP we)) (VP (VBD stayed) (NP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-28.246977170325 -100.063529309110
+(S1 (FRAG (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.449639237556 -100.770779733046
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (ADVP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.493834500252 -102.524224242512
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (NP (NP (EX there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-28.494291047998 -102.710607669672
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (NP (EX there) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-28.536987764548 -101.614139608250
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBN stayed) (PP (ADVP (RB there)) (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-28.571138017801 -97.339930223711
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (ADJP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.589675246491 -101.877801421577
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (PP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.680521154939 -102.203122913182
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.701842669425 -102.408829250068
+(S1 (S (PP (IN in) (NP (NN fact))) (SBAR (S (NP (PRP we)) (VP (VBD stayed) (PP (ADVP (RB there)) (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-28.703735934193 -98.284855366921
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (NP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.740927218527 -103.531822522704
+(S1 (SBAR (IN in) (NN fact) (S (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-28.766770989990 -103.671482405325
+(S1 (S (PP (IN in) (NP (NN fact))) (SBAR (S (NP (PRP we)) (VP (VBD stayed) (PRT (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-28.786232680289 -99.795520319638
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (PP (ADVP (EX there)) (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-28.811559031404 -101.976630325480
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (ADVP (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-29.193374325966 -100.744990235797
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (S (ADJP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-29.200292186815 -102.196894457406
+(S1 (FRAG (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-29.304795667783 -103.462113183777
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (EX there))) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))
+-29.440987683952 -101.144360355676
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (PP (RB there) (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-29.472746941886 -101.241470229932
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (NP (NP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-29.794963516053 -102.316734600387
+(S1 (S (PP (IN in) (NP (NN fact))) (VP (VBP we) (VP (VBN stayed) (ADVP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-30.053276687239 -102.252577198057
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (PP (ADVP (EX there)) (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+-30.341434211925 -103.682329273181
+(S1 (S (PP (IN in) (NP (NN fact))) (SBAR (S (NP (PRP we)) (VP (VBD stayed) (NP (RB there)) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-30.402360403780 -99.796987240942
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (ADJP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon))))))))
+-30.508200265924 -100.785001699232
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (PP (NP (RB there)) (IN on) (NP (PRP$ our) (NN honeymoon))))))
+-30.964733283369 -103.202047203227
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (S (ADJP (RB there) (PP (IN on) (NP (PRP$ our) (NN honeymoon)))))))))
+-31.906357448449 -103.242058577651
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP we)) (VP (VBD stayed) (PP (NP (RB there)) (IN on) (NP (PRP$ our) (NN honeymoon)))))))
+

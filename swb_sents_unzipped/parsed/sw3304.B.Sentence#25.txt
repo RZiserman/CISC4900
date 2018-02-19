@@ -1,0 +1,102 @@
+50 x
+-62.749425136670 -199.304139477525
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RB around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.087932117325 -202.024338762061
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RB around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NNS techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.088780712619 -198.925961039837
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RB around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.314211284689 -203.254372921358
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (PP (IN around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.425486568618 -201.935387723041
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RB around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh)) (INTJ (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.574564456721 -201.237662817994
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (IN around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.615623648214 -202.038720279707
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (S (CC or) (ADVP (RB else)) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.686855855549 -202.706712897713
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (PRT (RP around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.728514279584 -202.080914137790
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VB get) (ADVP (RB around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.764842116689 -201.557209059944
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RB around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh)) (INTJ (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.784308288516 -202.876194483670
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (PP (IN around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-63.995187754433 -201.102490807536
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (RB else) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-63.996824553419 -200.335506663150
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (ADVP (RB around)) (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-64.044661460548 -200.859484380306
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (IN around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-64.050726966612 -202.877227982583
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (ADVP (RB around)) (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))))
+-64.067869883410 -201.702735654599
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VB get) (ADVP (RB around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-64.120971513892 -201.101657546984
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (ADVP (RB else)) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-64.141288559376 -202.328534460025
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (PRT (RP around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-64.284778863464 -199.998016021996
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RB around)))) (CC and) (FRAG (CC and) (NP (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-64.313170174083 -203.152086477240
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (S (CC or) (RB else) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-64.616678676274 -200.930751720751
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (IN around) (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-64.670581173101 -203.472473299056
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (IN around) (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))))
+-64.673434221619 -202.375988619510
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (INTJ (JJ else) (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-64.720722836740 -203.490732400413
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (IN around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh)) (INTJ (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-64.766520406140 -200.168923768183
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (ADVP (IN around)) (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-64.820422819333 -202.710645087616
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (ADVP (IN around)) (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))))
+-64.901989967071 -201.544258546938
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (ADVP (CC or) (RB else)) (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-64.910385815835 -202.855628782759
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (ADVP (CC and)) (VB talk) (NP (NN techy))))) (CC or) (S (CC or) (ADVP (RB else)) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-64.965378783623 -203.389491343701
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RP around)))) (CC and) (S (CC and) (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-65.027388275098 -203.087207716696
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (IN around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (RB else) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-65.089603941392 -201.931539362465
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (IN around)))) (CC and) (FRAG (CC and) (NP (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-65.134941735901 -202.647864678597
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VB get) (ADVP (RB around)))) (CC and) (S (CC and) (S (VP (VB talk) (ADJP (JJ techy)))) (CC or) (S (FRAG (CC or) (RB else) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know))))))
+-65.145837668226 -203.350585364174
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RB around)))) (CC and) (FRAG (CC and) (NP (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (SBAR (S (INTJ (UH uh)) (INTJ (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-65.153172062435 -203.086374456143
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (IN around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (ADVP (RB else)) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-65.219425397546 -201.995519724750
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (PRT (RP around)) (UCP (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-65.260328351979 -203.381501038499
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VB get) (ADVP (IN around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-65.260725495361 -202.647031418044
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VB get) (ADVP (RB around)))) (CC and) (S (CC and) (S (VP (VB talk) (ADJP (JJ techy)))) (CC or) (S (FRAG (CC or) (ADVP (RB else)) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know))))))
+-65.289949922055 -201.919399310589
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (ADVP (CC and)) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (RB else) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-65.316977512343 -203.400589442185
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (PRT (RP around)))) (CC and) (FRAG (CC and) (NP (NP (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-65.415733709392 -201.918566050036
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (ADVP (CC and)) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (ADVP (RB else)) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-65.419811487449 -203.011312906013
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (ADVP (RP around)))) (CC and) (S (NP (CC and) (NP (NN talk) (NN techy)) (CC or) (NP (QP (CC or) (RB else)))) (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-65.478453503777 -202.943999240364
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VB talk) (UCP (NN techy) (CC or) (CC or) (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))))))
+-65.649623183025 -203.521493113434
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (ADVP (IN around)) (CC and) (CC and) (NN talk) (NN techy) (CC or) (CC or) (RB else) (SBAR (S (INTJ (UH uh)) (INTJ (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-65.934190515614 -203.528975456097
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (IN around))) (CC and) (VP (CC and) (VB talk) (NP (NN techy))))) (CC or) (ADVP (CC or) (RB else)) (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-65.968196389241 -203.192897122563
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (ADVP (CC and)) (VB talk) (NP (NN techy))))) (CC or) (S (FRAG (CC or) (INTJ (JJ else) (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know)))))
+-65.995482075350 -203.475749982402
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VBP get) (UCP (ADVP (IN around)) (CC and) (CC and) (NN talk) (JJ techy) (CC or) (CC or) (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))
+-66.196752134693 -202.361167049990
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (ADVP (CC and)) (VB talk) (NP (NN techy))))) (CC or) (ADVP (CC or) (RB else)) (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know)))))
+-66.293571284527 -203.570394919033
+(S1 (S (S (NP (PRP They)) (ADVP (RB just)) (VP (VB get) (ADVP (RB around)))) (CC and) (S (CC and) (S (VP (VB talk) (NP (NN techy)))) (CC or) (S (FRAG (CC or) (ADVP (RB else)) (INTJ (UH uh) (UH uh))) (NP (PRP you)) (VP (VBP know))))))
+-67.097083441190 -201.854719455065
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VP (VB talk) (ADJP (JJ techy))) (CC or) (PRN (CC or) (ADJP (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))))
+-68.132850037284 -202.559295979575
+(S1 (S (NP (PRP They)) (ADVP (RB just)) (VP (VP (VB get) (ADVP (RB around))) (CC and) (VP (CC and) (VP (VB talk) (NP (NN techy))) (CC or) (PRN (CC or) (ADJP (RB else) (SBAR (S (INTJ (UH uh) (UH uh)) (NP (PRP you)) (VP (VBP know))))))))))
+

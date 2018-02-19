@@ -1,0 +1,102 @@
+50 x
+-29.549903417044 -95.982496364369
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-29.609471688610 -93.785263706013
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-29.704178947943 -95.430448044240
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-29.746325344596 -93.084328754064
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-30.608771955581 -99.103409683768
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-30.668340227146 -96.906177025412
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-30.763047486479 -98.551361363639
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-30.805193883133 -96.205242073462
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-30.827604290098 -96.505060281821
+(S1 (FRAG (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.006314739167 -98.070735081872
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-31.106607735736 -100.857502050932
+(S1 (FRAG (IN So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.135958333942 -99.717209224583
+(S1 (SBAR (ADVP (RB So)) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-31.137889970066 -97.518686761742
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-31.162225524109 -97.411136524533
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WP what) (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-31.267425698194 -100.309304134839
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WP what) (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))
+-31.312952490587 -96.899675850086
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.326993978123 -98.112071476483
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WP what) (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-31.340409349361 -96.198740898136
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.366080495714 -100.688975451007
+(S1 (FRAG (CC So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.421701237456 -99.757255814710
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WP what) (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))
+-31.504231493207 -96.794513586661
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.609431675655 -99.692681196967
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-31.668999944433 -97.495448538611
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.763707206553 -99.140632876837
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-31.865473902434 -101.870491660950
+(S1 (ADVP (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-31.886472828634 -99.625973601220
+(S1 (FRAG (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-32.194826861327 -102.838122543982
+(S1 (SBAR (ADVP (RB So)) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-32.305513609042 -99.939238951595
+(S1 (FRAG (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-32.415901825386 -101.513279723302
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (X (WP what)) (NP (PRP we)) (VP (VBP deserve)))))))))
+-32.500577627704 -101.191648401271
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-32.545126593550 -100.831868052291
+(S1 (FRAG (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WP what) (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-32.552755498099 -100.812344771353
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (X (WP what)) (NP (PRP we)) (VP (VBP deserve)))))))))
+-32.569669344914 -101.805447942086
+(S1 (SBAR (ADVP (RB So)) (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-32.570091214863 -99.619472425894
+(S1 (FRAG (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-32.605652555274 -99.896124103093
+(S1 (FRAG (SBAR (ADVP (RB So)) (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-32.632152864178 -100.639600081141
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-32.731370272289 -102.244327163314
+(S1 (ADJP (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-32.743175674928 -100.042886272820
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WDT what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-32.770466950137 -102.854693515279
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (X (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-32.807215387487 -100.020589169485
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-32.834672237897 -99.319654217535
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-32.848810118588 -102.941053883125
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WDT what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-32.887132543133 -100.215245114419
+(S1 (FRAG (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-32.907320622850 -102.153758563330
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (X (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-32.908378376215 -100.743821224769
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WDT what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-32.940133853935 -101.127010702950
+(S1 (S (ADVP (RB So) (IN if)) (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))
+-33.003085655062 -102.389005562996
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP we)) (VP (VBP get) (NP (WHNP (WDT what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-33.899062321504 -99.933066086807
+(S1 (FRAG (RB So) (SBAR (WHNP (IN if)) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+-34.064354089460 -102.740385745293
+(S1 (FRAG (SBAR (IN So) (IN if) (S (NP (PRP we)) (VP (VB get) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve)))))))))))
+-34.235560003546 -100.622301584682
+(S1 (FRAG (ADVP (RB So)) (SBAR (WHNP (IN if)) (S (NP (PRP we)) (VP (VBP get) (SBAR (WHNP (WP what)) (S (VP (VBP we) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP deserve))))))))))))
+

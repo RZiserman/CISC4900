@@ -1,0 +1,102 @@
+50 x
+-26.663615150203 -85.211973383541
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-27.011161914410 -87.078799912669
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-27.053611338105 -86.109748892343
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-28.322304470959 -86.854966702276
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-28.523384016995 -91.298737757819
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries))))))))
+-28.870930781202 -93.165564286947
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries))))))))
+-28.913380204897 -92.196513266621
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries))))))))
+-29.057612925221 -95.995149859536
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (NP (NN nobody) (NNS taxes) (NNS groceries)))))
+-29.118927551454 -88.981921252622
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))))
+-29.189560450391 -89.556730306037
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))))
+-29.405159689428 -97.861976388663
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP mean) (NP (NN nobody) (NNS taxes) (NNS groceries)))))
+-29.447609113123 -96.892925368338
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP mean) (NP (NN nobody) (NNS taxes) (NNS groceries)))))
+-29.512368607975 -91.821077582418
+(S1 (S (NP (RB Well) (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-29.619605871727 -94.952444454580
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))
+-29.693220429702 -93.709695326395
+(S1 (SBAR (RB Well) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))))
+-29.796827365776 -92.719159066709
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-29.893904283178 -96.083290192604
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries)))))))
+-29.967152635933 -96.819270983708
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))
+-30.009602059629 -95.850219963382
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))
+-30.144374129982 -94.585985595837
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-30.182073337751 -92.941731076554
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries))))))))
+-30.186823553678 -93.616934575511
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-30.283900471080 -96.981065701407
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries)))))))
+-30.365465243087 -93.862656440314
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (NP (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-30.511570129088 -93.706795258780
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))))))
+-30.602369581296 -95.109359788782
+(S1 (SQ (RB Well) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-30.637415771330 -95.463566557666
+(S1 (S (ADVP (UH Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-30.702886106299 -93.065931856071
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))))
+-30.713012007294 -95.729482969442
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP mean) (NP (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-30.716302245977 -97.638143178270
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP mean) (NP (NN nobody) (NNS taxes) (NNS groceries)))))
+-30.746492300157 -92.492046803484
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))))
+-30.755461430989 -94.760431949116
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP mean) (NP (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-30.780848221082 -96.977936866806
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-30.955243963211 -96.377918908701
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-30.984099350246 -95.068685626900
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries)))))))))
+-31.054732246396 -95.643494680315
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries)))))))))
+-31.109605954156 -96.830580381812
+(S1 (S (RB Well) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-31.261540739718 -94.348212271449
+(S1 (FRAG (SBAR (RB Well) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))))
+-31.278295192483 -96.595437773314
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))
+-31.372137474767 -97.907841956696
+(S1 (S (NP (RB Well) (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries))))))))
+-31.455516686532 -94.362152385443
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-31.552593603934 -97.726283511339
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (VP (NNS taxes) (NP (NNS groceries)))))))
+-31.573280971491 -95.036005740123
+(S1 (FRAG (ADVP (RB Well)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))))
+-31.749776505207 -97.281003681690
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (NP (NNS taxes) (NNS groceries)))))))
+-32.024154563843 -95.505649759048
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP mean) (NP (NP (NN nobody)) (NP (NNS taxes) (NNS groceries))))))
+-32.122436760751 -94.157242705187
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries)))))))))))
+-32.336099662418 -97.459202774242
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (NN nobody)) (VP (VBZ taxes) (NP (NNS groceries))))))))
+-32.370888967695 -96.489106721525
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (NP (NNS taxes) (NNS groceries)))))))
+-32.441521863845 -97.063915774940
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP mean) (S (NP (NN nobody)) (NP (NNS taxes) (NNS groceries)))))))
+-32.563665067794 -97.632604104649
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP mean) (NP (NP (NN nobody)) (NP (NNS taxes) (NNS groceries)))))))
+

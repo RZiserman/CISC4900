@@ -1,0 +1,102 @@
+50 x
+-12.695923180999 -51.066228830328
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (DT that) (NN part)))))
+-14.730321215957 -54.783861456843
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (DT that) (NN part))))))
+-16.152428913508 -62.116089513698
+(S1 (S (CC but) (NP (PRP he)) (VP (NNS controls) (NP (DT that) (NN part)))))
+-16.818081704779 -54.181625569354
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (IN that) (NN part)))))
+-17.041124726780 -55.737448014175
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (DT that) (NN part))))))
+-17.578336419008 -60.123473131614
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (WDT that) (NN part)))))
+-17.651421771045 -60.205835178416
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (NP (DT that)) (NN part)))))
+-17.801158398267 -62.479986346977
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (DT that) (NN part))))))
+-17.949431246786 -66.341037031652
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (PP (IN that) (NP (NN part))))))
+-17.961725345827 -63.060244037018
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls)) (PP (IN that) (NP (NN part)))))
+-18.109559236377 -62.296175936903
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (RB that) (NN part)))))
+-18.309656246601 -61.541312122503
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (S (NP (DT that) (NN part))))))
+-18.403795741914 -60.349693598349
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (SBAR (IN that) (S (VP (NN part)))))))
+-18.557566030641 -65.491639359648
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (SBAR (IN that) (S (VP (VB part)))))))
+-18.607811155663 -66.283890525248
+(S1 (S (CC but) (NP (PRP he)) (VP (NNS controls) (PP (IN that) (NP (NN part))))))
+-18.615952409610 -65.444091722255
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (DT that) (NP (NN part)))))
+-18.625621275006 -67.693312284145
+(S1 (S (CC but) (S (NP (PRP he)) (VP (NNS controls) (NP (DT that) (NN part))))))
+-18.740218239738 -57.899258195869
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (IN that) (NN part))))))
+-18.971215899335 -62.265541740248
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (DT that)) (NP (NN part)))))
+-19.220587182422 -62.307204651276
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (RB that) (NP (NN part)))))
+-19.334386511038 -66.685215533534
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (SBAR (IN that) (NN part)))))
+-19.423619185373 -64.738706819683
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (SBAR (IN that) (S (NP (NN part)))))))
+-19.591548240036 -65.551477116835
+(S1 (S (CC but) (NP (PRP he)) (VP (NNS controls) (NP (IN that) (NN part)))))
+-19.683715330367 -63.841105758129
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (WDT that) (NN part))))))
+-19.762609603216 -63.923467804931
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (NP (DT that)) (NN part))))))
+-19.996485968548 -66.013808563418
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (RB that) (NN part))))))
+-20.052891532895 -67.795533005081
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (SBAR (S (NP (DT that) (NN part)))))))
+-20.329729790616 -64.425464765551
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (S (NP (DT that)) (VP (NN part))))))
+-20.405584343682 -65.258944647255
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (S (NP (DT that) (NN part)))))))
+-20.545276946693 -64.067326045661
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (SBAR (IN that) (S (VP (NN part))))))))
+-20.631489244378 -66.659634583292
+(S1 (S (CC but) (NP (PRP he)) (VP (NNS controls) (SBAR (IN that) (S (VP (NN part)))))))
+-20.657155465125 -66.398589661498
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (SBAR (S (NP (DT that)) (VP (NN part)))))))
+-20.714252773611 -64.103363300689
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (NP (WDT that)) (NN part)))))
+-21.087388103629 -65.983174260047
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (DT that)) (NP (NN part))))))
+-21.107083790560 -58.852844753201
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (IN that) (NN part))))))
+-21.227502511838 -66.024837072998
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (RB that) (NP (NN part))))))
+-21.565100390151 -68.456339266995
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (SBAR (IN that) (S (NP (NN part))))))))
+-21.861229672047 -65.595383086003
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (IN that) (NN part))))))
+-21.935268947468 -67.767444174676
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (NP (WDT that)) (NP (NN part)))))
+-21.988619206826 -64.877054362263
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (NP (DT that)) (NN part))))))
+-22.007685457577 -64.794692315461
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (WDT that) (NN part))))))
+-22.230556943876 -66.512689701324
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (S (NP (IN that) (NN part))))))
+-22.426880337158 -66.967395120750
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (RB that) (NN part))))))
+-22.506163384909 -68.143097290304
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (S (NP (DT that)) (VP (NN part)))))))
+-22.537117499818 -65.020912675323
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (SBAR (IN that) (S (VP (NN part))))))))
+-22.689443855170 -66.212531312005
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (S (NP (DT that) (NN part)))))))
+-22.800698118569 -67.820995927205
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (NP (WDT that)) (NN part))))))
+-23.035818154443 -67.872887863321
+(S1 (S (CC but) (NP (PRP he)) (VP (VBZ controls) (S (NP (WDT that)) (VP (NN part))))))
+-23.320657151843 -66.936760984490
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (NP (DT that)) (NP (NN part))))))
+-23.568629933416 -66.978423821319
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBZ controls) (RB that) (NP (NN part))))))
+

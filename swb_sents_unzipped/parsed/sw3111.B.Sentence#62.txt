@@ -1,0 +1,102 @@
+50 x
+-18.435970347147 -61.210853768331
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse)))))))))
+-18.827162129829 -63.088497109588
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (JJR worse)))))))))
+-19.186438861464 -68.225183242441
+(S1 (S (WHNP (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse))))))))
+-19.577630644146 -70.102826583698
+(S1 (S (WHNP (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (JJR worse))))))))
+-19.972900998321 -62.990980895504
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse))))))))))
+-20.305081001168 -69.066015255791
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADVP (RBR worse)))))))))
+-20.364092781003 -64.868624236761
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (JJR worse))))))))))
+-20.398857792781 -64.235468316393
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (RBR worse)))))))))
+-20.445264181917 -66.957818251611
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (RBR worse)))))))))
+-20.511421710900 -70.487226292771
+(S1 (S (NP (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse))))))))
+-20.851232218999 -68.978675837577
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADVP (JJR worse)))))))))
+-20.902613493582 -72.364869634028
+(S1 (S (NP (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (JJR worse))))))))
+-21.085853699838 -68.052158199225
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADJP (JJR worse))))))))))
+-21.320248119369 -69.923460144194
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (ADJP (JJR worse)))))))))
+-21.406071417098 -71.249797790503
+(S1 (S (WHNP (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (RBR worse))))))))
+-21.452477809022 -73.972147725721
+(S1 (S (WHNP (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (RBR worse))))))))
+-21.480351408949 -70.090093492457
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse)))))))))
+-21.612884315773 -73.594462429498
+(S1 (S (WHNP (WDT What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse))))))))
+-21.666628412789 -68.835317287350
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse)))))))))
+-21.765987420322 -74.889346011173
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (ADVP (RBR worse)))))))))
+-21.817193619554 -70.846142382964
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADVP (RBR worse))))))))))
+-21.871543191631 -71.967736833714
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (JJR worse)))))))))
+-21.910970411168 -66.015595443565
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (RBR worse))))))))))
+-21.957376803091 -68.737945378784
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (RBR worse))))))))))
+-21.962321085396 -73.917825722133
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (NP (JJR worse)))))))))
+-22.057820195471 -70.712960628607
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (JJR worse)))))))))
+-22.388162867386 -70.758802964749
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADVP (JJR worse))))))))))
+-22.454630124977 -69.518330244775
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADJP (RBR worse))))))))))
+-22.622784351012 -69.832285326397
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADJP (JJR worse)))))))))))
+-22.654052411447 -72.983512822555
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (ADJP (RBR worse)))))))))
+-22.731054266534 -73.511840840833
+(S1 (S (NP (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (RBR worse))))))))
+-22.857178770543 -71.703587271367
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (ADJP (JJR worse))))))))))
+-22.881788812330 -74.075433795721
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (ADVP (JJR worse)))))))))
+-22.984223469326 -71.921174591208
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse))))))))))
+-23.025253637068 -71.399460963976
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADVP (JJR worse))))))))))
+-23.050548842254 -72.439375137699
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADVP (RBR worse))))))))))
+-23.220127761995 -74.701314504899
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (S (ADJP (JJR worse))))))))))
+-23.375415252007 -73.798817932466
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (JJR worse))))))))))
+-23.695545746045 -74.763598980029
+(S1 (FRAG (X (WP What)) (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse))))))))
+-23.702530864583 -73.114708040519
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (RBR worse)))))))))
+-23.753586438423 -71.859931835412
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (RBR worse)))))))))
+-23.772919770169 -73.710823937485
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (NP (JJR worse))))))))))
+-23.799992827559 -74.582281770630
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (NP (RBR worse)))))))))
+-23.966742746151 -71.298457371948
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADJP (RBR worse)))))))))))
+-24.166165032621 -74.763639949728
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VB lose) (ADJP (RBR worse))))))))))
+-24.241547141943 -74.270484235794
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (WHADVP (IN if)) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse)))))))))
+-24.562184288242 -73.179588091149
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADVP (JJR worse)))))))))))
+-24.562661460640 -74.219502264872
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (S (ADVP (RBR worse)))))))))))
+-25.181584894960 -74.945789139270
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBZ happens) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (ADJP (RBR worse))))))))))
+-25.582297896773 -74.702465874825
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (SBAR (WHNP (IN if)) (S (NP (PRP we)) (VP (VBP lose) (ADJP (JJR worse)))))))))
+

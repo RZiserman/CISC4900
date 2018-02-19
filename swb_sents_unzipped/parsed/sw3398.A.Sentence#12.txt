@@ -1,0 +1,102 @@
+50 x
+-26.731297634156 -87.978340739886
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-26.983112460493 -88.679395009211
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-27.615832659424 -91.141299803536
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-27.855603916361 -89.240235739651
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool)))))))
+-27.867647485761 -91.842354072860
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-28.164857532698 -89.941290008976
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool)))))))
+-28.727927141948 -91.961670865779
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool)))))))
+-29.037180758284 -92.662725135103
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool)))))))
+-29.677211106074 -92.664551702084
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (S (VP (TO to) (VP (JJ preschool)))))))
+-30.080857676212 -97.791419807947
+(S1 (S (CC and) (NP (PRP$ my) (QP (RB little) (CD one))) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-30.332672502548 -98.492474077272
+(S1 (S (CC and) (NP (PRP$ my) (QP (RB little) (CD one))) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-30.404811962130 -95.827510765734
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (S (VP (TO to) (VP (JJ preschool)))))))
+-30.605804019202 -97.739731533415
+(S1 (S (CC and) (NP (PRP$ my) (RB little) (CD one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-30.722595683826 -97.329203914386
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes)) (PP (TO to) (NP (JJ preschool)))))
+-30.766666480250 -93.926446564183
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (S (VP (TO to) (VP (JJ preschool))))))))
+-30.814957119153 -98.355726817074
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (S (VP (JJ preschool)))))))
+-30.826744398597 -96.161103356148
+(S1 (S (NP (CC and) (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-30.857618845538 -98.440785802739
+(S1 (S (CC and) (NP (PRP$ my) (RB little) (CD one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-30.914343570098 -97.913514580910
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (S (ADJP (JJ preschool)))))))
+-30.964184875605 -99.185160522733
+(S1 (S (CC and) (NP (PRP$ my) (RB little) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-31.078559224934 -96.862157625472
+(S1 (S (NP (CC and) (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-31.107729628353 -98.149485866814
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes)) (PP (TO to) (ADJP (JJ preschool)))))
+-31.215999701941 -99.886214792058
+(S1 (S (CC and) (NP (PRP$ my) (RB little) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-31.284712272819 -100.828760966849
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (ADJP (TO to) (JJ preschool)))))
+-31.335010380770 -97.935042942767
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (ADJP (JJ preschool)))))))
+-31.458818931457 -100.492162978035
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes)) (PP (TO to) (NP (JJ preschool)))))
+-31.482055533837 -96.647881690310
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (S (VP (TO to) (VP (JJ preschool))))))))
+-31.547381796241 -99.478426830805
+(S1 (S (NP (CC and) (NP (PRP$ my) (JJ little) (NN one))) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-31.708884520574 -98.560102561240
+(S1 (S (CC and) (S (NP (PRP$ my) (RB little) (CD one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool)))))))
+-31.740905131358 -99.617621816840
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (S (VP (JJ preschool))))))))
+-31.798878584214 -101.076473644559
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (PP (TO to) (S (ADJP (JJ preschool)))))))
+-31.799196622577 -100.179481100130
+(S1 (S (NP (CC and) (NP (PRP$ my) (JJ little) (NN one))) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-31.840291582303 -99.175409580675
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (S (ADJP (JJ preschool))))))))
+-32.018138136911 -99.261156830564
+(S1 (S (CC and) (S (NP (PRP$ my) (RB little) (CD one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool)))))))
+-32.070137663456 -97.551177348359
+(S1 (S (CC and) (NP (PRP$ my) (ADJP (JJ little)) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-32.190352982235 -100.447055459894
+(S1 (S (CC and) (S (NP (PRP$ my) (RB little) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool)))))))
+-32.219545406038 -101.098002006417
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (CD one)) (VP (VBZ goes) (PP (TO to) (NP (ADJP (JJ preschool)))))))
+-32.321952489792 -98.252231617683
+(S1 (S (CC and) (NP (PRP$ my) (ADJP (JJ little)) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-32.459316662975 -99.196937942532
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (ADJP (JJ preschool))))))))
+-32.499606579056 -101.148109729218
+(S1 (S (CC and) (S (NP (PRP$ my) (RB little) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool)))))))
+-32.881216427009 -101.272698604804
+(S1 (S (NP (CC and) (NP (PRP$ my) (JJ little) (CD one))) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-32.921600269924 -98.171165499330
+(S1 (S (CC and) (NP (PRP$ my) (ADJP (RB little)) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool))))))
+-33.173415096261 -98.872219768654
+(S1 (S (CC and) (NP (PRP$ my) (ADJP (RB little)) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool))))))
+-33.353716467963 -98.813072425623
+(S1 (S (CC and) (S (NP (PRP$ my) (ADJP (JJ little)) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool)))))))
+-33.409959053933 -98.372362791966
+(S1 (S (CC and) (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (S (VP (TO to) (S (ADJP (JJ preschool))))))))
+-33.662970081511 -99.514126694948
+(S1 (S (CC and) (S (NP (PRP$ my) (ADJP (JJ little)) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool)))))))
+-33.772657864940 -100.847314318346
+(S1 (S (NP (CC and) (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (S (VP (TO to) (VP (JJ preschool)))))))
+-34.196165104432 -99.433060576594
+(S1 (S (CC and) (S (NP (PRP$ my) (ADJP (RB little)) (NN one)) (VP (VBZ goes) (PP (TO to) (NP (JJ preschool)))))))
+-34.499414428109 -99.634257654064
+(S1 (S (CC and) (S (NP (PRP$ my) (JJ little) (NN one)) (VP (VBZ goes) (S (VP (TO to) (S (ADJP (JJ preschool)))))))))
+-34.505418706829 -100.134114845918
+(S1 (S (CC and) (S (NP (PRP$ my) (ADJP (RB little)) (NN one)) (VP (VBZ goes) (PP (TO to) (ADJP (JJ preschool)))))))
+

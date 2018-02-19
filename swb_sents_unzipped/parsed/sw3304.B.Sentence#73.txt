@@ -1,0 +1,74 @@
+36 x
+-15.404415689588 -57.427475440103
+(S1 (S (NP (PRP I)) (VP (VB rent) (NP (PRP$ my) (NNS kids)))))
+-16.098580597106 -59.682927347788
+(S1 (S (NP (PRP I)) (VP (NN rent) (NP (PRP$ my) (NNS kids)))))
+-19.172705905564 -69.493109526529
+(S1 (S (NP (PRP I)) (VP (VB rent) (NP (JJ my) (NNS kids)))))
+-19.632104025854 -71.473000122369
+(S1 (S (NP (PRP I)) (VP (NN rent) (NP (JJ my) (NNS kids)))))
+-20.284994224498 -68.602847339133
+(S1 (S (NP (PRP I)) (VP (VB rent) (S (NP (PRP$ my) (NNS kids))))))
+-20.291739094860 -72.895699051399
+(S1 (S (NP (NN I)) (VP (VB rent) (NP (PRP$ my) (NNS kids)))))
+-21.652078568548 -72.955962855943
+(S1 (S (NP (NN I)) (VP (NN rent) (NP (PRP$ my) (NNS kids)))))
+-22.019934856366 -76.625655715598
+(S1 (NP (NP (NN I)) (VP (VB rent) (NP (PRP$ my) (NNS kids)))))
+-22.586401766133 -78.866731748977
+(S1 (NP (NP (PRP I)) (VP (VB rent) (NP (PRP$ my) (NNS kids)))))
+-23.206206967559 -77.742632625538
+(S1 (S (NP (NP (PRP I)) (VP (VB rent) (NP (PRP$ my) (NNS kids))))))
+-23.786650493871 -77.411076597868
+(S1 (NP (NP (NN I)) (VP (NN rent) (NP (PRP$ my) (NNS kids)))))
+-24.068266580836 -84.961333137825
+(S1 (S (NP (NN I)) (VP (VB rent) (NP (JJ my) (NNS kids)))))
+-24.234798229987 -79.394966347172
+(S1 (S (NP (PRP I)) (VP (VB rent) (S (NP (JJ my) (NNS kids))))))
+-24.576323695505 -82.325117851748
+(S1 (S (NP (NP (NN I)) (VP (VB rent) (NP (PRP$ my) (NNS kids))))))
+-25.050555442583 -85.552993382910
+(S1 (NP (NP (PRP I)) (VP (NN rent) (NP (PRP$ my) (NNS kids)))))
+-25.188633337296 -84.746035630524
+(S1 (S (NP (NN I)) (VP (NN rent) (NP (JJ my) (NNS kids)))))
+-25.217875109770 -84.071070950429
+(S1 (S (NP (NN I)) (VP (VB rent) (S (NP (PRP$ my) (NNS kids))))))
+-25.562656258133 -84.268941659299
+(S1 (S (NP (NP (PRP I)) (VP (NN rent) (NP (PRP$ my) (NNS kids))))))
+-25.615728173008 -88.691289917748
+(S1 (NP (NP (NN I)) (VP (VB rent) (NP (JJ my) (NNS kids)))))
+-25.974022328379 -81.588807876828
+(S1 (S (NP (NP (NN I)) (VP (NN rent) (NP (PRP$ my) (NNS kids))))))
+-26.182195082775 -90.932365951127
+(S1 (NP (NP (PRP I)) (VP (VB rent) (NP (JJ my) (NNS kids)))))
+-26.186907901250 -85.910276292781
+(S1 (NP (NP (NN I)) (VP (VB rent) (S (NP (PRP$ my) (NNS kids))))))
+-26.705384803805 -88.151352326160
+(S1 (NP (NP (PRP I)) (VP (VB rent) (S (NP (PRP$ my) (NNS kids))))))
+-26.939113204201 -89.808266827687
+(S1 (S (NP (NP (PRP I)) (VP (VB rent) (NP (JJ my) (NNS kids))))))
+-27.150109522619 -89.201149366655
+(S1 (NP (NP (NN I)) (VP (NN rent) (NP (JJ my) (NNS kids)))))
+-27.567514312443 -87.027253202720
+(S1 (S (NP (NP (PRP I)) (VP (VB rent) (S (NP (PRP$ my) (NNS kids)))))))
+-28.309229932147 -94.390752053897
+(S1 (S (NP (NP (NN I)) (VP (VB rent) (NP (JJ my) (NNS kids))))))
+-28.414014471331 -97.343066151696
+(S1 (NP (NP (PRP I)) (VP (NN rent) (NP (JJ my) (NNS kids)))))
+-28.985621053177 -91.609738428930
+(S1 (S (NP (NP (NN I)) (VP (VB rent) (S (NP (PRP$ my) (NNS kids)))))))
+-29.063228206881 -96.059014428086
+(S1 (S (NP (NP (PRP I)) (VP (NN rent) (NP (JJ my) (NNS kids))))))
+-29.167679115259 -94.863189958468
+(S1 (S (NP (NN I)) (VP (VB rent) (S (NP (JJ my) (NNS kids))))))
+-29.474594277126 -93.378880645614
+(S1 (S (NP (NP (NN I)) (VP (NN rent) (NP (JJ my) (NNS kids))))))
+-29.966647506739 -96.702395300820
+(S1 (NP (NP (NN I)) (VP (VB rent) (S (NP (JJ my) (NNS kids))))))
+-30.485124406506 -98.943471334199
+(S1 (NP (NP (PRP I)) (VP (VB rent) (S (NP (JJ my) (NNS kids))))))
+-31.512309417932 -97.819372210759
+(S1 (S (NP (NP (PRP I)) (VP (VB rent) (S (NP (JJ my) (NNS kids)))))))
+-32.930416147515 -102.401857436969
+(S1 (S (NP (NP (NN I)) (VP (VB rent) (S (NP (JJ my) (NNS kids)))))))
+

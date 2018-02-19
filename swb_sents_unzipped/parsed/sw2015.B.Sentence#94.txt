@@ -1,0 +1,102 @@
+50 x
+-33.751982331436 -113.081709694221
+(S1 (SBAR (IN that) (S (NP (NP (DT that) (NN kind)) (PP (IN of))) (VP (VBD touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))
+-34.005655142782 -110.994838049945
+(S1 (SBAR (IN that) (S (NP (NP (DT that) (NN kind)) (PP (IN of))) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-34.819518602583 -111.487293193960
+(S1 (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-35.057488008462 -113.101430399475
+(S1 (FRAG (SBAR (IN that) (S (NP (NP (DT that) (NN kind)) (PP (IN of))) (VP (VBD touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-35.210630904305 -110.060674973009
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-35.244316630933 -112.191188911637
+(S1 (S (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-35.311160847685 -111.014558755199
+(S1 (FRAG (SBAR (IN that) (S (NP (NP (DT that) (NN kind)) (PP (IN of))) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-35.722569648787 -112.660716753823
+(S1 (S (NP (DT that)) (ADVP (DT that) (NN kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))
+-35.834701656008 -113.128695796414
+(S1 (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of)) (VP (VBN touched) (S (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-35.993103921162 -110.102005585795
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (ADVP (NN kind) (IN of)) (VP (VBD touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-36.009708351691 -109.774765243761
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-36.034489167611 -113.381043312616
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBD touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-36.047715094315 -113.523283136712
+(S1 (S (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of))) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))
+-36.176534140512 -112.447062299792
+(S1 (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (S (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))))
+-36.202084042990 -112.720789972190
+(S1 (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-36.225813957730 -111.702077619398
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of)) (VP (VBN touched) (S (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-36.228442149581 -111.376737119924
+(S1 (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-36.265282160386 -108.015134003477
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (ADVP (NN kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-36.281886618792 -107.687893661443
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-36.405933658360 -111.777167605363
+(S1 (SBAR (WHNP (WDT that)) (S (ADVP (DT that) (NN kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-36.541088942911 -113.428898544511
+(S1 (FRAG (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-36.563227466129 -112.153031024352
+(S1 (S (NP (DT that)) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-36.567646442234 -111.020444078840
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (S (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))))
+-36.586330607926 -113.473730176934
+(S1 (FRAG (IN that) (SBAR (IN that) (S (ADVP (NN kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-36.593196344712 -111.294171751239
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))))
+-36.601332168862 -113.150958017468
+(S1 (S (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (S (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))))
+-36.619554451303 -109.950118898973
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))))
+-36.626882071340 -113.424685689867
+(S1 (S (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))))
+-36.653240177931 -112.080632837601
+(S1 (S (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))))
+-36.805134582156 -112.366307782278
+(S1 (SBAR (WHNP (WDT that)) (S (NP (NP (DT that) (NN kind)) (PP (IN of))) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-36.839699261048 -113.689028152172
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (ADVP (NP (DT a) (NN nerve)) (RB right) (RB there)))))))))
+-36.950164563308 -112.889541456796
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of)) (VP (VBN touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-36.981101404079 -110.764455345612
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (VP (ADVP (NN kind) (IN of)) (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-37.592719036180 -113.164038073042
+(S1 (FRAG (WHNP (WDT that)) (SBAR (WHNP (WDT that)) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-37.637205657774 -113.491278415076
+(S1 (FRAG (WHNP (WDT that)) (SBAR (WHNP (WDT that)) (S (ADVP (NN kind) (IN of)) (VP (VBD touched) (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-37.713777788454 -113.146489834900
+(S1 (FRAG (IN that) (SBAR (IN that) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-37.718510621441 -113.368960873954
+(S1 (FRAG (WHNP (WDT that)) (SBAR (IN that) (S (ADVP (NN kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-37.846391875404 -111.077166490725
+(S1 (FRAG (WHNP (WDT that)) (SBAR (WHNP (WDT that)) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-37.852709392480 -111.710827575729
+(S1 (NP (WHNP (WDT that)) (S (NP (NP (DT that) (NN kind)) (PP (IN of))) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))
+-37.890878496997 -111.404406832759
+(S1 (FRAG (WHNP (WDT that)) (SBAR (WHNP (WDT that)) (S (ADVP (NN kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-37.920243004058 -113.112800130183
+(S1 (S (NP (DT that)) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (S (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))))
+-37.945792906536 -113.386527802582
+(S1 (S (NP (DT that)) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-37.950012517787 -113.318342470475
+(S1 (FRAG (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-37.972151041005 -112.042474950316
+(S1 (S (NP (DT that)) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))
+-38.837381561970 -113.041720531920
+(S1 (FRAG (WHNP (WDT that)) (SBAR (IN that) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there))))))))
+-38.964227960788 -113.577208231980
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (DT a) (NN nerve) (NN right)) (ADVP (RB there)))))))
+-39.000705403600 -113.605443771761
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (SBAR (S (VP (VBN touched) (NP (NP (DT a) (NN nerve)) (ADVP (RB right) (RB there)))))))))))
+-39.221563889224 -111.631292157960
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (ADVP (NN kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve) (NN right)) (ADVP (RB there))))))))
+-39.238168319752 -111.304051815926
+(S1 (FRAG (IN that) (SBAR (WHNP (WDT that)) (S (ADVP (RB kind) (IN of)) (VP (VBD touched) (NP (NP (DT a) (NN nerve) (NN right)) (ADVP (RB there))))))))
+-39.300057020691 -113.059645161451
+(S1 (FRAG (PP (IN that) (NP (NP (DT that) (NN kind)) (PP (IN of) (S (VP (VBN touched) (NP (DT a) (NN nerve))))) (ADVP (RB right) (RB there))))))
+

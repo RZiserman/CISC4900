@@ -1,0 +1,102 @@
+50 x
+-16.324827204857 -65.356842047159
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (DT that) (NN that)))))
+-17.188734368749 -63.204386612366
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (RB that) (DT that)))))
+-17.524313914868 -67.432219603923
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (DT that) (DT that)))))
+-17.579248846983 -65.071950712106
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (IN that) (DT that)))))
+-17.615596018180 -66.119549731961
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (DT that) (NN that)))))
+-17.770294614349 -67.384953847900
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (DT that) (X (IN that))))))
+-18.101144781659 -61.578014532561
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (NP (DT that)))))))
+-18.169915946611 -68.191866326390
+(S1 (S (CC So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (RB that) (DT that)))))
+-18.210233453230 -64.390916112049
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (X (IN that))))))
+-18.459675834860 -63.967094297168
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (RB that) (DT that)))))
+-18.472006640935 -67.585902922178
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (RB that) (NP (DT that)))))
+-18.518068143879 -67.787358334223
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (S (NP (DT that)))))))
+-18.698794237513 -66.012362067895
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (ADVP (IN that) (DT that)))))
+-18.795255380979 -68.194927288725
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (DT that) (DT that)))))
+-18.850190313094 -65.834658396908
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (IN that) (DT that)))))
+-18.918714364380 -66.892800180195
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (X (DT that))))))
+-19.004374487672 -68.147661532702
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (DT that) (X (IN that))))))
+-19.037271441369 -64.311261859973
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (WDT that) (FRAG (NP (DT that)))))))
+-19.065371283318 -68.196527337415
+(S1 (S (ADVP (RB So)) (NP (DT the) (NN thing)) (VP (VBD was) (NP (RB that) (DT that)))))
+-19.082326359521 -66.565494246584
+(S1 (S (CC So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (NP (DT that)))))))
+-19.159215795222 -65.902481801654
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (PP (IN that)))))))
+-19.269536262231 -65.037557549754
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (DT that))))))
+-19.372086247769 -62.340722217363
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (NP (DT that)))))))
+-19.444313329340 -65.153623796851
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (X (IN that))))))
+-19.607799800379 -67.367858331165
+(S1 (S (RB So) (S (NP (DT the) (NN thing)) (VP (VBD was) (NP (RB that) (DT that))))))
+-19.742948107045 -68.348610606980
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (RB that) (NP (DT that)))))
+-19.763783391758 -67.501464488754
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (RB that) (NP (IN that)))))
+-19.805798687887 -67.534164224736
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (WDT that) (FRAG (PP (IN that)))))))
+-19.938066358114 -68.139485408552
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (DT that)) (X (IN that)))))
+-19.969735700835 -66.775069752697
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (ADVP (IN that) (DT that)))))
+-19.977781696228 -66.570155257609
+(S1 (S (ADVP (RB So)) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (NP (DT that)))))))
+-20.087792312212 -67.362637910098
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (WDT that) (FRAG (DT that))))))
+-20.148011627470 -66.304698960382
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (S (ADVP (IN that)))))))
+-20.189655827703 -67.655507864997
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (X (DT that))))))
+-20.308212904692 -65.073969544775
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (WDT that) (FRAG (NP (DT that)))))))
+-20.393295671333 -66.665189486456
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (PP (IN that)))))))
+-20.540477725554 -65.800265234555
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (DT that))))))
+-20.783851601210 -66.908945608350
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (ADVP (RB that)))))))
+-20.785268464706 -67.465866169245
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (S (NP (WDT that)))))))
+-20.822464631167 -65.741486353222
+(S1 (S (RB So) (S (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (NP (DT that))))))))
+-20.922665435527 -67.059988425012
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (ADVP (DT that)))))))
+-20.997863265080 -68.264172173555
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (RB that) (NP (IN that)))))
+-21.039878563998 -68.296871909537
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (WDT that) (FRAG (PP (IN that)))))))
+-21.096000063947 -68.265622730553
+(S1 (S (IN So) (NP (DT the) (NN thing)) (VP (VBD was) (NP (IN that)) (X (IN that)))))
+-21.358733775535 -68.125345594900
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (WDT that) (FRAG (DT that))))))
+-21.382091503580 -67.067406645184
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (S (ADVP (IN that)))))))
+-22.112758488029 -68.228573854047
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (S (NP (WDT that)))))))
+-22.193606898850 -67.822696109813
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (ADVP (DT that)))))))
+-22.240405256533 -67.671653293152
+(S1 (S (RB So) (NP (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (ADVP (RB that)))))))
+-23.580107682692 -67.506667409321
+(S1 (FRAG (NP (RB So) (DT the) (NN thing)) (VP (VBD was) (SBAR (IN that) (FRAG (NP (DT that)))))))
+

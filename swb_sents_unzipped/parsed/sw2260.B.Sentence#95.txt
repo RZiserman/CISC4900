@@ -1,0 +1,102 @@
+50 x
+-26.325814148065 -88.678795772251
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-26.561388965055 -102.130390680688
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (PP (IN down) (NP (EX there))))))))
+-26.982701030750 -93.472595700236
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RB down) (RB there)))))))
+-27.641236231851 -93.678444431651
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (RB there)))))))
+-28.270758981082 -100.681039928127
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market) (RP down) (ADVP (RB there)))))))
+-28.417381318943 -97.611703651003
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (EX there)))))))
+-28.478437617483 -98.768037769494
+(S1 (SQ (VBZ Is) (NP (PRP it)) (ADVP (RB kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RB down) (RB there))))))
+-29.056949760534 -91.701057218116
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RP down)) (NP (EX there))))
+-29.127455401264 -96.162681522167
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market))) (ADVP (RB down) (RB there)))))
+-29.232708655519 -101.442942870879
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (PP (IN down) (NP (EX there)))))
+-29.309580201639 -95.283850912301
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market))) (ADVP (IN down) (EX there)))))
+-29.600119570583 -98.973886500910
+(S1 (SQ (VBZ Is) (NP (PRP it)) (ADVP (RB kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (RB there))))))
+-29.633013706487 -96.368530151291
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market))) (ADVP (IN down) (RB there)))))
+-29.841303493893 -98.050596728815
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (RB kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-30.067269672384 -97.885299438950
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down) (RB there)))))
+-30.401832315458 -93.647258024668
+(S1 (SQ (VBZ Is) (NP (NP (PRP it) (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-30.407213906379 -101.289173402014
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RP down) (RB there)))))))
+-30.498864127429 -102.844396664873
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (RB kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RB down) (RB there)))))))
+-30.585559875100 -102.907145720261
+(S1 (SQ (VBZ Is) (NP (PRP it)) (ADVP (RB kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (EX there))))))
+-30.597022915258 -102.845729641208
+(S1 (SQ (VP (VBZ Is)) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RB down) (RB there)))))))
+-30.686354333002 -98.091147908846
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (IN down) (RB there)))))
+-30.821328388130 -102.268515676781
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RB down) (RB there))))))
+-31.116278602838 -101.010812468259
+(S1 (SQ (VBZ Is) (NP (NP (NP (PRP it)) (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-31.123474654256 -102.833336380013
+(S1 (SQ (VBZ Is) (NP (PRP it)) (PP (ADVP (RB kind)) (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RB down) (RB there))))))
+-31.157399320167 -103.050245396288
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (RB kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (RB there)))))))
+-31.255558135874 -103.051578372623
+(S1 (SQ (VP (VBZ Is)) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (RB there)))))))
+-31.351005913003 -100.175011297469
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (IN down) (EX there)))))
+-31.397091381248 -101.548375829508
+(S1 (SQ (VP (VBZ Is) (NP (PRP it))) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-31.521051519177 -102.105017347383
+(S1 (SQ (VBZ Is) (NP (NP (PRP it)) (ADVP (RB kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-31.943010332868 -102.474364408196
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (RB there))))))
+-32.060262174455 -100.525072591141
+(S1 (SQ (VBZ Is) (NP (PRP it) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market))))) (ADVP (RB down)) (NP (EX there))))
+-32.245156598993 -103.039185111429
+(S1 (SQ (VBZ Is) (NP (PRP it)) (PP (ADVP (RB kind)) (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (RB there))))))
+-32.327622340921 -101.891404692755
+(S1 (SQ (VBZ Is) (NP (PRP it)) (ADVP (RB kind) (PP (IN of) (NP (DT a) (NN buyer) (POS 's)))) (NP (NN market)) (ADVP (RB down)) (NP (EX there))))
+-32.346725207065 -103.210380695153
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (PP (RP down) (NP (EX there)))))
+-32.586780007938 -101.072858174680
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (RB kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RP down)) (NP (EX there))))
+-32.603166956852 -103.365724217979
+(S1 (SQ (VBZ Is) (NP (PRP it) (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-32.635314826731 -101.167007107802
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer)) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-32.701894834937 -99.253294812856
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN buyer) (POS 's) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-32.758134035681 -102.077557114421
+(S1 (S (VP (VBZ Is) (NP (NP (PRP it) (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (RB down) (RB there))))))))
+-32.970803329382 -102.887485560251
+(S1 (SQ (VBZ Is) (NP (NP (PRP it)) (ADVP (RB kind) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market))))) (ADVP (RB down)) (NP (EX there))))
+-33.081739338927 -96.669519470533
+(S1 (SQ (VBZ Is) (NP (NP (PRP it) (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RP down)) (NP (EX there))))
+-33.283385110418 -102.283405845836
+(S1 (S (VP (VBZ Is) (NP (NP (PRP it) (NN kind)) (PP (IN of) (NP (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)) (ADVP (IN down) (RB there))))))))
+-33.820674366111 -102.313890877253
+(S1 (SQ (VBZ Is) (NP (NP (PRP it) (NN kind)) (PP (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market))) (ADVP (RB down))) (NP (EX there))))
+-34.021558035408 -102.448997740578
+(S1 (SQ (VBZ Is) (NP (NP (PRP it)) (PP (RB kind) (IN of) (NP (NP (DT a) (NN buyer) (POS 's)) (NN market)))) (ADVP (RB down)) (NP (EX there))))
+-34.306289832625 -98.387142240736
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN buyer))) (POS 's)) (NN market)) (ADVP (RB down)) (NP (EX there))))
+-35.193140023283 -101.028413153201
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN buyer))) (POS 's)) (NN market)) (ADVP (RB down) (RB there)))))
+-35.377259578558 -102.275556258721
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN buyer) (POS 's) (NN market)))) (ADVP (RP down)) (NP (EX there))))
+-36.434698054386 -101.234261623097
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN buyer))) (POS 's)) (NN market)) (ADVP (IN down) (RB there)))))
+-36.603425720882 -101.409403686601
+(S1 (SQ (VBZ Is) (NP (PRP it)) (NP (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (NN buyer))) (POS 's)) (NN market)) (ADVP (RP down)) (NP (EX there))))
+-38.040497890753 -102.322361274215
+(S1 (SQ (VBZ Is) (NP (NP (NP (PRP it) (NN kind)) (PP (IN of) (NP (DT a) (NN buyer))) (POS 's)) (NN market)) (ADVP (RB down)) (NP (EX there))))
+

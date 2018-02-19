@@ -1,0 +1,102 @@
+50 x
+-10.040338398389 -37.643420324798
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (ADJP (JJ young)))))
+-12.268847274837 -42.605673681065
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (VP (JJ young)))))
+-12.418824225361 -44.466242615996
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (NN young)))))
+-12.733851068437 -42.780025845116
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (JJ young)))))
+-13.164969988280 -45.972190274215
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ young))))))
+-13.417319215719 -45.265741585359
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (ADVP (JJ young)))))
+-14.508048257792 -50.844622120594
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ young)))))))
+-14.570262632327 -45.649973355994
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ young))))))
+-15.160134378525 -52.795012511787
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (NN young))))))
+-15.249907643757 -50.934443769718
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (VP (JJ young))))))
+-15.813240721601 -51.108795740908
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (JJ young))))))
+-15.943139458794 -50.196582973830
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ young)))))))
+-16.478869895517 -52.495801865721
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (ADJP (JJ young))))))
+-16.649386387246 -53.594511512131
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ young))))))
+-16.676011339717 -52.731550599575
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ young))))))
+-16.802908406056 -55.806875626917
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (JJ young)))))))
+-17.107467936702 -57.667444467078
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (NN young)))))))
+-17.113360705122 -52.607037412887
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (VP (JJ young))))))
+-17.313362864176 -51.669706081342
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ young))))))
+-17.653244141778 -55.981227696199
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (JJ young)))))))
+-17.661726213157 -53.978743363061
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ young)))))))
+-18.010341012404 -60.938749714077
+(S1 (S (NP (CC but) (NP (PRP he))) (VP (VBD was) (ADJP (JJ young)))))
+-18.102159434281 -57.277820897998
+(S1 (FRAG (S (CC but) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ young)))))))
+-18.179181377058 -55.158836480153
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (JJ young)))))))
+-18.290884007704 -57.019405320314
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (NN young)))))))
+-18.404925307372 -53.319355057207
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (ADVP (JJ young))))))
+-18.501399998574 -58.466943506984
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ young)))))))
+-18.615670806396 -61.685364949829
+(S1 (S (NP (CC but) (PRP he)) (VP (VBD was) (ADJP (JJ young)))))
+-18.674312151479 -57.458055302686
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (VP (JJ young))))))
+-18.792487566427 -59.318624215485
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (NN young))))))
+-18.808041468536 -55.436403818010
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (NP (NN young))))))
+-18.814258142780 -55.333188549434
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (JJ young)))))))
+-19.105032672495 -54.340193369322
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (S (NP (JJ young))))))
+-19.167614306716 -57.632407444605
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (NP (JJ young))))))
+-19.293270963087 -58.492528431106
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (NN young))))))
+-19.355835392183 -58.851175278192
+(S1 (S (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ young))))))))
+-19.506563670926 -56.631959518307
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (VP (JJ young))))))
+-19.755400995670 -61.060320495367
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (ADJP (JJ young)))))))
+-19.862859269573 -60.118123195834
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (ADVP (JJ young))))))
+-19.920614878163 -56.806311660227
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (JJ young))))))
+-19.956617799576 -57.818904360220
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ young)))))))
+-20.141502656970 -62.240074393501
+(S1 (FRAG (S (CC but) (S (NP (PRP he)) (VP (VBD was) (VP (JJ young)))))))
+-20.204824288740 -60.935807419955
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (VP (JJ young)))))))
+-20.541840518232 -59.292027411455
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (ADVP (JJ young))))))
+-20.750430164814 -62.414426364690
+(S1 (FRAG (S (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (JJ young)))))))
+-20.802289393185 -58.203136131428
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ young))))))))
+-20.841199250635 -59.751737402356
+(S1 (S (CC but) (NP (PRP he)) (VP (VBD was) (SBAR (S (NP (NN young)))))))
+-21.018594921577 -60.502354808436
+(S1 (FRAG (S (CC but) (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ young)))))))
+-21.496388888202 -61.648125064274
+(S1 (S (CC but) (S (NP (PRP he)) (VP (VBD was) (S (ADVP (JJ young)))))))
+-21.950433390237 -59.676259024058
+(S1 (FRAG (CC but) (S (NP (PRP he)) (VP (VBD was) (S (ADJP (JJ young)))))))
+

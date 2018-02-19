@@ -1,0 +1,102 @@
+50 x
+-11.293707440149 -47.052311182778
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))
+-12.816958576280 -55.490521722356
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))
+-13.303006801655 -54.345892421828
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))))
+-13.904424417997 -53.935887388432
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))))
+-14.537310389350 -57.294558186537
+(S1 (FRAG (CC and) (SBAR (IN so) (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))))
+-14.731981181482 -55.195751528784
+(S1 (S (CC and) (ADVP (IN so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))
+-14.933133028957 -58.629196351892
+(S1 (S (CC and) (S (ADVP (RB so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-15.230026622317 -62.926817840891
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-15.736682666429 -60.685303584445
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (SBAR (S (VP (TO to) (VP (VB stay))))))))
+-15.849798692488 -60.174539240762
+(S1 (FRAG (CC and) (SBAR (RB so) (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))))
+-16.080051952015 -59.751145362301
+(S1 (S (CC and) (S (RB so) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-16.662795585519 -62.632047647319
+(S1 (S (CC and) (ADVP (IN so)) (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-16.692851890389 -63.688297881596
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBN decided) (S (VP (TO to) (VP (VB stay)))))))
+-16.875304416172 -67.028062836371
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP we)) (VP (VBN decided) (S (VP (TO to) (VP (VB stay)))))))
+-17.012528454650 -63.699254747702
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP we)) (VP (VBN decided) (S (VP (TO to) (VP (VB stay)))))))))
+-17.068374669057 -64.075064897338
+(S1 (FRAG (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-17.113976073048 -61.786141323453
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (VP (TO to) (VP (VB stay))))))
+-17.185092922522 -60.346577226176
+(S1 (S (CC and) (S (ADVP (IN so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-17.259933802559 -69.123514124024
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP we)) (VP (VBD decided) (SBAR (S (VP (TO to) (VP (VB stay))))))))
+-17.270060949969 -64.940648922676
+(S1 (FRAG (CC and) (ADVP (RB so)) (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-17.306008835929 -60.172911356735
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (S (VP (VB stay))))))))
+-17.363518283987 -62.658599107538
+(S1 (FRAG (CC and) (RB so) (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-17.491229833320 -66.584967059558
+(S1 (FRAG (S (CC and) (ADVP (RB so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-17.571597276025 -67.978884912180
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP we)) (VP (VBD decided) (SBAR (S (VP (TO to) (VP (VB stay))))))))))
+-17.588955931529 -62.905121267993
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (PP (TO to) (NP (NN stay))))))
+-17.776323944121 -61.169249860141
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (PP (TO to) (NP (VB stay))))))
+-17.811901072011 -66.241507692992
+(S1 (FRAG (CC and) (ADVP (IN so)) (SBAR (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))))
+-18.126969064037 -62.595178434872
+(S1 (S (ADVP (CC and) (IN so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))
+-18.167296153165 -65.536131974517
+(S1 (S (ADVP (CC and) (RB so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))
+-18.173014892367 -67.568879878783
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP we)) (VP (VBD decided) (SBAR (S (VP (TO to) (VP (VB stay))))))))))
+-18.185939081226 -64.991258212794
+(S1 (S (CC and) (NP (RB so) (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))
+-18.228557181493 -69.079722605184
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP we)) (VP (VBD decided) (VP (TO to) (VP (VB stay))))))))
+-18.812006128066 -65.418394948857
+(S1 (FRAG (CC and) (S (RB so) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-18.829259972060 -68.611121896313
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (S (VP (VB stay))))))))
+-18.829974795047 -68.669717571787
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP we)) (VP (VBD decided) (VP (TO to) (VP (VB stay))))))))
+-18.884608898902 -68.529532842164
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP we)) (VP (VBN decided) (S (VP (TO to) (VP (VB stay)))))))))
+-18.942151344281 -67.893319589834
+(S1 (FRAG (CC and) (S (ADVP (RB so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-19.174956407761 -68.828743930451
+(S1 (S (CC and) (ADVP (IN so)) (NP (PRP we)) (VP (VBD decided) (SBAR (S (VP (TO to) (VP (VB stay))))))))
+-19.315548227435 -67.466492595786
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (S (VP (VB stay))))))))))
+-19.385992495067 -69.219532048065
+(S1 (S (CC and) (ADVP (IN so)) (NP (PRP we)) (VP (VBN decided) (S (VP (TO to) (VP (VB stay)))))))
+-19.515081122566 -68.462831151387
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP we)) (VP (VBD decided) (PP (TO to) (NP (VB stay))))))))
+-19.662899415060 -66.829979233458
+(S1 (FRAG (S (CC and) (ADVP (IN so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-19.709980150511 -67.905753392397
+(S1 (S (CC and) (RB so) (NP (PRP we)) (VP (VBD decided) (PP (TO to) (S (VP (VB stay)))))))
+-19.926365770989 -67.056487562389
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (S (VP (VB stay))))))))))
+-20.125898668907 -68.052826117990
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP we)) (VP (VBD decided) (PP (TO to) (NP (VB stay))))))))
+-20.207351201220 -67.930958458697
+(S1 (FRAG (CC and) (SBAR (S (RB so) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay)))))))))
+-20.375654521277 -67.560184126262
+(S1 (S (CC and) (S (NP (RB so) (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-20.744282574474 -68.316351702741
+(S1 (S (CC and) (ADVP (IN so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (S (VP (VB stay))))))))
+-21.053249289013 -68.872827585343
+(S1 (FRAG (CC and) (S (ADVP (IN so)) (NP (PRP we)) (VP (VBD decided) (S (VP (TO to) (VP (VB stay))))))))
+-21.214597685454 -69.312690206147
+(S1 (S (CC and) (ADVP (IN so)) (NP (PRP we)) (VP (VBD decided) (PP (TO to) (NP (VB stay))))))
+

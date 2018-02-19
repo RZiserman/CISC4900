@@ -1,0 +1,102 @@
+50 x
+-28.704466548209 -98.603969693180
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-29.338480482039 -99.583063845236
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-29.877473174334 -106.476709757887
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (ADVP (RB anyway)) (WHNP (WDT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-30.024059221125 -100.062047358972
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (WDT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-30.032550828611 -103.682245224271
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (RB anyway) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-30.227925359256 -104.043827762217
+(S1 (S (PP (IN At) (NP (DT that) (NN time)) (ADVP (RB anyway))) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-30.509361344491 -102.737765179949
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (ADVP (RB anyway)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+-30.871718350808 -108.287424435697
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (WHNP (WDT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-31.169900185336 -103.184429665546
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (ADVP (RB anyway)) (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-31.191509212511 -102.447672769770
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (NP (WDT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-31.332731731754 -102.020444072390
+(S1 (S (PP (IN At) (NP (DT that) (NN time) (RB anyway))) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-31.480052841930 -103.125079501297
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (NP (NP (RB anyway)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were))))))))))
+-31.502100564409 -102.001298626440
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (SBAR (ADVP (RB anyway)) (IN that) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+-31.871174953867 -106.873909213234
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (CONJP (RB anyway) (IN that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-31.882399410627 -106.971513035473
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (RB that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-31.897965762169 -108.315492938688
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (CONJP (RB anyway) (RB that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-32.045259652719 -103.424779099752
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (SBAR (RB anyway) (IN that) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+-32.174197227968 -108.740546343502
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (RB anyway))) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-32.506147193193 -105.885903213066
+(S1 (S (PP (IN At) (ADVP (NP (DT that) (NN time)) (RB anyway))) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-32.588657863744 -105.215054063501
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (ADVP (RB anyway)) (SBAR (IN that) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+-32.607225165587 -105.346425399219
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (DT that)) (VP (VBD was) (SBAR (ADVP (RB still)) (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.002822103165 -104.400971194248
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (DT that)) (VP (VBD was) (SBAR (WHADVP (ADVP (RB still)) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.161175165789 -106.908436686752
+(S1 (S (PP (IN At) (NP (DT that) (NN time)) (ADVP (RB anyway))) (NP (WDT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.202769114867 -107.747991116468
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (ADVP (RB anyway) (IN that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.241239110568 -106.325519551275
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (NP (DT that)) (VP (VBD was) (SBAR (ADVP (RB still)) (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.359358459644 -106.384272203890
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (RB anyway) (NP (WDT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.403772243311 -107.667545151105
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADJP (RB anyway)))) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.458460050076 -106.236144002934
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (NP (IN that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.564445844967 -107.924136794010
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (DT that)) (VP (VBD was) (ADVP (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were))))))))
+-33.570591089285 -107.292014990785
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (DT that)) (VP (VBD was) (ADJP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.604344272033 -107.985954555977
+(S1 (S (PP (IN At) (NP (NP (IN that) (NN time)) (ADVP (RB anyway)))) (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.635108922287 -104.885052996925
+(S1 (S (PP (IN At) (NP (DT that) (NN time) (RB anyway))) (NP (WDT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.636836020269 -105.380065346303
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (NP (DT that)) (VP (VBD was) (SBAR (WHADVP (ADVP (RB still)) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-33.683685374567 -105.993045407530
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (ADJP (RB anyway) (SBAR (IN that) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were))))))))))
+-33.711668695368 -107.522392020753
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (VP (ADVP (RB anyway) (IN that)) (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-34.011814102715 -106.804503065011
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (WDT that)) (VP (VBD was) (SBAR (ADVP (RB still)) (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-34.014136999492 -108.495193701247
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (SBAR (ADVP (RB anyway)) (IN that) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+-34.078732612938 -107.918976303773
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (DT that)) (VP (VBD was) (SBAR (WHADVP (RB still) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-34.204605006389 -108.271109142840
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (NP (DT that)) (VP (VBD was) (ADJP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-34.239269285502 -108.374974180291
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (ADJP (RB anyway) (SBAR (S (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were))))))))))
+-34.309218151741 -108.267551412789
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (SBAR (IN that) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+-34.392895602053 -108.466652695635
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (DT that)) (VP (VBD was) (SBAR (RB still) (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-34.407411040293 -105.859048860040
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (NP (RB anyway) (WDT that)) (VP (VBD was) (SBAR (WHADVP (ADVP (RB still)) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-34.836997482107 -106.729223499221
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (NP (NP (RB anyway)) (SBAR (IN that) (S (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were))))))))))
+-34.882371494018 -108.682823926667
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (NP (NP (RB anyway)) (SBAR (S (NP (DT that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were))))))))))
+-35.003812920415 -108.534766902419
+(S1 (FRAG (PP (IN At) (NP (DT that) (NN time))) (ADVP (RB anyway)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (SBAR (WHADVP (ADVP (RB still)) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+-35.572563532852 -108.673524230088
+(S1 (S (PP (IN At) (NP (DT that) (NN time) (RB anyway))) (NP (IN that)) (VP (VBD was) (ADVP (RB still)) (SBAR (WHADVP (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-35.574861031680 -108.244674270838
+(S1 (S (PP (IN At) (NP (NP (DT that) (NN time)) (ADVP (RB anyway)))) (NP (WDT that)) (VP (VBD was) (SBAR (WHADVP (ADVP (RB still)) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-35.631087283922 -107.817445573458
+(S1 (S (PP (IN At) (NP (DT that) (NN time) (RB anyway))) (NP (DT that)) (VP (VBD was) (SBAR (WHADVP (ADVP (RB still)) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))
+-35.849459305334 -107.798300348910
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (SBAR (ADVP (RB anyway)) (IN that) (S (VP (VBD was) (SBAR (WHADVP (ADVP (RB still)) (WRB when)) (S (NP (NNS things)) (VP (VBD were)))))))))
+

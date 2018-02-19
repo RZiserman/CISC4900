@@ -1,0 +1,102 @@
+50 x
+-20.021106199383 -59.363100263959
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-21.800343248567 -68.652063088772
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-22.861193901221 -72.167746420466
+(S1 (S (INTJ (UH Oh)) (DT that) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-23.014437066530 -68.561824302146
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (NP (JJ lovely)))))
+-23.047637422567 -65.648243274901
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (S (ADJP (JJ lovely))))))
+-23.132462957605 -70.744976899565
+(S1 (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-23.187306106553 -71.126456545596
+(S1 (S (INTJ (UH Oh)) (WHNP (WDT that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-23.445821528118 -67.848597609621
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-23.557777579581 -65.711489862170
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-23.774078382242 -67.809217408746
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-23.846000107240 -65.507730679247
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-24.234504570121 -75.455849860146
+(S1 (S (NP (UH Oh) (IN that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-24.466133917597 -70.668195580312
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (ADVP (JJ lovely)))))
+-24.520318222876 -69.524324176547
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely))))))
+-24.564482812235 -69.396505947671
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-24.627594601406 -74.937205808413
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ lovely))))))))
+-24.645520761959 -74.358381772934
+(S1 (NP (UH Oh) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-24.776606748066 -69.381425994175
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (VP (JJ lovely)))))
+-24.895764829312 -75.484741349220
+(S1 (NP (UH Oh) (SBAR (WHNP (IN that)) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-24.963834368339 -71.932521587505
+(S1 (SBAR (ADVP (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely))))))
+-25.058461176865 -74.194288892371
+(S1 (FRAG (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely))))))))
+-25.179712088245 -76.249425679448
+(S1 (NP (UH Oh) (SBAR (WHNP (DT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-25.597825313531 -72.771410535489
+(S1 (FRAG (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (ADJP (JJ lovely))))))
+-25.647423322378 -72.165475119536
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-25.787015184941 -75.547392354003
+(S1 (S (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-25.923491293501 -75.054400900555
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-26.021677111174 -71.273290929778
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (S (NP (JJ lovely))))))
+-26.090209370569 -74.349557113406
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (S (VP (JJ lovely))))))
+-26.161910105454 -74.466941071552
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely))))))
+-26.181048659624 -72.522326675258
+(S1 (S (ADVP (UH Oh)) (NP (IN that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-26.361025776083 -74.557508042355
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-26.388926743903 -76.287202703163
+(S1 (FRAG (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely))))))))
+-26.472352751303 -74.133740620563
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (S (ADJP (JJ lovely))))))
+-26.476657992868 -72.177080781623
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (S (ADVP (JJ lovely))))))
+-26.536367009728 -74.910213900357
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ sounds) (NP (JJ lovely)))))
+-26.601348615260 -73.906196023400
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ sounds) (VP (ADJP (JJ lovely))))))
+-26.623220551274 -74.299866768655
+(S1 (FRAG (INTJ (UH Oh)) (X (IN that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-26.629802392766 -71.996632873111
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ sounds) (S (ADJP (JJ lovely))))))
+-26.651605864581 -74.094360128387
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ lovely))))))))
+-26.739924707387 -74.706454717434
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ sounds) (NP (JJ lovely)))))
+-26.821312271100 -75.188368552043
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (DT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-26.890180460425 -71.792873690188
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ sounds) (S (ADJP (JJ lovely))))))
+-27.175266276407 -76.134414895863
+(S1 (S (NP (UH Oh)) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ lovely)))))))
+-27.181539537105 -76.155181654630
+(S1 (FRAG (INTJ (UH Oh)) (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely))))))))
+-27.250585604939 -74.040959102158
+(S1 (S (ADVP (UH Oh)) (NP (WDT that)) (VP (VBZ sounds) (ADJP (JJ lovely)))))
+-27.469854754574 -75.681648667312
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ sounds) (S (ADJP (JJ lovely))))))))
+-27.604670833759 -75.809467110912
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ lovely)))))))
+-28.249858382986 -75.882263316428
+(S1 (FRAG (INTJ (UH Oh)) (NP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ lovely))))))
+-28.416063874265 -75.729815592385
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ sounds) (VP (JJ lovely)))))
+-28.709270335923 -75.526056409462
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ sounds) (VP (JJ lovely)))))
+

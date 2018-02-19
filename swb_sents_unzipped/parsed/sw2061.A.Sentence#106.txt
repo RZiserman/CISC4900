@@ -1,0 +1,102 @@
+50 x
+-11.914757762164 -56.527486678547
+(S1 (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))
+-12.916651535097 -56.321695576993
+(S1 (FRAG (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))))
+-13.206189641085 -60.064952921310
+(S1 (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-14.111692240211 -58.156764610897
+(S1 (S (IN Because) (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))
+-14.141054978856 -59.618726076478
+(S1 (FRAG (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-15.876137060087 -63.833587483083
+(S1 (PP (IN Because) (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-16.199529482171 -66.156219676266
+(S1 (FRAG (SBAR (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))))
+-16.238212386760 -64.353153346955
+(S1 (S (IN Because) (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))
+-16.446238377399 -66.837873936728
+(S1 (PP (IN Because) (NP (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-16.477537611518 -64.878241821276
+(S1 (FRAG (PP (IN Because) (NP (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-16.649258987728 -70.468488021241
+(S1 (SBAR (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))))
+-16.654966421187 -65.692146116279
+(S1 (FRAG (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))))
+-16.795211523160 -66.751753345146
+(S1 (S (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))
+-16.840957227168 -61.454632952423
+(S1 (S (RB Because) (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))
+-16.978011148183 -70.040170534471
+(S1 (PP (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))
+-16.988774099847 -66.923360237352
+(S1 (S (PP (IN Because) (NP (DT the) (NN person))) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))
+-17.025870356619 -65.146229781215
+(S1 (FRAG (IN Because) (NP (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-17.055897293752 -65.757494471374
+(S1 (FRAG (PP (IN Because) (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-17.075303361648 -67.746763994821
+(S1 (PP (IN Because) (NP (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))
+-17.106602598554 -65.787131879369
+(S1 (FRAG (PP (IN Because) (NP (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))))
+-17.311119269084 -67.059045137892
+(S1 (S (X (IN Because)) (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))
+-17.482465284585 -71.212700335772
+(S1 (PP (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))))
+-17.657589382689 -70.109577647425
+(S1 (S (PP (IN Because) (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-17.850053043018 -70.484677792271
+(S1 (FRAG (PP (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))))
+-17.955621798913 -71.042471387765
+(S1 (S (PP (IN Because) (NP (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-18.013144057465 -69.940123369683
+(S1 (PP (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-18.034858771163 -67.263967093053
+(S1 (FRAG (IN Because) (NP (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))
+-18.087266327665 -69.247058255856
+(S1 (S (ADVP (RB Because)) (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))
+-18.170893703830 -65.869148871925
+(S1 (FRAG (IN Because) (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-18.222099186241 -69.675135023164
+(S1 (S (PP (IN Because) (NP (DT the) (NN person))) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))
+-18.230937555346 -70.568868840726
+(S1 (X (PP (IN Because) (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-18.362911002138 -69.148176298609
+(S1 (FRAG (PP (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it)))))))))
+-18.384324775513 -69.111518993306
+(S1 (S (ADVP (RB Because)) (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))
+-18.475101940492 -69.007951437605
+(S1 (S (ADVP (IN Because)) (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))
+-18.515290849551 -66.259477190656
+(S1 (S (RB Because) (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))
+-18.528370034798 -69.405524492839
+(S1 (FRAG (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))
+-18.621030341981 -65.592335965348
+(S1 (SBAR (IN Because) (S (NP (DT the) (NN person)) (ADJP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-18.740055720016 -65.948472553798
+(S1 (S (RB Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it)))))))
+-18.782332224685 -67.723936539855
+(S1 (S (NP (RB Because) (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (NP (PRP it))))))
+-18.788388562980 -70.568962671884
+(S1 (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked)) (PP (IN for) (NP (PRP it))))))
+-18.826949444916 -70.307043644889
+(S1 (FRAG (IN Because) (SBAR (S (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-18.859178883245 -70.132484322370
+(S1 (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (S (NP (PRP it))))))))
+-18.929925204335 -68.327617580584
+(S1 (S (NP (RB Because) (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it))))))
+-19.555895676964 -65.146109120516
+(S1 (FRAG (SBAR (IN Because) (S (NP (DT the) (NN person)) (ADJP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-19.790282335913 -70.363171570330
+(S1 (FRAG (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked)) (PP (IN for) (NP (PRP it)))))))
+-19.861072656178 -69.926693220816
+(S1 (FRAG (SBAR (IN Because) (S (NP (DT the) (NN person)) (VP (VBD asked) (PP (IN for) (S (NP (PRP it)))))))))
+-20.128255843379 -70.964246517521
+(S1 (FRAG (IN Because) (NP (DT the) (NN person) (S (VP (VBN asked) (PP (IN for) (NP (PRP it))))))))
+-20.146089362290 -70.832898186821
+(S1 (FRAG (RB Because) (NP (NP (DT the) (NN person)) (VP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-21.186911194675 -69.634042687724
+(S1 (PP (IN Because) (S (NP (DT the) (NN person)) (ADJP (VBN asked) (PP (IN for) (NP (PRP it)))))))
+-23.048624389725 -70.471791375483
+(S1 (S (NP (RB Because) (DT the) (NN person)) (ADJP (VBN asked) (PP (IN for) (NP (PRP it))))))
+

@@ -1,0 +1,102 @@
+50 x
+-35.418502990209 -119.442398649803
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-35.828144603646 -121.773946364064
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJ furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-37.012255620764 -122.931670342568
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJ furthest) (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-37.059418602690 -120.332228091781
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest) (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-37.094839242087 -122.919207291621
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-37.503699240995 -128.076823080225
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (CD furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-37.693816919866 -127.586299672624
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-37.735037221499 -122.172526683076
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (SBAR (S (ADVP (RB east)) (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-37.828469802649 -126.778705330158
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (NN furthest)) (ADVP (RB east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-38.029027785991 -124.554885241542
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (NN furthest)) (SBAR (RB east) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-38.215594827208 -121.383279601222
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (ADVP (RB east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-38.446526702982 -126.616530377252
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (SBAR (RB east) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-38.460957434944 -122.845172187720
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (ADJP (JJS furthest) (JJ east))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-38.564810700267 -127.412109166935
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (NNP Tennessee) (S (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-38.607450976048 -126.634512000074
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (ADJP (RB furthest) (JJ east))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-38.636343056927 -126.204331112596
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest) (RB east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-38.815083981591 -124.263174707156
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (S (NP (NP (DT the) (JJS furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))))
+-38.845893070748 -125.674812042823
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest) (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-38.911069211380 -127.701938131105
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-38.941471645465 -125.618107364209
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest)) (SBAR (S (ADVP (RB east)) (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.211685927923 -127.917120760493
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJ furthest) (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-39.294200293956 -126.093220221750
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJS furthest)) (ADVP (RB east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-39.336186967298 -123.724825816784
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest)) (ADVP (RB east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.400227537298 -123.869400133134
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJS furthest)) (SBAR (RB east) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-39.625176155100 -126.899427644319
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (RB furthest) (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.625354272905 -126.594722573216
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (S (NP (NP (DT the) (JJ furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))))
+-39.694397324981 -122.706711428749
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (ADVP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.703242764046 -126.083955874440
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest) (RB east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.746345631781 -126.905222839710
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (NN furthest)) (NP (NP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.805791719652 -126.278915578864
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (SBAR (S (NP (RB east) (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.884614920729 -123.611978600940
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (SBAR (S (ADVP (JJ east)) (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-39.920234395394 -128.106024070745
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJS furthest)) (NP (NP (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-40.037973978694 -126.568478438571
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (NN furthest)) (ADVP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-40.055030979408 -123.756572008563
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (S (NP (DT the) (NN furthest)) (ADJP (JJ east) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))))
+-40.419197066057 -127.863801125604
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (NP (DT the) (NN furthest)) (ADVP (RB east))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-40.457652963608 -127.863551952140
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (ADJP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-40.468609301975 -125.979397394407
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (ADJP (JJ furthest) (JJ east))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-40.472348192760 -127.154132405566
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN furthest)) (ADVP (RB east))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-40.497601932305 -126.173349300146
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (NN furthest) (SBAR (S (ADVP (RB east)) (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-40.850635115591 -127.739983318252
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (S (NP (NP (DT the) (NN furthest) (NNS east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))))
+-40.940706803853 -127.506617488312
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (S (NP (DT the) (NN furthest)) (ADJP (RB east) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))))
+-40.977456624136 -128.003485904786
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest)) (ADVP (RB east))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-41.027800389194 -126.459322196974
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest)) (ADJP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-41.197556430451 -125.821641356531
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest)) (ADVP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-41.416375478088 -126.219737731303
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJS furthest)) (NP (NP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-41.528262482795 -127.057559282074
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJS furthest)) (SBAR (S (ADVP (JJ east)) (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-41.666573023001 -125.882993330164
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJS furthest)) (ADVP (JJ east)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))
+-42.277804296335 -127.612801218011
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (NN furthest) (SBAR (S (ADVP (JJ east)) (NP (PRP I)) (VP (VBP 've) (VP (VBN been)))))))))))))
+-42.294479247430 -127.542608094468
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (JJS furthest)) (S (ADJP (JJ east) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))))
+-42.655868945962 -127.139216099114
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Tennessee)) (VP (VBZ has) (VP (VBN been) (S (NP (DT the) (JJS furthest)) (ADJP (JJ east) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been))))))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-19.179148511877 -67.184047932554
+(S1 (NP (JJ Handicraft) (NN type) (NNS things)))
+-19.933456798216 -67.719064364254
+(S1 (NP (NN Handicraft) (NN type) (NNS things)))
+-20.027264474227 -69.221128074835
+(S1 (NP (NNP Handicraft) (NN type) (NNS things)))
+-20.978039733713 -69.683690975314
+(S1 (S (NP (NNP Handicraft)) (VP (NN type) (NP (NNS things)))))
+-21.111352777658 -69.901697251317
+(S1 (S (NP (JJ Handicraft) (NN type)) (VP (NNS things))))
+-21.175533764736 -71.403420196756
+(S1 (S (VP (VB Handicraft) (NP (NN type) (NNS things)))))
+-21.179956026790 -66.785931544106
+(S1 (S (NP (JJ Handicraft) (NN type)) (NP (NNS things))))
+-21.460831398658 -72.419567520441
+(S1 (S (NP (NNP Handicraft) (NN type)) (VP (NNS things))))
+-21.495678509966 -74.211373818050
+(S1 (NP (VB Handicraft) (NN type) (NNS things)))
+-21.668994954654 -71.044711342384
+(S1 (S (NP (NN Handicraft) (NN type)) (VP (NNS things))))
+-21.828135837790 -69.303801813231
+(S1 (S (NP (NNP Handicraft) (NN type)) (NP (NNS things))))
+-21.989475776875 -72.832044821247
+(S1 (NP (RB Handicraft) (NN type) (NNS things)))
+-21.991752048099 -74.127918510562
+(S1 (SINV (VBP Handicraft) (NP (NN type) (NNS things))))
+-22.021392896574 -67.928945635173
+(S1 (S (NP (NN Handicraft) (NN type)) (NP (NNS things))))
+-22.251497654219 -76.592251092398
+(S1 (S (VP (VBP Handicraft) (NP (NN type) (NNS things)))))
+-22.293376369502 -73.005982390278
+(S1 (VP (VB Handicraft) (NP (NN type) (NNS things))))
+-22.302988528423 -72.207597355304
+(S1 (S (NP (NN Handicraft)) (VP (NN type) (NP (NNS things)))))
+-22.453734369376 -76.910984945690
+(S1 (NP (VBG Handicraft) (NN type) (NNS things)))
+-22.608427176772 -74.028015420803
+(S1 (S (ADVP (RB Handicraft)) (VP (NN type) (NP (NNS things)))))
+-22.735264638430 -74.426835515147
+(S1 (S (VP (VB Handicraft) (VP (NN type) (NP (NNS things))))))
+-22.858903256676 -74.295930646874
+(S1 (S (RB Handicraft) (VP (NN type) (NP (NNS things)))))
+-22.960061611128 -73.871006121425
+(S1 (S (VP (VB Handicraft) (S (VP (NN type) (NP (NNS things)))))))
+-23.325686112360 -74.254921895684
+(S1 (FRAG (NP (JJ Handicraft) (NN type) (NNS things))))
+-23.346656387361 -74.817742617135
+(S1 (S (NP (RB Handicraft) (NN type)) (VP (NNS things))))
+-23.418475718182 -74.379023927725
+(S1 (S (NP (JJ Handicraft) (NN type) (NNS things))))
+-23.419630379328 -75.242260011689
+(S1 (S (NP (NNP Handicraft) (NN type) (NNS things))))
+-23.478693136493 -71.701976909925
+(S1 (S (NP (RB Handicraft) (NN type)) (NP (NNS things))))
+-23.480625296825 -74.939135767176
+(S1 (S (NP (JJ Handicraft)) (VP (NN type) (NP (NNS things)))))
+-23.574925720866 -75.197893644815
+(S1 (S (NP (NNP Handicraft)) (NP (NN type) (NNS things))))
+-23.616526290286 -77.284163732609
+(S1 (S (VP (NNP Handicraft) (NP (NN type) (NNS things)))))
+-23.716344254354 -75.222932876058
+(S1 (S (VP (VB Handicraft) (NP (NN type)) (NP (NNS things)))))
+-23.775716852196 -74.887271423990
+(S1 (S (NP (NN Handicraft) (NN type) (NNS things))))
+-23.779545636660 -77.138911988890
+(S1 (NP (NP (NN Handicraft) (NN type)) (NNS things)))
+-23.820766737366 -77.571125987577
+(S1 (NP (NP (JJ Handicraft) (NN type)) (NP (NNS things))))
+-24.051277618338 -75.580825438268
+(S1 (FRAG (NP (NN Handicraft) (NN type) (NNS things))))
+-24.177775737672 -76.335007642856
+(S1 (FRAG (VP (VB Handicraft) (NP (NN type) (NNS things)))))
+-24.186188834596 -75.550470107010
+(S1 (FRAG (RB Handicraft) (NP (NN type) (NNS things))))
+-24.192412269079 -74.035113939462
+(S1 (FRAG (NP (RB Handicraft) (NN type) (NNS things))))
+-24.246343386125 -76.253709477775
+(S1 (VP (VB Handicraft) (VP (NN type) (NP (NNS things)))))
+-24.312930735623 -75.628284831360
+(S1 (VP (VB Handicraft) (S (VP (NN type) (NP (NNS things))))))
+-24.435675975336 -75.013054265459
+(S1 (NP (ADJP (JJ Handicraft)) (NN type) (NNS things)))
+-24.437522150890 -77.246754392250
+(S1 (S (NP (NN Handicraft)) (NP (NN type) (NNS things))))
+-24.501692682949 -76.331070640862
+(S1 (FRAG (NP (NNP Handicraft) (NN type) (NNS things))))
+-24.663653457843 -77.391712253103
+(S1 (NP (NP (NNP Handicraft)) (NN type) (NNS things)))
+-24.713288514742 -76.976743699474
+(S1 (FRAG (ADVP (RB Handicraft)) (NP (NN type) (NNS things))))
+-25.170126835203 -73.954547093566
+(S1 (S (ADVP (RB Handicraft)) (NP (NN type)) (NP (NNS things))))
+-25.198587632011 -75.961097783967
+(S1 (S (ADVP (RB Handicraft)) (NP (NN type)) (VP (NNS things))))
+-25.199528425300 -77.077659048709
+(S1 (S (VP (VB Handicraft) (S (NP (NN type)) (NP (NNS things))))))
+-25.368740933329 -77.296662631782
+(S1 (VP (VB Handicraft) (NP (NN type)) (NP (NNS things))))
+-27.862262156090 -77.618459143672
+(S1 (S (NP (ADJP (RB Handicraft)) (NN type)) (NP (NNS things))))
+

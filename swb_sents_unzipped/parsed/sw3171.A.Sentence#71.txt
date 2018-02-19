@@ -1,0 +1,102 @@
+50 x
+-17.416457131724 -66.812743063135
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (PP (IN like))))))
+-17.890909751440 -67.207356559057
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (PP (IN like))))))))
+-18.348350492356 -74.968587709226
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (S (VP (TO to) (VP (NN something) (PP (IN like)))))))))
+-19.939160708093 -67.638534244644
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (PP (JJ like))))))
+-20.462992476987 -73.928765942037
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (IN like)))))))
+-20.531774745161 -72.415187009796
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (ADVP (IN like))))))))
+-20.567374081898 -74.854955530171
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (ADVP (IN like))))))
+-20.699170473705 -77.451018264415
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (NP (IN like))))))
+-20.871236843518 -74.238263133689
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (PP (VB like))))))))
+-20.922694475120 -68.540153710416
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (ADJP (JJ like))))))))
+-21.397540217773 -72.582134833212
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (ADJP (IN like))))))))
+-21.479308400560 -72.598841313012
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something) (JJ like)))))))
+-21.567681960421 -75.045210633278
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (ADJP (JJ like))))))
+-21.653560183911 -72.259063299515
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (S (ADJP (JJ like)))))))
+-21.721464439849 -77.210416340714
+(S1 (S (NP (PRP we)) (MD will) (VP (VBP fly) (PP (TO to) (NP (NP (NN something)) (PP (IN like)))))))
+-21.883559988900 -74.436768955531
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (PP (JJ like))))))))
+-21.934451260423 -77.993971480712
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (S (VP (NN something) (PP (IN like)))))))))
+-22.062848393615 -77.837108257413
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (NP (IN like))))))))
+-22.116983043632 -75.315896783977
+(S1 (S (NP (PRP we)) (MD will) (VP (VBP fly) (PP (TO to) (NP (NN something))) (PP (IN like)))))
+-22.152723758278 -77.525016477563
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (VP (ADVP (IN like)))))))))
+-22.215585850143 -72.948774327971
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (ADVP (JJ like))))))
+-22.289975271819 -77.196083853519
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (NP (JJ like))))))
+-22.359867322983 -76.218191662761
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (S (VP (VB like)))))))
+-22.364945087027 -75.055183678928
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (S (VP (TO to) (VP (NN something) (PP (JJ like)))))))))
+-22.374257460135 -75.520925361609
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (S (ADJP (IN like)))))))
+-22.417983544546 -77.285255898430
+(S1 (S (NP (PRP we)) (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (PP (IN like)))))))
+-22.419634896334 -77.569817993297
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (S (VP (TO to) (VP (NN something) (NP (JJ like)))))))))
+-22.501415644356 -77.199228210074
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (PP (VB like))))))
+-22.518483713879 -77.169569545813
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (S (ADVP (IN like)))))))
+-22.630564084645 -76.675651561481
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (ADJP (VB like))))))))
+-22.814167345044 -68.735988762617
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (SBAR (S (VP (VBP like))))))))))
+-22.829365391314 -74.665961254518
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (VP (JJ like))))))))
+-22.943735094991 -75.675543662298
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (JJ like)))))))
+-23.506811096862 -74.427254743316
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (ADVP (JJ like))))))))
+-23.570326792082 -77.551484290475
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (ADVP (VB like))))))
+-23.570726052410 -77.521998192008
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (NP (JJ like))))))))
+-23.605446612840 -76.171874657435
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))))) (VP (VB like))))
+-24.003249248451 -77.704490538629
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something)) (PP (JJ like)))))))
+-24.316478832011 -77.809043483034
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (S (VP (TO to) (NP (NN something) (JJ like))))))))
+-24.409000087168 -77.703920187309
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NP (NN something)) (ADJP (VBP like))))))))
+-24.478833855138 -77.935928467358
+(S1 (S (NP (PRP we)) (MD will) (VP (VBP fly) (PP (TO to) (NP (NN something))) (PP (JJ like)))))
+-24.720711238173 -77.564967356975
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something) (S (VP (VBP like)))))))))
+-24.743501798270 -77.121269640352
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))) (S (ADVP (JJ like)))))))
+-24.756921434650 -72.306104298366
+(S1 (S (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something)))))) (ADJP (JJ like))))
+-24.801531653279 -73.873702305638
+(S1 (S (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something)))))) (VP (VB like))))
+-24.851004111564 -73.332373332810
+(S1 (S (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something)))))) (IN like)))
+-25.276661380839 -77.173844025269
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something))))) (VP (VBP like))))
+-25.303281355259 -76.444449185305
+(S1 (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something) (SBAR (S (VP (VBP like))))))))))
+-25.472488151661 -70.906563754399
+(S1 (S (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something)))))) (VP (VBP like))))
+-26.409121839107 -74.363220057928
+(S1 (S (S (NP (PRP we)) (VP (MD will) (VP (VB fly) (PP (TO to) (NP (NN something)))))) (ADJP (IN like))))
+

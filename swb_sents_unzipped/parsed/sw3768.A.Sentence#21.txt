@@ -1,0 +1,102 @@
+50 x
+-21.614510256188 -88.677547253366
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-21.766794776567 -88.299891099796
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-23.134052553468 -92.970583628664
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-23.208315860201 -91.915480902270
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))))
+-23.286337073847 -92.592927475094
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-23.313925816289 -92.759474029126
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))))
+-23.530028568278 -91.537824665686
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+-23.635638521578 -92.381817792542
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+-24.085838828212 -94.535421347308
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-24.208699697091 -93.217974925023
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))))
+-24.395787151946 -92.448826401498
+(S1 (X (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))))
+-24.453006401902 -96.224644291728
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBN lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-24.490824864233 -95.072689494307
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-24.547694702228 -92.840318646841
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))))
+-24.700852046084 -92.071170123315
+(S1 (X (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))))
+-24.744075852727 -97.947760421683
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PRT (RP in)) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))
+-24.857992440711 -96.761912438727
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBN lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-24.946086126247 -90.141045396743
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-25.063078580128 -90.628833542152
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBN lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-25.098370643838 -89.763389243173
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-25.247761353515 -94.392660434018
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)))) (PP (IN in) (NP (NNP France)))))
+-25.279917289864 -95.777280214965
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)))) (PP (IN in) (NP (NNP France)))))
+-25.464879683546 -97.049519516971
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD lived)) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))
+-25.468064618937 -91.166101689150
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBN lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-25.499013089657 -97.878453092727
+(S1 (S (CC and) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))))
+-25.739086929994 -94.927143334537
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))
+-25.820725797734 -97.500796856144
+(S1 (S (CC and) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+-26.205194114844 -96.808650475729
+(S1 (S (CC and) (ADVP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-26.243160119062 -98.169154965791
+(S1 (S (NP (CC and) (NP (PRP I))) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-26.268940615067 -96.463874716852
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN lived) (PP (IN in) (NP (DT the) (NNP Alps)))) (PP (IN in) (NP (NNP France)))))
+-26.357478632435 -96.430994322159
+(S1 (S (CC and) (ADVP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-26.395444636653 -97.791498812221
+(S1 (S (NP (CC and) (NP (PRP I))) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-26.396657676111 -99.156192033353
+(S1 (X (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))))
+-26.458351930428 -97.995182273929
+(S1 (S (CC and) (NP (PRP I)) (ADVP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-26.501614147667 -97.650553001210
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (PRP I)) (VP (VBN lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))))
+-26.532294346310 -98.778535699213
+(S1 (X (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+-26.610636448020 -97.617526111437
+(S1 (S (CC and) (NP (PRP I)) (ADVP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France))))))
+-26.848899898502 -98.246250760042
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))))
+-26.956559769443 -98.087381208794
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+-27.013941915007 -98.165076983440
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-27.019202421502 -98.655773785660
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (PRP I)) (VP (VBN lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+-27.119551871096 -99.009070110296
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))))
+-27.256541997421 -99.130664524631
+(S1 (X (CC and) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))))
+-27.258629227274 -99.220179709835
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))
+-27.671466637348 -97.580243454059
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VBD lived) (PP (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+-27.876898256786 -99.411258565060
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD lived) (PRT (RP in)) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France))))))
+-28.201413206752 -98.698422482668
+(S1 (X (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))))
+-29.070662800053 -96.390641477913
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))
+-29.423516534981 -99.102168317975
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBN lived) (PP (IN in) (NP (DT the) (NNP Alps)) (PP (IN in) (NP (NNP France)))))))
+-31.000128567406 -99.043741597435
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBD lived) (PP (PP (IN in) (NP (DT the) (NNP Alps))) (PP (IN in) (NP (NNP France)))))))
+

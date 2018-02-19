@@ -1,0 +1,102 @@
+50 x
+-20.115266058946 -67.770101604513
+(S1 (S (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VBP work))))
+-20.908167165931 -76.198233388521
+(S1 (S (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VBP work))))
+-20.918916346135 -75.682069748069
+(S1 (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I) (NN work))))
+-21.058664086444 -77.214506268540
+(S1 (NP (PDT Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I) (NN work)))))
+-21.348223212544 -79.552585141443
+(S1 (NP (PDT Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (NN I) (NN work)))))
+-21.428693609264 -78.020148760756
+(S1 (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (NN I) (NN work))))
+-21.493298967971 -74.438677005894
+(S1 (S (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (NN work))))
+-21.529863089791 -73.981869949667
+(S1 (S (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VB work))))
+-21.615374894021 -78.278679588580
+(S1 (NP (PDT Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NN work)))
+-21.734532215663 -80.147325008657
+(S1 (S (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VB work))))
+-22.183659662584 -75.972766680356
+(S1 (S (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NP (NN work))))
+-22.296618004482 -79.268540310623
+(S1 (S (CC Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VBP work))))
+-22.552622173209 -78.645252897587
+(S1 (NP (CC Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I) (NN work)))))
+-22.874706087309 -80.983331770490
+(S1 (NP (CC Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (NN I) (NN work)))))
+-22.880707849545 -73.372253687541
+(S1 (S (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (NN work))))
+-23.004309136720 -80.008008013223
+(S1 (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (S (NP (PRP I)) (VP (VBP work)))))
+-23.203143204701 -78.807997865975
+(S1 (S (CC Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (NN work))))
+-23.244488736853 -77.673791931664
+(S1 (S (NP (CC Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VBP work))))
+-23.319152375791 -79.240245375643
+(S1 (S (NP (DT Both)) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VBP work))))
+-23.321045945655 -79.473882510772
+(S1 (S (NP (CC Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VB work))))
+-23.386190616345 -80.504399394092
+(S1 (NP (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NN work)))
+-23.670102951014 -79.597213420603
+(S1 (NP (CC Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I) (NN work))))
+-23.682703376157 -74.906343362003
+(S1 (S (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NP (NN work))))
+-23.703971237017 -80.145541100653
+(S1 (NP (DT Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NN work)))
+-23.832925017213 -80.529173293464
+(S1 (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I) (NN work))))
+-23.908867947528 -81.105572954145
+(S1 (S (CC Both) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NP (NN work))))
+-23.921321496890 -76.786331538609
+(S1 (S (NP (CC Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (NN work))))
+-24.026528269422 -80.664463701190
+(S1 (S (NP (DT Both)) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I) (NN work)))))
+-24.151049711367 -77.872620831686
+(S1 (NP (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (NP (PRP I) (NN work))))
+-24.317485017449 -77.580490050176
+(S1 (S (NP (DT Both) (PRP$ my) (NN husband) (CC and) (PRP I)) (VP (VBP work))))
+-24.335129090534 -74.252134366105
+(S1 (FRAG (S (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VBP work)))))
+-24.368522401831 -81.059595474110
+(S1 (FRAG (NP (PDT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NP (NN work))))
+-24.523030719246 -80.055485218257
+(S1 (S (NP (DT Both)) (NP (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (NN work))))
+-24.611682191503 -78.320421213071
+(S1 (S (NP (CC Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NP (NN work))))
+-24.646174473647 -78.580921011442
+(S1 (S (NP (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VBP work))))
+-24.660148649334 -78.448283923888
+(S1 (S (NP (PDT Both) (PRP$ my) (NN husband) (CC and) (PRP I)) (VP (VBP work))))
+-24.696790430065 -72.564546215704
+(S1 (FRAG (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (S (NP (PRP I)) (VP (VBP work)))))
+-24.753584954495 -80.210699844372
+(S1 (NP (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (NP (NN I) (NN work))))
+-24.781792199045 -79.397786036909
+(S1 (S (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NP (VB work))))
+-24.861600245088 -81.056839239370
+(S1 (S (NP (DT Both)) (NP (PRP$ my) (NN husband) (CC and) (NN I) (NN work))))
+-24.919766113294 -75.781292879409
+(S1 (S (NP (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (NN work))))
+-25.303839851967 -81.196045397626
+(S1 (S (CC Both) (NP (PRP$ my) (NN husband) (CC and) (PRP I)) (VP (VBP work))))
+-25.459521147273 -79.328918044635
+(S1 (FRAG (S (NP (DT Both) (NP (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (VP (VB work)))))
+-25.610126807906 -77.315382553870
+(S1 (S (NP (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (NP (PRP I))) (NP (NN work))))
+-25.658651640882 -81.084757996176
+(S1 (NP (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (S (NP (PRP I)) (VP (VBP work)))))
+-25.734680719980 -75.588276019146
+(S1 (FRAG (NP (DT Both) (JJ my) (NN husband)) (CC and) (S (NP (PRP I)) (VP (VBP work)))))
+-25.820434112742 -80.740435509271
+(S1 (FRAG (NP (PDT Both) (NP (PRP$ my) (NN husband))) (CC and) (S (NP (PRP I)) (VP (VBP work)))))
+-26.146323909837 -81.019785312920
+(S1 (S (NP (DT Both) (PRP$ my) (NN husband) (CC and) (PRP I)) (VP (NN work))))
+-26.288743810890 -78.845934567096
+(S1 (FRAG (NP (PDT Both) (PRP$ my) (NN husband)) (CC and) (S (NP (PRP I)) (VP (VB work)))))
+-27.208123483465 -79.198562597390
+(S1 (FRAG (NP (DT Both) (PRP$ my) (NN husband)) (CC and) (S (NP (PRP I)) (VP (VBP work)))))
+

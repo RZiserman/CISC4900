@@ -1,0 +1,102 @@
+50 x
+-20.947816730521 -67.909985652002
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-23.643936429506 -74.192867891323
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-24.010440550417 -76.963898427072
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea))))))
+-24.585660789218 -89.388623904630
+(S1 (NP (NP (CD two) (NNS nights)) (SBAR (IN ago) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))))
+-25.231409314564 -83.740663417543
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBN had) (NP (NN diarrhea)))))
+-25.681276100031 -79.037801943646
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBD had) (ADVP (NN diarrhea)))))
+-25.892166426703 -76.655637587750
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBD had) (S (NP (NN diarrhea))))))
+-25.972001574167 -92.640066532130
+(S1 (S (NP (NP (CD two) (NNS nights)) (SBAR (IN ago) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea))))))))
+-26.237092023977 -93.166207391526
+(S1 (S (NP (CD two) (NNS nights)) (ADVP (RB ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-26.370665157402 -83.246780666393
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea))))))
+-26.374731493243 -89.392139854389
+(S1 (S (NP (CD two) (NNS nights) (RB ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-26.591325420390 -86.645532849966
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBN had) (NP (NN diarrhea)))))
+-26.814683451516 -94.359180739335
+(S1 (S (NP (NP (CD two) (NNS nights)) (ADVP (RB ago))) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-27.157157144200 -94.393755605460
+(S1 (NP (NP (CD two) (NNS nights)) (SBAR (RB ago) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))))
+-27.884219228936 -96.644955993265
+(S1 (NP (NP (CD two) (NNS nights)) (ADVP (RB ago)) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea))))))
+-27.884552126143 -90.080448040621
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (S (NP (PRP she)) (VP (VBN had) (NP (NN diarrhea))))))
+-27.979794948374 -95.717049983240
+(S1 (S (NP (CD two) (NNS nights)) (RB ago) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-27.988742050583 -98.603898132622
+(S1 (NP (NP (CD two) (NNS nights)) (PP (RB ago) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))))
+-28.179508863326 -96.252611694349
+(S1 (S (NP (NP (CD two) (NNS nights)) (SBAR (RB ago) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea))))))))
+-28.377395799016 -85.320684182967
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBD had) (ADVP (NN diarrhea)))))
+-28.538974464680 -88.887510497805
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBN had) (S (NP (NN diarrhea))))))
+-28.555830505872 -88.952922295097
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBN had) (ADVP (NN diarrhea)))))
+-28.588286125688 -82.938519827070
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBD had) (S (NP (NN diarrhea))))))
+-28.772083068551 -82.226101756141
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBD had) (SBAR (S (NP (NN diarrhea)))))))
+-28.835642684842 -98.665434203853
+(S1 (S (NP (CD two) (NNS nights) (RB ago)) (NP (PRP she)) (VP (VBN had) (NP (NN diarrhea)))))
+-28.836288644985 -90.254177080415
+(S1 (S (ADVP (NP (QP (CD two) (NNS nights))) (RB ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-28.883996438071 -96.065978323446
+(S1 (S (NP (CD two) (NNS nights) (RB ago) (NP (PRP she))) (VP (VBD had) (NP (NN diarrhea)))))
+-28.884809739969 -92.985317473044
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (S (NP (PRP she)) (VP (VBN had) (NP (NN diarrhea))))))
+-28.893423865017 -88.091714808137
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (S (NP (PRP she)) (VP (VBD had) (ADVP (NN diarrhea))))))
+-28.963710550810 -85.709550356731
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (S (NP (PRP she)) (VP (VBD had) (S (NP (NN diarrhea)))))))
+-28.979800475743 -96.423018313626
+(S1 (S (NP (NP (CD two) (NNS nights)) (IN ago) (NP (PRP she))) (VP (VBD had) (NP (NN diarrhea)))))
+-29.195979368721 -97.311459363007
+(S1 (S (NP (CD two) (NNS nights)) (PP (RB ago) (S (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))))
+-29.618122123065 -98.134275952662
+(S1 (NP (NP (CD two) (NNS nights)) (SBAR (IN ago) (S (NP (PRP she)) (VP (VBD had) (S (NP (NN diarrhea))))))))
+-29.898890570505 -91.792379930228
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBN had) (S (NP (NN diarrhea))))))
+-29.915746611698 -91.857791727519
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBN had) (ADVP (NN diarrhea)))))
+-29.981800352087 -91.120874128149
+(S1 (S (ADVP (NP (NP (CD two)) (NNS nights)) (RB ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-31.069877646985 -95.227295175438
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (S (NP (PRP she)) (VP (VBN had) (S (NP (NN diarrhea)))))))
+-31.165580970904 -95.292707038497
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (S (NP (PRP she)) (VP (VBN had) (ADVP (NN diarrhea))))))
+-31.219745942275 -95.145856446856
+(S1 (S (ADVP (NP (QP (CD two) (NNS nights))) (IN ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-31.253648472002 -94.374597047458
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (S (NP (PRP she)) (VP (VBD had) (ADVP (NN diarrhea))))))
+-31.319081189424 -98.137791790137
+(S1 (S (NP (CD two) (NNS nights) (RB ago)) (NP (PRP she)) (VP (VBD had) (S (NP (NN diarrhea))))))
+-31.323935157795 -91.992432596051
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (S (NP (PRP she)) (VP (VBD had) (S (NP (NN diarrhea)))))))
+-31.414354221044 -98.364865319654
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea))))))
+-31.468202767536 -88.508983995462
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBD had) (SBAR (S (NP (NN diarrhea)))))))
+-31.529549843934 -97.795277044176
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (NP (PRP she) (VBN had) (NN diarrhea))))
+-31.867819294993 -91.280014417994
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (RB ago)) (S (NP (PRP she)) (VP (VBD had) (SBAR (S (NP (NN diarrhea))))))))
+-32.070135260811 -98.132164607861
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (S (NP (PRP she)) (VP (VBN had) (S (NP (NN diarrhea)))))))
+-32.165838584730 -98.197576470920
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (S (NP (PRP she)) (VP (VBN had) (ADVP (NN diarrhea))))))
+-32.415786232904 -96.688212201347
+(S1 (S (ADVP (NP (NP (CD two)) (NNS nights)) (IN ago)) (NP (PRP she)) (VP (VBD had) (NP (NN diarrhea)))))
+-34.228043901978 -97.562896657315
+(S1 (S (ADVP (NP (CD two) (NNS nights)) (IN ago)) (S (NP (PRP she)) (VP (VBD had) (SBAR (S (NP (NN diarrhea))))))))
+

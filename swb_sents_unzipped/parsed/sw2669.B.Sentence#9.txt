@@ -1,0 +1,102 @@
+50 x
+-8.945804966329 -35.316666068406
+(S1 (NP (JJ direct) (NN conversion)))
+-12.753102184326 -45.447406940070
+(S1 (NP (NNP direct) (NN conversion)))
+-13.034804699171 -42.198339090646
+(S1 (FRAG (NP (JJ direct) (NN conversion))))
+-13.393390923749 -41.308806429472
+(S1 (S (NP (JJ direct) (NN conversion))))
+-13.960143894218 -48.895635531869
+(S1 (NP (VB direct) (NN conversion)))
+-14.115791758612 -46.752640935764
+(S1 (X (NP (JJ direct) (NN conversion))))
+-14.215268687790 -45.131050954042
+(S1 (S (VP (VB direct) (NP (NN conversion)))))
+-15.103944414638 -47.809235352327
+(S1 (VP (VB direct) (NP (NN conversion))))
+-15.176471594841 -47.479529863926
+(S1 (NP (ADJP (JJ direct)) (NN conversion)))
+-15.452281380822 -49.648219716736
+(S1 (NP (NP (JJ direct)) (NN conversion)))
+-15.940766856823 -48.295245190047
+(S1 (FRAG (NP (VB direct) (NN conversion))))
+-16.031686558915 -49.141804824950
+(S1 (NP (NP (JJ direct)) (NP (NN conversion))))
+-16.130458015337 -48.906675401021
+(S1 (FRAG (NP (NNP direct) (NN conversion))))
+-16.175547574867 -48.946363094226
+(S1 (ADJP (JJ direct) (NP (NN conversion))))
+-16.282575538349 -50.227080143186
+(S1 (FRAG (JJ direct) (NP (NN conversion))))
+-16.390194664473 -50.463851207417
+(S1 (S (NP (NNP direct)) (VP (NN conversion))))
+-16.467644984052 -52.956128948423
+(S1 (NP (NP (NNP direct)) (NN conversion)))
+-16.477172717301 -50.526805650580
+(S1 (S (VP (JJ direct) (NP (NN conversion)))))
+-16.545803038576 -50.653662095190
+(S1 (S (NP (NNP direct) (NN conversion))))
+-16.630458077347 -51.039940424352
+(S1 (NP (NP (NNP direct)) (NP (NN conversion))))
+-16.800296950366 -46.727463912018
+(S1 (FRAG (ADJP (JJ direct)) (NP (NN conversion))))
+-17.169331047298 -47.759396479912
+(S1 (S (ADJP (JJ direct)) (NP (NN conversion))))
+-17.196004616448 -54.432623633821
+(S1 (NP (NP (VB direct)) (NN conversion)))
+-17.196613092341 -55.062019946873
+(S1 (X (NP (NNP direct) (NN conversion))))
+-17.223091355487 -51.223433181643
+(S1 (FRAG (VP (VB direct) (NP (NN conversion)))))
+-17.361423028394 -50.323317449706
+(S1 (S (NP (JJ direct)) (VP (NN conversion))))
+-17.447374300697 -54.196969291666
+(S1 (NP (NP (VB direct)) (NP (NN conversion))))
+-17.475572795778 -52.702386747275
+(S1 (S (VP (NNP direct) (NP (NN conversion)))))
+-17.525046310731 -50.929849363416
+(S1 (S (NP (NNP direct)) (NP (NN conversion))))
+-17.697827309814 -52.507287130952
+(S1 (S (VP (VB direct) (VP (NN conversion)))))
+-17.779697277810 -51.874778367984
+(S1 (S (ADJP (JJ direct) (NP (NN conversion)))))
+-18.051899368360 -51.494008552672
+(S1 (FRAG (ADJP (JJ direct) (NP (NN conversion)))))
+-18.136727376440 -50.789315605705
+(S1 (S (NP (JJ direct)) (NP (NN conversion))))
+-18.226287027405 -53.111118264928
+(S1 (S (VP (VB direct) (S (VP (NN conversion))))))
+-18.240235568626 -50.951041830895
+(S1 (S (NP (NNP direct)) (ADJP (NN conversion))))
+-18.294588919406 -52.904008841083
+(S1 (S (VP (VB direct) (S (NP (NN conversion))))))
+-18.332129993693 -51.369522612787
+(S1 (FRAG (NP (ADJP (JJ direct)) (NN conversion))))
+-18.359384892721 -54.334161078783
+(S1 (VP (VB direct) (VP (NN conversion))))
+-18.632875135854 -54.191425998703
+(S1 (FRAG (S (VP (VB direct) (NP (NN conversion))))))
+-18.710684842723 -52.301508992361
+(S1 (ADJP (JJ direct) (S (VP (NN conversion)))))
+-18.951266218748 -54.868396928922
+(S1 (VP (VB direct) (S (VP (NN conversion)))))
+-19.005547616747 -50.810508073184
+(S1 (S (NP (JJ direct)) (ADJP (NN conversion))))
+-19.089373944533 -54.106464510116
+(S1 (FRAG (NP (NP (JJ direct)) (NP (NN conversion)))))
+-19.289810011353 -53.163980706542
+(S1 (S (VP (VB direct) (S (ADJP (NN conversion))))))
+-19.307606275214 -53.184754781994
+(S1 (S (VP (VB direct) (ADJP (NN conversion)))))
+-19.549471138683 -54.227919674762
+(S1 (VP (VB direct) (ADJP (NN conversion))))
+-19.636041218203 -53.501799673499
+(S1 (S (NP (ADJP (JJ direct)) (NN conversion))))
+-19.779700207054 -55.152649260554
+(S1 (ADJP (JJ direct) (S (NP (NN conversion)))))
+-20.087017442217 -55.255972137151
+(S1 (S (ADJP (JJ direct) (S (VP (NN conversion))))))
+-20.672345063479 -55.227505747749
+(S1 (FRAG (ADJP (JJ direct) (S (VP (NN conversion))))))
+

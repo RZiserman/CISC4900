@@ -1,0 +1,102 @@
+50 x
+-11.851299569951 -38.703247873080
+(S1 (S (NP (DT all)) (NP (PRP they)) (VP (VBP have))))
+-11.973421955112 -36.201400395142
+(S1 (SBAR (DT all) (S (NP (PRP they)) (VP (VBP have)))))
+-12.776093822460 -38.131241722136
+(S1 (S (RB all) (NP (PRP they)) (VP (VBP have))))
+-13.380833070184 -45.019535229319
+(S1 (NP (NP (DT all)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))
+-13.489444930081 -37.974089858685
+(S1 (S (ADVP (DT all)) (NP (PRP they)) (VP (VBP have))))
+-13.831494462721 -43.165963210125
+(S1 (S (RB all) (NP (PRP they)) (VP (VB have))))
+-14.024729289491 -47.160122121463
+(S1 (S (NP (DT all)) (NP (PRP they)) (VP (VB have))))
+-14.176467570936 -44.544870651240
+(S1 (SBAR (DT all) (S (NP (PRP they)) (VP (VB have)))))
+-14.188442095375 -48.682360787957
+(S1 (NP (PDT all) (SBAR (S (NP (PRP they)) (VP (VBP have))))))
+-14.249303282992 -43.525287636678
+(S1 (S (NP (DT all) (NP (PRP they))) (VP (VBP have))))
+-14.308603729916 -43.959453136735
+(S1 (S (NP (DT all) (PRP they)) (VP (VBP have))))
+-14.323479362474 -43.545284455312
+(S1 (S (ADVP (RB all)) (NP (PRP they)) (VP (VBP have))))
+-14.328527472746 -41.230013644030
+(S1 (SBAR (WHNP (DT all)) (S (NP (PRP they)) (VP (VBP have)))))
+-14.702188177570 -42.384765786767
+(S1 (S (RB all) (S (NP (PRP they)) (VP (VBP have)))))
+-14.825601041912 -45.681600402218
+(S1 (S (NP (DT all)) (S (NP (PRP they)) (VP (VBP have)))))
+-14.871007060034 -48.396637811194
+(S1 (S (NP (DT all) (PRP they)) (VP (VB have))))
+-15.126476568583 -49.372180437093
+(S1 (NP (NP (PDT all)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))
+-15.130897302532 -45.346336007388
+(S1 (S (X (DT all)) (NP (PRP they)) (VP (VBP have))))
+-15.342837195730 -48.343450184943
+(S1 (SBAR (RB all) (S (NP (PRP they)) (VP (VBP have)))))
+-15.409418942480 -48.581662673305
+(S1 (S (ADVP (RB all)) (NP (PRP they)) (VP (VB have))))
+-15.476684701842 -47.194020851616
+(S1 (FRAG (RB all) (SBAR (S (NP (PRP they)) (VP (VBP have))))))
+-15.565642248299 -46.231251269583
+(S1 (S (ADVP (PDT all)) (NP (PRP they)) (VP (VBP have))))
+-15.620354889273 -47.133419757558
+(S1 (S (ADVP (DT all)) (NP (PRP they)) (VP (VB have))))
+-15.636038090998 -49.198235712404
+(S1 (S (NP (PDT all) (NP (PRP they))) (VP (VBP have))))
+-15.684516877562 -50.490114201113
+(S1 (S (NP (PDT all)) (NP (PRP they)) (VP (VBP have))))
+-15.726465695770 -48.028251128608
+(S1 (S (RB all) (S (NP (PRP they)) (VP (VB have)))))
+-15.865562184469 -51.062117882207
+(S1 (S (NP (DT all) (NP (PRP they))) (VP (VB have))))
+-15.927976937885 -49.554095178719
+(S1 (S (NP (NP (PDT all)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))
+-15.936838041019 -51.201308416656
+(S1 (S (NP (DT all)) (S (NP (PRP they)) (VP (VB have)))))
+-16.042105536884 -52.036924014704
+(S1 (S (NP (NP (DT all)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))
+-16.094083558540 -46.143663442535
+(S1 (FRAG (NP (DT all)) (S (NP (PRP they)) (VP (VBP have)))))
+-16.234893896156 -43.726811825165
+(S1 (S (ADVP (DT all)) (S (NP (PRP they)) (VP (VBP have)))))
+-16.374480359759 -51.496245568483
+(S1 (NP (NP (DT all)) (S (NP (PRP they)) (VP (VBP have)))))
+-16.559406193272 -51.950017139911
+(S1 (S (X (DT all)) (NP (PRP they)) (VP (VB have))))
+-16.767040082542 -50.723519127691
+(S1 (S (NP (RB all) (PRP they)) (VP (VBP have))))
+-16.882014718534 -48.981967129998
+(S1 (FRAG (SBAR (RB all) (S (NP (PRP they)) (VP (VBP have))))))
+-16.919558769174 -48.853927132153
+(S1 (FRAG (NP (DT all) (PRP they)) (VP (VB have))))
+-16.938464035761 -49.298006421792
+(S1 (S (ADVP (RB all)) (S (NP (PRP they)) (VP (VBP have)))))
+-16.973242306607 -51.463459293386
+(S1 (SBAR (WHNP (DT all)) (S (NP (PRP they)) (VP (VB have)))))
+-17.043804513239 -49.166618151883
+(S1 (S (NP (RB all)) (NP (PRP they)) (VP (VBP have))))
+-17.128018587968 -52.191887245009
+(S1 (FRAG (RB all) (SBAR (S (NP (PRP they)) (VP (VB have))))))
+-17.145782162527 -51.997396621745
+(S1 (S (X (RB all)) (NP (PRP they)) (VP (VBP have))))
+-17.190165530144 -50.091465726792
+(S1 (FRAG (NP (DT all)) (S (NP (PRP they)) (VP (VB have)))))
+-17.272349219007 -51.062517926454
+(S1 (S (NP (NP (DT all)) (ADVP (PRP they))) (VP (VBP have))))
+-17.597569563467 -49.891268248877
+(S1 (SBAR (S (NP (DT all) (NP (PRP they))) (VP (VBP have)))))
+-17.653013730970 -50.750924842123
+(S1 (SBAR (S (NP (DT all) (PRP they)) (VP (VBP have)))))
+-18.183501484374 -51.983973236063
+(S1 (S (ADVP (PDT all)) (S (NP (PRP they)) (VP (VBP have)))))
+-18.524519770513 -50.426986643644
+(S1 (FRAG (NP (RB all)) (S (NP (PRP they)) (VP (VBP have)))))
+-18.768355439036 -51.590361149129
+(S1 (FRAG (S (NP (DT all) (NP (PRP they))) (VP (VBP have)))))
+-18.827655885960 -52.024526649186
+(S1 (FRAG (S (NP (DT all) (PRP they)) (VP (VBP have)))))
+

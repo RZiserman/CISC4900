@@ -1,0 +1,102 @@
+50 x
+-15.833820759847 -53.165027484003
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))
+-16.240302635544 -52.969198076899
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))
+-16.906946649409 -62.089347740167
+(S1 (SBAR (IN So) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))
+-17.314744951643 -60.957241566626
+(S1 (S (CC So) (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))
+-17.328347193779 -57.367796250809
+(S1 (S (ADVP (RB So)) (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))
+-17.776000073443 -57.222722157607
+(S1 (S (RB So) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))
+-17.946845150520 -61.487850684401
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))))
+-18.351638722477 -59.241328521957
+(S1 (S (IN So) (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety)))))
+-18.979946437567 -65.123372999521
+(S1 (S (CC So) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))
+-19.020144330611 -60.099787869819
+(S1 (S (RB So) (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety)))))
+-19.214608693153 -67.190816907182
+(S1 (SBAR (IN So) (S (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety))))))
+-19.287053725283 -64.487067089709
+(S1 (S (CC So) (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety)))))
+-19.322079600194 -59.633350210737
+(S1 (S (ADVP (IN So)) (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))
+-19.473674800581 -65.655058821142
+(S1 (S (ADJP (RB So) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))))
+-19.521438957633 -63.456181304591
+(S1 (FRAG (RB So) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))))
+-19.591519362641 -63.120518233366
+(S1 (S (ADVP (RB So)) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))
+-19.660930117751 -64.119954337473
+(S1 (ADJP (RB So) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))))
+-19.733945534476 -63.644676755589
+(S1 (SQ (RB So) (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety)))))
+-19.792514574989 -65.682244891918
+(S1 (SBAR (RB So) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))
+-19.794118428813 -66.454976726513
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (VP (NP (JJ big) (NN variety))))))
+-20.112101379875 -68.374005179332
+(S1 (FRAG (IN So) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))))
+-20.134547867507 -66.783144222694
+(S1 (SQ (RB So) (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))
+-20.196959001722 -66.259147319410
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (VP (NP (JJ big) (NN variety))))))
+-20.366264460011 -67.088017192098
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety)))))))
+-20.395107317683 -65.439789936688
+(S1 (S (ADVP (RB So)) (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety)))))
+-20.501988403428 -64.330736748876
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (VP (JJ big) (NP (NN variety))))))
+-20.677551145660 -64.962075793785
+(S1 (S (RB So) (S (NP (PRP they)) (VP (VB have) (NP (JJ big) (NN variety))))))
+-20.678122346162 -64.869555147638
+(S1 (S (INTJ (RB So)) (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))
+-20.875343514123 -65.970201205320
+(S1 (FRAG (CC So) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))
+-20.904828976338 -64.134907341773
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (VP (JJ big) (NP (NN variety))))))
+-20.961559935126 -65.322953052128
+(S1 (FRAG (ADJP (RB So) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))))
+-21.006355957056 -65.386072193294
+(S1 (S (ADVP (IN So)) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety))))))
+-21.093758201739 -67.664167285738
+(S1 (FRAG (ADVP (RB So)) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))))
+-21.229539104924 -64.307343059335
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (S (NP (JJ big) (NN variety))))))
+-21.292156608160 -66.173211989830
+(S1 (FRAG (SBAR (RB So) (S (NP (PRP they)) (VP (VBP have) (NP (JJ big) (NN variety)))))))
+-21.444022072443 -65.047315275106
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (ADVP (JJ big) (NN variety)))))
+-21.513894270192 -62.924241123330
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (NP (ADJP (JJ big)) (NN variety)))))
+-21.603411493491 -68.175292800866
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (NP (NP (JJ big)) (NN variety)))))
+-21.636020977833 -64.111513652232
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (S (NP (JJ big) (NN variety))))))
+-21.850503945353 -64.851485868003
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (ADVP (JJ big) (NN variety)))))
+-21.920376145890 -62.728411716227
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (NP (ADJP (JJ big)) (NN variety)))))
+-21.992873537360 -68.533505515683
+(S1 (S (ADVP (RB So)) (NP (PRP they)) (VP (VBP have) (VP (JJ big) (NP (NN variety))))))
+-22.009893366401 -67.979463393763
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (NP (NP (JJ big)) (NN variety)))))
+-22.493845099722 -68.388431353041
+(S1 (S (RB So) (S (NP (PRP they)) (VP (VBP have) (VP (JJ big) (NP (NN variety)))))))
+-22.724065538856 -68.510111826142
+(S1 (S (ADVP (RB So)) (NP (PRP they)) (VP (VBP have) (S (NP (JJ big) (NN variety))))))
+-22.825581416753 -67.852625095050
+(S1 (S (IN So) (NP (PRP they)) (VP (VBP have) (NP (JJ big)) (NP (NN variety)))))
+-23.008420704124 -67.127009890137
+(S1 (S (ADVP (RB So)) (NP (PRP they)) (VP (VBP have) (NP (ADJP (JJ big)) (NN variety)))))
+-23.232063289662 -67.656795687947
+(S1 (S (RB So) (NP (PRP they)) (VP (VBP have) (NP (JJ big)) (NP (NN variety)))))
+-23.242287802278 -68.365037605208
+(S1 (S (RB So) (S (NP (PRP they)) (VP (VBP have) (S (NP (JJ big) (NN variety)))))))
+-23.299587133788 -66.981935796935
+(S1 (S (RB So) (S (NP (PRP they)) (VP (VBP have) (NP (ADJP (JJ big)) (NN variety))))))
+

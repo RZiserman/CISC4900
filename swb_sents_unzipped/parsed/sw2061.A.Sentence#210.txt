@@ -1,0 +1,102 @@
+50 x
+-17.505799851561 -59.364452527347
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-20.115675327293 -70.218168717090
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-20.321554676079 -63.959397560178
+(S1 (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-21.518897497197 -66.586021868298
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-21.579223059813 -76.344710795889
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (POS 's) (S (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-21.769617806719 -66.219151502130
+(S1 (FRAG (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-22.394266474699 -74.260218511195
+(S1 (SBAR (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-22.545858733070 -71.230773980959
+(S1 (SBAR (IN of) (NN course) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-22.561258304444 -77.981626087728
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (S (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-22.561885527372 -71.268264559544
+(S1 (FRAG (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))))
+-22.613548233127 -73.787753953202
+(S1 (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))
+-22.628758987916 -73.157402279234
+(S1 (S (PP (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))))
+-22.754513863627 -73.309191460621
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))
+-22.754595520447 -72.808369736159
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB take) (NP (DT a) (NN lot))))))))))
+-23.293894815328 -72.262413898041
+(S1 (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))
+-23.294136753307 -71.762092045289
+(S1 (S (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))))
+-23.360929106256 -75.490316172537
+(S1 (SBAR (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-23.413729175227 -70.358096616971
+(S1 (FRAG (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))))
+-23.458487679284 -80.142043422801
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it) (VBZ 's)) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))
+-23.523997858359 -77.713383075368
+(S1 (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (POS 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-23.562435375944 -75.603996355771
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+-23.632398669287 -75.976923268973
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))
+-23.791610087436 -72.325757712325
+(S1 (FRAG (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-23.997827034095 -73.269177396715
+(S1 (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-24.080917302387 -77.433956439437
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))
+-24.117661433023 -71.364860258276
+(S1 (FRAG (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))
+-24.220442641707 -76.741461013132
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (S (NP (DT a) (NN lot))))))))))
+-24.394673131889 -73.161951356056
+(S1 (FRAG (SBAR (IN of) (NN course) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-24.486987015347 -72.768855493073
+(S1 (S (PP (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))
+-24.689100117098 -77.818050776445
+(S1 (FRAG (SBAR (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-24.925733080267 -76.045123855793
+(S1 (FRAG (IN of) (NP (NP (NN course)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))
+-25.410741096689 -77.904136696123
+(S1 (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-25.428120713743 -78.501669936423
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (NP (DT a)) (NN lot)))))))))
+-25.500274185937 -79.042399970551
+(S1 (FRAG (SBAR (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-25.515318584756 -78.414873905774
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (PP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))
+-25.570350344966 -77.403314768990
+(S1 (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-25.831048736970 -78.502969635564
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-25.851271921882 -75.949058004888
+(S1 (FRAG (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))
+-26.037269933822 -79.152088682472
+(S1 (S (NP (IN of) (NN course)) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-26.055430331109 -80.471831768563
+(S1 (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (ADJP (VBG going)) (SBAR (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-26.084293860463 -80.198941388602
+(S1 (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-26.280921782018 -80.395827342313
+(S1 (SBAR (S (PP (IN of) (NP (NN course) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))))
+-26.448153493806 -80.571868301804
+(S1 (S (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-26.602349542319 -79.965731266942
+(S1 (FRAG (PP (IN of) (NP (NP (NN course)) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))))
+-26.753141186627 -80.530760830766
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-26.767693166083 -80.029939077110
+(S1 (FRAG (S (PP (IN of) (NP (NN course))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-26.932383996148 -80.163890464598
+(S1 (FRAG (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBG going)) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))
+-27.018413475605 -79.663068710942
+(S1 (FRAG (PP (IN of) (NP (NN course))) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (S (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-27.179757135810 -78.175461991958
+(S1 (FRAG (IN of) (NP (NN course) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot)))))))))))
+-27.462555803240 -77.925597915115
+(S1 (FRAG (NP (IN of) (NN course)) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (DT a) (NN lot))))))))))
+

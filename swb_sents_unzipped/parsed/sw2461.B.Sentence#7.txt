@@ -1,0 +1,102 @@
+50 x
+-24.865561330950 -74.396136654970
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-25.479517606760 -80.546808549476
+(S1 (NP (NP (DT an)) (SBAR (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))))
+-26.405824982361 -81.178235742223
+(S1 (S (X (DT an)) (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-26.539594360719 -88.228024796982
+(S1 (S (NP (DT an)) (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-26.718510691484 -83.976481343485
+(S1 (S (NP (DT an) (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-26.837144564889 -81.523213854377
+(S1 (S (ADVP (DT an)) (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-26.977827258711 -79.587317187074
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-27.030543042315 -85.439527666251
+(S1 (S (NP (DT an) (NP (PRP you))) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-27.756664845513 -90.200310801027
+(S1 (S (NP (NP (DT an)) (SBAR (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))))
+-28.133309273850 -84.523672845140
+(S1 (FRAG (NP (DT an)) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-28.152530367952 -88.589111262761
+(S1 (NP (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-28.280139939127 -88.381180241339
+(S1 (NP (NP (DT an)) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-28.305796463437 -90.506698245147
+(S1 (S (NP (DT an)) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-28.713340426277 -88.966450062035
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (VB stress) (CC and) (VB pressure)))))))
+-28.754074940131 -89.426051492195
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (NP (IN about) (NN stress) (CC and) (NN pressure))))))
+-28.761382837052 -91.147591437383
+(S1 (S (NP (DT an)) (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-28.764157470927 -90.375678518598
+(S1 (SBAR (S (NP (NP (DT an)) (SBAR (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))))))
+-28.798196640029 -81.460759187755
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (NN pressure))))))))
+-28.966967759763 -89.770905193540
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (NN talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-29.035986822315 -88.637189747283
+(S1 (S (NP (DT an) (PRP you)) (VP (VB talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-29.037474419915 -91.550096217334
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (NP (RB about) (NN stress) (CC and) (NN pressure))))))
+-29.412152913051 -87.611431082261
+(S1 (NP (NP (DT an)) (SBAR (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (NN pressure)))))))))
+-29.559049346987 -88.182182322480
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (VB pressure)))))))
+-29.671661204405 -88.597193275471
+(S1 (S (X (DT an)) (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-29.932445364286 -82.991353409479
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VP (VBP talk) (PP (IN about) (NP (NN stress)))) (CC and) (VP (VBP pressure))))))
+-30.172219415104 -87.029964367456
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (VB pressure))))))))
+-30.228418530070 -90.290836467609
+(S1 (SBAR (X (DT an)) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-30.254128469096 -89.687040379927
+(S1 (S (ADVP (DT an)) (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))
+-30.326324847311 -87.331671487008
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VP (VBP talk) (PP (IN about) (NP (NN stress)))) (CC and) (VP (VB pressure))))))
+-30.338460291440 -88.242858275008
+(S1 (S (X (DT an)) (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (NN pressure)))))))
+-30.424276901116 -90.940008746816
+(S1 (SBAR (S (NP (DT an) (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-30.446303549387 -92.000623267491
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PRT (RP about)) (NP (NN stress) (CC and) (NN pressure))))))
+-30.583613877682 -86.387510173567
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VP (VB talk) (PP (IN about) (NP (NN stress)))) (CC and) (VP (VB pressure))))))
+-30.615147125109 -89.142025303985
+(S1 (NP (NP (DT an)) (SBAR (S (NP (PRP you)) (VP (VP (VBP talk) (PP (IN about) (NP (NN stress)))) (CC and) (VP (VBP pressure)))))))
+-30.651146000563 -91.041103876270
+(S1 (S (NP (DT an) (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (NN pressure)))))))
+-30.698345592187 -89.960433589753
+(S1 (FRAG (NP (DT an)) (S (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-30.740165567609 -91.977564117505
+(S1 (SBAR (S (NP (DT an) (NP (PRP you))) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-30.769779873968 -88.587836387162
+(S1 (S (ADVP (DT an)) (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (NN pressure)))))))
+-30.844923310517 -88.442550598866
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (S (NP (NN stress) (CC and) (NN pressure))))))))
+-30.856991666946 -87.887075718707
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (PP (RB about) (NP (NN stress) (CC and) (NN pressure)))))))
+-30.958365783002 -86.651939719859
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (NN pressure))))))))
+-31.028271087096 -90.914914086369
+(S1 (FRAG (S (NP (DT an) (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure)))))))
+-31.176707548316 -88.846774676099
+(S1 (FRAG (SBAR (X (DT an)) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))))
+-31.187334704284 -91.045901156852
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VBP talk) (NP (NP (IN about) (NN stress)) (CC and) (NP (NN pressure)))))))
+-31.799298730857 -89.571592912122
+(S1 (S (X (DT an)) (NP (PRP you)) (VP (VP (VBP talk) (PP (IN about) (NP (NN stress)))) (CC and) (VP (VBP pressure)))))
+-32.065944580141 -91.588295377925
+(S1 (FRAG (NP (DT an)) (S (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (NN pressure))))))))
+-32.230618313385 -89.916571024276
+(S1 (S (ADVP (DT an)) (NP (PRP you)) (VP (VP (VBP talk) (PP (IN about) (NP (NN stress)))) (CC and) (VP (VBP pressure)))))
+-32.497782460077 -92.221144899560
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NP (NN stress)) (CC and) (NP (VB pressure))))))))
+-32.736821128145 -92.049476541281
+(S1 (FRAG (SBAR (X (DT an)) (S (NP (PRP you)) (VP (VB talk) (PP (IN about) (NP (NN stress) (CC and) (NN pressure))))))))
+-33.185140796838 -92.137994396125
+(S1 (SBAR (DT an) (S (NP (PRP you)) (VP (VP (VBP talk) (NP (IN about) (NN stress))) (CC and) (VP (VBP pressure))))))
+

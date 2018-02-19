@@ -1,0 +1,102 @@
+50 x
+-19.484891658673 -61.501713290398
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (DT that)) (ADVP (RB too)))))
+-20.884926777366 -67.907399703186
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (DT that) (ADVP (RB too)))))
+-20.893953325601 -65.217789677985
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADVP (RB that) (RB too)))))
+-20.906776055283 -63.693716225114
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADVP (IN that) (RB too)))))
+-20.950724670563 -66.586972428388
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADVP (DT that) (RB too)))))
+-21.206442671404 -71.066569533839
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (DT that) (RB too)))))
+-21.329857136128 -66.452785894751
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (NP (DT that)) (ADVP (RB too))))))
+-21.677746877782 -67.019701976413
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (NP (DT that)) (ADJP (RB too))))))
+-21.718662629361 -69.939854249225
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (IN that) (RB too)))))
+-21.980809112633 -69.957366230799
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VB like) (NP (DT that)) (ADVP (RB too)))))
+-22.120542631763 -64.104033201632
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (IN that)) (ADVP (RB too)))))
+-22.136862594232 -68.658919222070
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (PP (IN that) (ADVP (RB too)))))))
+-22.179124353429 -69.651269103576
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (PP (IN that) (NP (RB too)))))))
+-22.490562874975 -71.576092238429
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (NP (DT that)) (ADVP (RB too))))))
+-22.773208434962 -71.613065242271
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADVP (RB that)) (ADVP (RB too)))))
+-22.871357805319 -70.781612040600
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (RB that) (ADVP (RB too)))))
+-22.929925169180 -70.203738097478
+(S1 (S (ADVP (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (DT that)) (ADVP (RB too)))))
+-23.052737437818 -65.607859691436
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (SBAR (IN that) (FRAG (ADVP (RB too)))))))
+-23.100318694965 -67.910744503001
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (WDT that)) (ADVP (RB too)))))
+-23.444144489531 -72.581411852499
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (IN like) (NP (DT that)) (ADVP (RB too)))))
+-23.525832877859 -70.635163257920
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (SBAR (IN that) (S (ADVP (RB too)))))))
+-23.654759612078 -72.772375119616
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VB like) (S (NP (DT that)) (ADVP (RB too))))))
+-23.687202980387 -70.635097393411
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (ADJP (IN that) (RB too))))))
+-23.719408798754 -71.416331156251
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (SBAR (IN that) (FRAG (RB too))))))
+-23.743102322375 -72.584487488964
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VB like) (ADVP (RB that) (RB too)))))
+-23.920122169247 -72.306532644281
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (NP (DT that)) (ADJP (RB too))))))
+-23.977013170608 -72.449351997175
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (VP (ADVP (RB that) (RB too))))))
+-23.980152321848 -72.804924761898
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (PRT (IN that)) (ADVP (RB too)))))
+-23.981706898704 -72.216481163297
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (VP (ADVP (IN that) (RB too))))))
+-24.024590239393 -72.476260121948
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADJP (IN that) (RB too)))))
+-24.085613130588 -71.189091410796
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VB like) (ADVP (IN that) (RB too)))))
+-24.151296652198 -72.198978378217
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADVP (DT that)) (ADVP (RB too)))))
+-24.170352580986 -73.051989610685
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VB like) (S (NP (DT that)) (ADJP (RB too))))))
+-24.183154529998 -72.218096482646
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADJP (RB that) (RB too)))))
+-24.315008830717 -72.946007927042
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (PP (IN that) (ADJP (RB too)))))))
+-24.351809563002 -72.395741032194
+(S1 (S (ADVP (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADVP (IN that) (RB too)))))
+-24.375299828111 -71.690584428338
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (SBAR (IN that) (S (ADJP (RB too)))))))
+-24.469374966245 -73.123642062814
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (NP (IN that)) (ADVP (RB too))))))
+-24.622212419458 -72.836590782938
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADVP (IN that)) (ADVP (RB too)))))
+-24.673238727707 -72.487005398125
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VB like) (NP (IN that)) (ADVP (RB too)))))
+-24.718389662760 -73.467983982964
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (IN like) (NP (IN that)) (ADVP (RB too)))))
+-24.906385056222 -70.584564112478
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (NP (WDT that)) (ADVP (RB too))))))
+-24.924309361202 -68.933418592468
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (ADJP (IN that) (ADVP (RB too)))))))
+-24.936379012660 -72.280010679420
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (NP (IN that)) (ADJP (RB too))))))
+-25.042832404793 -71.713094597758
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (NP (IN that)) (ADVP (RB too))))))
+-25.148549000088 -71.151480194139
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (S (NP (WDT that)) (ADJP (RB too))))))
+-25.148823561360 -72.095028366550
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VB like) (SBAR (IN that) (FRAG (ADVP (RB too)))))))
+-25.174267102531 -73.039321935290
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (RB that)) (ADVP (RB too)))))
+-25.197513765000 -71.204526290995
+(S1 (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP like) (ADJP (IN that) (ADVP (RB too))))))
+-25.565576142270 -72.806058008712
+(S1 (S (ADVP (UH Oh)) (NP (PRP I)) (VP (VBP like) (NP (IN that)) (ADVP (RB too)))))
+

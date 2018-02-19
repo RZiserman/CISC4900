@@ -1,0 +1,102 @@
+50 x
+-14.342126570584 -46.166011071397
+(S1 (S (CC and) (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo))))
+-17.501174569271 -49.596448996996
+(S1 (PP (CC and) (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo))))
+-17.634892376589 -50.795884534072
+(S1 (FRAG (CC and) (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo))))
+-18.392807669837 -56.638293089748
+(S1 (X (CC and) (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo))))
+-18.773171373627 -52.354300061802
+(S1 (FRAG (X (CC and) (PP (IN in) (NP (NN fact)))) (NP (NNP Tokyo))))
+-18.796068110498 -50.270024489189
+(S1 (FRAG (CC and) (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo)))))
+-18.854916358394 -53.214684685358
+(S1 (SQ (CC and) (FRAG (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo)))))
+-18.907560925328 -55.022010867823
+(S1 (FRAG (CC and) (PP (IN in) (NP (NN fact) (NNP Tokyo)))))
+-18.907855663721 -60.450638636954
+(S1 (S (CC and) (PP (IN in) (NP (NN fact) (NNP Tokyo)))))
+-18.956451137134 -52.850283510364
+(S1 (X (CC and) (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo)))))
+-19.196459177095 -51.401444234464
+(S1 (FRAG (PP (CC and) (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo)))))
+-19.219460129777 -55.694369882583
+(S1 (FRAG (CC and) (PP (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo))))))
+-19.288356464065 -60.723787579303
+(S1 (S (CC and) (PP (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo))))))
+-19.527881042701 -59.478322027104
+(S1 (S (CC and) (PP (IN in) (NN fact) (NP (NNP Tokyo)))))
+-19.674281660403 -52.018478536651
+(S1 (PP (CC and) (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo)))))
+-19.735404745615 -54.420638886211
+(S1 (SQ (CC and) (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo)))))
+-19.947654635907 -54.819531691902
+(S1 (FRAG (CC and) (FRAG (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo)))))
+-19.990352383420 -61.143443799078
+(S1 (X (CC and) (PP (IN in) (NP (NN fact) (NNP Tokyo)))))
+-20.249233219650 -59.230348276968
+(S1 (X (X (CC and) (PP (IN in) (NP (NN fact)))) (NP (NNP Tokyo))))
+-20.437696808278 -62.301654404239
+(S1 (X (CC and) (PP (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo))))))
+-20.534785250453 -58.096831571708
+(S1 (FRAG (CC and) (PP (IN in) (NN fact) (NP (NNP Tokyo)))))
+-20.681885009442 -62.277209221866
+(S1 (SQ (CC and) (PP (IN in) (NP (NN fact) (NNP Tokyo)))))
+-20.740102143578 -61.805050961201
+(S1 (S (CC and) (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo)))))
+-20.758111484402 -60.513753070192
+(S1 (PP (CC and) (PP (IN in) (NP (NN fact) (NNP Tokyo)))))
+-20.771622695880 -56.988547598909
+(S1 (S (PP (CC and) (IN in) (NP (NN fact))) (NP (NNP Tokyo))))
+-20.961353152982 -60.796349813688
+(S1 (PP (CC and) (PP (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo))))))
+-21.002932487234 -63.028149437795
+(S1 (S (CC and) (ADVP (IN in) (NN fact)) (NP (NNP Tokyo))))
+-21.008611584267 -62.118254896728
+(S1 (X (CC and) (PP (IN in) (S (VP (NN fact) (NP (NNP Tokyo)))))))
+-21.025098801043 -63.061895867474
+(S1 (SQ (CC and) (PP (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo))))))
+-21.081147715391 -62.406476830176
+(S1 (FRAG (CC and) (NP (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo)))))
+-21.132323144426 -60.886020292663
+(S1 (FRAG (CC and) (RB in) (NP (NP (NN fact)) (NP (NNP Tokyo)))))
+-21.236987670683 -59.620214915343
+(S1 (S (PP (CC and) (PP (IN in) (NP (NN fact)))) (NP (NNP Tokyo))))
+-21.254758397062 -61.999143520533
+(S1 (SQ (CC and) (FRAG (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo))))))
+-21.290581602825 -63.123758621382
+(S1 (X (CC and) (NP (PP (IN in) (NP (NN fact))) (NP (NNP Tokyo)))))
+-21.424769821465 -62.835082416867
+(S1 (X (CC and) (PP (IN in) (NN fact) (NP (NNP Tokyo)))))
+-21.524806676085 -57.410547764076
+(S1 (SQ (CC and) (FRAG (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo))))))
+-21.528079524677 -56.514659563429
+(S1 (FRAG (PP (CC and) (PP (IN in) (NP (NN fact)))) (NP (NNP Tokyo))))
+-21.554283993655 -58.917926904303
+(S1 (FRAG (CC and) (PP (IN in) (NP (NN fact))) (ADVP (NNP Tokyo))))
+-21.600446998192 -54.623928175031
+(S1 (FRAG (PP (CC and) (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo))))))
+-21.674181385279 -62.106995843806
+(S1 (FRAG (CC and) (PP (IN in) (NP (NP (NN fact)) (NNP Tokyo)))))
+-21.685402890786 -62.338671512997
+(S1 (SQ (CC and) (FRAG (PP (IN in) (NP (NN fact) (NNP Tokyo))))))
+-21.857485736196 -62.998315808072
+(S1 (FRAG (CC and) (PP (IN in) (S (VP (NN fact) (NP (NNP Tokyo)))))))
+-21.863631258586 -59.866265043702
+(S1 (FRAG (CC and) (PP (IN in) (NP (NN fact) (S (NP (NNP Tokyo)))))))
+-21.905231894983 -62.064889937159
+(S1 (FRAG (CC and) (FRAG (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo))))))
+-21.997302098023 -63.011030527757
+(S1 (SQ (CC and) (FRAG (PP (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo)))))))
+-22.109843017935 -56.650541739187
+(S1 (FRAG (PP (CC and) (IN in) (NP (NN fact))) (NP (NNP Tokyo))))
+-22.332402422057 -58.127612729093
+(S1 (FRAG (CC and) (FRAG (PP (IN in) (NP (NN fact)) (NP (NNP Tokyo))))))
+-22.492998636758 -63.055736478014
+(S1 (FRAG (CC and) (FRAG (PP (IN in) (NP (NN fact) (NNP Tokyo))))))
+-22.684276822191 -63.119202708572
+(S1 (FRAG (PP (CC and) (PP (IN in) (NP (NN fact) (NNP Tokyo))))))
+-22.887518490772 -63.401799452068
+(S1 (FRAG (PP (CC and) (PP (IN in) (NP (NP (NN fact)) (NP (NNP Tokyo)))))))
+

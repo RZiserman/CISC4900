@@ -1,0 +1,102 @@
+50 x
+-10.118796564448 -37.476296934563
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-15.134989906902 -53.685851345400
+(S1 (S (NP (PRP I)) (VP (VBD thought) (S (NP (PRP they)) (VP (VBD were))))))
+-15.705723903610 -55.597709412869
+(S1 (S (NP (PRP I)) (VBD thought) (NP (PRP they)) (VP (VBD were))))
+-16.413729587416 -58.422675987136
+(S1 (S (NP (PRP I)) (VP (VBN thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-16.739371206836 -56.334867620367
+(S1 (S (NP (NN I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-17.522258151994 -61.904359713885
+(S1 (S (NP (PRP I)) (VP (VBN thought) (S (NP (PRP they)) (VP (VBD were))))))
+-19.125462953450 -60.180553442730
+(S1 (S (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they)))) (VP (VBD were))))
+-19.542499748771 -62.438789945797
+(S1 (NP (NP (NN I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-19.698723282255 -68.537395856736
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they)) (SBAR (VBD were)))))
+-19.853858392665 -64.156264319695
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they)) (SBAR (S (VP (VBD were)))))))
+-19.862137040890 -64.896381986148
+(S1 (NP (NP (NN I)) (VP (VBN thought) (S (NP (PRP they)) (VP (VBD were))))))
+-19.960419728062 -70.390297407958
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they)) (VP (VBD were)))))
+-19.999175237964 -68.699484548518
+(S1 (S (NP (NN I)) (VP (VBN thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-19.999941750973 -71.064642606783
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (NP (PRP they)) (VP (VBD were))))))
+-20.357597862489 -66.955497471954
+(S1 (NP (NP (NN I)) (VP (VBN thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-20.376771004290 -68.482929818627
+(S1 (NP (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-20.873469410065 -71.824736721415
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they))) (VP (VBD were))))
+-21.147819594330 -72.181168275267
+(S1 (S (NP (NN I)) (VP (VBN thought) (S (NP (PRP they)) (VP (VBD were))))))
+-21.166065924486 -71.301784856645
+(S1 (S (NP (PRP I)) (VP (VBN thought) (NP (PRP they))) (VP (VBD were))))
+-21.263628110366 -71.670314360955
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they)) (S (VP (VBD were))))))
+-21.296700915233 -69.696414055300
+(S1 (S (NP (NN I)) (VBD thought) (NP (PRP they)) (VP (VBD were))))
+-21.308684909535 -67.198878350079
+(S1 (S (NP (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (VBD were))))))))
+-21.400885057690 -73.594892306556
+(S1 (S (NP (PRP I)) (VP (VP (VBD thought) (NP (PRP they))) (VP (VBD were)))))
+-21.566433080916 -68.381467799019
+(S1 (NP (NP (NN I)) (VP (VBD thought) (S (NP (PRP they)) (VP (VBD were))))))
+-21.770515176501 -72.544422031204
+(S1 (S (NP (NN I)) (VP (VBD thought) (S (NP (PRP they)) (VP (VBD were))))))
+-21.873098733337 -75.634181866873
+(S1 (NP (NP (PRP I)) (VP (VBN thought) (S (NP (PRP they)) (VP (VBD were))))))
+-22.198318607772 -72.756510665285
+(S1 (S (NP (NP (PRP I)) (VP (VBD thought) (NP (PRP they)))) (VP (VBD were))))
+-22.321794983702 -77.381651345488
+(S1 (NP (NP (PRP I)) (VP (VBN thought) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))
+-22.464713808055 -78.320974733745
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (NP (PRP they)) (SBAR (VBD were))))))
+-22.519133431852 -67.316927641250
+(S1 (S (NP (NP (NN I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (VBD were))))))))
+-22.572357700583 -78.271573972988
+(S1 (S (NP (PRP I)) (VP (VBN thought) (NP (NP (PRP they)) (VP (VBD were))))))
+-22.590775637886 -74.898024495092
+(S1 (S (NP (PRP I)) (VP (VBD thought) (S (NP (NP (PRP they)) (VP (VBD were)))))))
+-22.698238660535 -69.859848623515
+(S1 (S (NP (NP (NN I)) (VP (VBN thought) (S (NP (PRP they)) (VP (VBD were)))))))
+-22.761922895463 -75.829833203560
+(S1 (NP (NP (PRP I)) (VP (VBD thought) (S (NP (PRP they)) (VP (VBD were))))))
+-22.930977222160 -76.198133529285
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (NP (PRP they)) (SBAR (S (VP (VBD were))))))))
+-23.000383259335 -77.975683100390
+(S1 (S (NP (PRP I)) (VP (VBN thought) (NP (PRP they)) (S (VP (VBD were))))))
+-23.071481401497 -74.414054627587
+(S1 (S (NP (NP (PRP I)) (VP (VBN thought) (S (NP (PRP they)) (VP (VBD were)))))))
+-23.143166468195 -71.918964053817
+(S1 (S (NP (NP (NN I)) (VP (VBN thought) (SBAR (S (NP (PRP they)) (VP (VBD were))))))))
+-23.461074607815 -76.524137172231
+(S1 (S (NP (NP (PRP I)) (VP (VBN thought) (NP (PRP they)))) (VP (VBD were))))
+-23.469644651862 -76.161524106202
+(S1 (S (NP (NP (PRP I)) (VP (VBN thought) (SBAR (S (NP (PRP they)) (VP (VBD were))))))))
+-23.763182010495 -74.545781735011
+(S1 (S (NP (NP (PRP I)) (VP (VBD thought) (S (NP (PRP they)) (VP (VBD were)))))))
+-23.838258633385 -77.865437854937
+(S1 (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (NP (PRP they)) (VP (VBD were))))))))
+-23.890003138703 -78.324406144026
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (NP (PRP they)) (S (VP (VBD were)))))))
+-23.925837847420 -77.194666648026
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they))) (SBAR (VBD were))))
+-24.265044354912 -78.803921120765
+(S1 (S (NP (NP (PRP I)) (PP (VBN thought) (NP (PRP they)))) (VP (VBD were))))
+-24.359407172518 -79.260830370427
+(S1 (S (NP (PRP I)) (VP (VBN thought) (NP (PRP they)) (SBAR (S (VP (VBD were)))))))
+-24.424758453056 -75.818157526497
+(S1 (S (S (NP (PRP I)) (VP (VBN thought) (NP (PRP they)))) (VP (VBD were))))
+-24.612411970997 -73.259605494473
+(S1 (S (NP (NP (NN I)) (VP (VBD thought) (S (NP (PRP they)) (VP (VBD were)))))))
+-24.782315436795 -75.637924816244
+(S1 (S (NP (PRP I)) (VP (VBD thought) (NP (PRP they))) (SBAR (S (VP (VBD were))))))
+-25.516888198117 -79.831659199846
+(S1 (S (NP (NP (NN I)) (VP (VBD thought) (NP (PRP they)))) (VP (VBD were))))
+

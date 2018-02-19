@@ -1,0 +1,102 @@
+50 x
+-21.822762765595 -85.153409747140
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week) (NN program)))))))))
+-23.448282841810 -86.945176647101
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program)))))))))
+-24.586315774377 -92.607641461411
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week) (NN program)))))))))
+-25.696216600747 -93.296452047688
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week) (NN program))))))))
+-26.059785313484 -90.098797716692
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (CD six) (NN week) (NN program)))))))))
+-26.211835850592 -94.399408361373
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program)))))))))
+-26.778132868802 -90.647150941156
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week))) (NP (NN program))))))))
+-26.838847032036 -97.316670652971
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (NP (CD six) (NN week) (NN program))))))))))
+-26.957083129917 -89.702567393355
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program)))))))))
+-27.175074672034 -94.949083922812
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (ADJP (CD six)) (NN week) (NN program)))))))))
+-27.194216311017 -97.113358792474
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VB like) (NP (DT a) (CD six) (NN week) (NN program)))))))))
+-27.291246088565 -98.381180703145
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (S (NP (DT a) (CD six) (NN week) (NN program))))))))))
+-27.310550897261 -95.527116329372
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (ADJP (QP (CD six) (NN week))) (NN program)))))))))
+-27.321736676962 -95.088218947650
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program))))))))
+-27.400666130060 -97.698749913407
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (QP (CD six) (NN week)) (NN program)))))))))
+-27.575805994899 -93.529061592093
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (QP (DT a) (CD six) (NN week)) (NN program)))))))))
+-27.709177248103 -99.518391066838
+(S1 (S (NP (PRP I)) (VBP think) (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week) (NN program))))))
+-27.810430974143 -95.541180797373
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (QP (DT a) (CD six)) (NN week) (NN program)))))))))
+-28.067420735295 -94.992649389534
+(S1 (S (S (NP (PRP I)) (VP (VBP think) (NP (PRP it)))) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week) (NN program))))))
+-28.102069841693 -97.549883381311
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (NP (DT a) (CD six) (NN week)) (NP (NN program))))))))))
+-28.294338278777 -96.564303946633
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADVP (IN like) (NP (DT a) (CD six) (NN week) (NN program)))))))))
+-28.355986604855 -100.534144950182
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (NP (DT a) (CD six) (NN week)) (NN program)))))))))
+-28.399573369200 -94.195652167407
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week)) (NP (NN program)))))))))
+-28.399655988228 -98.788425118128
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (SBAR (IN like) (FRAG (NP (DT a) (CD six) (NN week) (NN program))))))))))
+-28.430362689632 -97.335858860642
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VB like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program)))))))))
+-28.496972455028 -100.309995758397
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (SBAR (IN like) (S (NP (DT a) (CD six) (NN week) (NN program))))))))))
+-28.746365730538 -100.086667731149
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (S (NP (DT a) (ADJP (CD six) (NN week)) (NN program))))))))))
+-28.804485522266 -97.553029430963
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (CD six) (NN week) (NN program)))))))))
+-29.264691460257 -98.995017072770
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (IN like) (DT a) (ADJP (CD six) (NN week)) (NN program))))))))
+-29.450304176185 -98.707855946024
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (SBAR (IN like) (FRAG (NP (DT a) (ADJP (CD six) (NN week)) (NN program))))))))))
+-29.692940811510 -96.784416289496
+(S1 (S (S (NP (PRP I)) (VP (VBP think) (NP (PRP it)))) (VP (VBD was) (PP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program))))))
+-29.701783341487 -97.156799107626
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program)))))))))
+-29.726965380372 -98.101382655427
+(S1 (S (NP (PRP I)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week))) (NP (NN program))))))))
+-29.909805045890 -100.571482432377
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (S (VP (VB like) (NP (DT a) (CD six) (NN week) (NN program))))))))))
+-29.911622935333 -98.241839937100
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (CD six) (NN week) (NN program))))))))
+-30.264518943679 -99.921474708554
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PRT (IN like)) (NP (DT a) (ADJP (CD six) (NN week)) (NN program))))))))
+-30.411406769253 -100.250707019170
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADVP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program)))))))))
+-30.501902041758 -96.114579149386
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (ADJP (CD six)) (NN week) (NN program)))))))))
+-30.613106561183 -97.915609760116
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (QP (DT a) (CD six)) (NN week) (NN program)))))))))
+-30.651586734620 -98.790193345387
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week))) (NP (NN program)))))))
+-30.808920751766 -97.845609613764
+(S1 (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program))))))))
+-30.865006857525 -96.836953457792
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (QP (DT a) (CD six) (NN week)) (NN program)))))))))
+-30.935525163422 -98.701231346218
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (ADJP (QP (CD six) (NN week))) (NN program)))))))))
+-31.015940101823 -99.899025782472
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (IN like) (NP (DT a) (QP (CD six) (NN week)) (NN program)))))))))
+-32.051514189984 -100.467077918241
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (SBAR (S (VP (VBP like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program)))))))))))
+-32.089344895039 -99.562472453045
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (QP (DT a) (CD six)) (NN week))) (NP (NN program))))))))
+-32.199206644820 -99.938037333784
+(S1 (S (S (NP (PRP I)) (VP (VBP think) (NP (PRP it)))) (VP (VBD was) (VP (IN like) (NP (DT a) (CD six) (NN week) (NN program))))))
+-32.412036256762 -100.059141845675
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN like) (NP (DT a) (ADJP (CD six)) (NN week))) (NP (NN program))))))))
+-32.709019626199 -100.486390533531
+(S1 (S (S (NP (PRP I)) (VP (VBP think) (NP (PRP it)))) (VP (VBD was) (PP (IN like) (NP (DT a) (CD six) (NN week))) (NP (NN program)))))
+-33.096504464041 -99.541807010447
+(S1 (S (S (NP (PRP I)) (VP (VBP think) (NP (PRP it)))) (VP (VBD was) (VP (IN like) (NP (DT a) (ADJP (CD six) (NN week)) (NN program))))))
+

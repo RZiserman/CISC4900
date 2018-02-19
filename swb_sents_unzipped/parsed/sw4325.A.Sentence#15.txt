@@ -1,0 +1,102 @@
+50 x
+-26.362532998361 -104.000104702226
+(S1 (S (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work))))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-27.210381877273 -103.346150776855
+(S1 (FRAG (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work))))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-27.941846602797 -104.872106830867
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work))))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))
+-28.256666692719 -104.452788598274
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work)))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-28.398613456951 -104.811250854558
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (UCP (S (VP (TO to) (VP (VB work)))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-28.413402575066 -103.490899747260
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (UCP (PP (TO to) (NP (NN work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-28.506655709505 -103.802467449102
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work)))))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))
+-28.629080943294 -102.344786017316
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (UCP (PP (TO to) (NP (VB work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-28.642413676007 -109.757042466572
+(S1 (S (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (VB work)))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-28.747951022381 -103.884684737830
+(S1 (FRAG (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB work))))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-28.875353194607 -100.727405353347
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))))
+-29.024795258147 -101.321320580190
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))))
+-29.102308283334 -109.602491697358
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VP (VB work)) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))))
+-29.263189133140 -104.197014347381
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (ADVP (CC and)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))))
+-29.378254959601 -109.753782834760
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (UCP (SBAR (S (VP (TO to) (VP (VB work))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-29.490262527041 -109.103088541201
+(S1 (FRAG (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (VB work)))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-29.585216841012 -107.960673747466
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work)))) (SBAR (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-29.670078520161 -106.233213326225
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (UCP (PP (TO to) (VP (VB work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-29.886685298866 -105.765010151047
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (UCP (PP (TO to) (NP (NN work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-29.927943398223 -108.457964629140
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (UCP (PP (TO to) (NP (VB work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-29.931721177511 -109.216118503869
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work)))))) (SBAR (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-29.969534957873 -109.604078359084
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (UCP (PP (TO to) (NP (NN work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-29.976551107921 -106.726898954390
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work)))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-30.029422232873 -107.085361258346
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (UCP (S (VP (TO to) (VP (VB work)))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-30.102363639215 -104.618896421104
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (UCP (PP (TO to) (NP (VB work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-30.127216713529 -107.409714756540
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (VB work))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-30.233680472511 -108.844409036481
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (NN work))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-30.256320171487 -107.988789195711
+(S1 (FRAG (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBN used) (PP (TO to) (NP (VB work)))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-30.340848009449 -109.548330984872
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work)))) (SBAR (WHADVP (CC and) (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-30.418578368930 -103.001515713814
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))))
+-30.439683218121 -109.362498972754
+(S1 (FRAG (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (NN work))))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-30.526465318037 -107.756575415593
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (FRAG (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))))
+-30.545143432347 -109.423483475652
+(S1 (FRAG (CC but) (SBAR (SBAR (S (NP (PRP I)) (VP (VBN used) (PP (TO to) (NP (NN work)))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-30.568020432471 -103.595430940657
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))))))
+-30.718175539917 -108.254541081775
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (NN work) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))))
+-30.729821996135 -109.103174459719
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work)))))) (SBAR (WHADVP (CC and) (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))
+-30.806414335341 -106.471124707848
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (ADVP (CC and)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))))
+-30.954971385029 -109.559405298577
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (VB work))))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))
+-31.079758438339 -106.318404791555
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (WHADVP (CC and) (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))))
+-31.105333672357 -108.119492498567
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (NP (VB work)) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-31.114815369860 -108.766303758229
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (NP (VB work)) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-31.143361216082 -108.507323730012
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (UCP (PP (TO to) (VP (VB work))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-31.146352456703 -107.423129373680
+(S1 (FRAG (CC but) (NP (PRP I)) (SBAR (SBAR (S (VP (VBN used) (S (VP (TO to) (VP (VB work))))))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))
+-31.275949461513 -108.673301325053
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (NP (NN work)) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))
+-31.590298557241 -109.069224653680
+(S1 (S (CC but) (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))))
+-31.705583720782 -109.663139880524
+(S1 (S (CC but) (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))))
+-31.888776146609 -109.683825272890
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (PP (TO to) (NP (VB work))) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children)))))))))
+-32.154047375849 -108.937603404286
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBN had) (NP (CD two) (NNS children)))))))))))
+-32.622983640541 -108.592515152022
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (WHADVP (CC and) (WRB when)) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS children))))))))))))
+-33.433902080073 -109.631350750389
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB work) (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD had) (S (NP (CD two) (NNS children))))))))))))
+

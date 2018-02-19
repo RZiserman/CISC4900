@@ -1,0 +1,102 @@
+50 x
+-36.884608641415 -123.622421158796
+(S1 (S (CC but) (NP (NNP But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-37.103696155844 -118.560263615630
+(S1 (S (CC but) (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))
+-37.676133772608 -115.959733855687
+(S1 (S (CC but) (SBAR (RB But) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-38.199483378992 -116.946066061373
+(S1 (S (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-39.050504758272 -119.764877482363
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-39.377869647858 -120.738774388250
+(S1 (X (CC but) (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))
+-39.680205213196 -122.244469726565
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NP (NN home)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))))
+-40.001432949056 -120.755645927260
+(S1 (S (CC but) (SBAR (ADVP (CC But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-40.044983714320 -120.422789456829
+(S1 (FRAG (CC but) (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))
+-40.137054761783 -125.650895113188
+(S1 (S (CC but) (ADVP (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home)))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-40.212002183770 -125.220739508274
+(S1 (FRAG (CC but) (NP (NNP But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-40.413847010013 -122.529265050956
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))))
+-40.505695481174 -123.071987890517
+(S1 (S (CC but) (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))
+-40.816360036489 -122.494436730335
+(S1 (FRAG (CC but) (ADVP (RB But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-41.078133070060 -120.471458130574
+(S1 (S (CC but) (SBAR (RB But) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-41.085813890020 -125.665916191930
+(S1 (S (CC but) (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (VP (RB not) (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))
+-41.195064502874 -121.625751730417
+(S1 (FRAG (CC but) (SBAR (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))
+-41.298700435257 -125.254773509426
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home)))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))))))
+-41.446060519291 -124.974028974537
+(S1 (FRAG (CC but) (ADVP (RB But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NP (NN home)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))))
+-41.599668046859 -123.426220975489
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (SBAR (PP (IN at) (NP (NN home))) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-41.601482676444 -121.457790336260
+(S1 (S (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-41.680393029057 -122.218973540510
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (SBAR (S (PP (IN at) (NP (NN home))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-41.706839932661 -123.065386642055
+(S1 (S (CC but) (SBAR (RB But) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (VP (RB not) (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-41.743841317112 -124.007100376505
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))))))))
+-41.812350611927 -126.045667269098
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))))))
+-42.040961399544 -124.650154050672
+(S1 (S (CC but) (SBAR (RB But) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (RB home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-42.100464080997 -122.748533522213
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-42.135966032829 -124.791978564026
+(S1 (FRAG (CC but) (ADVP (CC But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-42.179702288230 -125.258824298927
+(S1 (FRAG (CC but) (ADVP (RB But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))))
+-42.230189539045 -124.051718847742
+(S1 (S (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))))))) (NP (PRP it)) (VP (VBZ 's) (VP (RB not) (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-42.253432316823 -125.499327533083
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (S (PP (IN at) (NP (NN home))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))))))
+-42.378359620918 -123.342869620916
+(S1 (FRAG (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-42.564311005928 -125.636486256358
+(S1 (S (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (RB home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-42.779868973187 -125.250498663137
+(S1 (X (CC but) (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))
+-42.884482763486 -127.144897802212
+(S1 (FRAG (CC but) (FRAG (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))))))))
+-42.947708930326 -126.870530201259
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (RB not) (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-43.008060103720 -125.822461865118
+(S1 (FRAG (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NP (NN home)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))))
+-43.365523325076 -126.155780223460
+(S1 (FRAG (CC but) (ADVP (RB But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (SBAR (PP (IN at) (NP (NN home))) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-43.403432274386 -125.267370202147
+(S1 (S (CC but) (SBAR (ADVP (CC But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))
+-43.446248335151 -124.948532788482
+(S1 (FRAG (CC but) (ADVP (RB But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (SBAR (S (PP (IN at) (NP (NN home))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-43.446983011772 -124.934513731716
+(S1 (FRAG (CC but) (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))
+-43.509696595328 -126.736659624476
+(S1 (FRAG (CC but) (ADVP (RB But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere))))))))))))))))
+-43.577463522828 -126.776468199659
+(S1 (FRAG (CC but) (RB But) (SBAR (WHNP (IN if)) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home))) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-43.741701872659 -126.107257189509
+(S1 (FRAG (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (PP (IN at) (NP (NN home) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))))
+-43.819092401603 -126.927229442312
+(S1 (FRAG (CC but) (RB But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (RB home)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-43.866319387091 -125.478092770184
+(S1 (FRAG (CC but) (ADVP (RB But)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-44.597063828204 -126.137476005304
+(S1 (FRAG (CC but) (SBAR (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))
+-44.927522909505 -127.004213114042
+(S1 (FRAG (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (SBAR (PP (IN at) (NP (NN home))) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-45.008247919580 -125.796965679063
+(S1 (FRAG (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (SBAR (S (PP (IN at) (NP (NN home))) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+-45.428318971520 -126.326525660766
+(S1 (FRAG (CC but) (SBAR (ADVP (RB But)) (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB start) (ADVP (IN at) (NN home)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADVP (RB anywhere)))))))))))))))
+

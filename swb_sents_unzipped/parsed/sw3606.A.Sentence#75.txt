@@ -1,0 +1,102 @@
+50 x
+-18.907999663676 -53.428811240717
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-20.214323500721 -59.449216152871
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-20.881763875420 -62.446317917787
+(S1 (S (NP (UH Oh) (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-21.727328531172 -67.460740763349
+(S1 (S (NP (UH Oh) (EX there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-21.965285011355 -60.713990697487
+(S1 (S (ADVP (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-22.021635723448 -64.678577519510
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot)))))
+-22.036155312899 -64.274786163615
+(S1 (S (NP (INTJ (UH Oh)) (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-22.226298940974 -66.183873237804
+(S1 (S (INTJ (UH Oh) (RB there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-22.695199057916 -66.857531599962
+(S1 (S (NP (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-22.881719971439 -69.289209009177
+(S1 (S (NP (INTJ (UH Oh)) (EX there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-23.310137700004 -67.056156945190
+(S1 (S (ADVP (UH Oh)) (NP (EX there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-23.334150227278 -66.614385028125
+(S1 (S (INTJ (UH Oh)) (INTJ (RB there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-23.604611771607 -63.377836032694
+(S1 (S (INTJ (UH Oh)) (NP (RB there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-23.693240478181 -67.163379948735
+(S1 (FRAG (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-23.976069077544 -67.122559262917
+(S1 (FRAG (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot)))))))
+-24.004729826465 -72.862458618631
+(S1 (S (NP (UH Oh)) (NP (EX there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-24.249800194378 -71.211459512608
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (POS 's) (S (VP (VBN been) (NP (DT a) (NN lot)))))))
+-24.294196410176 -68.626679792535
+(S1 (FRAG (S (NP (UH Oh) (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot)))))))
+-24.333070565621 -64.654159772791
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (S (NP (DT a) (NN lot)))))))
+-24.432049265423 -74.432025778093
+(S1 (S (INTJ (UH Oh)) (NP (EX there) (VBZ 's)) (VP (VBN been) (NP (DT a) (NN lot)))))
+-24.446092486455 -70.964139844166
+(S1 (S (NP (NP (UH Oh)) (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-24.495407481253 -73.052385459873
+(S1 (S (INTJ (UH Oh)) (RB there) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-24.674436560689 -71.130875394908
+(S1 (S (INTJ (UH Oh)) (NP (RB there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-24.698517234265 -70.951581108278
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (PP (VBN been) (NP (DT a) (NN lot))))))
+-24.936648813476 -71.086424183144
+(S1 (S (INTJ (UH Oh)) (VP (ADVP (RB there)) (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-25.044176561605 -71.563666991482
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (SBAR (S (VP (VBN been) (NP (DT a) (NN lot))))))))
+-25.288580074394 -76.032554958453
+(S1 (S (INTJ (UH Oh)) (INTJ (RB there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-25.324630344996 -75.978562689728
+(S1 (S (NP (NP (UH Oh)) (EX there)) (VP (POS 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-25.394819417455 -70.327990158365
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (POS 's) (ADJP (VBN been) (NP (DT a) (NN lot))))))
+-25.409559968018 -70.568013044313
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (POS 's) (SBAR (S (VP (VBN been) (NP (DT a) (NN lot))))))))
+-25.419256902483 -73.583891656535
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (S (VP (VBN been) (NP (DT a) (NN lot)))))))
+-25.448587850443 -70.455148038363
+(S1 (FRAG (S (NP (INTJ (UH Oh)) (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot)))))))
+-25.566704095153 -72.673187588414
+(S1 (S (NP (ADVP (UH Oh)) (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-25.614740275818 -72.023783721549
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (POS 's) (PP (VBN been) (NP (DT a) (NN lot))))))
+-25.661957230658 -70.464265259102
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (POS 's) (VP (VBN been) (S (NP (DT a) (NN lot)))))))
+-25.679958874270 -75.591206742558
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VP (VBZ 's)) (VP (VBN been) (NP (DT a) (NN lot))))))
+-25.922433023572 -72.388966275878
+(S1 (S (INTJ (UH Oh)) (NP (RB there)) (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot)))))
+-26.056435518227 -72.081414721009
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (ADJP (VBN been) (NP (DT a) (NN lot))))))
+-26.306834777365 -73.671666449861
+(S1 (S (NP (UH Oh) (EX there)) (VP (VBZ 's) (VP (VBN been) (S (NP (DT a) (NN lot)))))))
+-26.410741695755 -71.782776036399
+(S1 (FRAG (INTJ (UH Oh)) (NP (RB there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-26.461595376613 -76.165942253978
+(S1 (S (ADVP (UH Oh)) (RB there) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-26.580065719763 -74.001870713856
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VBZ 's) (VP (VBN been) (S (NP (DT a) (NN lot))))))
+-26.621109464441 -71.257260895051
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (ADJP (VBN been)) (NP (DT a) (NN lot)))))
+-26.644872692738 -73.462719334399
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (POS 's) (ADJP (VBN been)) (NP (DT a) (NN lot)))))
+-26.748205084466 -73.311001423928
+(S1 (FRAG (S (ADVP (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot)))))))
+-27.052951597577 -72.268272912992
+(S1 (S (ADVP (UH Oh)) (NP (RB there)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (NN lot))))))
+-27.390355913300 -71.939339229560
+(S1 (S (ADVP (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (S (NP (DT a) (NN lot)))))))
+-27.461226217631 -75.500134695688
+(S1 (S (NP (INTJ (UH Oh)) (EX there)) (VP (VBZ 's) (VP (VBN been) (S (NP (DT a) (NN lot)))))))
+-27.717558525711 -72.917557187976
+(S1 (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (VP (VBN been) (NP (NP (DT a)) (NN lot))))))
+-29.029682673552 -74.603184564767
+(S1 (S (INTJ (UH Oh)) (NP (RB there)) (VP (VBZ 's) (VP (VBN been) (S (NP (DT a) (NN lot)))))))
+

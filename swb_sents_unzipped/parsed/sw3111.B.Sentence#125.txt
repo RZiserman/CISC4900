@@ -1,0 +1,102 @@
+50 x
+-55.663290984433 -196.469725135253
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NNP uh) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-56.094401811194 -199.057820316939
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NNP uh) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-56.304378305557 -197.491690587114
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NNP uh) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here))) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))
+-56.382016656492 -195.336737492315
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh))) (NP (NN gun) (NN control)) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-56.489737663038 -192.599583854726
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-56.813127483253 -197.924832666519
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh))) (NP (NN gun) (NN control)) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-56.920848461921 -195.187679036412
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-57.130824956285 -193.621549306587
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here))) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))
+-57.619855040920 -196.864787568555
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh) (NN gun))) (NP (NN control)) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-57.643366213470 -198.099355749823
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh) (NN gun))) (VP (VB control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))))
+-57.821502330683 -199.269475057014
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh) (NN gun))) (S (VP (VB control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))))
+-57.979137781965 -195.258985456078
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (ADVP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-58.410248580847 -197.847080637765
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (ADVP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-58.502339651792 -196.922582276850
+(S1 (S (NP (NP (PRP we)) (VP (ADVP (RB just)) (VBN voted) (PP (IN in) (NP (UH uh) (NN gun))))) (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-58.505423540563 -199.286558927937
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBN voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-58.620225075211 -196.280950907940
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (ADVP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here))) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))
+-58.709804805715 -196.155092578031
+(S1 (S (NP (NP (PRP we)) (VP (ADVP (RB just)) (VBN voted) (PP (IN in) (NP (UH uh) (NN gun))))) (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-58.787569196025 -196.758527372350
+(S1 (S (NP (PRP we)) (RB just) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-58.792734453823 -199.258580775742
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh))) (NP (NN gun) (NN control)) (NP (NP (JJ strong) (NN gun) (NN control)) (PP (ADVP (RB here)) (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-58.839140344245 -198.457116918737
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control) (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-58.900455460369 -196.521427173613
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (PP (ADVP (RB here)) (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-58.909785346208 -199.251813894461
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh))) (NP (NN gun) (NN control)) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-59.024486149708 -198.463688232349
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NNP uh) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-59.108262038245 -199.113553140246
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh) (NN gun))) (NP (NP (NN control) (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-59.143074416318 -196.769658205496
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh))) (NP (NN gun) (NN control)) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-59.218680022785 -199.346622554036
+(S1 (S (NP (PRP we)) (RB just) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-59.310369072886 -196.989395870219
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh) (NN gun)) (SBAR (S (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))))))))
+-59.334843576362 -197.756885569038
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh) (NN gun)) (SBAR (S (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))))))
+-59.358012240489 -198.582116734289
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-59.428656517149 -197.780492889032
+(S1 (S (NP (PRP we)) (RB just) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here))) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))
+-59.637628084843 -196.099960838580
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-59.743211821767 -197.330700581928
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh))) (NP (NN gun) (NN control)) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-59.850932828313 -194.593546951822
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-59.925110125728 -197.766693934574
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (JJ strong) (NN gun) (NN control)) (PP (ADVP (RB here)) (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))
+-60.206404237815 -197.975583138495
+(S1 (S (NP (NP (PRP we)) (VP (ADVP (RB just)) (VBN voted) (PP (IN in) (NP (UH uh) (NN gun))))) (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here))) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))
+-60.276969314951 -199.417928973702
+(S1 (S (NP (PRP we)) (RB just) (VP (VBD voted) (PP (IN in) (NP (ADVP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-60.367020522913 -198.991799381498
+(S1 (S (NP (NP (PRP we)) (VP (ADVP (RB just)) (VBN voted) (PP (IN in) (NP (NP (UH uh)) (NN gun))))) (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-60.379457850746 -198.297708281735
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh) (NN gun))) (NP (NN control)) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-60.389855579295 -199.180828774966
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (ADVP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (PP (ADVP (RB here)) (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))
+-60.673907081411 -198.833316567040
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh))) (NP (NN gun) (NN control)) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-60.752075974986 -198.809886403021
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh) (NN gun)) (SBAR (S (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here))) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland)))))))))))))
+-60.981050206195 -198.858750658168
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (UH uh) (NN gun))) (NP (NN control)) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-61.122133919937 -198.163619200124
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-61.127028203770 -198.759362439932
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (ADVP (UH uh)) (NN gun) (NN control))) (S (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))))
+-61.340332947239 -197.252948553174
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (ADVP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-61.432423990306 -196.328450192260
+(S1 (S (NP (NP (PRP we)) (VP (ADVP (RB just)) (VBN voted) (PP (IN in) (NP (UH uh) (NN gun))))) (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-62.148764361299 -198.752490469446
+(S1 (S (NP (PRP we)) (RB just) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh)) (NN gun) (NN control))) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-62.264927914877 -197.162753484447
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh) (NN gun)) (SBAR (S (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland))))))))))))
+-63.089639707503 -199.165156995726
+(S1 (S (NP (NP (PRP we)) (VP (ADVP (RB just)) (VBN voted) (PP (IN in) (NP (NP (UH uh)) (NN gun))))) (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NN state)))) (PP (IN of) (NP (NNP Maryland)))))))
+-64.970283206553 -199.413005133194
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD voted) (PP (IN in) (NP (NP (UH uh) (NN gun)) (SBAR (S (VP (VBP control) (NP (NP (JJ strong) (NN gun) (NN control)) (ADVP (RB here)))))))) (PP (IN in) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Maryland))))))))
+

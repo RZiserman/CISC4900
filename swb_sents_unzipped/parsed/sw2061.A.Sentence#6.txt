@@ -1,0 +1,102 @@
+50 x
+-22.907770758414 -81.564352649819
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-24.012056481719 -83.864410548527
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-24.201381730710 -80.662367154208
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-24.898802074007 -86.257156257163
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))))
+-25.155752361042 -89.697643698934
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (JJ stereo)) (ADVP (RB here))))))))
+-25.317255178540 -81.728133714907
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))
+-25.590501370102 -89.253708684813
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (JJ stereo)) (ADVP (RB here)))))))
+-25.800679029780 -87.630359231184
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo) (RB here)))))))
+-25.881802229709 -88.483790407913
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (PRP$ my) (NN stereo))) (ADVP (RB here)))))))
+-25.997421038086 -86.884932279402
+(S1 (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-26.057112095630 -87.845594572830
+(S1 (S (VP (VB Let) (NP (PRP me)) (S (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-26.114890671921 -90.531217096304
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (NP (PRP$ my) (JJ stereo)) (ADVP (RB here)))))))))
+-26.150770236988 -89.734793130535
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RB off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-26.270897626141 -87.734110452222
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (RP off) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))))
+-26.370443896883 -88.887473969723
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (IN off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-26.422388952908 -91.418692950637
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (JJ my) (NN stereo)) (ADVP (RB here))))))))
+-26.460296244955 -88.443441967299
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (JJ stereo)) (ADVP (RB here)))))))
+-26.594952177283 -89.312698539509
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (PRP$ my) (JJ stereo))) (ADVP (RB here)))))))
+-26.612633486528 -88.225769921215
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (S (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-26.953121244609 -86.931972310679
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (JJ stereo)) (ADVP (RB here))))))
+-27.042855469764 -87.638514689043
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-27.058553090096 -84.391255453152
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (S (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-27.086910512003 -88.437747086358
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)))) (ADVP (RB here)))))
+-27.115995286182 -86.806232115823
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo) (RB here))))))
+-27.161397821722 -90.145652478535
+(S1 (S (VP (VB Let) (NP (PRP me)) (S (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-27.262770488212 -91.368999985399
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (RB here))))))
+-27.332084886058 -91.359549831786
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)) (NP (RB here)))))))
+-27.481507641638 -88.965982771382
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RB off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-27.554963380187 -91.187531868432
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (IN off)) (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-27.564676431390 -89.184990178110
+(S1 (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))
+-27.640098434451 -90.171915108837
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (RP off) (NP (PRP$ my) (NN stereo))) (ADVP (RB here)))))))
+-27.669977625673 -90.205395194364
+(S1 (S (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (PRP$ my) (NN stereo) (RB here))))))))
+-27.689903332768 -89.551609691016
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (S (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-27.692543657601 -88.087679767933
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (IN off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+-27.715999927991 -90.516707455026
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (JJ my) (NN stereo)) (ADVP (RB here)))))))
+-27.823040670107 -91.760342912754
+(S1 (S (VP (VBD Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-28.000963377440 -91.018813889593
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (NP (RB here)))))))
+-28.343964538250 -88.860835338808
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PP (RP off) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-28.392889193124 -89.341730124964
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)) (NP (RB here))))))
+-28.393575703678 -91.577735886746
+(S1 (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))))
+-28.495678524155 -91.631863096787
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (JJ my) (NN stereo)) (ADVP (RB here))))))
+-28.616783213813 -90.774686643925
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (PRP$ my) (NN stereo))) (ADVP (RB here))))))
+-28.646837387468 -90.031749332081
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RB off)) (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))
+-28.888650865431 -89.153446328632
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (IN off)) (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))
+-28.974463031867 -91.840151458462
+(S1 (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (NP (PRP$ my) (NN stereo)) (ADVP (RB here))))))
+-29.222995187175 -90.237737940049
+(S1 (VP (VB Let) (S (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)))) (ADVP (RB here))))
+-29.400240563014 -90.817756092575
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (RP off)) (NP (PRP$ my) (NN stereo)) (PP (RB here))))))
+-29.439056564174 -91.603594775521
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (PRP$ my) (JJ stereo))) (ADVP (RB here))))))
+-29.814031024218 -91.586753626244
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PP (IN off) (NP (PRP$ my) (NN stereo) (RB here)))))))
+-30.281241605987 -91.816568066877
+(S1 (S (VP (VB Let) (NP (PRP me)) (VP (VB turn) (PRT (IN off)) (S (NP (PRP$ my) (NN stereo)) (ADVP (RB here)))))))
+

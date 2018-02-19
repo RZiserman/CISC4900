@@ -1,0 +1,102 @@
+50 x
+-16.799698549413 -56.629618987299
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable) (RB too)))))
+-16.856595254710 -60.288524074710
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable)) (ADVP (RB too)))))
+-18.526974185081 -59.519924335899
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable) (RB too)))))
+-18.647195819682 -63.645263164887
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB fairly)) (ADJP (JJ reasonable) (RB too)))))
+-19.197244700818 -62.415945443820
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADJP (RB fairly) (JJ reasonable)) (ADVP (RB too))))))
+-19.373954145045 -66.620851556505
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable)) (PP (RB too)))))
+-19.392289126861 -68.794645647169
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable)) (X (RB too)))))
+-19.517886614024 -64.603072383661
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable))) (ADVP (RB too))))
+-20.040117897452 -67.526933698119
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable)) (ADVP (RB too)))))
+-20.184558880381 -71.421525650894
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB fairly)) (ADJP (JJ reasonable)) (ADVP (RB too)))))
+-20.232219025739 -68.199070323023
+(S1 (S (NP (PRP It)) (VP (VBD was) (PRT (RB fairly)) (ADJP (JJ reasonable)) (ADVP (RB too)))))
+-20.240326420467 -68.766305762371
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (RB fairly) (JJ reasonable) (RB too)))))
+-20.878380218598 -68.372349063951
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable) (PP (RB too))))))
+-20.993357428688 -68.169519833352
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADJP (RB fairly) (JJ reasonable)) (ADVP (RB too))))))
+-21.019999536888 -69.701980194615
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable) (PRT (RB too))))))
+-21.047367403348 -67.846763805056
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (RB fairly) (JJ reasonable)) (ADVP (RB too)))))
+-21.125505718423 -68.530225373168
+(S1 (S (NP (PRP It)) (VP (VBD was) (PRT (RB fairly)) (ADJP (JJ reasonable) (RB too)))))
+-21.140221182640 -73.827319051241
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB fairly)) (ADJP (JJ reasonable) (PRT (RB too))))))
+-21.214479544379 -69.492107466744
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable)) (NP (RB too)))))
+-21.221675799931 -66.654565736940
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable) (ADVP (RB too))))))
+-21.241976189323 -70.875496053690
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB fairly) (JJ reasonable)) (ADVP (RB too)))))
+-21.313560880816 -67.621215223379
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable)) (S (ADVP (RB too))))))
+-21.341897459622 -70.779904649192
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB fairly)) (ADJP (JJ reasonable) (ADVP (RB too))))))
+-21.406004803903 -71.686355690834
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable) (SBAR (RB too))))))
+-21.521256223369 -65.858765300822
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable)) (S (ADJP (RB too))))))
+-21.529737044613 -67.351425865381
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADJP (RB fairly) (JJ reasonable) (RB too))))))
+-21.591376149318 -69.717846752072
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADVP (RB fairly)) (JJ reasonable) (RB too)))))
+-21.641823418806 -71.717098934296
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADVP (RB fairly)) (JJ reasonable)) (ADVP (RB too)))))
+-21.643279480975 -71.944436224446
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADJP (RB fairly) (JJ reasonable))) (ADVP (RB too)))))
+-21.823888257293 -71.309220531529
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (RB fairly) (JJ reasonable)) (RB too)))))
+-21.869597572856 -68.512942101618
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (RB fairly) (JJ reasonable)) (ADVP (RB too))))))
+-21.882748911814 -72.467043147572
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (VP (JJ reasonable) (ADVP (RB too))))))
+-21.974679328942 -72.960409215420
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADJP (RB fairly) (JJ reasonable)) (SBAR (RB too))))))
+-22.121279045361 -71.065281079002
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (ADJP (RB fairly) (JJ reasonable))) (ADVP (RB too)))))
+-22.133484912155 -73.740447666423
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (NP (RB fairly) (JJ reasonable)) (RB too)))))
+-22.167702803845 -74.053676132661
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (ADVP (RB fairly) (JJ reasonable)) (RB too)))))
+-22.195933551764 -69.464920745429
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable))) (ADVP (RB too))))
+-22.316070124955 -73.590259659967
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB fairly)) (ADJP (JJ reasonable))) (ADVP (RB too))))
+-22.463011072913 -71.440702609460
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADJP (RB fairly) (JJ reasonable)) (PP (RB too))))))
+-22.567537402026 -72.338169425182
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (NP (JJ reasonable)) (ADVP (RB too)))))
+-22.654548053989 -69.617033674998
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable) (S (ADVP (RB too)))))))
+-22.676145904109 -73.086098602888
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable)) (PP (RB too)))))
+-22.850280494550 -70.945028464159
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (ADJP (JJ reasonable)) (ADVP (RB too))))))
+-23.046089934235 -72.606674905063
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (VP (JJ reasonable) (NP (RB too))))))
+-23.101555391249 -73.332004706135
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADJP (ADVP (RB fairly)) (JJ reasonable)) (ADVP (RB too))))))
+-23.176268815905 -68.847473870671
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (RB fairly) (JJ reasonable) (S (ADJP (RB too)))))))
+-23.779738248532 -72.233209724320
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADJP (ADJP (RB fairly) (JJ reasonable)) (ADVP (RB too)))))))
+-23.938137153414 -73.750022562652
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (QP (RB fairly) (JJ reasonable))) (ADVP (RB too)))))
+-24.128352644053 -72.848366045152
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable) (S (ADVP (RB too)))))))
+-24.650073403181 -72.078806240826
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB fairly) (ADJP (JJ reasonable) (S (ADJP (RB too)))))))
+

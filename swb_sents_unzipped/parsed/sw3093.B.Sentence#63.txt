@@ -1,0 +1,102 @@
+50 x
+-40.472124078943 -141.982880798810
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-41.409580268268 -147.354646341809
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (CC or) (ADVP (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-41.473666653853 -145.170761347841
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (CC or) (RB so)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-41.562861086796 -145.542396426976
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (ADVP (RB so)) (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-41.988486198517 -143.696904899979
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (ADVP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-42.106019052026 -144.695175934207
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (RB so) (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-42.138309563370 -151.078366225005
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day))) (CC or) (ADVP (RB so)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-42.237289932016 -143.726231638380
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (IN so) (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-42.371516272095 -150.274041248944
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBN stayed) (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-42.446216765240 -150.052205710522
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day)) (ADVP (CC or) (RB so)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-42.561435732592 -149.557093650204
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBN liked)))))))
+-42.679108222784 -150.533659783774
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day) (CC or) (RB so)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-42.722328698073 -148.846187019840
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-42.814026256282 -150.917348496904
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (ADVP (RB so)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-42.857634070936 -147.545038268297
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (ADJP (RB so) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))))
+-42.971165668821 -151.826489540735
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day))) (CC or) (VP (ADVP (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-43.180022120452 -142.947751809278
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-43.237326986166 -151.638735866219
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (ADVP (RB so)) (IN because) (S (NP (PRP we)) (VP (VBN liked))))))))
+-43.239665861615 -151.387157350109
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (ADVP (IN so)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-43.432545270096 -150.301614465502
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-43.446673841163 -150.246215143171
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (RB so) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-43.481298072522 -147.080917996028
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (RB so) (RB because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-43.744036371631 -148.538516637229
+(S1 (S (NP (NP (PRP We)) (PP (IN in) (NP (NN fact)))) (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-43.780484951397 -150.791515373451
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (RB so) (IN because) (S (NP (PRP we)) (VP (VBN liked))))))))
+-43.855152110647 -149.424374902373
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (NP (DT an) (JJ extra) (NN day)) (CC or) (ADVP (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-43.880287121387 -149.822571077624
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (IN so) (IN because) (S (NP (PRP we)) (VP (VBN liked))))))))
+-44.055703409407 -147.685814896594
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (NP (DT an) (JJ extra) (NN day)) (CC or) (RB so)) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-44.077797852166 -151.271117751373
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (ADVP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBN liked)))))))
+-44.268232821292 -148.758220431568
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (DT an) (JJ extra) (NN day) (CC or) (RB so)) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-44.305056807278 -151.354172484170
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (ADVP (RB so)) (RB because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-44.612842970914 -150.151865994321
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (RB so) (RB because) (S (NP (PRP we)) (VP (VBN liked))))))))
+-44.617836242898 -147.324780110141
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (NP (DT an) (JJ extra) (NN day)) (QP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-44.745578974419 -151.726397186259
+(S1 (S (NP (NP (PRP We)) (PP (IN in) (NP (NN fact)))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (CC or) (RB so)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-44.856452750526 -151.190439745937
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (WHNP (IN because)) (S (NP (PRP we)) (VP (VBD liked))))))))
+-44.881425454101 -150.521964660671
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBN liked)))))))
+-45.260398491205 -150.252540738397
+(S1 (S (NP (NP (PRP We)) (PP (IN in) (NP (NN fact)))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (ADVP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-45.331993849770 -150.290566204952
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (RB because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-45.377931372592 -151.250811772626
+(S1 (S (NP (NP (PRP We)) (PP (IN in) (NP (NN fact)))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (RB so) (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-45.446667805094 -151.942304089745
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBN stayed) (SBAR (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-45.502682843108 -147.989688203642
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (NP (DT an) (JJ extra) (NN day)) (ADVP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-45.509202252583 -150.281867476798
+(S1 (S (NP (NP (PRP We)) (PP (IN in) (NP (NN fact)))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (IN so) (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-46.451934413141 -149.503387647696
+(S1 (S (NP (NP (PRP We)) (PP (IN in) (NP (NN fact)))) (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-46.669487001411 -150.904736598597
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))))))
+-46.967540552587 -149.905825432388
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact) (S (NP (PRP we)) (VP (VBD stayed) (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))))
+-47.619249170878 -151.929563870764
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (ADJP (JJ extra)) (NN day)) (ADVP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))
+-47.785991330348 -151.730811978146
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact))) (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (ADJP (JJ extra)) (NN day)) (CC or) (SBAR (IN so) (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))
+-48.395593669580 -151.649176159390
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact) (S (NP (PRP we)) (VP (VBD stayed) (UCP (NP (DT an) (JJ extra) (NN day)) (CC or) (SBAR (IN so) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))))))
+-48.612376432161 -151.619849533557
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact) (S (NP (PRP we)) (VP (VBD stayed) (NP (NP (DT an) (JJ extra) (NN day)) (ADVP (CC or) (RB so))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))))
+-49.100500463165 -151.869607357737
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact) (SBAR (S (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked)))))))))))
+-49.620061690096 -150.870696359360
+(S1 (S (NP (PRP We)) (PP (IN in) (NP (NN fact) (S (NP (PRP we)) (VP (VBD stayed) (SBAR (NP (DT an) (JJ extra) (NN day) (QP (CC or) (RB so))) (IN because) (S (NP (PRP we)) (VP (VBD liked))))))))))
+

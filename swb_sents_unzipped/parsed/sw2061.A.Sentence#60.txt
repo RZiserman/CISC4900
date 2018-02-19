@@ -1,0 +1,102 @@
+50 x
+-10.157936128488 -41.232839244250
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for))))))
+-10.358098932636 -42.969013732727
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-12.751179319516 -50.227150111226
+(S1 (FRAG (WP What) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-12.838582913188 -50.370760365899
+(S1 (FRAG (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-13.049482408930 -46.712584658069
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for))))))
+-13.214550579439 -49.694452222405
+(S1 (FRAG (WHNP (WDT What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-13.387204605727 -49.517156984403
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for)))))))
+-13.399894889502 -53.942015147712
+(S1 (SBAR (WHNP (WP What)) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for))))))
+-14.543451529481 -54.297070041171
+(S1 (FRAG (WP What) (IN if) (SBAR (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-14.687754122646 -56.622903324193
+(S1 (FRAG (SBAR (WHNP (WP What)) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-14.906718434633 -49.806051569064
+(S1 (FRAG (WHNP (WP What)) (SBAR (WHNP (IN if)) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-14.951282153804 -51.465680747585
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (NP (IN for))))))
+-14.976116157952 -53.201855236061
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (NP (IN for)))))))
+-15.132497381122 -50.898535693544
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PRT (RP for))))))
+-15.260231811270 -52.634710182020
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PRT (RP for)))))))
+-15.307300045577 -52.791726801545
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PRT (IN for))))))
+-15.319168789449 -54.116819778988
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (X (IN for))))))
+-15.343794749725 -54.527901290022
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PRT (IN for)))))))
+-15.376078593596 -55.852994267464
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (X (IN for)))))))
+-15.507413471399 -54.504610321920
+(S1 (FRAG (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for))))))
+-15.589534438764 -50.526053921126
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (RP for))))))
+-15.697870392607 -56.775293362902
+(S1 (FRAG (WP What) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for)))))))
+-15.798022464786 -55.810607714541
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADVP (RB for))))))
+-15.866583702934 -57.546782203017
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADVP (RB for)))))))
+-15.880936968911 -52.262228409602
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (PP (RP for)))))))
+-16.027976072280 -56.918903617575
+(S1 (FRAG (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for)))))))
+-16.243467019531 -56.242595474081
+(S1 (FRAG (WHNP (WDT What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for)))))))
+-16.739001400562 -56.492735329511
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADVP (IN for))))))
+-16.757111804710 -58.228909817987
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADVP (IN for)))))))
+-16.990098265724 -57.051003832461
+(S1 (FRAG (WP What) (SBAR (WHNP (IN if)) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-17.061576443988 -58.384383626911
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (X (IN for))))))
+-17.088330368651 -56.772704785426
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (NP (IN for))))))
+-17.090701827987 -57.650977572361
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (PRT (IN for))))))
+-17.321654822254 -55.888531155962
+(S1 (FRAG (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (IN for))))))
+-17.405803685151 -53.736337958496
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADJP (IN for))))))
+-17.428016458331 -56.950133391572
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (PRT (RP for))))))
+-17.449308189299 -55.472512446972
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADJP (IN for)))))))
+-17.593434283583 -57.583098131043
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (RB for)))))
+-17.628016555858 -53.496449418241
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (S (ADJP (IN for)))))))
+-17.679392930006 -55.232623906718
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (S (ADJP (IN for))))))))
+-17.694500534437 -56.531490058743
+(S1 (FRAG (WHNP (WDT What)) (SBAR (WHNP (IN if)) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))
+-17.728910036697 -54.955820151284
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (S (ADVP (IN for)))))))
+-17.780286410844 -56.691994639760
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP pay) (S (ADVP (IN for))))))))
+-18.057283360638 -57.816945262386
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADVP (RP for))))))
+-18.208005709594 -55.213366591162
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (RP for))))))
+-18.357888140663 -57.604034505721
+(S1 (FRAG (WHNP (WP What)) (SBAR (WHNP (IN if)) (S (NP (PRP they)) (VP (VB pay) (PP (IN for)))))))
+-18.631164541179 -58.017938917496
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP they)) (VP (VB pay) (PP (RP for)))))))
+-18.714218425053 -58.067488898912
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (S (NP (IN for)))))))
+-18.797030376250 -57.062374566646
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VB pay) (S (ADJP (IN for)))))))
+-18.955530435228 -57.972940192312
+(S1 (SBAR (WP What) (IN if) (S (NP (PRP they)) (VP (VBP pay) (ADJP (RP for))))))
+

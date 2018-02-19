@@ -1,0 +1,102 @@
+50 x
+-18.530886192126 -55.175480649722
+(S1 (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't))) (NP (PRP you)) (VP (VBP know))))
+-18.746169438586 -61.216625805739
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (ADVP (PRP you)) (VP (VB know)))))
+-19.036381444272 -65.527087819009
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (NP (PRP you)) (VP (VB know)))))
+-19.041903794118 -61.927830373314
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (S (NP (PRP you)) (VP (VBP know))))))
+-19.291115911698 -59.718896481461
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (VP (ADVP (PRP you)) (VB know)))))
+-19.514392897668 -65.074541549799
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-19.745763685264 -66.770329352177
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (S (NP (PRP you)) (VP (VB know))))))
+-20.416364875127 -72.159573765088
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VB do) (RB n't) (S (NP (PRP you)) (VP (VB know))))))
+-20.509874401718 -66.848930869438
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (SBAR (RB n't) (S (NP (PRP you)) (VP (VBP know)))))))
+-20.860600157172 -69.258571529254
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (SBAR (WHADVP (RB n't)) (S (NP (PRP you)) (VP (VBP know)))))))
+-20.888144820859 -70.573330911473
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VB do) (RB n't) (S (NP (PRP you)) (VP (VBP know))))))
+-20.939245444507 -69.776255852939
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (VP (NP (PRP you)) (S (VP (VB know)))))))
+-21.220790132708 -70.846430551044
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VB do) (SBAR (RB n't) (S (NP (PRP you)) (VP (VBP know)))))))
+-21.352200868283 -67.095089943471
+(S1 (S (NP (PRP I)) (RB just) (VP (VBP do) (RB n't) (ADVP (PRP you)) (VP (VB know)))))
+-21.607716009544 -70.553272204722
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (PRT (RB n't)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-21.642412876757 -71.405551956741
+(S1 (S (NP (PRP I)) (RB just) (VP (VBP do) (RB n't) (NP (PRP you)) (VP (VB know)))))
+-21.647935226603 -67.806294511046
+(S1 (S (NP (PRP I)) (RB just) (VP (VBP do) (RB n't) (S (NP (PRP you)) (VP (VBP know))))))
+-21.756014831163 -61.883288805226
+(S1 (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (NP (PRP you)))) (VP (VBP know))))
+-21.827467387255 -70.563532057630
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (NP (NP (RB n't)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-21.843297277752 -73.024647048238
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VB do) (NP (NP (RB n't)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-21.851453969481 -66.303010904586
+(S1 (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't))) (NP (PRP you)) (VP (VB know))))
+-21.897147344183 -65.597360619193
+(S1 (S (NP (PRP I)) (RB just) (VP (VBP do) (RB n't) (VP (ADVP (PRP you)) (VB know)))))
+-21.933237718931 -71.226695465062
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (VP (RB n't) (S (NP (PRP you)) (VP (VBP know)))))))
+-21.939334492326 -67.616489247648
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (ADJP (RB n't) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-22.120424330153 -70.953005687531
+(S1 (S (NP (PRP I)) (RB just) (VP (VBP do) (RB n't) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-22.351795117749 -72.648793489910
+(S1 (S (NP (PRP I)) (RB just) (VP (VBP do) (RB n't) (S (NP (PRP you)) (VP (VB know))))))
+-22.623094803487 -72.539756436505
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (S (VP (VBP do) (RB n't) (ADVP (PRP you)) (VP (VB know))))))
+-22.636805624134 -69.155747044055
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (RB n't) (NP (PRP you)) (VP (VBP know)))))))
+-22.790405456054 -70.760291610117
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (SBAR (RB n't) (S (NP (PRP you)) (VP (VBP know)))))))
+-22.948683147335 -72.892184817011
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (RB n't) (ADVP (PRP you)) (VP (VB know)))))
+-23.033259770357 -71.042026977984
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (S (VP (VBP do) (RB n't) (VP (ADVP (PRP you)) (VB know))))))
+-23.141131211508 -73.169932269932
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (SBAR (WHADVP (RB n't)) (S (NP (PRP you)) (VP (VBP know)))))))
+-23.147706154203 -72.727395007170
+(S1 (S (NP (PRP I)) (RB just) (VP (VBP do) (SBAR (RB n't) (S (NP (PRP you)) (VP (VBP know)))))))
+-23.194632745987 -72.156375849317
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (RB n't) (S (NP (PRP you)) (VP (VBP know))))))
+-23.225625855674 -70.869376266860
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (S (ADJP (RB n't) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-23.439349570406 -70.509182956946
+(S1 (S (S (NP (PRP I)) (RB just) (VP (VBP do) (RB n't))) (NP (PRP you)) (VP (VBP know))))
+-23.487520767472 -70.091291665692
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (RB n't) (PRP you)) (VP (VBP know)))))))
+-23.669180279230 -68.641578187187
+(S1 (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (NP (PRP you)))) (VP (VB know))))
+-23.802551806869 -71.960230406657
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (RB n't) (VP (ADVP (PRP you)) (VB know)))))
+-23.915431406431 -72.736551492278
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (NP (NP (RB n't)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-24.088508468231 -71.186420042379
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBP do) (RB n't) (ADVP (PRP you)) (VP (VB know)))))
+-24.121020310184 -72.178912380050
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (ADJP (RB n't)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-24.358583850775 -71.734129746598
+(S1 (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (NP (RB n't)))) (NP (PRP you)) (VP (VBP know))))
+-24.376413046551 -71.897624609955
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBP do) (RB n't) (S (NP (PRP you)) (VP (VBP know))))))
+-24.395156043007 -66.780227844676
+(S1 (S (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBP do) (RB n't))) (NP (PRP you)) (VP (VBP know))))
+-24.633454944131 -69.688690718102
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBP do) (RB n't) (VP (ADVP (PRP you)) (VB know)))))
+-24.917336678471 -73.067107784733
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (SBAR (S (RB n't) (NP (PRP you)) (VP (VBP know)))))))
+-25.503284460630 -73.052591133199
+(S1 (S (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP do) (RB n't) (NP (PRP you)))) (VP (VBP know))))
+-25.653130088723 -71.353490889765
+(S1 (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (ADJP (RB n't)))) (NP (PRP you)) (VP (VBP know))))
+-26.429479722195 -72.013660609097
+(S1 (S (S (NP (PRP I) (RB just)) (VP (VBP do) (RB n't))) (NP (PRP you)) (VP (VBP know))))
+

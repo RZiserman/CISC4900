@@ -1,0 +1,102 @@
+50 x
+-29.086482237116 -97.524012281910
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one) (NNP huh)))))
+-29.146534131863 -92.284167948908
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))
+-29.264104943969 -98.142412130777
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one) (NNP huh)))))
+-29.580505859722 -94.472522746150
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one)) (NP (NNP huh)))))
+-30.056907757022 -99.388316367012
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one) (NNP huh)))))
+-30.116959648981 -94.148472034010
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))
+-30.234530458300 -100.006716215880
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one) (NNP huh)))))
+-30.375538408840 -102.731306182375
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one) (NNP huh)))))
+-30.435590298011 -97.491461849373
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))
+-30.550931376841 -96.336826831252
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one)) (NP (NNP huh)))))
+-30.869562025870 -99.679816646616
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one)) (NP (NNP huh)))))
+-31.175681221985 -98.424942831074
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same) (NN one)) (NP (NNP huh))))))
+-31.256525722997 -96.380334808801
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (NN one)) (NP (NNP huh))))))
+-31.390385159600 -101.413566234064
+(S1 (SBAR (IN So) (S (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))
+-31.575555635058 -98.444553632483
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (CD one) (NNP huh))))))
+-31.577066291275 -96.832909121073
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))
+-31.859274576552 -101.979007490193
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (QP (JJ same) (CD one)) (NNP huh)))))
+-32.087686214764 -98.484338492692
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))
+-32.146106736315 -100.289246916176
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same) (NN one)) (NP (NNP huh))))))
+-32.226951240115 -98.244638893904
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (NN one)) (NP (NNP huh))))))
+-32.331214983951 -98.377860040573
+(S1 (S (RB So) (S (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))
+-32.333454182731 -103.241526632788
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same)) (CD one) (NNP huh)))))
+-32.545581886357 -101.587628709267
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (NN one)) (NP (NNP huh))))))
+-32.545981149388 -100.308857717585
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (CD one) (NNP huh))))))
+-32.547491811181 -98.697213206176
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))
+-32.618071890524 -102.537417909781
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (NN one) (NNP huh))))))
+-32.809210503198 -101.246164404568
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))))
+-32.866122451847 -102.040203021539
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))
+-32.894086605729 -100.566214837815
+(S1 (S (RB So) (S (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one)) (NP (NNP huh))))))
+-32.981615837482 -97.267288273310
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (S (NP (NNP huh))))))
+-33.058111740245 -100.348642577794
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))
+-33.295372970556 -101.843607811297
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one) (S (NP (NNP huh)))))))
+-33.305285228277 -99.692361281560
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (NN one)) (ADJP (NNP huh))))))
+-33.335927894660 -102.869951855985
+(S1 (S (ADVP (IN So)) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))
+-33.604151638312 -99.455643070552
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one)) (S (NP (NNP huh))))))
+-33.786875488803 -102.137659403822
+(S1 (ADJP (RB So) (SBAR (S (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))))
+-33.952041357388 -99.131592358412
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (S (NP (NNP huh))))))
+-34.264854153184 -102.871898389839
+(S1 (FRAG (RB So) (SBAR (S (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))))
+-34.270672011994 -102.474582173776
+(S1 (S (ADVP (RB So)) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (S (NP (NNP huh))))))
+-34.275710756547 -101.556665366663
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (NN one)) (ADJP (NNP huh))))))
+-34.278039387195 -101.796364965451
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (CD one)) (ADJP (NNP huh))))))
+-34.348046238453 -102.926601327234
+(S1 (S (RB So) (S (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))))
+-34.454183534609 -102.718444752305
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (JJ same) (CD one)) (ADVP (NNP huh))))))
+-34.464152318985 -102.891140678038
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (NP (DT the) (JJ same) (NN one)) (NP (NNP huh)))))))
+-34.548424645033 -102.474027008872
+(S1 (S (RB So) (S (NP (PRP you)) (VP (VBD had) (S (NP (DT the) (JJ same) (NN one)) (NP (NNP huh)))))))
+-34.574577169369 -101.319947155655
+(S1 (S (RB So) (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (NN one)) (S (NP (NNP huh))))))
+-34.761011796077 -101.809736795583
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (NP (DT the) (ADJP (JJ same)) (CD one)) (NP (NNP huh))))))
+-35.126395790144 -102.905147853448
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (NP (QP (DT the) (JJ same) (CD one))) (NP (NNP huh)))))
+-35.338420353542 -103.269656083724
+(S1 (S (IN So) (NP (PRP you)) (VP (VBD had) (S (NP (NP (DT the) (JJ same) (CD one)) (NP (NNP huh)))))))
+-35.439956903390 -103.340658118476
+(S1 (FRAG (ADJP (RB So) (SBAR (S (NP (PRP you)) (VP (VBD had) (NP (DT the) (JJ same) (CD one)) (NP (NNP huh))))))))
+

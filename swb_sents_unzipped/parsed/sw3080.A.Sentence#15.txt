@@ -1,0 +1,102 @@
+50 x
+-14.347533637743 -58.413171300456
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-14.781766346213 -56.388517675686
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-17.021602466039 -67.232058685461
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (IN like) (S (VP (TO to) (VP (VB exercise)))))))))
+-17.375874940575 -65.091040068381
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (NN exercise)))))))))
+-17.468090371722 -65.207405060691
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (IN like) (S (VP (TO to) (VP (VB exercise))))))))))
+-17.617457201029 -66.927324710824
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (PP (TO to) (NP (NN exercise))))))))
+-17.877539366257 -63.066386443610
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (NN exercise))))))))))
+-18.119121629499 -64.902671086054
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (PP (TO to) (NP (NN exercise)))))))))
+-18.250516175693 -68.919394597949
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (ADVP (RB really)) (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-18.438257314115 -72.107125950060
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (SBAR (S (VP (TO to) (VP (VB exercise))))))))))
+-18.684748881376 -66.894740970537
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (ADVP (RB really)) (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-18.872490022585 -70.082472325290
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (SBAR (S (VP (TO to) (VP (VB exercise)))))))))))
+-18.954396476555 -65.553605357113
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-19.129843910821 -73.888613301788
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VBP like) (S (VP (TO to) (VP (VB exercise)))))))))
+-19.316051911804 -62.930044964936
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-19.412152047138 -70.310768109767
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (TO to) (VP (VB exercise))))))))
+-19.460478673286 -70.682827530564
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (PP (TO to) (NP (VB exercise))))))))
+-19.543486345738 -68.624489238237
+(S1 (S (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-19.564076619291 -71.863959677018
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VBP like) (S (VP (TO to) (VP (VB exercise))))))))))
+-19.846384752820 -68.286114484996
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (TO to) (VP (VB exercise)))))))))
+-19.894711381756 -68.658173905794
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (PP (TO to) (NP (VB exercise)))))))))
+-19.919037202007 -69.782967480873
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (S (VP (VB exercise))))))))))
+-19.928609800543 -69.578029940775
+(S1 (SBAR (IN Because) (S (NP (NP (PRP I)) (ADVP (RB really))) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-19.962833808177 -68.408907386981
+(S1 (FRAG (IN Because) (SBAR (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-20.075152778084 -73.909927453386
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (IN like) (S (VP (TO to) (VP (NN exercise)))))))))
+-20.353269910477 -67.758313856103
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (S (VP (VB exercise)))))))))))
+-20.362842506225 -67.553376313362
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (ADVP (RB really))) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-20.409960162664 -72.127048757047
+(S1 (PP (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-20.589072406554 -71.885273828615
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (IN like) (S (VP (TO to) (VP (NN exercise))))))))))
+-20.645019566792 -69.677421706915
+(S1 (FRAG (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-21.033972792796 -73.056073138129
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (RB really) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-21.053201948212 -73.637373699276
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (ADJP (JJ like) (S (VP (TO to) (VP (VB exercise))))))))))
+-21.385543705920 -72.839963624470
+(S1 (S (RB Because) (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))
+-21.628465302064 -74.372492742118
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (IN like) (S (VP (TO to) (VP (VB exercise)))))))))
+-21.675687684179 -74.431689373132
+(S1 (FRAG (PP (IN Because) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-21.793632575217 -73.559117837533
+(S1 (S (ADVP (RB Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-21.982737779387 -72.231474125037
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (NN exercise)))))))))
+-22.002375940101 -71.748932349941
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (IN like) (S (VP (TO to) (VP (VB exercise))))))))))
+-22.035214135781 -74.358058414489
+(S1 (S (IN Because) (NP (PRP I)) (VP (ADVP (RB really)) (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))
+-22.039319524207 -73.572609738461
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (ADVP (RB really)) (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (NN exercise))))))))))
+-22.189588200326 -74.088566397120
+(S1 (FRAG (RB Because) (SBAR (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-22.224320039842 -74.067758767481
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (PP (TO to) (NP (NN exercise))))))))
+-22.411824934636 -69.607913732861
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (NN exercise))))))))))
+-22.653407197878 -71.444198375304
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (PP (TO to) (NP (NN exercise)))))))))
+-22.815359603019 -73.761665750214
+(S1 (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (RB really))) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise)))))))))
+-23.219034488784 -73.436268403791
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (VP (ADVP (RB really)) (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-23.249592308701 -71.737012122801
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (NP (RB really))) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-23.458615529057 -74.231245081287
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP I)) (ADVP (RB really))) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (NN exercise))))))))))
+-24.826019814421 -74.094903746616
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (NP (PRP I)) (ADVP (RB really))) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (VP (VB exercise))))))))))
+-24.887555478856 -74.299841145353
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB like) (S (VP (TO to) (S (VP (VB exercise)))))))))))
+

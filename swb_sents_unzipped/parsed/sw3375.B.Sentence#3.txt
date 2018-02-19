@@ -1,0 +1,102 @@
+50 x
+-11.818899579750 -47.021679316468
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN from) (NP (NNP Mississippi))))))
+-15.913423987209 -56.401852903872
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN from) (NP (NNP Mississippi)))))))
+-17.245462202530 -58.232373026309
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (PP (IN from) (NP (NNP Mississippi)))))))
+-18.104965470877 -60.286569465040
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (NP (IN from) (NNP Mississippi)))))
+-18.436170405478 -62.246419917863
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN from) (S (NP (NNP Mississippi)))))))
+-18.583438908384 -62.151311072755
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN from) (FRAG (NP (NNP Mississippi)))))))
+-18.953410803655 -62.755905360543
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (IN from) (NP (NNP Mississippi))))))
+-19.724205542704 -65.063321928096
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PRT (IN from)) (NP (NNP Mississippi)))))
+-19.861622658157 -65.529551552364
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN from)) (NP (NNP Mississippi)))))
+-20.243415972668 -69.163124761144
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (PP (IN from) (NP (NNP Mississippi))))))))
+-20.617136973837 -66.654181464359
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN from) (NP (NNP Mississippi))))))
+-20.890724063687 -64.569338338807
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADJP (IN from) (NNP Mississippi)))))
+-21.166673797416 -73.169189341986
+(S1 (S (NP (NN I)) (VP (VBP 'm) (PP (IN from) (NP (NNP Mississippi))))))
+-21.214178288583 -69.725178312002
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (IN from) (S (NP (NNP Mississippi)))))))
+-21.656495264406 -69.750348481034
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (IN from) (FRAG (NP (NNP Mississippi)))))))
+-22.266925471277 -72.049777661796
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (IN from) (NP (NNP Mississippi)))))))
+-22.443061982360 -72.339777915530
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN from) (S (NP (NNP Mississippi))))))))
+-22.479468770346 -71.483854593790
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN from) (FRAG (NP (NNP Mississippi))))))))
+-22.587306526326 -69.695010381350
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (NP (IN from) (NNP Mississippi))))))
+-22.755594373740 -76.578024207297
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (PP (IN from) (NP (NNP Mississippi))))))))
+-22.988531359886 -68.682684860834
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (ADJP (IN from) (NNP Mississippi))))))
+-23.150215013302 -77.571188452624
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (PP (IN from) (NP (NNP Mississippi))))))
+-23.170226126482 -84.105281261768
+(S1 (NP (NP (PRP I)) (VP (VBP 'm) (PP (IN from) (NP (NNP Mississippi))))))
+-23.238569177528 -73.262745348260
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (PP (IN from) (FRAG (NP (NNP Mississippi))))))))
+-23.692296074909 -74.537483942094
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (PP (IN from) (S (NP (NNP Mississippi))))))))
+-24.451093849276 -82.821229340537
+(S1 (S (NP (NP (PRP I)) (VP (VBP 'm) (PP (IN from) (NP (NNP Mississippi)))))))
+-24.884187716139 -84.235821589183
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (VP (PP (IN from) (NP (NNP Mississippi)))))))))
+-25.341475297662 -82.549362929391
+(S1 (S (NP (NN I)) (VP (VBP 'm) (VP (PP (IN from) (NP (NNP Mississippi)))))))
+-26.331986778994 -82.831615730001
+(S1 (S (NP (NP (NN I)) (VP (VBP 'm) (PP (IN from) (NP (NNP Mississippi)))))))
+-26.538797244749 -83.139347377717
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (NP (IN from) (NNP Mississippi)))))))
+-26.603100330196 -84.379883051828
+(S1 (S (NP (NN I)) (VP (VBP 'm) (S (PP (IN from) (NP (NNP Mississippi)))))))
+-26.603886352828 -79.910000552676
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (ADJP (IN from) (NNP Mississippi)))))))
+-26.824877473431 -85.101049772801
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (PP (IN from) (S (NP (NNP Mississippi)))))))))
+-26.874489364205 -84.245126451061
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (S (VP (PP (IN from) (FRAG (NP (NNP Mississippi)))))))))
+-26.907649405948 -87.122474490439
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (VP (IN from) (NP (NNP Mississippi))))))))
+-27.442609938543 -86.434079490559
+(S1 (S (NP (NN I)) (VP (VBP 'm) (NP (IN from) (NNP Mississippi)))))
+-27.783944623143 -88.393929943382
+(S1 (S (NP (NN I)) (VP (VBP 'm) (PP (IN from) (S (NP (NNP Mississippi)))))))
+-27.906816607000 -87.690942667694
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (VP (PP (IN from) (NP (NNP Mississippi)))))))
+-27.931213128837 -88.298821098274
+(S1 (S (NP (NN I)) (VP (VBP 'm) (PP (IN from) (FRAG (NP (NNP Mississippi)))))))
+-28.139539255833 -87.779422251138
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (S (PP (IN from) (NP (NNP Mississippi)))))))
+-28.302869644109 -88.903415386061
+(S1 (S (NP (NN I)) (VP (VBP 'm) (VP (IN from) (NP (NNP Mississippi))))))
+-28.824435272366 -91.608396670052
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (PP (IN from) (FRAG (NP (NNP Mississippi)))))))))
+-28.981297610369 -91.210831953615
+(S1 (S (NP (NN I)) (VP (VBP 'm) (PRT (IN from)) (NP (NNP Mississippi)))))
+-29.260836108611 -91.677061577883
+(S1 (S (NP (NN I)) (VP (VBP 'm) (ADVP (IN from)) (NP (NNP Mississippi)))))
+-29.263344686960 -92.883135249648
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (PP (IN from) (S (NP (NNP Mississippi)))))))))
+-29.299412968838 -90.210684489763
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (NP (IN from) (NNP Mississippi)))))
+-29.767485839030 -92.795929054019
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (PP (IN from) (S (NP (NNP Mississippi)))))))
+-29.914754344724 -92.700820208911
+(S1 (NP (NP (NN I)) (VP (VBP 'm) (PP (IN from) (FRAG (NP (NNP Mississippi)))))))
+-29.958485424291 -92.801691489878
+(S1 (S (NP (NN I)) (VP (VBP 'm) (ADVP (IN from) (NP (NNP Mississippi))))))
+-30.075547791352 -90.716848364326
+(S1 (S (NP (NN I)) (VP (VBP 'm) (ADJP (IN from) (NNP Mississippi)))))
+

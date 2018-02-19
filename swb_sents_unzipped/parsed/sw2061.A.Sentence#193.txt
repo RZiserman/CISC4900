@@ -1,0 +1,102 @@
+50 x
+-10.412164252104 -43.193995819607
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG testing) (NP (PRP it))))))
+-12.996226354548 -47.767051640802
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBG testing) (NP (PRP it)))))))
+-14.156410264816 -54.663031600128
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (NN testing) (NP (PRP it))))))
+-15.347533334176 -50.374752191413
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG testing) (S (NP (PRP it)))))))
+-15.789974452860 -57.262054655028
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBG testing) (NP (PRP it))))))
+-15.862719005034 -56.848502017892
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (VBG testing) (NP (PRP it))))))
+-16.611217867062 -59.505717225428
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN testing)) (NP (PRP it)))))
+-16.957852389344 -58.504998493113
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (VP (VBG testing) (NP (PRP it))))))))
+-17.115888327092 -54.966621711387
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (NP (NN testing)) (NP (PRP it))))))
+-17.135708249343 -58.611067864795
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (NN testing) (NP (PRP it)))))))
+-17.208909884369 -61.911358422359
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (NN testing) (NP (PRP it))))))
+-17.241181295044 -63.202439439557
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (VBG testing)) (NP (PRP it)))))
+-17.364227462285 -61.886403371548
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN testing)) (NP (PRP it))))))
+-17.383317169111 -64.708394341154
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (VBG testing) (NP (PRP it))))))
+-17.834645524478 -63.729086752752
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (VBG testing)) (NP (PRP it))))))
+-17.845567179389 -64.979414264195
+(S1 (S (NP (PRP I)) (VP (VP (VBD was)) (VP (VBG testing) (NP (PRP it))))))
+-18.374334348304 -61.835110476223
+(S1 (S (NP (NN I)) (VP (VBD was) (S (VP (VBG testing) (NP (PRP it)))))))
+-18.404014314053 -56.654144918301
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBG testing) (S (NP (PRP it))))))))
+-18.534896990385 -69.737150787120
+(S1 (S (NP (PRP I)) (VP (VBD was)) (VP (VBG testing) (NP (PRP it)))))
+-18.635335128905 -61.726559213025
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (VP (NN testing) (NP (PRP it))))))))
+-18.877179535199 -64.178854706956
+(S1 (S (NP (PRP I)) (VP (VBD was)) (PP (VBG testing) (NP (PRP it)))))
+-18.981107832814 -63.889274193119
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (NP (VBG testing)) (NP (PRP it))))))
+-19.663278165573 -68.731090435549
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (NN testing) (NP (PRP it))))))
+-20.187306381006 -63.526273047409
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (NP (NN testing)) (NP (PRP it)))))))
+-20.342831982972 -61.679338268122
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN testing)) (S (NP (PRP it))))))
+-20.725343534932 -64.442811026834
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBG testing) (S (NP (PRP it)))))))
+-20.830650488521 -73.447236511963
+(S1 (S (NP (PRP I)) (VP (VBD was)) (VP (NN testing) (NP (PRP it)))))
+-20.862924668303 -68.121799257606
+(S1 (NP (NP (NN I)) (VP (VBD was) (S (VP (VBG testing) (NP (PRP it)))))))
+-20.878073994954 -65.376060482251
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (VBG testing)) (S (NP (PRP it))))))
+-21.266555255940 -75.070466881055
+(S1 (S (NP (PRP I)) (VP (VP (VBD was)) (VP (NN testing) (NP (PRP it))))))
+-21.371357376002 -70.916560853313
+(S1 (S (NP (NN I)) (VP (VBD was) (PP (VBG testing) (NP (PRP it))))))
+-21.491889296099 -73.997679280984
+(S1 (NP (NP (PRP I)) (VP (VBD was) (S (VP (VBG testing) (NP (PRP it)))))))
+-21.722622284683 -72.864394694030
+(S1 (NP (NP (NN I)) (VP (VBD was) (VP (VBG testing) (NP (PRP it))))))
+-21.793310203936 -73.542534856571
+(S1 (S (NP (PRP I)) (VP (VBD was)) (PP (NN testing) (NP (PRP it)))))
+-21.952831358031 -73.573776060849
+(S1 (S (NP (NN I)) (VP (VBD was) (NP (NN testing)) (NP (PRP it)))))
+-22.080868684605 -67.392091966339
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (VP (VBG testing) (S (NP (PRP it)))))))))
+-22.141032839128 -72.448925529141
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (NP (VBG testing)) (NP (PRP it)))))))
+-22.271108107700 -72.573057328534
+(S1 (S (NP (NN I)) (VP (VBD was) (SBAR (S (VP (VBG testing) (NP (PRP it))))))))
+-22.338656120848 -69.034680546808
+(S1 (S (NP (NN I)) (VP (VBD was) (S (NP (NN testing)) (NP (PRP it))))))
+-22.446260118707 -72.713627843642
+(S1 (S (NP (NP (PRP I)) (VP (VBD was) (S (VP (VBG testing) (NP (PRP it))))))))
+-22.474122613099 -72.679126700216
+(S1 (S (NP (NN I)) (VP (VBD was) (S (VP (NN testing) (NP (PRP it)))))))
+-22.626685756042 -75.954462206970
+(S1 (S (NP (NN I)) (VP (VBD was) (NP (NP (NN testing)) (NP (PRP it))))))
+-22.682483683249 -72.160170636001
+(S1 (S (NP (PRP I)) (VP (VP (VBD was)) (VP (VBG testing) (S (NP (PRP it)))))))
+-22.692526601600 -75.970878867136
+(S1 (S (NP (NP (PRP I)) (VP (VBD was) (VP (VBG testing) (NP (PRP it)))))))
+-22.714473978126 -75.979417257781
+(S1 (S (NP (NN I)) (VP (VBD was) (PP (NN testing) (NP (PRP it))))))
+-23.782122305021 -70.722203753722
+(S1 (S (NP (NN I)) (VP (VBD was) (S (VP (VBG testing) (S (NP (PRP it))))))))
+-23.950339082661 -75.794618048447
+(S1 (S (NP (NN I)) (VP (VBD was) (SBAR (S (VP (NN testing) (NP (PRP it))))))))
+-24.020183854855 -73.927433373671
+(S1 (S (NP (NP (NN I)) (VP (VBD was) (S (VP (VBG testing) (NP (PRP it))))))))
+-24.570607547736 -74.865016758734
+(S1 (NP (NP (NN I)) (VP (VBD was) (S (NP (NN testing)) (NP (PRP it))))))
+-25.684445473941 -75.747397103543
+(S1 (S (NP (NN I)) (VP (VBD was) (NP (NN testing)) (S (NP (PRP it))))))
+

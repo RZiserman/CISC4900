@@ -1,0 +1,98 @@
+48 x
+-13.134884211569 -46.451802813617
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (JJ interesting) (NN problem)))))
+-14.118218874575 -50.573771646261
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (DT an) (JJ interesting) (NN problem)))))
+-18.253072221315 -61.431369931330
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (DT an) (JJ interesting) (NN problem))))))
+-18.423294151366 -62.156969066806
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT an) (JJ interesting) (NN problem))))))
+-18.874184161861 -53.846488731296
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))
+-19.885117939992 -58.351653701553
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))
+-20.273796397396 -63.745900735427
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (DT an) (JJ interesting) (NN problem))))
+-20.361141776846 -68.141279158584
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT an) (JJ interesting) (NN problem)))))))
+-20.909563797964 -68.598106498812
+(S1 (S (NP (PRP It) (POS 's)) (NP (DT an) (JJ interesting) (NN problem))))
+-21.207652108799 -70.738968064622
+(S1 (NP (NP (PRP It) (POS 's)) (NP (DT an) (JJ interesting) (NN problem))))
+-21.693341172279 -70.037828596864
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT an) (JJ interesting) (NN problem)))))))
+-23.615003706649 -68.506204710099
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))
+-23.837726884699 -69.231803845574
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))
+-24.024800860005 -75.006886812143
+(S1 (S (NP (NP (PRP It) (POS 's)) (NP (DT an) (JJ interesting) (NN problem)))))
+-24.296523025686 -80.940752097704
+(S1 (NP (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (JJ interesting) (NN problem)))))
+-24.542036295866 -82.865455312060
+(S1 (NP (NP (PRP It)) (VP (POS 's) (NP (DT an) (JJ interesting) (NN problem)))))
+-25.535226180913 -80.129869846149
+(S1 (S (NP (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (JJ interesting) (NN problem))))))
+-25.582500324117 -82.054485077746
+(S1 (S (NP (NP (PRP It)) (VP (POS 's) (NP (DT an) (JJ interesting) (NN problem))))))
+-25.718535384338 -70.820735347036
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (DT an) (ADJP (JJ interesting)) (NN problem))))
+-25.784900829299 -75.216113763437
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))))
+-26.289582494905 -75.672941110420
+(S1 (S (NP (PRP It) (POS 's)) (NP (DT an) (ADJP (JJ interesting)) (NN problem))))
+-26.343445748757 -79.498688164751
+(S1 (NP (NP (PRP It) (POS 's)) (NP (DT an) (ADJP (JJ interesting)) (NN problem))))
+-26.627077896556 -86.252992008897
+(S1 (NP (NP (PRP It) (VBZ 's)) (NP (DT an) (JJ interesting) (NN problem))))
+-27.052541530733 -77.112663201716
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))))
+-27.763770921174 -84.449884870934
+(S1 (S (NP (NP (PRP It) (VBZ 's)) (NP (DT an) (JJ interesting) (NN problem)))))
+-28.463510410235 -94.118833549645
+(S1 (NP (NP (PRP It)) (VP (VBZ 's) (S (NP (DT an) (JJ interesting) (NN problem))))))
+-28.946250496354 -93.723053597129
+(S1 (NP (NP (PRP It)) (VP (POS 's) (S (NP (DT an) (JJ interesting) (NN problem))))))
+-29.269095028326 -83.766606939012
+(S1 (S (NP (NP (PRP It) (POS 's)) (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))
+-29.602002915463 -93.307951298090
+(S1 (S (NP (NP (PRP It)) (VP (VBZ 's) (S (NP (DT an) (JJ interesting) (NN problem)))))))
+-29.927120035817 -92.912083362815
+(S1 (S (NP (NP (PRP It)) (VP (POS 's) (S (NP (DT an) (JJ interesting) (NN problem)))))))
+-30.035822945312 -88.335437910374
+(S1 (NP (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))
+-30.308935364071 -90.643337367352
+(S1 (NP (NP (PRP It)) (VP (POS 's) (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))
+-31.236274690539 -87.524555658820
+(S1 (S (NP (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))
+-31.311147979534 -89.832367133038
+(S1 (S (NP (NP (PRP It)) (VP (POS 's) (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))
+-31.402232400485 -101.353115040552
+(S1 (NP (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT an) (JJ interesting) (NN problem)))))))
+-32.089212659284 -95.951164546734
+(S1 (NP (NP (PRP It) (VBZ 's)) (NP (DT an) (ADJP (JJ interesting)) (NN problem))))
+-32.153803965482 -102.329512262663
+(S1 (NP (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT an) (JJ interesting) (NN problem)))))))
+-32.600239109651 -100.542232788998
+(S1 (S (NP (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT an) (JJ interesting) (NN problem))))))))
+-33.140840854218 -101.518542028349
+(S1 (S (NP (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT an) (JJ interesting) (NN problem))))))))
+-33.334406178812 -94.148057316696
+(S1 (S (NP (NP (PRP It) (VBZ 's)) (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))
+-33.877943135206 -101.193668328413
+(S1 (NP (NP (PRP It)) (VP (VBZ 's) (S (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))
+-34.308181987264 -100.797888375898
+(S1 (NP (NP (PRP It)) (VP (POS 's) (S (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))
+-35.016435654372 -100.382786076859
+(S1 (S (NP (NP (PRP It)) (VP (VBZ 's) (S (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))))
+-35.289051521151 -99.986918141584
+(S1 (S (NP (NP (PRP It)) (VP (POS 's) (S (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))))
+-36.825991452938 -108.427949645405
+(S1 (NP (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))))
+-37.513004323935 -109.404346867515
+(S1 (NP (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT an) (ADJP (JJ interesting)) (NN problem)))))))
+-38.023998162105 -107.617067393850
+(S1 (S (NP (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))))
+-38.500041212671 -108.593376633201
+(S1 (S (NP (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (DT an) (ADJP (JJ interesting)) (NN problem))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-12.294838724087 -45.105788788687
+(S1 (NP (RB Just) (RB just) (DT a) (JJ little)))
+-12.869788383981 -43.575732530586
+(S1 (NP (QP (RB Just) (RB just) (DT a) (JJ little))))
+-14.614123031422 -50.459996866008
+(S1 (NP (QP (RB Just) (RB just)) (DT a) (JJ little)))
+-14.675078454343 -51.521333384367
+(S1 (NP (RB Just) (RB just) (NP (DT a) (JJ little))))
+-14.840461167264 -43.840975045608
+(S1 (FRAG (RB Just) (RB just) (NP (DT a) (RB little))))
+-14.852136211976 -52.338006079357
+(S1 (NP (ADVP (RB Just) (RB just)) (DT a) (JJ little)))
+-15.018758685611 -43.373785744817
+(S1 (FRAG (RB Just) (RB just) (NP (DT a) (JJ little))))
+-15.072528938817 -51.706494991975
+(S1 (NP (QP (RB Just) (RB just) (DT a)) (JJ little)))
+-15.455357369333 -47.302310616434
+(S1 (FRAG (RB Just) (NP (RB just) (DT a) (JJ little))))
+-15.687009829908 -50.512161913738
+(S1 (FRAG (ADVP (RB Just) (RB just)) (NP (DT a) (RB little))))
+-15.747236397879 -52.704986338571
+(S1 (NP (ADVP (RB Just)) (RB just) (DT a) (JJ little)))
+-15.865145187528 -50.270151412568
+(S1 (ADVP (RB Just) (NP (RB just) (DT a) (JJ little))))
+-15.899354465988 -51.484878468818
+(S1 (FRAG (NP (RB Just) (RB just) (DT a) (JJ little))))
+-16.076334206298 -46.161531144844
+(S1 (FRAG (RB Just) (ADVP (RB just) (NP (DT a) (RB little)))))
+-16.204592577002 -46.850444877337
+(S1 (FRAG (ADVP (RB Just)) (RB just) (NP (DT a) (RB little))))
+-16.223418619337 -51.088052136255
+(S1 (FRAG (ADVP (RB Just) (RB just)) (NP (DT a) (JJ little))))
+-16.382890098137 -46.383255576545
+(S1 (FRAG (ADVP (RB Just)) (RB just) (NP (DT a) (JJ little))))
+-16.758690149540 -49.878963032178
+(S1 (FRAG (NP (QP (RB Just) (RB just) (DT a) (JJ little)))))
+-16.819762907200 -54.483467831353
+(S1 (NP (RB Just) (ADVP (RB just)) (DT a) (JJ little)))
+-16.893016347761 -51.529433117304
+(S1 (FRAG (ADVP (RB Just)) (NP (RB just) (DT a) (JJ little))))
+-16.948093299163 -54.076116413650
+(S1 (SQ (RB Just) (NP (RB just) (DT a) (JJ little))))
+-17.031284285278 -47.269898563638
+(S1 (FRAG (ADVP (RB Just)) (ADVP (RB just) (NP (DT a) (RB little)))))
+-17.129028617811 -46.268964789556
+(S1 (FRAG (RB Just) (ADVP (RB just) (NP (DT a) (JJ little)))))
+-17.149603059621 -52.394138636361
+(S1 (S (NP (QP (RB Just) (RB just) (DT a) (JJ little)))))
+-17.209628568572 -49.529512572865
+(S1 (FRAG (RB Just) (ADVP (RB just)) (NP (DT a) (RB little))))
+-17.226021550187 -47.675164215835
+(S1 (FRAG (RB Just) (NP (QP (RB just) (DT a) (JJ little)))))
+-17.236031384937 -53.317771549320
+(S1 (FRAG (ADVP (RB Just) (RB just)) (DT a) (JJ little)))
+-17.326683218422 -48.753956102955
+(S1 (FRAG (RB Just) (ADVP (RB just)) (NP (DT a) (JJ little))))
+-17.357944495745 -51.514126994597
+(S1 (FRAG (ADVP (RB Just) (NP (RB just) (DT a) (JJ little)))))
+-17.373923230801 -51.770856507979
+(S1 (FRAG (ADJP (RB Just) (RB just)) (NP (DT a) (RB little))))
+-17.391993069749 -51.206940912927
+(S1 (FRAG (CONJP (RB Just) (RB just)) (NP (DT a) (RB little))))
+-17.478156463510 -50.157660678789
+(S1 (FRAG (CONJP (RB Just) (RB just)) (NP (DT a) (JJ little))))
+-17.749156782498 -49.872872503532
+(S1 (FRAG (ADVP (RB Just)) (ADVP (RB just)) (NP (DT a) (RB little))))
+-17.866211432347 -49.097316033622
+(S1 (FRAG (ADVP (RB Just)) (ADVP (RB just)) (NP (DT a) (JJ little))))
+-17.989274865438 -52.885797432480
+(S1 (ADVP (RB Just) (NP (QP (RB just) (DT a) (JJ little)))))
+-18.022712392207 -53.517621784375
+(S1 (FRAG (RB Just) (RB just) (DT a) (JJ little)))
+-18.083978696792 -47.377332208351
+(S1 (FRAG (ADVP (RB Just)) (ADVP (RB just) (NP (DT a) (JJ little)))))
+-18.336228103415 -53.890406541101
+(S1 (SQ (RB Just) (NP (QP (RB just) (DT a) (JJ little)))))
+-18.473367588408 -52.971783447895
+(S1 (FRAG (ADVP (RB Just)) (RB just) (DT a) (JJ little)))
+-18.627865310061 -53.663918048202
+(S1 (FRAG (CONJP (RB Just) (RB just)) (DT a) (JJ little)))
+-18.746267425370 -52.131669227257
+(S1 (FRAG (ADVP (RB Just)) (NP (QP (RB just) (DT a) (JJ little)))))
+-18.795647799103 -54.486586732829
+(S1 (FRAG (NP (RB Just) (QP (RB just) (DT a) (JJ little)))))
+-19.249630421297 -51.888577480707
+(S1 (FRAG (RB Just) (RB just) (NP (QP (DT a) (JJ little)))))
+-19.259120021983 -53.129068990293
+(S1 (FRAG (ADVP (RB Just)) (ADVP (RB just)) (DT a) (JJ little)))
+-19.482074173655 -54.129773014509
+(S1 (FRAG (ADVP (RB Just) (NP (QP (RB just) (DT a) (JJ little))))))
+-20.299999140525 -53.843673456060
+(S1 (FRAG (RB Just) (ADVP (RB just)) (ADJP (DT a) (JJ little))))
+-20.572405087752 -51.650609537272
+(S1 (FRAG (RB Just) (RB just) (NP (DT a) (ADJP (JJ little)))))
+-20.613761831035 -54.898047312435
+(S1 (FRAG (ADVP (RB Just)) (RB just) (NP (QP (DT a) (JJ little)))))
+-20.986625515172 -53.117746460939
+(S1 (FRAG (RB Just) (RB just) (NP (DT a) (ADJP (RB little)))))
+-21.936536497489 -54.660079369001
+(S1 (FRAG (ADVP (RB Just)) (RB just) (NP (DT a) (ADJP (JJ little)))))
+

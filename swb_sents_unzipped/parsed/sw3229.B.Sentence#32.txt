@@ -1,0 +1,102 @@
+50 x
+-23.518245122780 -90.603529906641
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-25.288673307312 -96.304739627804
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NNS yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-25.743511411034 -93.405025997377
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))
+-26.146038872870 -94.349533436351
+(S1 (S (CC and) (NP (RB probably) (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-26.821757483941 -96.608102261556
+(S1 (S (CC and) (RB probably) (NP (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-27.070157802640 -97.691258283957
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (JJ yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-27.080973057002 -94.311054380767
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (RP in) (RB there)))))
+-27.148074618453 -99.312542787178
+(S1 (S (CC and) (S (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there)))))))
+-27.312621779858 -92.256951136217
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-27.415993297677 -100.383708735512
+(S1 (S (CC and) (NP (RB probably) (DT some) (NNS yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-27.423469345233 -97.515161484734
+(S1 (S (CC and) (NP (ADVP (RB probably)) (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-27.676076475566 -99.106235718540
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NNS yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))
+-27.699279208725 -96.791686215077
+(S1 (S (CC and) (NP (QP (RB probably) (DT some) (JJ yogurt))) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-27.714392849327 -96.724655084039
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (NP (EX there)))))
+-27.768092806719 -100.760142905560
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some)) (VP (VBP yogurt) (SBAR (S (VP (VBD was) (PP (IN in) (NP (EX there)))))))))
+-27.856497774210 -99.059652078730
+(S1 (S (CC and) (ADVP (RB probably)) (NP (NP (DT some)) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-28.059446740304 -97.718726864003
+(S1 (FRAG (CC and) (ADVP (RB probably)) (SBAR (S (NP (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))))
+-28.396540517124 -97.151029527087
+(S1 (S (CC and) (NP (RB probably) (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))
+-28.444965243394 -96.649648487712
+(S1 (FRAG (CC and) (RB probably) (SBAR (S (NP (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))))
+-28.587184491378 -100.613345813418
+(S1 (S (CC and) (NP (RB probably) (DT some) (JJ yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))
+-28.652907067639 -98.694010731781
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (PP (RP in) (NP (EX there))))))
+-28.950133304534 -100.012264101929
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NNS yogurt)) (VP (VBD was) (ADVP (RP in) (RB there)))))
+-29.047023772195 -99.409598352292
+(S1 (S (CC and) (RB probably) (NP (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))
+-29.182736480390 -97.958160857380
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NNS yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-29.249260685905 -97.027235947306
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (EX there)))))
+-29.321435701169 -97.545658239157
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (PRT (IN in)) (ADVP (RB there)))))
+-29.380297574058 -100.492754374693
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (JJ yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))
+-29.634313911572 -99.886823609183
+(S1 (FRAG (CC and) (ADVP (RB probably)) (SBAR (DT some) (S (NP (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))))
+-29.673970997850 -100.316657575470
+(S1 (S (CC and) (NP (ADVP (RB probably)) (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))
+-29.734002163092 -98.057057910477
+(S1 (S (CC and) (NP (RB probably) (DT some) (NN yogurt)) (VP (VBD was) (ADVP (RP in) (RB there)))))
+-29.940415529948 -96.002954665927
+(S1 (S (CC and) (NP (RB probably) (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-30.039302077779 -99.593182305813
+(S1 (S (CC and) (NP (QP (RB probably) (DT some) (JJ yogurt))) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))
+-30.041742545141 -98.819626417003
+(S1 (FRAG (CC and) (RB probably) (SBAR (DT some) (S (NP (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there))))))))
+-30.367421952629 -100.470658613749
+(S1 (S (CC and) (NP (RB probably) (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (NP (EX there)))))
+-30.384485409799 -100.315626735682
+(S1 (S (CC and) (RB probably) (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (RP in) (RB there)))))
+-30.423012969398 -100.636634379969
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (RP in)) (NP (EX there)))))
+-30.616134141019 -98.261523491133
+(S1 (S (CC and) (RB probably) (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-30.811515476619 -100.520222885395
+(S1 (FRAG (CC and) (ADVP (RB probably)) (SBAR (S (NP (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))))
+-30.865236240454 -100.756453625495
+(S1 (FRAG (CONJP (CC and) (RB probably)) (S (NP (DT some) (NN yogurt)) (VP (VBD was) (PP (IN in) (NP (EX there)))))))
+-30.905201628718 -99.344679513534
+(S1 (S (CC and) (ADVP (RB probably)) (NP (DT some) (JJ yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-31.203143904133 -99.451144509104
+(S1 (FRAG (CC and) (RB probably) (SBAR (S (NP (DT some) (NN yogurt)) (VP (VBD was) (PRT (RP in)) (ADVP (RB there)))))))
+-31.217846002311 -99.168582714310
+(S1 (S (CC and) (NP (ADVP (RB probably)) (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-31.332930974735 -100.499210689203
+(S1 (S (CC and) (NP (QP (RB probably) (DT some) (JJ yogurt))) (VP (VBD was) (ADVP (RP in) (RB there)))))
+-31.531608502016 -98.445107444654
+(S1 (S (CC and) (NP (QP (RB probably) (DT some) (JJ yogurt))) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-31.650874428501 -100.713073308306
+(S1 (S (CC and) (ADVP (RB probably)) (NP (NP (DT some)) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))
+-31.877054441571 -100.773239477016
+(S1 (S (CC and) (NP (RB probably) (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (EX there)))))
+-32.740796724594 -99.372148075123
+(S1 (FRAG (CC and) (ADVP (RB probably)) (SBAR (S (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))))
+-32.934701930889 -100.357172943382
+(S1 (FRAG (CC and) (RB probably) (SBAR (S (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (RP in) (RB there)))))))
+-33.125715294896 -98.303069698832
+(S1 (FRAG (CC and) (RB probably) (SBAR (S (NP (DT some) (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))))
+-34.771768582780 -100.473047628124
+(S1 (FRAG (CC and) (RB probably) (SBAR (DT some) (S (NP (NN yogurt)) (VP (VBD was) (ADVP (IN in) (RB there)))))))
+

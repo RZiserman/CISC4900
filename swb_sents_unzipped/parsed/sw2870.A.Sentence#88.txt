@@ -1,0 +1,102 @@
+50 x
+-22.863198473803 -96.641572622791
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-23.834360579926 -104.986144072654
+(S1 (S (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-23.850781591918 -100.134092123957
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))
+-24.210557290309 -99.386127570540
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))
+-24.702244550603 -101.215652752839
+(S1 (S (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-24.721549588349 -104.984744887673
+(S1 (S (CC But) (IN like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-24.928722403616 -108.478663573821
+(S1 (S (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))
+-25.446098579709 -103.385430577432
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush))))))))
+-25.783244664294 -104.708172254006
+(S1 (S (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-25.815911412040 -108.477264388840
+(S1 (S (CC But) (IN like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))
+-26.146433018353 -106.371775215974
+(S1 (S (CC But) (ADVP (IN like)) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-26.262486380043 -109.065721431468
+(S1 (S (CC But) (NP (JJ like)) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-26.272242595288 -109.383867759603
+(S1 (S (CC But) (PP (IN like) (NP (NN I))) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-26.624137613641 -110.282892943651
+(S1 (S (CC But) (NP (IN like)) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-26.669100413310 -102.554476313006
+(S1 (FRAG (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-26.671214845549 -108.988463015042
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBN said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-26.916733894762 -107.238746172716
+(S1 (S (CC But) (VP (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-26.923712666925 -107.506134592541
+(S1 (S (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))))
+-27.169666333946 -107.658851668275
+(S1 (S (CC But) (ADVP (JJ like)) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-27.240794842043 -109.864294717141
+(S1 (S (CC But) (ADVP (IN like)) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))
+-27.356233210326 -110.052071698128
+(S1 (S (CC But) (NP (JJ like) (NN I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-27.368795517675 -103.075288779474
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (NP (IN for) (NNP Bush))))))))
+-27.486368731296 -108.592919799521
+(S1 (S (CC But) (VBP like) (NP (NN I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-27.502281346177 -106.786067376982
+(S1 (SINV (CC But) (PP (IN like) (NP (NN I))) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))
+-27.600629543322 -110.629140529701
+(S1 (S (CC But) (VP (VB like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-27.640128429304 -105.331324173500
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PRT (RP for)) (NP (NNP Bush))))))))
+-27.750100527000 -106.046995814173
+(S1 (FRAG (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-27.900828852835 -110.626015129606
+(S1 (S (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush))))))))))
+-28.011095718452 -110.731265673883
+(S1 (S (CC But) (VP (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-28.202181947642 -109.450711892968
+(S1 (S (CC But) (VP (VB like) (NP (PRP I)) (VP (VBN said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))))
+-28.268862806382 -110.501771927636
+(S1 (S (CC But) (VP (VBP like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-28.463739455587 -107.149084985833
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (SBAR (WHADVP (IN if)) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-28.465494820242 -105.819843727223
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (NP (IN for) (NNP Bush)))))))
+-28.743574001605 -106.981843178365
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PRT (IN for)) (NP (NNP Bush))))))))
+-28.808926833115 -107.211771265808
+(S1 (FRAG (ADVP (CC But)) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-28.847346175473 -110.071309534147
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (NN I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-28.917400187526 -106.192553568640
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (WHNP (IN if)) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))
+-28.991928171871 -108.075879121250
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PRT (RP for)) (NP (NNP Bush)))))))
+-29.011539078568 -110.246787825630
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (WHADVP (IN if)) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))
+-29.041744495388 -108.844958263614
+(S1 (FRAG (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))))
+-29.159976896843 -107.743330935935
+(S1 (FRAG (ADVP (RB But)) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-29.207841572173 -107.649368909523
+(S1 (S (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (NP (IN for) (NNP Bush))))))))))
+-29.351018673802 -109.905404303549
+(S1 (S (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PRT (RP for)) (NP (NNP Bush))))))))))
+-29.683549976123 -109.635578529405
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (WHNP (IN if)) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush))))))))
+-29.903288656805 -110.704290766975
+(S1 (FRAG (ADVP (CC But)) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBN voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-30.047628174172 -109.726398126115
+(S1 (SINV (CC But) (PP (IN like) (NP (PRP I))) (VP (VBD said)) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PRT (IN for)) (NP (NNP Bush)))))))
+-30.088923822085 -110.505865094523
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush))))))))
+-30.657214515673 -108.985855212959
+(S1 (FRAG (CC But) (SBAR (WHNP (IN like)) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))))
+-30.980763053044 -108.740622330251
+(S1 (S (CC But) (VBP like) (NP (PRP I)) (VP (VBD said) (VP (IN if) (S (NP (PRP I)) (VP (VBD voted) (PP (IN for) (NP (NNP Bush)))))))))
+-31.174697462758 -108.988192469690
+(S1 (FRAG (CC But) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD said) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD voted) (NP (IN for) (NNP Bush))))))))))
+

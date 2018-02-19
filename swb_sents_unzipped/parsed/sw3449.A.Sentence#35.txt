@@ -1,0 +1,102 @@
+50 x
+-14.782219560852 -48.506664742056
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (NP (DT that)))))
+-16.035570554238 -53.753972862289
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (NP (DT that)))))
+-16.153788999621 -54.485318818062
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (NP (DT that)))))
+-16.679013615484 -50.277264956404
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (NP (IN that)))))
+-17.006056531156 -57.057350646332
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBD read) (NP (DT that)))))
+-18.046850971025 -59.312083192180
+(S1 (SQ (VBD Did) (RB n't) (SBAR (S (NP (PRP I)) (VP (VBP read) (NP (DT that)))))))
+-18.068438004537 -56.005037068770
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (NP (IN that)))))
+-18.290586822860 -59.719725337662
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (PRT (RB that)))))
+-18.393090944005 -62.243279748435
+(S1 (S (VP (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VBD read) (NP (DT that)))))))
+-18.444881031048 -55.656323223099
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (NP (WDT that)))))
+-18.454849625096 -60.094487802964
+(S1 (SQ (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VBP read) (NP (DT that))))))
+-18.458004099642 -57.597492841419
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBD read) (NP (IN that)))))
+-18.467638552820 -58.017542084381
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (X (IN that)))))
+-18.476707062025 -59.188053872800
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (NP (IN that)))))
+-18.495175271033 -61.166187773732
+(S1 (SQ (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VBD read) (NP (DT that))))))
+-18.623575192549 -62.256768326909
+(S1 (S (VP (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VBP read) (NP (DT that)))))))
+-18.822884966752 -60.441778497920
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (PRT (IN that)))))
+-18.995523174664 -58.395027223011
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (PRT (IN that)))))
+-19.115390141898 -62.877099920704
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (ADVP (RB that)))))
+-19.252489243968 -61.303337696925
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (NP (NN that)))))
+-19.321552053193 -63.902984689349
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (X (IN that)))))
+-19.377449788101 -62.171271576588
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (ADVP (RB that)))))
+-19.414956094417 -62.824396118421
+(S1 (S (VP (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VBD read) (NP (IN that)))))))
+-19.424348322690 -61.914403119852
+(S1 (SQ (VBD Did) (RB n't) (SBAR (S (NP (PRP I)) (VP (VBP read) (NP (IN that)))))))
+-19.444674056559 -63.464448601766
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (PRT (RB that)))))
+-19.545771079410 -63.161432080623
+(S1 (S (VP (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VB read) (NP (DT that)))))))
+-19.646064466006 -63.034050201532
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBD read) (X (IN that)))))
+-19.694611850054 -63.431072110235
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (X (IN that)))))
+-19.704067050426 -61.855774181640
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (ADVP (RB that)))))
+-19.732092741445 -61.747304143718
+(S1 (SQ (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VBD read) (NP (IN that))))))
+-19.746926494170 -61.887052852228
+(S1 (SQ (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VB read) (NP (DT that))))))
+-19.755283330779 -59.667365211844
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (NP (WDT that)))))
+-20.106947196960 -61.971111989759
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (NP (WDT that)))))
+-20.184596569993 -62.480860528741
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBD read) (NP (WDT that)))))
+-20.282264829902 -63.432031122913
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (ADVP (IN that)))))
+-20.284450247705 -58.971783782342
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (ADJP (RB that)))))
+-20.294963917762 -62.696807730636
+(S1 (SQ (VBD Did) (RB n't) (S (NP (PRP I)) (VP (VBP read) (NP (IN that))))))
+-20.313258426915 -63.547445768643
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (RB that))))
+-20.462193471977 -57.562251366904
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (S (ADJP (IN that))))))
+-20.487750945851 -64.327157367395
+(S1 (SQ (VBD Did) (RB n't) (SBAR (S (NP (PRP I)) (VP (VB read) (NP (DT that)))))))
+-20.694798137659 -62.775307654489
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (ADVP (IN that)))))
+-20.942748461739 -63.445332811559
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBN read) (S (ADJP (IN that))))))
+-21.065495524915 -62.036893190503
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (ADVP (IN that)))))
+-21.103233260867 -64.025663087308
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (S (NP (DT that))))))
+-21.153400614440 -61.535195791765
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (ADJP (IN that)))))
+-21.652445297235 -63.909335270847
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (ADJP (IN that)))))
+-21.883321315658 -62.995847698473
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (S (ADJP (RB that))))))
+-22.014365581391 -63.606210895904
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (ADJP (RB that)))))
+-22.041270647545 -63.052818801240
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VBP read) (S (ADJP (IN that))))))
+-22.518010952231 -63.389745016733
+(S1 (SQ (VBD Did) (RB n't) (NP (PRP I)) (VP (VB read) (S (NP (IN that))))))
+

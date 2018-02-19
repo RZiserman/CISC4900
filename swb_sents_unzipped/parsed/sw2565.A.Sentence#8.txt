@@ -1,0 +1,102 @@
+50 x
+-26.897414563924 -91.805718488585
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that))))
+-28.974492361251 -101.105159457046
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (DT all) (DT that))))
+-29.415290556856 -95.357517889752
+(S1 (NP (NP (NNP coliseum) (NNP Wally)) (NP (NP (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-29.516542926669 -99.380412715696
+(S1 (S (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-29.742233810106 -98.770015310804
+(S1 (S (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-29.777153770831 -101.956589029113
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (NP (DT that)))))
+-30.096656082664 -98.853273325105
+(S1 (NP (NP (NNP coliseum)) (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that))))
+-30.154171639263 -93.488110353168
+(S1 (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-30.218037967139 -99.973670319977
+(S1 (FRAG (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-30.237173411563 -100.787851277539
+(S1 (NP (NP (NNP coliseum) (NNP Wally)) (NP (NNP Moon)) (CC and) (NP (PDT all) (DT that))))
+-30.326958439544 -104.143699775695
+(S1 (NP (NNP coliseum) (NNP Wally) (NNP Moon) (CC and) (PDT all) (DT that)))
+-30.756463905644 -100.562108391393
+(S1 (X (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-31.045287471257 -103.959073531134
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (RB all) (DT that))))
+-31.066072051404 -106.215503551226
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (RB all) (NP (DT that))))
+-31.295062047183 -101.806040773584
+(S1 (S (NP (NNP coliseum) (NNP Wally)) (NP (NP (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-31.415305166129 -105.687651012883
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (NP (DT all)) (IN that))))
+-31.539582401142 -106.713625595980
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (RB all) (IN that))))
+-31.555177101183 -104.656958858213
+(S1 (NP (NP (NNP coliseum) (NNP Wally)) (NP (NP (NNP Moon)) (CC and) (NP (DT all) (DT that)))))
+-31.562482578928 -98.338072951193
+(S1 (FRAG (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-31.655081004581 -103.885920918525
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (NP (DT all)) (NP (DT that)))))
+-31.686341038438 -100.831394366974
+(S1 (NP (NP (NP (NNP coliseum)) (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that))))
+-31.718236430275 -106.707470695108
+(S1 (NP (NNP coliseum) (NNP Wally) (NP (NNP Moon)) (CC and) (NP (PDT all) (DT that))))
+-31.741011020392 -104.406884176990
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (RB all) (WDT that))))
+-31.811764695311 -106.793299465056
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (QP (PDT all) (DT that)))))
+-32.197036663764 -105.508388430280
+(S1 (NP (NP (NNP coliseum) (NNP Wally)) (NP (NP (NNP Moon)) (CC and) (NP (PDT all) (NP (DT that))))))
+-32.308403806863 -102.787551321629
+(S1 (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (DT all) (DT that)))))
+-32.325175062736 -106.283111555128
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (RB all) (IN that)))
+-32.690046675902 -103.046901768955
+(S1 (FRAG (NP (NNP coliseum) (NNP Wally)) (NP (NP (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-32.707431886542 -106.941979873502
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (NP (DT all)) (ADVP (IN that)))))
+-32.711024677410 -103.774035661456
+(S1 (NP (NP (NP (NNP coliseum) (NNP Wally)) (NNP Moon)) (CC and) (NP (PDT all) (DT that))))
+-32.897506214780 -103.800492446848
+(S1 (FRAG (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that))))
+-32.935917757321 -103.638980893696
+(S1 (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (NP (DT that))))))
+-32.941038370758 -100.792392489370
+(S1 (NP (NP (NP (NNP coliseum)) (NP (NNP Wally) (NNP Moon))) (CC and) (NP (PDT all) (DT that))))
+-33.070134326829 -103.451623415629
+(S1 (FRAG (NP (NP (NNP coliseum) (NNP Wally)) (NP (NP (NNP Moon)) (CC and) (NP (PDT all) (DT that))))))
+-33.078045910719 -105.166697172032
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (NP (DT all)) (NP (WDT that)))))
+-33.140892181908 -102.967897734275
+(S1 (NP (NP (NP (NNP coliseum) (NNP Wally)) (NP (NNP Moon))) (CC and) (NP (PDT all) (DT that))))
+-33.280173427043 -105.885871338954
+(S1 (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (PP (CC and) (NP (PDT all) (DT that)))))
+-33.443180924483 -104.967167488578
+(S1 (NP (NP (NNP coliseum)) (NP (NNP Wally) (NNP Moon) (CC and) (PDT all) (DT that))))
+-33.475900274932 -101.962226081997
+(S1 (UCP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (ADVP (DT all) (IN that))))
+-33.578695251613 -103.719719382152
+(S1 (X (NP (NP (NNP coliseum) (NNP Wally)) (NP (NP (NNP Moon)) (CC and) (NP (PDT all) (DT that))))))
+-33.703476634508 -101.582215838137
+(S1 (FRAG (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that))))))
+-33.852093650537 -106.328884924506
+(S1 (X (NP (NP (NNP coliseum)) (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that)))))
+-34.048287237005 -107.112076875320
+(S1 (FRAG (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (RB all) (NP (DT that))))
+-34.111318834787 -106.410634905519
+(S1 (NP (NP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (NP (DT all))) (NP (DT that))))
+-34.154012366747 -105.641465395717
+(S1 (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (RB all) (DT that)))))
+-34.164721744714 -107.123847896775
+(S1 (UCP (NP (NNP coliseum) (NNP Wally) (NNP Moon)) (CC and) (ADVP (RB all) (RB that))))
+-34.182765850414 -101.850311699650
+(S1 (X (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (PDT all) (DT that))))))
+-34.542179955071 -105.568312787547
+(S1 (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (NP (DT all)) (NP (DT that))))))
+-34.982905472975 -105.926361165819
+(S1 (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (RB all) (WDT that)))))
+-36.197145699331 -106.849089041053
+(S1 (NP (NP (NNP coliseum)) (NP (NP (NNP Wally) (NNP Moon)) (CC and) (NP (NP (DT all)) (NP (WDT that))))))
+

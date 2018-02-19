@@ -1,0 +1,102 @@
+50 x
+-15.678735653572 -45.640795604095
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-17.562026178304 -55.340829886073
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ great)))))))
+-17.682781577180 -53.383464388410
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (ADJP (JJ great)))))
+-18.202287752227 -52.986035851436
+(S1 (FRAG (INTJ (UH Oh) (DT that) (VBZ 's)) (ADJP (JJ great))))
+-18.510165557543 -54.313170893134
+(S1 (FRAG (INTJ (UH Oh) (DT that) (VBZ 's)) (JJ great)))
+-18.676606040375 -56.459961203345
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADVP (RB great)))))
+-18.899635617229 -60.245172129099
+(S1 (S (INTJ (UH Oh)) (DT that) (VP (VBZ 's) (ADJP (JJ great)))))
+-18.917943687342 -57.433743696866
+(S1 (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ great)))))))
+-19.159353615625 -54.187499573442
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-19.386684440432 -54.670064021550
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (RB great)))))
+-19.411732085086 -52.412661598301
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-19.412912917598 -59.002424075397
+(S1 (S (INTJ (UH Oh)) (WHNP (WDT that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-19.524655798268 -54.377265714491
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ great)))))))
+-19.811057687487 -57.845481009020
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (RB great))))
+-19.886941273481 -52.697768318314
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-20.169268768565 -56.391857850398
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ great)))))))
+-20.351068781902 -56.693456101616
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ great))))))
+-20.464142883243 -55.816764424755
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (JJ great)))))
+-20.471788171411 -62.530940041115
+(S1 (S (NP (UH Oh) (IN that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-20.620864666017 -62.553876894156
+(S1 (NP (UH Oh) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ great)))))))
+-20.650423440274 -58.500569796944
+(S1 (SBAR (ADVP (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ great))))))
+-20.668145321145 -61.201011017641
+(S1 (S (INTJ (UH Oh) (DT that) (VBZ 's)) (VP (JJ great))))
+-20.694975652998 -61.821314172888
+(S1 (FRAG (INTJ (UH Oh) (DT that) (VBZ 's)) (RB great)))
+-20.807179005041 -60.336326418932
+(S1 (S (NP (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-20.820144106603 -60.883055689672
+(S1 (FRAG (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ great))))))))
+-20.842324002246 -55.195183913565
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADVP (JJ great)))))
+-20.934240686675 -60.990405180729
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (POS 's) (ADJP (JJ great)))))
+-21.065716446531 -60.121476057722
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (ADJP (RB great)))))
+-21.119595701805 -58.084183775493
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (POS 's) (ADJP (JJ great)))))
+-21.126649756878 -59.254142766853
+(S1 (FRAG (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ great))))))
+-21.164638056973 -62.362965460745
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (S (ADJP (JJ great))))))
+-21.207401001591 -59.064651851381
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (POS 's) (ADJP (JJ great)))))
+-21.237865500532 -61.108275242864
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (VP (POS 's) (ADJP (JJ great)))))))
+-21.276839523152 -55.815566457549
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (VP (JJ great)))))
+-21.386605531192 -58.733523425281
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ great)))))))
+-21.398180221062 -62.556218952140
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (NP (JJ great)))))
+-21.479742190567 -59.723953184188
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (RB great)))))
+-21.506371992699 -59.529856432301
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (S (ADJP (JJ great))))))
+-21.670585967632 -62.258529538588
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (ADVP (JJ great)))))
+-21.709331109178 -62.288845800337
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-21.954416525201 -61.552859945082
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ great)))))))
+-22.088363009778 -59.284705260558
+(S1 (S (ADVP (UH Oh)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-22.090034566968 -62.270279060554
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (S (VP (VBZ 's) (ADJP (JJ great))))))
+-22.240829194512 -59.921826280677
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (VP (ADJP (JJ great))))))
+-22.338015665697 -61.534311552060
+(S1 (FRAG (INTJ (UH Oh)) (X (IN that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-23.052068531946 -61.441930015757
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ 's) (ADJP (RB great)))))
+-23.344886534983 -61.292203285765
+(S1 (S (ADVP (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ great)))))
+-23.537975310340 -61.727036735770
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (ADJP (RB great)))))
+-24.646659413760 -61.967049907772
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ 's) (ADVP (JJ great)))))
+-25.209705322155 -62.252156627785
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (ADVP (JJ great)))))
+

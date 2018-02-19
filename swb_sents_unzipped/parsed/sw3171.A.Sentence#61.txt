@@ -1,0 +1,102 @@
+50 x
+-19.992515402053 -76.908994057267
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))))
+-21.161420358986 -75.964069793804
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))))
+-21.944309416685 -79.990342602377
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental))))))))))
+-22.562060457784 -83.736932204812
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VB have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))))
+-23.113214376407 -79.045418338915
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental)))))))))))
+-23.334631386994 -82.800342016066
+(S1 (S (IN because) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))
+-23.479217078765 -83.308248353741
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (VBG flying)))) (PP (IN with) (NP (NNP Continental)))))))
+-23.649353914266 -86.159065625704
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))
+-23.842722716707 -83.290705395199
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VB have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))))
+-23.950697728498 -81.333155526809
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental)))))))
+-24.304773516778 -86.672728109258
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (VBG flying))) (PP (IN with) (NP (NNP Continental))))))))
+-24.353963080952 -88.450145326451
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))
+-24.474996590598 -83.206453814369
+(S1 (S (RB because) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))
+-24.513854475204 -86.818280749922
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VB have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental))))))))))
+-24.631045907200 -84.049428006516
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))))
+-24.648122038486 -82.363324090279
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (VBG flying)))) (PP (IN with) (NP (NNP Continental))))))))
+-24.767555783723 -84.697635282325
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying)))) (PP (IN with) (NP (NNP Continental))))))))
+-24.818258871199 -85.214141362242
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))))
+-24.998388811480 -88.231331625623
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (S (NP (NNP Continental))))))))))))
+-25.062891030805 -88.009630786779
+(S1 (S (ADVP (RB because)) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))
+-25.108006254380 -86.507812944410
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PRT (RP with)) (NP (NNP Continental))))))))))
+-25.119602685432 -80.388231263346
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental))))))))
+-25.166949286153 -87.091853109242
+(S1 (S (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))))
+-25.286425401626 -85.881690561176
+(S1 (S (IN because) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental)))))))))
+-25.397062686456 -87.391081685092
+(S1 (S (X (IN because)) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))
+-25.438178517840 -86.322751812824
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))))
+-25.473678476499 -85.727803845796
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (VBG flying))) (PP (IN with) (NP (NNP Continental)))))))))
+-25.522868037886 -87.505221062989
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))))
+-25.727373649455 -82.505597174844
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))))
+-25.794516731339 -86.372053940309
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VB have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental)))))))))))
+-25.880990111421 -87.592679589718
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))))))
+-25.936460743445 -83.752711018863
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying)))) (PP (IN with) (NP (NNP Continental)))))))))
+-26.055835989939 -88.044706522821
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (S (NP (NP (DT a) (NN lot)) (PP (IN of))) (VP (VBG flying) (PP (IN with) (NP (NNP Continental))))))))))
+-26.167293768413 -87.286407362161
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PP (IN with) (S (NP (NNP Continental)))))))))))))
+-26.225237514102 -85.562888680947
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PRT (RP with)) (NP (NNP Continental)))))))))))
+-26.402392984827 -86.928887840341
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PRT (IN with)) (NP (NNP Continental))))))))))
+-26.426790608018 -86.287802359479
+(S1 (S (RB because) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental)))))))))
+-26.431060515404 -87.609333331938
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying)) (PP (IN with) (NP (NNP Continental)))))))))))
+-26.582839921832 -87.130776551627
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental))))))))))
+-26.886593604643 -88.169077768194
+(S1 (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental))))))))
+-26.979254091808 -87.758622268968
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (NP (IN with) (NNP Continental)))))))))))
+-27.030353734057 -88.498597660689
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (IN with) (NP (NNP Continental)))))))))))
+-27.215310818349 -87.224503399605
+(S1 (S (IN because) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental))))))
+-27.571297944549 -85.983963576879
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying) (PRT (IN with)) (NP (NNP Continental)))))))))))
+-27.679167666876 -85.586945719955
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (VBG flying)) (PP (IN with) (NP (NNP Continental)))))))))))
+-28.055498561576 -87.224153504731
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental)))))))))
+-28.355676024741 -87.630615197908
+(S1 (S (RB because) (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental))))))
+-28.589228233645 -88.473589476058
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental)))))))
+-28.940520337256 -88.004032547764
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of))) (PP (VBG flying) (PP (IN with) (NP (NNP Continental)))))))))
+-29.685555975901 -86.929758644386
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP we)) (VP (VBP have) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG flying))))) (PP (IN with) (NP (NNP Continental))))))))
+

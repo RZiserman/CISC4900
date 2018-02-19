@@ -1,0 +1,102 @@
+50 x
+-49.172102719198 -158.818161984463
+(S1 (NP (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (JJ pretty)))))) (CC and) (NP (NNP Switzerland))))
+-49.633562394944 -157.560454066024
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (NNP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-49.786817321198 -157.945916349628
+(S1 (NP (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland))))
+-49.960050034810 -158.011380477214
+(S1 (S (ADVP (RB So) (CC but) (RB um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-50.104190989396 -158.249969742730
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (NP (PRP I))) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-50.177096338821 -160.541962803410
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (NNP I)) (VP (VBD found) (S (ADJP (RB really) (RB pretty) (CC and) (NNP Switzerland))))))
+-50.362941098346 -162.054046350900
+(S1 (X (ADVP (RB So) (CC but) (RB um)) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (JJ pretty)))))) (CC and) (NP (NNP Switzerland)))))
+-50.459165345703 -161.669911285700
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (NNP I)) (VP (VBD found) (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland)))))
+-50.476701335497 -161.296524872320
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria)) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-50.489819441568 -162.120837696889
+(S1 (S (ADVP (RB So) (CC but) (RB um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland)))))
+-50.503583978687 -160.992889214600
+(S1 (S (ADVP (RB So) (CC but) (RB um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (RB pretty) (CC and) (NNP Switzerland))))))
+-50.647724961151 -161.231478480117
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (NP (PRP I))) (VP (VBD found) (S (ADJP (RB really) (RB pretty) (CC and) (NNP Switzerland))))))
+-50.689751134292 -160.750975604118
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (NNP I)) (VP (VBD found) (UCP (ADJP (RB really) (JJ pretty)) (CC and) (NP (NNP Switzerland))))))
+-50.716582100158 -161.201902015307
+(S1 (S (ADVP (RB So) (CC but) (RB um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (UCP (ADJP (RB really) (JJ pretty)) (CC and) (NP (NNP Switzerland))))))
+-50.861176036623 -161.440491280824
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (NP (PRP I))) (VP (VBD found) (UCP (ADJP (RB really) (JJ pretty)) (CC and) (NP (NNP Switzerland))))))
+-50.933719548546 -162.310492089621
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria)) (NP (PRP I)) (VP (VBN found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-50.959789900597 -162.099024859879
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland)))))
+-50.977655700345 -161.181800716065
+(S1 (X (ADVP (RB So) (CC but) (RB um)) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland)))))
+-51.084262049471 -161.433985160869
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (NNP I)) (VP (VBD found) (NP (NP (RB really) (RB pretty)) (CC and) (NP (NNP Switzerland))))))
+-51.100342363697 -161.970006763368
+(S1 (NP (NP (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (JJ pretty)))))) (CC and) (NP (NNP Switzerland))))
+-51.173868685336 -161.884911572059
+(S1 (S (ADVP (RB So) (CC but) (RB um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (NP (NP (RB really) (RB pretty)) (CC and) (NP (NNP Switzerland))))))
+-51.198777115965 -161.461580659274
+(S1 (NP (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (RB pretty)))))) (CC and) (NP (NNP Switzerland))))
+-51.248406048679 -161.121500983013
+(S1 (X (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))))
+-51.318462593923 -162.123500837575
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (NP (PRP I))) (VP (VBD found) (NP (NP (RB really) (RB pretty)) (CC and) (NP (NNP Switzerland))))))
+-51.581252951176 -162.091789738553
+(S1 (S (ADVP (RB So) (CC but) (FW um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-51.642299889954 -161.357398363962
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (NN I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-51.715056965697 -161.097761128533
+(S1 (NP (NP (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland))))
+-51.746146689709 -160.086507180852
+(S1 (SINV (ADVP (RB So)) (CC but) (VBZ um) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (JJ pretty)))))) (CC and) (NP (NNP Switzerland)))))
+-51.760823815670 -158.317839469465
+(S1 (SINV (ADVP (RB So)) (CC but) (VBP um) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (JJ pretty)))))) (CC and) (NP (NNP Switzerland)))))
+-51.768067307563 -161.268906495085
+(S1 (X (ADVP (RB So) (CC but) (RB um)) (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland)))))))))
+-51.838993412001 -160.153137127612
+(S1 (FRAG (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria)) (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland)))))))
+-52.190545297627 -160.558076792496
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-52.302584144697 -158.467570583028
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (ADVP (NNP Austria)) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-52.343356967344 -160.885054091209
+(S1 (S (ADVP (RB So) (CC but) (JJ um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-52.360861291709 -159.214261546017
+(S1 (SINV (ADVP (RB So)) (CC but) (VBZ um) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland)))))
+-52.375538417670 -157.445593834630
+(S1 (SINV (ADVP (RB So)) (CC but) (VBP um) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland)))))
+-52.448461353903 -161.919229447836
+(S1 (NP (ADVP (RB So) (CC but) (CD um)) (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland))))
+-52.457992507457 -161.813682997586
+(S1 (S (UCP (ADVP (RB So)) (CC but) (PP (VBG um) (NP (NNP Austria)))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-52.629416440471 -162.266067069811
+(S1 (S (ADVP (RB So) (CC but) (RB um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (ADVP (RB really)) (NP (NP (RB pretty)) (CC and) (NP (NNP Switzerland))))))
+-52.715834914605 -161.815140658622
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (NP (NNP Austria) (NNP I)) (VP (VBD found) (ADVP (RB really)) (NP (NP (RB pretty)) (CC and) (NP (NNP Switzerland))))))
+-52.788018313977 -160.407481141906
+(S1 (S (ADVP (RB So) (CC but) (RB um) (ADVP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-52.846118088575 -161.449079320414
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (ADVP (NNP Austria)) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (RB pretty) (CC and) (NNP Switzerland))))))
+-52.862885510585 -160.794596915594
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (VP (NNP Austria) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland)))))))))
+-52.929171859233 -160.901808880336
+(S1 (S (ADVP (IN So) (CC but) (JJ um) (NP (NNP Austria))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-53.059116210046 -161.658092121121
+(S1 (S (ADVP (RB So) (CC but) (RB um)) (ADVP (NNP Austria)) (NP (PRP I)) (VP (VBD found) (UCP (ADJP (RB really) (JJ pretty)) (CC and) (NP (NNP Switzerland))))))
+-53.194605171046 -161.999828259263
+(S1 (S (RB So) (PP (IN but) (NP (JJ um) (NNP Austria))) (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland))))))
+-53.644331945312 -161.506691821672
+(S1 (UCP (ADVP (RB So)) (CC but) (PP (VBG um) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty))))))) (CC and) (NP (NNP Switzerland))))))
+-53.890615824560 -160.961258144275
+(S1 (SINV (ADVP (RB So)) (CC but) (VBP um) (NP (NP (NP (NNP Austria)) (SBAR (S (NP (PRP I)) (VP (VBD found) (ADJP (RB really) (RB pretty)))))) (CC and) (NP (NNP Switzerland)))))
+-53.895319134492 -159.735102285489
+(S1 (FRAG (ADVP (RB So) (CC but) (JJ um)) (NP (NNP Austria)) (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland)))))))
+-54.967351976668 -160.277491965511
+(S1 (FRAG (ADVP (IN So) (CC but) (JJ um)) (NP (NNP Austria)) (S (NP (PRP I)) (VP (VBD found) (S (ADJP (RB really) (JJ pretty) (CC and) (NNP Switzerland)))))))
+

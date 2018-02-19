@@ -1,0 +1,102 @@
+50 x
+-23.375938759415 -77.490639303736
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop)))))))
+-24.960105249196 -83.052637350158
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (ADVP (RB instead) (PP (IN of) (NP (NN stop)))))))))
+-24.988525074090 -77.974167328473
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop))))))))
+-25.156435148200 -79.359755606166
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop))))))))
+-25.158597411602 -84.062126776340
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (SBAR (S (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop))))))))
+-25.404019077195 -84.466544635211
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says)) (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop)))))
+-25.434255902992 -81.784580762664
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (S (VP (CONJP (RB instead) (IN of)) (VB stop))))))))
+-25.482461607904 -84.324147994134
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (ADVP (RB instead)) (PP (IN of) (NP (NN stop))))))))
+-25.852308051833 -81.747305455911
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (SBAR (S (VP (VBP go) (PP (RB instead) (IN of) (VP (VB stop)))))))))
+-26.018260421960 -83.758840001395
+(S1 (S (CC and) (NP (PRP it)) (VBZ says) (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop)))))
+-26.142371524526 -82.428446169773
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ says) (S (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop)))))))))
+-26.193851937656 -85.163851057467
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (VP (CONJP (RB instead) (IN of)) (VB stop)))))))
+-26.214993155709 -79.658746425177
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (NP (NN stop))))))))
+-26.229905654290 -81.935834571473
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (PP (IN of) (NP (NN stop)))))))))
+-26.346765172613 -82.512459937613
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says))) (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop)))))
+-26.386440929701 -84.732033660534
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says)) (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop))))))
+-26.553656695193 -84.921753652588
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (ADVP (RB instead) (PP (IN of) (NP (NN stop))))))))))
+-26.709949580347 -82.349271457042
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop))))))
+-26.718583606785 -84.669249481085
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (SBAR (S (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop)))))))))
+-26.769021460088 -79.843283630903
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop)))))))))
+-26.800822316711 -81.186807278690
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop)))))))
+-26.847760242242 -83.471580312984
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ says) (S (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop)))))))))
+-27.036640692649 -82.940483172739
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (S (VP (VB stop)))))))))
+-27.045596419424 -85.566416359292
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VBP go) (PP (RB instead) (IN of) (VP (VB stop))))))))
+-27.184466879377 -82.316175942572
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop))))))))
+-27.192368412286 -83.193183137205
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (SBAR (S (VP (VBP go) (PP (RB instead) (IN of) (NP (NN stop)))))))))
+-27.214752291778 -83.653697065094
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (S (VP (CONJP (RB instead) (IN of)) (VB stop)))))))))
+-27.257591174035 -85.428119301080
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (SBAR (S (VP (VBP go) (PP (RB instead) (PP (IN of) (NP (NN stop))))))))))
+-27.422641428989 -84.359202633754
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says))) (VP (VBP go) (PP (RB instead) (IN of) (VP (VB stop))))))
+-27.683898214996 -83.508563642106
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says))) (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop))))))
+-27.702573681590 -83.616421626163
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (SBAR (S (VP (VBP go) (PP (RB instead) (IN of) (VP (VB stop))))))))))
+-27.754957836414 -82.911974194510
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop))))))))))
+-27.808544601707 -81.527862727607
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (NP (NN stop)))))))))
+-27.823457100288 -83.804950873903
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (PP (IN of) (NP (NN stop))))))))))
+-28.010043140956 -84.714585541646
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (VP (VB go) (PP (RB instead) (PP (IN of) (NP (NN stop))))))))
+-28.116089725362 -82.871386193810
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (VP (VB go) (PP (RB instead) (IN of) (NP (NN stop)))))))
+-28.192850820769 -84.218387741388
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (VP (VP (VB go)) (CONJP (RB instead) (IN of)) (VP (VB stop)))))))
+-28.460346556917 -83.955108337721
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop))))))))))
+-28.603236287133 -83.055923563036
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop))))))))
+-28.646931795728 -82.105888015100
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (VP (VB go))) (PP (RB instead) (IN of) (VP (VB stop)))))
+-28.776530600780 -83.397715250676
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (ADVP (RB instead))))) (PP (IN of) (NP (NN stop)))))
+-28.797053194053 -82.799703967309
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (VP (VB stop)))))))))
+-28.800537986614 -85.193142738810
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says))) (VP (VB go) (PP (RB instead) (IN of) (NP (NN stop))))))
+-28.817137081435 -84.809599475169
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (S (VP (VB stop))))))))))
+-28.855689102042 -85.062299307458
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (SBAR (S (VP (VBP go) (PP (RB instead) (IN of) (NP (NN stop))))))))))
+-28.931121718033 -84.596553291214
+(S1 (S (CC and) (SBAR (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (NP (NN stop))))))))))
+-29.012425225644 -83.313989893392
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (VP (VB go))) (PP (RB instead) (IN of) (NP (NN stop)))))
+-29.304327728643 -82.470266141823
+(S1 (S (CC and) (NP (PRP it)) (VP (VBZ says) (VP (VB go))) (PP (RB instead) (IN of) (S (VP (VB stop))))))
+-29.731558758572 -84.740502478156
+(S1 (S (CC and) (S (NP (PRP it)) (VP (VBZ says) (VP (VB go) (PP (RB instead) (IN of) (NP (NN stop))))))))
+-29.887884202884 -84.484283064013
+(S1 (FRAG (CC and) (S (NP (PRP it)) (VP (VBZ says) (S (VP (VB go) (PP (RB instead) (IN of) (NP (NN stop)))))))))
+

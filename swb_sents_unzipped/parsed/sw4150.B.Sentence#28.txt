@@ -1,0 +1,102 @@
+50 x
+-14.601364538578 -61.786201640300
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people)))))))
+-14.975993819518 -62.218231909537
+(S1 (S (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))))
+-16.009697905060 -60.691800355422
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people)))))
+-16.404146461464 -62.467172018414
+(S1 (S (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people)))))))
+-16.437938364089 -63.150502038426
+(S1 (FRAG (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))))
+-17.231650435128 -71.478526656197
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (NN real) (NNS people)))))))
+-17.762033516068 -71.910556925434
+(S1 (S (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (NN real) (NNS people))))))))
+-18.030933895745 -66.831074820553
+(S1 (S (NP (DT The) (NNS kids)) (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))
+-18.304549297702 -72.211021028137
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADVP (RB real)) (NP (NNS people)))))))
+-18.449993814004 -69.749009886111
+(S1 (NP (DT The) (NNS kids) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people)))))))
+-18.508150989094 -68.845452649765
+(S1 (NP (NP (DT The) (NNS kids)) (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))
+-18.700704778643 -72.643051297374
+(S1 (S (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADVP (RB real)) (NP (NNS people))))))))
+-18.956506519104 -65.087680753112
+(S1 (FRAG (NP (DT The) (NNS kids)) (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))
+-18.968980658035 -70.371067853315
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (RB real) (NP (NNS people)))))))
+-19.040871228823 -70.384125371320
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (NP (NN real) (NNS people)))))
+-19.069775557852 -72.842827054323
+(S1 (FRAG (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (NN real) (NNS people))))))))
+-19.189130815226 -72.159497034311
+(S1 (S (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (NN real) (NNS people)))))))
+-19.284025465700 -71.116619817975
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (ADVP (RB real)) (NP (NNS people)))))
+-19.365136138975 -70.803098122552
+(S1 (S (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (RB real) (NP (NNS people))))))))
+-19.443450913164 -74.677842108260
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (RB real) (NNS people)))))))
+-19.667127376750 -71.508053030610
+(S1 (FRAG (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people)))))))
+-19.815302873944 -71.740656948209
+(S1 (NP (DT The) (NNS kids) (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))
+-19.998719545717 -73.706783175867
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (JJ real) (NP (NNS people))))))))
+-20.034530090588 -72.891991406251
+(S1 (S (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADVP (RB real)) (NP (NNS people)))))))
+-20.114388323214 -73.575321426263
+(S1 (FRAG (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADVP (RB real)) (NP (NNS people))))))))
+-20.303235516259 -69.628033943248
+(S1 (S (NP (NP (DT The) (NNS kids)) (ADVP (PRP they))) (VP (VBP are) (NP (JJ real) (NNS people)))))
+-20.338723598006 -72.548562961856
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ real)) (NNS people)))))))
+-20.373348826658 -74.138813445104
+(S1 (S (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (JJ real) (NP (NNS people)))))))))
+-20.467024548260 -72.354762671329
+(S1 (S (NP (DT The) (NNS kids) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))))
+-20.579351844367 -69.276666532838
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (RB real) (NP (NNS people)))))
+-20.713352878946 -72.980593231093
+(S1 (S (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ real)) (NNS people))))))))
+-20.778819683547 -71.735368251441
+(S1 (FRAG (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (RB real) (NP (NNS people))))))))
+-20.837700600921 -71.052038231429
+(S1 (S (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (RB real) (NP (NNS people)))))))
+-21.070087790988 -72.612381906054
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (VP (JJ real) (NP (NNS people))))))
+-21.094871778288 -72.975817516876
+(S1 (FRAG (NP (DT The) (NNS kids) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people))))))))
+-21.119420961327 -75.054030920457
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (RB real)) (NNS people)))))))
+-21.124357906859 -73.583440823382
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (NP (RB real) (NNS people)))))
+-21.189224920112 -74.196284737439
+(S1 (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADVP (JJ real)) (NP (NNS people)))))))
+-21.563854201053 -74.628315006676
+(S1 (S (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADVP (JJ real)) (NP (NNS people))))))))
+-21.703952756815 -74.387753553981
+(S1 (S (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (JJ real) (NP (NNS people))))))))
+-21.808786153162 -74.476529987594
+(S1 (FRAG (NP (NP (DT The) (NNS kids)) (S (NP (PRP they)) (VP (VBP are) (NP (JJ real) (NNS people)))))))
+-21.829736375655 -74.780005769009
+(S1 (FRAG (NP (DT The) (NNS kids)) (S (NP (PRP they)) (VP (VBP are) (NP (NN real) (NNS people))))))
+-21.990388444489 -71.454161676978
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ real)) (NNS people)))))
+-22.033668358110 -73.101883527277
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (ADVP (JJ real)) (NP (NNS people)))))
+-22.141505520892 -73.229533339970
+(S1 (S (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ real)) (NNS people)))))))
+-22.175297423517 -73.912863359982
+(S1 (FRAG (NP (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (ADJP (JJ real)) (NNS people))))))))
+-22.176201278091 -74.122697960512
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (ADJP (JJ real)) (NP (NNS people)))))
+-22.798368792999 -74.877255115553
+(S1 (S (NP (DT The) (NNS kids)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADVP (JJ real)) (NP (NNS people)))))))
+-22.803111437810 -73.959629635579
+(S1 (S (NP (DT The) (NNS kids)) (NP (PRP they)) (VP (VBP are) (NP (ADJP (RB real)) (NNS people)))))
+-23.423600587684 -73.672546859242
+(S1 (FRAG (NP (DT The) (NNS kids)) (S (NP (PRP they)) (VP (VBP are) (RB real) (NP (NNS people))))))
+

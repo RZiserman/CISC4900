@@ -1,0 +1,102 @@
+50 x
+-15.679632165214 -61.754303918192
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go)))))))
+-17.694413325463 -65.743412070352
+(S1 (S (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go))))))))
+-18.215928127931 -63.409216604879
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go))))))))
+-19.503571663404 -70.332077721306
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (NP (VB go)))))))
+-19.607707371393 -70.177979944716
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (S (VP (VB go)))))))
+-19.679965856374 -71.720634010694
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VBP go)))))))
+-19.849404495800 -70.392537923206
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go)))))))
+-20.020587760071 -77.208395108172
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VBP make) (S (NP (PRP myself)) (VP (VB go)))))))
+-20.086650360199 -71.941902131458
+(S1 (FRAG (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go))))))))
+-20.185743962985 -75.963660703623
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (SBAR (S (NP (PRP myself)) (VP (VB go))))))))
+-20.744056179840 -74.532697509746
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (NP (VB go))))))
+-20.821302162186 -77.887081831879
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (NP (PRP myself)) (VP (VB go)))))))
+-20.953158783093 -74.982535958694
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (S (VP (VB make) (S (NP (PRP myself)) (VP (VB go))))))))
+-21.126693864738 -75.974661230639
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (NP (NN go)))))))
+-21.282006067412 -76.108099985919
+(S1 (S (CC And) (NP (PRP I)) (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go))))))
+-21.355371114086 -76.583724497729
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (NP (NN go))))))
+-21.459649761346 -68.142731332286
+(S1 (S (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself))))) (VP (VB go))))
+-21.518352823653 -74.321185873466
+(S1 (S (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (NP (VB go))))))))
+-21.518969336776 -76.974370285527
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (SBAR (S (NP (PRP myself)) (VP (VBP go))))))))
+-21.588160820430 -74.167088096876
+(S1 (S (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (S (VP (VB go))))))))
+-21.701411436360 -75.307297334371
+(S1 (S (NP (CC And) (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go)))))))
+-21.773329707438 -71.277659920117
+(S1 (S (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself))))) (VP (VB go))))
+-21.800068464005 -77.618889841797
+(S1 (S (CC And) (NP (PRP I)) (MD 'll) (VP (VBP make) (S (NP (PRP myself)) (VP (VB go))))))
+-21.800997119062 -75.006150401260
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (ADVP (VB go))))))
+-21.851049444517 -78.576662234740
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VBP make) (NP (PRP myself)) (S (VP (VB go)))))))
+-22.039867628909 -71.986990407992
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (NP (VB go))))))))
+-22.041368655533 -72.981591207163
+(S1 (S (CC And) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)))))) (VP (VB go))))
+-22.086831852899 -71.832892631402
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (S (VP (VB go))))))))
+-22.128232701879 -73.375546697381
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VBP go))))))))
+-22.161727376623 -75.709742162855
+(S1 (S (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VBP go))))))))
+-22.270087179216 -75.540371236375
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)))) (VP (VB go))))
+-22.448414452104 -78.357633736496
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (SBAR (VB go))))))
+-22.707678744491 -77.618573390310
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (SBAR (S (NP (PRP myself)) (VP (VB go)))))))))
+-22.719616262354 -76.740414367797
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (SBAR (S (VP (VB go))))))))
+-22.928079406089 -78.521805661906
+(S1 (S (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (NP (VB go)))))))
+-22.996786015527 -74.750565166784
+(S1 (FRAG (S (NP (CC And) (NP (PRP I))) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (VP (VB go))))))))
+-23.128430877307 -71.788503683057
+(S1 (S (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself))))) (VP (VBP go))))
+-23.166534550047 -73.442836982474
+(S1 (S (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself))))) (VP (VBP go))))
+-23.223180661346 -76.187610196433
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (NP (VB go)))))))
+-23.488958464084 -76.637448584489
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (S (VP (VB make) (S (NP (PRP myself)) (VP (VB go)))))))))
+-23.541125210244 -77.629573917326
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (S (NP (PRP myself)) (NP (NN go))))))))
+-23.712630972803 -78.238637184416
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (NP (NN go)))))))
+-23.858988662090 -77.464239317521
+(S1 (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (S (NP (VB go)))))))
+-23.952874995494 -78.629282972213
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (SBAR (S (NP (PRP myself)) (VP (VBP go)))))))))
+-24.043768288700 -75.553271991413
+(S1 (S (CC And) (S (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself))))) (VP (VB go)))))
+-24.092507763531 -77.918700216694
+(S1 (S (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VBP make) (NP (PRP myself))))) (VP (VB go))))
+-24.280121600567 -76.661063087947
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (ADVP (VB go)))))))
+-25.198740741072 -78.395327054483
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself)) (SBAR (S (VP (VB go)))))))))
+-26.238064166722 -77.194644293559
+(S1 (S (S (NP (CC And) (NP (PRP I))) (VP (MD 'll) (VP (VB make) (NP (PRP myself))))) (VP (VB go))))
+-26.339508861767 -77.550882914456
+(S1 (FRAG (CC And) (S (S (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (PRP myself))))) (VP (VBP go)))))
+

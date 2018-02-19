@@ -1,0 +1,102 @@
+50 x
+-18.419166982574 -66.565918943142
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD washed) (PRT (RP out)))))
+-18.805267901869 -67.683673493852
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (PRT (RP out)))))
+-19.920685220001 -72.047440133551
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (PRT (RP out)))))
+-20.360242185398 -73.807901234224
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (PRT (RP out)))))
+-20.721444711861 -71.047902975826
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (PP (IN out)))))
+-20.797553173074 -73.519760297062
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD washed) (PRT (RB out)))))
+-20.879049839301 -72.631164697942
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (PP (IN out)))))
+-20.883082732347 -72.058005937097
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD washed) (PRT (IN out)))))
+-21.263681160576 -70.505498298535
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (ADVP (RB out)))))
+-21.376253132499 -74.815084439872
+(S1 (S (NP (PRP I)) (VP (VB sort) (VP (ADVP (IN of)) (VBN washed) (PRT (RP out))))))
+-21.451703072368 -74.637514847772
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (PRT (RB out)))))
+-21.681271388370 -75.113323526645
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (PRT (RB out)))))
+-21.697728403642 -73.175760487807
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (PRT (IN out)))))
+-22.155679523767 -76.873784627318
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (PRT (RB out)))))
+-22.207949197014 -77.812595728461
+(S1 (S (NP (PRP I)) (NP (NP (NN sort)) (PP (IN of) (S (VP (VBN washed) (PRT (RP out))))))))
+-22.270096096274 -78.292658576761
+(S1 (S (NP (NP (PRP I)) (ADVP (NN sort) (IN of))) (VP (VBD washed) (PRT (RP out)))))
+-22.329759595440 -73.752947062432
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (ADVP (RB out)))))
+-22.384765010228 -76.554441908948
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (PRT (IN out)))))
+-22.400357352637 -78.763143951897
+(S1 (S (NP (PRP I)) (VP (ADVP (RB sort) (PP (IN of))) (VBD washed) (PRT (RP out)))))
+-22.419870317142 -77.079386778440
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (PP (IN out)))))
+-22.425456529404 -79.336838489659
+(S1 (S (NP (NP (PRP I)) (ADVP (NN sort) (IN of))) (VP (VBN washed) (PRT (RP out)))))
+-22.443274512013 -72.165479761096
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (ADJP (RP out)))))
+-22.581599536104 -75.410244957413
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD washed) (ADVP (RB out)))))
+-22.670953944322 -79.036509811961
+(S1 (S (NP (PRP I)) (SBAR (RB sort) (IN of) (S (VP (VBN washed) (PRT (RP out)))))))
+-22.684799967677 -72.345968156805
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (ADVP (RP out)))))
+-22.718590181625 -78.314903009621
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (PRT (IN out)))))
+-22.821415379308 -76.813058465133
+(S1 (S (NP (PRP I)) (NP (NP (NN sort)) (PP (IN of) (S (VP (VBN washed) (PP (IN out))))))))
+-22.917144356024 -72.910195234549
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (ADVP (IN out)))))
+-22.924595492315 -79.837463455412
+(S1 (S (NP (PRP I)) (VP (ADVP (RB sort) (IN of)) (VBD washed) (PRT (RP out)))))
+-22.989410486031 -78.036972615789
+(S1 (S (NP (PRP I)) (SBAR (RB sort) (IN of) (S (VP (VBN washed) (PP (IN out)))))))
+-23.220500715917 -77.844631186520
+(S1 (S (NP (PRP I)) (VP (VB sort) (VP (ADVP (IN of)) (VBN washed) (PRT (RB out))))))
+-23.247342373566 -78.337301418032
+(S1 (S (NP (NP (PRP I)) (ADVP (NN sort) (IN of))) (VP (VBN washed) (PP (IN out)))))
+-23.327362654292 -79.744612205466
+(S1 (S (NP (PRP I)) (NP (NN sort)) (SBAR (IN of) (S (VP (VBN washed) (PRT (RP out)))))))
+-23.351479192901 -74.805666424917
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (PP (RP out)))))
+-23.391296409900 -77.113336197028
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (ADVP (RB out)))))
+-23.410013773789 -79.128751356076
+(S1 (S (NP (PRP I)) (VP (VB sort) (VP (ADVP (IN of)) (VBN washed) (PRT (IN out))))))
+-23.448164753213 -78.745075009294
+(S1 (S (NP (PRP I)) (NP (NN sort)) (SBAR (IN of) (S (VP (VBN washed) (PP (IN out)))))))
+-23.560197591124 -75.129883604977
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (ADVP (IN out)))))
+-23.796116399399 -73.166992634378
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (ADJP (RB out)))))
+-23.825615005547 -75.808324039058
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (PP (RP out)))))
+-24.065338859552 -77.814941893427
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD washed) (ADVP (IN out)))))
+-24.146258444987 -77.391585761174
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (PP (RP out)))))
+-24.245424423205 -77.250714815682
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBD washed) (ADVP (RP out)))))
+-24.258345590357 -75.716877843116
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (ADJP (IN out)))))
+-24.331506524509 -80.200877880096
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (RB out))))
+-24.528250923584 -78.490272739573
+(S1 (S (NP (PRP I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (ADVP (IN out)))))
+-24.545290148628 -77.841669923432
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBN washed) (ADVP (RP out)))))
+-24.670310503719 -79.144564027264
+(S1 (S (NP (PRP I)) (ADVP (NN sort) (IN of)) (VP (VBD washed) (NP (RB out)))))
+-25.388697518141 -78.796916513181
+(S1 (NP (NP (NN I)) (VP (ADVP (NN sort) (IN of)) (VBN washed) (PP (IN out)))))
+-25.437887471301 -79.518102624756
+(S1 (S (NP (PRP I)) (NP (NP (NN sort)) (PP (IN of) (S (VP (VBN washed) (ADVP (RB out))))))))
+

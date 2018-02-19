@@ -1,0 +1,102 @@
+50 x
+-13.215982870507 -65.337126531715
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-14.251441720165 -64.967438029045
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))))
+-14.836422201305 -70.597313103802
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-15.983638330650 -70.726321992215
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))))
+-16.029715201871 -69.419034336723
+(S1 (S (IN Unless) (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-16.656525301507 -70.543293772485
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-17.013334081728 -70.027504404030
+(S1 (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-17.323063714384 -72.625181344752
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-17.423534056052 -72.447686276392
+(S1 (FRAG (IN Unless) (SBAR (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))))
+-17.691984151165 -70.173605269814
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-17.736670387992 -71.644549724838
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (S (NP (NN something)) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-17.861247359616 -72.086564771942
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-17.944523607986 -75.437256845350
+(S1 (PP (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-18.014327932816 -75.700856166777
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-18.077608996677 -73.407192734865
+(S1 (S (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-18.183565841829 -74.446264352617
+(S1 (S (X (IN Unless)) (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-18.358522564042 -72.255492842082
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-18.371384500723 -76.207368449417
+(S1 (S (IN Unless) (NP (PRP you)) (VP (VB have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-18.452802816572 -77.310269305276
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-18.513970358041 -74.047803570934
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-18.727446330364 -71.822381520570
+(S1 (FRAG (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))))
+-18.772129237650 -71.274861222168
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (S (NP (NN something)) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-18.886784005852 -75.206302659201
+(S1 (S (ADVP (IN Unless)) (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-18.891898494101 -76.537530631260
+(S1 (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VB have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-18.896706209274 -71.716876269271
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-19.078734706478 -71.347137606625
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do)))))) (PP (IN with) (NP (PRP it)))))))
+-19.136973208340 -77.003015609158
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (S (NP (NN something)) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-19.161544062162 -75.829865055189
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-19.341004606578 -75.909063895980
+(S1 (S (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something))))) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))
+-19.353149582338 -76.480336662011
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (NP (NN something) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-19.401201268446 -74.625201601760
+(S1 (S (IN Unless) (NP (PRP you)) (VP (VBP have) (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))
+-19.493856322696 -75.602620555533
+(S1 (FRAG (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-19.549429207699 -73.678115068263
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something) (SBAR (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))))
+-19.809918826868 -76.788757343847
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PRT (RP with)) (NP (PRP it)))))))))))
+-20.096577375748 -76.707089149760
+(S1 (S (IN Unless) (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-20.114193553349 -70.977449103955
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do)))))) (PP (IN with) (NP (PRP it))))))))
+-20.284189337686 -77.132024497571
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (S (NP (NN something)) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-20.409122815902 -75.726457408134
+(S1 (S (IN Unless) (NP (PRP you)) (VP (VBP have) (S (NP (NN something)) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))
+-20.453876512728 -75.233671644799
+(S1 (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VBP have) (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-20.500365711683 -76.609345550424
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VB have) (NP (NN something) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))))
+-20.523805653767 -75.591415665291
+(S1 (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do))))) (PP (IN with) (NP (PRP it))))))))
+-20.664375290980 -76.168472576949
+(S1 (S (IN Unless) (NP (PRP you)) (VP (VBP have) (NP (NN something) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-20.836089706526 -76.419068841176
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do) (PRT (RP with)) (NP (PRP it))))))))))))
+-21.534021602000 -76.334927597153
+(S1 (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VBP have) (S (NP (NN something)) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))))))))
+-21.559264500638 -75.221727162621
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do))))) (PP (IN with) (NP (PRP it)))))))))
+-21.658598570837 -76.776942644256
+(S1 (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VBP have) (NP (NN something) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-21.814964142752 -75.429045325630
+(S1 (S (IN Unless) (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do)))))) (PP (IN with) (NP (PRP it))))))
+-22.167988761364 -77.028548761340
+(S1 (FRAG (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VBP have) (NP (NN something)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))))
+-22.876085917699 -76.037515478940
+(S1 (SBAR (WHNP (IN Unless)) (S (NP (PRP you)) (VP (VBP have) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB do)))))) (PP (IN with) (NP (PRP it)))))))
+-24.476939381437 -77.284899965781
+(S1 (FRAG (SBAR (IN Unless) (S (NP (PRP you)) (VP (VBP have) (NP (NN something) (S (VP (TO to) (VP (VB do))))) (PP (IN with) (NP (PRP it))))))))
+

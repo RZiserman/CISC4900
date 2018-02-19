@@ -1,0 +1,102 @@
+50 x
+-21.491332658191 -81.354517783125
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-21.953978403395 -85.171296805543
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-23.198196971321 -81.721898995820
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-23.696691939105 -88.416411381874
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VB see) (NP (DT that) (NN word))))))))
+-23.934268468012 -84.417162479417
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-23.971699678103 -85.959773381496
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-24.237779712670 -87.193723118660
+(S1 (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))))
+-24.343084966830 -87.950817826013
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))))
+-24.400277884260 -88.084817147085
+(S1 (S (NP (PRP I)) (NP (PRP it)) (S (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-24.426923926529 -88.507957468845
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))))
+-24.466909474373 -89.934230981394
+(S1 (S (NP (NP (PRP I)) (NP (PRP it))) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-24.739376601512 -88.295334877066
+(S1 (NP (NN I) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-24.811377699702 -84.230811709082
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word))))))))
+-24.990827004318 -91.188612678834
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-25.208075299428 -90.478156574318
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-25.212055730354 -88.515506182769
+(S1 (NP (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-25.376475329448 -88.783792594568
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VB see) (NP (DT that) (NN word)))))))))
+-25.408388242119 -88.047590731500
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word))))))))
+-25.534681358128 -89.847092357866
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (S (NP (DT that) (NN word)))))))))
+-25.768463946886 -89.433760285266
+(S1 (FRAG (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))))
+-25.779038134697 -91.209764543576
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (WHADVP (IN like)) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-25.881943585649 -91.545155566493
+(S1 (S (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))))
+-25.991111141303 -91.629435865038
+(S1 (FRAG (NP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-26.080765392046 -90.102368838147
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (WDT that) (NN word))))))))
+-26.082833097924 -89.022418077788
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-26.274721040910 -88.693958958822
+(S1 (S (ADVP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-26.327327739463 -91.745995690686
+(S1 (S (NP (PRP I)) (ADVP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-26.440606140350 -91.570602165137
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))))
+-26.509008451293 -91.147461843377
+(S1 (S (NP (PRP I)) (NP (PRP it)) (S (VP (POS 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-26.523255454253 -90.857957863596
+(S1 (FRAG (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-26.590519560045 -84.598192921776
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word)))))))))
+-26.694515354717 -87.028758788160
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+-26.760988397509 -90.470959784257
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (WHNP (IN like)) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-26.972908692200 -90.704636201030
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VB see) (NP (IN that) (NN word))))))))
+-27.067160019615 -88.836067307453
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word)))))))))
+-27.241545668471 -90.214473570560
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (S (NP (DT that) (NN word))))))))))
+-27.288696509523 -87.293456405373
+(S1 (S (NP (PRP I)) (NP (PRP it)) (VP (POS 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word))))))))
+-27.429643283299 -91.624171086263
+(S1 (S (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (PRP they))))) (VP (VBP see) (NP (DT that) (NN word)))))
+-27.495738222984 -90.961111073042
+(S1 (S (NP (PRP I)) (NP (PRP it)) (S (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word)))))))))
+-27.550749596894 -91.477848080092
+(S1 (S (ADVP (PRP I)) (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word))))))))
+-27.597762765253 -91.384251394802
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word))))))))))
+-27.648288605553 -90.827111751970
+(S1 (S (NP (PRP I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word))))))))))
+-27.843036751394 -90.070017044617
+(S1 (NP (NP (NN I)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word))))))))))
+-27.886204802389 -90.469750050841
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (WDT that) (NN word)))))))))
+-28.269255140235 -91.171628803023
+(S1 (NP (NN I) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word)))))))))
+-28.717805282542 -91.072017413724
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VB see) (NP (IN that) (NN word)))))))))
+-28.741934271866 -91.391800108726
+(S1 (NP (NP (NN I)) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word)))))))))
+-29.729130879634 -91.570252884778
+(S1 (S (ADVP (PRP I)) (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word))))))))
+-29.986856143441 -89.905052714116
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (IN that) (NN word)))))))))
+-30.047811400388 -91.044560365035
+(S1 (FRAG (NP (PRP I)) (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (S (NP (PRP they)) (VP (VBP see) (NP (DT that) (NN word)))))))))
+

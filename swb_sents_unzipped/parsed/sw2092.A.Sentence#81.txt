@@ -1,0 +1,102 @@
+50 x
+-25.768373893658 -84.296469243391
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-26.491781705147 -86.196049020373
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-27.243073616028 -91.371291047860
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (S (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-27.354589273622 -94.135416690424
+(S1 (SBAR (IN So) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-27.384942788651 -92.093272027346
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-27.491757606835 -92.404063685212
+(S1 (S (CC So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-27.804506597114 -89.161267721606
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-27.963644320425 -92.543434053260
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-27.966481424729 -93.270870824842
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (S (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-28.087452452833 -94.299998989284
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him) (NP (DT an) (NN alarm) (NN clock))))))
+-28.687052131914 -94.443013830242
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (NP (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-28.698240275136 -94.208665904709
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-28.741200814077 -95.697500512793
+(S1 (S (CC So) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-28.810860264322 -96.199578766266
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him) (NP (DT an) (NN alarm) (NN clock))))))
+-28.859642508234 -99.168093831815
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (VP (VBD bought) (S (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-28.966457326417 -99.478885489681
+(S1 (S (CC So) (NP (PRP I)) (VP (VBD bought) (S (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-29.354032348647 -96.616036976203
+(S1 (S (ADVP (RB So)) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-29.580213204267 -100.340236837215
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (VP (VBD bought) (NP (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-29.656105375822 -95.822372304134
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (NP (DT an) (NN alarm)) (NN clock)))))
+-29.731308944362 -96.236089631488
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBD bought) (S (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-29.873219908364 -96.317898311508
+(S1 (S (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))))
+-29.894971573338 -97.388075888816
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (SBAR (S (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-29.928622756801 -95.306712531137
+(S1 (S (ADVP (IN So)) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-30.031188956488 -97.408232356672
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBD bought) (NP (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-30.106928106362 -98.239079306097
+(S1 (S (IN So) (NP (PRP I)) (VP (VBN bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-30.161959459958 -94.782793809948
+(S1 (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-30.186002746618 -96.323535119884
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (NP (DT an) (NN alarm)) (NP (NN clock))))))
+-30.345116588309 -99.290902445484
+(S1 (SBAR (RB So) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-30.379513187310 -97.721952081117
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (NP (DT an) (NN alarm)) (NN clock)))))
+-30.384643114828 -95.879828968069
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (ADVP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-30.404860716109 -99.164797292695
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him) (NP (DT an) (NN alarm) (NN clock)))))))
+-30.505568814209 -95.611269284276
+(S1 (FRAG (RB So) (SBAR (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-30.571106458639 -96.506662540907
+(S1 (S (INTJ (RB So)) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-30.618379384827 -99.287655665798
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (SBAR (S (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-30.844564780691 -97.387496235925
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (S (NP (DT an) (NN alarm) (NN clock))))))
+-30.909410558107 -98.223114896866
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (NP (DT an) (NN alarm)) (NP (NN clock))))))
+-31.034605468325 -98.093656896891
+(S1 (S (NP (RB So) (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-31.108050926316 -97.779408745051
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (ADVP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))
+-31.240132829371 -97.607245555185
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (SBAR (S (NP (DT an) (NN alarm) (NN clock)))))))
+-31.253430581227 -100.025067285385
+(S1 (FRAG (ADVP (RB So)) (SBAR (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-31.261029275193 -98.353296324439
+(S1 (S (IN So) (NP (PRP I)) (VP (VP (VBD bought) (NP (PRP him))) (NP (DT an) (NN alarm) (NN clock)))))
+-31.372481114797 -99.829477479994
+(S1 (S (ADVP (IN So)) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))
+-31.567972589392 -99.287076012907
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (S (NP (DT an) (NN alarm) (NN clock))))))
+-31.601877577333 -95.985792524602
+(S1 (FRAG (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock))))))))
+-31.753818958712 -99.704446095467
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm)) (NP (NN clock)))))
+-31.924666439722 -99.747721441869
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (NP (DT an)) (NN alarm) (NN clock)))))
+-31.960406028692 -99.781869543396
+(S1 (FRAG (SBAR (RB So) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (NP (DT an) (NN alarm) (NN clock)))))))
+-31.963540638072 -99.506825332167
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD bought) (NP (PRP him)) (SBAR (S (NP (DT an) (NN alarm) (NN clock)))))))
+-31.990787086682 -100.252876101422
+(S1 (S (RB So) (NP (PRP I)) (VP (VP (VBD bought) (NP (PRP him))) (NP (DT an) (NN alarm) (NN clock)))))
+-33.240978486261 -99.774415019048
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (NP (PRP him)) (NP (DT an) (NN alarm))) (NP (NN clock)))))
+

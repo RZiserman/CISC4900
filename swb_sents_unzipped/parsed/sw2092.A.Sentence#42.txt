@@ -1,0 +1,102 @@
+50 x
+-22.804368539942 -76.817658364388
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (NP (PRP you)) (VP (VBP know))))
+-23.998194540256 -80.718124765190
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (NP (PRP you)) (VP (VBP know))))
+-25.062837073688 -83.769925887190
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-25.088306837362 -80.654355146283
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (S (NP (PRP you)) (VP (VBP know)))))
+-25.110106112659 -78.576749014862
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money))))) (ADVP (RB anyway)) (NP (PRP you)) (VP (VBP know))))
+-25.305024575190 -84.412911724404
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-25.631623450796 -85.747302871214
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-25.808723851429 -82.668007019073
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money))))) (ADVP (RB anyway)) (NP (PRP you)) (VP (VBP know))))
+-25.946497997423 -83.754017181650
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (SBAR (RB anyway) (S (NP (PRP you)) (VP (VBP know))))))))
+-25.952671646357 -87.826417476766
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (NP (PRP you)) (VP (VB know))))
+-26.271394834887 -84.554821547084
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (S (NP (PRP you)) (VP (VBP know)))))
+-26.293238386390 -84.298990180240
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-26.346684261955 -84.214084232039
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-26.862024763498 -86.276367164264
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-26.895843554851 -84.452259091311
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-27.116264187464 -84.051017306094
+(S1 (S (IN Since) (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-27.140993252875 -86.389201741095
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (RB anyway) (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.176899310125 -84.283081474700
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (SBAR (RB anyway) (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.193667452739 -85.988903076661
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (ADVP (RB anyway)) (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.320297350420 -86.860065336298
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.440399251586 -87.450640468363
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (S (NP (PRP you)) (VP (VBP know)))))))
+-27.549772852981 -84.436350216750
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (SBAR (RB anyway) (S (NP (PRP you)) (VP (VBP know)))))))
+-27.711603555526 -85.963512098116
+(S1 (S (ADVP (RB Since)) (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-27.728372120868 -86.826564401577
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money) (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.932312618894 -87.308936858851
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (ADVP (RB anyway)))))) (NP (PRP you)) (VP (VBP know))))
+-27.973774466656 -87.178985129593
+(S1 (S (PP (IN Since) (S (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (NP (PRP you)) (VP (VBP know))))
+-28.053819432977 -86.532705667731
+(S1 (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (S (ADVP (RB anyway)) (NP (PRP you)) (VP (VBP know)))))))))
+-28.069101002444 -86.429635997054
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-28.115176260085 -88.485170613678
+(S1 (FRAG (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (NP (PRP you)) (VP (VBP know)))))
+-28.142307954326 -86.017889250353
+(S1 (SQ (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money))))) (RB anyway) (NP (PRP you)) (VP (VB know))))
+-28.224379692284 -88.382612378484
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money))) (ADVP (RB anyway)))) (NP (PRP you)) (VP (VBP know))))
+-28.311026067292 -88.484820396946
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money) (RB anyway))))) (NP (PRP you)) (VP (VBP know))))
+-28.340569325928 -86.935444941261
+(S1 (S (PP (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (NP (PRP you)) (VP (VBP know))))
+-28.354680505166 -88.914530738353
+(S1 (S (IN Since) (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (S (NP (PRP you)) (VP (VBP know))))))
+-28.371394565577 -86.918266034145
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (RB anyway) (S (NP (PRP you)) (VP (VBP know))))))))))
+-28.424068765441 -86.517967369712
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (ADVP (RB anyway)) (S (NP (PRP you)) (VP (VBP know))))))))))
+-28.431110517944 -87.909327807625
+(S1 (S (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money))))) (RB anyway) (NP (PRP you)) (VP (VBP know))))
+-28.550698663122 -87.389129629348
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-28.670800564288 -87.979704761413
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (S (NP (PRP you)) (VP (VBP know))))))))
+-28.958773433570 -87.355628694628
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money) (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))))
+-29.015698165827 -87.542398335453
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-29.115821868282 -87.071534740250
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (RB anyway) (S (NP (PRP you)) (VP (VBP know))))))))
+-29.168496068146 -86.671236075817
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (ADVP (RB anyway)) (S (NP (PRP you)) (VP (VBP know))))))))
+-29.180851064630 -88.801010953528
+(S1 (S (SBAR (WHNP (IN Since)) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway))))) (NP (PRP you)) (VP (VBP know))))
+-29.201245444083 -88.132973564204
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (S (NP (PRP you)) (VP (VBP know))))))
+-29.244043949166 -89.060217804168
+(S1 (S (RB Since) (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-29.284220745679 -87.061769960782
+(S1 (FRAG (SBAR (IN Since) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (S (ADVP (RB anyway)) (NP (PRP you)) (VP (VBP know))))))))))
+-29.585729368987 -88.076443088666
+(S1 (S (ADVP (IN Since)) (NP (PRP it)) (VP (POS 's) (NP (PRP$ his) (NN money)) (ADVP (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-29.703200736275 -87.508897400733
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money) (RB anyway)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-30.028648048384 -87.215038666887
+(S1 (S (IN Since) (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ his) (NN money)) (SBAR (S (ADVP (RB anyway)) (NP (PRP you)) (VP (VBP know))))))))
+

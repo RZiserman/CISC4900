@@ -1,0 +1,102 @@
+50 x
+-20.379866730030 -70.829818548011
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (NN boring)))))))
+-20.663293719541 -70.901460715432
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (VBG boring)))))))
+-20.770344755923 -73.107779494772
+(S1 (S (NP (NN walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (NN boring)))))))
+-21.058083287433 -73.179421662192
+(S1 (S (NP (NN walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (VBG boring)))))))
+-21.113368357053 -69.693788719661
+(S1 (S (NP (NN walking)) (VP (VBZ is) (ADJP (ADVP (NN kind) (IN of)) (JJ boring)))))
+-21.239860749373 -67.415827772900
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADJP (ADVP (NN kind) (IN of)) (JJ boring)))))
+-21.759760152951 -71.992127874241
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (VP (VBG boring))))))))
+-21.874338107896 -72.391413905974
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (JJ boring)))))))
+-22.154549723631 -74.270088821002
+(S1 (S (NP (NN walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (VP (VBG boring))))))))
+-22.317030455788 -74.669374852735
+(S1 (S (NP (NN walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (JJ boring)))))))
+-23.100683572186 -70.184879518448
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (ADJP (JJ boring)))))
+-23.203512166866 -72.462840465209
+(S1 (S (NP (NN walking)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (ADJP (JJ boring)))))
+-23.428797938799 -72.121223489021
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (ADJP (JJ boring)))))))
+-23.871490289479 -74.399184435782
+(S1 (S (NP (NN walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (ADJP (JJ boring)))))))
+-23.948217434378 -76.368332267008
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (VP (VBG boring)))))
+-24.003143246271 -78.646293213769
+(S1 (S (NP (NN walking)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (VP (VBG boring)))))
+-24.383329856982 -79.381112123025
+(S1 (S (VP (VBG walking) (SBAR (S (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (NN boring))))))))))
+-24.545520756892 -79.452754290445
+(S1 (S (VP (VBG walking) (SBAR (S (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (VBG boring))))))))))
+-24.619469356088 -80.910617522929
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADJP (RB kind) (IN of) (JJ boring)))))
+-24.643101286559 -81.704079869814
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (NP (NN boring))))))
+-24.724085417207 -80.574318156207
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (NP (NN boring)))))
+-24.810651957842 -81.480689625636
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADJP (CONJP (RB kind) (IN of)) (JJ boring)))))
+-24.926812085658 -75.967121229794
+(S1 (S (VP (VBG walking) (SBAR (S (VP (VBZ is) (ADJP (ADVP (NN kind) (IN of)) (JJ boring))))))))
+-25.090653740041 -79.576332710558
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (S (VP (VBG boring)))))))
+-25.159743173728 -81.767480553901
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (NP (VBG boring))))))
+-25.236693811769 -81.818482812508
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (NP (VBG boring)))))
+-25.374641608527 -80.461991283807
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (NP (JJ boring)))))
+-25.404758110721 -81.854293657319
+(S1 (S (NP (NN walking)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (S (VP (VBG boring)))))))
+-25.603956274505 -79.303140524891
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (PP (RB kind) (IN of) (ADJP (JJ boring))))))
+-25.641987193090 -80.543421449255
+(S1 (S (VP (VBG walking) (SBAR (S (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (VP (VBG boring)))))))))))
+-25.643178949535 -81.368246314292
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (PP (RB kind) (IN of) (S (VP (VBG boring)))))))
+-25.665571972009 -79.749128146745
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADJP (ADVP (RB kind) (IN of)) (JJ boring)))))
+-25.682920007185 -81.581101471652
+(S1 (S (NP (NN walking)) (VP (VBZ is) (PP (RB kind) (IN of) (ADJP (JJ boring))))))
+-25.735611666633 -79.745208305989
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (S (ADVP (RB kind) (IN of)) (VP (VBG boring))))))
+-25.835569991026 -82.023169252749
+(S1 (S (NP (NN walking)) (VP (VBZ is) (S (ADVP (RB kind) (IN of)) (VP (VBG boring))))))
+-25.942331574847 -80.942707480988
+(S1 (S (VP (VBG walking) (SBAR (S (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (JJ boring))))))))))
+-26.023399807069 -81.701343169754
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (RB kind) (PP (IN of) (S (VP (VBG boring)))))))
+-26.153291754901 -79.308508912046
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (ADJP (JJ boring))))))))
+-26.211010876458 -79.516650955850
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (ADVP (NN kind) (IN of)) (JJ boring)))))
+-26.301255187350 -81.794611902611
+(S1 (S (NP (NN walking)) (VP (VBZ is) (ADVP (ADVP (NN kind) (IN of)) (JJ boring)))))
+-26.450853764971 -81.551872980913
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (NN kind) (IN of) (JJ boring)))))
+-26.485164712092 -81.735224559309
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (NP (NN boring))))))))
+-26.493394160333 -81.695190623473
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADJP (RB kind) (PP (IN of) (ADJP (JJ boring)))))))
+-26.595984105581 -81.586469858807
+(S1 (S (NP (NN walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (ADJP (JJ boring))))))))
+-26.710176512728 -80.967197342820
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (ADJP (JJ boring))))))
+-26.746963363224 -79.954544194692
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (ADVP (RB kind) (IN of)) (ADJP (JJ boring)))))
+-26.751295320497 -80.725585077096
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (RB kind) (ADJP (IN of) (JJ boring)))))
+-26.899001880288 -78.736173126812
+(S1 (S (VP (VBG walking) (SBAR (S (VP (VBZ is) (ADVP (NN kind) (IN of)) (ADJP (JJ boring))))))))
+-27.266394205509 -81.875245837197
+(S1 (S (NP (VBG walking)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (FRAG (ADJP (JJ boring))))))))
+-27.496791405750 -80.672517064034
+(S1 (S (VP (VBG walking) (SBAR (S (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (ADJP (JJ boring))))))))))
+

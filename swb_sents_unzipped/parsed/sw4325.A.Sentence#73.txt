@@ -1,0 +1,102 @@
+50 x
+-10.859797696124 -42.223955999519
+(S1 (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NN college))))))
+-14.358974973886 -54.278116309959
+(S1 (S (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NN college)))))))
+-15.888998567231 -56.991718725236
+(S1 (S (NP (PRP I)) (VP (VBD went) (VP (PP (TO to) (NP (NN college)))))))
+-16.099054382571 -54.523771854801
+(S1 (S (NP (PRP I)) (VP (VBD went)) (PP (TO to) (NP (NN college)))))
+-16.520793569126 -56.764682784996
+(S1 (S (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NN college))))))
+-16.654751569308 -59.405867070735
+(S1 (S (NP (PRP I)) (VP (VP (VBD went)) (PP (TO to) (NP (NN college))))))
+-16.761461157731 -60.376587282533
+(S1 (S (NP (PRP I)) (VP (VBD went) (S (VP (PP (TO to) (NP (NN college))))))))
+-16.942883718617 -61.524969111087
+(S1 (S (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NP (NN college))))))))
+-17.469111635636 -58.358700382606
+(S1 (S (NP (PRP I)) (VP (VBD went) (ADVP (TO to) (NN college)))))
+-17.954903518701 -63.322938822054
+(S1 (S (NP (PRP I)) (VP (VBD went) (VP (TO to) (VP (NN college))))))
+-17.995336598214 -62.216406949813
+(S1 (S (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (NP (NN college)))))))
+-18.131548602853 -59.616877270577
+(S1 (NP (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NN college))))))
+-18.356447320159 -64.662239103337
+(S1 (S (NP (PRP I)) (VP (VBD went) (SBAR (S (VP (TO to) (VP (NN college))))))))
+-19.434971328943 -66.815632068684
+(S1 (NP (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NN college))))))
+-19.961321529097 -65.531580509825
+(S1 (S (NP (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NN college)))))))
+-20.030143549675 -68.818843095437
+(S1 (S (NP (NN I)) (VP (VBD went) (S (VP (TO to) (VP (NN college)))))))
+-20.173058631844 -67.292020928896
+(S1 (S (NP (PRP I)) (VP (VBD went) (S (TO to) (VP (NN college))))))
+-20.489053783185 -68.397072334518
+(S1 (NP (NP (NN I)) (VP (VBD went) (S (VP (TO to) (VP (NN college)))))))
+-20.602222661209 -70.569791623182
+(S1 (S (NP (PRP I)) (VP (VBD went) (VP (TO to) (VP (NP (NN college)))))))
+-20.894163614057 -71.425045493144
+(S1 (S (NP (PRP I)) (VP (VBD went) (SBAR (S (VP (PP (TO to) (NP (NN college)))))))))
+-20.916564841326 -64.495015129196
+(S1 (S (NP (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NN college)))))))
+-20.946112866090 -71.909091904466
+(S1 (S (NP (PRP I)) (VP (VBD went) (SBAR (S (VP (TO to) (VP (NP (NN college)))))))))
+-21.427662171384 -73.656699026257
+(S1 (S (NP (PRP I)) (VP (VBD went) (VP (TO to) (NP (NN college))))))
+-21.682865612232 -71.532445510714
+(S1 (S (NP (NN I)) (VP (VBD went) (VP (PP (TO to) (NP (NN college)))))))
+-21.992391849608 -75.774799833991
+(S1 (NP (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NN college)))))))
+-22.038544974835 -71.262636990112
+(S1 (S (NP (PRP I)) (VP (VBD went) (SBAR (S (TO to) (VP (NN college)))))))
+-22.081422739397 -72.600529650212
+(S1 (S (NP (PRP I)) (VP (VBD went) (SBAR (S (VP (TO to) (NP (NN college))))))))
+-22.190531197361 -69.064498640279
+(S1 (S (NP (NN I)) (VP (VBD went)) (PP (TO to) (NP (NN college)))))
+-22.427005841521 -74.917314068011
+(S1 (S (NP (NN I)) (VP (VBD went) (S (VP (PP (TO to) (NP (NN college))))))))
+-22.510490095379 -71.150281589787
+(S1 (NP (NP (NN I)) (VP (VBD went)) (PP (TO to) (NP (NN college)))))
+-22.599696105097 -73.946593856213
+(S1 (S (NP (NN I)) (VP (VP (VBD went)) (PP (TO to) (NP (NN college))))))
+-22.614052294406 -76.065695896565
+(S1 (S (NP (NN I)) (VP (VBD went) (S (VP (TO to) (VP (NP (NN college))))))))
+-22.614540189550 -74.490748275132
+(S1 (S (NP (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NN college))))))))
+-22.910428769818 -74.495543307093
+(S1 (NP (NP (NN I)) (VP (VBD went) (S (VP (PP (TO to) (NP (NN college))))))))
+-23.072962530704 -75.643925135647
+(S1 (NP (NP (NN I)) (VP (VBD went) (S (VP (TO to) (VP (NP (NN college))))))))
+-23.226005311425 -72.899427168084
+(S1 (S (NP (NN I)) (VP (VBD went) (ADVP (TO to) (NN college)))))
+-23.364371432803 -77.300637182069
+(S1 (S (NP (PRP I)) (VP (VBD went) (S (TO to) (VP (NP (NN college)))))))
+-23.369868158658 -73.275210193138
+(S1 (S (NP (NP (NN I)) (VP (VBD went) (S (VP (TO to) (VP (NN college))))))))
+-23.636118424490 -77.863665607532
+(S1 (S (NP (NN I)) (VP (VBD went) (VP (TO to) (VP (NN college))))))
+-23.666505174003 -76.757133735291
+(S1 (S (NP (NN I)) (VP (VBD went) (S (VP (TO to) (NP (NN college)))))))
+-23.729784438712 -79.660213340818
+(S1 (NP (NP (PRP I)) (VP (VBD went)) (PP (TO to) (NP (NN college)))))
+-23.920554165948 -79.202965888815
+(S1 (S (NP (NN I)) (VP (VBD went) (SBAR (S (VP (TO to) (VP (NN college))))))))
+-24.080485247985 -77.271613279825
+(S1 (NP (NP (NN I)) (VP (VBD went) (VP (PP (TO to) (NP (NN college)))))))
+-24.099586757514 -76.335362974373
+(S1 (NP (NP (NN I)) (VP (VBD went) (S (VP (TO to) (NP (NN college)))))))
+-24.771073789432 -75.975829130291
+(S1 (NP (NP (NN I)) (VP (VBD went) (ADVP (TO to) (NN college)))))
+-24.921010292321 -80.705292116169
+(S1 (NP (NP (NN I)) (VP (VP (VBD went)) (PP (TO to) (NP (NN college))))))
+-24.991285663396 -80.589219247706
+(S1 (S (NP (NP (PRP I)) (VP (VBD went) (S (VP (PP (TO to) (NP (NN college)))))))))
+-25.791243145291 -79.373681165712
+(S1 (S (NP (NP (NN I)) (VP (VBD went) (S (VP (PP (TO to) (NP (NN college)))))))))
+-25.953776903389 -80.522062994266
+(S1 (S (NP (NP (NN I)) (VP (VBD went) (S (VP (TO to) (VP (NP (NN college)))))))))
+-26.330626291118 -80.382738555474
+(S1 (S (NP (NP (PRP I)) (VP (VBD went) (ADVP (TO to) (NN college))))))
+

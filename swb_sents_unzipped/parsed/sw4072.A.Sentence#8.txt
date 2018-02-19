@@ -1,0 +1,74 @@
+36 x
+-10.944824497013 -44.443589672811
+(S1 (S (NP (PRP I)) (VP (VBP am) (NP (DT a) (NN student)))))
+-14.554140984331 -50.692295466338
+(S1 (S (NP (PRP I)) (VP (VBP am) (S (NP (DT a) (NN student))))))
+-17.202274570316 -59.769954858094
+(S1 (S (NP (PRP I)) (VP (VBP am) (SBAR (S (NP (DT a) (NN student)))))))
+-17.649075620790 -60.012625072251
+(S1 (S (NP (PRP I)) (VP (VBP am) (NP (NP (DT a)) (NN student)))))
+-19.936595427296 -70.315953728518
+(S1 (S (NP (NN I)) (VP (VBP am) (NP (DT a) (NN student)))))
+-21.813130829055 -73.815107082664
+(S1 (NP (NP (NN I)) (VP (VBP am) (NP (DT a) (NN student)))))
+-22.029996483854 -68.140881613763
+(S1 (S (NP (PRP I)) (VP (VBP am) (S (NP (NP (DT a)) (NN student))))))
+-22.335976412234 -80.349199890536
+(S1 (NP (NP (PRP I)) (VP (VBP am) (NP (DT a) (NN student)))))
+-23.062958595968 -79.065148022204
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (NP (DT a) (NN student))))))
+-23.547671111826 -76.564659522045
+(S1 (S (NP (NN I)) (VP (VBP am) (S (NP (DT a) (NN student))))))
+-24.492188064837 -79.075534449927
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (NP (DT a) (NN student))))))
+-24.745760460202 -77.218541032541
+(S1 (S (NP (PRP I)) (VP (VBP am) (SBAR (S (NP (NP (DT a)) (NN student)))))))
+-24.785281825589 -78.658938834935
+(S1 (NP (NP (NN I)) (VP (VBP am) (S (NP (DT a) (NN student))))))
+-25.298263498768 -85.193031642807
+(S1 (NP (NP (PRP I)) (VP (VBP am) (S (NP (DT a) (NN student))))))
+-26.106025082501 -83.908979774475
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (S (NP (DT a) (NN student)))))))
+-26.276054115811 -85.642318913801
+(S1 (S (NP (NN I)) (VP (VBP am) (SBAR (S (NP (DT a) (NN student)))))))
+-26.783086901072 -85.884989127958
+(S1 (S (NP (NN I)) (VP (VBP am) (NP (NP (DT a)) (NN student)))))
+-27.515946572759 -87.401199455845
+(S1 (NP (NP (NN I)) (VP (VBP am) (SBAR (S (NP (DT a) (NN student)))))))
+-27.545118461370 -83.919366202198
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (S (NP (DT a) (NN student)))))))
+-27.956673905150 -93.935292263716
+(S1 (NP (NP (PRP I)) (VP (VBP am) (SBAR (S (NP (DT a) (NN student)))))))
+-28.597366254288 -89.384142265486
+(S1 (NP (NP (NN I)) (VP (VBP am) (NP (NP (DT a)) (NN student)))))
+-28.817846391672 -92.651240395384
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (SBAR (S (NP (DT a) (NN student))))))))
+-29.043860034679 -95.918235073358
+(S1 (NP (NP (PRP I)) (VP (VBP am) (NP (NP (DT a)) (NN student)))))
+-29.847632021201 -94.634183205026
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (NP (NP (DT a)) (NN student))))))
+-30.329194105753 -92.661626823107
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (SBAR (S (NP (DT a) (NN student))))))))
+-31.154838394137 -94.013245669469
+(S1 (S (NP (NN I)) (VP (VBP am) (S (NP (NP (DT a)) (NN student))))))
+-31.353213287282 -94.644569632749
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (NP (NP (DT a)) (NN student))))))
+-32.331379907899 -96.107524982360
+(S1 (NP (NP (NN I)) (VP (VBP am) (S (NP (NP (DT a)) (NN student))))))
+-32.768009783866 -102.641617790231
+(S1 (NP (NP (PRP I)) (VP (VBP am) (S (NP (NP (DT a)) (NN student))))))
+-33.575771359236 -101.357565921899
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (S (NP (NP (DT a)) (NN student)))))))
+-33.954776411273 -103.090905088247
+(S1 (S (NP (NN I)) (VP (VBP am) (SBAR (S (NP (NP (DT a)) (NN student)))))))
+-35.091216529742 -101.367952349622
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (S (NP (NP (DT a)) (NN student)))))))
+-35.133599654282 -104.849785630291
+(S1 (NP (NP (NN I)) (VP (VBP am) (SBAR (S (NP (NP (DT a)) (NN student)))))))
+-35.497975186674 -111.383878438163
+(S1 (NP (NP (PRP I)) (VP (VBP am) (SBAR (S (NP (NP (DT a)) (NN student)))))))
+-36.359147689921 -110.099826569831
+(S1 (S (NP (NP (PRP I)) (VP (VBP am) (SBAR (S (NP (NP (DT a)) (NN student))))))))
+-37.946847198427 -110.110212997553
+(S1 (S (NP (NP (NN I)) (VP (VBP am) (SBAR (S (NP (NP (DT a)) (NN student))))))))
+

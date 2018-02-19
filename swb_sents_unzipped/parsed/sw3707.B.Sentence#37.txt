@@ -1,0 +1,102 @@
+50 x
+-21.019491667827 -76.270704810697
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-23.248919503785 -80.885098618573
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-23.687687029842 -82.372191116819
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell))))))))
+-24.298782348578 -83.197142364996
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there) (PP (IN by) (NP (NN smell))))))))))
+-24.950262748994 -83.009150207093
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-25.124014397106 -80.303417444431
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)))))) (PP (IN by) (NP (NN smell)))))
+-25.220988056914 -88.410926503842
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (EX there)) (PP (IN by) (NP (NN smell)))))))))
+-25.376432641790 -90.101565613355
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (EX there)) (PP (IN by) (NP (NN smell)))))))))
+-25.488090817515 -87.279337169040
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (RB there) (PP (IN by) (NP (NN smell)))))))))
+-25.684016717103 -84.066213016005
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (NP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-25.931245049739 -86.986584978155
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-26.110418847040 -91.049495786009
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (VBP smell)))))))))
+-26.142026893739 -85.873506515483
+(S1 (S (NP (CC and) (NP (PRP she))) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-26.167109457122 -86.787149447924
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (S (VP (NN smell))))))))))
+-26.167937129556 -87.299844587556
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (PP (ADVP (RB there)) (IN by) (NP (NN smell)))))))))
+-26.240378072929 -85.703123398229
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-26.289372449987 -89.737369377716
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there))))) (PP (IN by) (NP (NN smell))))))
+-26.375057278912 -88.291777143703
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (ADVP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-26.411144348755 -88.665985951923
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (ADVP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-26.528210184536 -87.811536172872
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there) (PP (IN by) (NP (NN smell)))))))))))
+-26.618783108671 -90.154585198344
+(S1 (FRAG (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-26.672707603318 -89.719714400100
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)))) (PP (IN by) (NP (NN smell))))))
+-26.706485815781 -87.513651938773
+(S1 (S (NP (CC and) (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-26.918571324448 -85.039389151145
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADJP (RB there) (PP (IN by) (NP (NN smell))))))))))
+-26.954022875200 -88.024563799536
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there))) (PP (IN by) (NP (NN smell))))))))
+-26.966977710594 -89.298628671118
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there) (PP (IN by) (NP (NN smell)))))))))
+-27.361793183354 -89.410321247194
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (S (NP (NN smell))))))))))
+-27.597945647830 -85.962916106653
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there))))) (PP (IN by) (NP (NN smell)))))
+-27.808724457070 -89.110636468512
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-27.913444550273 -88.680606823881
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (NP (RB there)) (PP (IN by) (NP (NN smell)))))))))))
+-28.112985908840 -90.548084566400
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADJP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-28.229553429745 -89.935587761392
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there) (PP (IN by) (NP (NN smell)))))))))))
+-28.388393576330 -90.167699322127
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (NP (NP (RB there)) (PP (IN by) (NP (NN smell)))))))))
+-28.396537293080 -91.401543255800
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (PP (IN by) (S (VP (NN smell)))))))))))
+-28.411274736087 -89.992276263251
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADJP (ADVP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-28.469805908887 -90.317517206104
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (RB there)) (PP (IN by) (NP (NN smell))))))))))
+-28.531851035819 -90.386896794680
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (EX there)))))) (PP (IN by) (NP (NN smell)))))
+-28.944754932156 -91.804609704351
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (NP (RB there)) (PP (IN by) (NP (NN smell))))))))
+-28.969514263076 -91.338891829803
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (S (ADJP (RB there) (PP (IN by) (NP (NN smell)))))))))))
+-29.147999160406 -89.653782959021
+(S1 (S (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADJP (RB there) (PP (IN by) (NP (NN smell)))))))))))
+-29.165470956846 -90.963593406957
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)) (NP (IN by) (NN smell))))))))
+-29.242982596958 -85.988454579554
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (RB there)))))) (PP (IN by) (NP (NN smell)))))
+-29.410047682402 -91.761053070598
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there) (IN by)) (NP (NN smell))))))))
+-29.479862656463 -91.140875457267
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (ADJP (RB there) (PP (IN by) (NP (NN smell)))))))))
+-29.505629860463 -91.270087093168
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (RB there))))) (PP (IN by) (NP (NN smell)))))
+-29.614787795481 -90.804658412401
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (NP (RB there)) (PP (IN by) (NP (NN smell)))))))))))
+-30.021544325628 -89.246125534403
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADJP (RB there)))))) (PP (IN by) (NP (NN smell)))))
+-30.546810312150 -90.413528455611
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB there)))))) (PP (IN by) (S (VP (NN smell))))))
+-30.849342405614 -91.777834547541
+(S1 (FRAG (CC and) (S (NP (PRP she)) (VP (VBZ knows) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADJP (RB there) (PP (IN by) (NP (NN smell)))))))))))
+-31.753095344894 -91.647953241777
+(S1 (S (CC and) (NP (PRP she)) (VP (VBZ knows) (S (NP (PRP we)) (VP (VBP 're) (NP (RB there))))) (PP (IN by) (NP (NN smell)))))
+

@@ -1,0 +1,102 @@
+50 x
+-8.243874732103 -31.172453562557
+(S1 (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's)))))
+-9.755193998068 -31.358090686761
+(S1 (FRAG (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's))))))
+-11.576123439171 -40.794001578815
+(S1 (SBAR (IN because) (S (NP (DT that)) (VP (POS 's)))))
+-12.143689500463 -36.596275461138
+(S1 (S (IN because) (NP (DT that)) (VP (VBZ 's))))
+-12.168021327186 -37.307397795442
+(S1 (SBAR (IN because) (S (NP (IN that)) (VP (VBZ 's)))))
+-12.907004637821 -40.251746828663
+(S1 (FRAG (SBAR (IN because) (S (NP (DT that)) (VP (POS 's))))))
+-13.215370715480 -38.625157512660
+(S1 (S (RB because) (NP (DT that)) (VP (VBZ 's))))
+-13.269965154954 -38.475741068455
+(S1 (SBAR (WHNP (IN because)) (S (NP (DT that)) (VP (VBZ 's)))))
+-13.440075229206 -38.452707118303
+(S1 (SBAR (IN because) (S (NP (WDT that)) (VP (VBZ 's)))))
+-13.463148864122 -44.180930942140
+(S1 (PP (IN because) (S (NP (DT that)) (VP (VBZ 's)))))
+-13.608053665608 -41.496080013153
+(S1 (SBAR (IN because) (S (NP (IN that)) (VP (POS 's)))))
+-13.689015340363 -37.493034919646
+(S1 (FRAG (SBAR (IN because) (S (NP (IN that)) (VP (VBZ 's))))))
+-14.153122910593 -44.041690257963
+(S1 (S (IN because) (NP (DT that)) (VP (POS 's))))
+-14.242530552184 -41.969173152251
+(S1 (FRAG (IN because) (SBAR (S (NP (DT that)) (VP (VBZ 's))))))
+-14.613275813185 -45.551050789978
+(S1 (S (ADVP (RB because)) (NP (DT that)) (VP (VBZ 's))))
+-14.671598237013 -45.215817684473
+(S1 (S (NP (RB because) (DT that)) (VP (VBZ 's))))
+-14.703545038073 -43.301513287214
+(S1 (FRAG (IN because) (S (NP (DT that)) (VP (VBZ 's)))))
+-14.743155129540 -38.459981130609
+(S1 (FRAG (IN because) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's))))))
+-14.745953588237 -38.062471959778
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (DT that)) (VP (VBZ 's))))))
+-14.940516738596 -46.715008934041
+(S1 (PP (RB because) (PP (IN that) (NP (PRP 's)))))
+-14.948609614258 -40.953825263001
+(S1 (FRAG (SBAR (IN because) (S (NP (IN that)) (VP (POS 's))))))
+-14.959856482383 -38.638344242507
+(S1 (FRAG (SBAR (IN because) (S (NP (WDT that)) (VP (VBZ 's))))))
+-15.092930595809 -46.939156336967
+(S1 (PP (RB because) (IN that) (NP (PRP 's))))
+-15.154942551925 -46.485571558226
+(S1 (FRAG (PP (IN because) (S (NP (DT that)) (VP (VBZ 's))))))
+-15.163261798977 -45.275091008390
+(S1 (SBAR (IN because) (S (NP (WDT that)) (VP (POS 's)))))
+-15.167753307280 -43.772029908823
+(S1 (FRAG (SBAR (IN because) (SBAR (IN that) (S (VP (POS 's)))))))
+-15.275983538177 -46.006478070717
+(S1 (S (RB because) (NP (DT that)) (VP (POS 's))))
+-15.410988725274 -44.206411159562
+(S1 (FRAG (SBAR (IN because) (SBAR (IN that) (S (VP (VBZ 's)))))))
+-15.452687855506 -42.904516666211
+(S1 (FRAG (IN because) (SBAR (WHNP (WDT that)) (S (VP (POS 's))))))
+-15.501583807771 -42.624567096809
+(S1 (S (IN because) (NP (IN that)) (VP (VBZ 's))))
+-15.538063519462 -45.165438362417
+(S1 (FRAG (IN because) (SBAR (IN that) (S (VP (POS 's))))))
+-15.650540780292 -46.439233341862
+(S1 (S (X (IN because)) (NP (DT that)) (VP (VBZ 's))))
+-15.703892839989 -44.409241856853
+(S1 (FRAG (IN because) (SBAR (IN that) (S (VP (VBZ 's))))))
+-15.818535074385 -45.408321884854
+(S1 (SBAR (RB because) (IN that) (S (VP (VBZ 's)))))
+-15.875810536454 -44.366762197243
+(S1 (FRAG (SBAR (IN because) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))))))
+-16.153058409540 -44.923831993185
+(S1 (FRAG (SBAR (IN because) (SBAR (DT that) (S (VP (VBZ 's)))))))
+-16.155186645963 -46.892410352404
+(S1 (SBAR (RB because) (IN that) (S (VP (POS 's)))))
+-16.312106646685 -46.895062420065
+(S1 (PP (IN because) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's))))))
+-16.502604987627 -44.732836258238
+(S1 (FRAG (SBAR (IN because) (S (NP (WDT that)) (VP (POS 's))))))
+-16.590653143925 -42.909673688283
+(S1 (S (IN because) (NP (WDT that)) (VP (VBZ 's))))
+-16.641007789578 -46.510800103430
+(S1 (FRAG (IN because) (SBAR (DT that) (S (VP (VBZ 's))))))
+-16.736930877249 -44.610685301339
+(S1 (SBAR (WHNP (IN because)) (S (NP (IN that)) (VP (VBZ 's)))))
+-16.746481660217 -46.870360512035
+(S1 (FRAG (SBAR (WHPP (IN because) (WHNP (WDT that))) (S (VP (VBZ 's))))))
+-17.006887128069 -46.723535573877
+(S1 (FRAG (RB because) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's))))))
+-17.094049336497 -46.167039967013
+(S1 (FRAG (PP (IN because) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))))))
+-17.218443621488 -44.653449148330
+(S1 (S (RB because) (NP (IN that)) (VP (VBZ 's))))
+-17.876790199269 -45.755994624201
+(S1 (SBAR (WHNP (IN because)) (S (NP (WDT that)) (VP (VBZ 's)))))
+-17.964325664641 -44.938555739805
+(S1 (S (RB because) (NP (WDT that)) (VP (VBZ 's))))
+-18.222594060532 -44.197416192663
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (IN that)) (VP (VBZ 's))))))
+-19.361240625340 -45.342725515524
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (WDT that)) (VP (VBZ 's))))))
+

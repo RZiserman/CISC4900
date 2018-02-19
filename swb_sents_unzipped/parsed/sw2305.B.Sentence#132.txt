@@ -1,0 +1,102 @@
+50 x
+-18.121717999698 -67.960762678716
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))
+-18.919411582775 -67.855989478916
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-20.953272381636 -78.276104091817
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (S (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-21.053397055165 -71.546496446446
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))))
+-21.382909484502 -70.856531798472
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))
+-21.581723898713 -78.171330892018
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (S (NP (PRP you)) (NP (CD one) (NN thing))))))))
+-21.678587707772 -79.723163520683
+(S1 (S (CC and) (NP (NP (PRP I)) (NP (PRP I))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))
+-21.918625790151 -76.595646829024
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (S (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-22.166175011363 -75.525864923935
+(S1 (S (NP (CC and) (NP (PRP I))) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))
+-22.353352479458 -76.393909150890
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you) (NP (CD one) (NN thing)))))))
+-22.369636603855 -80.841147402899
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-22.554334603780 -75.647620267315
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (S (NP (CD one) (NN thing)))))))
+-22.567823535677 -77.246771873576
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-22.577674349619 -76.018847020063
+(S1 (X (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))))
+-22.598441811704 -79.096938077024
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (PRP one) (NN thing))))))
+-22.836310887217 -80.007427116605
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)))) (NP (CD one) (NN thing))))
+-22.881275881044 -80.143102195221
+(S1 (S (CC and) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-22.920769912535 -76.289135951091
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you) (NP (CD one) (NN thing))))))))
+-23.135240968754 -77.141998673776
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (NP (PRP you)) (NP (CD one) (NN thing))))))))
+-23.148458406858 -75.542847067516
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (S (NP (CD one) (NN thing))))))))
+-23.368813023012 -78.987666188697
+(S1 (FRAG (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-23.391293885719 -80.405282806678
+(S1 (X (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-23.409484451255 -78.370024554801
+(S1 (FRAG (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))))
+-23.475843511460 -81.705973030785
+(S1 (FRAG (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-23.578125394782 -78.992164877225
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (PRP one) (NN thing)))))))
+-23.581021701009 -81.863883015972
+(S1 (X (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-23.631391088027 -77.795113679527
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (SBAR (S (NP (CD one) (NN thing))))))))
+-23.719371545924 -80.882067904535
+(S1 (S (CC and) (ADVP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))
+-23.727629521104 -77.690340479728
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (SBAR (S (NP (CD one) (NN thing)))))))))
+-23.786231587089 -82.056619283347
+(S1 (S (CC and) (S (NP (PRP I)) (NP (PRP I))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))
+-23.808506671103 -81.861837859547
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (S (NP (PRP you)) (NP (CD one) (NN thing)))))))))
+-23.844638249527 -81.944808927264
+(S1 (FRAG (CC and) (S (NP (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-24.152081382410 -82.058129906217
+(S1 (FRAG (CC and) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-24.214463866441 -81.171873211573
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (S (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-24.282460534711 -80.440624335101
+(S1 (S (NP (CC and) (PRP I)) (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))))))
+-25.054755384925 -79.979642918621
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you) (NP (CD one) (NN thing)))))))))
+-25.268867543774 -80.372792024054
+(S1 (X (CC and) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))))
+-25.269226441144 -80.832505641306
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (NP (PRP you)) (NP (CD one) (NN thing)))))))))
+-25.282443879247 -79.233354035046
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (S (NP (CD one) (NN thing)))))))))
+-25.337530054042 -77.706924969067
+(S1 (FRAG (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-25.488513506037 -82.063621781175
+(S1 (FRAG (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you))))) (NP (CD one) (NN thing))))
+-25.614543964262 -79.289678270646
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (NP (PRP you) (NP (CD one) (NN thing)))))))
+-25.663664040012 -81.847515742963
+(S1 (S (CC and) (NP (PRP I)) (NP (PRP I)) (VP (VP (MD can) (VP (VB tell) (NP (PRP you)))) (NP (CD one) (NN thing)))))
+-25.702830864383 -82.682671844754
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (PRP one) (NN thing))))))))
+-25.815526088585 -78.543389387071
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (S (NP (CD one) (NN thing)))))))
+-25.829015020481 -80.142540993332
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (NP (NP (PRP you)) (NP (CD one) (NN thing)))))))
+-25.859633296509 -81.992707196780
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (NP (PRP one) (NN thing))))))
+-25.861614993494 -81.380847447258
+(S1 (S (CC and) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB tell) (NP (PRP you)) (SBAR (S (NP (CD one) (NN thing))))))))))
+-26.202873841549 -82.532683849348
+(S1 (S (CC and) (NP (PRP I)) (S (NP (PRP I)) (VP (VP (MD can) (VP (VB tell) (NP (PRP you)))) (NP (CD one) (NN thing))))))
+-26.892582572831 -80.690882799283
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (PRP I)))) (VP (MD can) (VP (VB tell) (NP (PRP you)) (SBAR (S (NP (CD one) (NN thing))))))))
+

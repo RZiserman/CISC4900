@@ -1,0 +1,102 @@
+50 x
+-33.250158129146 -111.466364549508
+(S1 (S (ADVP (ADVP (RB Around) (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-33.486829671603 -113.716220796266
+(S1 (S (ADVP (RB Around) (RB here)) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-33.743873689201 -111.305737124291
+(S1 (S (ADVP (RP Around) (ADVP (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.343876760847 -113.798974854958
+(S1 (S (ADVP (RB Around) (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.482612839226 -115.567212149677
+(S1 (S (PP (IN Around) (NP (NP (RB here)) (PP (IN in) (NP (NNP Plano))))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.563549991454 -114.705944063620
+(S1 (S (ADVP (RP Around) (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.636082973125 -112.587575038126
+(S1 (S (ADVP (IN Around) (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.829461859312 -115.744429874661
+(S1 (S (ADVP (RB Around)) (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.862448844836 -116.668883965325
+(S1 (S (ADVP (RP Around) (RB here)) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.897510739462 -113.417414224329
+(S1 (S (ADVP (IN Around) (RB here)) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.948726182401 -112.457911403346
+(S1 (S (RB Around) (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-34.988842270088 -117.659026303518
+(S1 (S (PP (IN Around) (NP (RB here))) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-35.409007907074 -115.659969836967
+(S1 (S (ADVP (ADVP (RP Around) (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-35.542288342836 -112.636211604191
+(S1 (S (ADVP (IN Around) (ADVP (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-35.542682857921 -119.543626633703
+(S1 (SBAR (IN Around) (S (ADVP (RB here)) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees))))))
+-35.668590406237 -116.532139245856
+(S1 (S (IN Around) (NP (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-35.703029569201 -118.942373333250
+(S1 (SBAR (IN Around) (S (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees))))))
+-35.923086502076 -116.053243968967
+(S1 (FRAG (ADVP (RB Around) (RB here)) (SBAR (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-35.945204271503 -117.479075078178
+(S1 (S (ADVP (ADVP (RP Around) (ADVP (RB here))) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-36.090567144939 -115.046168551681
+(S1 (S (ADVP (ADVP (IN Around) (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-36.365610168551 -118.227105212063
+(S1 (FRAG (SBAR (IN Around) (S (ADVP (RB here)) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-36.388707186073 -120.696688892195
+(S1 (S (RB Around) (ADVP (RB here)) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-36.411134225195 -120.305986895141
+(S1 (S (PP (IN Around) (ADVP (RB here))) (PP (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-36.525956907708 -117.625851995407
+(S1 (FRAG (SBAR (IN Around) (S (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-36.586357665105 -115.965369283434
+(S1 (FRAG (ADVP (RB Around)) (ADVP (RB here)) (SBAR (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-36.707923231185 -119.977269278387
+(S1 (FRAG (SBAR (IN Around) (S (NP (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-36.755680635273 -120.510026996352
+(S1 (S (ADVP (RB Around)) (ADVP (ADVP (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-36.777336621217 -119.327168657699
+(S1 (S (ADVP (ADVP (RB Around) (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (RB very) (JJ few) (NNS trees)))))
+-36.797260708361 -117.223508525037
+(S1 (S (RB Around) (ADVP (ADVP (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-36.999876671973 -119.972086968593
+(S1 (S (PP (IN Around) (ADVP (RB here) (PP (IN in) (NP (NNP Plano))))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-37.161904479251 -119.907225231736
+(S1 (S (ADVP (RB Around)) (PP (ADVP (RB here)) (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-37.203557689689 -118.839736704300
+(S1 (S (ADVP (IN Around)) (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-37.271052153395 -119.166541232483
+(S1 (S (ADVP (RP Around) (ADVP (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (RB very) (JJ few) (NNS trees)))))
+-37.419270896153 -120.652588927191
+(S1 (S (ADVP (ADVP (RB Around) (RB here)) (PP (IN in) (NP (NNP Plano)))) (VP (ADVP (RB there)) (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-37.475305149681 -116.496266623408
+(S1 (S (PP (IN Around) (ADVP (ADVP (RB here)) (PP (IN in) (NP (NNP Plano))))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-37.500902000055 -116.898963099200
+(S1 (FRAG (ADVP (IN Around) (RB here)) (SBAR (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-37.652659980453 -119.627761251979
+(S1 (FRAG (PP (IN Around) (NP (NP (RB here)) (PP (IN in) (NP (NNP Plano))))) (S (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees))))))
+-37.694809123913 -116.164694618479
+(S1 (FRAG (ADVP (RB Around)) (SBAR (ADVP (RB here)) (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-37.832671056979 -120.011882864907
+(S1 (FRAG (ADVP (RP Around) (RB here)) (SBAR (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-37.898447146335 -120.717528848977
+(S1 (FRAG (IN Around) (RB here) (SBAR (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-37.908282516209 -120.491961501974
+(S1 (S (ADVP (RP Around) (ADVP (RB here)) (PP (IN in) (NP (NNP Plano)))) (VP (ADVP (RB there)) (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-38.056351198350 -118.902649951159
+(S1 (FRAG (SBAR (ADVP (RB Around) (RB here)) (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-38.077552453606 -119.715068317380
+(S1 (FRAG (ADVP (RP Around)) (ADVP (RB here)) (SBAR (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-38.163261437319 -120.448379146317
+(S1 (S (ADVP (IN Around) (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (RB very) (JJ few) (NNS trees)))))
+-38.167034222744 -119.571663573356
+(S1 (FRAG (SBAR (IN Around) (S (PP (ADVP (RB here)) (IN in) (NP (NNP Plano))) (NP (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-38.475904646594 -120.318715511537
+(S1 (S (RB Around) (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (RB very) (JJ few) (NNS trees)))))
+-38.502563907998 -119.069854424714
+(S1 (S (RB Around) (ADVP (RB here) (PP (IN in) (NP (NNP Plano)))) (VP (ADVP (RB there)) (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))
+-38.736113054226 -118.802257770260
+(S1 (FRAG (SBAR (ADVP (IN Around) (RB here)) (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-38.830342257492 -119.914393652424
+(S1 (FRAG (ADVP (RP Around)) (SBAR (ADVP (RB here)) (IN in) (S (NP (NNP Plano) (EX there)) (VP (VBP are) (NP (ADJP (RB very) (JJ few)) (NNS trees)))))))
+-39.069466807030 -120.497015712382
+(S1 (S (ADVP (IN Around) (ADVP (RB here)) (PP (IN in) (NP (NNP Plano)))) (NP (EX there)) (VP (VBP are) (NP (RB very) (JJ few) (NNS trees)))))
+

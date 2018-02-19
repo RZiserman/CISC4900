@@ -1,0 +1,102 @@
+50 x
+-15.869793043267 -62.478427299627
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (NP (NN law))))))
+-17.013230244707 -60.590367478039
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (NP (NN law))))))
+-18.122018851354 -68.064591520670
+(S1 (NP (DT another) (NN friend) (S (VP (VBG going) (PP (IN into) (NP (NN law)))))))
+-19.057569978029 -64.242082041115
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (NP (NN law)))))))
+-19.116880778628 -72.921372947283
+(S1 (S (NP (DT another) (NN friend)) (S (VP (VBG going) (PP (IN into) (NP (NN law)))))))
+-20.210646943211 -66.770518907881
+(S1 (NP (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (NP (NN law))))))
+-20.925854011100 -72.169309499098
+(S1 (S (NP (DT another) (NN friend) (S (VP (VBG going) (PP (IN into) (NP (NN law))))))))
+-22.445250448208 -80.608440775727
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (NN law)))))
+-22.513397980134 -71.527162384846
+(S1 (S (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (NP (NN law))))))
+-22.822259615793 -70.032545461479
+(S1 (S (NP (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (NP (NN law)))))))
+-22.929868040374 -78.475151516493
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (PRT (IN into)) (NP (NN law)))))
+-23.216262426727 -79.667075077047
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (S (NP (NN law)))))))
+-23.377722890487 -84.171481006746
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (IN into) (NP (NN law)))))
+-23.588687688677 -78.720381096626
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (NN law)))))
+-23.781129395217 -82.766146264765
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (NP (IN into) (NN law)))))
+-23.929178092258 -81.166261046904
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (IN into) (NP (NN law)))))
+-24.218743321306 -80.565982546260
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (ADVP (IN into) (NN law)))))
+-24.320400230767 -79.423384628339
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (NP (IN into) (NN law)))))
+-24.323785227338 -78.513623132455
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (PRT (IN into)) (NP (NN law)))))
+-24.359699630955 -77.779015269783
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (S (NP (NN law)))))))
+-24.801986276295 -86.194604996770
+(S1 (NP (DT another) (NN friend) (S (VP (VBG going) (PP (IN into) (NN law))))))
+-25.124756293371 -84.061315653851
+(S1 (NP (DT another) (NN friend) (S (VP (VBG going) (PRT (IN into)) (NP (NN law))))))
+-25.370961164815 -85.253239298090
+(S1 (NP (DT another) (NN friend) (S (VP (VBG going) (PP (IN into) (S (NP (NN law))))))))
+-25.395379533784 -79.881594283758
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (ADVP (IN into) (NN law)))))
+-25.737537441999 -82.372095659702
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (NN law))))))
+-25.758596025301 -89.757645285060
+(S1 (NP (DT another) (NN friend) (S (VP (VBG going) (IN into) (NP (NN law))))))
+-25.765619912475 -83.682939661961
+(S1 (NP (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (NN law)))))
+-25.859508936397 -88.352310235789
+(S1 (NP (DT another) (NN friend) (S (VP (VBG going) (NP (IN into) (NN law))))))
+-26.096163002612 -84.817975422983
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (IN into) (NP (NN law))))))
+-26.195711369494 -88.918097039046
+(S1 (S (NP (DT another) (NN friend)) (S (VP (VBG going) (PRT (IN into)) (NP (NN law))))))
+-26.261869309662 -88.094840084624
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (NP (QP (IN into) (NN law))))))
+-26.306512294278 -81.430729832859
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (PP (IN into) (S (NP (NN law))))))))
+-26.338836555470 -83.093762761115
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (NP (QP (IN into) (NN law))))))
+-26.365823089301 -90.110020724703
+(S1 (S (NP (DT another) (NN friend)) (S (VP (VBG going) (PP (IN into) (S (NP (NN law))))))))
+-26.386880596236 -82.165337708989
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (PRT (IN into)) (NP (NN law))))))
+-26.410164424089 -83.075099186647
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (NP (IN into) (NN law))))))
+-26.481204413728 -86.152146658867
+(S1 (NP (DT another) (NN friend) (S (VP (VBG going) (ADVP (IN into) (NN law))))))
+-26.581589963839 -89.352598331756
+(S1 (S (NP (DT another) (NN friend)) (VP (VBG going) (ADVP (IN into) (NP (NN law))))))
+-27.185831063029 -84.372088923099
+(S1 (NP (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (S (NP (NN law)))))))
+-27.298747376156 -90.242493315258
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (SBAR (IN into) (NN law)))))
+-27.362188498653 -83.533308724919
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (ADVP (IN into) (NN law))))))
+-27.726534653475 -88.521813371836
+(S1 (NP (NP (DT another) (NN friend)) (VP (VBG going) (ADVP (IN into) (NP (NN law))))))
+-28.031453728118 -88.166033632279
+(S1 (S (NP (DT another) (NN friend) (S (VP (VBG going) (PRT (IN into)) (NP (NN law)))))))
+-28.089688429884 -88.439583056083
+(S1 (S (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (NN law)))))
+-28.174796324561 -89.357957276518
+(S1 (S (NP (DT another) (NN friend) (S (VP (VBG going) (PP (IN into) (S (NP (NN law)))))))))
+-28.351866467845 -86.944966215558
+(S1 (S (NP (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (NN law))))))
+-28.451790448792 -86.745477319423
+(S1 (S (NP (NP (DT another) (NN friend)) (VP (VBG going) (NP (QP (IN into) (NN law)))))))
+-29.115325278475 -90.256864637296
+(S1 (S (NP (DT another) (NN friend) (S (VP (VBG going) (ADVP (IN into) (NN law)))))))
+-29.504726365042 -89.128732475841
+(S1 (S (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (S (NP (NN law)))))))
+-29.938441118399 -87.634115476696
+(S1 (S (NP (NP (DT another) (NN friend)) (PP (VBG going) (PP (IN into) (S (NP (NN law))))))))
+

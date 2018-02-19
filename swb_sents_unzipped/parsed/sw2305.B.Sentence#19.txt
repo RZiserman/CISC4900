@@ -1,0 +1,102 @@
+50 x
+-12.213999468047 -45.846407661659
+(S1 (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-13.645021639274 -49.275365045617
+(S1 (NP (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas)))) (NP (NNP Dallas))))
+-15.726399947000 -54.442590497296
+(S1 (S (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-15.881626578048 -54.426643038556
+(S1 (NP (NP (NNP University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas))))))
+-16.176550325310 -54.833514566348
+(S1 (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-16.308216399736 -57.082527976236
+(S1 (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas))) (NP (NNP Dallas))))
+-16.608692302595 -57.474472239291
+(S1 (NP (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas)))) (NNP Dallas)))
+-17.352364545983 -58.523329579341
+(S1 (S (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas)))) (NP (NNP Dallas))))
+-17.385211080587 -55.345582323245
+(S1 (FRAG (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-17.398904632794 -56.358070932537
+(S1 (X (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-17.470567132449 -61.491478423241
+(S1 (NP (NNP University) (IN of) (NNP Texas) (NNP Dallas)))
+-17.592562569584 -57.311217535548
+(S1 (S (ADJP (NNP University) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-17.719489463168 -59.185755801568
+(S1 (NP (NP (NNP University)) (PP (IN of) (NP (NP (NNP Texas)) (NNP Dallas)))))
+-17.927857090724 -57.389710304897
+(S1 (X (NP (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas)))) (NP (NNP Dallas)))))
+-18.071436268059 -57.727699869431
+(S1 (FRAG (NP (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas)))) (NP (NNP Dallas)))))
+-18.267663662712 -56.730090487100
+(S1 (S (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-18.440379741542 -60.952727323064
+(S1 (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas)) (NP (NNP Dallas)))))
+-18.481204307821 -60.760061084103
+(S1 (S (VP (NNP University) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-18.583484762863 -58.925213383832
+(S1 (ADJP (NNP University) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-18.590252826808 -61.166499416142
+(S1 (S (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-18.634706922807 -56.294144632295
+(S1 (FRAG (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-18.705318340358 -56.237239509259
+(S1 (FRAG (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-18.932437990874 -60.642768493802
+(S1 (X (NNP University) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-19.148169883120 -59.618566647477
+(S1 (X (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-19.270351351703 -64.979258723778
+(S1 (NP (NN University) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-19.519806830039 -59.559766884863
+(S1 (NP (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas)))) (NP (NNP Dallas))))
+-19.575573732523 -63.413749943245
+(S1 (NP (NP (NN University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas))))))
+-19.706426084769 -59.346681269652
+(S1 (FRAG (NP (NN University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-19.764941710247 -65.240255485822
+(S1 (S (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas))) (NP (NNP Dallas)))))
+-19.870088864213 -63.022825874192
+(S1 (S (NP (NP (NNP University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas)))))))
+-19.875777995860 -62.715090861245
+(S1 (S (ADJP (NN University) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-19.878195402647 -62.894428785830
+(S1 (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas))) (NP (NNP Dallas))))
+-19.930586039560 -60.476599048382
+(S1 (X (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-20.178934031542 -64.229519128893
+(S1 (S (VP (NN University) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-20.290719618270 -62.873710182310
+(S1 (S (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas)))) (NP (NNP Dallas))))
+-20.357211305801 -64.235896154963
+(S1 (NP (NP (NNP University)) (IN of) (NP (NNP Texas) (NNP Dallas))))
+-20.371961907777 -64.184700922815
+(S1 (FRAG (S (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))))
+-20.707350703358 -65.239328289669
+(S1 (X (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas))) (NP (NNP Dallas)))))
+-20.823616645746 -61.353977443850
+(S1 (FRAG (ADJP (NN University) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-20.874266243198 -62.843540867141
+(S1 (S (NP (NN University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-20.874820344131 -65.414995473328
+(S1 (FRAG (NP (NP (NNP University)) (PP (IN of) (NP (NNP Texas))) (NP (NNP Dallas)))))
+-21.052838190588 -63.925817700141
+(S1 (FRAG (NP (NP (NNP University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas)))))))
+-21.066531742795 -64.938306309434
+(S1 (X (NP (NP (NNP University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas)))))))
+-21.204985526898 -64.617260685324
+(S1 (NP (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas)))) (NNP Dallas)))
+-21.721081693180 -64.985505342428
+(S1 (X (NP (NN University)) (PP (IN of) (NP (NNP Texas) (NNP Dallas)))))
+-21.748392859232 -64.540335598919
+(S1 (FRAG (ADJP (NNP University) (PP (IN of) (NP (NNP Texas) (NNP Dallas))))))
+-21.901231552636 -62.372723641978
+(S1 (FRAG (NP (NP (NP (NN University)) (PP (IN of) (NP (NNP Texas)))) (NP (NNP Dallas)))))
+-22.033730332808 -64.874380009192
+(S1 (FRAG (NP (NP (NN University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas)))))))
+-22.142748879925 -65.310325863997
+(S1 (S (NP (NP (NN University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas)))))))
+-22.303500190944 -65.542221343013
+(S1 (FRAG (NP (NNP University)) (PP (IN of) (NP (NP (NNP Texas)) (NP (NNP Dallas))))))
+

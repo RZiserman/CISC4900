@@ -1,0 +1,102 @@
+50 x
+-20.520140555476 -68.301386666992
+(S1 (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite))))))
+-20.861859860258 -69.999588654086
+(S1 (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))
+-21.727683878545 -74.334249837656
+(S1 (S (CC but) (NP (PRP she)) (VP (POS 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))
+-21.879975814136 -77.214087030036
+(S1 (S (CC but) (NP (PRP she)) (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))
+-22.137991256203 -69.945052254417
+(S1 (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite)))))))
+-22.299705273773 -71.643254241510
+(S1 (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))))
+-22.878487234806 -79.172991152152
+(S1 (S (CC but) (NP (PRP she) (POS 's)) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))
+-22.954626546303 -77.264327679666
+(S1 (S (CC but) (NP (PRP she) (VBZ 's)) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))
+-23.111035895424 -77.305636954139
+(S1 (S (CC but) (NP (PRP she)) (VP (POS 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite))))))
+-23.480087010642 -77.033719540114
+(S1 (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (S (NP (DT a) (JJ great) (NN appetite)))))))
+-24.026146360449 -74.379739192784
+(S1 (S (CC but) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite))))))))
+-24.192862529019 -76.077941179878
+(S1 (S (CC but) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))))
+-24.217579529769 -83.267371363323
+(S1 (S (CC but) (NP (PRP she)) (VP (POS 's) (VP (VBP got) (NP (DT a) (JJ great) (NN appetite))))))
+-24.323204763502 -81.024493605966
+(S1 (S (CC but) (S (NP (PRP she)) (VP (POS 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))))
+-24.326316117172 -71.834202481088
+(S1 (FRAG (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite)))))))
+-24.451996410034 -82.862785640870
+(S1 (S (CC but) (NP (PRP she) (VBZ 's)) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite)))))
+-24.499366236631 -82.492526917296
+(S1 (S (CC but) (NP (PRP she)) (VP (POS 's) (S (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))))
+-24.589572639639 -84.605211271946
+(S1 (S (CC but) (NP (NP (PRP she)) (VBZ 's)) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))
+-24.607118631676 -81.714732776825
+(S1 (S (CC but) (S (NP (PRP she)) (VP (VBZ 's))) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))
+-24.613602379188 -84.618507794894
+(S1 (S (CC but) (NP (PRP she) (VBZ 's)) (VP (VBP got) (NP (DT a) (JJ great) (NN appetite)))))
+-24.732706515742 -73.532404468182
+(S1 (FRAG (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))))
+-25.050070114156 -78.677385127538
+(S1 (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (S (NP (DT a) (JJ great) (NN appetite))))))))
+-25.093563005133 -81.116135188992
+(S1 (S (CC but) (NP (NN she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite))))))
+-25.138175389339 -78.853531089366
+(S1 (FRAG (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite)))))))
+-25.262764322586 -81.301978390173
+(S1 (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (S (NP (DT a) (JJ great) (NN appetite)))))))
+-25.406219839483 -82.118374330732
+(S1 (S (CC but) (S (NP (PRP she)) (VP (POS 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite)))))))
+-25.479894696909 -80.551733076460
+(S1 (FRAG (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))))
+-25.495428426607 -74.823965758956
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite))))))))
+-25.521195982703 -82.814337176086
+(S1 (S (CC but) (NP (NN she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))
+-25.659198402180 -83.221706651600
+(S1 (S (CC but) (S (NP (PRP she) (VBZ 's)) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))
+-25.662144595177 -76.522167746050
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))))
+-26.064373434432 -83.974330854219
+(S1 (S (CC but) (NP (NN she)) (VP (POS 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))
+-26.491339912799 -84.655682715916
+(S1 (S (CC but) (NP (PRP she)) (VP (POS 's) (SBAR (S (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))))
+-26.715952364772 -80.222438678678
+(S1 (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (ADJP (JJ great)) (NN appetite))))))
+-26.735027911999 -82.272549550767
+(S1 (S (CC but) (S (NP (NN she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite)))))))
+-26.828356306100 -82.945643977597
+(S1 (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (S (NP (DT a) (JJ great) (NN appetite))))))))
+-26.926819178921 -83.306400716485
+(S1 (FRAG (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite))))))))
+-26.960062718403 -83.112072065906
+(S1 (S (CC but) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (S (NP (DT a) (JJ great) (NN appetite)))))))))
+-26.982655599570 -83.970751537861
+(S1 (S (CC but) (S (NP (NN she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite)))))))
+-27.088533193703 -85.004602703579
+(S1 (FRAG (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ great) (NN appetite))))))))
+-27.208908354529 -83.732005295662
+(S1 (S (NP (CC but) (NP (PRP she))) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite))))))
+-27.248874528994 -81.704758402519
+(S1 (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (ADJP (JJ great)) (NN appetite))))))
+-27.316635792338 -80.566535354210
+(S1 (FRAG (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (S (NP (DT a) (JJ great) (NN appetite))))))))
+-28.243758033118 -83.811905795717
+(S1 (S (CC but) (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (NP (DT a)) (JJ great) (NN appetite))))))
+-28.333803068286 -81.866104266102
+(S1 (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (ADJP (JJ great)) (NN appetite)))))))
+-28.429344781773 -83.556298632078
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (S (NP (DT a) (JJ great) (NN appetite)))))))))
+-28.686719942508 -83.348423989944
+(S1 (S (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (ADJP (JJ great)) (NN appetite)))))))
+-28.826816636866 -84.645465634883
+(S1 (FRAG (CC but) (S (NP (NN she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (JJ great) (NN appetite)))))))
+-29.120481095282 -84.834794204269
+(S1 (FRAG (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (S (NP (DT a) (JJ great) (NN appetite))))))))
+-30.522127926468 -83.755254492774
+(S1 (FRAG (CC but) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (DT a) (ADJP (JJ great)) (NN appetite)))))))
+

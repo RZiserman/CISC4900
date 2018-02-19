@@ -1,0 +1,102 @@
+50 x
+-13.727767837314 -47.749654780105
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-14.576466801825 -53.308443549265
+(S1 (S (CC So) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-14.798534038048 -49.893968024659
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-15.051447757671 -52.836993392509
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-15.762419636024 -58.748472381612
+(S1 (SBAR (IN So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-15.970980273522 -51.821419720807
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-16.008764810539 -56.478759104123
+(S1 (S (CC So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-16.888421487593 -56.255104507069
+(S1 (S (ADVP (RB So)) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-17.320400446892 -58.886108363941
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-18.281546616145 -60.280073097752
+(S1 (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-18.432625301746 -59.990544684206
+(S1 (S (ADVP (IN So)) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-18.466254076065 -61.815177665325
+(S1 (S (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))))
+-18.539161726528 -63.830954853883
+(S1 (SBAR (RB So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-18.635919584142 -63.119926013603
+(S1 (S (CC So) (NP (PRP I)) (VP (VBD went)) (PP (TO to) (NP (NNP England)))))
+-18.777018325152 -60.039464743277
+(S1 (S (INTJ (RB So)) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-18.789331593155 -61.108548437995
+(S1 (FRAG (RB So) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-18.940738744420 -63.291540356901
+(S1 (S (IN So) (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-19.090510562962 -61.080489631014
+(S1 (S (NP (RB So) (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-19.118808073646 -63.276757616876
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP England)))))))
+-19.165963274118 -65.883038564022
+(S1 (FRAG (IN So) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-19.359867084520 -63.928286884472
+(S1 (FRAG (ADVP (RB So)) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-19.388105570497 -64.931565851322
+(S1 (S (IN So) (NP (PRP I)) (VP (VP (VBD went)) (PP (TO to) (NP (NNP England))))))
+-19.593647409668 -63.408655798765
+(S1 (S (ADVP (IN So)) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-19.807093551811 -66.670520633212
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NP (NNP England))))))))
+-19.934628033520 -61.483071812407
+(S1 (FRAG (ADJP (RB So) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))))
+-19.967507038158 -68.835546386036
+(S1 (S (CC So) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP England)))))))
+-20.162446740115 -67.866008264022
+(S1 (FRAG (CC So) (SBAR (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-20.189574274380 -65.421070861430
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP England)))))))
+-20.203815436164 -68.258378083589
+(S1 (S (CC So) (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-20.209139430173 -65.822813286884
+(S1 (FRAG (S (CC So) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-20.209774249816 -65.326332011008
+(S1 (FRAG (CC So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-20.367614469699 -64.321921951795
+(S1 (FRAG (SBAR (RB So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-20.382641680380 -63.795766108400
+(S1 (FRAG (S (ADVP (RB So)) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-20.442487994003 -68.364096229280
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP England)))))))
+-20.492785074019 -67.075879095875
+(S1 (S (RB So) (NP (PRP I)) (VP (VP (VBD went)) (PP (TO to) (NP (NNP England))))))
+-20.510869305068 -64.995060554429
+(S1 (FRAG (S (IN So) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-20.877859755333 -68.814833877766
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NP (NNP England))))))))
+-20.920305505420 -64.888686472974
+(S1 (FRAG (S (RB So) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-20.960305742166 -67.839477262484
+(S1 (S (IN So) (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (NP (NNP England)))))))
+-21.062386382488 -64.871815982507
+(S1 (S (RB So) (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-21.108670706153 -69.292295779135
+(S1 (FRAG (S (CC So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-21.206393813501 -68.661650040873
+(S1 (S (RB So) (NP (PRP I)) (VP (VBD went)) (PP (TO to) (NP (NNP England)))))
+-21.447535268311 -67.348522350629
+(S1 (S (RB So) (S (NP (PRP I)) (VP (VBD went) (S (VP (TO to) (VP (NNP England))))))))
+-21.527764113147 -67.903714542550
+(S1 (S (ADVP (RB So) (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-21.641766085560 -68.949877921827
+(S1 (FRAG (PP (RB So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-21.970967456625 -68.544565087830
+(S1 (S (ADVP (RB So)) (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))
+-22.126625165922 -67.813975327647
+(S1 (FRAG (VP (RB So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-22.269893122865 -68.850667763985
+(S1 (FRAG (S (RB So) (S (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England))))))))
+-23.265045761408 -68.033671408422
+(S1 (S (RB So) (S (NP (NN I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+-23.764249750652 -67.754347045540
+(S1 (FRAG (S (NP (RB So) (PRP I)) (VP (VBD went) (PP (TO to) (NP (NNP England)))))))
+

@@ -1,0 +1,102 @@
+50 x
+-17.123570817357 -55.883212323758
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar)))))
+-18.291068913676 -60.884394859340
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (VP (JJ similar)))))
+-18.650185796103 -60.164363875529
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (ADJP (JJ similar)))))
+-18.723917093014 -63.461971160407
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (NP (JJ similar)))))
+-19.132264204371 -57.163098141161
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar))))))
+-19.888613715393 -62.526123016702
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (S (ADJP (JJ similar))))))
+-20.119435254719 -62.164280819294
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (VP (JJ similar))))))
+-20.310161827536 -65.708571061642
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (ADVP (JJ similar)))))
+-20.373396586917 -66.701524719494
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (NP (JJ similar)))))
+-20.496137386864 -65.960912974965
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (S (ADJP (JJ similar))))))
+-20.563613748571 -64.741857189800
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (NP (JJ similar))))))
+-20.735974700644 -66.385357539047
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (VP (JJ similar)))))
+-21.035340124772 -65.311677500019
+(S1 (SBAR (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar))))))
+-21.124596132245 -64.737023551005
+(S1 (S (X (PP (IN in) (NP (NNP Baltimore)))) (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar)))))
+-21.161216722924 -65.865087039477
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (ADVP (JJ similar)))))
+-21.679022164793 -65.246572157516
+(S1 (FRAG (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar))))))
+-21.692401804709 -63.806008918364
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (S (ADJP (JJ similar)))))))
+-21.989517454448 -66.803365886781
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VB have) (ADJP (JJ similar))))))
+-22.077745220888 -67.943401729501
+(S1 (SBAR (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar))))))
+-22.092489933303 -70.312860034953
+(S1 (SBAR (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (VP (JJ similar))))))
+-22.198853223215 -66.988456994535
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (ADVP (JJ similar))))))
+-22.292094228564 -69.738206086587
+(S1 (S (X (PP (IN in) (NP (NNP Baltimore)))) (NP (PRP we)) (VP (VBP have) (VP (JJ similar)))))
+-22.466689607641 -72.890436327586
+(S1 (SBAR (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (NP (JJ similar))))))
+-22.724942407902 -72.315782387654
+(S1 (S (X (PP (IN in) (NP (NNP Baltimore)))) (NP (PRP we)) (VP (VBP have) (NP (JJ similar)))))
+-22.753216486127 -64.875842322979
+(S1 (FRAG (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar))))))
+-22.807842261060 -70.409761127425
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (S (NP (JJ similar))))))
+-22.923062657748 -70.247754671357
+(S1 (FRAG (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (VP (JJ similar))))))
+-23.134895029419 -72.944584264435
+(S1 (SBAR (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (VP (JJ similar))))))
+-23.136421091513 -69.139375009594
+(S1 (FRAG (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (ADJP (JJ similar))))))
+-23.157724057496 -70.617889517883
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (S (NP (JJ similar))))))
+-23.290549133722 -72.825330935868
+(S1 (FRAG (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (NP (JJ similar))))))
+-23.555575580185 -73.354306811991
+(S1 (S (PP (IN in) (NP (NP (NNP Baltimore)) (NP (PRP we)))) (VP (VBP have) (ADJP (JJ similar)))))
+-23.595477733473 -71.954588305593
+(S1 (SBAR (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (S (ADJP (JJ similar)))))))
+-23.674958379870 -73.340526563417
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VB have) (NP (JJ similar))))))
+-23.695988869689 -72.578379776566
+(S1 (S (X (PP (IN in) (NP (NNP Baltimore)))) (NP (PRP we)) (VP (VB have) (ADJP (JJ similar)))))
+-23.696826463237 -71.056771957578
+(S1 (FRAG (SBAR (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar)))))))
+-23.889639027493 -71.379934243949
+(S1 (S (X (PP (IN in) (NP (NNP Baltimore)))) (NP (PRP we)) (VP (VBP have) (S (ADJP (JJ similar))))))
+-23.927909122727 -72.599914717350
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VB have) (S (ADJP (JJ similar)))))))
+-23.999728598125 -68.196709483472
+(S1 (FRAG (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VB have) (ADJP (JJ similar))))))
+-24.082098381870 -69.877024836820
+(S1 (FRAG (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (VP (JJ similar))))))
+-24.145118414565 -73.024359571924
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VB have) (VP (JJ similar))))))
+-24.436019055057 -72.454601101331
+(S1 (FRAG (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (NP (JJ similar))))))
+-24.460178867918 -71.889482950266
+(S1 (FRAG (S (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (S (ADJP (JJ similar)))))))
+-24.481812064804 -72.235977721069
+(S1 (FRAG (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VB have) (ADJP (JJ similar)))))
+-24.488074347816 -72.504088929652
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VB have) (ADVP (JJ similar))))))
+-24.587053901123 -72.191774510027
+(S1 (FRAG (PP (IN in) (NP (NNP Baltimore))) (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar)))))
+-24.587321979011 -72.959224071816
+(S1 (S (X (IN in) (NNP Baltimore)) (NP (PRP we)) (VP (VBP have) (ADJP (JJ similar)))))
+-24.611630350376 -71.689647029086
+(S1 (S (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (S (NP (JJ similar)))))))
+-25.593704759040 -71.518753115730
+(S1 (FRAG (PP (IN in) (NP (NNP Baltimore))) (S (NP (PRP we)) (VP (VBP have) (S (ADJP (JJ similar)))))))
+-25.740942536748 -73.278523216212
+(S1 (FRAG (SBAR (IN in) (S (NP (NNP Baltimore) (PRP we)) (VP (VBP have) (ADJP (JJ similar)))))))
+

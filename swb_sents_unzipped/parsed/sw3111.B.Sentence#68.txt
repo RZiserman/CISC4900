@@ -1,0 +1,102 @@
+50 x
+-16.749408598500 -60.745786650228
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (NP (PRP it)) (NP (PRP themselves))))))
+-17.387125751787 -62.213259473646
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (NP (NP (PRP it)) (NP (PRP themselves)))))))
+-17.658220671275 -60.358020250728
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves)))))))
+-19.982367473393 -69.644153645270
+(S1 (S (NP (PRP they)) (VP (VB have) (VP (VBN induced) (NP (PRP it)) (NP (PRP themselves))))))
+-20.215283519022 -65.021608497389
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves))))))))
+-20.315037730759 -68.019003311882
+(S1 (S (NP (PRP they)) (VP (VB have) (VP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves)))))))
+-20.368614865244 -70.331255820871
+(S1 (S (NP (PRP they)) (VP (VB have) (VP (VBN induced) (NP (NP (PRP it)) (NP (PRP themselves)))))))
+-20.495089885065 -66.444692327423
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (NP (PRP it)) (ADVP (PRP themselves))))))
+-20.666954587379 -68.768564801115
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (PRP it)) (NP (PRP themselves)))))))
+-20.692313669913 -64.305835775034
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (NP (PRP it)) (S (NP (PRP themselves)))))))
+-20.750849667699 -73.136057736961
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (NP (PRP it) (NP (PRP themselves)))))))
+-21.156034658923 -71.083089577631
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (S (NP (NP (PRP it)) (NP (PRP themselves))))))))
+-21.599567908651 -71.207629767512
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (NP (PRP it)) (NP (PRP themselves))))))))
+-21.865483260743 -69.913695868300
+(S1 (S (NP (PRP they)) (VP (VB have) (S (VP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves))))))))
+-21.948607093008 -70.350767071666
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (NP (NP (PRP it)) (ADVP (PRP themselves)))))))
+-22.059558852257 -72.442564898576
+(S1 (S (NP (PRP they)) (VBP have) (VP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves))))))
+-22.197696269277 -74.910781104335
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (SBAR (S (NP (PRP it)) (NP (PRP themselves))))))))
+-22.197785054374 -76.189521070305
+(S1 (S (NP (PRP they)) (VBP have) (VP (VBN induced) (NP (PRP it)) (NP (PRP themselves)))))
+-22.538372465100 -73.660652172026
+(S1 (S (NP (PRP they)) (VP (VB have) (S (VP (VBN induced) (NP (PRP it)) (NP (PRP themselves)))))))
+-22.774496704722 -73.630905055842
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (ADVP (PRP it)) (NP (PRP themselves))))))
+-23.272403045160 -78.628586111743
+(S1 (S (NP (PRP they)) (VBP have) (VP (VBN induced) (NP (NP (PRP it)) (NP (PRP themselves))))))
+-23.289018249726 -75.459887528622
+(S1 (S (NP (PRP they)) (VP (VBP have) (PP (VBN induced) (NP (PRP it))) (NP (PRP themselves)))))
+-23.387128689279 -70.709716071313
+(S1 (S (NP (PRP they)) (VP (VBP have) (ADJP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves)))))))
+-23.445640830372 -76.099717138423
+(S1 (S (NP (PRP they)) (VP (VB have) (S (VP (VBN induced) (NP (NP (PRP it)) (NP (PRP themselves))))))))
+-23.531518808154 -72.616612650791
+(S1 (S (NP (PRP they)) (VP (VBP have) (SBAR (S (VP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves)))))))))
+-23.584306098393 -75.702279944628
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (PRP it))) (NP (PRP themselves))))))
+-23.627977728801 -74.984097460946
+(S1 (S (NP (PRP they)) (VP (VB have) (VP (VBN induced) (NP (PRP it)) (ADVP (PRP themselves))))))
+-23.689628548149 -76.363568921221
+(S1 (S (NP (PRP they)) (VP (VBP have) (SBAR (S (VP (VBN induced) (NP (PRP it)) (NP (PRP themselves))))))))
+-23.714609809457 -75.746677841008
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (S (NP (NP (PRP it)) (NP (PRP themselves)))))))))
+-23.754790197833 -78.972561478013
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VP (VBN induced) (NP (PRP it))) (NP (PRP themselves))))))
+-23.869621484887 -77.314048245998
+(S1 (S (NP (PRP they)) (VP (VBP have) (PP (VBN induced) (NP (NP (PRP it)) (NP (PRP themselves)))))))
+-23.874654284407 -78.744072638785
+(S1 (S (NP (PRP they)) (VP (VB have) (VP (VBN induced) (S (NP (NP (PRP it)) (NP (PRP themselves))))))))
+-23.880577025639 -73.043876792441
+(S1 (S (NP (PRP they)) (VP (VB have) (VP (VBN induced) (NP (PRP it)) (S (NP (PRP themselves)))))))
+-24.290087497814 -76.674580660580
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (PRP it)))) (NP (PRP themselves)))))
+-24.618772924268 -74.142532953278
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (ADJP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves))))))))
+-24.622241905662 -78.802634015833
+(S1 (S (NP (PRP they)) (VP (VBP have) (SBAR (S (VP (VBN induced) (NP (NP (PRP it)) (NP (PRP themselves)))))))))
+-24.632668582632 -76.108689897108
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (PRP it)) (ADVP (PRP themselves)))))))
+-24.795515032314 -77.704087542840
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (S (NP (PRP it)) (ADVP (PRP themselves)))))))
+-24.900408896307 -77.152418343907
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (S (NP (NP (PRP it)) (ADVP (PRP themselves))))))))
+-24.930096206464 -78.468763418891
+(S1 (S (NP (PRP they)) (VP (VB have) (VP (VBN induced) (NP (NP (PRP it)) (ADVP (PRP themselves)))))))
+-24.951788488624 -73.860639620720
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (PRP it)) (S (NP (PRP themselves))))))))
+-25.110801540009 -79.151999014436
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VP (VBN induced) (NP (PRP it))) (NP (PRP themselves)))))))
+-25.362644741828 -78.722626837921
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (NP (PRP it)) (SBAR (S (NP (PRP themselves))))))))
+-25.455218427249 -76.350883167815
+(S1 (S (NP (PRP they)) (VP (VBP have) (VP (VBN induced) (ADVP (PRP it)) (S (NP (PRP themselves)))))))
+-25.539620750171 -77.767885195910
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (ADVP (PRP it)) (NP (PRP themselves)))))))
+-25.695218228233 -79.134961475781
+(S1 (S (NP (PRP they)) (VP (VB have) (SBAR (S (VP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves)))))))))
+-26.041665402883 -78.720511476403
+(S1 (S (NP (PRP they)) (VP (VB have) (ADJP (VBN induced) (S (NP (PRP it)) (NP (PRP themselves)))))))
+-26.161049249871 -79.345137365531
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (NP (PRP it)) (ADVP (PRP themselves))))))))
+-26.477285273188 -75.873057342438
+(S1 (S (NP (PRP they)) (VP (VBP have) (S (VP (VBN induced) (NP (PRP it)))) (S (NP (PRP themselves))))))
+-26.823206366345 -78.752726991631
+(S1 (S (NP (PRP they)) (VP (VB have) (S (VP (VBN induced) (NP (PRP it)) (S (NP (PRP themselves))))))))
+

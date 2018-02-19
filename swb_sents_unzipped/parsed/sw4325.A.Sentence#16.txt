@@ -1,0 +1,102 @@
+50 x
+-46.382140968340 -162.089434260701
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-46.800739946900 -161.664701926392
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-46.815791601392 -162.048729856809
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-47.065413909547 -159.945313049904
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily)))) (CC and) (S (ADVP (RB usually)) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-47.234390579952 -161.623997522500
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-47.239699792561 -158.287159005813
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually))) (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-47.311530776987 -161.688444384006
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-47.467211036931 -161.682463313233
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-47.532225685154 -159.685889778519
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually))) (VP (VB find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-47.591545265173 -156.878714592428
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually)) (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-47.716189616796 -162.252769735084
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADJP (RB just) (RB temporarily)))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-47.730129755548 -161.263712049698
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)))) (CC and) (VP (ADVP (RB usually)) (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-47.813709557767 -158.277445365135
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually)) (VP (VB find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-47.854351400029 -160.358123439786
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily)))) (CC and) (S (ADVP (RB usually)) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-47.858186107359 -162.833240953068
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-47.863356771705 -161.319387438904
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.134788623235 -161.828037400775
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADJP (RB just) (RB temporarily)))) (CC and) (VP (ADVP (RB usually)) (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.197675899927 -162.424432986543
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-48.256148527412 -162.095273703114
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-48.276785085919 -162.408508618759
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.312561410948 -161.192412048961
+(S1 (S (NP (PRP I)) (VP (VBP work) (SBAR (S (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually)) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))))
+-48.631326532979 -162.383728582651
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-48.632232716491 -162.778520392925
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just)) (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.652294262186 -161.732197828786
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.699898154208 -160.486999603794
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily)))) (CC and) (S (ADVP (RB usually)) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.814185614301 -163.165084663361
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (NP (NNS friends)) (S (VP (TO to) (VP (VB babysit))))))))
+-48.832674463933 -162.429365062287
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily)))) (CC and) (S (ADVP (RB usually)) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.872746797590 -161.459511898132
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (PRT (RP off) (CC and) (RP on)) (ADVP (RB just)) (ADVP (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-48.883597320020 -162.813234325811
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually))) (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-48.894954517513 -160.908256475623
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually))) (VP (VB find) (NP (NNS friends)) (S (VP (TO to) (VP (VB babysit))))))))
+-48.899860074746 -159.326983511560
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually))) (VP (VB find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-49.101695281592 -162.224149867123
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (NP (NP (NNS friends)) (SBAR (S (VP (TO to) (VP (VB babysit))))))))))
+-49.127065708575 -162.023443109849
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-49.211602690126 -159.499812062239
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually)) (VP (VB find) (NP (NNS friends)) (S (VP (TO to) (VP (VB babysit))))))))
+-49.216508247359 -157.918539098176
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually)) (VP (VB find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-49.249956225769 -162.722992949963
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily) (CC and) (RB usually)) (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-49.380670338794 -163.166087891219
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily) (CC and) (RB usually)) (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-49.492644883994 -161.564704115863
+(S1 (S (NP (PRP I)) (VP (VB work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually)))) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit)))))))
+-49.497841016366 -161.861073992794
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-49.531724576261 -162.587768460927
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADJP (RB just) (RB temporarily)))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-49.592272093313 -162.100719392465
+(S1 (S (NP (PRP I)) (VP (VB work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually))) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit)))))))
+-49.661684288072 -161.872322288014
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just) (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-49.673721038946 -163.168239678910
+(S1 (S (NP (PRP I)) (VP (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily))) (CC and) (VP (ADVP (RB usually)) (VBP find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-49.804119348918 -163.105378198497
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily))) (CC and) (ADVP (RB usually))) (VP (VB find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit))))))))
+-50.420871241581 -162.475329539226
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually))) (VP (VB find) (NP (NP (NNS friends)) (PP (TO to) (NP (NN babysit))))))))
+-50.449001070069 -162.308347180197
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (ADVP (RB usually))) (VP (VB find) (NP (NNS friends)) (PP (TO to) (NP (NN babysit)))))))
+-50.507231042252 -162.001198452022
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (RB just)) (ADVP (RB temporarily)))) (CC and) (ADVP (RB usually)) (S (VP (VB find) (NP (NNS friends) (S (VP (TO to) (VP (VB babysit)))))))))
+-50.702355114193 -161.066885125842
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually)) (VP (VB find) (NP (NP (NNS friends)) (PP (TO to) (NP (NN babysit))))))))
+-50.765649242681 -160.899902766812
+(S1 (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on) (ADVP (RB just) (RB temporarily)) (CC and) (RB usually)) (VP (VB find) (NP (NNS friends)) (PP (TO to) (NP (NN babysit)))))))
+-51.751278556946 -162.668766406416
+(S1 (S (S (NP (PRP I)) (VP (VBP work) (ADVP (RP off) (CC and) (RP on)) (ADVP (RB just)))) (ADVP (RB temporarily) (CC and) (RB usually)) (VP (VBP find) (S (NP (NNS friends)) (VP (TO to) (VP (VB babysit)))))))
+

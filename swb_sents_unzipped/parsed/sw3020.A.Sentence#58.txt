@@ -1,0 +1,102 @@
+50 x
+-14.375460343075 -47.451640074606
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier)))))
+-15.750468986021 -49.678618816649
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier))))))
+-17.033086874345 -55.350504140454
+(S1 (S (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier)))))))
+-17.438947314341 -63.559895377014
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (NP (JJ much) (JJR happier)))))
+-17.517140400337 -54.773962049893
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier)))))))
+-17.906872015875 -59.195579302424
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADJP (JJ much) (JJR happier)))))
+-18.261484568681 -62.088814431787
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (NP (RB much) (JJR happier)))))
+-18.545316017482 -54.940676101069
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier))))))
+-18.813859301075 -65.786874139501
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (NP (JJ much) (JJR happier))))))
+-19.141842267033 -61.422558044467
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (JJ much) (JJR happier))))))
+-19.212544166624 -59.354744777242
+(S1 (FRAG (S (CC and) (NP (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier))))))
+-19.222875461018 -59.198247164624
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (S (ADJP (RB much) (JJR happier))))))
+-19.225379404795 -62.592108439561
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADVP (JJ much) (JJR happier)))))
+-19.421734629707 -61.425111461774
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADVP (RB much) (JJR happier)))))
+-19.440374144715 -64.315793194274
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (NP (RB much) (JJR happier))))))
+-19.613252320423 -59.371928806437
+(S1 (S (NP (CC and) (NP (PRP we))) (VP (VBD were) (ADJP (RB much) (JJR happier)))))
+-19.857970028054 -62.796441071959
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADVP (RB much)) (ADJP (JJR happier)))))
+-19.964863023978 -59.835886747188
+(S1 (S (NP (CC and) (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier)))))
+-19.980201241894 -62.568810566893
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADJP (ADVP (RB much)) (JJR happier)))))
+-20.073004899745 -66.725492916095
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADJP (ADJP (JJ much)) (JJR happier)))))
+-20.138108560054 -67.694679892765
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (NP (ADJP (RB much) (JJR happier))))))
+-20.171608421086 -62.384401241516
+(S1 (FRAG (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier)))))))
+-20.392248527145 -67.094443368272
+(S1 (S (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (ADJP (JJ much) (JJR happier)))))))
+-20.565865317691 -61.425225966979
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (S (ADJP (RB much) (JJR happier)))))))
+-20.686512690892 -64.819087231907
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADVP (JJ much) (JJR happier))))))
+-20.691270924504 -63.722426857756
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADVP (JJ much)) (ADJP (JJR happier)))))
+-20.870040018311 -64.839922350563
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (RB much) (ADJP (JJR happier)))))
+-20.908453995137 -66.517901277712
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (ADJP (JJ much) (JJR happier)))))))
+-20.909217543805 -63.652090254119
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADVP (RB much) (JJR happier))))))
+-21.092871762052 -64.795789308936
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (ADVP (RB much)) (JJR happier))))))
+-21.288400650334 -65.023419711633
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADVP (RB much)) (ADJP (JJR happier))))))
+-21.306993300903 -68.952471658139
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (ADJP (JJ much)) (JJR happier))))))
+-21.491447726508 -65.935516206307
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (S (ADJP (JJ much) (JJR happier))))))
+-21.525892789697 -69.411136525921
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (NP (RB much) (JJR happier)))))))
+-21.657291039349 -69.359171946521
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADVP (RB much)) (NP (JJR happier)))))
+-21.665130718417 -69.113857483894
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (ADJP (ADJP (RB much)) (JJR happier)))))
+-22.106659863282 -66.684615328888
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (JJ much) (JJR happier))))))
+-22.119481777785 -65.949405497430
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (ADVP (JJ much)) (ADJP (JJR happier))))))
+-22.208314723332 -67.066901115324
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (RB much) (ADJP (JJR happier))))))
+-22.249146331105 -67.097111382296
+(S1 (S (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (S (ADJP (RB much) (JJR happier))))))))
+-22.315073756362 -69.577850399633
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD were) (NP (RB much) (JJR happier))))))
+-22.636017366318 -69.269646751765
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD were) (S (NP (RB much) (JJR happier))))))
+-22.727502429341 -69.323975560679
+(S1 (S (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (ADVP (RB much) (JJR happier)))))))
+-22.744562657097 -66.520569291735
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (S (ADJP (RB much) (JJR happier))))))))
+-22.832217811393 -68.162495008662
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD were) (S (ADJP (JJ much) (JJR happier)))))))
+-23.231682555333 -68.747433470119
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP we)) (VP (VBD were) (ADVP (RB much) (JJR happier)))))))
+-23.381465230176 -68.914147439372
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD were) (ADVP (RB much) (JJR happier))))))
+-23.422544244115 -66.687283275808
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD were) (S (ADJP (RB much) (JJR happier)))))))
+-23.966658052396 -68.060433501189
+(S1 (FRAG (S (NP (CC and) (NP (PRP we))) (VP (VBD were) (ADJP (RB much) (JJR happier))))))
+-24.318268755952 -68.524391441941
+(S1 (FRAG (S (NP (CC and) (PRP we)) (VP (VBD were) (ADJP (RB much) (JJR happier))))))
+

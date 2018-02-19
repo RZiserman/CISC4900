@@ -1,0 +1,102 @@
+50 x
+-10.862006873869 -46.880851948810
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (NP (DT that))))))))
+-12.496422536694 -49.238925232048
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (NP (IN that))))))))
+-13.924421525382 -56.144077406943
+(S1 (S (NP (PRP I)) (VP (VB have) (S (VP (TO to) (VP (VB agree) (NP (DT that))))))))
+-14.723133155500 -57.332060771756
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (PRT (IN that))))))))
+-14.743465090930 -57.404401038782
+(S1 (S (NP (PRP I)) (VP (VBP have) (VP (TO to) (VP (VB agree) (NP (DT that)))))))
+-14.921012688484 -55.794164961300
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (ADVP (RB that))))))))
+-15.104974729021 -55.396923568547
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (ADVP (IN that))))))))
+-15.123323138737 -55.332039201385
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (NP (WDT that))))))))
+-15.166900698458 -58.502150690181
+(S1 (S (NP (PRP I)) (VP (VB have) (S (VP (TO to) (VP (VB agree) (NP (IN that))))))))
+-15.178470566880 -59.659232944777
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (PRT (RB that))))))))
+-15.225204103321 -59.517162795031
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (NP (NN that))))))))
+-15.468257736069 -52.795982989944
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (S (ADJP (IN that)))))))))
+-15.512030552596 -57.851915808512
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (VP (TO to) (VP (VB agree) (NP (DT that)))))))))
+-15.621592794720 -62.995595070310
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (PP (IN that))))))))
+-15.622141567134 -62.560685644645
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (IN that)))))))
+-15.872711196871 -57.215530900438
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (ADVP (DT that))))))))
+-16.311326991774 -55.205648666068
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (S (ADVP (IN that)))))))))
+-16.347148457459 -59.893181362766
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (S (NP (DT that)))))))))
+-16.550796302946 -58.523160650015
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (NP (RB that))))))))
+-16.573716353755 -59.762474322020
+(S1 (S (NP (PRP I)) (VP (VBP have) (VP (TO to) (VP (VB agree) (NP (IN that)))))))
+-16.653033608421 -60.209989091750
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (VP (TO to) (VP (VB agree) (NP (IN that)))))))))
+-16.669294527617 -61.808460508590
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (SBAR (DT that))))))))
+-16.735384854351 -63.093087099222
+(S1 (S (NP (PRP I)) (VBP have) (VP (TO to) (VP (VB agree) (NP (DT that))))))
+-16.859261319669 -58.616178235144
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (S (VP (VB agree) (NP (DT that)))))))))
+-17.030290880273 -64.853727951030
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VBP agree) (NP (DT that))))))))
+-17.159086196323 -58.623476639773
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (S (NP (IN that)))))))))
+-17.311846369703 -59.843904832053
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (ADJP (IN that))))))))
+-17.334856508505 -63.368196717864
+(S1 (S (NP (PRP I)) (VP (VB have) (SBAR (S (VP (TO to) (VP (VB agree) (NP (DT that)))))))))
+-17.372508066625 -57.334135358886
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (ADJP (RB that))))))))
+-17.414582634130 -62.096624299761
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (TO to) (VP (VB agree) (NP (DT that)))))))
+-17.535621749997 -65.057390419433
+(S1 (S (NP (PRP I)) (VP (VB have) (S (VP (TO to) (VP (VB agree) (ADVP (RB that))))))))
+-17.593858296305 -63.989724728690
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (SBAR (WDT that))))))))
+-17.714729651662 -60.042790939523
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (S (ADVP (RB that)))))))))
+-17.727451928484 -60.727964959429
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (SBAR (S (NP (DT that))))))))))
+-17.775452890784 -64.660149026680
+(S1 (S (NP (PRP I)) (VP (VB have) (S (VP (TO to) (VP (VB agree) (ADVP (IN that))))))))
+-17.798414327772 -58.247604200746
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (S (ADJP (RB that)))))))))
+-17.938762247450 -64.595264659518
+(S1 (S (NP (PRP I)) (VP (VB have) (S (VP (TO to) (VP (VB agree) (NP (WDT that))))))))
+-18.138735897833 -62.059208448077
+(S1 (S (NP (PRP I)) (VP (VB have) (S (VP (TO to) (VP (VB agree) (S (ADJP (IN that)))))))))
+-18.163348804580 -65.726270001102
+(S1 (S (NP (PRP I)) (VP (VB have) (SBAR (S (VP (TO to) (VP (VB agree) (NP (IN that)))))))))
+-18.260417780479 -63.796394116803
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (ADJP (DT that))))))))
+-18.406581219252 -61.632763427021
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (S (VP (VB agree) (NP (IN that)))))))))
+-18.667404822079 -65.670101003284
+(S1 (S (NP (PRP I)) (VP (VBP have) (PP (TO to) (VP (VB agree) (NP (DT that)))))))
+-18.849422847176 -65.451160382460
+(S1 (S (NP (PRP I)) (VBP have) (VP (TO to) (VP (VB agree) (NP (IN that))))))
+-18.981805150749 -64.468874124201
+(S1 (S (NP (PRP I)) (VP (VB have) (S (VP (TO to) (VP (VB agree) (S (ADVP (IN that)))))))))
+-19.142744229435 -61.826643869862
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (S (NP (WDT that)))))))))
+-19.335559278713 -65.113209491638
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (TO to) (VP (VB agree) (NP (IN that)))))))
+-19.647647807796 -63.767046849646
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (VP (TO to) (VP (VB agree) (S (ADJP (IN that))))))))))
+-19.749789614101 -63.319531939916
+(S1 (S (NP (PRP I)) (VP (VBP have) (VP (TO to) (VP (VB agree) (S (ADJP (IN that))))))))
+-20.452746708728 -63.564408737777
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB agree) (SBAR (S (VP (VBP that))))))))))
+-20.592858869806 -65.729197616041
+(S1 (S (NP (PRP I)) (VP (VBP have) (VP (TO to) (VP (VB agree) (S (ADVP (IN that))))))))
+

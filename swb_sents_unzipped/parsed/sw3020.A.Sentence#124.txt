@@ -1,0 +1,102 @@
+50 x
+-12.207537690329 -45.030615213470
+(S1 (NP (NP (NNP Japan) (POS 's)) (JJ ridiculous)))
+-12.918358310898 -44.829994761794
+(S1 (S (NP (NNP Japan) (POS 's)) (ADJP (JJ ridiculous))))
+-13.224797727571 -41.472236063238
+(S1 (S (NP (NNP Japan)) (VP (VBZ 's) (ADJP (JJ ridiculous)))))
+-14.597447758741 -47.994698412563
+(S1 (S (NP (NNP Japan) (VBZ 's)) (ADJP (JJ ridiculous))))
+-14.923728007177 -49.622075936552
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (JJ ridiculous))))
+-15.006641588170 -50.517800265893
+(S1 (NP (NP (NNP Japan) (POS 's)) (ADJP (JJ ridiculous))))
+-15.116527674257 -50.365182995444
+(S1 (NP (NP (NNP Japan) (POS 's)) (ADVP (JJ ridiculous))))
+-15.314559337518 -52.863758379198
+(S1 (S (NP (NNP Japan) (POS 's)) (VP (JJ ridiculous))))
+-15.408935266083 -53.016130889102
+(S1 (NP (NP (NNP Japan) (POS 's)) (NP (JJ ridiculous))))
+-15.517078448853 -46.068808722652
+(S1 (FRAG (NP (NNP Japan) (POS 's)) (ADJP (JJ ridiculous))))
+-15.547240129432 -50.122031260864
+(S1 (FRAG (NP (NP (NNP Japan) (POS 's)) (JJ ridiculous))))
+-15.690487120490 -48.826845789321
+(S1 (S (NP (NNP Japan)) (VP (POS 's) (ADJP (JJ ridiculous)))))
+-15.856420036992 -52.505779040901
+(S1 (ADJP (NP (NNP Japan) (POS 's)) (JJ ridiculous)))
+-16.103317900226 -55.430528480329
+(S1 (S (ADJP (NP (NNP Japan) (POS 's)) (JJ ridiculous))))
+-16.161460623741 -53.192121669868
+(S1 (S (NP (NNP Japan) (POS 's)) (NP (JJ ridiculous))))
+-16.207543383816 -54.091081146868
+(S1 (NP (NP (NNP Japan) (VBZ 's)) (JJ ridiculous)))
+-16.445584776412 -56.013568954813
+(S1 (NP (NP (NNP Japan) (POS 's)) (VP (JJ ridiculous))))
+-16.901579245040 -52.549043624220
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (ADJP (JJ ridiculous)))))
+-17.037134035009 -53.491702453783
+(S1 (S (NP (NNP Japan) (POS 's)) (ADVP (JJ ridiculous))))
+-17.129030602961 -56.028462029968
+(S1 (S (NP (NNP Japan) (VBZ 's)) (VP (JJ ridiculous))))
+-17.141584555599 -54.374577968126
+(S1 (FRAG (NP (NNP Japan) (POS 's)) (JJ ridiculous)))
+-17.194030507467 -52.950671279961
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (ADVP (JJ ridiculous)))))
+-17.277300367982 -51.913800670923
+(S1 (S (NP (NNP Japan)) (VP (VBZ 's) (NP (JJ ridiculous)))))
+-17.421390608753 -47.345201840079
+(S1 (FRAG (S (NP (NNP Japan)) (VP (VBZ 's) (ADJP (JJ ridiculous))))))
+-17.462757216447 -51.007929196579
+(S1 (NP (NP (NNP Japan)) (VP (VBZ 's) (ADJP (JJ ridiculous)))))
+-17.571344605689 -54.753481089989
+(S1 (NP (NP (NNP Japan) (VBZ 's)) (ADJP (JJ ridiculous))))
+-17.639082347999 -53.898951265901
+(S1 (NP (NP (NNP Japan) (VBZ 's)) (ADVP (JJ ridiculous))))
+-17.707381030845 -53.494543366479
+(S1 (FRAG (NP (NNP Japan) (POS 's)) (NP (JJ ridiculous))))
+-17.875287414565 -55.487915949328
+(S1 (FRAG (ADJP (NP (NNP Japan) (POS 's)) (JJ ridiculous))))
+-17.958100671584 -56.356825320638
+(S1 (S (NP (NNP Japan) (VBZ 's)) (NP (JJ ridiculous))))
+-17.988892259323 -57.388630124545
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (VP (JJ ridiculous)))))
+-18.010309793336 -53.544798656203
+(S1 (S (NP (NNP Japan)) (VP (POS 's) (S (ADJP (JJ ridiculous))))))
+-18.031856878938 -56.656556481212
+(S1 (ADJP (NP (NNP Japan) (VBZ 's)) (JJ ridiculous)))
+-18.113521883605 -53.480938983376
+(S1 (FRAG (NP (NNP Japan) (POS 's)) (ADVP (JJ ridiculous))))
+-18.142527839823 -52.917058134908
+(S1 (FRAG (NP (NNP Japan) (POS 's)) (S (ADJP (JJ ridiculous)))))
+-18.148918888541 -55.462994072815
+(S1 (FRAG (S (NP (NNP Japan) (POS 's)) (ADJP (JJ ridiculous)))))
+-18.162484389157 -57.160122640152
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (NP (JJ ridiculous)))))
+-18.208300442897 -57.781160693495
+(S1 (NP (NP (NNP Japan) (VBZ 's)) (NP (JJ ridiculous))))
+-18.228553070146 -53.297929613692
+(S1 (FRAG (NP (NNP Japan) (VBZ 's)) (ADJP (JJ ridiculous))))
+-18.409470622566 -56.081149248712
+(S1 (FRAG (NP (NP (NNP Japan) (POS 's)) (ADJP (JJ ridiculous)))))
+-18.428875212228 -55.831602273431
+(S1 (S (NP (NNP Japan)) (VP (POS 's) (NP (JJ ridiculous)))))
+-18.552322525585 -58.283183553326
+(S1 (NP (NP (NP (NNP Japan)) (POS 's)) (JJ ridiculous)))
+-18.564046973624 -53.705557720626
+(S1 (S (NP (NNP Japan)) (VP (VBZ 's) (S (ADJP (JJ ridiculous))))))
+-18.760509402852 -56.656406104553
+(S1 (S (NP (NNP Japan) (VBZ 's)) (ADVP (JJ ridiculous))))
+-18.813235103501 -54.999987955604
+(S1 (S (NP (NNP Japan)) (VP (VBZ 's) (VP (JJ ridiculous)))))
+-19.120594020378 -56.664950548435
+(S1 (S (NP (NNP Japan)) (VP (VBZ 's) (ADVP (JJ ridiculous)))))
+-20.662146945189 -58.047163396824
+(S1 (FRAG (NP (NP (NNP Japan)) (POS 's)) (ADJP (JJ ridiculous))))
+-21.073604685016 -57.966725130874
+(S1 (FRAG (NP (NP (NNP Japan)) (VP (VBZ 's) (ADJP (JJ ridiculous))))))
+-21.529848574506 -58.200874770461
+(S1 (S (NP (NNP Japan)) (VP (VBZ 's) (S (NP (JJ ridiculous))))))
+-21.581347876679 -57.786766515097
+(S1 (FRAG (S (NP (NNP Japan)) (VP (VBZ 's) (NP (JJ ridiculous))))))
+

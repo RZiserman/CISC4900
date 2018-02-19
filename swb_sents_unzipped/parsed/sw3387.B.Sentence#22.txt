@@ -1,0 +1,102 @@
+50 x
+-10.662292436155 -39.982646312512
+(S1 (S (VP (VB Get) (VP (VB rid) (PP (IN of) (NP (PRP them)))))))
+-11.639743012308 -43.485508017717
+(S1 (S (VP (VB Get) (S (VP (VB rid) (PP (IN of) (NP (PRP them))))))))
+-11.907463114711 -37.412161170066
+(S1 (S (VP (VB Get) (ADJP (JJ rid) (PP (IN of) (NP (PRP them)))))))
+-12.313360747395 -43.840665356529
+(S1 (VP (VB Get) (VP (VB rid) (PP (IN of) (NP (PRP them))))))
+-12.527776958240 -47.126722082230
+(S1 (S (VP (VB Get) (VP (VBN rid) (PP (IN of) (NP (PRP them)))))))
+-12.699029128613 -41.849545281341
+(S1 (S (VP (VB Get) (S (ADJP (VB rid) (PP (IN of) (NP (PRP them))))))))
+-12.920845752870 -45.257190363397
+(S1 (VP (VB Get) (S (VP (VB rid) (PP (IN of) (NP (PRP them)))))))
+-13.058700308241 -40.171088912188
+(S1 (VP (VB Get) (ADJP (JJ rid) (PP (IN of) (NP (PRP them))))))
+-13.563800656850 -43.248981036156
+(S1 (VP (VB Get) (S (ADJP (VB rid) (PP (IN of) (NP (PRP them)))))))
+-13.929918143660 -49.581533121274
+(S1 (VP (VB Get) (VP (VBN rid) (PP (IN of) (NP (PRP them))))))
+-14.176961511564 -52.873176771984
+(S1 (S (VP (VB Get) (S (VP (VBN rid) (PP (IN of) (NP (PRP them))))))))
+-14.181125693376 -54.844655628926
+(S1 (S (VP (VBP Get) (VP (VBN rid) (PP (IN of) (NP (PRP them)))))))
+-14.645827622367 -48.806489377518
+(S1 (S (VP (VB Get) (VP (JJ rid) (PP (IN of) (NP (PRP them)))))))
+-14.858726012910 -49.076377057770
+(S1 (S (VP (VBP Get) (ADJP (JJ rid) (PP (IN of) (NP (PRP them)))))))
+-15.074614352227 -55.926587119163
+(S1 (S (VP (VB Get) (NP (NP (VB rid)) (PP (IN of) (NP (PRP them)))))))
+-15.166867046645 -51.603735177057
+(S1 (S (VP (VB Get) (ADJP (JJ rid)) (PP (IN of) (NP (PRP them))))))
+-15.507944512340 -56.322582845946
+(S1 (VP (VB Get) (NP (NP (VB rid)) (PP (IN of) (NP (PRP them))))))
+-15.584285738752 -54.524986687310
+(S1 (VP (VB Get) (S (VP (VBN rid) (PP (IN of) (NP (PRP them)))))))
+-15.661530364457 -53.443081692696
+(S1 (S (VP (VB Get) (S (ADJP (VB rid)) (PP (IN of) (NP (PRP them)))))))
+-15.793837388784 -54.703718849125
+(S1 (S (VP (VB Get) (NP (NP (JJ rid)) (PP (IN of) (NP (PRP them)))))))
+-15.798742087164 -51.932314276993
+(S1 (S (VP (VBP Get) (VP (JJ rid) (PP (IN of) (NP (PRP them)))))))
+-15.823318726850 -53.093228461385
+(S1 (S (VP (VB Get) (S (ADJP (JJ rid) (PP (IN of) (NP (PRP them))))))))
+-16.137697874647 -51.884978340393
+(S1 (VP (VB Get) (VP (JJ rid) (PP (IN of) (NP (PRP them))))))
+-16.144408914411 -54.704977550690
+(S1 (VP (VB Get) (NP (NP (JJ rid)) (PP (IN of) (NP (PRP them))))))
+-16.175450468732 -53.447043791241
+(S1 (VP (VB Get) (ADJP (JJ rid)) (PP (IN of) (NP (PRP them)))))
+-16.222428516717 -45.256460916131
+(S1 (S (VP (VB Get) (ADJP (ADJP (JJ rid)) (PP (IN of) (NP (PRP them)))))))
+-16.469534238264 -54.996014686221
+(S1 (S (VP (VB Get) (S (NP (VB rid)) (PP (IN of) (NP (PRP them)))))))
+-16.511912247018 -53.454115710608
+(S1 (S (VP (VB Get) (VP (ADJP (JJ rid)) (PP (IN of) (NP (PRP them)))))))
+-16.538946947514 -57.376969034869
+(S1 (S (VP (VBP Get) (NP (NP (JJ rid)) (PP (IN of) (NP (PRP them)))))))
+-16.636387061996 -54.842517525955
+(S1 (VP (VB Get) (S (ADJP (VB rid)) (PP (IN of) (NP (PRP them))))))
+-16.668315516895 -56.399255855900
+(S1 (S (VP (VB Get) (ADVP (JJ rid) (PP (IN of) (NP (PRP them)))))))
+-16.749347505072 -53.349802476706
+(S1 (S (VP (VB Get) (VP (ADJP (JJ rid) (PP (IN of) (NP (PRP them))))))))
+-16.880429824482 -54.456008862651
+(S1 (VP (VB Get) (S (ADJP (JJ rid) (PP (IN of) (NP (PRP them)))))))
+-17.006358533881 -51.973371761795
+(S1 (S (VP (VB Get) (S (ADJP (ADJP (VB rid)) (PP (IN of) (NP (PRP them))))))))
+-17.102140972780 -47.466024746699
+(S1 (VP (VB Get) (ADJP (ADJP (JJ rid)) (PP (IN of) (NP (PRP them))))))
+-17.240575693682 -52.754262745779
+(S1 (S (VP (VB Get) (VP (VB rid) (PP (IN of) (S (NP (PRP them))))))))
+-17.287344864955 -57.280757936640
+(S1 (S (VP (VB Get) (S (VP (VB rid) (IN of) (NP (PRP them)))))))
+-17.584233941775 -57.166931472657
+(S1 (S (VP (VB Get) (VP (NP (VB rid)) (PP (IN of) (NP (PRP them)))))))
+-17.863532553018 -55.837278198292
+(S1 (S (VP (VB Get) (ADJP (VBN rid) (PP (IN of) (NP (PRP them)))))))
+-17.901054252118 -53.372807516611
+(S1 (VP (VB Get) (S (ADJP (ADJP (VB rid)) (PP (IN of) (NP (PRP them)))))))
+-18.126063833298 -56.532604673482
+(S1 (VP (VB Get) (VP (ADJP (JJ rid)) (PP (IN of) (NP (PRP them))))))
+-18.218026244744 -56.257124374734
+(S1 (S (VP (VB Get) (S (VP (VB rid) (PP (IN of) (S (NP (PRP them)))))))))
+-18.530095917352 -56.428291439581
+(S1 (VP (VB Get) (VP (ADJP (JJ rid) (PP (IN of) (NP (PRP them)))))))
+-18.782189765597 -56.254270597488
+(S1 (VP (VB Get) (S (ADJP (VB rid))) (PP (IN of) (NP (PRP them)))))
+-18.852534591060 -51.132200362060
+(S1 (S (VP (VB Get) (ADJP (JJ rid) (PP (IN of) (S (NP (PRP them))))))))
+-19.124201472134 -56.612281789796
+(S1 (VP (VB Get) (VP (VB rid) (PP (IN of) (S (NP (PRP them)))))))
+-19.307866647136 -54.224841332403
+(S1 (S (VP (VB Get) (S (ADJP (VB rid) (PP (IN of) (S (NP (PRP them)))))))))
+-19.419721403129 -56.570678604092
+(S1 (S (VP (VBP Get) (ADJP (ADJP (JJ rid)) (PP (IN of) (NP (PRP them)))))))
+-20.108873984590 -53.891128104182
+(S1 (VP (VB Get) (ADJP (JJ rid) (PP (IN of) (S (NP (PRP them)))))))
+-20.142709975373 -55.624277087219
+(S1 (VP (VB Get) (S (ADJP (VB rid) (PP (IN of) (S (NP (PRP them))))))))
+

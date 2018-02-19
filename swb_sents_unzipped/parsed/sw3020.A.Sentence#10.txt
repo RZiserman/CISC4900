@@ -1,0 +1,102 @@
+50 x
+-13.681976027342 -53.692421263903
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-15.522605557363 -56.720115099371
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (VP (VB count)))))))
+-15.577960590678 -60.147817791466
+(S1 (S (NP (PRP we)) (NP (DT that) (NN one)) (VP (MD would) (VP (VB count)))))
+-15.884311895551 -63.048277185870
+(S1 (S (VP (VBP we) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))))
+-16.369059182528 -57.228755264378
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (VP (VB count)))))))
+-17.010987959204 -62.713395819789
+(S1 (FRAG (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-17.209235348040 -63.995596199900
+(S1 (S (NP (PRP we)) (NP (DT that) (CD one)) (VP (MD would) (VP (VB count)))))
+-17.413561438162 -64.596823701020
+(S1 (S (NP (PRP we)) (VP (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-17.563460662785 -66.075971021339
+(S1 (S (VP (VBP we) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (VP (VB count))))))))
+-17.960280721710 -64.040427513425
+(S1 (S (NP (PRP we)) (SBAR (WHNP (IN that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-18.521494950737 -66.584611186346
+(S1 (S (VP (VBP we) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (VP (VB count))))))))
+-18.557738077011 -68.980202529260
+(S1 (S (NP (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))))
+-18.567788568560 -71.751120175535
+(S1 (NP (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-18.650550843127 -65.501001365289
+(S1 (FRAG (NP (PRP we)) (SBAR (WHNP (WDT that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-18.790151967422 -69.265172298406
+(S1 (FRAG (S (VP (VBP we) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))))
+-18.846797559225 -65.741089655257
+(S1 (FRAG (NP (PRP we)) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (VP (VB count)))))))
+-19.119020064163 -68.495318542391
+(S1 (S (NP (PRP we)) (VP (IN that) (S (NP (CD one)) (VP (MD would) (VP (VB count)))))))
+-19.136898202659 -71.885799462931
+(S1 (S (NP (NP (PRP we)) (NP (DT that) (NN one))) (VP (MD would) (VP (VB count)))))
+-19.296406166258 -69.028434763613
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VBP count)))))))
+-19.394974489595 -69.934393783156
+(S1 (S (NP (NP (PRP we)) (NP (DT that) (CD one))) (VP (MD would) (VP (VB count)))))
+-19.479390178268 -71.438651048244
+(S1 (S (NP (NP (PRP we)) (SBAR (WHNP (WDT that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))))
+-19.533528373662 -67.098873252177
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (S (VP (VB count))))))))
+-19.553245731742 -69.672772115349
+(S1 (FRAG (S (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))))
+-19.577767150361 -68.528695200757
+(S1 (FRAG (NP (PRP we)) (SBAR (WHNP (WDT that)) (S (NP (CD one)) (VP (MD would) (VP (VB count)))))))
+-19.679595330357 -71.461476119158
+(S1 (S (NP (PRP we) (DT that) (CD one)) (VP (MD would) (VP (VB count)))))
+-19.693251184390 -66.249729820264
+(S1 (FRAG (NP (PRP we)) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (VP (VB count)))))))
+-19.700671097761 -73.327099946750
+(S1 (S (VP (VBP we) (SBAR (WHNP (WDT that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))))
+-19.724424095732 -67.068121348893
+(S1 (S (NP (PRP we)) (SBAR (WHNP (IN that)) (S (NP (CD one)) (VP (MD would) (VP (VB count)))))))
+-19.975699226214 -73.288838397734
+(S1 (FRAG (NP (NP (PRP we)) (SBAR (IN that) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))))
+-20.144229714978 -70.465793218799
+(S1 (S (NP (NP (PRP we)) (SBAR (WHNP (IN that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))))
+-20.160899798434 -69.485680482065
+(S1 (S (NP (PRP we)) (VP (IN that) (S (NP (NN one)) (VP (MD would) (VP (VB count)))))))
+-20.246727836140 -70.366219047887
+(S1 (S (NP (PRP we)) (PP (IN that) (NP (CD one))) (VP (MD would) (VP (VB count)))))
+-20.393547674244 -72.007896364728
+(S1 (S (NP (NP (PRP we)) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (VP (VB count))))))))
+-20.408130906528 -73.236710865074
+(S1 (NP (NP (PRP we)) (SBAR (WHNP (IN that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-20.469300734655 -72.292866133874
+(S1 (FRAG (S (VP (VBP we) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (VP (VB count)))))))))
+-20.551139497652 -69.971560404175
+(S1 (FRAG (NP (PRP we)) (SBAR (WHNP (IN that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count)))))))
+-20.866075356896 -67.576761513900
+(S1 (S (NP (PRP we)) (SBAR (WHNP (IN that)) (S (NP (NN one)) (VP (MD would) (VP (VB count)))))))
+-20.974950256919 -71.246021360777
+(S1 (FRAG (NP (PRP we)) (WHNP (WDT that)) (S (NP (PRP one)) (VP (MD would) (VP (VB count))))))
+-21.240001302197 -72.516536529735
+(S1 (S (NP (NP (PRP we)) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (VP (VB count))))))))
+-21.288096965279 -72.056128599081
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (VP (VBP count)))))))
+-21.354479486683 -70.126567087645
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (S (VP (VB count))))))))
+-21.393875258975 -72.700465950817
+(S1 (FRAG (S (NP (PRP we)) (SBAR (IN that) (S (NP (CD one)) (VP (MD would) (VP (VB count))))))))
+-21.427335022608 -72.801506298881
+(S1 (FRAG (S (VP (VBP we) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (VP (VB count)))))))))
+-21.442153518313 -69.037335365765
+(S1 (FRAG (NP (PRP we)) (SBAR (WHNP (WDT that)) (S (NP (NN one)) (VP (MD would) (VP (VB count)))))))
+-21.519537862517 -72.651521279183
+(S1 (S (NP (NP (PRP we)) (PP (IN that) (NP (CD one)))) (VP (MD would) (VP (VB count)))))
+-22.036748781479 -72.102014349909
+(S1 (S (NP (NP (PRP we)) (IN that) (NP (CD one))) (VP (MD would) (VP (VB count)))))
+-22.101482163444 -72.564768764088
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (VP (VBP count)))))))
+-22.221298028848 -70.635207252652
+(S1 (S (NP (PRP we)) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (S (VP (VB count))))))))
+-22.240328886927 -73.209106115825
+(S1 (FRAG (S (NP (PRP we)) (SBAR (IN that) (S (NP (NN one)) (VP (MD would) (VP (VB count))))))))
+-22.310462941673 -72.999254239643
+(S1 (FRAG (NP (PRP we)) (SBAR (WHNP (IN that)) (S (NP (CD one)) (VP (MD would) (VP (VB count)))))))
+

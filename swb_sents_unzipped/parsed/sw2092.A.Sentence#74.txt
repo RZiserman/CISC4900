@@ -1,0 +1,102 @@
+50 x
+-19.714641123594 -77.423623514469
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))
+-21.694785474734 -81.154627898289
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))))))
+-22.755136745228 -83.307169924222
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack))))))))
+-22.933737752613 -83.951125867073
+(S1 (S (CC And) (NP (PRP I)) (VBD said) (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))
+-22.959913451420 -82.906178688640
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))
+-23.178046604663 -83.696043109611
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))))
+-23.457019769767 -84.799502731202
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (NN backpack)))))))))
+-23.640919124387 -89.757226712027
+(S1 (S (CC And) (NP (NN I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))
+-23.893058892927 -88.391219883838
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VB want) (NP (DT a) (NN backpack))))))))
+-23.994335895496 -88.491651599926
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJR backpack))))))))
+-24.394838904661 -85.010547371695
+(S1 (S (NP (CC And) (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))
+-24.604746079654 -88.572691515985
+(S1 (FRAG (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))))))
+-24.623189143368 -87.038174308042
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack)))))))))
+-24.921342571478 -88.034452678922
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))))))
+-25.202143586737 -87.427047386805
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))
+-25.331857554246 -89.834672276826
+(S1 (S (CC And) (NP (PRP I)) (VBD said) (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack)))))
+-25.345273205851 -92.045826333945
+(S1 (S (NP (CC And) (NN I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))
+-25.437164120906 -88.530507115022
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (NN backpack))))))))))
+-25.466776103447 -92.964053176157
+(S1 (S (CC And) (NP (PRP I)) (VP (VBN said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))
+-25.873203244066 -92.122224267658
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VB want) (NP (DT a) (NN backpack)))))))))
+-25.877843842875 -91.705319837308
+(S1 (FRAG (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack))))))))))
+-25.927193643848 -92.222655983746
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJR backpack)))))))))
+-26.000409073053 -88.789725098393
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack))))))))
+-26.004047669859 -90.078301179866
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (JJ backpack)))))))))
+-26.151439768770 -88.420670945750
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said))) (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))
+-26.247344906296 -89.579589519364
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack)))))))
+-26.322792812639 -89.932853941886
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (DT a) (ADJP (JJ backpack))))))))
+-26.332959840688 -93.548566840492
+(S1 (S (CC And) (NP (PRP I)) (VBD said) (NP (PRP I)) (VP (VB want) (NP (DT a) (NN backpack)))))
+-26.423318929700 -89.178598283782
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD said) (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))))
+-26.425699988938 -92.769106927020
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (NP (DT a)) (NN backpack))))))))
+-26.461721041531 -89.209542887913
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (ADJP (DT a) (JJ backpack)))))))))
+-26.465904857720 -92.153991221057
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (S (NP (PRP I)) (VP (VB want) (NP (DT a) (NN backpack)))))))
+-26.479116708875 -91.327005182964
+(S1 (S (CC And) (NP (PRP I)) (VBD said) (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (NN backpack))))))
+-26.639661472829 -90.455211361712
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (ADJP (DT a) (JJ backpack))))))))
+-26.685990698835 -91.071922326344
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (S (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (NN backpack))))))))
+-26.702292097592 -90.282057905373
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (NN backpack)))))))))
+-26.729288589546 -92.113400294034
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (ADJP (DT a) (JJR backpack))))))))
+-26.795660392637 -92.734943947593
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (ADJP (DT a) (JJR backpack)))))))))
+-27.138331220752 -93.873775058009
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VB want) (NP (DT a) (NN backpack))))))))
+-27.239608220534 -93.974206774096
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJR backpack))))))))
+-27.435334526295 -90.894093781448
+(S1 (S (NP (CC And) (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack))))))))
+-27.858244385730 -91.282966966837
+(S1 (S (NP (CC And) (PRP I)) (VP (VBD said) (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))))
+-27.872100065211 -93.809305563686
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (JJ backpack))))))))))
+-27.874253338441 -92.709947547456
+(S1 (FRAG (S (NP (CC And) (NP (PRP I))) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN backpack)))))))))
+-27.939601296772 -90.811705924754
+(S1 (S (CC And) (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (ADJP (JJ backpack)))))))))
+-28.094387463111 -93.917999088675
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack)))))))))
+-28.137217550834 -92.386426588428
+(S1 (S (NP (CC And) (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (NP (DT a) (NN backpack)))))))))
+-28.159349935370 -93.310593796558
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (S (NP (PRP I)) (VP (VBP want) (NP (DT a) (JJ backpack))))))))
+-28.190845210779 -93.663858325706
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (DT a) (ADJP (JJ backpack)))))))))
+-28.329773436883 -92.940547271733
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (ADJP (DT a) (JJ backpack))))))))))
+

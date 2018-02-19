@@ -1,0 +1,102 @@
+50 x
+-16.665847610160 -57.849692578279
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (X (WP what)))))
+-16.672584410156 -55.536532552215
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what)))))
+-17.138255976898 -58.418286979693
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (X (WP what)))))
+-17.581759582301 -58.052081077161
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what)))))
+-17.902686441600 -62.429557737484
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (X (WP what))))))
+-18.133091504576 -61.349099609380
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you) (WP what)))))
+-18.199975634752 -59.666247045954
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (FRAG (WP what)))))
+-18.200282302159 -59.537583489272
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (NP (WP what))))))
+-18.481724732215 -58.979529385426
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (FRAG (NP (WP what))))))
+-18.653986543909 -64.441406791031
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (WP what)))))
+-18.733469589995 -63.847810164193
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (SBAR (WDT what)))))
+-18.771966653766 -63.098006581626
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WDT what)))))
+-19.104233554645 -54.678567938602
+(S1 (FRAG (NP (PRP I)) (VP (VB tell) (NP (PRP you))) (WHNP (WP what))))
+-19.306861257935 -53.211014138168
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (WHNP (WP what))))
+-19.364647906720 -59.588048550742
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you))) (NP (WP what))))
+-19.379540064759 -64.096184802997
+(S1 (S (NP (PRP I)) (VP (VBP tell) (FRAG (NP (PRP you)) (WHNP (WP what))))))
+-19.517008902610 -63.500783533781
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (FRAG (WP what)))))
+-19.544644269758 -64.576196837435
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (PRP you) (WP what)))))
+-19.549012459187 -64.325802144628
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you) (NP (WP what))))))
+-19.674986462648 -62.866131822310
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you))) (SBAR (WDT what))))
+-19.737309762890 -62.330895337662
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (NP (PRP you)) (NP (WP what))))))
+-19.742737248318 -64.976057073897
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (NP (PRP you)) (NP (WDT what))))))
+-19.768043920073 -62.814065873253
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (FRAG (NP (WP what))))))
+-20.071113518682 -63.647628680339
+(S1 (S (NP (PRP I)) (VP (VB tell) (FRAG (NP (PRP you)) (WHNP (WP what))))))
+-20.226233307600 -65.028972403932
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (PRP you) (NP (WP what))))))
+-20.463437640889 -57.932306073998
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (WP what)))
+-20.478014336297 -63.843536530471
+(S1 (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you))) (NP (WDT what))))
+-20.575219273856 -57.595193728729
+(S1 (FRAG (SBAR (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you))))) (WHNP (WP what))))
+-20.619309662079 -61.926030317666
+(S1 (FRAG (NP (PRP I)) (VP (VB tell) (NP (PRP you))) (WP what)))
+-20.764645367504 -62.477597537675
+(S1 (FRAG (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (X (WP what))))))
+-20.849826678491 -57.220048815241
+(S1 (FRAG (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (WHNP (WP what))))
+-20.984736660115 -64.470373373478
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (X (WP what))))))
+-20.991473468475 -62.157213369128
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (NP (WP what))))))
+-21.107773992375 -65.143689207058
+(S1 (FRAG (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (X (WP what)))))
+-21.191330821815 -64.035572058734
+(S1 (S (NP (PRP I)) (VP (VB tell) (NP (PRP you))) (NP (WP what))))
+-21.208148936666 -62.111391510836
+(S1 (FRAG (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what))))))
+-21.229477897805 -59.067301880350
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WP what))))
+-21.459784539253 -64.135685868393
+(S1 (FRAG (NP (PRP I)) (VP (VB tell) (NP (PRP you)) (NP (WP what)))))
+-21.488070909160 -62.262816744414
+(S1 (FRAG (NP (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (WHNP (WP what))))
+-21.727671620580 -64.728539405383
+(S1 (FRAG (NP (PRP I)) (VP (VBP tell) (NP (PRP you))) (WHNP (WP what))))
+-21.730232313754 -63.216052292113
+(S1 (FRAG (NP (NN I)) (VP (VB tell) (NP (PRP you))) (WHNP (WP what))))
+-21.935394447669 -60.265540732207
+(S1 (FRAG (SBAR (S (NP (PRP I)) (VP (VB tell) (NP (PRP you))))) (WHNP (WP what))))
+-21.995180771444 -61.941340751070
+(S1 (FRAG (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (WP what)))
+-22.034356615566 -62.397345806140
+(S1 (FRAG (NP (PRP I)) (S (VP (VBP tell) (NP (PRP you)))) (WHNP (WP what))))
+-22.175422763719 -61.313316611215
+(S1 (FRAG (NP (PRP I)) (S (VP (VB tell) (NP (PRP you)))) (WHNP (WP what))))
+-22.496373397773 -65.059080118307
+(S1 (FRAG (SBAR (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you))))) (WP what)))
+-22.643557328993 -63.911273880722
+(S1 (FRAG (NP (PRP I)) (S (VP (VBP tell) (NP (PRP you)))) (NP (WP what))))
+-22.706389295128 -65.135456568729
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)))) (NP (WDT what))))
+-22.730506948360 -63.076336557423
+(S1 (FRAG (S (NP (PRP I)) (VP (VB tell) (NP (PRP you)))) (NP (WP what))))
+-22.742687109934 -62.827244685796
+(S1 (FRAG (NP (PRP I)) (S (VP (VB tell) (NP (PRP you)))) (NP (WP what))))
+

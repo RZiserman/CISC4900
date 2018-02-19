@@ -1,0 +1,102 @@
+50 x
+-14.710854721046 -63.343629607812
+(S1 (S (NP (DT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-17.876115391208 -70.878645534700
+(S1 (S (DT That) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-17.934127981575 -66.673297403903
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-18.354463338207 -70.677823089332
+(S1 (S (NP (DT That)) (VP (VBD was) (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-18.803900672334 -69.334300299149
+(S1 (S (WHNP (WDT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-18.892509030378 -70.687445796207
+(S1 (SBAR (IN That) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-19.119988777135 -73.251517167449
+(S1 (S (NP (DT That)) (VP (VBD was) (NP (NNS loads) (PP (IN of) (NP (NN fun)))))))
+-19.433753789497 -66.568708523519
+(S1 (S (NP (WDT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-19.564770203594 -71.811404103400
+(S1 (FRAG (S (NP (DT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-19.661342148460 -68.651525336267
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))))
+-19.759381301480 -70.076298459526
+(S1 (S (NP (IN That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-19.842612890050 -76.736958186395
+(S1 (SBAR (S (NP (DT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-20.007916658341 -73.702487194468
+(S1 (S (NP (DT That)) (VP (VBD was) (S (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-20.316162074988 -70.983916392176
+(S1 (FRAG (SBAR (IN That) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))))
+-20.524955647039 -72.292134525522
+(S1 (NP (WHNP (WDT That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-20.554211670492 -71.801639807592
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-20.589186718291 -77.653448410872
+(S1 (S (NP (DT That)) (VP (VBD was) (VP (NNS loads) (PP (IN of) (NP (NN fun)))))))
+-20.767860223609 -73.322357650066
+(S1 (S (NP (DT That)) (VP (VBD was) (NP (NNS loads))) (PP (IN of) (NP (NN fun)))))
+-20.836587172157 -72.185322637062
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-20.896539445451 -76.070377194796
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))))
+-20.957484284329 -77.221875569267
+(S1 (SINV (NP (DT That)) (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-20.993363941051 -73.272775877910
+(S1 (S (RB That) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-20.994046288501 -73.494681078324
+(S1 (SBAR (WDT That) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-21.061183243322 -76.227554198641
+(S1 (S (NP (DT That)) (VP (VBD was) (SBAR (S (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))))
+-21.224493118111 -75.696438316359
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-21.277793478362 -77.282849993986
+(S1 (S (NP (DT That)) (VP (VBD was) (S (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-21.284928293826 -74.007490974746
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-21.650562017020 -76.966470499808
+(S1 (PP (IN That) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-21.847666959899 -76.805243485337
+(S1 (S (NP (DT That)) (VP (VBD was) (NP (NNS loads) (IN of) (NN fun)))))
+-22.033869980033 -76.692146409322
+(S1 (S (NP (DT That)) (VP (VBD was) (SBAR (S (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-22.165154267664 -76.581184963540
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NNS loads) (PP (IN of) (NP (NN fun))))))))
+-22.286291817439 -77.135134525507
+(S1 (FRAG (NP (DT That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-22.292290099495 -76.668493780670
+(S1 (S (WHNP (WDT That)) (VP (VBD was) (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-22.335590339741 -77.118373837190
+(S1 (FRAG (NP (DT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))
+-22.535570173658 -74.754247696066
+(S1 (SINV (ADVP (DT That)) (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-22.579074974555 -75.926901019746
+(S1 (SINV (ADVP (RB That)) (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-22.581391847294 -77.918284281893
+(S1 (S (NP (DT That)) (VP (VBD was) (SBAR (S (VP (NNS loads) (PP (IN of) (NP (NN fun)))))))))
+-22.922143219446 -73.902902005040
+(S1 (S (NP (WDT That)) (VP (VBD was) (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-23.012142460711 -75.985718907110
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-23.013750303759 -75.747694706284
+(S1 (S (NP (WHNP (WDT That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))))
+-23.038790248172 -77.032155061675
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBD was) (S (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))))
+-23.150882471369 -77.840033852178
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun)))))))))
+-23.345889548641 -77.410491941047
+(S1 (S (NP (IN That)) (VP (VBD was) (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-23.658731470391 -77.227579858329
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NNS loads))) (PP (IN of) (NP (NN fun))))))
+-23.712013357668 -77.515519596922
+(S1 (SINV (ADVP (IN That)) (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-23.729766045586 -76.476596083157
+(S1 (S (NP (WDT That)) (VP (VBD was) (NP (NNS loads) (PP (IN of) (NP (NN fun)))))))
+-23.967828060505 -75.102877579800
+(S1 (FRAG (S (NP (WDT That)) (VP (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-24.203830817528 -77.607279831330
+(S1 (SINV (NP (WDT That)) (VBD was) (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))
+-24.582325829580 -76.927566110175
+(S1 (S (NP (WDT That)) (VP (VBD was) (S (NP (NP (NNS loads)) (PP (IN of) (NP (NN fun))))))))
+-25.604079595848 -76.547436565773
+(S1 (S (NP (WDT That)) (VP (VBD was) (NP (NNS loads))) (PP (IN of) (NP (NN fun)))))
+

@@ -1,0 +1,102 @@
+50 x
+-14.506308613551 -57.532850895848
+(S1 (NP (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (UH uh))))
+-16.423830988789 -57.868399189668
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them))) (ADVP (UH uh))))
+-16.439026688203 -60.547047086665
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (UH uh))))
+-16.804725001482 -64.817293789113
+(S1 (NP (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (NNP uh))))
+-16.991293724235 -63.094961561939
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them))) (NP (UH uh))))
+-17.293242099536 -66.616199066425
+(S1 (NP (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (UH uh)))
+-17.429317458520 -61.486797692974
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (NP (PRP them)) (NP (UH uh))))))
+-17.552721044209 -62.747955930575
+(S1 (NP (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (ADVP (UH uh))))
+-17.609660696895 -60.973499836274
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (ADVP (UH uh))))
+-17.884699581438 -62.445674168716
+(S1 (FRAG (ADVP (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (UH uh))))
+-17.999129839673 -64.489101660853
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (NNP uh))))
+-18.331990976204 -62.607372971884
+(S1 (FRAG (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (ADVP (UH uh))))
+-18.425517340783 -66.165405012230
+(S1 (FRAG (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (UH uh))))
+-18.493571550257 -67.443107566577
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (VP (ADVP (UH uh)))))
+-18.531075564356 -70.630224360468
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (VP (NP (UH uh)))))
+-18.574819681947 -62.673253355817
+(S1 (FRAG (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (UH uh)))))
+-18.593478865575 -68.464757764689
+(S1 (ADVP (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (UH uh)))
+-18.842873350899 -67.114828424442
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (NP (PRP them)) (UH uh)))))
+-18.867209879273 -62.871755550296
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (NP (PRP them)) (ADVP (UH uh))))))
+-18.982095944684 -69.887325729211
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them))) (NP (NNP uh))))
+-19.201290320169 -68.329163168095
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them) (UH uh)))))
+-19.955137447244 -68.441540752543
+(S1 (FRAG (NP (DT Some)) (PP (IN of) (NP (PRP them))) (NP (UH uh))))
+-20.026275770191 -64.582013930090
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)) (ADVP (UH uh)))))
+-20.179859758506 -63.967458386849
+(S1 (FRAG (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (ADVP (UH uh)))))
+-20.409586072776 -66.130840969430
+(S1 (FRAG (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (VP (ADVP (UH uh))))))
+-20.447090086875 -69.317957763321
+(S1 (FRAG (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (VP (NP (UH uh))))))
+-20.514798429016 -70.782571244925
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)) (NP (UH uh)))))
+-20.694748703996 -71.760392964934
+(S1 (FRAG (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (NNP uh))))
+-20.729007340020 -64.802335613309
+(S1 (FRAG (ADVP (RB Some) (PP (IN of) (NP (PRP them)))) (ADVP (UH uh))))
+-20.778238788607 -69.801131276179
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them))) (S (NP (UH uh)))))
+-20.802070531656 -69.445352776162
+(S1 (X (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (NP (NNP uh))))
+-21.041032854515 -67.575331112350
+(S1 (FRAG (ADVP (DT Some) (PP (IN of) (NP (PRP them)))) (ADVP (UH uh))))
+-21.080596337503 -67.732083286685
+(S1 (S (NP (DT Some)) (VP (IN of) (NP (PRP them)) (ADVP (UH uh)))))
+-21.088833260585 -70.869628351416
+(S1 (NP (NP (DT Some)) (PP (PP (IN of) (NP (PRP them))) (ADVP (UH uh)))))
+-21.397456742975 -70.677270701946
+(S1 (FRAG (ADVP (RB Some) (PP (IN of) (NP (PRP them)))) (NP (UH uh))))
+-21.588276395356 -70.695101510723
+(S1 (NP (NP (DT Some)) (PP (IN of) (NP (PRP them))) (SBAR (S (NP (UH uh))))))
+-21.612720305591 -70.423356602792
+(S1 (FRAG (ADVP (RB Some) (PP (IN of) (NP (PRP them))) (UH uh))))
+-22.266394703962 -71.694842207704
+(S1 (S (NP (NP (RB Some)) (PP (IN of) (NP (PRP them)))) (NP (UH uh))))
+-22.318378553999 -65.939716787389
+(S1 (FRAG (NP (NP (RB Some)) (PP (IN of) (NP (PRP them)))) (ADVP (UH uh))))
+-22.362643928579 -69.497748827735
+(S1 (FRAG (NP (NP (RB Some)) (PP (IN of) (NP (PRP them)))) (NP (UH uh))))
+-22.643566045871 -70.967392979256
+(S1 (ADVP (RB Some) (PP (IN of) (NP (PRP them)) (NP (UH uh)))))
+-22.737484883820 -70.055284749304
+(S1 (FRAG (PP (DT Some) (IN of) (NP (PRP them))) (NP (UH uh))))
+-22.966278169360 -68.247134843283
+(S1 (ADVP (RB Some) (PP (IN of) (NP (PRP them)) (ADVP (UH uh)))))
+-23.382461912216 -71.819074677089
+(S1 (FRAG (ADVP (NP (NP (RB Some)) (PP (IN of) (NP (PRP them)))) (UH uh))))
+-23.654068723364 -71.852411254816
+(S1 (FRAG (NP (RB Some)) (PP (IN of) (NP (PRP them))) (NP (UH uh))))
+-24.149658949378 -71.832587163114
+(S1 (FRAG (PP (ADVP (RB Some)) (IN of) (NP (PRP them))) (NP (UH uh))))
+-24.190132542928 -71.767903993563
+(S1 (FRAG (PP (RB Some) (IN of) (NP (PRP them))) (NP (UH uh))))
+-24.297253399512 -69.364967641446
+(S1 (FRAG (ADVP (RB Some) (PP (IN of) (NP (PRP them)) (ADVP (UH uh))))))
+-24.388371230324 -71.275815050397
+(S1 (FRAG (PP (ADVP (DT Some)) (IN of) (NP (PRP them))) (NP (UH uh))))
+-24.765615341909 -69.806441684608
+(S1 (ADVP (ADVP (RB Some)) (PP (IN of) (NP (PRP them)) (ADVP (UH uh)))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.905362467546 -77.642999161331
+(S1 (SBAR (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-22.381431663401 -77.518151944289
+(S1 (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-22.402683282390 -77.869139504643
+(S1 (SBAR (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+-22.611630154692 -76.089324019515
+(S1 (FRAG (SBAR (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))))
+-23.147557080536 -76.315464362828
+(S1 (FRAG (SBAR (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))))
+-23.198312054034 -77.744292287602
+(S1 (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))
+-23.549157642940 -84.152299412012
+(S1 (PP (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-24.491317803573 -84.378439755325
+(S1 (PP (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+-24.768714764061 -86.044223385856
+(S1 (FRAG (PP (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))))
+-24.858380330802 -83.150172663964
+(S1 (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-24.906193696749 -83.878754435945
+(S1 (S (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-24.919201973702 -85.686971348528
+(S1 (S (ADVP (IN like)) (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-24.994531643730 -82.813319731264
+(S1 (S (VP (VB like) (PP (IN in) (NP (NNP Dallas))) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))))
+-25.094783381254 -82.488516676437
+(S1 (FRAG (IN like) (SBAR (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))))
+-25.160652872425 -83.735183372847
+(S1 (S (ADVP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-25.389473826575 -83.039460074577
+(S1 (S (VP (VB like) (PP (IN in) (NP (NNP Dallas))) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))))
+-25.398407652031 -81.627210715843
+(S1 (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-25.400957883177 -83.112781278665
+(S1 (FRAG (IN like) (SBAR (PP (IN in) (NP (NNP Dallas))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))))
+-25.501173520435 -83.376313007277
+(S1 (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))
+-25.649079202594 -84.104894779258
+(S1 (S (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+-25.681762954099 -82.714657019750
+(S1 (FRAG (IN like) (SBAR (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))))
+-25.736082361547 -85.913111691841
+(S1 (S (ADVP (IN like)) (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))
+-25.749481032906 -86.270363729168
+(S1 (FRAG (PP (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))))
+-25.917190310437 -86.491680326856
+(S1 (S (S (ADJP (JJ like) (PP (IN in) (NP (NNP Dallas))))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-25.950604026022 -83.338921621978
+(S1 (FRAG (IN like) (SBAR (PP (IN in) (NP (NNP Dallas))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))))
+-25.977533263058 -83.961323716160
+(S1 (S (ADVP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))
+-26.077957759500 -86.128993712864
+(S1 (FRAG (SBAR (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-26.095440502952 -84.961636005199
+(S1 (S (ADVP (JJ like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-26.103959727876 -81.853351059156
+(S1 (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+-26.127947517069 -84.190452127307
+(S1 (S (VP (VB like) (SBAR (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))))
+-26.190719419916 -85.579322685369
+(S1 (FRAG (IN like) (SBAR (X (PP (IN in) (NP (NNP Dallas)))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))))
+-26.218846179476 -85.158665722036
+(S1 (S (NP (NP (JJ like)) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-26.443651332082 -85.538600853018
+(S1 (S (VP (VB like) (SBAR (PP (IN in) (NP (NNP Dallas))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))))
+-26.486028647601 -85.800074790604
+(S1 (S (ADVP (IN like)) (PP (IN in) (NP (NNP Dallas))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-26.505250954888 -84.759295030781
+(S1 (VP (VB like) (PP (IN in) (NP (NNP Dallas))) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))))
+-26.656234982192 -84.485971032006
+(S1 (S (S (VP (VB like) (PP (IN in) (NP (NNP Dallas))))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))
+-26.659658279914 -84.416592470620
+(S1 (S (VP (VB like) (SBAR (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))))
+-26.665908944133 -86.355134056177
+(S1 (FRAG (SBAR (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VBP mean) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+-26.740365562760 -85.805463028682
+(S1 (FRAG (IN like) (SBAR (X (PP (IN in) (NP (NNP Dallas)))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))))
+-26.781300990797 -85.187776348512
+(S1 (S (ADVP (JJ like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))
+-26.824203875652 -86.670950671653
+(S1 (FRAG (SBAR (IN like) (S (PP (IN in) (NP (NNP Dallas))) (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had))))))))))
+-26.866879857738 -86.392550186127
+(S1 (FRAG (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-26.884151367715 -85.764741196331
+(S1 (S (VP (VB like) (SBAR (PP (IN in) (NP (NNP Dallas))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))))
+-26.904706670109 -85.384806065349
+(S1 (S (NP (NP (JJ like)) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))
+-26.982375539733 -84.985435374094
+(S1 (VP (VB like) (PP (IN in) (NP (NNP Dallas))) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))))
+-27.191580723446 -86.026215133917
+(S1 (S (ADVP (IN like)) (PP (IN in) (NP (NNP Dallas))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+-27.500664152825 -84.712111375319
+(S1 (S (S (VP (VB like) (PP (IN in) (NP (NNP Dallas))))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had))))))))
+-27.529195008407 -86.213113766215
+(S1 (S (ADVP (IN like) (PP (IN in) (NP (NNP Dallas)))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD had)))))))))
+-27.722366356583 -86.618690529440
+(S1 (FRAG (S (PP (IN like) (PP (IN in) (NP (NNP Dallas)))) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+-28.234747084252 -86.439254109528
+(S1 (S (ADVP (IN like) (PP (IN in) (NP (NNP Dallas)))) (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN had)))))))))
+

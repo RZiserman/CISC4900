@@ -1,0 +1,102 @@
+50 x
+-40.798543479194 -128.530676454114
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN watch)) (CC or) (NP (WP what) (NN station))))))))
+-41.120565526924 -130.569710274675
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (NP (NP (NN watch)) (CC or) (NP (WP what) (NN station)))))))))
+-41.376398699466 -127.374290194867
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN watch)) (CC or) (NP (WP what) (NN station))))))))
+-41.671753726378 -130.932372462446
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN watch)) (CC or) (NP (WDT what) (NN station))))))))
+-41.698420747196 -129.413324015428
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (NP (NP (NN watch)) (CC or) (NP (WP what) (NN station)))))))))
+-42.249608946650 -129.775986203199
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NP (NN watch)) (CC or) (NP (WDT what) (NN station))))))))
+-42.716625806822 -130.361336068620
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (NP (PRP you) (NN watch)) (CC or) (NP (WP what) (NN station))))))))
+-43.240659249135 -130.561101165419
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch) (NP (CC or) (NP (WP what) (NN station)))))))))))
+-43.281183272436 -130.707456371114
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch) (NP (CC or) (WP what) (NN station))))))))))
+-43.294481027094 -129.204949809373
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (NP (NP (PRP you) (NN watch)) (CC or) (NP (WP what) (NN station))))))))
+-43.448849002490 -131.562928140317
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch) (FRAG (CC or) (NP (WP what) (NN station)))))))))))
+-43.902442179882 -131.522830429331
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB watch) (FRAG (CC or) (NP (WP what) (NN station))))))))))
+-44.167420404278 -131.606645817704
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (NP (NP (PRP you) (NN watch)) (CC or) (NP (WDT what) (NN station))))))))
+-45.050015382319 -131.507306704307
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (VP (NN channel) (VP (VBP do) (NP (NP (PRP you) (NN watch)) (CC or) (NP (WP what) (NN station)))))))))
+-45.416504467973 -130.728414622800
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (SBAR (SBAR (S (NP (PRP you)) (VP (VBP watch)))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station))))))))))
+-45.893996905634 -126.122836461075
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WDT what) (FRAG (NP (NN station)))))))
+-45.937750811023 -129.362182716140
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NN watch))))) (CC or) (SBAR (WDT what) (FRAG (NP (NN station)))))))
+-45.987325020321 -129.403835185683
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB watch)))))) (CC or) (SBAR (WDT what) (FRAG (NP (NN station)))))))
+-45.994359716124 -129.572028363553
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (SBAR (S (NP (PRP you)) (VP (VBP watch)))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station))))))))))
+-46.442972439510 -126.697871943615
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NN watch))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-46.459767807552 -129.408778541672
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NN watch))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-46.466921784162 -126.169432286607
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-46.493277416120 -123.458525688550
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-46.550942997849 -129.450431011215
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB watch)))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-46.643637837053 -130.735997487150
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB watch))))))) (CC or) (SBAR (WDT what) (FRAG (NP (NN station)))))))
+-46.727675529808 -126.739524413158
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB watch)))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-46.954020261472 -130.540667954294
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you) (NN watch))))) (CC or) (SBAR (WDT what) (FRAG (NP (NN station)))))))
+-47.181947858904 -131.246475956304
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP watch)))))) (CC or) (SBAR (WDT what) (FRAG (NP (NN station)))))))
+-47.230177362581 -130.782593312682
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-47.328223772398 -128.342634402092
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WDT what)) (S (NP (NN station)))))))
+-47.357969445665 -131.581980657157
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NN watch))))) (CC or) (SBAR (WHNP (WDT what)) (S (NP (NN station)))))))
+-47.406909894539 -128.071686714626
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-47.460733937959 -127.876357181769
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (NP (PRP you) (NN watch))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-47.477529306000 -130.587263779826
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you) (NN watch))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-47.527654199095 -127.665641159358
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WDT what)) (FRAG (NP (NN station)))))))
+-47.557399844485 -130.904987414424
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (NN watch))))) (CC or) (SBAR (WHNP (WDT what)) (FRAG (NP (NN station)))))))
+-47.634596960782 -130.946639883967
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB watch)))))) (CC or) (SBAR (WHNP (WDT what)) (FRAG (NP (NN station)))))))
+-47.731951189432 -131.293071781836
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WDT what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP watch)))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-47.758306821391 -128.582165183780
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP watch)))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-47.967943572238 -131.517858180684
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what)) (S (NP (NN channel)) (VP (VB do) (NP (PRP you)) (VP (VB watch))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-47.970906065895 -130.496841212045
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WP what)) (S (NP (NN station)))))))
+-48.067453980106 -131.512159662270
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what)) (S (NP (NN channel)) (VP (VB do) (S (NP (PRP you)) (VP (VB watch)))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-48.270762569875 -130.975724993712
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (NP (PRP you)) (NP (VB watch))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-48.435365268156 -131.529091618288
+(S1 (FRAG (WP what) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-48.516575864503 -130.210220825940
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (S (NP (PRP you)) (NP (NN watch)))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-48.849349441004 -130.652621686911
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what)) (S (VP (NN channel) (VP (VBP do) (S (NP (PRP you)) (VP (VB watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-48.861428705348 -130.090175832835
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what)) (S (NP (NN channel)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-49.290484156502 -131.164219884820
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NN channel)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station))))))
+-49.395800990353 -130.193043174712
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what)) (S (VP (NN channel) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP watch)))))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+-49.831820315278 -130.295372498257
+(S1 (FRAG (WHNP (WP what)) (SBAR (SBAR (WHNP (WP what)) (S (VP (NN channel) (VP (VBP do) (NP (PRP you) (NN watch)))))) (CC or) (SBAR (WHNP (WP what)) (FRAG (NP (NN station)))))))
+

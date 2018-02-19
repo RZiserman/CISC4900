@@ -1,0 +1,102 @@
+50 x
+-25.940721367610 -83.481533978884
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-27.093748749779 -87.820289777241
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (JJ just) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-27.179975035649 -87.578652542985
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (RB just) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-27.621368559581 -84.828370042650
+(S1 (S (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)))) (NP (PRP you)) (VP (VBP know))))
+-27.766490147828 -90.221853126671
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (RB just) (S (NP (PRP you)) (VP (VBP know)))))))
+-28.129082279382 -92.631493786486
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (WHADVP (RB just)) (S (NP (PRP you)) (VP (VBP know)))))))
+-28.215488709302 -90.749263878059
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (ADVP (RB just)) (S (NP (PRP you)) (VP (VBP know)))))))
+-28.354164851198 -91.997696484065
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (ADVP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-28.442835295477 -88.149908700467
+(S1 (S (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)))) (NP (PRP you)) (VP (VBP know))))
+-28.482507280965 -88.361947935124
+(S1 (S (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-28.508827041826 -91.270854361562
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (S (NP (PRP you)) (VP (VB know))))))
+-28.624237102858 -88.291533448798
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (S (NP (PRP you)) (VP (VBP know))))))
+-28.631319352757 -91.211435583175
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (VP (RB just) (S (NP (PRP you)) (VP (VBP know)))))))
+-28.737891032891 -92.645014342995
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (JJ just)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-29.043531245360 -85.508208554438
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-29.133801934369 -93.771463575874
+(S1 (S (CC and) (SBAR (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just))))) (NP (PRP you)) (VP (VBP know))))
+-29.255273281838 -91.144146570787
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just))) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-29.298569093829 -94.394239776754
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (PRT (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-29.304771822155 -91.093413547235
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (S (ADVP (RB just)) (NP (PRP you)) (VP (VBP know)))))))
+-29.702770229877 -94.150708701785
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (VP (JJ just) (S (NP (PRP you)) (VP (VBP know)))))))
+-29.831340756770 -92.700703705932
+(S1 (S (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (JJ just) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-29.897526470570 -92.400862759621
+(S1 (S (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (JJ just)))) (NP (PRP you)) (VP (VBP know))))
+-29.930726920333 -93.977920120852
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (ADJP (JJ just)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-29.945797399933 -94.380517092272
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (ADJP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-29.978511835104 -89.846964368515
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (JJ just) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-30.037988917699 -92.474710725817
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (S (NP (RB just) (PRP you)) (VP (VBP know)))))))
+-30.070988290974 -89.605327134259
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (RB just) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-30.114738342640 -92.459066471675
+(S1 (S (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (RB just) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-30.127926161488 -92.956916385361
+(S1 (S (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)))) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-30.250616804145 -93.701063194380
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-30.490557004982 -94.278877816355
+(S1 (S (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (RB just))) (NP (PRP you)) (VP (VBP know))))
+-30.493710222975 -94.294464639929
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (S (RB just) (NP (PRP you)) (VP (VBP know)))))))
+-30.717829756596 -93.455955447625
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (S (ADJP (RB just) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-30.737004107707 -94.474233003363
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (NP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-30.745281538022 -93.682011117573
+(S1 (S (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (NP (PRP you)))) (VP (VBP know))))
+-30.757779918024 -92.611026676317
+(S1 (S (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (NP (RB just)))) (NP (PRP you)) (VP (VBP know))))
+-30.861114624211 -94.109948232180
+(S1 (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (S (ADVP (RB just)) (NP (PRP you)) (VP (VBP know))))))
+-30.865788221824 -93.456911611007
+(S1 (S (S (CC and) (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADJP (RB just)))) (NP (PRP you)) (VP (VBP know))))
+-30.877554236562 -91.099061623243
+(S1 (S (NP (CC and) (NP (DT the) (NN prison) (NN system))) (VP (VBP are) (ADVP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-30.884996506913 -92.248527593331
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (RB just) (S (NP (PRP you)) (VP (VBP know))))))))
+-30.914396976132 -93.458776957726
+(S1 (S (CC and) (S (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)))) (NP (PRP you)) (VP (VBP know)))))
+-31.293312388200 -91.401560358195
+(S1 (FRAG (CC and) (S (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)))) (NP (PRP you)) (VP (VBP know)))))
+-31.302223416212 -93.171947412198
+(S1 (S (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (S (NP (PRP you)) (VP (VBP know)))))))
+-31.333995068387 -92.775938344720
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (ADVP (RB just)) (S (NP (PRP you)) (VP (VBP know))))))))
+-31.450007058282 -94.024370942454
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (ADVP (RB just)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-31.502636357850 -93.297528868517
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (S (NP (PRP you)) (VP (VB know)))))))
+-31.610048120841 -93.238110040785
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (VP (RB just) (S (NP (PRP you)) (VP (VBP know))))))))
+-31.727046963881 -90.318207955754
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (ADVP (RB just)) (S (NP (PRP you)) (VP (VBP know)))))))
+-32.423278181240 -93.120088013896
+(S1 (FRAG (CC and) (S (NP (DT the) (NN prison) (NN system)) (VP (VBP are) (SBAR (S (ADVP (RB just)) (NP (PRP you)) (VP (VBP know))))))))
+-33.135095833368 -92.519260964604
+(S1 (S (S (NP (CC and) (NP (DT the) (NN prison) (NN system))) (VP (VBP are) (ADVP (RB just)))) (NP (PRP you)) (VP (VBP know))))
+

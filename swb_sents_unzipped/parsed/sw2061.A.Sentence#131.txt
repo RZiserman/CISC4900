@@ -1,0 +1,102 @@
+50 x
+-14.971151628222 -52.457235919290
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT that))))))))
+-15.870976049411 -53.348625199837
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT that))))))))
+-16.800653474751 -55.056001173636
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (IN that))))))))
+-17.823437095941 -55.947390454183
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (IN that))))))))
+-18.884164938587 -65.836245944729
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's)) (NP (DT that)))))))
+-18.964351770873 -65.877887001453
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (POS 's) (NP (DT that))))))))
+-19.066277312643 -65.249713971713
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (NP (DT that))))))))
+-19.108343593877 -58.611223590597
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (RB that))))))))
+-19.152352313846 -61.321158750972
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (IN that))))))))
+-19.298349241457 -59.957407388330
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (WDT that))))))))
+-19.344805297600 -65.537476561827
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PRT (IN that))))))))
+-19.625823862062 -66.769276282000
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (POS 's) (NP (DT that))))))))
+-19.633827359871 -64.744142354336
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADVP (RB that))))))))
+-19.785522642564 -66.727635225275
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's)) (NP (DT that)))))))
+-19.825573525066 -59.502612871144
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (RB that))))))))
+-19.850608056601 -63.983466239784
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (RB that)))))))
+-19.922440714456 -64.854212964726
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADVP (IN that))))))))
+-20.002810590531 -65.649164426479
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (NP (DT that))))))))
+-20.069172358834 -66.074296681011
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NN that))))))))
+-20.175135935035 -62.212548031518
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (IN that))))))))
+-20.194648615646 -60.848796668877
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (WDT that))))))))
+-20.215284325816 -67.227721686239
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (POS 's) (NP (IN that))))))))
+-20.351057291060 -65.635531634882
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADVP (RB that))))))))
+-20.367588918789 -66.428865842374
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PRT (IN that))))))))
+-20.567837987790 -64.874855520330
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (RB that)))))))
+-20.657329739221 -68.059491943495
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (DT that))))))))
+-20.727052345550 -69.700697242912
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PRT (RB that))))))))
+-20.756278233960 -67.848479226059
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (NP (IN that))))))))
+-20.945224338433 -65.745602245273
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADVP (IN that))))))))
+-20.978181431659 -69.526980048440
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (SBAR (DT that))))))))
+-21.001760167006 -68.119110966785
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (POS 's) (NP (IN that))))))))
+-21.098862670023 -66.965685961557
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NN that))))))))
+-21.197637401390 -64.787742581685
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (RB that))))))))
+-21.365185017935 -68.778818713375
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PP (RB that))))))))
+-21.439242017267 -65.850208614777
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (S (ADJP (IN that)))))))))
+-21.557154160410 -68.950881224041
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (DT that))))))))
+-21.575680323189 -69.597369281569
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADVP (DT that))))))))
+-21.589285907560 -69.601084394180
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (SBAR (WDT that))))))))
+-21.779786975208 -70.081263037272
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (S (NP (DT that)))))))))
+-21.815770709061 -68.247929680825
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (NP (IN that))))))))
+-21.914867332579 -65.679131862232
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (RB that))))))))
+-22.082414949124 -69.670207993922
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PP (RB that))))))))
+-22.106946644641 -67.827498816031
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (SBAR (S (NP (DT that))))))))))
+-22.119218296653 -69.683205276504
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (POS 's) (NP (WDT that))))))))
+-22.134925660524 -66.982713148908
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (S (ADVP (IN that)))))))))
+-22.462025641244 -66.741597895323
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (S (ADJP (IN that)))))))))
+-23.006771065830 -68.718888096577
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (SBAR (S (NP (DT that))))))))))
+-23.061498464132 -70.059613879214
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (S (ADVP (RB that)))))))))
+-23.157709281713 -67.874102429454
+(S1 (S (NP (PRP They)) (VP (VB go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (S (ADVP (IN that)))))))))
+-23.544113264382 -70.288247499519
+(S1 (S (NP (PRP They)) (VP (VBP go) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (S (ADJP (RB that)))))))))
+

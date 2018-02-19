@@ -1,0 +1,102 @@
+50 x
+-14.886425372663 -53.097805008096
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-14.888229528591 -52.689458140049
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-15.738438729760 -56.666449317222
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-15.959532282679 -57.603987470171
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-16.137719427595 -53.419614732070
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-16.291446806264 -57.783276587478
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))
+-16.734495534210 -57.027986375990
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-16.974933064368 -59.233135803781
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-17.057855576383 -60.989809173176
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (POS 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-17.296388121022 -60.171242385017
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))
+-17.373723128582 -62.283169044406
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (POS 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-17.401249142422 -63.922660489992
+(S1 (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-17.543649715619 -59.202557375748
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-17.544820856267 -59.743151692421
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-17.595384156401 -63.333141669052
+(S1 (S (NP (RB Well) (DT that)) (VP (POS 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-17.767302075858 -61.633004850361
+(S1 (S (CONJP (RB Well) (RB that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-17.934594349017 -63.361734041490
+(S1 (S (RB Well) (NP (DT that)) (VP (POS 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-18.015606024278 -64.170981414694
+(S1 (SBAR (RB Well) (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))
+-18.035498194050 -61.860315344310
+(S1 (S (NP (RB Well) (WDT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-18.070190408258 -59.911966933211
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-18.224208633310 -63.861888096360
+(S1 (ADJP (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-18.450840797599 -58.717749775719
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-18.530221154389 -59.869671002303
+(S1 (S (INTJ (UH Well)) (NP (IN that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-18.588300474058 -63.007458741228
+(S1 (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))
+-18.605206249087 -58.647987299840
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))
+-18.615381961852 -59.002856367194
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-18.670843397368 -64.075217704716
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (POS 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-18.777542492353 -63.942870622258
+(S1 (ADJP (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-18.809714519884 -60.154777722315
+(S1 (S (INTJ (UH Well)) (NP (WDT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-18.870448655810 -64.500617831157
+(S1 (SINV (CONJP (RB Well) (IN that)) (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))
+-18.942928403471 -63.363092802252
+(S1 (S (ADVP (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-19.005103787948 -64.244032945506
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (POS 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-19.022157732798 -64.144186388649
+(S1 (FRAG (INTJ (UH Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-19.052571727125 -61.763655004337
+(S1 (S (ADVP (RB Well)) (NP (IN that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-19.110032626450 -64.056726555512
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (POS 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-19.289137898336 -64.919244585877
+(S1 (S (ADJP (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))))
+-19.344743659798 -64.020830775563
+(S1 (S (NP (QP (RB Well) (DT that))) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-19.360328411677 -63.618808517859
+(S1 (FRAG (RB Well) (SBAR (DT that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-19.507510838430 -63.771153029544
+(S1 (S (ADVP (RB Well)) (NP (WDT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-19.732636837865 -64.194610253493
+(S1 (ADVP (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-19.734356571959 -63.223120406666
+(S1 (FRAG (NP (NP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))))
+-19.822916955849 -61.354923939807
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN way) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-19.824721111778 -60.946577071760
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN way) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-19.851314036374 -63.703948489134
+(S1 (FRAG (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))
+-19.884608381010 -63.164217828139
+(S1 (FRAG (CONJP (RB Well) (RB that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works)))))))))
+-19.938465922109 -60.191480726276
+(S1 (S (INTJ (RB Well)) (NP (IN that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-20.019067603475 -63.505826535644
+(S1 (FRAG (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))))
+-20.103524077604 -60.476587446289
+(S1 (S (INTJ (RB Well)) (NP (WDT that)) (VP (VBZ 's) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-20.674930312947 -64.923568248933
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN way) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+-21.074211010781 -61.676733663781
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN way) (SBAR (S (NP (PRP it)) (VP (VBZ works))))))))
+

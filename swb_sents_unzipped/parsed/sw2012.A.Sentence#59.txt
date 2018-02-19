@@ -1,0 +1,102 @@
+50 x
+-12.955362057893 -55.539571752392
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated)))))))))
+-13.179013290137 -52.988365490892
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated))))))
+-15.380886369100 -60.065698690061
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated))))))))
+-17.686388847515 -69.646034143584
+(S1 (S (NP (PRP It)) (VP (MD would)) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated))))))))
+-18.182804069494 -63.888538166375
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (VBN pirated)))))))))
+-18.183308298950 -61.337331904875
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (VBN pirated))))))
+-19.380582246670 -69.501473975215
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (S (VP (VBN pirated))))))))))
+-19.396965761068 -74.937316572763
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (NP (VBN pirated)))))))))
+-19.473107192126 -66.950267713715
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (S (VP (VBN pirated)))))))
+-19.681252893312 -72.386110311262
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (NP (VBN pirated))))))
+-19.706009173165 -72.942513873069
+(S1 (S (NP (PRP It)) (VP (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated)))))))
+-19.867546665444 -74.848280393075
+(S1 (S (NP (PRP It)) (VP (MD would) (NP (PRP it)) (S (VP (MD would) (VP (VB be) (VP (VBN pirated))))))))
+-20.115380665714 -72.654472875833
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (ADJP (VBN pirated))))))))))
+-20.324850895169 -70.103266614333
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (ADJP (VBN pirated)))))))
+-20.397157301291 -79.677103122173
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (NP (PRP it)) (S (VP (MD would) (VP (VB be) (VP (VBN pirated)))))))))
+-20.400123799418 -71.552307930458
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (S (VP (VB be) (VP (VBN pirated))))))))))
+-20.519802999324 -75.080767634988
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (PRT (VBN pirated))))))
+-20.525951799868 -77.631973896489
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (PRT (VBN pirated)))))))))
+-20.601498857632 -69.001101531881
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (S (VP (VB be) (VP (VBN pirated)))))))
+-20.663407477913 -68.414665104044
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (VBN pirated))))))))
+-21.140051712456 -71.885924766007
+(S1 (S (NP (PRP It)) (VP (MD would) (ADVP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated)))))))
+-21.207648225805 -74.179447170405
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (MD would) (VP (VB be) (VP (VBN pirated))))))))
+-21.257922843167 -71.468104044402
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (S (ADJP (VBN pirated))))))))))
+-21.350447791411 -68.916897782902
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (S (ADJP (VBN pirated)))))))
+-21.369577399304 -73.795595817865
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (MD would) (VP (VB be) (VP (VBN pirated)))))))
+-21.457563005296 -75.544759793249
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (SBAR (S (VP (VBN pirated)))))))))))
+-21.684390547540 -72.993553531748
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (SBAR (S (VP (VBN pirated))))))))
+-21.695403172817 -78.951046259880
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VP (VB be)) (VP (VBN pirated)))))))))
+-21.832269255089 -74.027600912884
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (S (VP (VBN pirated)))))))))
+-21.979380872274 -79.463443510432
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (NP (VBN pirated))))))))
+-22.017482165060 -76.399839998379
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VP (VB be)) (VP (VBN pirated))))))
+-22.526723974132 -77.180599813502
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (ADJP (VBN pirated)))))))))
+-22.543452187318 -75.618906205190
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (ADVP (PRP it)) (MD would) (VP (VB be) (VP (VBN pirated)))))))
+-22.565196810624 -76.078434868127
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (S (VP (VB be) (VP (VBN pirated)))))))))
+-22.880526328287 -82.158100834157
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (PRT (VBN pirated))))))))
+-22.971914159116 -77.995000557567
+(S1 (S (NP (PRP It)) (VP (MD would)) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (VBN pirated))))))))
+-23.087767294167 -78.190947116364
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (ADVP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated)))))))))
+-23.709609854373 -75.994230982071
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (S (ADJP (VBN pirated)))))))))
+-23.712982016065 -81.011803552416
+(S1 (S (NP (PRP It)) (VP (MD would)) (SBAR (S (NP (PRP it)) (MD would) (VP (VB be) (VP (VBN pirated)))))))
+-23.860021326503 -80.070886730917
+(S1 (S (NP (PRP It)) (VP (MD would) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (SBAR (S (VP (VBN pirated))))))))))
+-23.966707218872 -81.047123605704
+(S1 (S (NP (PRP It)) (VP (MD would) (S (ADVP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN pirated))))))))
+-24.034797880514 -81.635689617764
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (NP (ADJP (VBN pirated)))))))
+-24.496389025249 -80.711403395911
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (SBAR (S (ADJP (VBN pirated)))))))))))
+-24.723216564704 -78.160197134410
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (SBAR (S (ADJP (VBN pirated))))))))
+-24.988530281978 -81.291480276989
+(S1 (S (NP (PRP It)) (VP (MD would) (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (VBN pirated)))))))
+-25.638975546785 -80.862102057054
+(S1 (S (NP (PRP It)) (VP (MD would) (SBAR (S (NP (PRP it)) (VP (MD would) (S (VP (VB be) (ADJP (VBN pirated))))))))))
+-25.641749079590 -80.818000504417
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (S (VP (VB be) (S (VP (VBN pirated))))))))
+-25.821196231399 -78.310895658477
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (S (VP (VB be) (ADJP (VBN pirated)))))))
+-26.422572818481 -80.234891169927
+(S1 (S (NP (PRP It)) (VP (MD would) (ADVP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (VBN pirated)))))))
+-27.423144883574 -82.440469798607
+(S1 (S (NP (PRP It)) (MD would) (NP (PRP it)) (VP (MD would) (S (VP (VB be) (S (ADJP (VBN pirated))))))))
+

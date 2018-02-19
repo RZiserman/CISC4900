@@ -1,0 +1,102 @@
+50 x
+-22.649786276267 -82.053220420584
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-22.725294914393 -84.249122612219
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-23.786540677978 -81.542242770478
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-24.653167560667 -90.123786350323
+(S1 (FRAG (WP what) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-24.890964745215 -92.906139300217
+(S1 (FRAG (WP what) (SBAR (WHNP (WDT what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-24.903155529500 -88.458191809577
+(S1 (FRAG (WHNP (WDT what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-24.922167202900 -92.583019413603
+(S1 (NP (WP what) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-25.027163623459 -90.828064977601
+(S1 (FRAG (WHNP (WDT what)) (SBAR (WHNP (WDT what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-25.219264844025 -90.847334047144
+(S1 (SBAR (WHNP (WP what)) (S (NP (WDT what) (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-25.630778162377 -89.612808700216
+(S1 (FRAG (WP what) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-25.640501074075 -91.026734495574
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-25.673589616923 -92.405573200156
+(S1 (FRAG (WP what) (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-26.039909931211 -87.947214159471
+(S1 (FRAG (WHNP (WDT what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-26.139395081515 -92.783455267282
+(S1 (FRAG (NP (WP what) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))))
+-26.432860156132 -92.870708446962
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-26.444375802710 -89.584788280024
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (NP (IN into))))))))))
+-26.502404720057 -87.756278249807
+(S1 (FRAG (WP what) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-26.519884440836 -91.780690471658
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (NP (IN into))))))))))
+-26.570235570118 -92.715330374152
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (NP (WDT what) (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-26.603134039882 -88.707536869715
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (ADVP (IN into))))))))))
+-26.657220752024 -90.662520205534
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-26.678642678008 -90.903439061350
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (ADVP (IN into))))))))))
+-26.946819192513 -90.515756911708
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-26.952647825292 -89.102164830806
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-26.961027040831 -92.830013571982
+(S1 (FRAG (WHNP (WP what)) (WP what) (SBAR (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))))))
+-27.167691447899 -88.648323259284
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN into))))))))))
+-27.220785480045 -89.045119214624
+(S1 (FRAG (WHNP (WP what)) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-27.243200086026 -90.844225450919
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN into))))))))))
+-27.354711513309 -92.023075754759
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (IN into))))))))))
+-27.444052430477 -87.267774629312
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB get) (PP (IN into)))))))))
+-27.519561068603 -89.463676820946
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WDT what) (NNS ones)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB get) (PP (IN into)))))))))
+-27.581130204421 -89.073810629918
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (NP (IN into))))))))))
+-27.707543576288 -89.545731908451
+(S1 (FRAG (WP what) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-27.739888441592 -88.196559219609
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (ADVP (IN into))))))))))
+-28.355257089610 -88.137345609178
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN into))))))))))
+-28.404295154639 -90.834572902401
+(S1 (FRAG (WHNP (WP what)) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))))
+-28.491465915020 -91.512098104653
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (PRT (IN into))))))))))
+-28.633882250442 -91.664690671022
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VB do) (S (NP (PRP you)) (VP (VB get) (PP (IN into)))))))))
+-28.801181791702 -86.756797045446
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (S (NP (PRP you)) (VP (VB get) (PP (IN into)))))))))
+-28.862073366126 -91.381656083649
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what) (NNS ones)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (ADJP (IN into))))))))))
+-29.189111365451 -87.896147006130
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (S (NP (PRP you)) (VP (VB get) (PP (IN into)))))))))
+-29.262808267690 -92.736608282859
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VBP do) (NP (PRP you)) (VP (VBP get) (PP (IN into)))))))
+-29.572423177192 -91.233974741266
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN into))))))))))
+-29.998827767837 -90.870678433543
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP get) (ADJP (IN into))))))))))
+-30.119965966658 -88.339714083776
+(S1 (FRAG (WP what) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (S (NP (PRP you)) (VP (VB get) (PP (IN into))))))))
+-30.136471614697 -92.894716709783
+(S1 (FRAG (WHNP (WP what)) (SBAR (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do)))) (S (NP (PRP you)) (VP (VBP get) (PP (IN into))))))
+-30.373238128188 -91.677541818911
+(S1 (FRAG (WP what) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN into)))))))))
+-30.769068577797 -89.628555077726
+(S1 (FRAG (WHNP (WP what)) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (S (NP (PRP you)) (VP (VB get) (PP (IN into))))))))
+-31.069989706539 -92.966382812861
+(S1 (FRAG (WHNP (WP what)) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VB get) (PP (IN into)))))))))
+-31.406715403598 -92.970832682951
+(S1 (FRAG (WP what) (WHNP (WP what)) (S (NP (NNS ones)) (VP (VBP do) (S (NP (PRP you)) (VP (VB get) (PP (IN into))))))))
+

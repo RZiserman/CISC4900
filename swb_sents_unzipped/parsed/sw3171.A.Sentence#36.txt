@@ -1,0 +1,102 @@
+50 x
+-43.589779383867 -145.987691062822
+(S1 (S (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-44.418796216406 -142.790050193425
+(S1 (S (CC but) (S (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NNP Disneyworld))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-44.441056760825 -148.423129255516
+(S1 (S (CC but) (INTJ (UH uh)) (NP (NP (NN yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-44.970973346413 -149.752028901785
+(S1 (S (CC but) (NP (NP (UH uh) (NN yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-45.155380919929 -148.070678566763
+(S1 (S (CC but) (S (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))
+-45.371647407623 -147.907264580783
+(S1 (S (CC but) (ADVP (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-45.439740930547 -144.402202534189
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (SBAR (TO to) (S (NP (NNP Disneyworld)) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))))
+-45.592423803136 -148.100493489883
+(S1 (S (FRAG (CC but) (INTJ (UH uh))) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-45.780029716593 -145.953957520779
+(S1 (S (CC but) (S (INTJ (UH uh)) (VP (NNS yours) (PP (TO to) (NP (NNP Disneyworld))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-46.032312744556 -143.727345892748
+(S1 (S (CC but) (SBAR (S (INTJ (UH uh)) (VP (NNS yours) (PP (TO to) (NP (NNP Disneyworld)))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-46.173565321356 -146.183563986498
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld) (NNS sounds)))) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))
+-46.417457092949 -150.405974802732
+(S1 (S (CC but) (ADVP (UH uh)) (NP (NP (NN yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-46.438529997738 -148.511667650620
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld) (NNS sounds))) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))
+-46.573402097353 -149.281052692193
+(S1 (S (CC but) (S (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NNP Disneyworld))))) (VP (VBZ sounds) (NP (DT a) (JJ little) (NN bit)) (ADVP (RBR better)))))
+-46.749606770366 -147.982881635446
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (SBAR (S (NP (NNP Disneyworld)) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))))))
+-46.904666773275 -150.469779300552
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (S (NP (NNP Disneyworld)) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))))
+-46.947210639019 -147.235806700966
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (JJ Disneyworld) (NNS sounds)))) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))
+-46.952071725402 -148.390774177752
+(S1 (S (CC but) (S (NP (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NNP Disneyworld))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-46.993429743911 -146.335727099106
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (S (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))
+-46.994711517447 -147.894956822424
+(S1 (FRAG (CC but) (INTJ (UH uh)) (S (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))
+-47.071781387270 -149.266866203606
+(S1 (S (CC but) (SBAR (S (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NNP Disneyworld)))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-47.073816508568 -148.873028189700
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NP (NNP Disneyworld)) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))))
+-47.138042991510 -149.991162351237
+(S1 (S (CC but) (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NP (JJ Disneyworld) (NNS sounds)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))))
+-47.239605801284 -145.728905543003
+(S1 (S (CC but) (SBAR (S (NP (UH uh)) (VP (NNS yours) (PP (TO to) (NP (NNP Disneyworld)))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-47.302444156491 -150.545010893039
+(S1 (S (CC but) (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NP (NNP Disneyworld) (NNS sounds)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))))
+-47.304668780253 -149.017579384339
+(S1 (S (CC but) (S (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NNP Disneyworld))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))
+-47.320918839048 -150.041648159972
+(S1 (S (CC but) (S (S (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (NNP Disneyworld))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))
+-47.471363818279 -149.563910515835
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NNS yours)) (PP (TO to) (NP (JJ Disneyworld) (NNS sounds))) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))
+-47.528303235751 -148.763132849825
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-47.663820640296 -149.449960210342
+(S1 (FRAG (CC but) (INTJ (UH uh)) (S (NP (NP (NN yours)) (PP (TO to) (NP (NNP Disneyworld)))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))
+-47.687804868833 -146.458063160540
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NP (NNP Disneyworld) (NNS sounds)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))))
+-47.894725165973 -145.904214618737
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NP (JJ Disneyworld) (NNS sounds)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))))
+-47.965636616940 -150.057923787546
+(S1 (S (CC but) (SBAR (S (INTJ (UH uh)) (VP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-47.974415976299 -146.554799069659
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld) (NNS sounds))) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))
+-48.008264754459 -149.163675288373
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NNS yours)) (PP (TO to) (NP (NP (NNP Disneyworld) (NNS sounds)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better))))))
+-48.048936451602 -147.138419857516
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (SBAR (S (VP (TO to) (S (NP (NNP Disneyworld)) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))))))
+-48.164594355893 -150.551394599554
+(S1 (S (CC but) (S (INTJ (UH uh)) (VP (VBZ yours) (PP (TO to) (NP (JJ Disneyworld))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-48.186918681260 -150.218348550226
+(S1 (S (CC but) (SBAR (S (INTJ (UH uh)) (VP (NNS yours) (PP (TO to) (NP (NNP Disneyworld)))))) (VP (VBZ sounds) (NP (DT a) (JJ little) (NN bit)) (ADVP (RBR better)))))
+-48.475261610601 -147.540791398586
+(S1 (S (CC but) (SBAR (S (ADVP (UH uh)) (VP (NNS yours) (PP (TO to) (NP (NNP Disneyworld)))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))
+-48.543409825424 -149.347119782715
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (SBAR (S (PP (TO to) (NP (NNP Disneyworld))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))))
+-48.565023826599 -148.609826746570
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NNS yours)) (PP (TO to) (NP (NP (JJ Disneyworld) (NNS sounds)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better))))))
+-48.693270221421 -149.129662767655
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld))) (SBAR (S (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))))
+-48.733223033551 -150.192896598096
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NNS yours) (S (VP (TO to) (S (NP (NNP Disneyworld)) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))))))
+-48.861991073351 -150.475350869064
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld) (VBZ sounds)))) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))
+-48.918185308403 -149.954875083662
+(S1 (S (CC but) (SBAR (S (INTJ (UH uh)) (VP (NNS yours) (PP (TO to) (NP (NNP Disneyworld)))))) (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))
+-49.022666163962 -147.607041784127
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (JJ Disneyworld) (NNS sounds))) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))
+-49.110317112264 -150.311625523096
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (PP (TO to) (NP (NP (NNP Disneyworld) (VBZ sounds)) (ADVP (NP (DT a) (JJ little) (NN bit)) (RBR better)))))))
+-49.189861226348 -147.993066336407
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (SBAR (S (VP (TO to) (VP (NNP Disneyworld) (S (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))))))))
+-49.556009062566 -150.087926378427
+(S1 (FRAG (CC but) (INTJ (UH uh)) (FRAG (NP (NP (NNS yours)) (PP (TO to) (NP (NNP Disneyworld)))) (S (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better)))))))
+-50.173242032843 -148.179307510346
+(S1 (FRAG (CC but) (INTJ (UH uh)) (NP (NP (NNS yours)) (SBAR (S (VP (TO to) (VP (VB Disneyworld) (SBAR (S (VP (VBZ sounds) (ADJP (NP (DT a) (JJ little) (NN bit)) (JJR better))))))))))))
+

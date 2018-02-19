@@ -1,0 +1,102 @@
+50 x
+-8.391582157229 -37.472062448705
+(S1 (SBAR (IN That) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-9.810829031177 -37.883211553145
+(S1 (FRAG (SBAR (IN That) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-10.739251073558 -37.612052267078
+(S1 (S (NP (DT That)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-10.878062300078 -38.721263307546
+(S1 (S (IN That) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-10.971864125242 -49.105241799978
+(S1 (SBAR (IN That) (S (NP (DT that)) (VP (POS 's) (NP (DT the) (NN problem))))))
+-10.978182516775 -40.907608436831
+(S1 (SBAR (WHNP (WDT That)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-11.415078144626 -42.523870966146
+(S1 (SBAR (WHNP (IN That)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-11.522420729662 -43.113945063534
+(S1 (S (NP (DT That)) (DT that) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-11.545358727825 -41.601235181836
+(S1 (FRAG (IN That) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-11.774821249624 -43.607006681590
+(S1 (SBAR (IN That) (S (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-12.023663815925 -47.052349838432
+(S1 (S (NP (DT That)) (WHNP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-12.101026815844 -44.752316004452
+(S1 (SBAR (IN That) (S (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-12.117690656422 -41.701117408388
+(S1 (NP (WHNP (WDT That)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-12.200154594101 -48.788499003011
+(S1 (FRAG (SBAR (IN That) (S (NP (DT that)) (VP (POS 's) (NP (DT the) (NN problem)))))))
+-12.406057267437 -48.984884312595
+(S1 (PP (IN That) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-12.456472448991 -43.671705563612
+(S1 (SBAR (WHNP (DT That)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-12.596687475130 -46.831395697695
+(S1 (PP (IN That) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-12.632462471807 -47.957949195134
+(S1 (S (NP (DT That) (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-12.741808368279 -44.991528832879
+(S1 (FRAG (WHNP (WDT That)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-12.768306628196 -41.405600555609
+(S1 (S (NP (DT That)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-12.797554369575 -43.576019655037
+(S1 (S (RB That) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-12.811814544327 -42.799730507143
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-13.177859289589 -48.747651184310
+(S1 (FRAG (PP (IN That) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN problem))))))))
+-13.229715446360 -44.018155786030
+(S1 (FRAG (SBAR (IN That) (S (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-13.277587461769 -43.979195753730
+(S1 (S (NP (DT That)) (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-13.417006001431 -47.811957776362
+(S1 (SBAR (WDT That) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-13.452211906557 -44.782144899656
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-13.456387460389 -48.974108923491
+(S1 (S (NP (DT That)) (NP (DT that)) (VP (POS 's) (NP (DT the) (NN problem)))))
+-13.546704349958 -42.461108292377
+(S1 (FRAG (WHNP (WDT That)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-13.553495492581 -45.163465108891
+(S1 (FRAG (SBAR (IN That) (S (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-13.604375799432 -45.110427228633
+(S1 (FRAG (IN That) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-13.752998838448 -48.426876933806
+(S1 (S (NP (RB That) (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-13.944449139371 -47.391363475017
+(S1 (S (NP (IN That) (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-14.069214869598 -44.749554943217
+(S1 (S (IN That) (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-14.088846847968 -48.995375028653
+(S1 (FRAG (SBAR (IN That) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT the) (NN problem))))))))
+-14.261620757452 -45.034661534691
+(S1 (S (IN That) (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-14.263764312974 -47.550495908080
+(S1 (FRAG (IN That) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-14.296072375719 -43.505026335076
+(S1 (S (NP (DT That)) (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-14.332724081900 -44.274927424305
+(S1 (S (NP (IN That)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-14.341136367021 -48.658815199031
+(S1 (SBAR (WHNP (IN That)) (S (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-14.569692661390 -48.187861992577
+(S1 (SBAR (WHNP (WDT That)) (S (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-14.688290682155 -47.447939662529
+(S1 (FRAG (WHNP (WDT That)) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-14.868498610170 -47.042552669716
+(S1 (SBAR (WHNP (WDT That)) (S (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-15.405935714795 -45.286183277228
+(S1 (S (NP (WDT That)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))
+-15.579746801712 -48.685854111355
+(S1 (S (NP (DT That)) (SBAR (S (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-15.847332872538 -48.068475712835
+(S1 (S (NP (IN That)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-16.230953087956 -48.402489700786
+(S1 (NP (WHNP (WDT That)) (S (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem))))))
+-16.357244092591 -47.540544788494
+(S1 (S (NP (DT That)) (SBAR (S (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-16.703773083723 -48.934674740028
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+-17.167372092433 -49.079731565759
+(S1 (S (NP (WDT That)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN problem)))))))
+

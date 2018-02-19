@@ -1,0 +1,102 @@
+50 x
+-8.573065669250 -29.781251719444
+(S1 (NP (PDT all) (DT the) (NNS problems)))
+-9.869133295357 -35.085689286542
+(S1 (NP (PDT all) (NP (DT the) (NNS problems))))
+-10.586382258809 -37.197035205512
+(S1 (NP (DT all) (DT the) (NNS problems)))
+-10.735434754666 -30.811832866733
+(S1 (S (NP (PDT all) (DT the) (NNS problems))))
+-11.633224888964 -41.771494686908
+(S1 (NP (DT all) (NP (DT the) (NNS problems))))
+-11.669045941384 -33.839700748551
+(S1 (FRAG (NP (PDT all) (DT the) (NNS problems))))
+-11.965480385158 -36.594916481806
+(S1 (S (NP (DT all)) (NP (DT the) (NNS problems))))
+-12.029961551432 -39.421975242369
+(S1 (NP (RB all) (DT the) (NNS problems)))
+-12.475491565005 -37.899091555721
+(S1 (X (NP (PDT all) (DT the) (NNS problems))))
+-12.717070908524 -39.544115054700
+(S1 (S (NP (DT all) (DT the) (NNS problems))))
+-12.915367285255 -37.129962508401
+(S1 (S (ADVP (DT all)) (NP (DT the) (NNS problems))))
+-13.057367748074 -39.935369621182
+(S1 (FRAG (NP (PDT all) (NP (DT the) (NNS problems)))))
+-13.271564930196 -39.565120377305
+(S1 (FRAG (RB all) (NP (DT the) (NNS problems))))
+-13.400388232846 -41.227098389824
+(S1 (S (NP (PDT all) (NP (DT the) (NNS problems)))))
+-13.611130335461 -41.395023210699
+(S1 (FRAG (NP (DT all) (DT the) (NNS problems))))
+-14.027538309407 -44.502052226346
+(S1 (S (NP (DT all) (NP (DT the) (NNS problems)))))
+-14.392537224224 -45.482257127995
+(S1 (X (NP (PDT all) (NP (DT the) (NNS problems)))))
+-14.420292685279 -44.862993944796
+(S1 (S (ADVP (RB all)) (NP (DT the) (NNS problems))))
+-14.485216335447 -45.231669740580
+(S1 (NP (ADVP (DT all)) (DT the) (NNS problems)))
+-14.511634886142 -45.314874737013
+(S1 (X (NP (DT all) (DT the) (NNS problems))))
+-14.543453984554 -46.116493060897
+(S1 (FRAG (NP (DT all) (NP (DT the) (NNS problems)))))
+-14.622208502774 -45.273539887328
+(S1 (S (NP (PDT all)) (NP (DT the) (NNS problems))))
+-14.787073596589 -47.567314982195
+(S1 (NP (NP (DT all)) (NP (DT the) (NNS problems))))
+-14.815471006808 -42.079833897724
+(S1 (S (NP (RB all) (DT the) (NNS problems))))
+-14.912170639181 -44.283709088391
+(S1 (FRAG (ADVP (RB all)) (NP (DT the) (NNS problems))))
+-14.957252050455 -43.466856633515
+(S1 (FRAG (NP (RB all) (DT the) (NNS problems))))
+-15.002136042995 -46.727835859058
+(S1 (X (DT all) (NP (DT the) (NNS problems))))
+-15.248425904976 -45.266363642010
+(S1 (X (ADVP (RB all)) (NP (DT the) (NNS problems))))
+-15.334034460090 -49.236770593627
+(S1 (NP (NP (PDT all)) (NP (DT the) (NNS problems))))
+-15.430954095401 -44.456342982137
+(S1 (X (ADVP (DT all)) (NP (DT the) (NNS problems))))
+-15.452162735821 -44.814377694246
+(S1 (FRAG (ADVP (DT all)) (NP (DT the) (NNS problems))))
+-15.458140143918 -49.587453448907
+(S1 (X (NP (DT all) (NP (DT the) (NNS problems)))))
+-15.542988189687 -47.755782728352
+(S1 (NP (ADVP (RB all)) (DT the) (NNS problems)))
+-15.924436311651 -47.526247463894
+(S1 (X (NP (RB all) (DT the) (NNS problems))))
+-15.983207439483 -46.993703292053
+(S1 (NP (NP (PDT all) (DT the)) (NNS problems)))
+-16.274273432027 -46.665073765121
+(S1 (FRAG (S (NP (PDT all) (DT the) (NNS problems)))))
+-16.835919361822 -46.695890398893
+(S1 (S (NP (PDT all) (DT the)) (NP (NNS problems))))
+-16.892087682376 -46.393704177379
+(S1 (S (NP (RB all)) (NP (DT the) (NNS problems))))
+-17.048036691829 -47.334862215382
+(S1 (S (NP (ADVP (DT all)) (DT the) (NNS problems))))
+-17.322892971515 -53.422778119490
+(S1 (NP (NP (DT all) (DT the)) (NNS problems)))
+-17.584449886361 -49.290030986911
+(S1 (FRAG (NP (ADVP (DT all)) (DT the) (NNS problems))))
+-17.609648131867 -50.327360064806
+(S1 (NP (NP (PDT all) (DT the)) (NP (NNS problems))))
+-17.620935799652 -50.583830666135
+(S1 (S (NP (DT all) (DT the)) (NP (NNS problems))))
+-17.899170698875 -53.385467075056
+(S1 (FRAG (NP (NP (PDT all)) (NP (DT the) (NNS problems)))))
+-17.905184220513 -52.288117089983
+(S1 (FRAG (S (NP (DT all)) (NP (DT the) (NNS problems)))))
+-18.397771492104 -53.349421695460
+(S1 (X (NP (ADVP (DT all)) (DT the) (NNS problems))))
+-18.414285712830 -49.890193260805
+(S1 (S (NP (ADVP (RB all)) (DT the) (NNS problems))))
+-18.488194608476 -49.997608386853
+(S1 (S (NP (NP (PDT all) (DT the)) (NNS problems))))
+-18.654671624169 -51.881905840781
+(S1 (FRAG (NP (ADVP (RB all)) (DT the) (NNS problems))))
+-19.065677378476 -51.739978300836
+(S1 (FRAG (NP (NP (PDT all) (DT the)) (NNS problems))))
+

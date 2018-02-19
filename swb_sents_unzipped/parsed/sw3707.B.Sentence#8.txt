@@ -1,0 +1,102 @@
+50 x
+-25.191814507108 -87.205455440934
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-26.270463107667 -85.691853176854
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))
+-27.000194715314 -88.626838397124
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-27.031760044970 -90.320143348280
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-27.130599511633 -93.222973114194
+(S1 (S (CC and) (NP (PRP we)) (VP (VBN watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-27.235862897173 -90.834147772924
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-27.548566724258 -91.722213218006
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-27.588629925021 -89.358704161606
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-27.730635345633 -87.673628311421
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (DT this) (NN summer)))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))
+-27.886573142345 -91.006677850960
+(S1 (S (CC and) (NP (PRP we)) (VP (VBN watched) (NP (PRP it)) (NP (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))
+-28.368695577487 -90.441856437543
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (VP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-28.911059968575 -95.234344816456
+(S1 (S (CC and) (NP (PRP we)) (VP (VP (VBD watched) (NP (PRP it)) (NP (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-28.955283255675 -93.316412063794
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (SBAR (S (NP (PRP it)) (VP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-29.007326943722 -95.291678363849
+(S1 (X (CC and) (S (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-29.230868905085 -91.741526224002
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-29.298930953619 -95.222336428313
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (ADVP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-29.410663956006 -93.948835544644
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-29.564092956696 -97.194935223236
+(S1 (S (CC and) (NP (PRP we)) (VP (VBN watched) (S (NP (PRP it)) (NP (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-29.587271368667 -94.836901006616
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-29.599332479848 -96.201764575247
+(S1 (S (CC and) (NP (PRP we)) (VP (VBN watched) (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-29.648429590848 -95.240638290931
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-29.800906247974 -98.553074552353
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBN watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-30.065666027580 -92.473391988484
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-30.073665778558 -98.312580867550
+(S1 (X (CC and) (S (NP (PRP we)) (VP (VBN watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-30.191095608843 -96.967290713009
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (NP (PRP it)) (NP (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-30.215929453892 -98.244752750227
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (SBAR (S (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-30.273618576393 -97.259327774739
+(S1 (S (CC and) (NP (PRP we)) (VP (VBN watched) (S (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-30.306741231547 -96.621494722478
+(S1 (S (CC and) (NP (PRP we)) (VP (VBN watched) (S (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-30.450521325511 -97.513508999246
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (SBAR (S (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-30.471851957259 -93.556544264422
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (VP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-30.497030785514 -94.353512109494
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (PP (NP (DT this) (NN summer)) (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-30.680165673680 -98.137418282445
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBN watched) (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-30.976971302594 -96.713061426947
+(S1 (X (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-30.991102252043 -98.638585552685
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (S (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-31.002126246144 -96.431099800327
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (SBAR (S (NP (PRP it)) (VP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))))
+-31.075173428413 -97.978369849929
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (ADVP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-31.079546629969 -98.337023938934
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (ADVP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-31.565024412301 -97.444927191429
+(S1 (X (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-31.580522759577 -95.454767750649
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (ADVP (PRP it)) (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))
+-31.618073949719 -96.662021355937
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-31.709125755823 -98.869330527041
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (NP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-31.936618017933 -95.745120117950
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (PRP it))) (PP (NP (DT this) (NN summer)) (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))
+-31.981435679776 -95.596298296577
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (PP (NP (DT this) (NN summer)) (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-32.162606511739 -97.468200050136
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (NP (PRP it)) (PP (NP (DT this) (NN summer)) (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-32.206127059426 -97.393887120419
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+-32.345090064767 -98.528079467366
+(S1 (X (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (VP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-32.986192711893 -98.477039396357
+(S1 (FRAG (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (VP (NP (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))))
+-33.808321436265 -97.805362596550
+(S1 (S (CC and) (NP (PRP we)) (VP (VBD watched) (NP (ADVP (PRP it)) (DT this) (NN summer))) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))
+-33.839233015802 -98.569455691291
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (NP (ADVP (PRP it)) (DT this) (NN summer)) (PP (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months)))))))
+-34.431902259547 -98.710986123455
+(S1 (S (CC and) (S (NP (PRP we)) (VP (VBD watched) (S (NP (PRP it)) (PP (NP (DT this) (NN summer)) (IN for) (NP (QP (CD two) (TO to) (CD three)) (NNS months))))))))
+
