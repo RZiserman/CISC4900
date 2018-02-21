@@ -1,0 +1,102 @@
+50 x
+-29.012402099938 -90.239139692395
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company) (QP (CC or) (RB not))))))))))))
+-29.017097619073 -90.670424916697
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company) (CC or) (RB not)))))))))))
+-30.263965351190 -93.517957831781
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (NP (DT a) (JJ private) (NN company)) (CC or) (RB not)))))))))))
+-31.095346470040 -90.154643622118
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))) (CC or) (RB not))))))
+-31.202289956819 -97.411766160965
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))))) (CC or) (RB not))))))))
+-31.218340742410 -94.525506378815
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))) (CC or) (RB not)))))))))
+-31.369592772698 -94.535340871243
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (PP (IN by) (NP (DT a) (JJ private) (NN company))) (CC or) (RB not))))))))))
+-31.850363194595 -91.937118351270
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))))) (CC or) (RB not)))
+-31.894721446867 -96.042168246053
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (UCP (PP (IN by) (NP (DT a) (JJ private) (NN company))) (CC or) (ADVP (RB not)))))))))))
+-31.964363348888 -97.591653901625
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (NP (DT a) (JJ private) (NN company)) (QP (CC or) (RB not))))))))))))
+-32.052105136960 -95.844290862974
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (UCP (NP (DT a) (JJ private) (NN company)) (CC or) (ADVP (RB not))))))))))))
+-32.069735611678 -96.107629825984
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (NP (DT a) (JJ private) (NN company)) (CC or) (NP (RB not))))))))))))
+-32.215461510614 -99.470749619822
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))) (FRAG (CC or) (RB not))))))))))
+-32.252830408049 -91.835954257150
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))))))) (CC or) (FRAG (ADVP (RB not))))))))
+-32.433487129838 -92.438157789600
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (UCP (NP (DT a) (JJ private) (NN company)) (CC or) (ADJP (RB not))))))))))))
+-32.650778369988 -98.562203447675
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company) (QP (CC or) (RB not))))))))))
+-32.655473886334 -98.993488671977
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company) (CC or) (RB not)))))))))
+-32.786057127512 -95.816267225743
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))))))) (CC or) (FRAG (RB not)))))))
+-32.828081554768 -97.805052358695
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))) (CC or) (RB not)))))
+-32.977464613706 -97.118228660913
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company) (QP (CC or) (RB not))))))))))))
+-32.982160077084 -97.549513690451
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company) (CC or) (RB not)))))))))))
+-33.207878633483 -97.073583468036
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))) (CC or) (VP (ADVP (RB not)))))))))))
+-33.238329696463 -91.272928448503
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))))) (CC or) (FRAG (ADVP (RB not)))))
+-33.287862100430 -101.449715721754
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))) (CC or) (RB not)))))))
+-33.334148345801 -101.081155151323
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (PP (IN by) (NP (DT a) (JJ private) (NN company))) (CC or) (PP (RB not)))))))))))
+-33.365498526194 -100.199267891937
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))) (CC or) (RB not))))
+-33.399249792403 -101.595602663631
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (UCP (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))) (CC or) (ADVP (RB not))))))))))
+-33.443755513645 -101.067836941034
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))))) (CC or) (VP (ADVP (RB not))))))))))
+-33.495918964503 -94.695975101776
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))))) (CC or) (FRAG (RB not))))
+-33.511329330997 -100.097088717331
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (NP (DT a) (JJ private) (NN company)) (FRAG (CC or) (RB not))))))))))))
+-33.604323176991 -100.383265152832
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))) (CC or) (RB not)))))))))
+-33.659223762413 -100.871465089338
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (NP (DT a) (JJ private) (NN company)) (NP (QP (CC or) (RB not)))))))))))))
+-33.661909027707 -96.600793771883
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (UCP (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))) (CC or) (ADJP (RB not))))))))))
+-34.013882560020 -97.033732578308
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))) (CC or) (RB not))))))
+-34.136289818945 -100.593218807306
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (NP (DT a) (JJ private) (NN company)) (CC or) (RB not)))))))))))
+-34.590870068196 -100.369924004553
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))) (CC or) (RB not))))
+-34.617178092235 -97.802437399244
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))) (CC or) (FRAG (ADVP (RB not))))))))
+-34.686119922264 -100.780352208110
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))) (CC or) (FRAG (ADVP (RB not)))))))))
+-34.864154379402 -98.979241026571
+(S1 (S (NP (PRP I)) (VP (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))))))))) (CC or) (VP (ADVP (RB not))))))
+-34.912071244465 -100.197216899741
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (UCP (PP (IN by) (NP (DT a) (JJ private) (NN company))) (CC or) (NP (RB not)))))))))))
+-35.150404820062 -101.782750367837
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))) (CC or) (FRAG (RB not)))))))
+-35.317285555574 -98.816207307461
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))))) (CC or) (RB not)))
+-35.353458430565 -101.435035026163
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (UCP (PP (IN by) (NP (DT a) (JJ private) (NN company))) (CC or) (ADJP (RB not)))))))))))
+-35.758718316241 -98.715043213341
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))))))) (CC or) (FRAG (ADVP (RB not))))))))
+-35.946446713031 -96.020536831908
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))))) (CC or) (FRAG (ADJP (RB not)))))
+-36.071863385948 -100.761221544880
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (UCP (NP (DT a) (JJ private) (NN company)) (CC or) (ADJP (RB not))))))))))
+-36.131577184242 -99.815379900246
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (UCP (PP (IN by) (NP (DT a) (JJ private) (NN company))) (CC or) (S (ADJP (RB not))))))))))))
+-36.265282287993 -100.801585081151
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company))))))) (CC or) (FRAG (ADJP (RB not))))))))
+-36.705252054655 -98.152017404693
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))))) (CC or) (FRAG (ADVP (RB not)))))
+-36.962841336634 -101.575064057967
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (VBN done) (PP (IN by) (NP (DT a) (JJ private) (NN company)))))))))) (CC or) (FRAG (RB not))))
+

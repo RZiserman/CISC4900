@@ -1,0 +1,102 @@
+50 x
+-14.018965228643 -45.249077769454
+(S1 (ADVP (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government)))))
+-14.051734669703 -40.298340620065
+(S1 (FRAG (RB Even) (RB not) (PP (IN for) (NP (NN government)))))
+-14.288312236347 -43.715691284161
+(S1 (FRAG (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government)))))
+-14.655292657489 -43.148944892722
+(S1 (ADJP (RB Even) (RB not) (PP (IN for) (NP (NN government)))))
+-14.673432605969 -42.187232128815
+(S1 (FRAG (ADVP (RB Even)) (RB not) (PP (IN for) (NP (NN government)))))
+-14.773512689625 -46.088417673613
+(S1 (ADVP (RB Even) (RB not) (PP (IN for) (NP (NN government)))))
+-14.845987488111 -48.639820220689
+(S1 (NP (RB Even) (RB not) (IN for) (NN government)))
+-15.796653003232 -46.532345923523
+(S1 (FRAG (ADVP (RB Even) (RB not) (PP (IN for) (NP (NN government))))))
+-15.951141787219 -46.416941180192
+(S1 (PP (RB Even) (RB not) (IN for) (NP (NN government))))
+-15.985992144989 -47.159110409913
+(S1 (PP (RB Even) (RB not) (PP (IN for) (NP (NN government)))))
+-15.995666360791 -45.516627688392
+(S1 (FRAG (ADJP (RB Even) (RB not) (PP (IN for) (NP (NN government))))))
+-16.251344886493 -50.527845464778
+(S1 (ADJP (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government)))))
+-16.298461202518 -50.840163538639
+(S1 (S (ADJP (RB Even) (RB not) (PP (IN for) (NP (NN government))))))
+-16.547667811815 -47.986321202091
+(S1 (PP (ADVP (RB Even)) (RB not) (PP (IN for) (NP (NN government)))))
+-16.596547011066 -53.235637621705
+(S1 (X (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government)))))
+-16.682757366707 -50.723493768218
+(S1 (FRAG (ADVP (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government))))))
+-16.926069568250 -48.464995700920
+(S1 (PP (ADVP (RB Even)) (RB not) (IN for) (NP (NN government))))
+-17.043518215481 -53.880560125185
+(S1 (S (ADJP (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government))))))
+-17.235666708783 -49.325563645690
+(S1 (FRAG (ADVP (JJ Even)) (RB not) (PP (IN for) (NP (NN government)))))
+-17.261533019828 -49.264299243303
+(S1 (FRAG (NP (NP (RB Even) (RB not)) (PP (IN for) (NP (NN government))))))
+-17.361925613899 -48.765656432031
+(S1 (FRAG (NP (RB Even) (RB not)) (PP (IN for) (NP (NN government)))))
+-17.383758987152 -51.748231983283
+(S1 (ADVP (RB Even) (RB not) (IN for) (NN government)))
+-17.557524574114 -52.788451343196
+(S1 (FRAG (ADJP (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government))))))
+-17.626057800140 -49.009444928075
+(S1 (FRAG (RB Even) (PP (RB not) (IN for) (NP (NN government)))))
+-17.660497694583 -52.054511074899
+(S1 (PP (CONJP (RB Even) (RB not)) (PP (IN for) (NP (NN government)))))
+-17.700771931138 -47.921475891590
+(S1 (ADJP (ADJP (RB Even) (RB not)) (PP (IN for) (NP (NN government)))))
+-17.930967994943 -54.023569583475
+(S1 (S (VP (VB Even) (PP (RB not) (IN for) (NP (NN government))))))
+-17.955102357511 -50.653177959445
+(S1 (ADJP (RB Even) (PP (RB not) (IN for) (NP (NN government)))))
+-17.960813505771 -50.998701579384
+(S1 (FRAG (CONJP (RB Even) (RB not) (IN for)) (NP (NN government))))
+-17.995925701789 -53.503938415956
+(S1 (FRAG (VP (ADVP (RB Even) (RB not)) (PP (IN for) (NP (NN government))))))
+-18.068554218818 -53.258525623201
+(S1 (S (ADJP (RB Even) (PP (RB not) (IN for) (NP (NN government))))))
+-18.077237634899 -50.523902126262
+(S1 (PP (RB Even) (PP (RB not) (IN for) (NP (NN government)))))
+-18.209439202229 -52.129718240162
+(S1 (S (ADVP (RB Even)) (ADJP (RB not) (PP (IN for) (NP (NN government))))))
+-18.226477962967 -50.336771685008
+(S1 (FRAG (RB Even) (PP (RB not) (PP (IN for) (NP (NN government))))))
+-18.301099097241 -51.286587189386
+(S1 (FRAG (ADVP (RB Even) (RB not) (IN for) (NN government))))
+-18.367311590017 -51.896031187479
+(S1 (FRAG (PP (RB Even) (RB not) (PP (IN for) (NP (NN government))))))
+-18.590649346238 -52.309122182372
+(S1 (FRAG (ADVP (RB Even)) (ADVP (RB not) (PP (IN for) (NP (NN government))))))
+-18.645831045363 -52.528249169712
+(S1 (S (ADJP (ADJP (RB Even) (RB not)) (PP (IN for) (NP (NN government))))))
+-18.736390641226 -52.091540107751
+(S1 (FRAG (PP (ADVP (RB Even)) (RB not) (PP (IN for) (NP (NN government))))))
+-18.781160032864 -49.475950479870
+(S1 (FRAG (ADJP (ADJP (RB Even) (RB not)) (PP (IN for) (NP (NN government))))))
+-18.799450275991 -52.473030720553
+(S1 (FRAG (PP (RB Even) (RB not) (IN for) (NP (NN government)))))
+-18.811394537995 -51.426775272196
+(S1 (FRAG (ADVP (RB Even)) (PP (RB not) (IN for) (NP (NN government)))))
+-18.849814045927 -51.652291456913
+(S1 (FRAG (RB Even) (RB not) (NP (IN for) (NN government))))
+-18.902045418288 -50.003708195508
+(S1 (FRAG (RB Even) (ADJP (RB not) (PP (IN for) (NP (NN government))))))
+-18.936500147405 -50.070311556912
+(S1 (FRAG (ADVP (RB Even)) (ADVP (RB not)) (PP (IN for) (NP (NN government)))))
+-18.945604327131 -53.305913566910
+(S1 (FRAG (RB Even) (RB not) (PP (IN for) (NN government))))
+-18.993701000099 -52.425700995182
+(S1 (FRAG (RB Even) (ADVP (RB not)) (PP (IN for) (NP (NN government)))))
+-19.173195260821 -52.754102029129
+(S1 (FRAG (ADVP (RB Even)) (PP (RB not) (PP (IN for) (NP (NN government))))))
+-19.247510788361 -51.899737459940
+(S1 (FRAG (ADJP (RB Even) (PP (RB not) (IN for) (NP (NN government))))))
+-19.589351431405 -53.889383366487
+(S1 (FRAG (PP (ADVP (RB Even)) (RB not) (IN for) (NP (NN government)))))
+

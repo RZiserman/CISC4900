@@ -1,0 +1,102 @@
+50 x
+-23.527954373372 -79.143779626752
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-24.855667642976 -88.262987975885
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (NP (JJ real) (JJ tall))))))))
+-24.923204557289 -82.047836702805
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))
+-25.287205518540 -85.147743624805
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ real) (JJ tall))))))))
+-25.524291339207 -86.450673954915
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB real)) (ADJP (JJ tall))))))))
+-26.153934676410 -88.880121036689
+(S1 (S (NP (PRP I)) (VP (NN mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-26.506620575878 -89.981897613673
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (NP (RB real) (JJ tall))))))))
+-26.526426163388 -88.202170276660
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB real) (JJ tall))))))))
+-26.529006466132 -88.027404970853
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-26.622794096728 -86.595453132766
+(S1 (S (NP (PRP I)) (VP (VBP mean)) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))
+-26.665375308634 -87.846937812657
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (VP (JJ tall))))))))
+-26.665698532107 -85.506465764241
+(S1 (S (NP (PRP I)) (VP (VBP mean) (PP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-26.964736914286 -88.104917621176
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (ADVP (RB real)) (JJ tall))))))))
+-27.263110082531 -89.174004072554
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (S (ADJP (RB real) (JJ tall)))))))))
+-27.662504760328 -91.784178112742
+(S1 (S (NP (PRP I)) (VP (NN mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))
+-27.950748904936 -88.789930108907
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (JJ real)) (ADJP (JJ tall))))))))
+-28.018044283434 -89.499510208820
+(S1 (S (NP (PRP I)) (VP (VBP mean)) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall)))))))
+-28.049236717027 -89.862532815580
+(S1 (S (NP (PRP I)) (VP (VB mean) (PP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-28.058263624664 -83.775693154084
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (VB like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-28.062193352837 -90.931462046906
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))
+-28.158059903920 -83.477814478397
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-28.314600438812 -88.410522840295
+(S1 (S (NP (PRP I)) (VP (VBP mean) (PP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))
+-28.497473680063 -91.510429762294
+(S1 (S (NP (PRP I)) (VP (VBP mean) (PP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ real) (JJ tall))))))))
+-28.606641017330 -90.325968691764
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (ADVP (JJ real)) (JJ tall))))))))
+-28.617990409885 -91.522295177650
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (NP (JJ real)) (JJ tall))))))))
+-28.627989668095 -89.190178708345
+(S1 (S (NP (PRP I)) (VBP mean) (VP (VBP like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-28.799262363827 -87.248770327946
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (VB like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))))
+-29.029086388662 -86.919222390011
+(S1 (S (NP (PRP I)) (VP (VBP mean) (ADJP (JJ like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))))
+-29.148135269407 -91.536151104890
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (NP (RB real)) (JJ tall))))))))
+-29.225210462546 -91.993900292628
+(S1 (S (NP (PRP I)) (VP (VBP mean)) (PP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))
+-29.325874032303 -89.812176816249
+(S1 (S (NP (PRP I)) (VBP mean) (VP (VBP like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))
+-29.562387487837 -86.381871554450
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))
+-29.576640100724 -89.750491785841
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (VP (VB like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))))
+-29.726922283397 -91.496162815238
+(S1 (S (NP (PRP I)) (VBP mean) (VP (VB like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))
+-29.744389431369 -86.679750230137
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (VB like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))
+-29.828679072620 -89.779657152137
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (VB like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ real) (JJ tall))))))))
+-29.859067477931 -89.104463122154
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (VP (VB like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))))
+-29.928475351876 -89.481778476449
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ real) (JJ tall))))))))
+-30.081164072543 -90.784708806559
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (IN like) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB real)) (ADJP (JJ tall))))))))
+-30.110722166229 -87.924893670674
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (VP (VBP like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))))))
+-30.316426663287 -91.082587482247
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (VB like) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB real)) (ADJP (JJ tall))))))))
+-30.345257007745 -90.152827403999
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (VB like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall)))))))))
+-30.561051435367 -89.823279466064
+(S1 (S (NP (PRP I)) (VP (VBP mean) (ADJP (JJ like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall)))))))))
+-30.835010058912 -88.546891799741
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (VP (VBP like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))))
+-31.257534073538 -88.889243133740
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (JJ like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))
+-31.339424865103 -91.513881565484
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (VP (VB like) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall))))))))))
+-31.518780112934 -90.828950746727
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (VP (VBP like) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall)))))))))))
+-32.204308983853 -91.752477267715
+(S1 (S (NP (PRP I)) (VP (VBP mean) (ADJP (ADJP (JJ like)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB real) (JJ tall)))))))))
+-32.383199165617 -91.450948875794
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (VP (VBP like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))))
+-32.929630280244 -91.793300209793
+(S1 (S (NP (PRP I)) (VP (VBP mean) (VP (JJ like) (S (NP (PRP I)) (VP (VBP 'm) (RB real) (ADJP (JJ tall))))))))
+

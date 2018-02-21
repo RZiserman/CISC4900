@@ -1,0 +1,102 @@
+50 x
+-14.019443961494 -59.735759119506
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see))))))))))
+-14.929804213151 -59.305804613982
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see)))))))))))
+-15.199756849263 -61.353450711334
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see)))))))))
+-15.516215905257 -60.730031547269
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see))))))))
+-16.110117103708 -60.923496205810
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see))))))))))
+-16.226693611860 -63.598096737108
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots)) (S (VP (TO to) (VP (VB see))))))))
+-16.248362434162 -65.605486014103
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (SBAR (S (VP (TO to) (VP (VB see))))))))))
+-16.426576156914 -60.300077041745
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see)))))))))
+-16.741582991518 -64.425251315489
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (S (VP (TO to) (VP (VB see)))))))))
+-16.951439611140 -69.665518870840
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (VP (TO to) (VP (VB see))))))))
+-16.970147733143 -68.367170708042
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (VP (NNS lots) (S (VP (TO to) (VP (VB see)))))))))
+-17.137053863517 -63.168142231584
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots)) (S (VP (TO to) (VP (VB see)))))))))
+-17.158722688606 -65.175531508579
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (SBAR (S (VP (TO to) (VP (VB see)))))))))))
+-17.299975295215 -63.489763277238
+(S1 (S (IN because) (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see)))))))))
+-17.569808737598 -68.116904485242
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (S (VP (NNS lots) (S (VP (TO to) (VP (VB see))))))))))
+-17.651943243175 -63.995296809965
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (S (VP (TO to) (VP (VB see))))))))))
+-17.857242914800 -67.937216202518
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (VP (NNS lots) (S (VP (TO to) (VP (VB see))))))))))
+-17.861799865584 -69.235564365316
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (VP (TO to) (VP (VB see)))))))))
+-18.066733257559 -66.648933760327
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (PP (TO to) (NP (VB see))))))))
+-18.411635740021 -67.706085469710
+(S1 (S (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see))))))))))
+-18.417988062984 -65.107454869065
+(S1 (S (IN because) (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see))))))))
+-18.480168989254 -67.686949979718
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (S (VP (NNS lots) (S (VP (TO to) (VP (VB see)))))))))))
+-18.507773822506 -68.117051328348
+(S1 (SBAR (IN because) (S (NP (RB there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see))))))))))
+-18.678192242403 -64.484035692067
+(S1 (S (IN because) (NP (EX there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see)))))))
+-18.977093509216 -66.218979254803
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (PP (TO to) (NP (VB see)))))))))
+-19.032042807117 -68.953965491321
+(S1 (FRAG (IN because) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see)))))))))))
+-19.040976209866 -69.596304682314
+(S1 (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (PP (TO to) (VP (VB see))))))))
+-19.074998034628 -67.039046480814
+(S1 (SBAR (WHNP (IN because)) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see))))))))))
+-19.258044192466 -69.938499519115
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (SBAR (S (VP (NNS lots) (S (VP (TO to) (VP (VB see))))))))))))
+-19.344312716067 -67.352100832591
+(S1 (S (IN because) (NP (EX there)) (VP (VBZ is) (NP (NNS lots)) (S (VP (TO to) (VP (VB see)))))))
+-19.396560764163 -67.687096822824
+(S1 (FRAG (SBAR (IN because) (S (NP (RB there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see)))))))))))
+-19.416040697882 -69.359490171835
+(S1 (S (IN because) (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (SBAR (S (VP (TO to) (VP (VB see)))))))))
+-19.591948627790 -69.323777061538
+(S1 (S (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see)))))))))
+-19.615355811239 -67.580464255091
+(S1 (S (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is)))) (VP (NNS lots) (S (VP (TO to) (VP (VB see)))))))
+-19.631135572275 -69.734742920175
+(S1 (SBAR (IN because) (S (NP (RB there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see)))))))))
+-19.673063965614 -66.187844691667
+(S1 (S (RB because) (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see)))))))))
+-19.908407700511 -68.700357963969
+(S1 (S (IN because) (S (NP (EX there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see))))))))
+-19.951336464310 -69.166350176790
+(S1 (FRAG (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (PP (TO to) (VP (VB see)))))))))
+-19.981895652451 -68.179255473220
+(S1 (S (IN because) (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (S (VP (TO to) (VP (VB see))))))))
+-20.022323821118 -66.010185801423
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NNS lots)) (SBAR (S (VP (TO to) (VP (VB see)))))))))))
+-20.166328428269 -69.111323756110
+(S1 (SBAR (IN because) (S (NP (RB there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see))))))))
+-20.255310922397 -68.656738072641
+(S1 (SBAR (WHNP (IN because)) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see)))))))))
+-20.519922513931 -69.304788414651
+(S1 (FRAG (SBAR (IN because) (S (NP (RB there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see))))))))))
+-20.571769978391 -68.033318908576
+(S1 (SBAR (WHNP (IN because)) (S (NP (EX there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see))))))))
+-20.791076733382 -67.805536283495
+(S1 (S (RB because) (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see))))))))
+-21.051280915589 -67.182117106497
+(S1 (S (RB because) (NP (EX there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see)))))))
+-21.055115369926 -68.681369250586
+(S1 (FRAG (SBAR (IN because) (S (NP (RB there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see)))))))))
+-21.202636708887 -67.627877393251
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots) (S (VP (TO to) (VP (VB see))))))))))
+-21.519095764881 -67.004458229186
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (EX there)) (VP (VBZ is) (S (NP (NNS lots)) (VP (TO to) (VP (VB see)))))))))
+-22.229573471484 -69.872523419025
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (EX there)) (VP (VBZ is) (NP (NNS lots)) (S (VP (TO to) (VP (VB see)))))))))
+

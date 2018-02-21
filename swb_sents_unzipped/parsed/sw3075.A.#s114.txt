@@ -1,0 +1,102 @@
+50 x
+-27.424380598663 -98.812126727056
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (ADVP (RB first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-27.511963902572 -98.897556779272
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (ADVP (RB first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-27.752529809387 -98.032034900981
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (ADVP (RB first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-28.092317114445 -99.052250250112
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (ADVP (RB first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-29.604461527786 -100.018143457520
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-29.628978184041 -102.430742799541
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (ADVP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-29.692044817756 -100.103573509736
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-29.767814427646 -102.857992054746
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (ADVP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-29.855397717616 -102.943422106962
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (ADVP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-29.968765475160 -103.450958148673
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (ADVP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-30.004712839851 -99.405716417724
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-30.119651411947 -102.410347256849
+(S1 (S (NP (PRP$ My)) (NP (PRP$ my) (NNS parents)) (VP (VBN retired) (ADVP (RB first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-30.344500153272 -100.425931766856
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-30.395078765748 -100.906702546479
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (S (ADJP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego))))))))
+-30.414100508035 -100.878337438710
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (ADVP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-30.734866084744 -101.926917895611
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (S (ADJP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego))))))))
+-30.753887827031 -101.898552787842
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (ADVP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-30.756584514582 -102.088785593855
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (ADJP (JJ retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-30.828987490626 -101.076693984433
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (ADVP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-30.916570780596 -101.162124036648
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (ADVP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-30.942076733488 -102.275081509101
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (ADVP (JJ first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-30.958113536526 -102.514675858302
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (ADJP (JJ retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-31.029660051336 -102.360511561317
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (ADVP (JJ first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.117257284520 -101.679461909514
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents) (VBN retired)) (ADJP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.209461294550 -102.714286244910
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (ADVP (JJ first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.260144336386 -101.930379701613
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (PP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-31.392963325985 -101.003387435781
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (NP (JJ first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.430857333255 -101.397090695313
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (ADJP (VBN retired) (RB first) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.444773151468 -103.735292027984
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (PP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-31.480546643832 -101.088817487997
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (NP (JJ first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.549248613546 -103.734501594041
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (ADVP (JJ first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.582788438290 -100.885801383170
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (ADJP (VBN retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-31.599931655383 -102.950595050744
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (PP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-31.628534966693 -103.736239434918
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (PP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-31.642581850644 -102.661763615484
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (PP (JJ first) (TO to) (NP (NNP San) (NNP Diego))))))
+-31.755479122350 -102.807649989138
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (S (ADJP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego))))))))
+-31.843062412320 -102.893080041354
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (S (ADJP (JJ first) (PP (TO to) (NP (NNP San) (NNP Diego))))))))
+-31.862114694819 -103.055088602695
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (ADJP (VBN retired) (RB first) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.867313008862 -103.641059884817
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (NP (RB first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.881542710979 -102.888964786129
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBN retired) (S (ADJP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego))))))))
+-31.897439919409 -101.906016732302
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (ADJP (VBN retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-31.954896298832 -103.726489937032
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (NP (RB first)) (PP (TO to) (NP (NNP San) (NNP Diego))))))
+-31.982369169641 -103.681978964616
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBN retired) (PP (JJ first) (TO to) (NP (NNP San) (NNP Diego))))))
+-32.104350720141 -103.560397137726
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (S (ADJP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego))))))))
+-32.191934037989 -103.645827189941
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (S (ADJP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego))))))))
+-32.371834436835 -103.784028773592
+(S1 (S (NP (PRP$ My)) (NP (PRP$ my) (NNS parents)) (VP (VBN retired) (PP (ADVP (RB first)) (TO to) (NP (NNP San) (NNP Diego))))))
+-32.433726536811 -102.998618494418
+(S1 (S (NP (PRP$ My) (JJ my) (NNS parents)) (VP (VBD retired) (ADJP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-32.521309826781 -103.084048546633
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (VP (VBD retired) (ADJP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-33.147325415008 -103.709515788548
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (ADJP (VBN retired) (PP (RB first) (PP (TO to) (NP (NNP San) (NNP Diego)))))))
+-33.891403068569 -103.497138562305
+(S1 (S (NP (PRP$ My) (PRP$ my) (NNS parents)) (ADJP (VBN retired) (PP (RB first) (TO to) (NP (NNP San) (NNP Diego))))))
+

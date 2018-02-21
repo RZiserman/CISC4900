@@ -1,0 +1,102 @@
+50 x
+-11.544466187573 -41.205457682624
+(S1 (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADJP (JJ great))))))
+-12.986292856779 -46.010796254587
+(S1 (S (PP (IN like) (NP (DT that))) (VP (VBD was) (ADJP (JJ great)))))
+-13.127543946989 -41.237366430903
+(S1 (FRAG (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADJP (JJ great)))))))
+-13.733096781276 -50.486330651054
+(S1 (S (VP (VB like) (SBAR (S (NP (DT that)) (VP (VBD was) (ADJP (JJ great))))))))
+-13.887704506399 -41.518636610263
+(S1 (FRAG (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (JJ great)))))))
+-14.089646550164 -48.241524191449
+(S1 (S (IN like) (NP (DT that)) (VP (VBD was) (ADJP (JJ great)))))
+-14.367120551087 -52.431454307210
+(S1 (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADVP (RB great))))))
+-14.629841626617 -48.022824723912
+(S1 (FRAG (IN like) (SBAR (S (NP (DT that)) (VP (VBD was) (ADJP (JJ great)))))))
+-15.305017690057 -50.944898067917
+(S1 (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (VP (JJ great))))))
+-15.404464610137 -50.491998254929
+(S1 (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADJP (RB great))))))
+-15.488654843010 -45.205396882730
+(S1 (SBAR (IN like) (S (NP (WDT that)) (VP (VBD was) (ADJP (JJ great))))))
+-15.593625716712 -51.935028004413
+(S1 (SBAR (WHPP (IN like) (WHNP (WDT that))) (S (VP (VBD was) (ADJP (JJ great))))))
+-15.698278762363 -50.315777175888
+(S1 (S (PP (IN like) (NP (IN that))) (VP (VBD was) (ADJP (JJ great)))))
+-15.699908051802 -48.870975509873
+(S1 (SBAR (IN like) (S (NP (IN that)) (VP (VBD was) (ADJP (JJ great))))))
+-15.793957462483 -48.439121387649
+(S1 (S (VP (VB like) (SBAR (DT that) (S (VP (VBD was) (ADJP (JJ great))))))))
+-15.797115943152 -52.278052207961
+(S1 (PP (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (JJ great)))))))
+-15.926895113654 -52.751329028112
+(S1 (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (NP (JJ great))))))
+-15.960245710206 -46.694067887535
+(S1 (FRAG (IN like) (SBAR (IN that) (S (VP (VBD was) (ADJP (JJ great)))))))
+-15.995178760504 -52.463363055489
+(S1 (FRAG (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADVP (RB great)))))))
+-16.029335715827 -51.094268609897
+(S1 (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADVP (JJ great))))))
+-16.038014096607 -51.934572234584
+(S1 (S (VP (VB like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (JJ great))))))))
+-16.137683997236 -49.387808573050
+(S1 (S (VP (VB like) (SBAR (IN that) (S (VP (VBD was) (ADJP (JJ great))))))))
+-16.158403334239 -51.557280226116
+(S1 (FRAG (SBAR (IN like) (SBAR (S (NP (DT that)) (VP (VBD was) (ADJP (JJ great))))))))
+-16.239195016954 -51.245935908026
+(S1 (SBAR (IN like) (SBAR (IN that) (S (VP (VBD was) (ADJP (JJ great)))))))
+-16.250380600949 -47.052901677019
+(S1 (FRAG (IN like) (SBAR (DT that) (S (VP (VBD was) (ADJP (JJ great)))))))
+-16.382474516272 -50.351667996642
+(S1 (FRAG (SBAR (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (JJ great))))))))
+-16.436550379934 -52.484210205934
+(S1 (S (VP (VBP like) (SBAR (IN that) (S (VP (VBD was) (ADJP (JJ great))))))))
+-16.443467798344 -47.690182108229
+(S1 (FRAG (SBAR (IN like) (SBAR (IN that) (S (VP (VBD was) (ADJP (JJ great))))))))
+-16.481952342981 -51.137312711294
+(S1 (FRAG (PP (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (JJ great))))))))
+-16.880973319473 -50.976806816196
+(S1 (FRAG (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (VP (JJ great)))))))
+-16.995909835126 -52.744633234849
+(S1 (FRAG (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB great)))))))
+-17.032522819553 -50.523907003208
+(S1 (FRAG (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADJP (RB great)))))))
+-17.052216251413 -52.437286642253
+(S1 (SBAR (IN like) (SBAR (DT that) (S (VP (VBD was) (ADJP (JJ great)))))))
+-17.080194592426 -45.237305631009
+(S1 (FRAG (SBAR (IN like) (S (NP (WDT that)) (VP (VBD was) (ADJP (JJ great)))))))
+-17.111501811230 -49.134876884905
+(S1 (FRAG (IN like) (SBAR (WHNP (DT that)) (S (VP (VBD was) (ADJP (JJ great)))))))
+-17.173192943110 -52.645319319188
+(S1 (S (VP (VBP like) (SBAR (DT that) (S (VP (VBD was) (ADJP (JJ great))))))))
+-17.194041995175 -48.692234907812
+(S1 (FRAG (SBAR (IN like) (SBAR (DT that) (S (VP (VBD was) (ADJP (JJ great))))))))
+-17.245757488310 -52.530150770675
+(S1 (FRAG (PP (IN like) (SBAR (IN that) (S (VP (VBD was) (ADJP (JJ great))))))))
+-17.292660561219 -48.902884258152
+(S1 (FRAG (SBAR (IN like) (S (NP (IN that)) (VP (VBD was) (ADJP (JJ great)))))))
+-17.338237614621 -50.943551171069
+(S1 (S (IN like) (NP (WDT that)) (VP (VBD was) (ADJP (JJ great)))))
+-17.509972873071 -52.783237776390
+(S1 (FRAG (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (NP (JJ great)))))))
+-17.574974760883 -51.258076995556
+(S1 (FRAG (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (JJ great)))))))
+-17.596936686026 -51.509210383907
+(S1 (VP (VB like) (SBAR (DT that) (S (VP (VBD was) (ADJP (JJ great)))))))
+-17.612413475243 -51.126177358176
+(S1 (FRAG (SBAR (IN like) (S (NP (DT that)) (VP (VBD was) (ADVP (JJ great)))))))
+-17.754730866832 -52.048260165478
+(S1 (VP (VB like) (SBAR (IN that) (S (VP (VBD was) (ADJP (JJ great)))))))
+-18.004328407656 -51.047609698152
+(S1 (FRAG (IN like) (SBAR (WDT that) (S (VP (VBD was) (ADJP (JJ great)))))))
+-18.161386994654 -51.407447537536
+(S1 (FRAG (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (JJ great)))))))
+-18.244440936963 -50.805177182568
+(S1 (FRAG (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (RB great)))))))
+-18.269675783537 -52.244671550026
+(S1 (FRAG (SBAR (IN like) (SBAR (WHNP (DT that)) (S (VP (VBD was) (ADJP (JJ great))))))))
+-18.574213874054 -52.022763924018
+(S1 (FRAG (IN like) (SBAR (S (NP (WDT that)) (VP (VBD was) (ADJP (JJ great)))))))
+

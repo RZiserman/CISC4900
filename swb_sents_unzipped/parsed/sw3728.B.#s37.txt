@@ -1,0 +1,102 @@
+50 x
+-9.830273873795 -38.813801968385
+(S1 (S (NP (PRP I)) (VP (VBP read) (NP (DT a) (NN lot)))))
+-10.335176573389 -41.264694032046
+(S1 (S (NP (PRP I)) (VP (VBD read) (NP (DT a) (NN lot)))))
+-12.150665141193 -44.097301484758
+(S1 (S (NP (PRP I)) (VP (VB read) (NP (DT a) (NN lot)))))
+-13.454695706855 -51.377191114213
+(S1 (S (NP (PRP I)) (VP (VBN read) (NP (DT a) (NN lot)))))
+-15.219891008699 -51.978100411369
+(S1 (S (NP (PRP I)) (VP (VBP read) (S (NP (DT a) (NN lot))))))
+-16.384531325697 -57.582823177050
+(S1 (S (NP (NN I)) (VP (VBD read) (NP (DT a) (NN lot)))))
+-16.525797441896 -54.898194266346
+(S1 (S (NP (PRP I)) (VP (VBD read) (S (NP (DT a) (NN lot))))))
+-16.841993407253 -59.565525096054
+(S1 (S (NP (NN I)) (VP (VB read) (NP (DT a) (NN lot)))))
+-17.012901154704 -58.429574278694
+(S1 (S (NP (PRP I)) (VP (VBN read) (S (NP (DT a) (NN lot))))))
+-17.291881607191 -61.653999675595
+(S1 (S (NP (NN I)) (VP (VBN read) (NP (DT a) (NN lot)))))
+-17.620042277581 -57.881118639885
+(S1 (S (NP (PRP I)) (VP (VBP read) (NP (NP (DT a)) (NN lot)))))
+-17.630862947206 -57.742069613897
+(S1 (NP (NP (NN I)) (VP (VBN read) (NP (DT a) (NN lot)))))
+-17.750773369233 -57.789373109780
+(S1 (S (NP (PRP I)) (VP (VB read) (S (NP (DT a) (NN lot))))))
+-17.771567579045 -56.835166221045
+(S1 (NP (NP (NN I)) (VP (VBD read) (NP (DT a) (NN lot)))))
+-18.245321253016 -62.607002279602
+(S1 (S (NP (NN I)) (VP (VBP read) (NP (DT a) (NN lot)))))
+-18.903835622872 -60.199232565034
+(S1 (S (NP (PRP I)) (VP (VBD read) (NP (NP (DT a)) (NN lot)))))
+-19.218906592696 -65.131055449979
+(S1 (NP (NP (NN I)) (VP (VB read) (NP (DT a) (NN lot)))))
+-19.359406794840 -65.314513887872
+(S1 (NP (NP (PRP I)) (VP (VBD read) (NP (DT a) (NN lot)))))
+-19.801340409812 -64.030462484646
+(S1 (S (NP (NP (PRP I)) (VP (VBD read) (NP (DT a) (NN lot))))))
+-20.010430403441 -68.652944523582
+(S1 (NP (NP (PRP I)) (VP (VBN read) (NP (DT a) (NN lot)))))
+-20.012223102380 -63.838423027497
+(S1 (NP (NP (NN I)) (VP (VBN read) (S (NP (DT a) (NN lot))))))
+-20.032732883614 -67.372131517183
+(S1 (NP (NP (PRP I)) (VP (VB read) (NP (DT a) (NN lot)))))
+-20.119876727410 -60.449613262162
+(S1 (S (NP (NP (NN I)) (VP (VBD read) (NP (DT a) (NN lot))))))
+-20.126934092890 -63.234518959121
+(S1 (S (NP (PRP I)) (VP (VB read) (NP (NP (DT a)) (NN lot)))))
+-20.166211726367 -62.447177752388
+(S1 (S (NP (NP (NN I)) (VP (VBN read) (NP (DT a) (NN lot))))))
+-20.440313456290 -66.339329824670
+(S1 (NP (NP (NN I)) (VP (VBP read) (NP (DT a) (NN lot)))))
+-20.710151269191 -66.248032435862
+(S1 (S (NP (NP (PRP I)) (VP (VB read) (NP (DT a) (NN lot))))))
+-20.766138967389 -67.432817294215
+(S1 (S (NP (NP (PRP I)) (VP (VBN read) (NP (DT a) (NN lot))))))
+-20.777274491252 -68.706382840076
+(S1 (S (NP (NN I)) (VP (VBN read) (S (NP (DT a) (NN lot))))))
+-20.963159061771 -72.873422711744
+(S1 (NP (NP (PRP I)) (VP (VBP read) (NP (DT a) (NN lot)))))
+-21.710856015717 -71.589370831960
+(S1 (S (NP (NP (PRP I)) (VP (VBP read) (NP (DT a) (NN lot))))))
+-21.763703733529 -70.865936698257
+(S1 (S (NP (PRP I)) (VP (VBN read) (NP (NP (DT a)) (NN lot)))))
+-21.876644376774 -70.830517631023
+(S1 (S (NP (NP (NN I)) (VP (VB read) (NP (DT a) (NN lot))))))
+-22.373721799461 -74.454431402574
+(S1 (NP (NP (PRP I)) (VP (VBN read) (S (NP (DT a) (NN lot))))))
+-22.408383758336 -67.341762460871
+(S1 (NP (NP (NN I)) (VP (VBD read) (S (NP (DT a) (NN lot))))))
+-22.470009142505 -73.257596721076
+(S1 (S (NP (NN I)) (VP (VB read) (S (NP (DT a) (NN lot))))))
+-22.505315271416 -71.216323411350
+(S1 (S (NP (NN I)) (VP (VBD read) (S (NP (DT a) (NN lot))))))
+-22.550046242512 -68.543531027516
+(S1 (S (NP (NP (NN I)) (VP (VBN read) (S (NP (DT a) (NN lot)))))))
+-22.806883191757 -69.535530825183
+(S1 (S (NP (PRP I)) (VP (VBP read) (S (NP (NP (DT a)) (NN lot))))))
+-23.131904763408 -73.234304173207
+(S1 (S (NP (NP (PRP I)) (VP (VBN read) (S (NP (DT a) (NN lot)))))))
+-23.140085451132 -71.599757142817
+(S1 (S (NP (NP (NN I)) (VP (VBP read) (NP (DT a) (NN lot))))))
+-23.636697587921 -75.771300722587
+(S1 (S (NP (NN I)) (VP (VBP read) (S (NP (DT a) (NN lot))))))
+-23.848841163304 -76.186015230362
+(S1 (NP (NP (NN I)) (VP (VB read) (S (NP (DT a) (NN lot))))))
+-24.032026793143 -75.430559257610
+(S1 (NP (NP (PRP I)) (VP (VBD read) (S (NP (DT a) (NN lot))))))
+-24.593086215115 -74.146507854384
+(S1 (S (NP (NP (PRP I)) (VP (VBD read) (S (NP (DT a) (NN lot)))))))
+-24.875818713700 -70.956209501988
+(S1 (S (NP (NP (NN I)) (VP (VBD read) (S (NP (DT a) (NN lot)))))))
+-24.898892051166 -72.455624680161
+(S1 (S (NP (PRP I)) (VP (VBD read) (S (NP (NP (DT a)) (NN lot))))))
+-25.043320094974 -75.987004692509
+(S1 (S (NP (PRP I)) (VP (VBN read) (S (NP (NP (DT a)) (NN lot))))))
+-25.679158899502 -75.346803523594
+(S1 (S (NP (PRP I)) (VP (VB read) (S (NP (NP (DT a)) (NN lot))))))
+-26.072484634104 -75.769704783485
+(S1 (NP (NP (NN I)) (VP (VBD read) (NP (NP (DT a)) (NN lot)))))
+

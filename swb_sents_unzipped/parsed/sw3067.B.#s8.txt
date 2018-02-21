@@ -1,0 +1,102 @@
+50 x
+-48.304619898112 -161.130537495862
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-48.971826134729 -165.028614826585
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-49.393063880390 -166.148055678411
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (VP (ADVP (RB well)) (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-49.619932292011 -165.426572816923
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (RB well) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-49.634024393579 -164.131600975573
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+-49.870691281496 -171.435160154000
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VBZ is) (ADJP (ADJP (RB quite) (JJ large)) (CC or) (RB well) (S (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))))
+-49.979475229847 -172.034338672899
+(S1 (S (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VBZ is) (ADJP (RB quite) (JJ large)))) (CC or) (S (NP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-50.053549164985 -170.726814995248
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VBZ is) (ADJP (ADJP (RB quite) (JJ large)) (CC or) (ADJP (RB well) (S (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))))
+-50.387778632830 -172.694606213722
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VBZ is) (ADJP (ADJP (RB quite) (JJ large)) (CC or) (RB well) (SBAR (S (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))))
+-50.426748205361 -167.140977137604
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (VP (ADVP (RB well)) (VBD was) (RB quite) (ADJP (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-50.502293683690 -170.839928124124
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VBZ is) (ADJP (ADJP (RB quite) (JJ large)) (CC or) (ADJP (RB well) (SBAR (S (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))))))
+-50.559921074712 -169.909282288532
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (VP (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))
+-50.719459040570 -167.990348090817
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADVP (RB quite)) (ADJP (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-50.793902020401 -171.711982810887
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADVP (RB quite) (RB large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-50.922977514196 -168.029678306296
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+-50.949336787478 -168.427636296634
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (RB well) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+-50.981049262168 -168.212237712597
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))
+-50.999019167933 -168.599690814959
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (VP (ADVP (RB well)) (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+-51.160598571690 -169.398755666401
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (RB quite) (ADJP (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-51.275336721347 -167.747511056575
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (RB quite) (ADJP (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-51.399821895496 -170.299705873083
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large))) (PP (IN at) (NP (CD one) (NN time))))))
+-51.469143280391 -171.599301408854
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADVP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-51.798842952649 -170.923649124844
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (NN one) (NN time)))))))
+-51.872360022796 -170.381324030508
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (VP (ADVP (RB well)) (VBD was) (NP (QP (RB quite) (JJ large) (IN at) (CD one)) (NN time))))))
+-52.034771434469 -172.286383411878
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADVP (RB quite)) (ADJP (JJ large))) (CC or) (RB well) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.048863536036 -170.991411570527
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADVP (RB quite)) (ADJP (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+-52.072910074159 -170.784575268898
+(S1 (S (NP (NP (NP (JJ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.095100817187 -171.888425421540
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADVP (RB quite)) (ADJP (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.264591756067 -172.508273033658
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (RB well) (VP (VBD was) (ADJP (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))
+-52.274776224964 -171.645588387299
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (RB quite) (ADJP (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.311229764400 -172.680327551983
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (VP (ADVP (RB well)) (VBD was) (ADJP (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))
+-52.363780675747 -172.765029239124
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (RB quite) (ADJP (JJ large))) (CC or) (VP (ADVP (RB well)) (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.509985353619 -169.853279075125
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (PRP one) (NN time)))))))
+-52.567982963862 -171.239050434569
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (VP (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time)))))))))
+-52.588536582785 -172.110315043320
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))
+-52.590649115245 -172.043546377637
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (RB quite) (ADJP (JJ large))) (CC or) (RB well) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.591250545470 -169.499739547465
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)))) (PP (IN at) (NP (CD one) (NN time)))))
+-52.604741188935 -170.748574536286
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (RB quite) (ADJP (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+-52.716841850018 -171.626178244994
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (ADVP (RB quite)) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.756361306503 -170.968311333206
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VBZ is) (ADVP (RB quite)) (VP (VP (JJ large)) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time))))))))
+-52.807916747784 -171.464859829589
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (ADVP (RB quite)) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-52.968522173482 -171.680485627304
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADVP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-53.177021319193 -172.475263165121
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (NP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-53.340245263706 -168.740859712156
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-53.919811658330 -172.854342368242
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (PRP one) (NN time))))))))
+-53.952929913470 -168.892293837426
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-54.007451500323 -172.638937042880
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-54.602725137965 -172.790371168149
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CONJP (CC or) (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large)) (PP (IN at) (NP (CD one) (NN time)))))))
+-54.669649759173 -171.741923191867
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side) (PP (IN of) (NP (DT the) (NN family)))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+-55.282334408937 -171.893357317137
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NN side)) (PP (IN of) (NP (DT the) (NN family))) (VP (VP (VBZ is) (ADJP (RB quite) (JJ large))) (CC or) (ADVP (RB well)) (VP (VBD was) (ADJP (RB quite) (JJ large) (PP (IN at) (NP (CD one) (NN time))))))))
+

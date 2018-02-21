@@ -1,0 +1,102 @@
+50 x
+-15.123901712426 -53.931756494781
+(S1 (S (NP (PRP They)) (VP (VBP do) (VP (VB intimidate)))))
+-15.442389883636 -54.477575808960
+(S1 (S (NP (PRP They)) (VP (VBP do) (NP (NN intimidate)))))
+-16.605673644515 -52.616740606125
+(S1 (S (NP (PRP They)) (VBP do) (VP (VBP intimidate))))
+-16.774775453247 -55.236549022541
+(S1 (S (NP (PRP They)) (VBP do) (VP (VB intimidate))))
+-16.982907472577 -52.920206983901
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADJP (JJ intimidate)))))
+-17.105721697141 -57.111144515346
+(S1 (S (NP (PRP They)) (VBP do) (VP (VBD intimidate))))
+-17.277284216456 -57.949945896617
+(S1 (S (NP (PRP They)) (VP (VB do) (NP (NN intimidate)))))
+-17.475471324344 -58.455888577869
+(S1 (S (NP (PRP They)) (VP (VBP do) (NP (VB intimidate)))))
+-17.634899502463 -63.452591840634
+(S1 (S (NP (PRP They)) (VP (VBP do) (VP (VBD intimidate)))))
+-17.696952887679 -58.619622127026
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (VP (VB intimidate))))))
+-17.732835169934 -61.357959354309
+(S1 (S (NP (PRP They)) (VP (VBP do) (NP (FW intimidate)))))
+-18.296065204405 -59.849101880077
+(S1 (S (NP (PRP They)) (VP (VB do) (VP (VB intimidate)))))
+-18.499543042369 -64.052605842096
+(S1 (S (NP (PRP They)) (VP (VBP do) (VP (NN intimidate)))))
+-18.627008313916 -59.385267801863
+(S1 (S (NP (PRP They)) (VP (VBP do) (NP (JJ intimidate)))))
+-18.695897451543 -63.656200624909
+(S1 (S (NP (PRP They)) (VP (VBP do) (VP (VBP intimidate)))))
+-18.757355773278 -59.392619513573
+(S1 (S (NP (PRP They)) (VP (VBP do) (VP (JJ intimidate)))))
+-18.789743204911 -59.032720626104
+(S1 (S (NP (PRP They)) (VP (VB do) (ADJP (JJ intimidate)))))
+-19.045381395765 -61.865241472347
+(S1 (S (NP (PRP They)) (VBP do) (VP (NN intimidate))))
+-19.183829494833 -63.763048543828
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADVP (VB intimidate)))))
+-19.187550297284 -64.185099025175
+(S1 (S (NP (PRP They)) (VP (VB do) (NP (FW intimidate)))))
+-19.207791231110 -64.199480500581
+(S1 (S (NP (PRP They)) (VP (VBP do) (SBAR (VB intimidate)))))
+-19.209315219421 -63.286286062393
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADVP (NN intimidate)))))
+-19.209937892643 -61.483890710560
+(S1 (S (NP (PRP They)) (VP (VB do) (S (VP (VB intimidate))))))
+-19.292715485560 -57.729584386276
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (ADJP (JJ intimidate))))))
+-19.300072428074 -61.617214186506
+(S1 (S (NP (PRP They)) (VP (VB do) (NP (VB intimidate)))))
+-19.330275715708 -64.281547248896
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADVP (FW intimidate)))))
+-19.377880427018 -60.550392855488
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADVP (JJ intimidate)))))
+-19.674235977217 -60.852034222775
+(S1 (S (NP (PRP They)) (VP (VB do) (NP (JJ intimidate)))))
+-19.762514194544 -63.485183419070
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (VP (NN intimidate))))))
+-19.840385953271 -66.020496828334
+(S1 (S (NP (PRP They)) (VP (VBP do) (NP (VBP intimidate)))))
+-19.864085295491 -62.925632033832
+(S1 (S (NP (PRP They)) (VP (VBP do) (SBAR (S (VP (VB intimidate)))))))
+-19.935741899670 -63.222373979002
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADJP (VB intimidate)))))
+-20.077823362059 -62.801436070584
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (NP (NN intimidate))))))
+-20.160420592608 -62.883805890945
+(S1 (S (NP (PRP They)) (VP (VB do) (S (ADJP (JJ intimidate))))))
+-20.196286982304 -61.137963055283
+(S1 (S (NP (PRP They)) (VP (VB do) (ADVP (JJ intimidate)))))
+-20.340009601322 -62.983624881522
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADJP (NN intimidate)))))
+-20.592942020182 -65.066381255909
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (VP (VBP intimidate))))))
+-20.627916892035 -60.677761967380
+(S1 (S (NP (PRP They)) (VP (VBP do) (SBAR (S (VP (VBP intimidate)))))))
+-20.699043726123 -64.862971475098
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADJP (FW intimidate)))))
+-20.772960340542 -64.888171709721
+(S1 (S (NP (PRP They)) (VP (VB do) (ADVP (VB intimidate)))))
+-20.773727078470 -65.944541631081
+(S1 (S (NP (PRP They)) (VP (VB do) (ADVP (FW intimidate)))))
+-20.785944970660 -64.886034843235
+(S1 (S (NP (PRP They)) (VBP do) (VP (JJ intimidate))))
+-20.970617966227 -64.546597927829
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (ADJP (VB intimidate))))))
+-21.029168179952 -64.932917729731
+(S1 (S (NP (PRP They)) (VP (VB do) (ADVP (NN intimidate)))))
+-21.371201956690 -65.015972492323
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (NP (VB intimidate))))))
+-21.535745192331 -66.494741580306
+(S1 (S (NP (PRP They)) (VP (VB do) (ADJP (VB intimidate)))))
+-21.571257883614 -65.723846176250
+(S1 (S (NP (PRP They)) (VP (VB do) (S (ADJP (VB intimidate))))))
+-21.709290681313 -65.650284514854
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (ADJP (NN intimidate))))))
+-21.733783589972 -64.041096012438
+(S1 (S (NP (PRP They)) (VP (VB do) (S (NP (VB intimidate))))))
+-22.493558416227 -65.613222496999
+(S1 (S (NP (PRP They)) (VP (VBP do) (S (NP (JJ intimidate))))))
+

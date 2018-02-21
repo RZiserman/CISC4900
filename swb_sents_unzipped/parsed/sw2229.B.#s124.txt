@@ -1,0 +1,102 @@
+50 x
+-27.544727293501 -89.660772887076
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-27.688256362521 -91.513036916071
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-27.737793783438 -92.724520693560
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-27.994646887301 -91.339140126131
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-28.081909060517 -92.987375168063
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))))
+-28.138175956321 -93.191404155126
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-28.149846500086 -92.232084860269
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))))
+-28.187713377237 -94.402887932616
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-28.489383712032 -94.437234288059
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))))
+-28.531828654317 -94.665742407119
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))))
+-28.550605015458 -94.042765797401
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good)) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))
+-28.599766093886 -93.910452099324
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))))
+-28.630136597387 -89.261426707315
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-28.694134084478 -95.895029826396
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good)) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))
+-28.749411688117 -95.983317842704
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (SBAR (S (NP (JJ good)) (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-28.773665666406 -91.113690736310
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-28.823203087323 -92.325174513799
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-28.847203651752 -93.558245741975
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)))) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))
+-28.887653235562 -93.108779716551
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-28.990732720771 -95.410509770971
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)))) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))
+-29.050001162290 -95.788670362060
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (SBAR (S (ADVP (RB good)) (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-29.138339116979 -92.588029007900
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))
+-29.206276556547 -91.832738700105
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-29.264073300801 -95.539227191164
+(S1 (S (CONJP (RB Well) (RB that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-29.299174690412 -96.068506461009
+(S1 (S (NP (RB Well) (WDT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-29.337572829362 -94.787146955606
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-29.506802788626 -94.519946579718
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))))
+-29.529191568493 -94.037888127895
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-29.708970908240 -95.400054840106
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))))
+-29.799187694368 -95.231385115692
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (RB good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-29.987495029448 -92.709433536789
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-30.101509741618 -94.688761820507
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))))
+-30.201549908720 -92.659815785841
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))
+-30.230992204687 -95.139881011402
+(S1 (S (CONJP (RB Well) (RB that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-30.343376021298 -95.669160281248
+(S1 (S (NP (RB Well) (WDT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-30.345078974952 -94.512079814836
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))
+-30.394616398657 -95.723563592325
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))
+-30.602251108087 -94.120600419554
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-30.709243338312 -95.986418086426
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-30.743468159701 -95.061828905755
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-30.777180777881 -95.231127778631
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))))
+-30.795311748630 -93.128109638923
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))))
+-30.804457879164 -95.265587987999
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-30.821041427702 -95.000708679942
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))
+-31.213580261079 -94.289415660343
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))))
+-31.245231342430 -94.806476877978
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NP (NN something) (JJ good)) (SBAR (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))))
+-31.787669490587 -94.662482725993
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-31.801893298124 -95.787419801946
+(S1 (S (ADVP (RB Well)) (NP (IN that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+-31.895153556454 -92.728763507601
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))))))
+-31.904299673050 -94.866241808238
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ sounds) (PP (IN like) (NP (NN something))) (ADJP (JJ good) (S (VP (TO to) (VP (VB do) (ADVP (RB then)))))))))
+

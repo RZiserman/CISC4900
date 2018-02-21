@@ -1,0 +1,102 @@
+50 x
+-16.450279936264 -58.605147454656
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (DT that) (DT a) (NN lot)))))
+-16.834022963645 -55.088760159988
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (IN that) (DT a) (NN lot)))))
+-16.942733632966 -56.604525985459
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (DT that)) (NP (DT a) (NN lot)))))
+-17.006639450741 -60.306172533036
+(S1 (S (NP (PRP you)) (VP (VBP like) (DT that) (NP (DT a) (NN lot)))))
+-17.305612883777 -62.574816894034
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (DT that) (NP (DT a) (NN lot))))))
+-17.775335598321 -65.668034785264
+(S1 (S (NP (PRP you)) (VP (VBP like) (PP (IN that) (NP (DT a) (NN lot))))))
+-17.776821935688 -57.700925889079
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (RB that) (DT a) (NN lot)))))
+-17.909368718436 -61.546206847787
+(S1 (S (NP (PRP you)) (VP (VBP like) (SBAR (IN that) (S (NP (DT a) (NN lot)))))))
+-17.949555943945 -60.926999390518
+(S1 (S (NP (PRP you)) (VP (VBP like) (ADVP (RB that)) (NP (DT a) (NN lot)))))
+-18.427514048670 -64.677269226713
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (NP (DT that)) (NP (DT a) (NN lot))))))
+-18.480545878371 -60.729927460029
+(S1 (S (NP (PRP you)) (VP (VBP like) (PRT (IN that)) (NP (DT a) (NN lot)))))
+-18.582196055563 -63.624178903759
+(S1 (S (NP (PRP you)) (VP (VB like) (IN that) (NP (DT a) (NN lot)))))
+-18.615682609254 -61.034896269840
+(S1 (S (NP (PRP you)) (VP (VB like) (NP (DT that)) (NP (DT a) (NN lot)))))
+-18.769628930261 -66.146362438144
+(S1 (S (NP (PRP you)) (ADJP (JJ like) (PP (IN that) (NP (DT a) (NN lot))))))
+-18.770025536056 -59.206845896693
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (IN that)) (NP (DT a) (NN lot)))))
+-18.782849894883 -59.090016644595
+(S1 (S (NP (PRP you)) (VP (VBP like) (RB that) (NP (DT a) (NN lot)))))
+-18.793166268523 -60.007879672641
+(S1 (S (NP (PRP you)) (VP (VB like) (NP (IN that) (DT a) (NN lot)))))
+-18.915041550460 -62.150524931185
+(S1 (S (NP (PRP you)) (VP (VBP like) (ADVP (IN that)) (NP (DT a) (NN lot)))))
+-18.993264564700 -62.789067240480
+(S1 (S (NP (PRP you)) (ADJP (VB like) (PP (IN that) (NP (DT a) (NN lot))))))
+-19.351205659196 -63.058133913885
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (NP (IN that)) (NP (DT a) (NN lot))))))
+-19.565005786199 -65.998077555283
+(S1 (S (NP (PRP you)) (VP (VB like) (SBAR (IN that) (S (NP (DT a) (NN lot)))))))
+-19.610481932765 -61.321579385082
+(S1 (S (NP (PRP you)) (PP (IN like) (NP (NP (DT that)) (NP (DT a) (NN lot))))))
+-19.662509014959 -63.481468834699
+(S1 (S (NP (PRP you)) (VP (VB like) (PRT (IN that)) (NP (DT a) (NN lot)))))
+-19.712057739882 -63.209235152295
+(S1 (S (NP (PRP you)) (VP (VB like) (NP (RB that) (DT a) (NN lot)))))
+-19.758675964228 -67.237372946347
+(S1 (S (NP (PRP you)) (ADJP (JJ like)) (PP (IN that) (NP (DT a) (NN lot)))))
+-20.220592790159 -62.682391678616
+(S1 (S (NP (PRP you)) (PP (IN like) (NP (IN that) (DT a) (NN lot)))))
+-20.227131402000 -64.082344391652
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (NP (DT that) (DT a) (NN lot))))))
+-20.240084529416 -63.053191060574
+(S1 (S (NP (PRP you)) (PP (IN like) (NP (NP (IN that)) (NP (DT a) (NN lot))))))
+-20.395743176919 -68.102801950321
+(S1 (S (NP (PRP you)) (ADJP (JJ like) (SBAR (IN that) (S (NP (DT a) (NN lot)))))))
+-20.473278194328 -63.564535437166
+(S1 (S (NP (PRP you)) (VP (VB like) (NP (IN that)) (NP (DT a) (NN lot)))))
+-20.610874429381 -60.565957096985
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (NP (IN that) (DT a) (NN lot))))))
+-20.642354904322 -66.634175329823
+(S1 (S (NP (PRP you)) (PP (IN like) (NP (DT that) (DT a) (NN lot)))))
+-20.708987784259 -63.013557198062
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (WDT that)) (NP (DT a) (NN lot)))))
+-20.719585104278 -62.081722946323
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (NP (DT that)) (NP (DT a) (NN lot))))))
+-20.764815980820 -66.123501539495
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (ADVP (RB that)) (DT a) (NN lot)))))
+-20.782291827448 -65.783369329841
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (DT that) (NP (DT a) (NN lot))))))
+-20.894081508539 -67.908768604268
+(S1 (S (NP (PRP you)) (PP (IN like) (IN that) (NP (DT a) (NN lot)))))
+-21.052832226490 -66.415128096536
+(S1 (S (NP (PRP you)) (VP (VB like) (NP (NP (IN that)) (NP (DT a) (NN lot))))))
+-21.082464349514 -68.052013831031
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (NP (DT that) (NP (DT a) (NN lot)))))))
+-21.395454828194 -67.180677807442
+(S1 (S (NP (PRP you)) (VP (VBP like) (NP (ADVP (IN that)) (DT a) (NN lot)))))
+-21.438116101290 -67.351294931871
+(S1 (S (NP (PRP you)) (PP (IN like) (NP (RB that) (DT a) (NN lot)))))
+-21.553673401425 -63.178122826075
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (NP (RB that) (DT a) (NN lot))))))
+-21.725946099318 -66.404196303405
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (ADVP (RB that)) (NP (DT a) (NN lot))))))
+-21.732419345324 -67.023403834724
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (SBAR (IN that) (S (NP (DT a) (NN lot))))))))
+-22.236137859093 -66.036252344663
+(S1 (FRAG (S (NP (PRP you)) (VP (VB like) (NP (DT that)) (NP (DT a) (NN lot))))))
+-22.256198266230 -66.207124299797
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (PRT (IN that)) (NP (DT a) (NN lot))))))
+-22.413621535088 -65.009235802041
+(S1 (FRAG (S (NP (PRP you)) (VP (VB like) (NP (IN that) (DT a) (NN lot))))))
+-22.546877007368 -64.684042857557
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (NP (IN that)) (NP (DT a) (NN lot))))))
+-22.558157120558 -64.567213627121
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (RB that) (NP (DT a) (NN lot))))))
+-22.691431705833 -67.627721844073
+(S1 (FRAG (S (NP (PRP you)) (VP (VBP like) (ADVP (IN that)) (NP (DT a) (NN lot))))))
+

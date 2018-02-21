@@ -1,0 +1,102 @@
+50 x
+-14.917515217747 -54.733558516318
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))
+-16.586105557178 -56.378993037223
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))))
+-16.975877400940 -61.656543619434
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))
+-18.123877075280 -65.655843257322
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (NN cast) (NP (PRP it))))))))
+-19.089576252678 -64.473101230491
+(S1 (S (VP (VBD Did) (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))))
+-19.186842248474 -65.704622376020
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (SBAR (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))
+-19.236603677903 -65.358533735402
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (VP (TO to) (VP (VB cast) (NP (PRP it)))))))
+-19.297596844438 -63.784810187175
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))))
+-19.703439006000 -62.978647243379
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))))
+-19.811907084711 -67.301277778227
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (NN cast) (NP (PRP it)))))))))))
+-20.021572476062 -68.880662930355
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VB have) (SBAR (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))
+-20.035734219813 -63.154117680330
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (S (NP (PRP it)))))))))
+-20.222278893881 -67.003968143029
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (VP (TO to) (VP (VB cast) (NP (PRP it))))))))))
+-20.306802196773 -67.649735545640
+(S1 (S (VP (VBD Did) (S (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))))
+-20.330032404946 -70.034880881598
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VBD cast) (NP (PRP it))))))))
+-20.394015348472 -72.578828360438
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (NN cast) (NP (PRP it))))))))
+-20.419007540067 -72.621938515966
+(S1 (S (VP (VBD Did) (NP (PRP they))) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))
+-20.750716317953 -71.271326230973
+(S1 (S (VP (VBD Did) (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))
+-20.893313086754 -67.350056862199
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (SBAR (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))))))
+-21.319294185130 -67.590361814009
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (S (VP (VB cast) (NP (PRP it)))))))))
+-21.462843446456 -70.815800198131
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VBN cast) (NP (PRP it))))))))
+-21.537124175177 -71.018161687606
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (TO to) (VP (VB cast) (NP (PRP it)))))))
+-21.704324559244 -64.799552201235
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (S (NP (PRP it))))))))))))
+-21.866943071010 -71.103363534677
+(S1 (VP (VBD Did) (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))
+-21.867468522357 -73.167240325988
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VB have) (S (TO to) (VP (VB cast) (NP (PRP it)))))))
+-21.911005174377 -71.680315402503
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VBD cast) (NP (PRP it)))))))))))
+-21.936768836473 -71.363923024278
+(S1 (S (VP (VBD Did) (S (NP (PRP they)) (VBP have) (VP (TO to) (VP (VB cast) (NP (PRP it))))))))
+-22.017179407763 -74.871211660163
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VB have) (VP (TO to) (VP (VB cast) (NP (PRP it)))))))
+-22.094096403006 -70.077102783446
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (S (NP (PRP it)))))))))
+-22.310160833199 -70.287966162980
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))))
+-22.491768427348 -71.008929514989
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VB have) (SBAR (S (VP (TO to) (VP (VB cast) (NP (PRP it))))))))))))
+-22.735174461970 -74.707094928179
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (NN cast) (NP (PRP it)))))))))))
+-22.905828492409 -74.239980726337
+(S1 (VP (VBD Did) (S (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))
+-22.987884524561 -69.235796334914
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (S (VP (VB cast) (NP (PRP it))))))))))))
+-23.014751464169 -75.098076336297
+(S1 (S (VP (VBD Did) (S (NP (PRP they)) (VP (VBP have) (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))
+-23.058510883532 -73.900931984383
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (NN cast) (NP (PRP it))))))))))
+-23.067767085491 -73.603622349185
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))
+-23.159367237251 -75.186890539356
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (PP (TO to) (VP (VB cast) (NP (PRP it)))))))
+-23.219015334608 -72.663596208512
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (TO to) (VP (VB cast) (NP (PRP it))))))))))
+-23.395030701949 -74.873854976530
+(S1 (S (VP (VBD Did) (S (NP (PRP they)) (VP (VB have) (SBAR (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))))
+-23.507067250111 -74.513346917125
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VB have) (S (VP (TO to) (S (VP (VB cast) (NP (PRP it)))))))))
+-23.517484435887 -72.461234719036
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VBN cast) (NP (PRP it)))))))))))
+-23.963571658363 -73.949711068355
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (SBAR (S (VP (TO to) (VP (VB cast) (NP (PRP it)))))))))))
+-24.202488783067 -75.295506893729
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VB have) (S (TO to) (VP (VB cast) (NP (PRP it))))))))))
+-24.207795254744 -72.893660394503
+(S1 (S (VP (VBD Did) (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (S (NP (PRP it)))))))))))
+-24.327840250540 -74.125181540032
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (SBAR (S (VP (TO to) (VP (VB cast) (S (NP (PRP it))))))))))
+-24.415815846504 -72.205369351187
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VB have) (S (VP (TO to) (VP (VB cast) (S (NP (PRP it))))))))))))
+-24.559060732577 -73.779092730933
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (VP (TO to) (VP (VB cast) (S (NP (PRP it))))))))
+-24.821658010853 -71.399206407391
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB cast) (S (NP (PRP it)))))))))))
+-26.236996841830 -74.884289823478
+(S1 (S (VBD Did) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (S (VP (VB cast) (S (NP (PRP it))))))))))
+

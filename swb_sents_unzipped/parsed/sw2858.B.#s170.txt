@@ -1,0 +1,102 @@
+50 x
+-14.150687617843 -48.508385372014
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (NP (DT the) (JJS best)))))
+-14.811195781546 -53.081934179606
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you)) (NP (DT the) (JJS best))))))
+-16.129258954639 -56.756514123090
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (NP (DT the) (RBS best)))))
+-17.336119328933 -62.488918222527
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (NP (DT the) (RB best)))))
+-17.628746509483 -62.590671662204
+(S1 (S (NP (PRP I)) (VP (VB wish) (S (NP (PRP you)) (NP (DT the) (JJS best))))))
+-17.991113216289 -62.321020550587
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you)) (VP (NP (DT the) (JJS best)))))))
+-18.245757105660 -66.489341130448
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you)) (NP (DT the) (RBS best))))))
+-18.262319210761 -61.638234248006
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (NP (PRP you)) (NP (DT the) (JJS best))))))
+-18.273587755460 -58.656905521912
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (DT the)) (ADVP (RB best)))))
+-18.282864408115 -56.515355684554
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (ADVP (DT the) (RBS best)))))
+-18.375619979620 -62.834107600713
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (X (DT the) (JJS best)))))
+-18.840588733820 -60.124639045387
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (ADVP (DT the) (RB best)))))
+-19.027339523841 -65.581794791988
+(S1 (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (PRP you)) (NP (DT the) (JJS best)))))))
+-19.235073567212 -61.901722662408
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you))) (NP (DT the) (JJS best))))
+-19.278843605230 -67.695896740748
+(S1 (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (PRP you)) (NP (DT the) (RBS best)))))))
+-19.371546294589 -58.358715391566
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (S (NP (DT the) (JJS best))))))
+-19.526730592884 -67.094182884424
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (NP (DT the) (JJS best))))))
+-19.626213192617 -63.861373266995
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (NP (DT the) (ADJP (JJS best))))))
+-19.693413630005 -64.763319393630
+(S1 (S (NP (PRP I)) (VP (VBP wish) (ADVP (PRP you)) (NP (DT the) (JJS best)))))
+-19.708376133628 -69.755910277597
+(S1 (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (PRP you)) (VP (NP (DT the) (JJS best))))))))
+-19.778452923052 -67.735976186979
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (NP (PRP you)) (NP (DT the) (RBS best))))))
+-19.795268442474 -64.110809258358
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (NP (DT the) (NP (JJS best))))))
+-19.842381497737 -66.095779556111
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you)) (NP (DT the) (NP (JJS best)))))))
+-19.876612910222 -67.341158363154
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you)) (NP (DT the) (ADJP (JJS best)))))))
+-19.931815658246 -60.177093408399
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (DT the)) (ADVP (RBS best)))))
+-19.960295955378 -66.979213446859
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (NP (PRP you)) (X (DT the) (JJS best))))))
+-20.106011538645 -65.582377854477
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you)) (ADJP (DT the) (JJS best))))))
+-20.146619228466 -69.733502962879
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (NP (PRP you)) (NP (DT the) (RB best))))))
+-20.186758247375 -68.679308441375
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (NP (NP (DT the)) (JJS best)))))
+-20.220494182479 -65.124265927888
+(S1 (S (NP (PRP I)) (VP (VP (VBP wish) (NP (PRP you))) (NP (DT the) (JJS best)))))
+-20.325589003113 -70.387733880524
+(S1 (S (NP (PRP I)) (VP (VB wish) (NP (PRP you)) (NP (DT the) (JJS best)))))
+-20.537718509227 -70.679045172435
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (NP (DT the) (RBS best))))))
+-20.623697207417 -63.038604901877
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (ADVP (PRP you)) (DT the) (JJS best)))))
+-20.808241252680 -67.064446290148
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (NP (PRP you)) (NP (DT the))) (ADVP (RB best)))))
+-20.809551281404 -68.207175414275
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you))) (NP (DT the) (RBS best))))
+-21.147560105932 -67.935860395548
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (S (VP (NP (DT the) (JJS best)))))))
+-21.317628673122 -64.195288272477
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (DT the)) (NP (JJS best)))))
+-21.380966499799 -69.596459462497
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (X (DT the) (ADJP (JJS best))))))
+-21.638348586924 -65.910295234521
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (NP (PRP you)) (ADJP (DT the) (JJS best))))))
+-22.221369389021 -70.675944702019
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you) (DT the)) (ADVP (RB best))))))
+-22.271157057424 -67.200844783777
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (DT the)) (ADVP (JJS best)))))
+-22.278234132167 -69.713756030697
+(S1 (S (NP (PRP I)) (VP (VB wish) (NP (PRP you)) (S (NP (DT the) (JJS best))))))
+-22.459720058194 -70.788694006703
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (NP (DT the) (ADJP (RB best))))))
+-22.494177760285 -68.891119747236
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (DT the)) (NP (RBS best)))))
+-22.643035877493 -70.923517860862
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you)) (ADVP (NP (DT the)) (RB best)))))
+-22.702629087559 -68.990368831478
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (PRP you) (DT the)) (NP (RB best)))))
+-22.718965285466 -68.584634176636
+(S1 (S (NP (PRP I)) (VP (VBP wish) (NP (NP (PRP you)) (NP (DT the))) (ADVP (RBS best)))))
+-22.738938609669 -69.217370050399
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (PRP you) (DT the)) (NP (JJS best))))))
+-23.035886955126 -68.754825453994
+(S1 (S (NP (PRP I)) (VP (VBP wish) (ADJP (ADVP (PRP you)) (DT the) (JJS best)))))
+-23.530965257755 -66.691351883755
+(S1 (S (NP (PRP I)) (VP (VBP wish) (S (NP (ADVP (PRP you)) (DT the) (JJS best))))))
+

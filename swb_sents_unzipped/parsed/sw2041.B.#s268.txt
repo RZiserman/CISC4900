@@ -1,0 +1,102 @@
+50 x
+-12.726793211080 -41.217819407465
+(S1 (FRAG (RB well) (PP (IN in) (NP (DT the) (NNS cities)))))
+-12.886105407501 -44.586034794142
+(S1 (ADVP (RB well) (PP (IN in) (NP (DT the) (NNS cities)))))
+-13.350752347158 -47.578496660780
+(S1 (NP (NP (NNP well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-13.356093391149 -49.974922628351
+(S1 (NP (UH well) (PP (IN in) (NP (DT the) (NNS cities)))))
+-13.571818929368 -44.309612948258
+(S1 (ADJP (RB well) (PP (IN in) (NP (DT the) (NNS cities)))))
+-13.599819008134 -45.122222966570
+(S1 (S (ADJP (RB well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-13.725379371794 -42.382534960661
+(S1 (PP (RB well) (IN in) (NP (DT the) (NNS cities))))
+-13.817140775258 -42.429570777529
+(S1 (PP (RB well) (PP (IN in) (NP (DT the) (NNS cities)))))
+-13.842559711698 -41.729573037600
+(S1 (PP (ADVP (RB well)) (IN in) (NP (DT the) (NNS cities))))
+-13.940658203074 -47.534076090899
+(S1 (X (RB well) (PP (IN in) (NP (DT the) (NNS cities)))))
+-14.104989942431 -50.995588819958
+(S1 (NP (NP (NN well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-14.372757390586 -50.179987710160
+(S1 (NP (CONJP (RB well) (IN in)) (NP (DT the) (NNS cities))))
+-14.392884106692 -45.309508180611
+(S1 (S (ADJP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-14.505728099824 -51.200824371994
+(S1 (S (VP (NN well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-14.544747544905 -51.127746993384
+(S1 (NP (NP (JJ well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-14.592472875567 -46.597720244351
+(S1 (FRAG (ADVP (RB well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-14.605322532480 -44.279712941806
+(S1 (FRAG (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-14.733249994490 -49.335746020462
+(S1 (S (NP (NNP well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-14.841570864494 -51.297772882681
+(S1 (S (VP (NNP well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-14.852096312554 -50.318489620304
+(S1 (S (ADVP (RB well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-14.855103217065 -51.219879208238
+(S1 (ADJP (JJ well) (PP (IN in) (NP (DT the) (NNS cities)))))
+-14.900176861883 -41.601137589975
+(S1 (FRAG (PP (ADVP (RB well)) (IN in) (NP (DT the) (NNS cities)))))
+-15.052795645161 -46.152789864349
+(S1 (FRAG (ADJP (RB well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-15.126247759824 -48.123790300736
+(S1 (X (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-15.166933810152 -47.242790849290
+(S1 (S (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-15.328259274547 -46.447968247306
+(S1 (ADVP (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-15.393108596316 -49.141649516855
+(S1 (FRAG (NP (NN well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-15.401903290730 -44.355012489804
+(S1 (S (PP (ADVP (RB well)) (IN in) (NP (DT the) (NNS cities)))))
+-15.409540255677 -46.395513267252
+(S1 (PP (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-15.560236484073 -45.656878224535
+(S1 (FRAG (CONJP (RB well) (IN in)) (NP (DT the) (NNS cities))))
+-15.570872689908 -45.042066482386
+(S1 (FRAG (PP (RB well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-15.620588409786 -46.086535127494
+(S1 (S (PP (RB well) (IN in) (NP (DT the) (NNS cities)))))
+-15.854691629267 -49.730682321625
+(S1 (S (NP (NN well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-15.870392855274 -51.296871340627
+(S1 (X (X (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-15.983358821644 -46.384601342673
+(S1 (FRAG (PP (RB well) (IN in) (NP (DT the) (NNS cities)))))
+-16.225764423360 -52.299388548955
+(S1 (S (NP (NP (NN well)) (PP (IN in) (NP (DT the) (NNS cities))))))
+-16.331803778817 -47.423046975132
+(S1 (FRAG (NP (NP (RB well)) (PP (IN in) (NP (DT the) (NNS cities))))))
+-16.335906047476 -52.007102463134
+(S1 (FRAG (ADVP (UH well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-16.599246762553 -49.381878807796
+(S1 (FRAG (ADVP (UH well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-16.703246194257 -52.457328517610
+(S1 (FRAG (VP (RB well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-16.725318600592 -47.629034883394
+(S1 (FRAG (NP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-16.840898519953 -49.931813294328
+(S1 (S (PP (RB well) (PP (IN in) (NP (DT the) (NNS cities))))))
+-16.848634496645 -51.991546218016
+(S1 (FRAG (X (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-16.858232795897 -51.174536350001
+(S1 (FRAG (NP (NNP well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-16.890737941002 -49.931405058897
+(S1 (FRAG (RB well) (RB in) (NP (DT the) (NNS cities))))
+-17.104961790567 -48.877415489647
+(S1 (FRAG (PP (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities))))))
+-17.253676552823 -51.059879082220
+(S1 (FRAG (VP (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities))))))
+-17.256698077108 -51.295505708667
+(S1 (ADJP (ADJP (RB well)) (PP (IN in) (NP (DT the) (NNS cities)))))
+-17.375028630825 -52.519517081985
+(S1 (S (ADVP (ADVP (RB well)) (PP (IN in) (NP (DT the) (NNS cities))))))
+-17.445952335504 -50.871543060917
+(S1 (FRAG (CONJP (RB well) (RB in)) (NP (DT the) (NNS cities))))
+

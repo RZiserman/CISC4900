@@ -1,0 +1,102 @@
+50 x
+-9.104522713211 -35.814628823801
+(S1 (S (NP (DT this)) (VP (VBD was) (ADVP (RB well)))))
+-11.463965247697 -43.885911961157
+(S1 (S (NP (DT this)) (VP (VBD was) (VP (RB well)))))
+-11.604025748133 -42.551821842808
+(S1 (S (NP (DT this)) (VP (VBD was) (VP (ADVP (RB well))))))
+-11.644332078302 -43.682403516330
+(S1 (S (NP (DT this)) (VP (VBD was) (NP (NN well)))))
+-11.805962617075 -41.055951285453
+(S1 (S (DT this) (VP (VBD was) (ADVP (RB well)))))
+-12.115700822614 -44.733353055656
+(S1 (S (NP (DT this)) (VP (VBD was) (NP (UH well)))))
+-12.298726446359 -41.785844263156
+(S1 (S (NP (DT this)) (VP (VBD was) (ADJP (RB well)))))
+-12.506025498811 -43.166769359562
+(S1 (S (NP (DT this)) (VP (VBD was) (ADVP (UH well)))))
+-12.673983859589 -47.886869462607
+(S1 (S (NP (DT this)) (VP (VBD was) (PRT (RB well)))))
+-12.897693643241 -43.999232888208
+(S1 (S (NP (DT this)) (VP (VBD was) (NP (RB well)))))
+-13.067268554225 -47.661673276516
+(S1 (S (NP (DT this)) (VP (VBD was) (RB well))))
+-13.707655353627 -49.208124629919
+(S1 (S (NP (DT this)) (VP (VBD was) (VP (NN well)))))
+-14.115441616155 -49.292641968848
+(S1 (S (NP (NNP this)) (VP (VBD was) (ADVP (RB well)))))
+-14.170924362532 -49.127234285407
+(S1 (S (DT this) (VP (VBD was) (VP (RB well)))))
+-14.286376638713 -48.923725865327
+(S1 (S (DT this) (VP (VBD was) (NP (NN well)))))
+-14.310984862968 -47.793144167058
+(S1 (S (DT this) (VP (VBD was) (VP (ADVP (RB well))))))
+-14.494957502906 -48.843332197850
+(S1 (SBAR (S (NP (DT this)) (VP (VBD was) (ADVP (RB well))))))
+-14.611118770585 -42.226911660812
+(S1 (SBAR (DT this) (S (VP (VBD was) (ADVP (RB well))))))
+-14.795874004824 -43.765716773759
+(S1 (S (NP (DT this)) (VP (VBD was) (S (ADJP (RB well))))))
+-14.912056570237 -49.974675404653
+(S1 (S (DT this) (VP (VBD was) (NP (UH well)))))
+-14.993157782345 -47.027166630136
+(S1 (S (DT this) (VP (VBD was) (ADJP (RB well)))))
+-15.059157598408 -46.137194668265
+(S1 (S (NP (DT this)) (VP (VBD was) (S (ADVP (RB well))))))
+-15.169552932202 -49.868042754542
+(S1 (S (NP (NN this)) (VP (VBD was) (ADVP (RB well)))))
+-15.314158089888 -48.408091821214
+(S1 (S (DT this) (VP (VBD was) (ADVP (UH well)))))
+-15.321204072136 -50.292121915165
+(S1 (S (NP (DT this)) (VP (VBD was) (ADVP (NN well)))))
+-15.374599384302 -53.128191893710
+(S1 (S (DT this) (VP (VBD was) (PRT (RB well)))))
+-15.587356703652 -49.240555237206
+(S1 (S (DT this) (VP (VBD was) (NP (RB well)))))
+-15.768793494409 -52.902995573997
+(S1 (S (DT this) (VP (VBD was) (RB well))))
+-15.967045326095 -49.633037762923
+(S1 (S (NP (DT this)) (VP (VBD was) (S (VP (ADVP (RB well)))))))
+-15.973166013321 -48.870892117192
+(S1 (S (RB this) (VP (VBD was) (ADVP (RB well)))))
+-16.093531453002 -51.295075513657
+(S1 (S (NP (DT this)) (VP (VBD was) (S (VP (RB well))))))
+-16.412811355659 -54.198499869029
+(S1 (NP (NP (DT this)) (VP (VBD was) (ADVP (RB well)))))
+-16.676030100647 -50.298194822396
+(S1 (SBAR (DT this) (S (VP (VBD was) (VP (RB well))))))
+-16.769570345324 -50.094686282798
+(S1 (SBAR (DT this) (S (VP (VBD was) (NP (NN well))))))
+-16.771504955265 -54.020479394987
+(S1 (S (ADVP (RB this)) (VP (VBD was) (ADVP (RB well)))))
+-16.816090601083 -48.964104704047
+(S1 (SBAR (DT this) (S (VP (VBD was) (VP (ADVP (RB well)))))))
+-17.033539096686 -51.145635822124
+(S1 (SBAR (DT this) (S (VP (VBD was) (NP (UH well))))))
+-17.085922321652 -52.940596194655
+(S1 (S (NP (DT this)) (VP (VBD was) (S (VP (NN well))))))
+-17.248404324048 -53.244715443570
+(S1 (S (ADVP (DT this)) (VP (VBD was) (ADVP (RB well)))))
+-17.328696016855 -52.437146723551
+(S1 (S (NP (DT this)) (VP (VBD was) (S (NP (NN well))))))
+-17.500106166386 -49.007039161811
+(S1 (S (DT this) (VP (VBD was) (S (ADJP (RB well))))))
+-17.576541305186 -49.579052196573
+(S1 (SBAR (DT this) (S (VP (VBD was) (ADVP (UH well))))))
+-17.697886877492 -48.198126974337
+(S1 (SBAR (DT this) (S (VP (VBD was) (ADJP (RB well))))))
+-17.763389759970 -51.378517056316
+(S1 (S (DT this) (VP (VBD was) (S (ADVP (RB well))))))
+-18.006448246356 -54.299152474737
+(S1 (SBAR (DT this) (S (VP (VBD was) (PRT (RB well))))))
+-18.251612168313 -50.411515654677
+(S1 (SBAR (DT this) (S (VP (VBD was) (NP (RB well))))))
+-18.438194526993 -53.400595692636
+(S1 (S (NP (RB this)) (VP (VBD was) (ADVP (RB well)))))
+-18.449091057434 -54.073956009879
+(S1 (SBAR (DT this) (S (VP (VBD was) (RB well)))))
+-20.161866449198 -50.177999611343
+(S1 (SBAR (DT this) (S (VP (VBD was) (S (ADJP (RB well)))))))
+-20.425150042782 -52.549477505848
+(S1 (SBAR (DT this) (S (VP (VBD was) (S (ADVP (RB well)))))))
+

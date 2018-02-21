@@ -1,0 +1,72 @@
+35 x
+-13.830300323641 -45.854890215793
+(S1 (S (NP (NN something)) (VP (VB happen))))
+-14.717167936559 -53.541958919501
+(S1 (NP (NP (NN something)) (VP (VB happen))))
+-15.218613313666 -45.631157025737
+(S1 (S (VP (NN something) (VP (VB happen)))))
+-15.686512119975 -48.572565945140
+(S1 (S (NP (NN something)) (VP (VBP happen))))
+-16.113195692962 -50.217830171060
+(S1 (S (VP (NN something) (VB happen))))
+-16.153344891481 -53.815519184375
+(S1 (NP (NN something) (S (VP (VB happen)))))
+-16.563843124424 -54.509921516798
+(S1 (NP (NP (NN something)) (SBAR (S (VP (VB happen))))))
+-16.754786892264 -50.178047043173
+(S1 (NP (NN something) (S (VP (VBP happen)))))
+-17.615881831687 -56.787065938990
+(S1 (NP (NN something) (SBAR (S (VP (VB happen))))))
+-17.733559122150 -57.334272853181
+(S1 (NP (NP (NN something)) (VP (VBP happen))))
+-18.055527230912 -51.830631032926
+(S1 (S (ADVP (NN something)) (VP (VB happen))))
+-18.106541339327 -54.574685402047
+(S1 (S (NP (NN something)) (S (VP (VB happen)))))
+-18.356467315188 -58.956440958302
+(S1 (S (NP (NP (NN something)) (VP (VB happen)))))
+-18.379078160704 -53.786990662823
+(S1 (NP (NP (NN something)) (SBAR (S (VP (VBP happen))))))
+-18.403599660835 -55.108276633937
+(S1 (S (VP (NN something) (S (VP (VB happen))))))
+-19.233441021915 -56.598961739561
+(S1 (S (VP (NN something) (VP (VBP happen)))))
+-19.311349365925 -57.845991377958
+(S1 (S (NP (NP (NN something)) (SBAR (S (VP (VB happen)))))))
+-19.399861155553 -54.600070804912
+(S1 (S (VP (ADVP (NN something)) (VB happen))))
+-19.612643232058 -58.175336478226
+(S1 (NP (NN something) (SBAR (S (VP (VBP happen))))))
+-19.737236429757 -58.058358432678
+(S1 (S (NP (NN something) (S (VP (VB happen))))))
+-20.050001858646 -60.281195538633
+(S1 (S (VP (NP (NN something)) (S (VP (VB happen))))))
+-20.102827793946 -57.058967120499
+(S1 (S (VP (NN something) (S (VP (VBP happen))))))
+-20.456382716939 -58.130301773209
+(S1 (S (VP (NN something) (SBAR (S (VP (VB happen)))))))
+-20.661588086243 -59.523513971168
+(S1 (S (NP (NN something)) (SBAR (S (VP (VB happen))))))
+-20.802535629627 -58.718431095976
+(S1 (S (ADVP (NN something)) (VP (VBP happen))))
+-20.870045742918 -57.810336837274
+(S1 (S (VP (ADVP (NN something)) (VBP happen))))
+-20.972047736121 -56.061145105436
+(S1 (S (NP (NP (NN something)) (SBAR (S (VP (VBP happen)))))))
+-21.286230084463 -57.312239672859
+(S1 (S (NP (NN something) (S (VP (VBP happen))))))
+-21.457410678270 -62.309720091498
+(S1 (S (NP (NP (NN something)) (VP (VBP happen)))))
+-21.473522352682 -62.886134740193
+(S1 (S (NP (NN something) (SBAR (S (VP (VB happen)))))))
+-22.425000015976 -60.262103050353
+(S1 (S (VP (NN something) (SBAR (S (VP (VBP happen)))))))
+-22.583481289800 -65.292905160741
+(S1 (S (NP (NN something)) (S (VP (VBP happen)))))
+-23.166165807825 -63.353994414168
+(S1 (S (NP (NN something)) (SBAR (S (VP (VBP happen))))))
+-23.315747067454 -63.212489798007
+(S1 (S (NP (NN something) (SBAR (S (VP (VBP happen)))))))
+-25.498098444180 -74.219288956040
+(S1 (S (VP (NP (NN something)) (S (VP (VBP happen))))))
+

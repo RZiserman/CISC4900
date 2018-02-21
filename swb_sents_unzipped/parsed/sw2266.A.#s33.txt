@@ -1,0 +1,102 @@
+50 x
+-33.667289705068 -115.240501533784
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY)))))
+-34.373899760990 -117.281046172428
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY)))))
+-34.668513059905 -116.353240653546
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-35.223289343944 -122.206581713746
+(S1 (S (NP (PRP I)) (VP (VBP like) (SBAR (S (NP (DT the) (NN old-timey)) (VP (NNS ones) (NP (NNP TOM) (CC AND) (NNP JERRY))))))))
+-35.336863156286 -122.158568336980
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones) (NNP TOM) (CC AND) (NNP JERRY)))))
+-35.370926377376 -116.640523977031
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-35.492779502560 -118.192983754140
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones) (NNP TOM) (CC AND) (NNP JERRY)))))
+-35.835163336254 -119.977671702879
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (JJ old-timey) (NNS ones)) (ADJP (NNP TOM) (CC AND) (NNP JERRY))))))
+-35.839696714376 -120.627753506529
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NN old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY)))))
+-35.912512177838 -123.396785758278
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NN old-timey)) (VP (NNS ones) (NP (NNP TOM) (CC AND) (NNP JERRY)))))))
+-36.357552362831 -122.985687107504
+(S1 (NP (NP (NN I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones) (NNP TOM) (CC AND) (NNP JERRY)))))
+-36.369129921826 -121.103730180258
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NN old-timey)) (NP (NNS ones) (NNP TOM) (CC AND) (NNP JERRY))))))
+-36.394863646924 -119.542663604401
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones) (S (NP (NNP TOM) (CC AND) (NNP JERRY)))))))
+-36.470639757976 -117.075907796659
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones)) (S (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-36.538820634497 -121.740842974566
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NN old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-36.833178700650 -123.453657560901
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (NP (DT the) (JJ old-timey) (NNS ones)) (NNP TOM) (CC AND) (NNP JERRY)))))
+-36.867516598375 -115.878452557541
+(S1 (S (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones)))) (ADJP (NNP TOM) (CC AND) (NNP JERRY))))
+-36.891061430744 -121.831515964374
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (NN old-timey) (NNS ones) (NNP TOM) (CC AND) (NNP JERRY)))))
+-36.913289926533 -121.727861331404
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (JJ old-timey) (NNS ones) (NNP TOM) (CC AND) (NNP JERRY))))))
+-36.913674436982 -122.980576072220
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (NN old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY)))))
+-36.924447052596 -119.370605947280
+(S1 (S (NP (PRP I)) (VP (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones))) (NP (NNP TOM) (CC AND) (NNP JERRY)))))
+-36.943543220307 -122.172422521646
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones) (S (ADJP (NNP TOM) (CC AND) (NNP JERRY)))))))
+-37.318646783699 -121.185881021814
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones)) (S (ADJP (NNP TOM) (CC AND) (NNP JERRY))))))
+-37.333937244279 -117.920582895337
+(S1 (S (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones)))) (NP (NNP TOM) (CC AND) (NNP JERRY))))
+-37.367170086158 -122.718982040349
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-37.367227158022 -122.870572269577
+(S1 (S (NP (PRP I)) (VP (VB like) (S (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-37.493326571246 -116.753028330119
+(S1 (NP (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones)))) (NNP TOM) (CC AND) (NNP JERRY)))
+-37.535382890006 -121.044314001061
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (JJ old-timey) (NNS ones)) (S (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-37.624538362763 -121.239231291796
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (NN old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-37.673077914979 -123.094053435481
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NN old-timey) (NNS ones) (NNP TOM) (CC AND) (NNP JERRY))))))
+-37.989811002231 -121.720343275211
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-38.134025336406 -123.245930224352
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (JJ old-timey) (NNS ones)) (S (NP (NNP TOM) (CC AND) (NNP JERRY)))))))
+-38.170482864148 -121.069939621860
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NP (NNP TOM)) (CC AND) (NP (NNP JERRY))))))
+-38.228749265417 -121.837021062467
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NP (NNP TOM)) (CC AND) (NP (NNP JERRY)))))))
+-38.356880077748 -122.628093943865
+(S1 (FRAG (S (NP (PRP I)) (VP (VB like) (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-38.406885494811 -122.577527095167
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NP (NNP TOM)) (CC AND) (NP (NNP JERRY)))))))
+-38.490177471615 -122.290603092516
+(S1 (S (NP (NP (NN I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones)))) (ADJP (NNP TOM) (CC AND) (NNP JERRY))))
+-38.495559457284 -122.463159769403
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NN old-timey) (NNS ones)) (S (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-38.500680187476 -122.410089674537
+(S1 (NP (NP (NN I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones))) (NP (NNP TOM) (CC AND) (NNP JERRY))))
+-38.706682080495 -121.573650726720
+(S1 (FRAG (NP (PRP I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones))) (NP (NNP TOM) (CC AND) (NNP JERRY))))
+-38.886459586808 -121.684260552801
+(S1 (NP (NP (NP (NN I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones)))) (NP (NNP TOM) (CC AND) (NNP JERRY))))
+-38.954240938156 -120.075518337985
+(S1 (FRAG (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones)))) (NP (NNP TOM) (CC AND) (NNP JERRY))))
+-38.995967371312 -122.833082341169
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY)))))))
+-39.026744302938 -123.647294369659
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NP (NNP TOM)) (CC AND) (NP (NNP JERRY))))))
+-39.494798512092 -123.301511781631
+(S1 (S (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (NN old-timey) (NNS ones)))) (ADJP (NNP TOM) (CC AND) (NNP JERRY))))
+-39.693447646660 -123.120365694590
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (JJ old-timey) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY)))))))
+-40.124769126001 -122.052644690072
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (ADJP (JJ old-timey)) (NNS ones)) (NP (NNP TOM) (CC AND) (NNP JERRY))))))
+-40.793161055138 -123.555749580792
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (JJ old-timey) (NNS ones)) (S (NP (NNP TOM) (CC AND) (NNP JERRY)))))))
+-41.235309985719 -123.076824800648
+(S1 (FRAG (NP (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (JJ old-timey) (NNS ones)))) (NNP TOM) (CC AND) (NNP JERRY))))
+-42.147695401159 -122.782057183813
+(S1 (S (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (ADJP (JJ old-timey)) (NNS ones)))) (ADJP (NNP TOM) (CC AND) (NNP JERRY))))
+

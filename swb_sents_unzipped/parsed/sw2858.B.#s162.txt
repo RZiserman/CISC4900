@@ -1,0 +1,102 @@
+50 x
+-10.100625634505 -40.882455361295
+(S1 (S (NP (PRP we)) (VP (VBP seem) (S (VP (TO to) (VP (VB agree)))))))
+-12.411897256805 -46.646706629701
+(S1 (S (NP (PRP we)) (VP (VB seem) (S (VP (TO to) (VP (VB agree)))))))
+-13.934517162584 -53.976984778053
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (S (VP (TO to) (VP (VB agree))))))))
+-15.542494206676 -57.234256937623
+(S1 (S (NP (PRP we)) (VP (VB seem) (SBAR (S (VP (TO to) (VP (VB agree))))))))
+-15.645732605994 -54.854438174925
+(S1 (S (NP (PRP we)) (VP (VBP seem) (PP (TO to) (NP (VB agree))))))
+-15.996702246747 -56.057008072534
+(S1 (S (NP (PRP we)) (VP (VBP seem) (VP (TO to) (VP (VB agree))))))
+-16.206531440523 -57.587040028116
+(S1 (S (NP (PRP we)) (VP (VBP seem) (PP (TO to) (VP (VB agree))))))
+-16.427322438835 -55.297311106166
+(S1 (S (NP (PRP we)) (VP (VBP seem) (S (VP (TO to) (S (VP (VB agree))))))))
+-16.521554709321 -59.692759361998
+(S1 (S (NP (PRP we)) (VBP seem) (VP (TO to) (VP (VB agree)))))
+-16.728418308905 -58.187860522972
+(S1 (S (NP (PRP we)) (VP (VBP seem) (S (TO to) (VP (VB agree))))))
+-16.968044361438 -56.309741408967
+(S1 (S (NP (PRP we)) (VP (VB seem) (PP (TO to) (NP (VB agree))))))
+-17.280767519364 -58.873578489347
+(S1 (S (NP (PRP we)) (VP (VB seem) (PP (TO to) (VP (VB agree))))))
+-17.500442056228 -61.203681143789
+(S1 (S (NP (PRP we)) (VP (VBP seem) (S (VP (TO to) (VP (VBP agree)))))))
+-17.816960803071 -60.238485195032
+(S1 (S (NP (PRP we)) (VP (VB seem) (S (TO to) (VP (VB agree))))))
+-18.342043706100 -63.826190092724
+(S1 (S (NP (PRP we)) (VP (VBP seem) (PP (TO to) (S (VP (VB agree)))))))
+-18.512943597003 -64.503421211777
+(S1 (S (NP (PRP we)) (VP (VB seem) (VP (TO to) (VP (VB agree))))))
+-18.555756859116 -64.576743228913
+(S1 (S (NP (PRP we)) (VP (VBP seem) (PP (TO to) (NP (VBP agree))))))
+-18.703633506146 -61.061562374573
+(S1 (S (NP (PRP we)) (VP (VB seem) (S (VP (TO to) (S (VP (VB agree))))))))
+-18.730199034232 -67.523672209439
+(S1 (NP (NP (PRP we)) (VP (VB seem) (S (VP (TO to) (VP (VB agree)))))))
+-18.867970918122 -64.568073606701
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (TO to) (S (VP (VB agree)))))))
+-19.506711832158 -65.072230010211
+(S1 (S (NP (NP (PRP we)) (VP (VB seem) (S (VP (TO to) (VP (VB agree))))))))
+-19.518545461195 -65.511539479318
+(S1 (S (NP (PRP we)) (VP (VB seem) (PP (TO to) (S (VP (VB agree)))))))
+-19.822487481772 -66.032046462955
+(S1 (S (NP (PRP we)) (VP (VB seem) (PP (TO to) (NP (VBP agree))))))
+-19.921428829900 -67.366106880283
+(S1 (S (NP (PRP we)) (VP (VBP seem) (PP (TO to) (VP (VBP agree))))))
+-19.927644246527 -66.967932412195
+(S1 (S (NP (PRP we)) (VP (VB seem) (S (VP (TO to) (VP (VBP agree)))))))
+-19.956700817181 -60.169462264819
+(S1 (S (NP (PRP we)) (VP (VBP seem) (S (VP (TO to) (S (VP (VBP agree))))))))
+-20.006190902797 -64.469749882684
+(S1 (S (NP (PRP we)) (VP (VBP seem) (S (TO to) (VP (VBP agree))))))
+-20.084687233448 -69.691295622908
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (S (TO to) (VP (VB agree)))))))
+-20.108674753954 -73.811479888346
+(S1 (NP (NP (PRP we)) (VP (VBP seem) (S (VP (TO to) (VP (VB agree)))))))
+-20.177050986193 -67.780847594275
+(S1 (S (NP (PRP we)) (VP (VB seem) (SBAR (TO to) (S (VP (VB agree)))))))
+-20.426454538123 -63.322764514981
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (S (TO to) (VP (VBP agree)))))))
+-20.485476281250 -68.391840495131
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (S (VP (TO to) (S (VP (VB agree)))))))))
+-20.489737505183 -66.604278718240
+(S1 (S (NP (PRP we)) (VP (VBP seem) (PP (TO to) (S (VP (VBP agree)))))))
+-20.788241204674 -71.200084874258
+(S1 (S (NP (NP (PRP we)) (VP (VBP seem) (S (VP (TO to) (VP (VB agree))))))))
+-20.940083778740 -68.652645341515
+(S1 (S (NP (PRP we)) (VP (VB seem) (PP (TO to) (VP (VBP agree))))))
+-21.221256559963 -73.913359079758
+(S1 (S (NP (PRP we)) (VP (VP (VBP seem)) (VP (TO to) (VP (VB agree))))))
+-21.407786978981 -72.234385112278
+(S1 (S (NP (PRP we)) (VP (VB seem) (SBAR (S (TO to) (VP (VB agree)))))))
+-21.439640543119 -66.212036344923
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (TO to) (S (VP (VBP agree)))))))
+-21.491214857749 -67.516217646002
+(S1 (S (NP (PRP we)) (VP (VB seem) (S (TO to) (VP (VBP agree))))))
+-21.559472115303 -71.307373382012
+(S1 (S (NP (PRP we)) (VP (VBP seem) (VP (TO to) (S (VP (VB agree)))))))
+-21.610658127490 -68.289628104834
+(S1 (S (NP (PRP we)) (VP (VB seem) (PP (TO to) (S (VP (VBP agree)))))))
+-21.743948582003 -74.659656996303
+(S1 (S (NP (NP (PRP we)) (VP (VB seem))) (VP (TO to) (VP (VB agree)))))
+-22.116281584654 -71.649112654701
+(S1 (S (NP (PRP we)) (VP (VB seem) (SBAR (S (VP (TO to) (S (VP (VB agree)))))))))
+-22.168209045496 -74.298210560547
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (S (VP (TO to) (VP (VBP agree))))))))
+-22.259826065280 -65.933713533225
+(S1 (S (NP (PRP we)) (VP (VB seem) (S (VP (TO to) (S (VP (VBP agree))))))))
+-22.468385543161 -68.044025739295
+(S1 (S (NP (PRP we)) (VP (VB seem) (SBAR (S (TO to) (VP (VBP agree)))))))
+-22.642472484500 -74.107615068041
+(S1 (S (NP (PRP we)) (VBP seem) (VP (TO to) (S (VP (VB agree))))))
+-22.717304683977 -69.424810332496
+(S1 (S (NP (PRP we)) (VP (VB seem) (SBAR (TO to) (S (VP (VBP agree)))))))
+-24.045843784819 -74.733333397921
+(S1 (S (NP (NP (PRP we)) (VP (VB seem) (PP (TO to) (NP (VB agree)))))))
+-24.600102004785 -73.263991653783
+(S1 (S (NP (PRP we)) (VP (VBP seem) (SBAR (S (VP (TO to) (S (VP (VBP agree)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-9.423125214484 -38.391289122616
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (RB back))))))
+-10.503507282272 -36.876664564469
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (RB back)))))))
+-10.781925414524 -44.079216363766
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PRT (RP back))))))
+-11.811869595100 -42.564591805619
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PRT (RP back)))))))
+-12.220143549950 -47.526659906800
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PRT (RB back))))))
+-12.655953122662 -49.011624105119
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VB look) (PRT (RP back))))))
+-12.955235629808 -48.040788965027
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VB look) (ADVP (RB back))))))
+-12.994643279112 -44.983839628860
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (RP back))))))
+-13.300525617738 -46.012035348653
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PRT (RB back)))))))
+-13.820130995219 -45.531723081553
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (ADVP (RB back))))))
+-13.983744137282 -48.565397226472
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VB look) (PRT (RP back)))))))
+-14.017163261962 -46.524966775895
+(S1 (S (IN because) (NP (PRP they)) (VP (VBP look) (ADVP (RB back)))))
+-14.024587456900 -43.469215070713
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (RP back)))))))
+-14.045066144370 -52.060975698691
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (NP (NN back))))))
+-14.093070068772 -49.168710674206
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PP (RP back))))))
+-14.337692134428 -47.594562086379
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VB look) (ADVP (RB back)))))))
+-14.405582865552 -50.587441886698
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PP (RB back))))))
+-14.653843683829 -52.478523400563
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (RB back)))))
+-14.827935901297 -43.418192139359
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (ADVP (RB back)))))))
+-14.922218177340 -49.539695787907
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP they)) (VP (VBP look) (ADVP (RB back)))))))
+-15.016936388137 -49.297512501162
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADJP (RP back))))))
+-15.052447000110 -47.598760270356
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADJP (RB back))))))
+-15.080450812158 -50.546351140544
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (NP (NN back)))))))
+-15.123014249347 -47.654086116059
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PP (RP back)))))))
+-15.150856859176 -49.339549161537
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADJP (JJ back))))))
+-15.178931195259 -51.219650322702
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (PRT (RP back))))))
+-15.225350326025 -47.993935768445
+(S1 (S (RB because) (NP (PRP they)) (VP (VBP look) (ADVP (RB back)))))
+-15.232449903718 -52.067089826400
+(S1 (S (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (RB back))))))
+-15.235420251818 -52.212894173228
+(S1 (S (IN because) (NP (PRP they)) (VP (VBP look) (PRT (RP back)))))
+-15.485964933340 -49.072817328551
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (PP (RB back)))))))
+-15.519261759441 -49.150703570007
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (JJ back))))))
+-15.534002712144 -52.125958848147
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (NP (RB back))))))
+-15.642329350872 -52.380521890330
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (VP (VB back)))))))
+-15.734225751616 -50.963898842416
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (RB back))))))
+-16.046880565925 -47.782887943015
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADJP (RP back)))))))
+-16.132829067898 -46.084135712209
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADJP (RB back)))))))
+-16.136298211337 -49.106119380509
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (PRT (RP back)))))))
+-16.177682130467 -51.425561782572
+(S1 (S (X (IN because)) (NP (PRP they)) (VP (VBP look) (ADVP (RB back)))))
+-16.186258476963 -47.824924603390
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADJP (JJ back)))))))
+-16.449693079848 -51.381776212253
+(S1 (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (S (ADJP (RB back)))))))
+-16.471874380293 -51.940175185579
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (S (ADVP (RB back))))))))
+-16.554663377229 -47.636079011860
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (JJ back)))))))
+-16.614384779932 -50.611334290000
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (NP (RB back)))))))
+-16.645485688324 -52.287727994560
+(S1 (FRAG (IN because) (S (NP (PRP they)) (VP (VBP look) (ADVP (RB back))))))
+-17.330064175134 -52.074021434339
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (NP (JJ back)))))))
+-17.391649059847 -52.124273587797
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (ADVP (RP back))))))
+-17.530075147635 -49.867151654106
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP they)) (VP (VBP look) (S (ADJP (RB back))))))))
+-17.624954233975 -52.553562923543
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (PRT (RB back)))))))
+-18.349016075924 -50.010742645603
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (ADVP (RP back)))))))
+-20.457257686923 -52.625663287099
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP they)) (VP (VBP look) (ADJP (RB back)))))))
+

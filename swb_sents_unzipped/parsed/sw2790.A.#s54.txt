@@ -1,0 +1,102 @@
+50 x
+-22.804578108537 -75.452973679809
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (QP (RB about) (CD six)) (NNS months)) (ADVP (RB along)))))
+-23.572497786824 -75.966403419650
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (POS 's) (NP (QP (RB about) (CD six)) (NNS months)) (ADVP (RB along)))))
+-23.662792272229 -78.588090226693
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (QP (RB about) (CD six)) (NNS months)) (PRT (RP along)))))
+-23.884725079227 -77.892701368038
+(S1 (S (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (RB about) (CD six)) (NNS months)) (ADVP (RP along))))
+-23.912575085738 -78.061765979742
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (IN along)))))
+-23.944146207259 -76.551905928784
+(S1 (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (RB about) (CD six)) (NNS months)) (RB along)))
+-23.991561941505 -77.153444136476
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (IN along))))
+-24.043020008362 -76.743604293628
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (IN along))))
+-24.737166858911 -78.527487871926
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (RB along))))
+-24.774359825258 -80.204639917285
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (QP (RB about) (CD six)) (NNS months)) (ADVP (IN along)))))
+-24.814430686511 -79.634313754090
+(S1 (S (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (IN along))))
+-24.834624976572 -79.329092571149
+(S1 (S (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (IN along)))))
+-24.901973617895 -78.792592062403
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (RB along))))
+-24.952291020507 -79.299809736778
+(S1 (S (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (RB about) (CD six)) (NNS months)) (IN along))))
+-25.018891467626 -79.187990970618
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (QP (RB about) (CD six)) (NNS months)) (ADVP (RP along)))))
+-25.080683491969 -76.922658826668
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (QP (IN about) (CD six)) (NNS months)) (ADVP (RB along)))))
+-25.193683710781 -78.119103209050
+(S1 (FRAG (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (RB about) (CD six)) (NNS months)) (RB along))))
+-25.312113029087 -76.116375846991
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (IN about) (CD six) (NNS months)) (IN along))))
+-25.342675161783 -78.228608040851
+(S1 (FRAG (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (RB about) (CD six)) (NNS months)) (IN along))))
+-25.438200484427 -80.511917750921
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (ADVP (NP (QP (RB about) (CD six)) (NNS months)) (RB along)))))
+-25.441359257164 -78.725855228161
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (RB about) (CD six) (NNS months)) (IN along))))
+-25.540868273835 -79.447820611406
+(S1 (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (RB about) (CD six) (NNS months)) (RB along)))
+-25.579664693256 -77.436088566509
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (POS 's) (NP (QP (IN about) (CD six)) (NNS months)) (ADVP (RB along)))))
+-25.762066561631 -80.343038142089
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (RB about) (CD six) (NNS months)) (RB along))))
+-25.794165577520 -79.135695071009
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (RB about) (CD six) (NNS months)) (IN along))))
+-25.827973424144 -79.280731247419
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (IN about) (CD six) (NNS months)) (ADVP (RB along)))))
+-25.927936430708 -77.434537336844
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (ADVP (NP (IN about) (CD six) (NNS months)) (IN along)))))
+-25.946883129442 -76.526215689838
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (IN about) (CD six) (NNS months)) (IN along))))
+-25.966226789873 -80.057775373552
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (QP (IN about) (CD six)) (NNS months)) (PRT (RP along)))))
+-26.114862156026 -79.935803908155
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (POS 's) (NP (IN about) (CD six) (NNS months)) (ADVP (RB along)))))
+-26.178220370170 -79.531451126601
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (ADVP (NP (QP (IN about) (CD six)) (NNS months)) (IN along)))))
+-26.203256292085 -78.722911973992
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (IN about) (CD six) (NNS months)) (RB along))))
+-26.210758575026 -80.044016847164
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (ADVP (NP (RB about) (CD six) (NNS months)) (IN along)))))
+-26.284046322794 -78.213289440487
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (QP (IN about) (CD six)) (NNS months)) (IN along))))
+-26.331137710615 -80.608142332565
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (RB about) (CD six) (NNS months)) (RB along))))
+-26.351371981691 -78.021591075643
+(S1 (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (IN about) (CD six)) (NNS months)) (RB along)))
+-26.361703080871 -79.362386514896
+(S1 (S (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (IN about) (CD six)) (NNS months)) (ADVP (RP along))))
+-26.490217634509 -78.701864124511
+(S1 (S (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (IN about) (CD six) (NNS months)) (IN along)))))
+-26.521395471968 -80.316003631972
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (PP (IN about) (NP (CD six) (NNS months))) (ADVP (RB along)))))
+-26.583666653149 -78.623129283335
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (QP (IN about) (CD six)) (NNS months)) (IN along))))
+-26.769751827056 -79.007085127651
+(S1 (S (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (IN about) (CD six) (NNS months)) (IN along))))
+-27.054291221069 -78.988016164469
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (IN about) (CD six) (NNS months)) (RB along))))
+-27.069334212152 -80.769494883636
+(S1 (S (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (IN about) (CD six)) (NNS months)) (IN along))))
+-27.272818233343 -79.997173018785
+(S1 (NP (NP (PRP$ my) (NN wife) (POS 's)) (ADVP (NP (QP (IN about) (CD six)) (NNS months)) (RB along))))
+-27.322325988058 -80.657676117477
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (NP (QP (IN about) (CD six)) (NNS months)) (ADVP (RP along)))))
+-27.600909485212 -79.588788355909
+(S1 (FRAG (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (IN about) (CD six)) (NNS months)) (RB along))))
+-27.650558283662 -80.707341796406
+(S1 (S (NP (PRP$ my) (NN wife)) (VP (VBZ 's) (ADVP (NP (IN about) (CD six) (NNS months)) (RB along)))))
+-27.721637706215 -79.698293187709
+(S1 (FRAG (ADVP (NP (NP (PRP$ my) (NN wife) (POS 's)) (QP (IN about) (CD six)) (NNS months)) (IN along))))
+-27.788703392327 -80.262277209261
+(S1 (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (QP (IN about) (CD six)) (NNS months)) (RB along))))
+-27.917431291724 -80.456095226171
+(S1 (FRAG (NP (NP (PRP$ my) (NN wife) (VBZ 's)) (ADVP (NP (IN about) (CD six) (NNS months)) (IN along)))))
+

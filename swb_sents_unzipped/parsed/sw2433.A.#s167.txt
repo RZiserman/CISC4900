@@ -1,0 +1,102 @@
+50 x
+-17.086158315879 -63.021469780045
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-19.443380722126 -70.786692279577
+(S1 (S (NP (DT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-20.025527342332 -72.294319452126
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (DT all) (DT the) (NN time)))))
+-20.296227348547 -70.461669965863
+(S1 (FRAG (NP (PDT all) (DT that)) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-20.367482777499 -67.309949373214
+(S1 (FRAG (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-20.533664496550 -72.940948686133
+(S1 (SBAR (RB all) (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-20.616045972216 -71.644241916182
+(S1 (NP (PDT all) (DT that) (VBG pounding) (PDT all) (DT the) (NN time)))
+-20.637039374064 -74.309666500494
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (NP (DT the) (NN time))))))
+-20.763997100662 -73.379238177692
+(S1 (NP (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-20.946302814639 -74.252283673185
+(S1 (S (NP (DT all)) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-20.994005083933 -71.509420527183
+(S1 (S (NP (DT all)) (NP (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-21.059336992773 -75.039957271760
+(S1 (S (NP (DT all)) (DT that) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-21.061078751512 -73.893952572567
+(S1 (S (NP (RB all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-21.121911566666 -74.407019342332
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (RB all) (DT the) (NN time)))))
+-21.178939571363 -73.072795283467
+(S1 (S (RB all) (NP (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-21.306332767195 -73.582281965584
+(S1 (SBAR (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-21.466102427725 -74.102888346224
+(S1 (FRAG (RB all) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-21.590994858041 -75.282203566314
+(S1 (S (ADVP (RB all)) (NP (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-21.623562280113 -77.034224145258
+(S1 (FRAG (DT all) (WHNP (WDT that)) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-21.689588423479 -75.878613935320
+(S1 (S (DT all) (VP (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-21.783615116992 -77.307728588729
+(S1 (FRAG (ADVP (DT all)) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-21.810014522374 -74.680373238644
+(S1 (FRAG (NP (DT all) (DT that)) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-21.894693934513 -77.873602614698
+(S1 (FRAG (RB all) (PP (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-21.990076967394 -75.367381247613
+(S1 (S (NP (DT all)) (VP (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-21.995179966558 -78.316918019795
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (ADVP (RB all)) (NP (DT the) (NN time)))))
+-22.066554267985 -76.428657667693
+(S1 (FRAG (ADVP (RB all)) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-22.263107394287 -75.938170326388
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (DT all)) (NP (DT the) (NN time)))))
+-22.299836781743 -74.764100619319
+(S1 (S (ADVP (DT all)) (NP (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-22.365137293677 -78.047787571583
+(S1 (SBAR (ADVP (RB all)) (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-22.465439733361 -74.100224338712
+(S1 (FRAG (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-22.511114055773 -74.715698042328
+(S1 (FRAG (SBAR (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-22.526002449521 -74.171108504650
+(S1 (S (NP (PDT all) (DT that) (VBG pounding) (PDT all) (DT the) (NN time))))
+-22.562388531308 -77.787202086398
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (S (NP (DT all)) (NP (DT the) (NN time))))))
+-22.596094145240 -74.303938870141
+(S1 (FRAG (NP (PDT all) (DT that) (VBG pounding) (PDT all) (DT the) (NN time))))
+-22.617796762411 -78.286861583606
+(S1 (S (NP (DT all)) (ADVP (RB that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-22.699279279600 -77.289591812958
+(S1 (ADVP (ADVP (RB all)) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-22.943938884232 -75.075171801141
+(S1 (FRAG (S (NP (DT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-23.121037601950 -77.080996108800
+(S1 (ADJP (RB all) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-23.147542010322 -78.610158952862
+(S1 (FRAG (NP (DT all)) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-23.306851806740 -76.582799045295
+(S1 (FRAG (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (DT all) (DT the) (NN time))))))
+-23.457107095145 -78.057370072419
+(S1 (S (ADJP (RB all) (SBAR (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))))
+-23.475813980539 -78.024344259464
+(S1 (S (NP (PDT all) (DT that)) (VP (VBG pounding) (S (NP (PDT all) (DT the) (NN time))))))
+-23.605017446037 -78.585489646996
+(S1 (FRAG (NP (RB all) (DT that)) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-23.723861864229 -78.010872131425
+(S1 (FRAG (SBAR (ADVP (RB all)) (IN that) (S (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))))
+-23.918363835684 -78.598146093663
+(S1 (FRAG (S (NP (PDT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (NP (DT the) (NN time)))))))
+-23.979866027988 -78.318927611493
+(S1 (FRAG (NP (DT all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-24.122249655674 -78.093084462785
+(S1 (S (ADVP (RB all) (IN that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-24.423839574886 -78.315797804527
+(S1 (NP (NP (PDT all) (DT that)) (PP (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+-24.589936165740 -78.182431991466
+(S1 (FRAG (S (NP (RB all) (DT that)) (VP (VBG pounding) (NP (PDT all) (DT the) (NN time))))))
+-24.966966653231 -74.428107099372
+(S1 (S (VP (ADVP (RB all) (IN that)) (VBG pounding) (NP (PDT all) (DT the) (NN time)))))
+

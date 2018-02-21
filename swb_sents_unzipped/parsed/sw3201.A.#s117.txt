@@ -1,0 +1,102 @@
+50 x
+-16.584323202989 -62.658943575042
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-16.963071410351 -62.589668230871
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (RB just) (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-17.281246269020 -59.323764932299
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-17.382758137182 -59.043148092073
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-17.630742956775 -64.826585359594
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (RB just) (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-17.996396179801 -67.550640541962
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB just) (JJ good) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-18.005085028704 -62.830893693606
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good) (S (VP (TO to) (VP (VB recycle))))))))
+-18.653015906097 -67.775434037093
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (NP (RB just) (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-18.763147187908 -65.337343813830
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle))))))))
+-18.873914828559 -69.318647286631
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADJP (RB just) (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-18.997092844102 -66.486405240241
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle))))))))
+-19.145805081208 -64.598832179214
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-19.174806580602 -61.200443159328
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good) (S (VP (TO to) (VP (VB recycle))))))))
+-19.250130713902 -67.527646191222
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB just) (JJ good) (S (VP (TO to) (VP (VB recycle))))))))
+-20.007046479053 -67.606850977321
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB just) (JJ good) (S (VP (TO to) (VP (VB recycle))))))))
+-20.050231190745 -70.151420520424
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB just) (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-20.238921218481 -69.191977866650
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (QP (RB just) (JJ good))) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-20.265651379747 -68.725724041695
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (ADJP (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-20.360368802154 -69.331104463462
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (ADJP (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-20.573768302271 -70.123352030950
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (RB just) (JJ good)) (S (VP (TO to) (VP (VB recycle))))))))
+-20.616750654456 -70.543730879947
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB just) (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-20.644982720879 -66.981845386606
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (RB just)) (JJ good) (S (VP (TO to) (VP (VB recycle))))))))
+-20.744704960709 -66.793709867043
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB just) (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-20.917877506617 -67.450509653764
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (NP (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-20.920527175374 -70.714629256653
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (ADVP (RB just)) (JJ good)) (SBAR (S (VP (TO to) (VP (VB recycle)))))))))
+-21.074384775328 -65.539994486531
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good) (PP (TO to) (NP (VB recycle)))))))
+-21.147438929306 -65.796745036070
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (RB just)) (JJ good)) (S (VP (TO to) (VP (VB recycle)))))))
+-21.395824475971 -68.918160625414
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB just) (ADJP (JJ good) (S (VP (TO to) (VP (VB recycle))))))))
+-21.554019239762 -70.817740488549
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good) (SBAR (S (VP (TO to) (S (VP (VB recycle))))))))))
+-21.691242773547 -68.484480061697
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (VP (JJ good) (S (VP (TO to) (VP (VB recycle))))))))
+-21.898720868124 -70.748465144379
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (RB just) (JJ good)) (SBAR (S (VP (TO to) (S (VP (VB recycle))))))))))
+-21.911968269602 -69.183205241306
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good) (PP (TO to) (VP (VB recycle)))))))
+-21.924095131105 -69.804619568978
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (RB good)) (S (VP (TO to) (VP (VB recycle)))))))
+-22.056721255157 -67.482561873601
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good)) (S (VP (TO to) (S (VP (VB recycle))))))))
+-22.064240392531 -69.132369176569
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good)) (S (TO to) (VP (VB recycle))))))
+-22.128229335318 -67.201945033375
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good)) (S (VP (TO to) (S (VP (VB recycle))))))))
+-22.205696360693 -68.851752336342
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good)) (S (TO to) (VP (VB recycle))))))
+-22.311552153166 -64.658185453656
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good) (PP (TO to) (NP (VB recycle)))))))
+-22.386087755449 -69.975339193258
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB just) (JJ good) (PP (TO to) (NP (VB recycle)))))))
+-22.515213938424 -71.033924955614
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good) (PP (TO to) (S (VP (VB recycle))))))))
+-22.574417557448 -67.688095619653
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good)) (PP (TO to) (NP (VB recycle))))))
+-22.684754489018 -68.316268287562
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (RB just) (JJ good)) (PP (TO to) (NP (VB recycle)))))))
+-22.792681570416 -70.989690646133
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good) (S (VP (TO to) (S (VP (VB recycle)))))))))
+-22.907667779380 -70.888615245579
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (RB good)) (S (VP (TO to) (VP (VB recycle)))))))
+-22.949857332209 -70.901149869405
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (QP (RB just) (JJ good))) (S (VP (TO to) (VP (VB recycle)))))))
+-23.003239607046 -70.441587353507
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good)) (PP (TO to) (VP (VB recycle))))))
+-23.074413627032 -70.386440755572
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ good)) (PP (TO to) (NP (VB recycle))))))
+-23.149135650228 -68.301396208430
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good) (PP (TO to) (VP (VB recycle)))))))
+-23.752381316262 -70.152115922738
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good) (PP (TO to) (S (VP (VB recycle))))))))
+-23.954729061526 -69.359240111855
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ good) (S (VP (TO to) (S (VP (VB recycle)))))))))
+

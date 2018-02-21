@@ -1,0 +1,102 @@
+50 x
+-10.664326664824 -43.889459437866
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (PRP you))))))
+-13.287958719720 -47.550399409748
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (PRP you)))))))
+-13.641834183391 -50.086907456687
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (NP (PRP you))))))
+-13.742198926404 -49.186308764038
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN like) (NP (PRP you)))))))
+-13.742472742823 -50.009315459641
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm)) (PP (IN like) (NP (PRP you)))))
+-14.729527458479 -50.377477740276
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (IN like) (NP (PRP you))))))
+-14.731128787606 -52.508673047057
+(S1 (S (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (PRP you))))))))
+-15.376080175436 -54.449406846056
+(S1 (FRAG (S (CC But) (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (PRP you)))))))
+-15.479604003541 -49.926597097984
+(S1 (FRAG (CC But) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (PRP you)))))))
+-15.976884015436 -55.561226665070
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (S (PP (IN like) (NP (PRP you)))))))
+-16.034839948198 -53.747847335173
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (NP (PRP you)))))))
+-16.255346441211 -52.847248642524
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN like) (NP (PRP you))))))))
+-16.602100181830 -56.643540680193
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (S (VP (VB like) (NP (PRP you)))))))
+-16.703591746043 -55.691479083291
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (PRP you))))))))
+-16.788652297794 -56.360782974942
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ like) (NP (PRP you))))))
+-16.984631830420 -57.128930860203
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (JJ like) (NP (PRP you))))))
+-16.990650482793 -61.173206233929
+(S1 (S (CC But) (NP (PRP I)) (VBP 'm) (VP (VBP like) (NP (PRP you)))))
+-17.185793673286 -54.038417618762
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (IN like) (NP (PRP you)))))))
+-17.211419149613 -61.909031931172
+(S1 (S (CC But) (NP (PRP I)) (VBP 'm) (VP (VB like) (NP (PRP you)))))
+-17.328719511771 -62.256920216330
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (VBP like) (NP (PRP you))))))
+-17.354413831778 -57.865460456928
+(S1 (FRAG (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (PRP you))))))))
+-17.527801835060 -62.317787825454
+(S1 (S (CC But) (NP (PRP I)) (VP (VP (VBP 'm)) (PP (IN like) (NP (PRP you))))))
+-17.572258270667 -62.473668246002
+(S1 (S (NP (CC But) (NP (PRP I))) (VP (VBP 'm) (PP (IN like) (NP (PRP you))))))
+-17.615146604174 -58.706121069778
+(S1 (S (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (NP (PRP you))))))))
+-17.708690488533 -59.250751569942
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (S (NP (PRP you)))))))
+-17.806859167019 -58.567774354141
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (SBAR (S (VP (VBP like) (NP (PRP you))))))))
+-17.919795719974 -57.805522377128
+(S1 (S (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN like) (NP (PRP you)))))))))
+-18.109003733525 -60.091371555616
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (SBAR (S (VP (VB like) (NP (PRP you))))))))
+-18.165327399105 -61.624198031293
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (SBAR (IN like) (S (NP (PRP you)))))))
+-18.190262713341 -56.936172526344
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (S (NP (PRP you)))))))
+-18.363266709309 -60.646854619214
+(S1 (FRAG (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (NP (PRP you)))))))
+-18.465453339847 -59.222166714411
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (S (PP (IN like) (NP (PRP you))))))))
+-18.472919425109 -59.746255926564
+(S1 (FRAG (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN like) (NP (PRP you))))))))
+-18.533529337414 -56.124044871142
+(S1 (FRAG (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (NP (PRP you)))))))
+-18.734959863214 -55.223446178492
+(S1 (FRAG (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN like) (NP (PRP you))))))))
+-18.841556739262 -58.996691353366
+(S1 (S (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (IN like) (NP (PRP you))))))))
+-18.912553759029 -60.304480729534
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VB like) (NP (PRP you))))))))
+-19.106625693841 -60.021722975778
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ like) (NP (PRP you)))))))
+-19.360943855226 -60.789870738689
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (JJ like) (NP (PRP you)))))))
+-19.460247954397 -60.937424902802
+(S1 (FRAG (S (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (IN like) (NP (PRP you)))))))
+-19.504265642399 -61.888927106012
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (NP (PRP you))))))))
+-19.720136016502 -56.414615154730
+(S1 (FRAG (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (IN like) (NP (PRP you)))))))
+-19.731286775411 -60.988328413362
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (PP (IN like) (NP (PRP you)))))))))
+-20.273093410944 -62.228714463848
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (SBAR (S (VP (VBP like) (NP (PRP you)))))))))
+-20.653047797487 -62.179497389600
+(S1 (FRAG (CC But) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (IN like) (NP (PRP you))))))))
+-20.678597975360 -60.597112404830
+(S1 (S (CC But) (S (NP (PRP I)) (VP (VBP 'm) (VP (VB like) (S (NP (PRP you))))))))
+-20.860487558732 -61.751455421211
+(S1 (S (CC But) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ like) (S (NP (PRP you)))))))
+-20.933830524095 -61.598364050508
+(S1 (FRAG (CC But) (S (NP (PRP I)) (VP (VBP 'm) (S (PP (IN like) (NP (PRP you))))))))
+-21.464571013277 -62.680678065632
+(S1 (FRAG (CC But) (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VB like) (NP (PRP you))))))))
+-21.617338017967 -62.397920417267
+(S1 (FRAG (CC But) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ like) (NP (PRP you)))))))
+

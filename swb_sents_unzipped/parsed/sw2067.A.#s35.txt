@@ -1,0 +1,102 @@
+50 x
+-25.368715709125 -83.746293102299
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there))))))))
+-25.945059401741 -85.672841487261
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there))))))))
+-26.315417461694 -86.685177809353
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one)) (ADVP (RB there))))))))
+-26.603181713538 -88.303116842523
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one) (RB there))))))))
+-26.938884902930 -91.120216110881
+(S1 (NP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))))
+-27.020473162465 -87.598456133951
+(S1 (SINV (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)))))) (NP (EX there))))
+-27.107979710078 -88.430086752256
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (NN one)) (ADVP (RB there))))))))
+-27.189026069139 -87.197131094395
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)))))) (NP (EX there))))
+-27.214943529848 -90.945935258417
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one) (RB there))))))))
+-27.381791642581 -90.874753661939
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (NP (EX there))))))))
+-27.469556310278 -91.027139328225
+(S1 (NP (NNS Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))))
+-27.484251342015 -86.967291881497
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (NP (RB there))))))))
+-27.861548264507 -88.996290737056
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you)))) (VP (VB have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))
+-27.906103252034 -90.537340841005
+(S1 (SINV (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one)))))) (NP (EX there))))
+-27.915875233278 -88.134514756703
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))))))
+-28.021234924436 -87.909834858206
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one))))) (ADVP (RB there)))))
+-28.044226168474 -86.889871515927
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there))))))))
+-28.085445698708 -90.136015801449
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one)))))) (NP (EX there))))
+-28.146755482713 -90.241274601842
+(S1 (SINV (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one)))))) (NP (EX there))))
+-28.196558789387 -89.839949562286
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one)))))) (NP (EX there))))
+-28.328593231584 -89.906176588550
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one)) (NP (RB there))))))))
+-28.386582962228 -89.052899239686
+(S1 (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))))
+-28.442293898420 -88.269983435937
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (JJ little) (NN one)) (ADVP (RB there)))))))))
+-28.503774363957 -91.523445076303
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one) (RB there))))))))
+-28.590823805978 -87.073852269208
+(S1 (SINV (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)))))) (NP (RB there))))
+-28.643071140939 -90.914426335257
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you)))) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))
+-28.765651172056 -90.979447624648
+(S1 (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))))
+-28.915836474407 -89.342957570875
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you))) (VP (VB have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there))))))
+-28.936193863005 -90.848719565259
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one))))) (ADVP (RB there)))))
+-28.953189766052 -91.420803072000
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (JJ little) (CD one)) (NP (RB there)))))))))
+-28.973091384684 -90.552653326096
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one))))) (ADVP (RB there)))))
+-29.143282120255 -89.828756222980
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one)) (ADVP (RB there))))))))
+-29.167361073781 -91.075144160139
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (NP (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there))))))))
+-29.231723672888 -91.446695256150
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one) (RB there))))))))
+-29.457855101696 -90.186986491088
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (RB little) (NN one)) (ADVP (RB there)))))))))
+-29.585127358206 -90.762253233036
+(S1 (S (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (NP (DT a) (JJ little) (NN one)) (ADVP (RB there)))))))))
+-29.600754280327 -90.537645757997
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (SBAR (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))))))
+-29.661429866226 -89.716670737099
+(S1 (SINV (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VB have) (NP (DT a) (JJ little) (CD one)))))) (NP (RB there))))
+-29.800427071547 -90.012736976261
+(S1 (SINV (VP (VBZ Sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one)))))) (NP (RB there))))
+-29.846496181885 -91.345357673597
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you))) (VP (VB have) (NP (DT a) (JJ little) (NN one)) (ADVP (RB there))))))
+-29.853074365811 -87.570840446014
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one))))) (ADVP (RB there)))))
+-29.904494335242 -88.683713074420
+(S1 (S (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you))))) (VP (VBP have) (NP (DT a) (JJ little) (CD one))) (NP (EX there))))
+-30.097950717913 -90.340709488443
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)))))) (NP (EX there))))
+-30.159761801364 -90.110870295125
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (NP (RB there))))))))
+-30.205151937279 -90.570807875346
+(S1 (S (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you))))) (VP (VB have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))
+-30.348923642817 -90.145754041416
+(S1 (S (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you))))) (VP (VBP have) (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))
+-30.522372003592 -90.509725153067
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (JJ little) (NN one))))) (ADVP (RB there)))))
+-30.542839134811 -91.622597781473
+(S1 (S (S (VP (VBZ Sounds) (PP (IN like) (NP (PRP you))))) (VP (VBP have) (NP (DT a) (JJ little) (NN one))) (NP (EX there))))
+-30.544417189839 -91.278093170330
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (JJ little) (CD one)) (ADVP (RB there)))))))))
+-31.223190056981 -91.413561849564
+(S1 (S (VP (VBZ Sounds) (PP (IN like) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (JJ little) (NN one)) (ADVP (RB there)))))))))
+

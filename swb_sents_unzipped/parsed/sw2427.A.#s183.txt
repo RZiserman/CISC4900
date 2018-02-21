@@ -1,0 +1,102 @@
+50 x
+-21.289418645723 -63.533423651255
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-21.613727227207 -65.115565935815
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon))))))
+-22.806539062820 -67.698494657650
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (ADVP (RB here)) (RB pretty) (RB soon))))))
+-22.997448119804 -65.560048169131
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon))))))
+-23.136438091713 -74.644945690401
+(S1 (S (NP (DT That)) (VP (POS 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-23.843872270816 -74.326376576671
+(S1 (S (NP (DT That)) (VP (POS 's) (S (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-24.215948045287 -67.859867658797
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon)))))))
+-24.426959449034 -74.440726588749
+(S1 (S (DT That) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-24.477433953983 -69.442009943356
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-24.559584622331 -70.844887685458
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (ADVP (RB up) (RB here)) (RB pretty) (RB soon))))))
+-24.576489211307 -72.558424994478
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-24.995036289413 -72.329956910806
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here) (RB pretty) (RB soon))))))
+-25.036815829034 -72.447061068972
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon)))))))
+-25.129628211358 -70.700409057467
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RP up) (RB here)) (ADVP (RB pretty) (RB soon))))))
+-25.298301737730 -74.029203353531
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-25.353858904037 -74.694045846870
+(S1 (S (NP (DT That)) (VP (VBZ 's) (S (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-25.367518035464 -69.633384552605
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon)))))))
+-25.401882947710 -68.504447922268
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (IN up) (RB here)) (ADVP (RB pretty) (RB soon))))))
+-25.585433588853 -70.196298808481
+(S1 (S (NP (IN That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-25.691826616948 -71.215526837164
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-25.733068462384 -72.024938665192
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (ADVP (RB here)) (RB pretty) (RB soon)))))))
+-25.799546373368 -69.886492176672
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-25.807252162150 -72.706512079186
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-25.909742167549 -71.778441093041
+(S1 (S (NP (IN That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon))))))
+-26.019430928835 -74.031365594432
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (NP (RB here)) (ADVP (RB pretty) (RB soon))))))
+-26.076024303840 -69.751989729108
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))))
+-26.131560740846 -74.288654363745
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon))))))
+-26.337510212536 -71.334132013668
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon))))))))
+-26.491059171709 -72.858210233990
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))))
+-26.500901521091 -73.152288052951
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-26.531633650560 -71.207554661405
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon))))))
+-26.620414157115 -74.473685586847
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-26.752545083193 -74.440352518549
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon))))))))
+-26.855942232044 -72.789696945964
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon))))))
+-26.881773872792 -74.764216959555
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon)))))))
+-26.884638452561 -73.798455559000
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (ADVP (RB here)) (RB pretty) (RB soon)))))))
+-27.075547509546 -71.660009070480
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-27.102554003162 -74.361369814876
+(S1 (S (NP (IN That)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (ADVP (RB here)) (RB pretty) (RB soon))))))
+-27.132787747591 -72.576202705772
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon)))))))
+-27.293463062934 -72.222923326357
+(S1 (S (NP (IN That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon))))))
+-27.394273656287 -74.158344990331
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-27.515281636231 -74.733136597061
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon))))))
+-27.593144720937 -73.917060735503
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (ADVP (RB here)) (RB pretty) (RB soon))))))))
+-27.659622631921 -71.778614246984
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon))))))))
+-27.668532564555 -74.185539839506
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (PRT (RP up)) (ADVP (RB here) (RB pretty) (RB soon)))))))
+-28.203981201273 -72.830891929809
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (ADVP (IN up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-28.239663124641 -73.234179179281
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon))))))
+-28.716386072884 -74.602827223647
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (ADVP (RB up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-29.479982337451 -74.604408823617
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (VP (VBG coming) (ADVP (IN up) (RB here)) (ADVP (RB pretty) (RB soon)))))))
+-30.064057459826 -74.723014000121
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (VP (VBG coming) (ADVP (IN up) (RB here)) (ADVP (RB pretty) (RB soon))))))))
+

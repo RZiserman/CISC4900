@@ -1,0 +1,102 @@
+50 x
+-37.420413817533 -121.547508926168
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try)))) (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))
+-38.427794675347 -121.169911091912
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try)))) (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))
+-39.180496709017 -123.434968719025
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try)))) (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))
+-39.301770032271 -118.723312787758
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-39.318093396702 -118.737301810093
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-39.539216676023 -120.494200783733
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-40.004182199957 -123.494983021617
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try)))) (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))
+-40.335010383852 -119.211851847302
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this)))))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))
+-40.590785048414 -123.396856498438
+(S1 (FRAG (CC and) (SBAR (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))))
+-40.624798443983 -123.382867476102
+(S1 (FRAG (CC and) (SBAR (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))))
+-40.825081594911 -120.738327129558
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))
+-40.836149181632 -121.036753716848
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this)))))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))
+-40.899864644608 -117.008670066913
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))
+-40.931333572881 -121.048384717462
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-40.947656937312 -121.062373739797
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-40.974906162963 -116.832005562037
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))
+-41.079521487483 -119.240204635955
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))
+-41.156101021220 -120.438480006383
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (ADVP (RB then)) (S (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))
+-41.168780216633 -122.819272713437
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-41.273660046736 -119.269838334303
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (RB then) (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))
+-41.359724330965 -122.785125454316
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (RB then) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-41.587421168508 -120.202433949842
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB complain) (PP (IN about) (NP (DT this)))))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))
+-41.802656805366 -121.506108332198
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (RB about) (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-41.818980197675 -121.520097354533
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (RB about) (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-41.894554714253 -121.116506979926
+(S1 (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (S (CC and) (RB then) (NP (PRP they)) (VP (VB complain) (PP (IN about) (NP (DT this)))))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))
+-42.040103449118 -123.276996328174
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (RB about) (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-42.329035819348 -122.641611989929
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (NP (DT this)) (SBAR (S (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-42.345359183779 -122.655601012264
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (NP (DT this)) (SBAR (S (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-42.414204206197 -122.325397309730
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))) (SBAR (S (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-42.430527570628 -122.339386332065
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))) (SBAR (S (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-42.515253189628 -120.833022481322
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-42.531183391466 -121.735790151675
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (VP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-42.547506755897 -121.749779174010
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (VP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-42.590294680104 -120.656357937518
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-42.669604899257 -123.478191585290
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))))
+-42.717645662273 -123.033105147984
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (IN about) (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-42.733969054582 -123.047094170319
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (IN about) (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-42.768630007340 -123.506678147650
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VBP complain) (VP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-43.483223379226 -122.822530204396
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (QP (RB about) (DT this))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-43.499546743657 -122.836519226731
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (QP (RB about) (DT this))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-43.624632987504 -123.024884636059
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (RB then) (S (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (QP (IN about) (DT this))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-43.640956379813 -123.038873658394
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (S (NP (PRP we)) (VP (VBP try))) (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (QP (IN about) (DT this))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))
+-43.926167542116 -123.158094482371
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-44.001209032592 -122.981429938567
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-44.048925267332 -119.086108013338
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))
+-45.016139962722 -123.615818025762
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (RB about) (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-45.091181481077 -123.439153481959
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (SBAR (S (NP (RB about) (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+-45.113381707941 -122.625878982743
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))
+-45.259916812991 -123.441847094572
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VB try) (SBAR (S (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP complain) (PP (IN about) (NP (DT this))))) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good))))))))))
+-45.918240912299 -123.668835284137
+(S1 (SBAR (CC and) (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP try) (SBAR (S (CC and) (RB then) (NP (PRP they)) (VP (VBP complain) (VP (IN about) (S (NP (DT this)) (VP (VBZ does) (RB n't) (VP (VB look) (ADJP (JJ good)))))))))))))
+

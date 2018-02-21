@@ -1,0 +1,102 @@
+50 x
+-14.966086174387 -58.255133586270
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (PRT (RP down))))))
+-15.037073222078 -60.834144493206
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (VP (ADVP (RB since)) (VBN come) (PRT (RP down))))))
+-15.037251275358 -57.523751138740
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (RB down))))))
+-16.326167019070 -56.441090769103
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PRT (RP down))))))
+-16.438521950041 -55.709708321573
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RB down))))))
+-16.521278949585 -59.990496900080
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (PRT (RP down)))))))
+-16.590261658765 -59.806411738090
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (IN down))))))
+-16.604905520557 -59.259114452550
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (RB down)))))))
+-16.948893987276 -62.569507796340
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (VP (ADVP (RB since)) (VBN come) (PRT (RP down)))))))
+-17.021729841662 -61.366430165443
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (VP (ADVP (IN since)) (VBN come) (PRT (RP down))))))
+-17.477306171705 -58.464609662409
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (RP down))))))
+-17.592615140827 -61.152540602321
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VB come) (PRT (RP down))))))
+-17.599099600337 -59.024450826279
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADJP (RB down))))))
+-17.751598422824 -61.425234462732
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PRT (RB down))))))
+-17.881359794268 -58.176454082913
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PRT (RP down)))))))
+-17.968915013449 -57.992368920923
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (IN down))))))
+-18.006176198028 -57.445071635383
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RB down)))))))
+-18.034056302964 -61.541775051900
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (IN down)))))))
+-18.195505864513 -62.397320707664
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PRT (IN down))))))
+-18.238185705591 -60.855388053529
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (S (ADJP (RB down)))))))
+-18.501342887784 -62.108252019473
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VB come) (ADVP (RB down))))))
+-18.770162149176 -56.650566845242
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RP down))))))
+-18.827604309691 -60.199972976219
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (RP down)))))))
+-19.031896439920 -57.210408009112
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADJP (RB down))))))
+-19.246006032724 -61.715265914717
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (PRT (RP down)))))))
+-19.372861745535 -60.759814140089
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADJP (RB down)))))))
+-19.396460434483 -60.983883467187
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (RB down)))))))
+-19.412709657647 -59.727732234733
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (IN down)))))))
+-19.538020235962 -59.041345236362
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (S (ADJP (RB down)))))))
+-19.849598269543 -61.959767861913
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PP (RP down))))))
+-19.876812046925 -62.188128894997
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PRT (RP down))))))))
+-19.903871096685 -61.456746447467
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RB down))))))))
+-20.031481353577 -62.590751367339
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (S (ADJP (RB down))))))))
+-20.120460284375 -58.385930159052
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RP down)))))))
+-20.279579379647 -61.186171870775
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VB come) (ADVP (RP down))))))
+-20.612326680195 -59.901223097550
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PRT (RP down)))))))
+-20.617548467641 -61.884234613153
+(S1 (S (CC but) (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADJP (RP down))))))
+-20.803970909166 -59.169840650021
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RB down)))))))
+-20.805658585118 -58.945771322922
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADJP (RB down)))))))
+-21.137893476754 -61.471535911290
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RB down))))))))
+-21.214126441782 -62.202918358820
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (PRT (RP down))))))))
+-21.331315881160 -60.776708550172
+(S1 (S (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (S (ADJP (RB down))))))))
+-21.722451232830 -61.924741990856
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADVP (RP down)))))))
+-21.949410706674 -62.484583154726
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB since)) (VP (VBN come) (ADJP (RB down)))))))
+-22.140827057032 -62.397604971136
+(S1 (S (CC but) (SBAR (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RP down))))))))
+-22.168577822574 -61.452501249371
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (IN down)))))))
+-23.021547007513 -60.110699173689
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RP down)))))))
+-23.388447349045 -60.670540337559
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADJP (RB down)))))))
+-23.478141449101 -62.412394434959
+(S1 (FRAG (CC but) (SBAR (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (ADVP (RP down))))))))
+-23.935011192299 -62.501477564810
+(S1 (FRAG (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN come) (S (ADJP (RB down))))))))
+

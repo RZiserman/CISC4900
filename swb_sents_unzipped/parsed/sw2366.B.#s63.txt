@@ -1,0 +1,102 @@
+50 x
+-26.915433582083 -100.290840750345
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-27.154900846944 -95.427303241691
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-27.854152036587 -95.720736615956
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-27.857967548629 -102.701687191643
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (SBAR (S (VP (TO to) (VP (VB mind))))))))
+-30.338374129206 -108.100695909157
+(S1 (NP (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-30.823176126334 -107.726327870418
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (NN mind)))))))
+-31.361918977313 -109.119101286208
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (VP (TO to) (VP (VB mind))))))
+-31.947311575791 -110.640528968818
+(S1 (S (NP (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow))) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-32.097873087378 -105.776991460164
+(S1 (S (NP (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow))) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-32.152753457282 -112.489448526768
+(S1 (NP (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (SBAR (S (VP (TO to) (VP (VB mind))))))))
+-32.232778338063 -109.150969361884
+(S1 (S (ADVP (UH uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-32.271264189892 -108.173302317127
+(S1 (NP (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-32.304160804578 -111.920754412928
+(S1 (S (NP (NP (NNP uh)) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-32.371485202880 -110.137174311716
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (SBAR (S (VP (TO to) (VP (NN mind))))))))
+-32.473290417885 -109.639433132932
+(S1 (S (NP (NP (UH uh)) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-32.490593934643 -110.697944605343
+(S1 (S (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-32.536587329650 -104.287431853230
+(S1 (S (ADVP (UH uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-32.543628086165 -107.057216904275
+(S1 (S (NP (NP (NNP uh)) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-32.562650561293 -112.398885119355
+(S1 (S (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (TO to) (VP (VB mind))))))
+-32.777099409472 -104.775895624279
+(S1 (S (NP (NP (UH uh)) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-32.781857412337 -113.051375410116
+(S1 (S (NP (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow))) (VP (VBZ comes) (SBAR (S (VP (TO to) (VP (VB mind))))))))
+-32.797124254719 -106.070424834429
+(S1 (S (NP (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow))) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-32.797245834310 -108.466735691392
+(S1 (NP (NP (NNP uh) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-32.806767129619 -109.708660966425
+(S1 (S (NP (NP (NNP uh)) (NP (NNP Barry) (NNP Manilow))) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-32.957328641206 -104.845123457772
+(S1 (S (NP (NP (NNP uh)) (NP (NNP Barry) (NNP Manilow))) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-33.002748456597 -114.231561112048
+(S1 (S (NP (NP (NNP uh) (NNP Barry)) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-33.008866575768 -114.130937716143
+(S1 (S (NP (NNP uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-33.171496786991 -104.580865227495
+(S1 (S (ADVP (UH uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-33.175312304608 -111.561815803182
+(S1 (S (ADVP (UH uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (SBAR (S (VP (TO to) (VP (VB mind))))))))
+-33.189845129862 -110.991377979607
+(S1 (S (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-33.242215738184 -109.368023603394
+(S1 (S (NP (NP (NNP uh) (NNP Barry)) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-33.242879281384 -107.350650278539
+(S1 (S (NP (NP (NNP uh)) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-33.248333857356 -109.267400207490
+(S1 (S (NP (NNP uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-33.365419695459 -112.194011520843
+(S1 (NP (NP (NNP uh) (NNP Barry) (NNP Manilow) (VBZ comes)) (PP (TO to) (NP (NN mind)))))
+-33.412008894691 -105.069328998543
+(S1 (S (NP (NP (UH uh)) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-33.415824412308 -112.050279574230
+(S1 (S (NP (NP (UH uh)) (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (SBAR (S (VP (TO to) (VP (VB mind))))))))
+-33.641312966165 -112.119507407723
+(S1 (S (NP (NP (NNP uh)) (NP (NNP Barry) (NNP Manilow))) (VP (VBZ comes) (SBAR (S (VP (TO to) (VP (VB mind))))))))
+-33.656579808547 -105.138556832036
+(S1 (S (NP (NP (NNP uh)) (NP (NNP Barry) (NNP Manilow))) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-33.875900816801 -111.697855183640
+(S1 (S (NP (UH uh) (NP (NNP Barry) (NNP Manilow))) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-33.941466933403 -109.661456977659
+(S1 (S (NP (NP (NNP uh) (NNP Barry)) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-33.947585052574 -109.560833581754
+(S1 (S (NP (NNP uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-33.998813289053 -114.137061273764
+(S1 (NP (NP (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow))) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-34.189772234764 -113.493234066050
+(S1 (S (ADVP (NNP uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (S (VP (TO to) (VP (VB mind)))))))
+-34.227077667788 -113.434062477490
+(S1 (NP (NP (NNP uh) (NNP Barry) (NNP Manilow) (VBZ comes)) (PP (TO to) (NP (VB mind)))))
+-34.429239516351 -108.629696557397
+(S1 (S (ADVP (NNP uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-34.510810302019 -111.991288557905
+(S1 (S (NP (UH uh) (NP (NNP Barry) (NNP Manilow))) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-34.713384611023 -112.628164618818
+(S1 (S (NP (UH uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+-35.128490683692 -108.923129931661
+(S1 (S (ADVP (NNP uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-35.348294096242 -112.921597993083
+(S1 (S (NP (UH uh)) (NP (NNP Barry) (NNP Manilow)) (VP (VBZ comes) (PP (TO to) (NP (VB mind))))))
+-35.931703349738 -114.209667681735
+(S1 (NP (NP (NP (NNP uh) (NNP Barry)) (NP (NNP Manilow))) (VP (VBZ comes) (PP (TO to) (NP (NN mind))))))
+

@@ -1,0 +1,102 @@
+50 x
+-11.765781612486 -37.402491330094
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ gorgeous)))))
+-12.724466181144 -40.538645913559
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ gorgeous)))))
+-15.289581189482 -44.685297230487
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ gorgeous)))))
+-15.596726911173 -48.013888311115
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (JJ gorgeous)))))
+-15.880491594621 -48.131561494372
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (ADJP (JJ gorgeous))))))
+-16.139641375792 -47.456521712879
+(S1 (S (NP (PRP it) (VBZ 's)) (ADJP (JJ gorgeous))))
+-16.195746995038 -45.945248286917
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (JJ gorgeous)))))
+-16.606377576446 -47.872564085161
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (JJ gorgeous)))))
+-16.689839840467 -52.252088065386
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (JJ gorgeous)))))
+-16.728999499089 -51.100594033704
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADVP (JJ gorgeous)))))
+-16.885229678815 -48.901983279318
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (ADJP (JJ gorgeous))))))
+-17.612959896301 -55.660392707391
+(S1 (S (NP (PRP it) (POS 's)) (ADJP (JJ gorgeous))))
+-17.980047507622 -51.058592118524
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (ADJP (JJ gorgeous))))))
+-18.260239129344 -55.751388583146
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (VP (JJ gorgeous))))))
+-18.319183216193 -56.208641115360
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (ADJP (JJ gorgeous))))))
+-18.679762819797 -54.872910238594
+(S1 (S (NP (PRP it) (VBZ 's)) (VP (JJ gorgeous))))
+-18.974170623998 -54.673581406040
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (ADVP (JJ gorgeous))))))
+-19.196685066604 -59.354170842739
+(S1 (NP (NP (PRP it) (POS 's)) (ADJP (JJ gorgeous))))
+-19.239845113367 -55.032487657778
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (NP (JJ gorgeous))))))
+-19.434490297548 -53.714194306168
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (ADJP (JJ gorgeous))))))
+-19.736991213918 -63.076781233105
+(S1 (S (NP (PRP it) (POS 's)) (VP (JJ gorgeous))))
+-19.782531923021 -56.007734787210
+(S1 (S (NP (PRP it) (VBZ 's)) (NP (JJ gorgeous))))
+-19.823743445154 -56.795293235474
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (ADJP (JJ gorgeous))))))
+-20.013766773268 -59.327308383969
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (ADVP (JJ gorgeous))))))
+-20.072680009607 -54.177259287980
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (ADVP (JJ gorgeous))))))
+-20.236293019688 -55.500854313179
+(S1 (S (NP (PRP it) (VBZ 's)) (ADVP (JJ gorgeous))))
+-20.267000576817 -57.603297117824
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (VP (JJ gorgeous))))))
+-20.468282949115 -55.430820786040
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (ADVP (JJ gorgeous))))))
+-20.517868977634 -54.527030934195
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (NP (JJ gorgeous))))))
+-20.755880675149 -62.660854258988
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (VP (ADJP (JJ gorgeous)))))))
+-20.858168667743 -64.211605781721
+(S1 (S (NP (PRP it) (POS 's)) (NP (JJ gorgeous))))
+-21.026117807153 -61.739095372482
+(S1 (S (NP (PRP it) (VBZ 's)) (VP (ADJP (JJ gorgeous)))))
+-21.152727063393 -67.358904512264
+(S1 (S (NP (NP (PRP it)) (POS 's)) (ADJP (JJ gorgeous))))
+-21.201852950283 -62.154523875796
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (ADJP (JJ gorgeous)))))))
+-21.461268775197 -63.704725307690
+(S1 (S (NP (PRP it) (POS 's)) (ADVP (JJ gorgeous))))
+-21.694539813466 -63.098832464027
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (S (ADJP (JJ gorgeous)))))))
+-21.702140475532 -61.385414468881
+(S1 (S (NP (NP (PRP it) (POS 's)) (ADJP (JJ gorgeous)))))
+-22.234449244062 -69.942966366993
+(S1 (S (NP (PRP it) (POS 's)) (VP (ADJP (JJ gorgeous)))))
+-22.462992321323 -65.852100804472
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (VP (ADVP (JJ gorgeous)))))))
+-22.589465543833 -64.512762793667
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (VP (ADJP (JJ gorgeous)))))))
+-22.947469350340 -64.281292762165
+(S1 (S (NP (PRP it) (VBZ 's)) (VP (ADVP (JJ gorgeous)))))
+-23.419259075245 -68.638623756236
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (S (VP (JJ gorgeous)))))))
+-23.533412677873 -67.694315168005
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (JJ gorgeous)))))))
+-24.108000253368 -66.210228196670
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (NP (ADJP (JJ gorgeous)))))))
+-24.150100315311 -65.754036603427
+(S1 (S (NP (PRP it) (VBZ 's)) (NP (ADJP (JJ gorgeous)))))
+-24.713133461996 -67.704009339150
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (VP (ADVP (JJ gorgeous)))))))
+-24.818125032595 -69.252550698564
+(S1 (S (NP (NP (PRP it) (VBZ 's)) (ADJP (JJ gorgeous)))))
+-24.902720486070 -69.319303631055
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (JJ gorgeous)))))))
+-25.054724379626 -70.228294092856
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (ADVP (JJ gorgeous)))))))
+-25.225707523995 -65.704771473087
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (NP (ADJP (JJ gorgeous)))))))
+

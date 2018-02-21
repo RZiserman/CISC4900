@@ -1,0 +1,102 @@
+50 x
+-21.876424466355 -81.781363098230
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-23.721515651371 -86.097958503749
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (PP (IN off) (NP (DT this) (NN spring)))))))
+-24.948264109557 -88.640554993683
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring)))))
+-24.952571475365 -91.497005679268
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (NN start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-24.996397852100 -92.402476743900
+(S1 (NP (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-25.353396898266 -90.687222959049
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (ADVP (RB off)) (NP (DT this) (NN spring))))))
+-25.932154965043 -89.455582524721
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (PP (RP off) (NP (DT this) (NN spring)))))))
+-26.087655480135 -94.569049932827
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (IN off) (NP (DT this) (NN spring))))))
+-26.475581859781 -83.876963571315
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring)))))))
+-26.627915869905 -96.719072149419
+(S1 (NP (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (PP (IN off) (NP (DT this) (NN spring)))))))
+-26.734003980080 -92.790100593463
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (ADVP (RP off)) (NP (DT this) (NN spring))))))
+-27.007149716430 -94.782091538183
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (NN start) (PRT (RP off)) (NP (DT this) (NN spring)))))
+-27.007449601851 -91.009549588329
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (NP (RB off) (DT this) (NN spring))))))
+-27.008467938797 -87.599658067269
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))))
+-27.296310337543 -96.725181206162
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (VBP start) (PRT (RP off)) (NP (DT this) (NN spring)))))
+-27.548578612075 -91.437162512418
+(S1 (S (NP (ADJP (JJ nice)) (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-27.568850324351 -94.885115111480
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (VB start) (PP (IN off) (NP (DT this) (NN spring))))))
+-27.657716437251 -96.671562115706
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (VBP start) (PP (IN off) (NP (DT this) (NN spring))))))
+-27.789198530838 -97.108868105495
+(S1 (S (NP (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring)))))))
+-27.841387851031 -98.010579088205
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (NN start) (PP (IN off) (NP (DT this) (NN spring)))))))
+-28.270679357585 -88.193558976834
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (PP (IN off) (NP (DT this) (NN spring))))))))
+-28.324738658947 -95.337422725827
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (NP (IN off) (DT this) (NN spring))))))
+-28.388054812004 -98.953026862511
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (VB start) (IN off) (NP (DT this) (NN spring)))))
+-28.644838032796 -94.976494266934
+(S1 (S (NP (NP (JJ nice)) (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-28.701783637813 -91.916253472788
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (PP (IN off) (NP (DT this) (NN spring)))))))))
+-28.938896600975 -92.660470702588
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (NP (ADVP (RB off)) (DT this) (NN spring))))))
+-29.150130940499 -98.749434894429
+(S1 (S (NP (JJ nice) (NX (NN way))) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-29.314628514621 -97.124548138360
+(S1 (S (NP (JJ nice)) (NP (NN way)) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-29.393669799880 -95.753757917938
+(S1 (S (NP (ADJP (JJ nice)) (NN way)) (VP (TO to) (VP (VB start) (PP (IN off) (NP (DT this) (NN spring)))))))
+-29.439778100091 -93.592606152353
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (NN start) (PRT (RP off)) (NP (DT this) (NN spring)))))))
+-29.722298593106 -97.315300648307
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (NN start) (PRT (RP off)) (NP (DT this) (NN spring))))))))
+-29.803844791692 -92.782823432134
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (ADVP (RB off)) (NP (DT this) (NN spring)))))))
+-29.973732142155 -98.497372603814
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (VB start) (PP (RP off) (NP (DT this) (NN spring))))))
+-30.210989252131 -96.484190313775
+(S1 (S (NP (JJ nice) (NN way)) (VP (TO to) (VP (VB start) (NP (ADVP (RP off)) (DT this) (NN spring))))))
+-30.225732674707 -96.505517928088
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (ADVP (RB off)) (NP (DT this) (NN spring))))))))
+-30.351225092975 -98.397156446707
+(S1 (S (NP (JJ nice) (NN way)) (TO to) (VP (VB start) (NP (RB off) (DT this) (NN spring)))))
+-30.416029161257 -91.551182997806
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (PP (RP off) (NP (DT this) (NN spring))))))))
+-30.502117486645 -97.474289073256
+(S1 (NP (NP (NP (JJ nice)) (NP (NN way))) (VP (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring))))))
+-30.698647686349 -96.664650405912
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (IN off) (NP (DT this) (NN spring)))))))
+-30.733616772808 -98.655212769702
+(S1 (S (NP (ADJP (JJ nice)) (NN way)) (TO to) (VP (VB start) (PRT (RP off)) (NP (DT this) (NN spring)))))
+-30.847133441485 -95.273877493760
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (PP (RP off) (NP (DT this) (NN spring)))))))))
+-31.097653676294 -94.885701066549
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (ADVP (RP off)) (NP (DT this) (NN spring)))))))
+-31.519541556521 -98.608395562503
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (ADVP (RP off)) (NP (DT this) (NN spring))))))))
+-31.604309113551 -99.111381938910
+(S1 (S (NP (ADJP (JJ nice)) (NN way)) (VP (TO to) (VP (VB start) (PP (RP off) (NP (DT this) (NN spring)))))))
+-31.700302495277 -93.105150061414
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (NP (RB off) (DT this) (NN spring)))))))
+-32.151988178292 -96.827844557368
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (NP (RB off) (DT this) (NN spring))))))))
+-33.017591552373 -97.433023198912
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (NP (IN off) (DT this) (NN spring)))))))
+-33.631749497189 -94.756071175673
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (NP (ADVP (RB off)) (DT this) (NN spring)))))))
+-34.083435177417 -98.478765671627
+(S1 (S (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (NP (ADVP (RB off)) (DT this) (NN spring))))))))
+-34.903842148345 -98.579790786860
+(S1 (ADJP (JJ nice) (S (NP (NN way)) (VP (TO to) (VP (VB start) (NP (ADVP (RP off)) (DT this) (NN spring)))))))
+

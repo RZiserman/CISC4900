@@ -1,0 +1,102 @@
+50 x
+-38.737435999512 -134.063000433253
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (RB well) (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))
+-39.542338102139 -138.416513357260
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (RB well) (WDT whatever) (PP (IN in) (NP (NNP Plano))))))))
+-39.586898005866 -135.849090200380
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (NP (RB well) (WDT whatever)) (PP (IN in) (NP (NNP Plano))))))
+-40.031194094420 -138.565516234423
+(S1 (S (NP (PRP We)) (VP (VBD went) (S (VP (TO to) (VP (NN MUMBLEx) (NP (RB well) (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))))
+-40.669884464700 -136.066118083215
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (ADVP (RB well) (NP (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))
+-40.693518565566 -135.604472108162
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (ADVP (RB well)) (SBAR (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-40.770107663579 -136.740037158698
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (RB well) (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-40.789710390927 -139.329294880156
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (ADVP (RB well) (NP (WDT whatever) (PP (IN in) (NP (NNP Plano))))))))
+-40.868368044673 -136.076859441375
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (NN well))) (SBAR (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-40.945609577603 -138.329938887492
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx))) (NP (RB well) (WDT whatever)) (PP (IN in) (NP (NNP Plano))))))
+-41.019521621678 -134.136854448442
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (ADVP (RB well)) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-41.065928867456 -139.401627785661
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (JJ MUMBLEx) (RB well) (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))
+-41.105736980010 -138.739944347317
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (NN well))) (NP (WDT whatever)) (PP (IN in) (NP (NNP Plano))))))
+-41.124843937050 -138.416622364259
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx) (RB well) (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))
+-41.204776400040 -139.005923793508
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (ADVP (RB well)) (SBAR (WHNP (WDT whatever)) (S (PP (IN in) (NP (NNP Plano))))))))
+-41.286878054731 -139.663979509164
+(S1 (S (NP (PRP We)) (VP (VBD went) (S (VP (TO to) (VP (VB MUMBLEx) (NP (RB well) (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))))
+-41.322545511872 -135.087067980654
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (NN well))) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-41.405606681062 -137.456450380681
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NP (NP (NNP MUMBLEx)) (NP (RB well) (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))))
+-41.429249341269 -139.478311001955
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (NN well))) (SBAR (WHNP (WDT whatever)) (S (PP (IN in) (NP (NNP Plano))))))))
+-41.489728189810 -136.089171922492
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (SBAR (RB well) (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-41.587830825620 -137.666825744510
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (SBAR (ADVP (RB well)) (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-41.609212297189 -139.194345269342
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (SBAR (WHNP (RB well) (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-41.778739855655 -138.267444992061
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NP (NNP MUMBLEx)) (NP (RB well) (WDT whatever)))) (PP (IN in) (NP (NNP Plano))))))
+-41.823835794303 -138.085320795273
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx))) (ADVP (RB well)) (SBAR (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-42.077468586243 -136.778307510016
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (SBAR (ADVP (RB well)) (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-42.103444400315 -139.769657390169
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NP (NNP MUMBLEx)) (NP (RB well) (WDT whatever)) (PP (IN in) (NP (NNP Plano))))))))
+-42.198430650415 -136.617703135554
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx))) (ADVP (RB well)) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-42.205996758270 -138.811539469923
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (JJ MUMBLEx) (NN well))) (SBAR (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-42.324125991055 -138.682963118732
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx) (NN well))) (SBAR (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-42.355954079543 -139.059471299957
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NP (NNP MUMBLEx) (RB well) (NP (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))))
+-42.437512693437 -138.546966770327
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx))) (ADVP (RB well) (NP (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))
+-42.477111288233 -139.832608897432
+(S1 (S (NP (PRP We)) (VP (VBD went) (S (VP (TO to) (VP (VB MUMBLEx) (ADVP (RB well)) (NP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))))
+-42.507893497592 -137.821748009202
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (JJ MUMBLEx) (NN well))) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-42.535419227491 -138.622619475652
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (ADVP (RB well)) (SBAR (WHNP (WDT whatever)) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-42.710268706597 -139.095006826684
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (NN well))) (SBAR (WHNP (WDT whatever)) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-42.813510292136 -136.677874463788
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (ADVP (RB well) (NP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-42.888530430970 -139.078802422911
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (SBAR (ADVP (RB well)) (WHNP (WDT whatever)) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-42.931259869549 -139.670712919478
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (RB well))) (SBAR (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-42.962298062747 -138.570020609604
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx))) (SBAR (RB well) (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-43.034778458254 -137.693171658011
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx) (NN well))) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-43.145945312683 -139.810867524650
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (NP (NN well)) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-43.383723593749 -138.680921458758
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx) (RB well))) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-43.431791186180 -139.259156197128
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx))) (SBAR (ADVP (RB well)) (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-43.676389257711 -139.018454713829
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (PP (ADVP (RB well) (NP (WDT whatever))) (IN in) (NP (NNP Plano))))))
+-43.720740553879 -139.155228591774
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (PP (RB well) (NP (WDT whatever))) (PP (IN in) (NP (NNP Plano))))))
+-43.817264047475 -137.926106862175
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx) (RB well))) (SBAR (WHNP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-43.978153754697 -138.486661051379
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (NP (RB well)) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-44.318319543797 -136.936315401454
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx) (RB well))) (SBAR (WDT whatever) (FRAG (PP (IN in) (NP (NNP Plano))))))))
+-44.357686890873 -139.158723150899
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NN MUMBLEx))) (ADVP (RB well) (NP (WDT whatever)) (PP (IN in) (NP (NNP Plano)))))))
+-44.812074108346 -139.352964506684
+(S1 (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (NNP MUMBLEx))) (PP (ADVP (RB well)) (NP (WDT whatever)) (IN in) (NP (NNP Plano))))))
+

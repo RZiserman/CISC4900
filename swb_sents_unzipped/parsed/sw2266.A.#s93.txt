@@ -1,0 +1,102 @@
+50 x
+-15.332080184557 -60.765736887648
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-16.452612095465 -63.903561292611
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (NP (UH uh))))))))
+-17.162706605940 -65.048216017538
+(S1 (S (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-17.428410399266 -71.162534181136
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (NP (NNP uh))))))))
+-18.283238516847 -68.186040422501
+(S1 (S (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (NP (UH uh))))))))
+-18.444062624670 -67.145376105513
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (ADVP (UH uh))))))))
+-19.133512339649 -75.445013311027
+(S1 (S (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (NP (NNP uh))))))))
+-19.624102748465 -69.922272921421
+(S1 (NP (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-19.835239740974 -74.090758171527
+(S1 (S (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-19.836612523624 -74.818741340589
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (NN watch) (NP (UH uh))))))))
+-20.274689046052 -71.427855235403
+(S1 (S (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (ADVP (UH uh))))))))
+-20.725799978939 -76.020512990271
+(S1 (S (NP (NN I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-20.742968093657 -75.092725673648
+(S1 (S (NP (PRP I)) (VP (VBD used) (SBAR (S (VP (TO to) (VP (VB watch) (INTJ (UH uh)))))))))
+-20.744634662160 -73.060097326384
+(S1 (NP (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (NP (UH uh))))))))
+-20.945986162723 -74.648827087058
+(S1 (S (NP (PRP I)) (VP (VBD used) (VP (TO to) (VP (VB watch) (INTJ (UH uh)))))))
+-20.955771654670 -77.228582576490
+(S1 (S (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (NP (UH uh))))))))
+-21.580826575006 -79.101220470479
+(S1 (S (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (NN watch) (NP (UH uh))))))))
+-21.758691638791 -74.991976833495
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (S (VP (VB watch) (INTJ (UH uh)))))))))
+-21.792230428189 -78.236853487824
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (NN watch) (ADVP (UH uh))))))))
+-21.835321980174 -80.319070214910
+(S1 (NP (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (NP (NNP uh))))))))
+-21.846331892635 -79.158337395234
+(S1 (S (NP (NN I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (NP (UH uh))))))))
+-21.847211131100 -77.287591222285
+(S1 (S (NP (PRP I)) (VP (VBN used) (SBAR (S (VP (TO to) (VP (VB watch) (INTJ (UH uh)))))))))
+-21.966652702218 -75.207679509802
+(S1 (S (NP (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh)))))))))
+-22.046401107352 -78.230550078610
+(S1 (S (NP (PRP I)) (VP (VBD used) (SBAR (S (VP (TO to) (VP (VB watch) (NP (UH uh)))))))))
+-22.081840798721 -77.786651582296
+(S1 (S (NP (PRP I)) (VP (VBD used) (VP (TO to) (VP (VB watch) (NP (UH uh)))))))
+-22.086991653778 -76.601322945594
+(S1 (NP (NP (NN I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-22.129929479741 -77.202565653023
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (TO to) (VP (VB watch) (INTJ (UH uh)))))))
+-22.212863085587 -80.487723683256
+(S1 (NP (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-22.719582069062 -77.459346547201
+(S1 (S (NP (PRP I)) (VP (VBD used) (PP (TO to) (VP (VB watch) (INTJ (UH uh)))))))
+-22.736085188577 -76.301912139287
+(S1 (NP (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (ADVP (UH uh))))))))
+-22.947222181087 -80.470397389393
+(S1 (S (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (ADVP (UH uh))))))))
+-23.087184613126 -78.345503914765
+(S1 (S (NP (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (NP (UH uh)))))))))
+-23.150644144796 -80.425415627248
+(S1 (S (NP (PRP I)) (VP (VBN used) (SBAR (S (VP (TO to) (VP (VB watch) (NP (UH uh)))))))))
+-23.152003206049 -79.267596522064
+(S1 (S (NP (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh)))))))))
+-23.207523564686 -79.739147350557
+(S1 (NP (NP (NN I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (NP (UH uh))))))))
+-23.232635351965 -80.036623779048
+(S1 (S (NP (PRP I)) (VP (VBN used) (PP (TO to) (VP (VB watch) (INTJ (UH uh)))))))
+-23.259999486763 -78.832753020054
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (S (VP (VB watch) (NP (UH uh)))))))))
+-23.397978072173 -79.274455963385
+(S1 (S (NP (PRP I)) (VP (VBN used) (S (VP (TO to) (S (VP (VB watch) (INTJ (UH uh)))))))))
+-23.415458296532 -80.920742481484
+(S1 (S (NP (PRP I)) (ADJP (VBN used)) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh)))))))
+-23.608551716562 -81.043341797835
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (TO to) (VP (VB watch) (NP (UH uh)))))))
+-23.652314635213 -81.805958627664
+(S1 (S (NP (PRP I)) (VP (VBD used)) (SBAR (S (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))))
+-23.722004823769 -81.472364891513
+(S1 (S (NP (PRP I)) (VP (VBD used) (SBAR (S (VP (TO to) (VP (VB watch) (ADVP (UH uh)))))))))
+-23.998698289562 -81.028466373182
+(S1 (S (NP (PRP I)) (VP (VBD used) (VP (TO to) (VP (VB watch) (ADVP (UH uh)))))))
+-24.169424108974 -81.886578404151
+(S1 (S (NP (PRP I)) (VP (VBD used) (PP (TO to) (S (VP (VB watch) (INTJ (UH uh))))))))
+-24.480126760062 -79.396290935086
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (S (VP (VB watch) (ADVP (UH uh)))))))))
+-24.495503319582 -82.244852837921
+(S1 (S (NP (PRP I)) (VP (VBD used) (PP (TO to) (VP (VB watch) (NP (UH uh)))))))
+-24.603016223910 -79.223968867314
+(S1 (S (S (NP (PRP I)) (VP (VBD used))) (VP (TO to) (VP (VB watch) (INTJ (UH uh))))))
+-24.626262131312 -81.479460759774
+(S1 (S (NP (NP (NN I)) (VP (VBD used) (S (VP (TO to) (VP (VB watch) (INTJ (UH uh)))))))))
+-24.822064968711 -81.606879676507
+(S1 (S (NP (PRP I)) (VP (VBD used) (S (TO to) (VP (VB watch) (ADVP (UH uh)))))))
+-25.078635142331 -81.587318727668
+(S1 (S (NP (NP (NN I)) (VP (VBN used) (S (VP (TO to) (VP (VB watch) (ADVP (UH uh)))))))))
+

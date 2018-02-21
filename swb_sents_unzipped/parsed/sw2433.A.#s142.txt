@@ -1,0 +1,102 @@
+50 x
+-14.838088277446 -51.102383908554
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-15.428973692483 -46.729205013404
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ makes) (NP (NN sense)))))
+-16.317198096484 -53.195297719347
+(S1 (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-17.485042781616 -50.379630286715
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-18.057673540844 -56.644609712153
+(S1 (FRAG (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))))
+-18.222313174312 -58.783033155849
+(S1 (S (INTJ (UH Oh)) (DT that) (VP (VBZ makes) (NP (NN sense)))))
+-18.345450559348 -57.785018883338
+(S1 (S (INTJ (UH Oh)) (WHNP (WDT that)) (VP (VBZ makes) (NP (NN sense)))))
+-18.396672520535 -59.646460245668
+(S1 (NP (UH Oh) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-18.463220518476 -53.909386667716
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (VBZ makes) (NP (NN sense)))))
+-18.566027024373 -60.772819764573
+(S1 (NP (UH Oh) (SBAR (WHNP (IN that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-18.608400154965 -54.359588888103
+(S1 (SBAR (ADVP (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))
+-18.708607924082 -52.474890758883
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ makes) (NP (NN sense)))))
+-18.831339833075 -52.031889212519
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ makes) (NP (NN sense)))))
+-18.865123059741 -54.680566063947
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-18.881377639696 -61.566000739907
+(S1 (NP (NP (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-19.088078367052 -60.902074201886
+(S1 (NP (UH Oh) (SBAR (WHNP (DT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-19.174244301390 -61.799721223112
+(S1 (S (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))))
+-19.358387721752 -54.735887997504
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-19.424598971795 -62.122060605859
+(S1 (S (NP (UH Oh) (IN that)) (VP (VBZ makes) (NP (NN sense)))))
+-19.494516195150 -56.604243123043
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))
+-19.546185017882 -58.737523522945
+(S1 (FRAG (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))))
+-19.627215739573 -61.739374056460
+(S1 (NP (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-19.904963116298 -60.203307696848
+(S1 (FRAG (ADVP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))))
+-20.294993860914 -59.319770754617
+(S1 (FRAG (NP (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-20.319411974610 -62.264937421523
+(S1 (INTJ (UH Oh) (PP (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-20.404649064144 -62.554359261403
+(S1 (S (INTJ (UH Oh) (DT that) (VBZ makes)) (VP (VBP sense))))
+-20.405216046911 -61.388238734283
+(S1 (S (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-20.584860543762 -60.016973252544
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ makes) (NP (NN sense)))))
+-20.661666026377 -59.841568158631
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-20.787920985951 -61.992032797522
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (VP (VBZ makes) (NP (NN sense)))))
+-20.788113701056 -62.006963998545
+(S1 (FRAG (ADVP (UH Oh) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense))))))))
+-20.866595910579 -58.725594532598
+(S1 (FRAG (INTJ (UH Oh)) (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))))
+-20.941410509746 -57.980411920714
+(S1 (S (ADVP (UH Oh)) (NP (IN that)) (VP (VBZ makes) (NP (NN sense)))))
+-21.118389794265 -61.780458261472
+(S1 (SBAR (ADVP (UH Oh)) (IN that) (S (VP (VBZ makes) (NP (NN sense))))))
+-21.158014132914 -60.766972466598
+(S1 (FRAG (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ makes) (NP (NN sense))))))
+-21.232240954534 -59.262439120644
+(S1 (FRAG (INTJ (UH Oh)) (X (IN that)) (VP (VBZ makes) (NP (NN sense)))))
+-21.330518227551 -59.701478054803
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (DT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-21.381254531566 -61.546860018048
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (S (VP (VBZ makes) (NP (NN sense))))))
+-21.466894987208 -60.262181323589
+(S1 (FRAG (ADVP (ADVP (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense))))))))
+-21.500532452469 -62.205271774055
+(S1 (FRAG (INTJ (UH Oh)) (PP (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-21.530003313712 -62.448871984972
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ makes) (S (NP (NN sense))))))
+-21.661464678818 -61.579499331671
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (IN that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-21.783069771808 -62.500833899335
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ makes) (S (VP (NN sense))))))
+-21.792531620377 -61.975261276143
+(S1 (S (NP (UH Oh)) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-21.800331164954 -62.065837625286
+(S1 (FRAG (ADVP (ADVP (UH Oh)) (SBAR (IN that) (S (VP (VBZ makes) (NP (NN sense))))))))
+-21.845456833607 -59.259801962295
+(S1 (S (ADVP (UH Oh)) (NP (WDT that)) (VP (VBZ makes) (NP (NN sense)))))
+-22.182786118049 -62.204409872354
+(S1 (FRAG (SBAR (ADVP (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NN sense)))))))
+-22.482098554598 -61.783732272050
+(S1 (FRAG (SBAR (ADVP (UH Oh)) (IN that) (S (VP (VBZ makes) (NP (NN sense)))))))
+-22.573606449195 -61.432295497420
+(S1 (FRAG (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ makes) (NP (NN sense)))))
+-22.834986744325 -62.264394410037
+(S1 (FRAG (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ makes) (NP (NN sense)))))
+

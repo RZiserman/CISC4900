@@ -1,0 +1,102 @@
+50 x
+-20.094432120942 -66.168876874163
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (ADJP (RB pretty) (JJ neat)) (JJ little)))))
+-20.460732343104 -67.460674279962
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (ADVP (RB little)))))
+-20.713603785037 -65.769343951315
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat) (RB little)))))
+-20.872018893564 -70.339209525440
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (NP (JJ little)))))
+-22.036047953934 -69.929730931170
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (ADVP (JJ little)))))
+-22.113405437645 -69.846749844018
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (NP (RB little)))))
+-22.384742218348 -74.391134851880
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (ADJP (RB pretty) (JJ neat)) (JJ little)))))
+-22.936976156082 -75.079195510306
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (JJ pretty) (JJ neat) (JJ little)))))
+-23.073489819416 -74.037209164065
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (RB pretty) (JJ neat) (JJ little)))))
+-23.183251936166 -73.164865219513
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADJP (JJ neat)) (ADVP (RB little)))))
+-23.190656046640 -75.802289731671
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (PP (JJ little)))))
+-23.408558234387 -72.685533177094
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat))) (ADVP (RB little))))
+-23.414642812699 -78.364008603411
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB pretty)) (NP (JJ neat) (JJ little)))))
+-23.556659000707 -72.450114904954
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (ADJP (RB pretty) (JJ neat)) (ADVP (RB little))))))
+-23.668344795409 -75.369803764523
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (PP (RB little)))))
+-23.726206177418 -78.725333807934
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB pretty)) (ADJP (JJ neat)) (ADVP (RB little)))))
+-23.793401161641 -75.331228143212
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat) (PP (JJ little))))))
+-23.820896126817 -75.676450600851
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (NP (JJ neat) (JJ little)))))
+-23.827360582530 -73.100107507256
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (ADJP (JJ pretty) (JJ neat)) (JJ little)))))
+-23.962939887439 -71.080629778356
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADJP (JJ neat) (RB little)))))
+-24.079334716895 -75.718414495884
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat) (PP (RB little))))))
+-24.221577603989 -77.700574617679
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat) (SBAR (RB little))))))
+-24.287627149499 -77.985134893118
+(S1 (S (NP (PRP They)) (VP (VBP 're) (S (ADJP (ADJP (RB pretty) (JJ neat)) (JJ little))))))
+-24.410697556881 -77.721170448740
+(S1 (S (NP (PRP They)) (VP (VBP 're) (S (ADJP (RB pretty) (JJ neat)) (ADVP (RB little))))))
+-24.448734312928 -76.563146662960
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB pretty)) (ADJP (JJ neat) (RB little)))))
+-24.638818672595 -76.714089933926
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (ADJP (RB pretty) (JJ neat)) (ADVP (JJ little))))))
+-24.658581151027 -77.674365579644
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ pretty) (JJ neat) (RB little)))))
+-24.723239631002 -74.045934974799
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (VP (JJ neat) (NP (RB little))))))
+-24.828851238881 -74.624791580406
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat))) (ADVP (JJ little))))
+-24.864635774975 -76.518436217941
+(S1 (S (NP (PRP They)) (VP (VBP 're) (S (ADJP (RB pretty) (JJ neat) (RB little))))))
+-24.960876464804 -78.871271245079
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ pretty) (JJ neat)) (ADVP (RB little)))))
+-24.984608767153 -77.600310435659
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (ADJP (RB pretty) (JJ neat)) (PP (JJ little))))))
+-25.052538422791 -77.513289766029
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (VP (JJ neat) (ADVP (RB little))))))
+-25.356876327072 -77.680399448107
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (S (ADJP (JJ little))))))
+-25.575857935613 -76.448260352816
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat) (S (ADVP (RB little)))))))
+-25.632347928862 -77.220194021308
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (RB pretty) (JJ neat)) (ADVP (RB little)))))
+-25.711437045085 -76.061823187502
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADJP (JJ neat) (ADVP (RB little))))))
+-25.722509217200 -79.027847833535
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (VP (JJ neat) (NP (JJ little))))))
+-25.752080876562 -78.356687500188
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (ADJP (RB pretty) (JJ neat)) (PP (RB little))))))
+-25.871236426997 -75.633921870722
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADJP (JJ neat)) (ADVP (JJ little)))))
+-25.881985447262 -79.002161623090
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADVP (JJ neat)) (NP (JJ little)))))
+-25.900754626798 -78.674525437037
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (ADJP (RB pretty) (JJ neat))) (ADVP (RB little)))))
+-26.465322705182 -75.584835151740
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat) (S (ADJP (RB little)))))))
+-26.539804650620 -78.157319225136
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADJP (JJ neat))) (ADVP (RB little))))
+-26.555970945202 -78.323516463389
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADVP (JJ neat)) (NP (RB little)))))
+-26.569716510531 -78.334510130132
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (ADJP (JJ pretty) (JJ neat)) (ADVP (RB little))))))
+-26.608109302091 -78.526882894852
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat) (S (ADJP (JJ little)))))))
+-26.811077816787 -78.919974131845
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB pretty) (JJ neat)) (S (ADJP (RB little))))))
+-27.106111062036 -77.960481508410
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (RB pretty) (JJ neat)) (ADVP (JJ little)))))
+-27.295238192874 -77.885932292771
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB pretty) (ADJP (JJ neat) (ADVP (JJ little))))))
+

@@ -1,0 +1,102 @@
+50 x
+-31.002702668867 -103.920400632558
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer)))))
+-32.447478823125 -108.738502611152
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer))))))
+-32.595619598407 -108.133169208909
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of) (PP (IN like) (NP (NN soccer))))))
+-33.005239058430 -104.847924266280
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))
+-33.344113799974 -110.902951664014
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (PP (IN like) (NP (NN soccer)))))
+-33.628175390473 -107.671032683639
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (VBP like) (NP (NN soccer)))))
+-33.689336625055 -103.079963081613
+(S1 (S (ADVP (RB Actually)) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-33.908017895987 -109.330598714256
+(S1 (S (INTJ (RB Actually) (INTJ (UH uh))) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer)))))
+-33.909483217342 -109.126934177925
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VB like) (NP (NN soccer)))))
+-34.119652923683 -110.721622652772
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))
+-34.296280781137 -112.520675419352
+(S1 (SBAR (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer))))))
+-34.332034870526 -107.876630159504
+(S1 (S (INTJ (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer)))))
+-34.375892890228 -112.370640586454
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (VB like) (NP (NN soccer)))))
+-34.445381127910 -112.115962381939
+(S1 (S (RB Actually) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer)))))
+-34.454383930053 -112.500406955251
+(S1 (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (VP (VB like) (NP (NN soccer)))))
+-34.727932632360 -113.539921875733
+(S1 (FRAG (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer))))))
+-34.767837009766 -108.919190181230
+(S1 (S (ADVP (RB Actually)) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-34.827461028154 -108.931716476226
+(S1 (S (ADVP (RB Actually)) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VB like) (NP (NN soccer))))))
+-35.045295122939 -109.902631539438
+(S1 (FRAG (ADVP (RB Actually)) (SBAR (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer)))))))
+-35.267688962691 -109.167083309571
+(S1 (S (ADVP (RB Actually)) (S (INTJ (UH uh)) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (VBP like) (NP (NN soccer))))))
+-35.352361328055 -112.327799250032
+(S1 (S (ADVP (RB Actually)) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (VP (VB like) (NP (NN soccer))))))
+-35.360253320245 -114.148700701195
+(S1 (S (INTJ (RB Actually) (INTJ (UH uh))) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer))))))
+-35.363551077635 -108.544064978101
+(S1 (S (INTJ (RB Actually) (INTJ (UH uh))) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))
+-35.500934797649 -113.543367234000
+(S1 (S (INTJ (RB Actually) (INTJ (UH uh))) (NP (PRP I)) (ADVP (NN kind) (IN of) (PP (IN like) (NP (NN soccer))))))
+-35.738042132097 -113.727570644626
+(S1 (SBAR (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer))))))
+-35.776810996906 -112.694732133442
+(S1 (S (INTJ (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer))))))
+-35.924951772187 -112.089398689522
+(S1 (S (INTJ (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of) (PP (IN like) (NP (NN soccer))))))
+-35.958040215802 -107.453510435340
+(S1 (S (INTJ (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))
+-35.993946763312 -111.367173709840
+(S1 (S (INTJ (RB Actually) (INTJ (UH uh))) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (VBP like) (NP (NN soccer)))))
+-36.184455863623 -107.515564603662
+(S1 (S (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-36.366582148031 -112.389470864551
+(S1 (S (RB Actually) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))
+-36.372333824850 -112.939704341671
+(S1 (SBAR (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-36.440075032802 -111.914428537170
+(S1 (FRAG (S (ADVP (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-36.565387881536 -111.455902102363
+(S1 (FRAG (ADVP (RB Actually)) (INTJ (UH uh)) (S (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-36.580976575723 -110.276618896630
+(S1 (S (INTJ (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (VBP like) (NP (NN soccer)))))
+-36.711715746947 -114.167220624020
+(S1 (FRAG (ADVP (RB Actually)) (SBAR (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of) (PP (IN like) (NP (NN soccer))))))))
+-37.049838151188 -112.732972024340
+(S1 (FRAG (ADVP (RB Actually)) (INTJ (UH uh)) (SBAR (S (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))))
+-37.072454081055 -113.327208821832
+(S1 (S (INTJ (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))
+-37.085336131764 -112.516306498433
+(S1 (S (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VB like) (NP (NN soccer))))))
+-37.163186997375 -112.811879335637
+(S1 (S (INTJ (RB Actually)) (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VB like) (NP (NN soccer)))))
+-37.217114988840 -114.366087589680
+(S1 (FRAG (SBAR (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (PP (IN like) (NP (NN soccer)))))))
+-37.262956248334 -113.354791703279
+(S1 (S (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (NN kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-37.296561209823 -112.209200829160
+(S1 (FRAG (RB Actually) (INTJ (UH uh)) (S (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-37.543443978947 -113.215393030157
+(S1 (SBAR (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer))))))
+-37.736752216206 -112.118550212763
+(S1 (FRAG (ADVP (RB Actually)) (ADVP (UH uh)) (SBAR (S (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))))
+-37.762808201259 -113.602684831620
+(S1 (S (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (VP (ADVP (NN kind) (IN of)) (VBP like) (NP (NN soccer))))))
+-37.961949392844 -110.939563579702
+(S1 (FRAG (RB Actually) (SBAR (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))))
+-38.107891445938 -113.811058165542
+(S1 (FRAG (ADVP (RB Actually)) (SBAR (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))))
+-38.564556343228 -114.245895806187
+(S1 (FRAG (RB Actually) (SBAR (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VB like) (NP (NN soccer)))))))
+-39.036289285690 -113.853909975212
+(S1 (FRAG (SBAR (RB Actually) (S (INTJ (UH uh)) (NP (PRP I)) (ADVP (RB kind) (IN of)) (VP (VBP like) (NP (NN soccer)))))))
+

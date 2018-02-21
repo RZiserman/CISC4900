@@ -1,0 +1,102 @@
+50 x
+-8.476856663688 -37.213827605309
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (ADVP (RB so))))))
+-10.665644530288 -47.809265121555
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VBP think) (ADVP (RB so))))))
+-10.837378575915 -38.854719483781
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (ADVP (RB so)))))
+-12.068725163673 -52.863750799879
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (PRT (RB so))))))
+-12.439172310694 -46.749410565509
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (ADJP (RB so))))))
+-12.626794208528 -48.711627245993
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (ADVP (IN so))))))
+-13.133441990317 -44.450165667662
+(S1 (S (NP (PRP I)) (MD would) (VP (VB think) (ADVP (RB so)))))
+-13.274076580598 -54.499329240940
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (NP (IN so))))))
+-13.290478108774 -56.864343514500
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (PP (IN so))))))
+-13.326368151648 -51.371992593751
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (NP (RB so))))))
+-13.431200620228 -47.726800963436
+(S1 (S (NP (PRP I)) (VP (MD would) (S (VP (VB think) (ADVP (RB so)))))))
+-13.584076351727 -52.470359114427
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (PP (RB so))))))
+-13.792730623739 -52.205470324966
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (VP (ADVP (RB so)))))))
+-13.854153104881 -56.272727369746
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (PRT (IN so))))))
+-14.179237266896 -55.744353317917
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (SBAR (RB so))))))
+-14.286512494635 -54.804171473965
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (VP (RB so))))))
+-14.397884116127 -52.592552226913
+(S1 (S (NP (NN I)) (VP (MD would) (VP (VB think) (ADVP (RB so))))))
+-14.439874779636 -51.978250106433
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (S (ADJP (RB so)))))))
+-14.445063075770 -53.970918549152
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (S (ADVP (RB so)))))))
+-14.525533653041 -59.025763927771
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VBP think) (RB so)))))
+-14.587740958203 -54.296950525788
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (ADJP (IN so))))))
+-15.100752415412 -57.063906455855
+(S1 (S (NP (PRP I)) (VP (MD would) (S (VP (VBP think) (ADVP (RB so)))))))
+-15.201840949201 -56.232268324945
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (S (VP (ADVP (RB so))))))))
+-15.241730594670 -50.738938188901
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (RB so))))
+-15.319613555420 -57.130573526147
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VBP think) (ADJP (RB so))))))
+-15.404383318305 -51.092791557965
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (ADVP (IN so)))))
+-15.513703748390 -54.710164297630
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (PRT (RB so)))))
+-15.554051538105 -59.465350609062
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VBP think) (VP (ADVP (RB so)))))))
+-15.727939980393 -48.753722606125
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (ADJP (RB so)))))
+-15.773380863411 -58.481719091787
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (S (VP (RB so)))))))
+-15.980042934516 -57.842086075060
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (S (ADJP (IN so)))))))
+-16.019705616784 -51.936177904608
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (VP (ADVP (RB so))))))
+-16.067006978124 -57.667349710945
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (S (ADVP (IN so)))))))
+-16.244515582114 -59.485922201063
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VBP think) (S (ADJP (RB so)))))))
+-16.304669780622 -53.766332664105
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (PP (RB so)))))
+-16.463486967857 -59.140923947541
+(S1 (S (NP (PRP I)) (MD would) (VP (VB think) (PRT (RB so)))))
+-16.685097582297 -59.595271011969
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB think) (VP (ADVP (IN so)))))))
+-16.688089303314 -57.300619889597
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (PRT (IN so)))))
+-16.695436288104 -56.567967810226
+(S1 (S (NP (PRP I)) (MD would) (VP (VB think) (RB so))))
+-16.780012800628 -54.098669918053
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (VP (RB so)))))
+-16.911534922360 -57.548799053371
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (NP (IN so)))))
+-17.125913250900 -54.588055610174
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (ADJP (IN so)))))
+-17.263139408620 -54.054523981769
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (NP (RB so)))))
+-17.267592033283 -55.684063649659
+(S1 (S (NP (PRP I)) (MD would) (VP (VB think) (ADVP (IN so)))))
+-17.362006237781 -55.413496924045
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (S (ADVP (RB so))))))
+-17.423497922982 -58.960698945433
+(S1 (S (NP (PRP I)) (VP (MD would) (S (VP (VB think) (ADVP (IN so)))))))
+-17.555037435946 -59.172977437763
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (SBAR (RB so)))))
+-17.637123324787 -52.973378164074
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (S (ADJP (RB so))))))
+-17.959632254583 -55.778388222017
+(S1 (S (NP (PRP I)) (MD would) (VP (VBP think) (VP (ADVP (IN so))))))
+-18.130091691763 -56.726777590544
+(S1 (S (NP (PRP I)) (MD would) (VP (VB think) (ADJP (RB so)))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.130836022757 -75.757071782519
+(S1 (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-21.631563178051 -76.282857783090
+(S1 (S (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-22.344275231361 -77.121372354535
+(S1 (FRAG (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-22.573682212375 -79.967452602151
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (NP (PRP you)) (VP (VBP know))))
+-22.728920987133 -77.651336503847
+(S1 (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-23.684957428572 -80.492720580170
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (S (NP (PRP you)) (VP (VBP know)))))
+-24.235713834960 -79.155076195021
+(S1 (FRAG (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (S (NP (PRP you)) (VP (VBP know)))))
+-24.326664489216 -82.234613914569
+(S1 (S (NP (PRP$ my) (NN mother) (POS 's)) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-24.484806541631 -82.543532981562
+(S1 (S (NP (PRP$ my) (NN mother)) (VP (POS 's) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-24.501464811231 -85.750092027764
+(S1 (NP (NP (NP (JJ my) (NN mother) (POS 's)) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-24.501853673601 -83.315925474735
+(S1 (S (NP (PRP$ my) (NN mother)) (VP (VBZ 's) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-24.641170314833 -87.865397678104
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (NP (PRP you)) (VP (VB know))))
+-24.672112951067 -84.636388074923
+(S1 (S (NP (PRP$ my) (NN mother) (POS 's)) (VP (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.057329689099 -81.933244796234
+(S1 (FRAG (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.101531904991 -83.688878135805
+(S1 (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters) (S (NP (PRP you)) (VP (VBP know)))))
+-25.129152110673 -85.729398217276
+(S1 (S (NP (PRP$ my) (NN mother) (POS 's)) (VP (NNS sisters) (S (NP (PRP you)) (VP (VBP know))))))
+-25.263408698326 -83.501406942124
+(S1 (S (NP (PRP$ my) (NN mother) (VBZ 's)) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.371066688982 -88.938595922890
+(S1 (NP (NP (PRP$ my) (NN mother) (POS 's) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-25.376302261695 -86.591867083472
+(S1 (S (NP (PRP$ my) (NN mother)) (VP (POS 's) (NP (NNS sisters)) (S (NP (PRP you)) (VP (VBP know))))))
+-25.384496510728 -84.001358287956
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.466412057637 -86.091750826676
+(S1 (S (NP (PRP$ my) (NN mother)) (VP (POS 's) (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.478550836525 -86.275878028336
+(S1 (S (NP (NP (NP (JJ my) (NN mother) (POS 's)) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.480081457913 -86.463958632881
+(S1 (NP (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (S (NP (PRP you)) (VP (VBP know)))))
+-25.547795427877 -85.903181102478
+(S1 (S (NP (PRP$ my) (NN mother) (VBZ 's)) (VP (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.589654540308 -84.256545526462
+(S1 (S (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters))) (NP (PRP you)) (VP (VBP know))))
+-25.646253003667 -87.194027295682
+(S1 (FRAG (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-25.749005456274 -87.644356857609
+(S1 (NP (NP (JJ my) (NN mother) (POS 's)) (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-25.864798528095 -89.464381742219
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.874237769835 -87.114392599780
+(S1 (FRAG (NP (NP (NP (JJ my) (NN mother) (POS 's)) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.879242162251 -90.196695292838
+(S1 (S (NP (PRP$ my) (NN mother)) (VP (VBZ 's) (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-25.893982484580 -87.803893707871
+(S1 (NP (NP (PRP$ my) (NN mother) (POS 's)) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-26.065068480747 -89.011298157946
+(S1 (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters) (S (NP (PRP you)) (VP (VB know)))))
+-26.069821685696 -86.996191244832
+(S1 (S (NP (PRP$ my) (NN mother) (VBZ 's)) (VP (NNS sisters) (S (NP (PRP you)) (VP (VBP know))))))
+-26.210643598485 -86.328593873821
+(S1 (S (NP (PRP$ my) (NN mother)) (VP (POS 's) (NP (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-26.225897348598 -86.110635709453
+(S1 (NP (NP (PRP$ my) (NN mother) (VBZ 's)) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-26.432173933532 -88.708707996490
+(S1 (S (NP (PRP$ my) (NN mother)) (VP (VBZ 's) (NP (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know))))))))
+-26.573941469718 -90.302896300164
+(S1 (FRAG (NP (NP (PRP$ my) (NN mother) (POS 's) (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-26.756151060365 -89.960472924118
+(S1 (S (NP (NP (JJ my) (NN mother) (POS 's)) (NNS sisters)) (NP (PRP you)) (VP (VBP know))))
+-26.878681926246 -85.486102007784
+(S1 (FRAG (NP (PRP$ my) (NN mother) (POS 's)) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-27.093984174321 -87.341400724430
+(S1 (NP (NP (NP (PRP$ my) (NN mother) (VBZ 's)) (NP (NNS sisters))) (SBAR (S (NP (PRP you)) (VP (VBP know))))))
+-27.387052002251 -90.466026326979
+(S1 (S (NP (PRP$ my) (NN mother) (POS 's)) (NP (NNS sisters) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))
+-27.482872482267 -89.686751461290
+(S1 (NP (PRP$ my) (NN mother) (S (VP (POS 's) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.582523443347 -87.880152053701
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters) (S (NP (PRP you)) (VP (VBP know))))))
+-27.609263117749 -90.134475390753
+(S1 (S (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters)) (ADVP (PRP you)) (VP (VBP know))))
+-27.669219693900 -89.940014660408
+(S1 (NP (PRP$ my) (NN mother) (S (VP (VBZ 's) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-27.785461673875 -88.458328026035
+(S1 (FRAG (NP (NP (PRP$ my) (NN mother) (POS 's)) (NNS sisters) (S (NP (PRP you)) (VP (VBP know))))))
+-28.061625871312 -89.148096548784
+(S1 (FRAG (NP (NP (JJ my) (NN mother) (POS 's)) (NNS sisters)) (S (NP (PRP you)) (VP (VBP know)))))
+-28.094132693435 -86.732722334653
+(S1 (S (S (NP (PRP$ my) (NN mother)) (VP (VBZ 's) (NP (NNS sisters)))) (NP (PRP you)) (VP (VBP know))))
+-28.176278261571 -89.449652438453
+(S1 (FRAG (S (NP (PRP$ my) (NN mother)) (VP (VBZ 's) (NP (NP (NNS sisters)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))
+-28.320279192031 -86.807972615122
+(S1 (S (S (NP (PRP$ my) (NN mother)) (VP (POS 's) (NP (NNS sisters)))) (NP (PRP you)) (VP (VBP know))))
+

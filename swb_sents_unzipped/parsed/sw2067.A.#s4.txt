@@ -1,0 +1,102 @@
+50 x
+-24.408656670705 -80.817304910624
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))
+-24.799193122839 -79.428721183251
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-24.857544077444 -81.710337724468
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them))))))
+-25.016908685639 -80.321753943564
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them)))))))
+-25.288454080253 -83.897611754618
+(S1 (S (WHNP (WP What)) (VP (VBP are) (NP (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))
+-25.513507163820 -81.493906290999
+(S1 (S (WHNP (WP What)) (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-25.586508505661 -82.509027955819
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them)))))))))
+-25.968527278076 -80.105322456411
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))))
+-25.996002316963 -81.266325014005
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))
+-26.031093474828 -82.654908741378
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of)) (PP (IN with) (NP (PRP them)))))))
+-26.163022232400 -83.582584927679
+(S1 (S (WHNP (WP What)) (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))
+-26.247159861720 -81.296717510259
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))))
+-26.464875424520 -82.189750270572
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them))))))))
+-26.618042343869 -82.194001093091
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them)))))))))
+-26.654607812067 -83.767943270912
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of) (PP (IN with) (NP (PRP them))))))))
+-27.021347608943 -84.135063111752
+(S1 (S (WHNP (WP What)) (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid)) (ADVP (IN of) (PP (IN with) (NP (PRP them))))))))
+-27.034475241754 -84.377024282827
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (NP (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))))
+-27.103495246684 -84.660976178964
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of))) (PP (IN with) (NP (PRP them))))))
+-27.136790572299 -83.030969775720
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-27.137279554202 -82.379359543539
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-27.214238315708 -82.449850687396
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))
+-27.266388643903 -81.061266913759
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-27.354995144880 -83.272392398061
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of))) (PP (IN with) (NP (PRP them)))))))
+-27.381911103985 -83.191662419206
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them))))))
+-27.416494014170 -81.973318783420
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))))
+-27.443969055844 -83.134321341014
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of)) (PP (IN with) (NP (PRP them)))))))))
+-27.475330945454 -81.803078579561
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them)))))))
+-27.492251523199 -82.746479277164
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid)) (ADVP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-27.585677976250 -83.924002583890
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them)))))))
+-27.641159159769 -81.836937291902
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADVP (PRP you)) (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-27.765608897635 -83.225521019275
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADJP (ADVP (PRP you)) (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))
+-27.775258310968 -83.878413133891
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them))))))))
+-28.066009082750 -84.061997420099
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))))
+-28.241400590504 -83.707571252316
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))))
+-28.555412552909 -83.179017110807
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))
+-28.585246293083 -84.247355870548
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of) (PP (IN with) (NP (PRP them))))))))))
+-28.679487021926 -84.567600884444
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them)))))))
+-28.714355382784 -82.929263240767
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))))
+-28.759227376422 -84.868573606474
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))
+-28.802961883761 -85.140388725069
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of))) (PP (IN with) (NP (PRP them))))))))
+-28.923297684335 -83.671074906569
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them))))))))
+-28.940218259292 -84.614475604172
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (JJ afraid)) (ADVP (IN of) (PP (IN with) (NP (PRP them))))))))))
+-29.020909832518 -84.283777789218
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (ADJP (NP (PRP you)) (JJ afraid)) (PP (IN of))) (PP (IN with) (NP (PRP them))))))))
+-29.089125898650 -83.704933618910
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADVP (PRP you)) (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them))))))))))
+-29.091411107035 -83.626658119759
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (ADVP (PRP you)) (JJ afraid)) (PP (IN of)) (PP (IN with) (NP (PRP them))))))))
+-29.126502264901 -85.015241847132
+(S1 (S (WHNP (WP What)) (VP (VBP are) (ADJP (ADJP (ADVP (PRP you)) (JJ afraid)) (PP (IN of)) (PP (IN with) (NP (PRP them)))))))
+-29.250092149667 -84.602569966464
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (S (NP (PRP you)) (ADJP (ADJP (JJ afraid) (PP (IN of))) (PP (IN with) (NP (PRP them)))))))))
+-29.889064074333 -84.663515372292
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+-30.003379291790 -85.047013437815
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADVP (PRP you)) (ADJP (JJ afraid) (PP (IN of)) (PP (IN with) (NP (PRP them)))))))))
+-30.232688344274 -84.739692649293
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBP are) (ADJP (ADJP (ADVP (PRP you)) (JJ afraid)) (PP (IN of) (PP (IN with) (NP (PRP them)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-10.320004816379 -36.941169554148
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (S (VP (TO to)))))))
+-10.578125821967 -41.356618700260
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (PP (TO to))))))
+-11.229887054295 -44.299428258945
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (X (TO to))))))
+-12.628543422697 -47.951205491442
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (X (PP (TO to)))))))
+-13.466948596667 -49.664836797610
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (VP (TO to))))))
+-13.505961389931 -47.318015289031
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (SBAR (TO to))))))
+-14.091075121721 -52.757069677543
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (NP (TO to))))))
+-14.603942541388 -50.289554312322
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBG going) (PP (TO to)))))))
+-14.681353287085 -51.176721471602
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ going) (PP (TO to))))))
+-14.957545955924 -48.990446088720
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBG going) (PP (TO to))))))
+-15.457368135317 -55.763565666335
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ going)) (X (TO to)))))
+-15.729058677797 -54.534303356656
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBG going) (X (TO to)))))))
+-15.800892551351 -52.465114700003
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ going) (S (VP (TO to)))))))
+-15.838166467136 -51.009228389569
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBG going) (S (VP (TO to)))))))
+-15.861430375218 -58.902488109431
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (VBG going)) (X (TO to))))))
+-16.096287472724 -55.424677535681
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBG going) (PP (TO to))))))
+-16.102744844785 -54.360396904553
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (VBG going)) (PP (TO to)))))
+-16.177083923797 -57.537054222709
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ going)) (PP (TO to)))))
+-16.214841125954 -52.977190210759
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBG going) (S (VP (TO to))))))))
+-16.243403802058 -52.306024848644
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (SBAR (S (VP (TO to))))))))
+-16.359035267007 -52.845013591589
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going) (S (NP (TO to)))))))
+-16.446430710567 -52.058779881312
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBG going)) (X (TO to)))))
+-16.605345370026 -58.500864676845
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ going)) (X (PP (TO to))))))
+-16.701121209155 -56.949768261071
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (VBG going)) (X (TO to)))))
+-16.748048702263 -58.367487094367
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBG going) (X (TO to))))))
+-16.759005339520 -56.012562313853
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ going)) (S (VP (TO to))))))
+-16.874111320001 -56.941256506013
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN going)) (PP (TO to)))))
+-17.127715046200 -58.186080589153
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBG going) (X (PP (TO to))))))))
+-17.164185881835 -53.832268437685
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBG going)) (PP (TO to)))))
+-17.563838638606 -57.292892873753
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN going)) (SBAR (S (VP (TO to))))))))
+-17.570534432631 -57.704546327128
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (VP (VBG going) (PP (TO to))))))))
+-17.590149755275 -54.796078891822
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBG going)) (X (PP (TO to))))))
+-17.680758319583 -59.530627862531
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN going)) (X (TO to)))))
+-17.733958402603 -58.726588044691
+(S1 (S (NP (PRP I)) (VP (VP (VBD was)) (VP (VBG going) (S (VP (TO to)))))))
+-17.755881997626 -59.367967710883
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (VBG going)) (X (PP (TO to))))))
+-17.757732632473 -59.403998629712
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (VBG going) (PP (TO to))))))
+-17.902850146410 -58.326446019906
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (JJ going)) (PP (TO to))))))
+-17.919060133649 -56.288350820728
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (VBG going)) (S (VP (TO to))))))
+-17.953540897965 -58.004441466048
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (VBG going)) (TO to)))))
+-17.997201202557 -52.307776528830
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBG going)) (S (VP (TO to))))))
+-18.046756613433 -54.557695956511
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (VBG going)) (PP (TO to))))))
+-18.078982513204 -59.383397542884
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (VBG going)) (SBAR (S (VP (TO to))))))))
+-18.106609498165 -57.957081113205
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBG going) (SBAR (TO to)))))))
+-18.271349005163 -58.927146136945
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (JJ going)) (SBAR (S (VP (TO to))))))))
+-18.307786676815 -58.088734135366
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG going))) (PP (TO to))))
+-18.467149218598 -58.304994764669
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (NP (VBG going)) (VP (TO to))))))
+-18.600625914077 -58.869210422188
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN going)) (S (VP (TO to))))))
+-18.977367428261 -59.341991755905
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (JJ going) (PP (TO to)))))))
+-18.980289886271 -59.695055474674
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (NP (NN going)) (VP (TO to))))))
+-19.455321301054 -56.295329026257
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (VBG going)) (SBAR (S (VP (TO to))))))))
+

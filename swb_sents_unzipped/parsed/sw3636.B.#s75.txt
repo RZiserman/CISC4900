@@ -1,0 +1,102 @@
+50 x
+-12.417792063108 -43.848758285149
+(S1 (NP (DT the) (JJ last) (CD one) (NN well)))
+-13.882811111402 -49.807642657062
+(S1 (NP (DT the) (JJ last) (NN one) (NN well)))
+-14.040283861373 -50.243745463533
+(S1 (NP (DT the) (JJ last) (CD one) (RB well)))
+-14.369792235358 -50.115173812262
+(S1 (NP (DT the) (JJ last) (NN one) (RB well)))
+-14.639094531421 -44.338600132738
+(S1 (S (NP (DT the) (JJ last) (CD one) (NN well))))
+-15.072638253178 -45.281775117196
+(S1 (FRAG (NP (DT the) (JJ last) (NN one)) (ADVP (RB well))))
+-15.097356799582 -48.069995326278
+(S1 (NP (NP (DT the) (JJ last)) (NP (CD one) (NN well))))
+-15.208302959994 -48.115518577140
+(S1 (FRAG (NP (DT the) (JJ last) (CD one) (NN well))))
+-15.460497951525 -45.973643960047
+(S1 (S (NP (DT the) (JJ last) (NN one)) (ADJP (RB well))))
+-15.988460659802 -52.773053066384
+(S1 (S (NP (DT the) (JJ last) (NN one)) (ADJP (JJ well))))
+-16.037364357775 -45.236096994729
+(S1 (FRAG (NP (DT the) (JJ last) (NN one)) (ADJP (RB well))))
+-16.217626475066 -48.681255305994
+(S1 (S (NP (DT the) (JJ last) (NN one)) (ADVP (RB well))))
+-16.401378844332 -54.960456960180
+(S1 (NP (NP (DT the) (JJ last) (NN one)) (RB well)))
+-16.476799696199 -52.430318329872
+(S1 (NP (NP (DT the) (JJ last) (NN one)) (ADVP (RB well))))
+-16.629216108176 -54.682822277697
+(S1 (FRAG (NP (DT the) (JJ last) (NN one) (NN well))))
+-16.634949602989 -55.566079191687
+(S1 (NP (NP (DT the) (JJ last)) (NP (CD one) (RB well))))
+-16.732492214792 -52.251237498121
+(S1 (FRAG (NP (DT the) (JJ last) (NN one) (RB well))))
+-16.752239182237 -49.189655404948
+(S1 (S (NP (DT the) (JJ last) (CD one)) (ADJP (RB well))))
+-16.843887100714 -49.162353059280
+(S1 (FRAG (NP (DT the) (JJ last) (NN one)) (NP (RB well))))
+-16.892671951364 -52.595706502184
+(S1 (FRAG (NP (DT the) (JJ last) (NN one)) (ADJP (JJ well))))
+-17.086522773307 -54.837773768523
+(S1 (NP (NP (DT the) (JJ last) (CD one)) (ADVP (RB well))))
+-17.189441152738 -53.001503895696
+(S1 (S (NP (DT the) (JJ last)) (NP (CD one) (NN well))))
+-17.225294249778 -51.897266750896
+(S1 (S (NP (DT the) (JJ last) (CD one)) (ADVP (RB well))))
+-17.252449419991 -53.567477955129
+(S1 (S (NP (DT the) (JJ last) (NN one) (NN well))))
+-17.378402174155 -55.646118527670
+(S1 (NP (NP (DT the) (JJ last) (NN one)) (NP (NN well))))
+-17.395062993433 -54.420008723892
+(S1 (NP (NP (DT the) (JJ last) (NN one)) (NP (RB well))))
+-17.441504840249 -57.477897654270
+(S1 (NP (NP (DT the) (JJ last) (NN one)) (NN well)))
+-17.694510652282 -54.688592304906
+(S1 (S (NP (DT the) (JJ last) (CD one)) (ADJP (JJ well))))
+-17.724695452102 -53.347292301788
+(S1 (FRAG (NP (DT the) (JJ last) (NN one)) (NP (NN well))))
+-17.778109048813 -53.034655011444
+(S1 (FRAG (NP (NP (DT the) (JJ last)) (NP (CD one) (NN well)))))
+-17.783494336541 -53.485331584875
+(S1 (FRAG (NP (DT the) (JJ last) (CD one)) (ADVP (RB well))))
+-17.816479663555 -57.134059476485
+(S1 (FRAG (NP (DT the) (JJ last) (CD one) (RB well))))
+-17.864187883681 -57.606861672281
+(S1 (NP (NP (DT the) (JJ last)) (CD one) (NN well)))
+-17.945879224782 -55.853460854625
+(S1 (NP (NP (DT the) (JJ last) (CD one)) (NP (RB well))))
+-18.086240483406 -54.141987527998
+(S1 (S (NP (DT the) (JJ last) (NN one) (RB well))))
+-18.105616034171 -54.816543839986
+(S1 (S (NP (DT the) (JJ last) (NN one)) (NP (NN well))))
+-18.766021779079 -56.913607291526
+(S1 (NP (QP (DT the) (JJ last) (CD one)) (NN well)))
+-18.779980697084 -54.604836360023
+(S1 (NP (NP (DT the) (ADJP (JJ last))) (NP (CD one) (NN well))))
+-18.858368111406 -55.048578211817
+(S1 (ADJP (NP (DT the) (JJ last) (NN one)) (RB well)))
+-18.871492311521 -54.969046419773
+(S1 (ADJP (NP (DT the) (JJ last) (CD one)) (RB well)))
+-18.915096497628 -54.696887612135
+(S1 (ADVP (NP (DT the) (JJ last) (NN one)) (RB well)))
+-19.032293899925 -53.439653462409
+(S1 (FRAG (NP (DT the) (JJ last) (CD one)) (ADJP (RB well))))
+-19.064270539574 -55.661866593625
+(S1 (S (NP (DT the) (JJ last) (CD one)) (NP (NN well))))
+-19.163395774070 -56.645506557250
+(S1 (FRAG (NP (NP (DT the) (JJ last) (NN one)) (ADVP (RB well)))))
+-19.168886034666 -56.770637616549
+(S1 (ADVP (NP (DT the) (JJ last) (CD one)) (RB well)))
+-19.445581185834 -56.473604872607
+(S1 (S (NP (NP (DT the) (JJ last) (NN one)) (ADVP (RB well)))))
+-19.680304419864 -57.365909526960
+(S1 (FRAG (NP (DT the) (JJ last) (CD one)) (NP (RB well))))
+-20.492529889879 -57.432969962587
+(S1 (FRAG (ADJP (NP (DT the) (JJ last) (CD one)) (RB well))))
+-20.520725659763 -57.512501754631
+(S1 (FRAG (ADJP (NP (DT the) (JJ last) (NN one)) (RB well))))
+-20.520798879791 -56.407350535793
+(S1 (FRAG (ADVP (NP (DT the) (JJ last) (NN one)) (RB well))))
+

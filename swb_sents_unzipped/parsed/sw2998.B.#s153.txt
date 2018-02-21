@@ -1,0 +1,102 @@
+50 x
+-23.116870071447 -82.038030328547
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (PP (IN that) (NP (DT the) (JJ other) (NN day)))))))))
+-23.473103699566 -78.027862013621
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day))))))))))
+-23.978214421676 -78.336804765728
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (NP (IN that) (DT the) (JJ other) (NN day))))))))
+-24.696642104466 -90.462133995168
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBD read) (PP (IN that) (NP (DT the) (JJ other) (NN day)))))))))
+-25.114645713546 -84.251916485517
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBD read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day))))))))))
+-25.176457714550 -83.120913617163
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day))))))))
+-25.292437909276 -83.317368566212
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBD read) (NP (IN that) (DT the) (JJ other) (NN day))))))))
+-25.508099297154 -89.266299528351
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBD read) (IN that) (NP (DT the) (JJ other) (NN day))))))))
+-25.548902898313 -90.911223969125
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP read) (PP (IN that) (NP (DT the) (JJ other) (NN day))))))))
+-25.748659645618 -90.472028471074
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP read) (PP (IN that) (NP (DT the) (JJ other) (NN day))))))
+-25.976558726431 -86.901055654198
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))))
+-25.988263946525 -86.461860164830
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))
+-25.998018763836 -89.434803225551
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (PP (IN that) (NP (DT the) (JJ other) (NN day)))))))))
+-26.073252141955 -85.424634910624
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day))))))))))
+-26.468201807324 -92.257008395679
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (ADJP (VBN read) (PP (IN that) (NP (DT the) (JJ other) (NN day))))))))
+-26.518334913317 -88.775997838681
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBD read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day))))))))
+-26.545764666264 -88.559548584414
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read)) (PP (IN that) (NP (DT the) (JJ other) (NN day))))))))
+-26.578362861277 -85.733577662731
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (NP (IN that) (DT the) (JJ other) (NN day))))))))
+-26.614771998541 -87.209998406305
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP read) (NP (IN that) (DT the) (JJ other) (NN day)))))))
+-26.677709104696 -86.770802865842
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP read) (NP (IN that) (DT the) (JJ other) (NN day)))))
+-26.776243113752 -88.269104378216
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBD read) (NP (IN that) (DT the) (JJ other) (NN day)))))))
+-26.789081604772 -87.079197728612
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB read) (NP (IN that) (DT the) (JJ other) (NN day)))))))
+-26.819958493417 -89.203652138764
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBD read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))))
+-26.862047346704 -87.201549526084
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (SBAR (WHNP (WDT that)) (S (NP (DT the) (JJ other) (NN day))))))))))
+-27.094883565550 -88.581579143210
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))))
+-27.159560735628 -92.599605527122
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB read) (IN that) (NP (DT the) (JJ other) (NN day)))))))
+-27.188553336094 -88.446433418008
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VB read) (NP (IN that) (DT the) (JJ other) (NN day))))))))
+-27.233250610276 -91.777060199691
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (ADJP (VB read) (PP (IN that) (NP (DT the) (JJ other) (NN day))))))))
+-27.288481654379 -93.458527112273
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB read) (PP (IN that) (NP (DT the) (JJ other) (NN day))))))))
+-27.426080441963 -89.948814924830
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VB read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day))))))))))
+-27.455936846778 -91.022197788608
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBD read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))
+-27.531151852599 -90.087649957301
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBD read) (NP (IN that) (DT the) (JJ other) (NN day)))))
+-27.652604645448 -91.554911816125
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day)))))
+-27.665489221416 -91.994107257741
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day)))))))
+-27.679705870480 -93.725552581371
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (ADJP (VB read) (PP (IN that) (NP (DT the) (JJ other) (NN day))))))))
+-27.739028571030 -91.524390952242
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (VP (VBP read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))))
+-27.882713263673 -90.063611573554
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (VP (VB read) (NP (IN that) (DT the) (JJ other) (NN day)))))))
+-27.915040104151 -90.517686514167
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day))))))))
+-28.044143560581 -93.727733657999
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBD read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day)))))))
+-28.188515227239 -91.565992988152
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (VP (VB read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))))
+-28.193541365796 -93.518594274912
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBN read) (NP (IN that) (DT the) (JJ other) (NN day)))))))
+-28.359455901394 -91.196477219143
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (ADVP (IN that) (NP (DT the) (JJ other) (NN day)))))))))
+-28.377241840352 -91.833333704349
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (VP (VBP read) (NP (IN that) (DT the) (JJ other) (NN day)))))))
+-28.567145501688 -92.074288197415
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day)))))))
+-28.602892122383 -89.941111303490
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (SBAR (WHNP (IN that)) (S (NP (DT the) (JJ other) (NN day))))))))))
+-28.855780131737 -93.441523952790
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VB read) (PRT (IN that)) (NP (DT the) (JJ other) (NN day))))))))
+-29.901375121793 -93.431014238697
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (PRP I)))) (VP (VBP read) (SBAR (IN that) (S (NP (DT the) (JJ other) (NN day)))))))
+-31.008027084446 -88.060602010751
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (NP (IN that) (DT the) (ADJP (JJ other)) (NN day))))))))
+-31.904556784594 -92.097285411497
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP read) (SBAR (IN that) (S (NP (DT the) (ADJP (JJ other)) (NN day))))))))))
+-32.138943421560 -92.383630089001
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBD read) (NP (IN that) (DT the) (ADJP (JJ other)) (NN day))))))))
+

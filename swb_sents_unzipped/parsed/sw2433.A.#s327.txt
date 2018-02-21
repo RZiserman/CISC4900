@@ -1,0 +1,102 @@
+50 x
+-17.644840401040 -59.494756560986
+(S1 (SQ (VBP thank) (NP (PRP you)) (NP (NNP Sandy))))
+-17.779149812150 -60.474771537888
+(S1 (S (VP (VB thank) (S (NP (PRP you)) (ADJP (JJ Sandy))))))
+-17.981425155511 -58.975181401725
+(S1 (SQ (VBP thank) (NP (PRP you)) (ADJP (JJ Sandy))))
+-18.081802523656 -59.172103637704
+(S1 (S (VP (VB thank) (NP (PRP you)) (NP (NNP Sandy)))))
+-18.883320350403 -58.628101394024
+(S1 (VP (VB thank) (NP (PRP you)) (NP (NNP Sandy))))
+-19.077695192576 -58.783996576476
+(S1 (SINV (VB thank) (NP (PRP you)) (NP (NNP Sandy))))
+-19.198098591335 -62.436242147135
+(S1 (VP (VB thank) (S (NP (PRP you)) (ADJP (JJ Sandy)))))
+-19.328439864583 -62.043647675458
+(S1 (S (VP (VB thank) (S (NP (PRP you)) (NP (NNP Sandy))))))
+-19.525592457614 -60.694456503018
+(S1 (S (VP (VB thank) (NP (PRP you) (JJ Sandy)))))
+-19.825716440543 -64.650385960206
+(S1 (S (VP (VB thank) (NP (PRP you) (NNP Sandy)))))
+-20.009945086944 -62.542767448722
+(S1 (SINV (VP (VB thank) (NP (PRP you))) (NP (NNP Sandy))))
+-20.203553732681 -65.320233841019
+(S1 (S (VP (VB thank) (NP (PRP you))) (NP (NNP Sandy))))
+-20.292225452728 -66.345537156579
+(S1 (S (VP (VBP thank) (NP (PRP you)) (NP (NNP Sandy)))))
+-20.303084607414 -60.863813417998
+(S1 (SQ (VBP thank) (NP (PRP you)) (ADJP (NNP Sandy))))
+-20.314493268303 -63.645406135371
+(S1 (S (VP (VB thank) (NP (PRP you)) (ADVP (JJ Sandy)))))
+-20.445469780059 -67.602699871835
+(S1 (S (VP (VBP thank) (S (NP (PRP you)) (ADJP (JJ Sandy))))))
+-20.490945236379 -66.240271266129
+(S1 (S (VP (VBP thank) (S (NP (PRP you)) (NP (NNP Sandy))))))
+-20.519749103941 -68.901214787784
+(S1 (SQ (VBP thank) (NP (PRP you)) (NP (JJ Sandy))))
+-20.521831051321 -61.556148141328
+(S1 (VP (VB thank) (NP (PRP you) (JJ Sandy))))
+-20.595273643878 -63.961580282509
+(S1 (VP (VB thank) (S (NP (PRP you)) (NP (NNP Sandy)))))
+-20.605653847869 -64.730048917066
+(S1 (VP (VB thank) (NP (PRP you) (NNP Sandy))))
+-20.607874843194 -65.921245050935
+(S1 (SQ (VP (VB thank) (NP (PRP you))) (NP (NNP Sandy))))
+-20.694381847561 -66.213667194373
+(S1 (S (VP (VB thank) (NP (PRP you)) (S (ADJP (JJ Sandy))))))
+-20.704188584785 -67.338706805787
+(S1 (S (VP (VB thank) (S (NP (PRP you)) (NP (JJ Sandy))))))
+-20.743515099629 -66.182649275985
+(S1 (S (VP (VB thank) (S (NP (PRP you)) (VP (NNP Sandy))))))
+-20.916244422017 -63.908551006213
+(S1 (S (VP (VB thank) (S (NP (PRP you)) (ADJP (NNP Sandy))))))
+-20.975808569787 -69.381890924124
+(S1 (S (VP (VB thank) (NP (PRP you)) (NP (JJ Sandy)))))
+-21.168029309073 -68.122367183005
+(S1 (VP (VB thank) (NP (PRP you)) (ADJP (JJ Sandy))))
+-21.255665152474 -68.193638764814
+(S1 (SINV (VBP thank) (NP (PRP you)) (ADJP (JJ Sandy))))
+-21.370822843303 -69.068361751388
+(S1 (S (VP (VB thank) (NP (PRP you) (NP (NNP Sandy))))))
+-21.434969192323 -65.372697363816
+(S1 (VP (VB thank) (NP (PRP you)) (ADVP (JJ Sandy))))
+-21.455632530790 -63.432552667712
+(S1 (S (VP (VB thank) (NP (PRP you)) (S (NP (NNP Sandy))))))
+-21.558146863782 -68.977673067599
+(S1 (S (VP (VB thank) (NP (NP (PRP you)) (NNP Sandy)))))
+-21.575081847857 -65.997835171106
+(S1 (S (VP (VB thank) (S (NP (PRP you)) (ADVP (JJ Sandy))))))
+-21.789890081983 -68.163988222933
+(S1 (S (VP (VB thank) (NP (NP (PRP you)) (NP (NNP Sandy))))))
+-21.891912509996 -69.024563638050
+(S1 (S (VP (VP (VB thank) (NP (PRP you))) (NP (NNP Sandy)))))
+-21.893762807830 -68.803160496066
+(S1 (S (VP (VBP thank) (NP (PRP you) (JJ Sandy)))))
+-22.095853442652 -67.920950488038
+(S1 (VP (VB thank) (NP (PRP you)) (S (ADJP (JJ Sandy)))))
+-22.206111603741 -65.691172532188
+(S1 (VP (VB thank) (S (NP (PRP you)) (ADJP (NNP Sandy)))))
+-22.267595080992 -69.427441121276
+(S1 (SINV (VB thank) (NP (PRP you) (NNP Sandy))))
+-22.399139473895 -69.057336038485
+(S1 (VP (VB thank) (NP (NP (PRP you)) (NNP Sandy))))
+-22.428047162071 -69.377476602667
+(S1 (VP (VB thank) (S (NP (PRP you)) (VP (NNP Sandy)))))
+-22.615790032841 -67.693150991370
+(S1 (SINV (VB thank) (NP (PRP you) (JJ Sandy))))
+-22.735061482691 -69.025679861243
+(S1 (VP (VB thank) (NP (NP (PRP you)) (NP (NNP Sandy)))))
+-22.768704167447 -65.096297748745
+(S1 (VP (VB thank) (NP (PRP you)) (S (NP (NNP Sandy)))))
+-22.857121605174 -68.203799533471
+(S1 (S (VP (VB thank) (NP (PRP you)) (ADVP (NNP Sandy)))))
+-23.127133397243 -69.125262695551
+(S1 (VP (VB thank) (S (NP (PRP you)) (ADVP (JJ Sandy)))))
+-23.309965432692 -67.338044972442
+(S1 (S (VP (VB thank) (NP (PRP you)) (S (ADJP (NNP Sandy))))))
+-23.951562062168 -69.408138114659
+(S1 (VP (VB thank) (NP (PRP you)) (ADVP (NNP Sandy))))
+-24.582355346688 -68.866478875716
+(S1 (VP (VB thank) (NP (PRP you)) (S (ADJP (NNP Sandy)))))
+

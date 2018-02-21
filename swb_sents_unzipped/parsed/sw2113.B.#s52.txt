@@ -1,0 +1,102 @@
+50 x
+-10.208400451221 -44.605787186959
+(S1 (S (NP (PRP I)) (VP (VBP read) (NP (DT the) (NN book)))))
+-10.271916023001 -45.464317102112
+(S1 (S (NP (PRP I)) (VP (VBD read) (NP (DT the) (NN book)))))
+-11.615459736129 -46.954434032904
+(S1 (S (NP (PRP I)) (VP (VB read) (NP (DT the) (NN book)))))
+-13.015050526663 -54.366457594186
+(S1 (S (NP (PRP I)) (VP (VBN read) (NP (DT the) (NN book)))))
+-14.262448960675 -49.939675678943
+(S1 (S (NP (PRP I)) (VP (VBP read) (S (NP (DT the) (NN book))))))
+-15.516195972479 -52.661189191944
+(S1 (S (NP (PRP I)) (VP (VBD read) (S (NP (DT the) (NN book))))))
+-16.050546526077 -56.989872734733
+(S1 (S (NP (PRP I)) (VP (VBN read) (S (NP (DT the) (NN book))))))
+-16.286863482402 -62.422657644201
+(S1 (S (NP (NN I)) (VP (VB read) (NP (DT the) (NN book)))))
+-16.428838095309 -61.782446247116
+(S1 (S (NP (NN I)) (VP (VBD read) (NP (DT the) (NN book)))))
+-16.788028995521 -55.798838048875
+(S1 (S (NP (PRP I)) (VP (VB read) (S (NP (DT the) (NN book))))))
+-16.812354126999 -64.643266155568
+(S1 (S (NP (NN I)) (VP (VBN read) (NP (DT the) (NN book)))))
+-17.077487502316 -60.731336168890
+(S1 (NP (NP (NN I)) (VP (VBN read) (NP (DT the) (NN book)))))
+-17.240463545528 -59.676513722974
+(S1 (S (NP (PRP I)) (VP (VBP read) (NP (NP (DT the)) (NN book)))))
+-17.473704685924 -60.552042473403
+(S1 (NP (NP (NN I)) (VP (VBD read) (NP (DT the) (NN book)))))
+-18.056577783795 -60.402265175474
+(S1 (S (NP (PRP I)) (VP (VBD read) (NP (NP (DT the)) (NN book)))))
+-18.619518150443 -68.398987498177
+(S1 (S (NP (NN I)) (VP (VBP read) (NP (DT the) (NN book)))))
+-18.889882656268 -69.088529334995
+(S1 (NP (NP (NN I)) (VP (VB read) (NP (DT the) (NN book)))))
+-18.919832359324 -62.417537724845
+(S1 (NP (NP (NN I)) (VP (VBN read) (S (NP (DT the) (NN book))))))
+-18.924201890109 -62.095060908420
+(S1 (S (NP (PRP I)) (VP (VB read) (NP (NP (DT the)) (NN book)))))
+-19.043544101719 -69.031390140230
+(S1 (NP (NP (PRP I)) (VP (VBD read) (NP (DT the) (NN book)))))
+-19.430818746478 -67.747338737004
+(S1 (S (NP (NP (PRP I)) (VP (VBD read) (NP (DT the) (NN book))))))
+-19.470214658551 -71.642211078575
+(S1 (NP (NP (PRP I)) (VP (VBN read) (NP (DT the) (NN book)))))
+-19.558177308477 -65.436444307381
+(S1 (S (NP (NP (NN I)) (VP (VBN read) (NP (DT the) (NN book))))))
+-19.703708947187 -71.329605402199
+(S1 (NP (NP (PRP I)) (VP (VB read) (NP (DT the) (NN book)))))
+-19.767354861288 -64.166489514520
+(S1 (S (NP (NP (NN I)) (VP (VBD read) (NP (DT the) (NN book))))))
+-19.813602665413 -67.266681296115
+(S1 (S (NP (NN I)) (VP (VBN read) (S (NP (DT the) (NN book))))))
+-20.171264249499 -70.422083849208
+(S1 (S (NP (NP (PRP I)) (VP (VBN read) (NP (DT the) (NN book))))))
+-20.326468359763 -70.205506320878
+(S1 (S (NP (NP (PRP I)) (VP (VB read) (NP (DT the) (NN book))))))
+-20.561494521564 -71.602530069904
+(S1 (NP (NP (NN I)) (VP (VBP read) (NP (DT the) (NN book)))))
+-20.599968775980 -69.858612939623
+(S1 (S (NP (PRP I)) (VP (VBN read) (NP (NP (DT the)) (NN book)))))
+-21.296675842585 -65.104757488199
+(S1 (NP (NP (NN I)) (VP (VBD read) (S (NP (DT the) (NN book))))))
+-21.316042159192 -73.033546099922
+(S1 (NP (NP (PRP I)) (VP (VBN read) (S (NP (DT the) (NN book))))))
+-21.402996526456 -67.122645724865
+(S1 (S (NP (NP (NN I)) (VP (VBN read) (S (NP (DT the) (NN book)))))))
+-21.443322324787 -68.979318336948
+(S1 (S (NP (NN I)) (VP (VBD read) (S (NP (DT the) (NN book))))))
+-21.492961470134 -74.787991516039
+(S1 (S (NP (NP (NN I)) (VP (VB read) (NP (DT the) (NN book))))))
+-21.507264768793 -71.267061660171
+(S1 (S (NP (NN I)) (VP (VB read) (S (NP (DT the) (NN book))))))
+-21.964187077589 -68.612483938441
+(S1 (S (NP (PRP I)) (VP (VBP read) (S (NP (NP (DT the)) (NN book))))))
+-22.019566150140 -71.813418870555
+(S1 (S (NP (NP (PRP I)) (VP (VBN read) (S (NP (DT the) (NN book)))))))
+-22.683454699896 -73.732875990161
+(S1 (S (NP (NN I)) (VP (VBP read) (S (NP (DT the) (NN book))))))
+-22.767576548329 -74.131093489326
+(S1 (NP (NP (NN I)) (VP (VB read) (S (NP (DT the) (NN book))))))
+-22.921854764604 -73.193554284937
+(S1 (NP (NP (PRP I)) (VP (VBD read) (S (NP (DT the) (NN book))))))
+-23.428255216364 -71.909502881712
+(S1 (S (NP (NP (PRP I)) (VP (VBD read) (S (NP (DT the) (NN book)))))))
+-23.533412829247 -76.372169556530
+(S1 (NP (NP (PRP I)) (VP (VB read) (S (NP (DT the) (NN book))))))
+-23.709451824949 -68.719204529316
+(S1 (S (NP (NP (NN I)) (VP (VBD read) (S (NP (DT the) (NN book)))))))
+-24.012755608394 -71.333997451442
+(S1 (S (NP (PRP I)) (VP (VBD read) (S (NP (NP (DT the)) (NN book))))))
+-24.379455132991 -75.662680994231
+(S1 (S (NP (PRP I)) (VP (VBN read) (S (NP (NP (DT the)) (NN book))))))
+-24.404176551824 -75.248070475208
+(S1 (S (NP (NP (PRP I)) (VP (VB read) (S (NP (DT the) (NN book)))))))
+-24.861733122436 -74.471646308373
+(S1 (S (NP (PRP I)) (VP (VB read) (S (NP (NP (DT the)) (NN book))))))
+-24.887634316058 -76.223491499950
+(S1 (NP (NP (NN I)) (VP (VBN read) (NP (NP (DT the)) (NN book)))))
+-24.997943905747 -75.489990689029
+(S1 (NP (NP (NN I)) (VP (VBD read) (NP (NP (DT the)) (NN book)))))
+

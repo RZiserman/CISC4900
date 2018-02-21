@@ -1,0 +1,102 @@
+50 x
+-13.675588441235 -51.801062060065
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (NP (DT some) (NNS things)))))
+-16.174342478043 -58.832189492404
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (NP (DT some) (NNS things)))))
+-18.109602370744 -60.115444372862
+(S1 (NP (NP (NNP Chicago)) (VP (VBD had) (NP (DT some) (NNS things)))))
+-18.172964913691 -63.622424251413
+(S1 (S (VP (NNP Chicago) (VP (VBD had) (NP (DT some) (NNS things))))))
+-19.261504650961 -65.430840895765
+(S1 (S (VP (NNP Chicago) (VP (VBN had) (NP (DT some) (NNS things))))))
+-19.292602762288 -64.656397070155
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (DT some) (NP (NNS things)))))
+-19.382917742099 -60.461617288301
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (S (NP (DT some) (NNS things))))))
+-19.389952651692 -62.754986097324
+(S1 (NP (NP (NNP Chicago)) (VP (VBN had) (NP (DT some) (NNS things)))))
+-19.432176515422 -66.426016779320
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (NP (DT some) (NP (NNS things))))))
+-19.539021676108 -62.284726121592
+(S1 (S (ADVP (NNP Chicago)) (VP (VBD had) (NP (DT some) (NNS things)))))
+-20.012268393124 -68.776326766234
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (NP (RB some) (NNS things)))))
+-20.876128712941 -66.133092435602
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (S (NP (DT some) (NNS things))))))
+-21.021003398774 -62.143737127644
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (SBAR (S (NP (DT some) (NNS things)))))))
+-21.130211967380 -71.922592084759
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (ADVP (RB some)) (NP (NNS things)))))
+-21.220524927936 -65.161833640037
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (S (NP (DT some)) (NP (NNS things))))))
+-21.254723854130 -68.001445523293
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (NP (DT some)) (NP (NNS things)))))
+-21.312843683156 -70.954248121891
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (NP (DT some) (NP (NNS things))))))
+-21.332693955246 -68.993364175554
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (NP (NP (DT some)) (NNS things)))))
+-21.486690411121 -69.088587872849
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (RB some) (NP (NNS things)))))
+-21.568638907061 -69.154033297839
+(S1 (S (NP (NP (NNP Chicago)) (VP (VBD had) (NP (DT some) (NNS things))))))
+-22.042319533096 -69.217747256417
+(S1 (S (ADVP (NNP Chicago)) (VP (VBN had) (NP (DT some) (NNS things)))))
+-22.152888236844 -66.163171065011
+(S1 (NP (NP (NNP Chicago)) (VP (VBN had) (S (NP (DT some) (NNS things))))))
+-22.362041000568 -72.141996844282
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (NP (NP (DT some)) (NP (NNS things))))))
+-22.449979237817 -72.962054128239
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (NP (DT some)) (NP (NNS things)))))
+-22.516459785887 -71.696576352203
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (S (NP (DT some)) (NP (NNS things))))))
+-22.844652522049 -72.282727647837
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (ADVP (DT some)) (NP (NNS things)))))
+-22.937748954176 -71.960638122933
+(S1 (S (NP (NP (NNP Chicago)) (VP (VBN had) (NP (DT some) (NNS things))))))
+-22.997091995567 -67.070308070758
+(S1 (NP (NP (NNP Chicago)) (VP (VBD had) (S (NP (DT some) (NNS things))))))
+-23.021511609877 -75.120122548029
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (NP (NP (DT some)) (NNS things)))))
+-23.473178076408 -66.867935711237
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (SBAR (S (NP (DT some)) (NP (NNS things)))))))
+-23.617922136987 -71.371033678088
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (SBAR (S (NP (DT some) (NNS things)))))))
+-23.797122060805 -75.671813190012
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (S (NP (RB some) (NNS things))))))
+-23.853084701874 -74.566927719812
+(S1 (NP (NP (NNP Chicago)) (VP (VBD had) (DT some) (NP (NNS things)))))
+-23.855888509789 -71.726654981612
+(S1 (NP (NP (NNP Chicago)) (VP (VBN had) (S (NP (DT some)) (NP (NNS things))))))
+-23.889620356860 -74.155767509122
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (S (NP (DT some) (NP (NNS things)))))))
+-24.062972004818 -75.446268467342
+(S1 (NP (NP (NNP Chicago)) (VP (VBD had) (NP (DT some) (NP (NNS things))))))
+-24.262523894523 -73.250477947459
+(S1 (S (VP (NNP Chicago) (VP (VBN had) (S (NP (DT some) (NNS things)))))))
+-24.315058874736 -73.448129696611
+(S1 (S (VP (NNP Chicago) (VP (VBD had) (S (NP (DT some) (NNS things)))))))
+-24.614487824480 -75.185654657104
+(S1 (NP (NP (NNP Chicago)) (VP (VBN had) (NP (DT some) (NP (NNS things))))))
+-24.824716581403 -71.770524422494
+(S1 (NP (NP (NNP Chicago)) (VP (VBD had) (S (NP (DT some)) (NP (NNS things))))))
+-25.166851763887 -75.140061187182
+(S1 (S (ADVP (NNP Chicago)) (VP (VBD had) (DT some) (NP (NNS things)))))
+-25.259958965155 -70.945281204263
+(S1 (S (ADVP (NNP Chicago)) (VP (VBD had) (S (NP (DT some) (NNS things))))))
+-25.603509447014 -76.026515635106
+(S1 (S (NP (NNP Chicago)) (VP (VBD had) (SBAR (S (NP (DT some) (NP (NNS things))))))))
+-25.620105540721 -76.095232261682
+(S1 (S (NP (NNP Chicago)) (VP (VBN had) (SBAR (S (NP (DT some)) (NP (NNS things)))))))
+-25.733125897871 -75.368823295148
+(S1 (S (NP (NP (NNP Chicago)) (VP (VBN had) (S (NP (DT some) (NNS things)))))))
+-25.733138074798 -72.385160458035
+(S1 (NP (NP (NNP Chicago)) (VP (VBD had) (SBAR (S (NP (DT some) (NNS things)))))))
+-25.896523385521 -74.747225471102
+(S1 (NP (NP (NNP Chicago)) (VP (VBN had) (SBAR (S (NP (DT some) (NNS things)))))))
+-26.605221238883 -76.108896995735
+(S1 (S (NP (NP (NNP Chicago)) (VP (VBD had) (S (NP (DT some) (NNS things)))))))
+-26.908816910679 -72.627400999260
+(S1 (S (ADVP (NNP Chicago)) (VP (VBD had) (SBAR (S (NP (DT some) (NNS things)))))))
+-27.097566153779 -75.645497555999
+(S1 (S (ADVP (NNP Chicago)) (VP (VBD had) (S (NP (DT some)) (NP (NNS things))))))
+

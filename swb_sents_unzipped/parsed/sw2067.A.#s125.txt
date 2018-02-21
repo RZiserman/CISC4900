@@ -1,0 +1,102 @@
+50 x
+-16.180177457688 -50.714349146218
+(S1 (S (RB Well) (VP (VB take) (NP (JJ good) (NN care)))))
+-16.521923633577 -51.689402642792
+(S1 (S (VP (ADVP (RB Well)) (VB take) (NP (JJ good) (NN care)))))
+-16.879581520559 -55.027698146332
+(S1 (S (ADVP (RB Well)) (VP (VB take) (NP (JJ good) (NN care)))))
+-17.216413770379 -54.179107467126
+(S1 (S (INTJ (UH Well)) (VP (VB take) (NP (JJ good) (NN care)))))
+-17.590904823488 -54.504047425228
+(S1 (VP (ADVP (RB Well)) (VB take) (NP (JJ good) (NN care))))
+-18.333864999668 -56.054801907917
+(S1 (FRAG (RB Well) (VP (VB take) (NP (JJ good) (NN care)))))
+-18.523009411530 -60.245616107914
+(S1 (S (INTJ (UH Well)) (VP (VBP take) (NP (JJ good) (NN care)))))
+-18.523909340586 -55.260391332668
+(S1 (S (INTJ (RB Well)) (VP (VB take) (NP (JJ good) (NN care)))))
+-19.082900969440 -60.940564747445
+(S1 (S (RB Well) (VP (VBP take) (NP (JJ good) (NN care)))))
+-19.121093818971 -58.763211493636
+(S1 (S (VP (RB Well) (VB take) (NP (JJ good) (NN care)))))
+-19.245809591542 -59.097404465096
+(S1 (S (RB Well) (VP (VB take) (NP (NN good) (NN care)))))
+-19.282554016060 -59.602559823940
+(S1 (FRAG (ADVP (RB Well)) (VP (VB take) (NP (JJ good) (NN care)))))
+-19.333597333814 -60.796003921279
+(S1 (S (RB Well) (S (VP (VB take) (NP (JJ good) (NN care))))))
+-19.433524928671 -58.512965381609
+(S1 (FRAG (VP (ADVP (RB Well)) (VB take) (NP (JJ good) (NN care)))))
+-19.452142333002 -62.817849633768
+(S1 (S (ADVP (RB Well)) (S (VP (VB take) (NP (JJ good) (NN care))))))
+-19.546941569006 -55.841835541308
+(S1 (S (RB Well) (VP (VB take) (ADJP (JJ good)) (NP (NN care)))))
+-19.639678253145 -55.007130431421
+(S1 (S (RB Well) (VP (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-19.758214910431 -60.072457961670
+(S1 (S (VP (ADVP (RB Well)) (VB take) (NP (NN good) (NN care)))))
+-19.806412260513 -62.726396136485
+(S1 (S (ADVP (RB Well)) (VP (VBP take) (NP (JJ good) (NN care)))))
+-19.941636729822 -55.982183927995
+(S1 (S (VP (ADVP (RB Well)) (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-19.975109321396 -60.858364953550
+(S1 (S (INTJ (RB Well)) (VP (VBP take) (NP (JJ good) (NN care)))))
+-20.139953917413 -63.410753465210
+(S1 (S (ADVP (RB Well)) (VP (VB take) (NP (NN good) (NN care)))))
+-20.252137353999 -60.155184439244
+(S1 (S (ADVP (RB Well)) (VP (VB take) (ADJP (JJ good)) (NP (NN care)))))
+-20.282831257233 -62.562162786004
+(S1 (S (INTJ (UH Well)) (VP (VB take) (NP (NN good) (NN care)))))
+-20.343996156016 -59.320479431534
+(S1 (S (ADVP (RB Well)) (VP (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-20.477925212668 -59.306593721949
+(S1 (S (INTJ (UH Well)) (VP (VB take) (ADJP (JJ good)) (NP (NN care)))))
+-20.607453925836 -58.471888752329
+(S1 (S (INTJ (UH Well)) (VP (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-20.613266158076 -61.429284954340
+(S1 (S (ADVP (UH Well)) (VP (VB take) (NP (JJ good) (NN care)))))
+-20.774230170487 -63.883562914386
+(S1 (S (RB Well) (VP (VB take) (NP (RB good) (NN care)))))
+-20.917554929623 -62.367028813333
+(S1 (FRAG (S (VP (ADVP (RB Well)) (VB take) (NP (JJ good) (NN care))))))
+-20.954061980828 -62.887102680036
+(S1 (VP (ADVP (RB Well)) (VB take) (NP (NN good) (NN care))))
+-21.139434656189 -60.984746614603
+(S1 (S (RB Well) (VP (VB take) (ADJP (JJ good)) (NP (VB care)))))
+-21.226858203553 -58.796828541811
+(S1 (VP (ADVP (RB Well)) (VB take) (NP (ADJP (JJ good)) (NN care))))
+-21.455678577053 -63.988574243597
+(S1 (S (VP (ADVP (UH Well)) (VB take) (NP (JJ good) (NN care)))))
+-21.489731035332 -60.289372208342
+(S1 (S (RB Well) (VP (VB take) (NP (ADJP (RB good)) (NN care)))))
+-21.585096776773 -61.252380534309
+(S1 (FRAG (RB Well) (VP (VB take) (ADJP (JJ good)) (NP (NN care)))))
+-21.590326827440 -63.643446651546
+(S1 (S (INTJ (RB Well)) (VP (VB take) (NP (NN good) (NN care)))))
+-21.630018171220 -61.264425704915
+(S1 (S (VP (ADVP (RB Well)) (VB take) (NP (ADJP (RB good)) (NN care)))))
+-21.834668078426 -63.528228482569
+(S1 (S (INTJ (UH Well)) (VP (VBP take) (NP (ADJP (JJ good)) (NN care)))))
+-21.891817975663 -60.387877587490
+(S1 (S (INTJ (RB Well)) (VP (VB take) (ADJP (JJ good)) (NP (NN care)))))
+-21.984554698831 -59.553172617870
+(S1 (S (INTJ (RB Well)) (VP (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-22.010750686337 -60.347583175311
+(S1 (FRAG (RB Well) (VP (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-22.240851486797 -64.163749881969
+(S1 (FRAG (ADVP (RB Well)) (VP (VB take) (ADJP (JJ good)) (NP (NN care)))))
+-22.457506708023 -63.754130529250
+(S1 (S (INTJ (UH Well)) (VP (VB take) (NP (ADJP (RB good)) (NN care)))))
+-22.463164862712 -63.049008589078
+(S1 (S (RB Well) (VP (VB take) (NP (JJ good)) (NP (NN care)))))
+-22.582163367216 -63.055992778838
+(S1 (S (VP (RB Well) (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-22.959439702729 -63.895341091334
+(S1 (FRAG (ADVP (RB Well)) (VP (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-23.015606863739 -64.079070318732
+(S1 (VP (ADVP (RB Well)) (VB take) (NP (ADJP (RB good)) (NN care))))
+-23.069478353340 -62.805746649002
+(S1 (FRAG (VP (ADVP (RB Well)) (VB take) (NP (ADJP (JJ good)) (NN care)))))
+-23.150841791080 -64.140977328205
+(S1 (S (INTJ (RB Well)) (VP (VBP take) (NP (ADJP (JJ good)) (NN care)))))
+

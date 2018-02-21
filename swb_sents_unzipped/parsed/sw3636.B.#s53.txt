@@ -1,0 +1,102 @@
+50 x
+-14.428289371027 -54.016061548661
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (JJ big) (NNS trees)))))
+-17.320936124058 -65.681378968343
+(S1 (S (NP (PRP I)) (VP (NN love) (NP (DT the) (JJ big) (NNS trees)))))
+-17.638362166456 -64.897211238008
+(S1 (S (NP (PRP I)) (VP (VB love) (NP (DT the) (JJ big) (NNS trees)))))
+-18.178831616528 -61.156558109413
+(S1 (S (NP (PRP I)) (VP (VBP love) (S (NP (DT the) (JJ big) (NNS trees))))))
+-19.380903824804 -67.520892197604
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (NP (JJ big) (NNS trees))))))
+-19.467553520996 -68.502294675985
+(S1 (S (NP (PRP I)) (VP (VBP love) (DT the) (NP (JJ big) (NNS trees)))))
+-19.742239257778 -64.995450369965
+(S1 (S (NP (PRP I)) (VP (VBP love) (SBAR (S (NP (DT the) (JJ big) (NNS trees)))))))
+-20.967401871591 -70.205649951458
+(S1 (S (NP (PRP I)) (VP (VB love) (S (NP (DT the) (JJ big) (NNS trees))))))
+-21.743105282980 -65.573995246941
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (ADJP (JJ big)) (NNS trees)))))
+-21.901994065558 -74.234629829728
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (NP (DT the) (JJ big)) (NNS trees)))))
+-21.934328717489 -77.912695565116
+(S1 (S (NP (PRP I)) (VP (NN love) (NP (DT the) (NP (JJ big) (NNS trees))))))
+-22.180783705399 -72.987104983499
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (NP (DT the)) (JJ big) (NNS trees)))))
+-22.462969133649 -73.392642224764
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (DT the)) (NP (JJ big) (NNS trees)))))
+-22.586219947228 -80.365434849305
+(S1 (S (NP (NN I)) (VP (VB love) (NP (DT the) (JJ big) (NNS trees)))))
+-22.731637143273 -78.098081660032
+(S1 (S (NP (NN I)) (VP (VBP love) (NP (DT the) (JJ big) (NNS trees)))))
+-22.745896320325 -78.754386453419
+(S1 (S (NP (PRP I)) (VP (VB love) (NP (DT the) (NP (JJ big) (NNS trees))))))
+-22.810543699500 -78.954414476498
+(S1 (S (NP (NN I)) (VP (NN love) (NP (DT the) (JJ big) (NNS trees)))))
+-23.243081355947 -75.233708794525
+(S1 (S (NP (PRP I)) (VP (VB love) (SBAR (S (NP (DT the) (JJ big) (NNS trees)))))))
+-23.396802905430 -75.895701044897
+(S1 (S (NP (PRP I)) (VP (VBP love) (S (NP (DT the)) (NP (JJ big) (NNS trees))))))
+-23.750744637188 -76.960545121783
+(S1 (S (NP (PRP I)) (VP (VBP love) (S (NP (DT the) (NP (JJ big) (NNS trees)))))))
+-24.526915486910 -77.195543705618
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (NP (DT the)) (NP (JJ big) (NNS trees))))))
+-24.577429188405 -83.618896125653
+(S1 (NP (NP (NN I)) (VP (VB love) (NP (DT the) (JJ big) (NNS trees)))))
+-24.809114849085 -77.672857075008
+(S1 (S (NP (PRP I)) (VP (NN love) (NP (DT the) (ADJP (JJ big)) (NNS trees)))))
+-24.883105298333 -84.743518634279
+(S1 (S (NP (PRP I)) (VP (NN love) (NP (NP (DT the) (JJ big)) (NNS trees)))))
+-25.138622789763 -85.859972246672
+(S1 (NP (NP (PRP I)) (VP (VB love) (NP (DT the) (JJ big) (NNS trees)))))
+-25.168342126595 -76.567267311258
+(S1 (S (NP (PRP I)) (VP (VB love) (NP (DT the) (ADJP (JJ big)) (NNS trees)))))
+-25.364241701830 -83.345141812265
+(S1 (NP (NP (NN I)) (VP (NN love) (NP (DT the) (JJ big) (NNS trees)))))
+-25.370048735134 -80.988065639572
+(S1 (S (NP (PRP I)) (VP (VBP love) (SBAR (S (NP (DT the) (NP (JJ big) (NNS trees))))))))
+-25.514194663426 -84.331689065114
+(S1 (S (NP (PRP I)) (VP (VB love) (NP (NP (DT the) (JJ big)) (NNS trees)))))
+-25.625787711032 -83.450289715796
+(S1 (NP (NP (NN I)) (VP (VBP love) (NP (DT the) (JJ big) (NNS trees)))))
+-25.680524619821 -83.950833475095
+(S1 (S (NP (PRP I)) (VP (VB love) (NP (DT the)) (NP (JJ big) (NNS trees)))))
+-25.843696616764 -84.735873149794
+(S1 (S (NP (NP (PRP I)) (VP (VB love) (NP (DT the) (JJ big) (NNS trees))))))
+-25.890403327270 -84.264632846500
+(S1 (S (NP (PRP I)) (VP (NN love) (NP (NP (DT the)) (JJ big) (NNS trees)))))
+-25.918879299363 -85.673873562754
+(S1 (S (NP (NN I)) (VP (VB love) (S (NP (DT the) (JJ big) (NNS trees))))))
+-25.937884207660 -82.785414838031
+(S1 (S (NP (PRP I)) (VP (VB love) (NP (NP (DT the)) (JJ big) (NNS trees)))))
+-25.986791852011 -81.817480987708
+(S1 (S (NP (PRP I)) (VP (VBP love) (SBAR (S (NP (DT the)) (NP (JJ big) (NNS trees)))))))
+-26.104951005324 -76.283308396078
+(S1 (S (NP (PRP I)) (VP (VBP love) (S (NP (DT the) (ADJP (JJ big)) (NNS trees))))))
+-26.369943269668 -79.506081912491
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (NP (ADJP (JJ big)) (NNS trees))))))
+-26.403204568773 -85.238578220785
+(S1 (S (NP (NN I)) (VP (VBP love) (S (NP (DT the) (JJ big) (NNS trees))))))
+-26.412685728898 -79.855943896222
+(S1 (S (NP (PRP I)) (VP (VBP love) (DT the) (NP (ADJP (JJ big)) (NNS trees)))))
+-26.431187452469 -84.470278057878
+(S1 (S (NP (PRP I)) (VP (VBP love) (S (NP (NP (DT the) (JJ big)) (NNS trees))))))
+-26.438715273479 -82.187769779584
+(S1 (S (NP (PRP I)) (VP (VBP love) (S (NP (NP (DT the)) (JJ big) (NNS trees))))))
+-26.605823082252 -86.009636963827
+(S1 (S (NP (PRP I)) (VP (VB love) (S (NP (DT the) (NP (JJ big) (NNS trees)))))))
+-27.059241434680 -85.806908374372
+(S1 (S (NP (PRP I)) (VP (VB love) (S (NP (DT the)) (NP (JJ big) (NNS trees))))))
+-27.153901081212 -87.036583429935
+(S1 (NP (NP (NN I)) (VP (VB love) (S (NP (DT the) (JJ big) (NNS trees))))))
+-27.666970024915 -80.122200785942
+(S1 (S (NP (PRP I)) (VP (VBP love) (SBAR (S (NP (DT the) (ADJP (JJ big)) (NNS trees)))))))
+-28.016253793819 -86.026662132810
+(S1 (S (NP (PRP I)) (VP (VBP love) (SBAR (S (NP (NP (DT the)) (JJ big) (NNS trees)))))))
+-28.538916025216 -84.338703820038
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (NP (DT the)) (ADJP (JJ big)) (NNS trees)))))
+-29.101504367687 -85.332400238123
+(S1 (S (NP (PRP I)) (VP (VB love) (S (NP (DT the) (ADJP (JJ big)) (NNS trees))))))
+-29.396077389217 -84.746291553386
+(S1 (S (NP (PRP I)) (VP (VBP love) (NP (DT the)) (NP (ADJP (JJ big)) (NNS trees)))))
+

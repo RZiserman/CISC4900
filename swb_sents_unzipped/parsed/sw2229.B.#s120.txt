@@ -1,0 +1,102 @@
+50 x
+-12.856812779194 -48.536754962668
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that))))))))
+-13.258328122437 -50.766017658143
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-15.569740031458 -55.163479147881
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (IN that))))))))
+-15.903800261913 -57.392741843356
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (IN that)))))))))
+-16.925401794585 -62.737034817905
+(S1 (SQ (VBP Are) (S (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-17.077038603005 -67.103126447564
+(S1 (S (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that))))))))
+-17.376477776980 -61.435314835039
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB do) (NP (DT that))))))))))
+-17.677031600232 -62.618203246701
+(S1 (S (VP (VBP Are) (S (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that))))))))))
+-17.794263844438 -63.301130194487
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (SBAR (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-17.836141445363 -59.501926729533
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (NP (VBG going)) (VP (TO to) (VP (VB do) (NP (DT that)))))))
+-17.850780303608 -64.735081320199
+(S1 (S (VP (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-18.006129673482 -60.939275691015
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (NP (NN going)) (VP (TO to) (VP (VB do) (NP (DT that)))))))
+-18.086023033013 -61.256593109437
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (WDT that))))))))
+-18.095698106408 -62.025424400884
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADVP (RB that))))))))
+-18.192967432652 -65.929099220109
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-18.241880689651 -64.254687096359
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADVP (RB that)))))))))
+-18.286361856293 -67.086117862452
+(S1 (S (VP (VBP Are) (VP (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))))
+-18.398038529210 -62.546695156499
+(S1 (SQ (VBP Are) (NP (PRP you)) (PP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that))))))))
+-18.404115361134 -65.862762375974
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+-18.457053225040 -61.926955246564
+(S1 (S (VP (VBP Are) (ADVP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-18.525424494468 -63.485855804913
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (WDT that)))))))))
+-18.689601823243 -62.865360977073
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADVP (IN that))))))))
+-18.721583253699 -65.094623672548
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADVP (IN that)))))))))
+-18.745579345951 -66.814970717268
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (PRT (IN that))))))))
+-18.818902360063 -63.257500436166
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (TO to) (VP (VB do) (NP (DT that)))))))
+-18.930578517528 -66.651671636031
+(S1 (S (VP (VBP Are) (VP (NP (PRP you)) (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-19.003225700185 -61.894602055175
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (PP (TO to) (VP (VB do) (NP (DT that))))))))
+-19.042740413618 -62.797014396071
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADVP (DT that))))))))
+-19.069473598448 -64.237102090562
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (TO to) (VP (VB do) (NP (DT that))))))))
+-19.142176954073 -65.026277091546
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADVP (DT that)))))))))
+-19.223849461890 -63.011987148343
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (S (VP (VB do) (NP (DT that)))))))))
+-19.268958270451 -66.783957782864
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (VP (TO to) (VP (VB do) (NP (DT that))))))))
+-19.554131297192 -63.825995424820
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (PP (TO to) (S (VP (VB do) (NP (DT that)))))))))
+-19.808350771345 -65.241249843818
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (S (VP (VB do) (NP (DT that))))))))))
+-19.860659858594 -63.370089436998
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (S (ADJP (IN that)))))))))
+-20.290049589049 -65.599352132473
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (S (ADJP (IN that))))))))))
+-20.371729498938 -64.765289243143
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (SBAR (TO to) (S (VP (VB do) (NP (DT that)))))))))
+-20.398355522897 -66.032131776816
+(S1 (S (VP (VBP Are) (VP (ADVP (PRP you)) (VBG going) (S (VP (TO to) (VP (VB do) (NP (DT that)))))))))
+-20.447804549940 -66.923940179743
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (PP (TO to) (VP (VB do) (NP (DT that)))))))
+-20.544145058511 -65.779755113123
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (S (ADVP (IN that)))))))))
+-20.554602872330 -66.758791543638
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (PP (TO to) (NP (VB do) (DT that)))))))
+-20.709688845834 -65.194973595488
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADJP (RB that))))))))
+-20.722147607912 -67.704743068655
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADJP (IN that))))))))
+-20.771801365694 -67.332501074442
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (SBAR (TO to) (S (VP (VB do) (NP (DT that))))))))
+-20.973534791754 -68.009017808598
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (S (ADVP (IN that))))))))))
+-21.154614194839 -66.128650914745
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (NP (VBG going)) (VP (TO to) (VP (VB do) (NP (IN that)))))))
+-21.173142904946 -67.972920108473
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (PP (TO to) (NP (VB do) (IN that)))))))
+-21.262358106347 -67.565999876228
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (NP (NN going)) (VP (TO to) (VP (VB do) (NP (IN that)))))))
+-21.373369926290 -67.424236290963
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (VBG going) (S (VP (TO to) (VP (VB do) (ADJP (RB that)))))))))
+-22.799122640552 -67.067535415151
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do)))) (ADVP (DT that)))))
+

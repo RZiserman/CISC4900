@@ -1,0 +1,102 @@
+50 x
+-24.611908326196 -92.751633914300
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-25.080174770507 -97.259759292005
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-25.331815751389 -100.897327155042
+(S1 (SBAR (IN Because) (S (S (NP (PRP I)) (VP (VBD got) (PRT (RP up)))) (CC and) (S (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-25.724181398949 -92.545842633365
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-25.804448125464 -99.706170298586
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBN started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-26.192447843260 -97.053968011070
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))))
+-26.234295416079 -95.283896247833
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-26.241440837789 -100.006172940100
+(S1 (SBAR (IN Because) (S (S (NP (PRP I)) (VP (VBD got) (ADVP (RB up)))) (CC and) (S (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-26.444088818566 -100.691535874107
+(S1 (FRAG (SBAR (IN Because) (S (S (NP (PRP I)) (VP (VBD got) (PRT (RP up)))) (CC and) (S (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-26.702561860390 -99.792021625538
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-26.916721198216 -99.500379017651
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBN started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))))
+-27.134644806977 -98.881767750807
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-27.155584395185 -96.863164141461
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it)) (ADVP (RB again)))))))))
+-27.346568488832 -95.078104966898
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-27.353713921693 -99.800381659165
+(S1 (FRAG (SBAR (IN Because) (S (S (NP (PRP I)) (VP (VBD got) (ADVP (RB up)))) (CC and) (S (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-27.405759664872 -98.306486101676
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (IN up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-27.424246014756 -100.633891596382
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it)) (ADVP (RB again))))))))))
+-27.442383593073 -98.466845636898
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (NP (PRP it)) (ADVP (RB again))))))))))
+-27.445996180712 -100.484019426424
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBN started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-27.571288290871 -102.014830906767
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PRT (RP on)) (NP (PRP it)) (ADVP (RB again)))))))))
+-27.580749378079 -99.160810910798
+(S1 (S (IN Because) (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))
+-27.631735138629 -99.261639776379
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADJP (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-27.814834930355 -99.586230344603
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))))
+-28.135263970623 -99.895548216062
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (IN up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-28.195246292603 -98.700168220065
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-28.246917879730 -98.675976469872
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-28.267857467938 -96.657372860526
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it)) (ADVP (RB again))))))))))
+-28.483369181047 -99.771104629787
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADJP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-28.518032737625 -98.100694820741
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (IN up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-28.536519081934 -100.428100315447
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PP (IN on) (NP (PRP it)) (ADVP (RB again)))))))))))
+-28.554656665826 -98.261054355962
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (NP (PRP it)) (ADVP (RB again)))))))))))
+-28.558269247890 -100.278228145489
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBN started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-28.683561358048 -101.809039625831
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (S (VP (VBG jumping) (PRT (RP on)) (NP (PRP it)) (ADVP (RB again))))))))))
+-28.744008211381 -99.055848495444
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADJP (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-28.777971482280 -99.395426474994
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it)) (ADVP (RB again)))))))))
+-29.006176426816 -100.708031607012
+(S1 (S (RB Because) (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))
+-29.064770688532 -100.999107970431
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (NP (PRP it)) (ADVP (RB again))))))))))
+-29.167515640138 -100.836094395268
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it) (RB again)))))))))
+-29.247537043376 -99.689756935127
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (IN up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-29.252647750317 -100.012104891324
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again))))))))
+-29.307519365356 -98.494376939129
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-29.346522384023 -101.693073244331
+(S1 (S (IN Because) (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))
+-29.595642253800 -99.565313348852
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADJP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-29.890244555033 -99.189635194059
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it)) (ADVP (RB again))))))))))
+-30.081352288638 -100.567367720263
+(S1 (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))))) (ADVP (RB again))))))
+-30.177043755709 -100.793316689495
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (NP (PRP it)) (ADVP (RB again)))))))))))
+-30.279788707315 -100.630303114333
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it) (RB again))))))))))
+-30.292343761720 -99.207407598175
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+-31.193625355816 -100.361576439328
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP I)) (VP (VP (VBD got) (PRT (RP up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))))) (ADVP (RB again)))))))
+-31.914730840452 -101.739669931708
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP I)) (VP (VP (VBD got) (ADVP (RB up))) (CC and) (VP (VBD started) (VP (VBG jumping) (PP (IN on) (NP (PRP it))) (ADVP (RB again)))))))))
+

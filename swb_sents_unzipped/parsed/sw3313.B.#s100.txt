@@ -1,0 +1,102 @@
+50 x
+-16.617280744994 -79.710460840513
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-18.574957135071 -85.079528999880
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (NP (RB not) (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-19.461450271056 -84.951783227765
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-19.850385411141 -88.161983568996
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))
+-19.854398024874 -84.087607544036
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-20.196497655296 -89.687753137770
+(S1 (S (NP (DT This)) (VP (VBD was) (ADVP (RB not)) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-20.895152670165 -85.199683962057
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (IN that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-20.961338583303 -87.111199082591
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (RB not) (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))
+-21.016844443161 -90.203610992268
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (RB not) (DT a) (NN child) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-21.069570544488 -86.498242498095
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (S (NP (DT that)) (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-21.124290010794 -84.197285412269
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-21.210408345262 -89.408505834711
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB on)) (NP (DT the) (NN team)))))))))
+-21.407264753482 -90.320851348878
+(S1 (S (DT This) (VP (VBD was) (NP (NP (RB not) (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-21.710850840770 -85.605547506392
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-21.813230900743 -87.806021567795
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PRT (RP on)) (NP (DT the) (NN team)))))))))
+-21.875651332844 -86.122743604471
+(S1 (SBAR (DT This) (S (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))))
+-21.960141169694 -88.407641433946
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RP on)) (NP (DT the) (NN team)))))))))
+-21.985854079933 -89.128389311036
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WDT that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.000965660031 -88.552890125311
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child)) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))
+-22.013724095504 -90.329718080479
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (RP on) (NP (DT the) (NN team))))))))))
+-22.127583926406 -89.785139697568
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (NP (QP (RB not) (DT a)) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.270151786750 -86.289792079053
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (DT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.286736429082 -90.313288860501
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (RB not) (DT a) (NN child) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.346542913704 -91.013329709515
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)) (PP (IN on) (NP (DT the) (NN team)))))))))
+-22.367721605580 -90.650840945772
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child)) (SBAR (WDT that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))
+-22.446075690067 -88.262203855016
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (WHNP (IN that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.453031941899 -90.691380408946
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (S (NP (DT that)) (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.684815915920 -89.133015613480
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (S (NP (DT the) (NN team)))))))))))
+-22.687481430194 -86.481844463204
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (WDT that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.698567550936 -89.328929931288
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-22.803672350241 -90.568752121424
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (NP (RB not) (DT a) (NN child)) (SBAR (WHNP (IN that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-23.044119492482 -88.326806956077
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (WHNP (DT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-23.062762122194 -87.502105638905
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (RB not) (DT a) (NN child)) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))
+-23.208233139453 -87.724690032930
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was))))) (PP (IN on) (NP (DT the) (NN team))))))
+-23.478674777742 -89.600056459366
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (RB not) (DT a) (NN child)) (SBAR (WDT that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))
+-23.552892036827 -91.658860238421
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (NP (RB not) (DT a) (NN child)) (SBAR (WHNP (DT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-23.619370520847 -90.974615665760
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (NP (RB not) (DT a) (NN child)) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-23.671627820924 -90.498181698201
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (S (NP (WDT that)) (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-23.739322196227 -90.441006349308
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (IN that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-23.886802126913 -91.479876141011
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PRT (IN on)) (NP (DT the) (NN team)))))))))
+-23.913740070549 -91.739564885347
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (S (NP (DT that)) (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-23.944566129209 -91.491811766349
+(S1 (SBAR (DT This) (S (VP (VBD was) (NP (NP (RB not) (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))))
+-23.968459536856 -89.438607799521
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-24.071515770158 -90.656634578472
+(S1 (S (NP (DT This)) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))) (PP (IN on) (NP (DT the) (NN team)))))))
+-24.555020364044 -90.846869893644
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-25.114321312812 -91.531114466305
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (DT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-25.219025915512 -90.499890307994
+(S1 (SBAR (DT This) (S (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))))
+-25.531650956256 -91.723166850455
+(S1 (S (DT This) (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (WDT that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team))))))))))
+-26.153523260803 -91.611966726014
+(S1 (SBAR (DT This) (S (VP (VBD was) (RB not) (NP (NP (DT a) (NN child)) (SBAR (WHNP (IN that)) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))))
+-26.488917901432 -90.609568176227
+(S1 (SBAR (DT This) (S (VP (VBD was) (RB not) (NP (DT a) (NN child) (SBAR (IN that) (S (VP (VBD was) (PP (IN on) (NP (DT the) (NN team)))))))))))
+

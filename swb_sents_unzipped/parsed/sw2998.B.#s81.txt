@@ -1,0 +1,102 @@
+50 x
+-16.146778803231 -48.619352801974
+(S1 (S (CC And) (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-18.449282202062 -60.543778002402
+(S1 (S (CC And) (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))
+-18.932673245653 -56.872813878853
+(S1 (FRAG (CC And) (SBAR (CC and) (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-18.967348299710 -56.680080500165
+(S1 (FRAG (CC And) (CC and) (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-19.109201378079 -55.054140641924
+(S1 (FRAG (CC And) (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-19.322993943560 -58.961071452948
+(S1 (FRAG (CC And) (SBAR (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-19.348661848207 -60.156934723649
+(S1 (FRAG (CC And) (SBAR (CC and) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-19.393136568425 -62.298119389009
+(S1 (FRAG (CC And) (CC and) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-19.529618538096 -57.553880018697
+(S1 (S (CC And) (ADVP (CC and)) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))
+-19.633279405582 -60.571059715608
+(S1 (SQ (CC And) (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-19.636529372543 -62.248550529514
+(S1 (S (CC And) (S (CC and) (NP (DT that)) (VP (POS 's) (VP (VBN been) (VP (VBN done)))))))
+-19.711505133604 -59.309307454032
+(S1 (S (CC And) (NP (CC and) (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))
+-19.742629880784 -53.875867988560
+(S1 (S (CC And) (S (CC and) (NP (IN that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-19.829342120686 -61.712030965458
+(S1 (FRAG (CC And) (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.069725275303 -62.568212606459
+(S1 (FRAG (CC And) (CC and) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.201931788382 -55.382523515951
+(S1 (S (CC And) (S (CC and) (NP (WDT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-20.324255955679 -56.478261361174
+(S1 (SQ (CC And) (FRAG (CC and) (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.347654651162 -62.862866781202
+(S1 (SQ (CC And) (CC and) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.463827373797 -61.371716713534
+(S1 (FRAG (CC And) (ADVP (CC and)) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.501217091485 -61.629644316925
+(S1 (FRAG (CC And) (SBAR (CC and) (SBAR (DT that) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-20.663737643096 -60.693327027616
+(S1 (FRAG (CC And) (CC and) (FRAG (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.666200348443 -57.787482522181
+(S1 (FRAG (CC And) (FRAG (CC and) (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.748615402470 -61.474349821775
+(S1 (FRAG (CC And) (SBAR (CC and) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-20.754813215742 -61.516884645422
+(S1 (SQ (CC And) (FRAG (CC and) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-20.771723752334 -61.748632646805
+(S1 (FRAG (S (CC And) (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-20.974197539776 -60.807511239057
+(S1 (SQ (CC And) (FRAG (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-21.056923513399 -61.089666340403
+(S1 (FRAG (CC And) (ADVP (CC and)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-21.093486128506 -62.826105806429
+(S1 (FRAG (CC And) (FRAG (CC and) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-21.153018520446 -62.384686941295
+(S1 (SQ (CC And) (CC and) (FRAG (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-21.227755192055 -62.321212235228
+(S1 (S (CC And) (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (ADVP (RB done)))))))
+-21.275505673844 -62.698314455793
+(S1 (S (ADVP (CC And) (CC and)) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))
+-21.312870452540 -62.116732400063
+(S1 (FRAG (CC And) (FRAG (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-21.343840847357 -58.822840325080
+(S1 (S (CC And) (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (S (VP (VBN done))))))))
+-21.372077551195 -60.767537762528
+(S1 (S (CC And) (S (NP (CC and) (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-21.385975829505 -62.510007935718
+(S1 (S (CC And) (NP (CC and) (NP (DT that))) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))
+-21.436651749361 -57.528365467442
+(S1 (S (CC And) (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (ADJP (VBN done)))))))
+-21.622989167545 -61.663692920422
+(S1 (SQ (CC And) (FRAG (CC and) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-21.632612950851 -61.649846154806
+(S1 (FRAG (CC And) (ADVP (CC and)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-21.880106665393 -62.209249313136
+(S1 (SQ (CC And) (FRAG (SBAR (CC and) (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-21.961662080308 -62.972914081429
+(S1 (FRAG (CC And) (FRAG (CC and) (SBAR (S (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))))
+-21.986592554899 -61.115594352809
+(S1 (FRAG (CC And) (FRAG (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-22.427970771122 -62.646814971729
+(S1 (SQ (CC And) (FRAG (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-22.538705358604 -59.018631612360
+(S1 (S (CC And) (S (CC and) (NP (DT that)) (VP (VBZ 's) (VP (VBN been) (S (ADJP (VBN done))))))))
+-22.640318744882 -59.999066191936
+(S1 (FRAG (CC And) (S (CC and) (NP (IN that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-22.674722792197 -62.678547748499
+(S1 (S (CC And) (S (NP (CC and) (NP (DT that))) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-22.757290003248 -62.651085705812
+(S1 (S (CC And) (ADVP (CC and)) (NP (IN that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))
+-22.942977754781 -62.211724344979
+(S1 (FRAG (CC And) (S (NP (CC and) (DT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-23.060080846048 -63.007758111738
+(S1 (FRAG (CC And) (SBAR (CC and) (S (NP (IN that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done))))))))
+-23.067404599441 -61.461949679832
+(S1 (FRAG (CC And) (S (CC and) (NP (WDT that)) (VP (VBZ 's) (VP (VBN been) (VP (VBN done)))))))
+-25.044387757126 -62.784880654028
+(S1 (S (CC And) (S (CC and) (NP (IN that)) (VP (VBZ 's) (VP (VBN been) (ADJP (VBN done)))))))
+

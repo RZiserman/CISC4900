@@ -1,0 +1,102 @@
+50 x
+-19.781358558957 -74.488866617029
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year)))))
+-21.009351062215 -82.426133549900
+(S1 (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year)))))))))
+-21.073341310229 -82.706019368415
+(S1 (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year))))))))
+-21.171900599682 -79.163477818575
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBN planted) (NP (PRP them)) (NP (DT this) (NN year)))))
+-21.760359136400 -81.507634301971
+(S1 (FRAG (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year)))))))))
+-22.402177965727 -82.694998343638
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (S (NP (PRP them)) (NP (DT this) (NN year))))))
+-22.607527597735 -78.169256810527
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year))))))
+-22.844840808369 -88.498972904444
+(S1 (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBN planted) (NP (PRP them)) (NP (DT this) (NN year)))))))))
+-22.908831056383 -88.778858722959
+(S1 (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBN planted) (NP (PRP them)) (NP (DT this) (NN year))))))))
+-22.984963253316 -88.641636759217
+(S1 (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (NP (PRP we)))) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year)))))
+-23.237493998880 -82.556267832044
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (NP (PRP them)) (NP (DT this) (NN year))))))
+-23.503696237000 -85.560470500794
+(S1 (FRAG (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year))))))))
+-23.595848885341 -87.580473656515
+(S1 (FRAG (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBN planted) (NP (PRP them)) (NP (DT this) (NN year)))))))))
+-23.675750509924 -87.097211610447
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBN planted) (S (NP (PRP them)) (NP (DT this) (NN year))))))
+-23.688460820554 -90.486789617895
+(S1 (SBAR (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year))))))))))
+-23.695452177136 -90.632265313144
+(S1 (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (S (NP (PRP them)) (NP (DT this) (NN year))))))))))
+-24.341273987869 -87.239292895880
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (SBAR (S (NP (PRP them)) (NP (DT this) (NN year)))))))
+-24.404103505169 -85.559293314641
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them))) (NP (DT this) (NN year))))
+-24.446460254109 -89.713766065215
+(S1 (FRAG (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (S (NP (PRP them)) (NP (DT this) (NN year))))))))))
+-24.557362845410 -84.044675338436
+(S1 (FRAG (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year))))))
+-24.574867699789 -86.236684115415
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (ADVP (PRP them)) (NP (DT this) (NN year)))))
+-24.622093768685 -90.493534644396
+(S1 (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (NP (PRP them)) (NP (DT this) (NN year))))))))))
+-24.725342279011 -90.231320451516
+(S1 (PP (IN for) (S (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year)))))))))
+-24.839464237566 -86.707365451782
+(S1 (S (PP (IN for) (NP (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)))))) (NP (DT this) (NN year))))))
+-24.878677516730 -86.987251311583
+(S1 (PP (IN for) (NP (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)))))) (NP (DT this) (NN year)))))
+-24.905047963224 -87.717454275391
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VP (VBD planted) (NP (PRP them))) (NP (DT this) (NN year)))))
+-24.909707079294 -79.591480836844
+(S1 (FRAG (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them))))))) (NP (DT this) (NN year))))
+-24.954917164141 -85.177682025170
+(S1 (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them))))))) (NP (DT this) (NN year))))
+-24.986191456549 -87.694342630740
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them) (NP (DT this) (NN year))))))
+-25.195918748618 -84.621014395507
+(S1 (FRAG (PP (IN for) (NP (DT the) (JJ first) (NN time))) (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year))))))
+-25.213208825953 -86.979843202447
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (S (NP (PRP we)) (VP (VBN planted) (NP (PRP them)) (NP (DT this) (NN year))))))
+-25.373101845657 -89.575035396467
+(S1 (FRAG (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (NP (PRP them)) (NP (DT this) (NN year))))))))))
+-25.391379840077 -89.812569876432
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBN planted) (NP (NP (PRP them)) (NP (DT this) (NN year))))))
+-25.457924443807 -86.375388606432
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (S (NP (PRP we)) (VP (VBD planted) (S (NP (PRP them)) (NP (DT this) (NN year)))))))
+-25.565695345689 -85.788866247591
+(S1 (FRAG (PP (IN for) (NP (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)))))) (NP (DT this) (NN year))))))
+-25.872549837658 -86.236658018016
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (S (NP (PRP we)) (VP (VBD planted) (NP (NP (PRP them)) (NP (DT this) (NN year)))))))
+-26.130500529197 -89.977955935795
+(S1 (FRAG (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (NP (DT this) (NN year)))))
+-26.282290821015 -90.164825949789
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBN planted) (ADVP (PRP them)) (NP (DT this) (NN year)))))
+-26.335026825729 -88.891462627256
+(S1 (FRAG (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBN planted) (NP (PRP them)) (NP (DT this) (NN year)))))
+-26.405367596273 -87.192303196621
+(S1 (FRAG (IN for) (NP (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)))))) (NP (DT this) (NN year)))))
+-26.632040163539 -83.741439279688
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (ADVP (PRP them)) (DT this) (NN year)))))
+-27.086026626461 -87.174052115703
+(S1 (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them)))))) (NP (DT this) (NN year))))
+-27.262443800204 -89.917074275666
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (S (NP (PRP we)) (VP (VBD planted) (ADVP (PRP them)) (NP (DT this) (NN year))))))
+-27.309641820459 -89.129189963364
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (S (NP (DT this) (NN year))))))
+-27.624496161680 -89.891819999586
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (SBAR (S (NP (DT this) (NN year)))))))
+-27.824240337781 -88.119378231392
+(S1 (FRAG (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBN planted) (NP (PRP them))))))) (NP (DT this) (NN year))))
+-28.032881211604 -88.315302293987
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBN planted) (NP (ADVP (PRP them)) (DT this) (NN year)))))
+-28.980479344356 -89.312142870546
+(S1 (FRAG (PP (IN for) (NP (DT the) (JJ first) (NN time) (SBAR (S (NP (PRP we)) (VP (VBD planted) (NP (PRP them))))))) (NP (DT this) (NN year))))
+-29.386716306896 -90.086484361006
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP we)) (VP (VBD planted) (NP (PRP them)) (ADVP (DT this) (NN year)))))
+-29.845493402317 -87.421829465660
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (S (NP (PRP we)) (VP (VBD planted) (NP (ADVP (PRP them)) (DT this) (NN year))))))
+

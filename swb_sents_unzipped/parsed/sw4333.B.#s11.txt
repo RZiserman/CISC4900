@@ -1,0 +1,102 @@
+50 x
+-29.986369999515 -105.455448789492
+(S1 (S (S (ADVP (RB Now)) (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-30.012200117414 -109.936038442332
+(S1 (S (ADVP (RB Now)) (VP (VB i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))))
+-30.413917071790 -108.949391886231
+(S1 (S (S (ADVP (RB Now)) (VP (VBN i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-30.635377270563 -108.355398909217
+(S1 (S (ADVP (RB Now)) (PP (ADVP (RB i-)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-30.971766748704 -110.253957921785
+(S1 (S (S (ADVP (RB Now)) (VP (VBG i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.225347579331 -109.833061430494
+(S1 (S (ADJP (RB Now) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.346609423312 -105.564437467389
+(S1 (FRAG (ADVP (RB Now)) (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-31.430059556677 -108.747926804958
+(S1 (S (ADVP (RB Now) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.512256679773 -105.546668903635
+(S1 (S (S (VP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.520239492665 -110.046071164609
+(S1 (S (ADVP (RB Now)) (PP (RB i-) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.532331469684 -106.933205503924
+(S1 (S (PP (ADVP (RB Now) (JJ i-)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.604867033423 -109.846555134987
+(S1 (FRAG (RB Now) (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NNS economics)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))))))))
+-31.623737283132 -110.071935590280
+(S1 (S (ADJP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.726144278603 -110.105338923847
+(S1 (S (ADVP (RB Now)) (ADJP (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))))
+-31.732767353357 -109.708210636414
+(S1 (S (S (ADVP (RB Now)) (VP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.749724458345 -108.134464527395
+(S1 (S (S (ADVP (RB Now)) (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.855069756906 -108.216477779615
+(S1 (S (ADVP (ADVP (RB Now) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-31.993587113399 -107.134835292121
+(S1 (S (ADJP (RB Now) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-32.155567994679 -110.262764769459
+(S1 (S (S (ADVP (RB Now)) (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB not)))))
+-32.188979617200 -107.373709451906
+(S1 (S (ADJP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-32.224157444812 -106.911900356840
+(S1 (FRAG (ADJP (RB Now) (JJ i-)) (S (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-32.327478727863 -109.513542672226
+(S1 (S (ADVP (RB Now)) (PP (JJ i-) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-32.378740576391 -106.484910892231
+(S1 (FRAG (ADJP (RB Now) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-32.380003446024 -109.579792198474
+(S1 (S (S (ADJP (RB Now) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-32.462276091468 -106.356010133274
+(S1 (FRAG (ADJP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-32.471137925186 -109.372079665594
+(S1 (S (S (ADVP (RB Now)) (ADJP (ADJP (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-32.594165508540 -109.709559950693
+(S1 (S (ADVP (RB Now) (NN i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-32.698586736553 -108.824125096775
+(S1 (S (ADVP (RB Now) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-32.762504358442 -109.879743667950
+(S1 (S (S (ADJP (ADVP (RB Now)) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-32.983577115215 -109.612221241827
+(S1 (S (PP (ADVP (RB Now) (JJ i-)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-33.010817718926 -108.342630223066
+(S1 (FRAG (ADJP (ADVP (RB Now)) (JJ i-)) (S (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-33.043684421088 -109.310244381938
+(S1 (S (ADVP (RB Now)) (PP (ADVP (JJ i-)) (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-33.246459608603 -108.225684641538
+(S1 (S (S (VP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-33.355377134143 -108.243453205292
+(S1 (FRAG (ADVP (RB Now)) (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-33.516890398354 -110.371753616826
+(S1 (FRAG (ADVP (RB Now)) (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB not))))))
+-33.642624161372 -109.941722337758
+(S1 (S (ADVP (ADVP (RB Now) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-33.681454674937 -110.353984883601
+(S1 (S (S (VP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB not)))))
+-33.846555454229 -109.813851030024
+(S1 (S (ADJP (RB Now) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-33.879259505642 -109.590916094743
+(S1 (FRAG (ADJP (RB Now) (JJ i-)) (S (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.041947958031 -110.052725189809
+(S1 (S (ADJP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.105980254718 -109.319669593690
+(S1 (S (S (NP (RB Now)) (VP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))))) (NP (PRP I)) (VP (VBP 'm) (RB not))))
+-34.119797154802 -109.990283723164
+(S1 (FRAG (RB Now) (ADJP (ADJP (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))))
+-34.231708917221 -109.163926630134
+(S1 (FRAG (ADJP (RB Now) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.255026115509 -109.350452933213
+(S1 (S (ADJP (ADJP (ADVP (RB Now)) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.315244460176 -109.035025871177
+(S1 (FRAG (ADJP (ADVP (RB Now)) (JJ i-) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.369767493810 -109.717608113570
+(S1 (S (ADJP (ADJP (RB Now) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.476675769354 -109.201935498608
+(S1 (FRAG (ADJP (ADJP (RB Now) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.586643089054 -108.834780318251
+(S1 (FRAG (ADJP (ADJP (ADVP (RB Now)) (JJ i-)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics)))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))
+-34.882925430380 -110.403747567896
+(S1 (FRAG (RB Now) (ADJP (JJ i-) (SBAR (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (S (NP (PRP I)) (VP (VBP 'm) (RB not)))))))
+-35.299051386239 -109.178940953013
+(S1 (FRAG (RB Now) (ADJP (JJ i-) (SBAR (S (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS economics))))) (NP (PRP I)) (VP (VBP 'm) (RB not)))))))
+

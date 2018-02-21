@@ -1,0 +1,102 @@
+50 x
+-48.046624546550 -149.073395734594
+(S1 (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-48.299309277801 -146.893555176730
+(S1 (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-48.817099783929 -149.025387246944
+(S1 (S (CC So) (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-48.832295714891 -148.906465184624
+(S1 (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (ADVP (RB left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-48.843803729287 -149.118198655284
+(S1 (S (CC So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBN left))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))
+-48.862982286271 -148.606485223671
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (ADJP (RB enough) (JJ fossil)) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))
+-48.881503406229 -147.392169064093
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))
+-49.134188109601 -145.212328506228
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))
+-49.248538519162 -149.485332312952
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (JJ enough) (NN fossil) (NN fuel)) (ADVP (RB left)))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-49.299311092779 -149.036619076580
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBD left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))
+-49.508319014737 -147.979975432698
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (ADJP (RB enough) (JJ fossil)) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-49.526840134695 -146.765659273120
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-49.667174546691 -147.225238514123
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (ADVP (RB left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))
+-49.689979084480 -149.327983818280
+(S1 (S (RB So) (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-49.779524838067 -144.585818715256
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-49.873208010514 -148.810338399772
+(S1 (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (S (VP (VB fuel) (VP (VBN left)))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))))
+-49.922386271115 -149.672966854413
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (NP (NP (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-49.944647821245 -148.410109285608
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBD left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-49.951205825983 -149.517695074818
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (JJ fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-50.006495441287 -149.624425445185
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (ADJP (RB enough) (JJ fossil)) (NN fuel)) (VP (VBD left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-50.025817252185 -149.427742584834
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (JJ enough) (NN fossil) (NN fuel) (NN left)))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-50.088764437904 -146.938357900992
+(S1 (S (CC So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))
+-50.286611296560 -149.348749484439
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB enough)) (NP (NP (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))
+-50.312511275157 -146.598728723150
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (ADVP (RB left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-50.430036957016 -149.568785919353
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (SBAR (NN fuel) (S (VP (VBD left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-50.533394777867 -148.114409202126
+(S1 (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-50.665248234994 -148.951267908887
+(S1 (S (CC So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (ADVP (RB left)))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))
+-50.708086842314 -147.129111729271
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (S (VP (VB fuel) (VP (VBN left)))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))))
+-50.931948025026 -148.722239693467
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB enough)) (NP (NP (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-50.946463473460 -149.479849482525
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (RB enough) (NP (NP (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-51.008236342093 -149.827339445493
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (ADJP (RB enough) (JJ fossil)) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-51.026757462051 -148.613023285915
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-51.120815063082 -149.644021831287
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (S (NP (EX there)) (VP (VBZ 's) (NP (NP (RB enough) (JJ fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-51.204261100404 -149.142021726327
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (S (VP (VB fuel) (ADVP (RB left)))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))))))
+-51.353423570780 -146.502601938298
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (S (VP (VB fuel) (VP (VBN left)))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))))
+-51.368273609667 -146.433182531624
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-51.522217489074 -149.639915480102
+(S1 (S (RB So) (S (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBN left))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))
+-51.653573098436 -149.200829654521
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (ADJP (RB enough) (JJ fossil)) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-51.672094190516 -147.986513494943
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-51.849597828870 -148.515511935355
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (S (VP (VB fuel) (ADVP (RB left)))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))))
+-51.901260046757 -148.446092539519
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (ADVP (RB left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))))))
+-52.013610338133 -145.806672740652
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-52.089901877066 -149.630963507430
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (JJ enough) (NN fossil) (NN fuel)) (VP (VBD left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-52.123438274455 -149.542545020977
+(S1 (FRAG (SBAR (IN So) (S (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))
+-52.546596775223 -147.819582748546
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (ADVP (RB left)))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-52.630989482681 -149.249048517395
+(S1 (S (S (RB So) (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))
+-52.673389317067 -149.801772978813
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))
+-52.767178197691 -147.460074725811
+(S1 (S (RB So) (S (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (VP (VBN left)))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))
+-53.083277390848 -149.943093926578
+(S1 (S (RB So) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB enough)) (NP (NP (NN fossil) (NN fuel)) (VP (VBN left))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't)))))))))
+-53.643627494781 -149.472984733706
+(S1 (S (RB So) (S (S (NP (PRP we)) (ADVP (RB really)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB enough) (JJ fossil)) (S (VP (VB fuel) (ADVP (RB left)))))))))) (CC or) (S (NP (EX there)) (VP (VBZ is) (RB n't))))))
+

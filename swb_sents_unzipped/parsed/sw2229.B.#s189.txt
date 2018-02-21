@@ -1,0 +1,102 @@
+50 x
+-8.457357528273 -35.072047773372
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (ADVP (RB back)))))
+-9.915356745101 -39.762766827369
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (PRT (RP back)))))
+-11.232467649561 -39.797916326476
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (ADVP (RP back)))))
+-11.323256545547 -43.530532228309
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBD was) (ADVP (RB back))))))
+-11.440308284697 -40.574044311437
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (ADJP (RP back)))))
+-11.555603715844 -43.258741159892
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (ADJP (JJ back)))))
+-11.562708947656 -43.886967026022
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (PRT (RB back)))))
+-11.980037198762 -45.678197405405
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (NP (NN back)))))
+-12.165121177666 -48.250041059567
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (VP (VB back)))))
+-12.208527878287 -46.179465942174
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (VP (ADVP (RB back))))))
+-12.492674001663 -39.525085775939
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (ADVP (RB back)))))
+-12.721378778633 -44.337211934903
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (ADVP (JJ back)))))
+-12.753644051767 -48.221251463310
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBD was) (PRT (RP back))))))
+-12.770839030627 -42.658137566205
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (ADJP (RB back)))))
+-12.990752463962 -46.697379720805
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (NP (JJ back)))))
+-13.113212009372 -46.485452933378
+(S1 (S (CC but) (WHNP (WDT that)) (VP (VBD was) (ADVP (RB back)))))
+-13.190004510576 -43.017555222860
+(S1 (S (CC but) (NP (IN that)) (VP (VBD was) (ADVP (RB back)))))
+-13.221173367919 -46.251780408909
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (PP (RP back)))))
+-13.414133621602 -46.139406554081
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (NP (RB back)))))
+-13.430719258257 -47.440022226200
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (PP (RB back)))))
+-13.864388194237 -49.437922409075
+(S1 (S (CC but) (SBAR (S (NP (DT that)) (VP (VBD was) (ADVP (RB back)))))))
+-14.004645525703 -44.215804829936
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (PRT (RP back)))))
+-14.244886624048 -48.256400781413
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBD was) (ADVP (RP back))))))
+-14.345291677547 -49.032528789020
+(S1 (S (CC but) (S (NP (DT that)) (VP (VBD was) (ADJP (RP back))))))
+-14.603108447404 -47.708274276857
+(S1 (S (CC but) (NP (IN that)) (VP (VBD was) (PRT (RP back)))))
+-14.740219660108 -46.595592947784
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (S (ADVP (RB back))))))
+-14.886033905567 -47.856259645353
+(S1 (S (CC but) (SBAR (IN that) (S (VP (VBD was) (ADVP (RB back)))))))
+-15.242447723250 -48.636169824579
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (S (ADJP (JJ back))))))
+-15.309484941787 -44.908890918276
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (S (ADJP (RB back))))))
+-15.310923565871 -49.016953748666
+(S1 (S (CC but) (NP (DT that)) (VP (VBD was) (S (VP (ADVP (RB back)))))))
+-15.316501590163 -44.250954329043
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (ADVP (RP back)))))
+-15.337834800240 -48.789883262311
+(S1 (FRAG (CC but) (SBAR (S (NP (DT that)) (VP (VBD was) (ADVP (RB back)))))))
+-15.603280258258 -48.340005028589
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (PRT (RB back)))))
+-15.641624165300 -45.027082314004
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (ADJP (RP back)))))
+-15.765116876446 -47.711779162459
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (ADJP (JJ back)))))
+-15.776520691614 -44.938705643952
+(S1 (FRAG (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB back)))))))
+-15.848997240036 -45.001031416195
+(S1 (FRAG (CC but) (SBAR (IN that) (S (VP (VBD was) (ADVP (RB back)))))))
+-15.903303660289 -47.274720727826
+(S1 (S (CC but) (S (NP (WDT that)) (VP (VBD was) (ADVP (RB back))))))
+-15.949337001865 -47.743423775964
+(S1 (S (CC but) (NP (IN that)) (VP (VBD was) (ADVP (RP back)))))
+-16.076803294001 -48.519551760925
+(S1 (S (CC but) (NP (IN that)) (VP (VBD was) (ADJP (RP back)))))
+-16.159368612725 -49.521563368597
+(S1 (S (CC but) (NP (RB that)) (VP (VBD was) (ADVP (RB back)))))
+-16.566394469931 -46.634406685071
+(S1 (FRAG (CC but) (SBAR (DT that) (S (VP (VBD was) (ADVP (RB back)))))))
+-16.813610002023 -48.790249937470
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (ADVP (JJ back)))))
+-16.923437441229 -47.111175568772
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (ADJP (RB back)))))
+-16.972688496256 -49.691750645311
+(S1 (FRAG (CC but) (SBAR (IN that) (S (VP (VBD was) (PRT (RP back)))))))
+-17.123604767834 -49.629424873067
+(S1 (FRAG (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PRT (RP back)))))))
+-17.859185849212 -48.716381892957
+(S1 (FRAG (CC but) (SBAR (WHNP (DT that)) (S (VP (VBD was) (ADVP (RB back)))))))
+-18.492573738537 -49.726899969299
+(S1 (FRAG (CC but) (SBAR (IN that) (S (VP (VBD was) (ADVP (RP back)))))))
+-18.544659802902 -49.664574197055
+(S1 (FRAG (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RP back)))))))
+-19.349779652389 -49.361928920843
+(S1 (S (CC but) (NP (WDT that)) (VP (VBD was) (S (ADJP (RB back))))))
+

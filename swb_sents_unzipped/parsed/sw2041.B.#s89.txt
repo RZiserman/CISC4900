@@ -1,0 +1,102 @@
+50 x
+-55.942774755960 -183.465567621567
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend)))))
+-56.735025406423 -184.416600813499
+(S1 (S (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VBP Run) (NP (DT this) (JJ past) (NN weekend)))))
+-56.817130696519 -187.309060955538
+(S1 (S (RB well) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend)))))
+-56.901103170382 -181.924185558318
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend))))))
+-56.924232930635 -188.474946885011
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (UH uh))) (S (NP (NNP Myererson) (NNP Symphony)) (VP (VB Run) (NP (DT this) (JJ past) (NN weekend)))))))
+-57.290431214033 -187.606027034591
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NN Run))) (NP (DT this) (JJ past) (NN weekend))))))
+-57.307369693637 -184.684321063241
+(S1 (S (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VB Run) (NP (DT this) (JJ past) (NN weekend)))))
+-57.346613636802 -183.562674227472
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend)))))
+-57.523280986474 -188.773824062330
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (S (VP (TO to) (S (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony)) (VP (VB Run) (NP (DT this) (JJ past) (NN weekend)))))))))
+-57.525769282714 -185.227847944959
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (NN past) (NN weekend)))))
+-57.574623943842 -187.335925578432
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))) (NP (NNP Run)) (NP (DT this) (JJ past) (NN weekend)))))
+-57.680578344688 -186.148635795264
+(S1 (S (INTJ (RB well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend)))))
+-57.692853658643 -187.641535105350
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))) (S (VP (VB Run) (NP (DT this) (JJ past) (NN weekend))))))))
+-57.792150584471 -188.414519484333
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony)) (PP (NNP Run) (NP (DT this) (JJ past) (NN weekend))))))))
+-57.805367028454 -185.738071715656
+(S1 (S (RB well) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend)))))
+-57.817949777179 -186.933564816713
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (UH uh))) (S (NP (NNP Myererson) (NNP Symphony)) (VP (VB Run) (NP (DT this) (JJ past) (NN weekend))))))))
+-58.037973556759 -188.291539115208
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))) (S (VP (VB Run) (NP (DT this) (JJ past) (NN weekend)))))))
+-58.057758537136 -183.686465881710
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (NN past) (NN weekend))))))
+-58.082564175295 -187.583568826570
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (UH uh))) (S (NP (NNP Myererson) (NNP Symphony)) (VP (VB Run) (NP (DT this) (JJ past) (NN weekend)))))))
+-58.088471553842 -188.218352255407
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run)) (NP (DT this) (JJ past) (NN weekend))))))
+-58.199707469391 -187.341983292182
+(S1 (S (ADVP (RB well)) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend))))))
+-58.289883838576 -186.565989665849
+(S1 (S (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VBP Run) (NP (DT this) (NN past) (NN weekend)))))
+-58.302528870260 -188.648821948578
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (UH uh))) (NP (NNP Myererson) (NNP Symphony) (NNP Run)) (NP (DT this) (JJ past) (NN weekend))))))
+-58.400272858126 -188.191275939113
+(S1 (S (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VBN Run) (NP (DT this) (JJ past) (NN weekend)))))
+-58.426525986190 -185.649609980450
+(S1 (S (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (NNP Run) (NP (DT this) (JJ past) (NN weekend)))))
+-58.435175811015 -186.873137369256
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony)) (PP (NNP Run) (NP (DT this) (JJ past) (NN weekend)))))))))
+-58.478382340387 -185.794543493588
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))) (NP (NNP Run)) (NP (DT this) (JJ past) (NN weekend))))))
+-58.741354352508 -186.676970140330
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run)) (NP (DT this) (JJ past) (NN weekend)))))))
+-58.782034554684 -187.433032195249
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))) (NP (NNP Run)) (NP (DT this) (JJ past) (NN weekend)))))
+-58.906206013197 -186.080043035993
+(S1 (S (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VB Run) (NP (DT this) (NN past) (NN weekend)))))
+-58.929608191433 -185.324954550864
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (NN past) (NN weekend)))))
+-58.937744964617 -188.329286789464
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (UH uh))) (S (NP (NNP Myererson) (NNP Symphony)) (VP (VB Run) (NP (DT this) (NN past) (NN weekend))))))))
+-58.943634692464 -186.967343607679
+(S1 (S (S (INTJ (RB well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VBP Run) (NP (DT this) (JJ past) (NN weekend)))))
+-58.988771025530 -186.245742401169
+(S1 (S (INTJ (RB well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend)))))
+-59.012001267400 -187.937616249423
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony)) (PP (NNP Run) (NP (DT this) (JJ past) (NN weekend))))))))
+-59.263572871442 -187.910916118656
+(S1 (S (INTJ (RB well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (NN past) (NN weekend)))))
+-59.308322236771 -187.741449020497
+(S1 (S (INTJ (UH well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run)) (NP (DT this) (JJ past) (NN weekend))))))
+-59.388361555208 -187.500352039047
+(S1 (S (RB well) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (NN past) (NN weekend)))))
+-59.449134479678 -187.235063857422
+(S1 (S (S (INTJ (RB well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VB Run) (NP (DT this) (JJ past) (NN weekend)))))
+-59.508570566372 -187.279586109642
+(S1 (S (RB well) (S (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend))))))
+-59.615354552562 -187.689032308430
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (NP (DT the) (UH uh)) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (JJ past) (NN weekend))))))
+-59.832752314140 -187.556823762510
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))) (NP (NNP Run)) (NP (DT this) (NN past) (NN weekend))))))
+-59.886846011048 -187.271902479944
+(S1 (S (S (INTJ (UH well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (NNP Run) (NP (DT this) (NN past) (NN weekend)))))
+-59.900547475535 -188.882426915811
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony)) (PP (NNP Run) (NP (DT this) (NN past) (NN weekend)))))))))
+-60.303047319178 -188.444109603143
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run)) (NP (DT this) (NN past) (NN weekend)))))))
+-60.560966352231 -188.200352774630
+(S1 (S (S (INTJ (RB well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (NNP Run) (NP (DT this) (JJ past) (NN weekend)))))
+-60.571765552283 -188.008022724561
+(S1 (S (INTJ (RB well)) (NP (PRP we)) (VP (ADVP (RB just)) (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (NN past) (NN weekend)))))
+-61.047970799238 -188.630785830173
+(S1 (S (S (INTJ (RB well)) (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony))))) (VP (VB Run) (NP (DT this) (NN past) (NN weekend)))))
+-61.896167322332 -188.265989938169
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (ADJP (JJ past)) (NN weekend))))))
+-61.909283057997 -188.544788706012
+(S1 (S (RB well) (S (NP (PRP we)) (ADVP (RB just)) (VP (VBD went) (PP (TO to) (NP (DT the) (NNP uh) (NNP Myererson) (NNP Symphony) (NNP Run))) (NP (DT this) (ADJP (NN past)) (NN weekend))))))
+

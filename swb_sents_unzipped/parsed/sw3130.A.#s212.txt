@@ -1,0 +1,102 @@
+50 x
+-12.974693529334 -47.853124455679
+(S1 (S (NP (PRP they)) (VP (VB let) (S (NP (PRP them)) (VP (VB drain))))))
+-14.544359664143 -52.496444598541
+(S1 (S (NP (PRP they)) (VP (VBP let) (S (NP (PRP them)) (VP (VB drain))))))
+-14.667513972385 -47.766613694750
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (VP (VB drain)))))
+-14.676895122730 -53.286999730040
+(S1 (S (NP (PRP they)) (VP (VBD let) (S (NP (PRP them)) (VP (VB drain))))))
+-14.977070424069 -51.544802812923
+(S1 (S (NP (PRP they)) (VP (VB let) (S (NP (PRP them)) (NP (VB drain))))))
+-15.558434002516 -56.166264364924
+(S1 (S (NP (PRP they)) (VP (VB let) (S (NP (PRP them)) (NP (NN drain))))))
+-16.161110941216 -55.129409163071
+(S1 (S (NP (PRP they)) (VP (VBD let) (NP (PRP them)) (VP (VB drain)))))
+-16.401027623127 -56.717007840831
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (NP (NN drain)))))
+-16.496713506120 -54.375237329215
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (S (VP (VB drain))))))
+-16.639255405490 -59.222146202716
+(S1 (S (NP (PRP they)) (VP (VBP let) (S (NP (PRP them)) (NP (NN drain))))))
+-16.761348962702 -58.795478954540
+(S1 (S (NP (PRP they)) (VP (VB let) (S (NP (PRP them)) (VP (NN drain))))))
+-16.792651259992 -58.839243254043
+(S1 (S (NP (PRP they)) (VP (VBP let) (NP (PRP them)) (NP (NN drain)))))
+-16.966174988529 -61.822990642324
+(S1 (S (NP (PRP they)) (VP (VBP let) (SBAR (S (NP (PRP them)) (VP (VB drain)))))))
+-16.996184954702 -59.410146193104
+(S1 (S (NP (PRP they)) (VP (VBD let) (S (NP (PRP them)) (NP (NN drain))))))
+-17.018314725209 -61.094380909486
+(S1 (S (NP (PRP they)) (VP (VB let) (SBAR (S (NP (PRP them)) (VP (VB drain)))))))
+-17.414691494387 -65.415362496869
+(S1 (S (NP (PRP they)) (VP (VBP let) (NP (DT them) (NN drain)))))
+-17.567233464892 -59.376169134565
+(S1 (S (NP (PRP they)) (VP (VBP let) (S (NP (PRP them)) (NP (VB drain))))))
+-17.585882098890 -62.183155704398
+(S1 (S (NP (PRP they)) (VP (VBD let) (NP (PRP them)) (NP (NN drain)))))
+-17.665164999421 -63.405089089735
+(S1 (S (NP (PRP they)) (VP (VBD let) (SBAR (S (NP (PRP them)) (VP (VB drain)))))))
+-17.725750582816 -60.483007025247
+(S1 (S (NP (PRP they)) (VP (VBD let) (S (NP (PRP them)) (VP (NN drain))))))
+-17.844244806252 -61.015934112734
+(S1 (S (NP (PRP they)) (VP (VBD let) (S (NP (PRP them)) (NP (VB drain))))))
+-17.858463095720 -62.382352404388
+(S1 (S (NP (PRP they)) (VP (VBP let) (S (NP (PRP them)) (VP (NN drain))))))
+-18.419467465215 -57.798550928252
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (VP (NN drain)))))
+-18.450481970028 -63.351658291380
+(S1 (S (NP (PRP they)) (VP (VB let) (S (NP (DT them)) (VP (VB drain))))))
+-18.787666610699 -60.857776250380
+(S1 (S (NP (PRP they)) (VP (VB let) (S (NP (PRP them)) (ADVP (VB drain))))))
+-18.887106825798 -63.060812859367
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (NP (VB drain)))))
+-18.973950843657 -61.309047214937
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them))) (VP (VB drain))))
+-19.076085690057 -63.950389468475
+(S1 (S (NP (PRP they)) (VP (VBD let) (NP (PRP them)) (S (VP (VB drain))))))
+-19.135477637280 -57.260987239482
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (S (NP (VB drain))))))
+-19.167612173062 -61.774160308573
+(S1 (S (NP (PRP they)) (VP (VBD let) (NP (PRP them)) (VP (NN drain)))))
+-19.204357098443 -63.005240264318
+(S1 (S (NP (PRP they)) (VP (VBP let) (NP (PRP them)) (S (VP (VB drain))))))
+-19.267553361369 -60.972424353942
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (ADVP (VB drain)))))
+-19.368903094498 -59.143030961372
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (ADVP (NN drain)))))
+-19.421073438352 -62.606412567062
+(S1 (S (NP (PRP they)) (VP (VB let) (S (NP (PRP them)) (ADVP (NN drain))))))
+-19.465016483276 -65.607547437729
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (NP (PRP them)) (VP (VB drain))))))
+-19.501060420683 -64.284457178067
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them) (NP (NN drain))))))
+-19.529921138756 -64.556128213285
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (SBAR (VB drain)))))
+-19.703278915583 -61.304311476931
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (S (VP (NN drain))))))
+-19.705219154865 -65.718433282284
+(S1 (S (NP (PRP they)) (VP (VP (VB let) (NP (PRP them))) (VP (VB drain)))))
+-19.732708947506 -63.686449793587
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (NP (PRP them)) (NP (NN drain))))))
+-19.778902092383 -60.662764055442
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (S (NP (NN drain))))))
+-19.874099445024 -63.453405140562
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (VP (NP (VB drain))))))
+-20.272615730737 -63.845268517744
+(S1 (S (NP (PRP they)) (VP (VBD let) (S (NP (PRP them)) (ADVP (NN drain))))))
+-20.273578319880 -61.748380363366
+(S1 (S (S (NP (PRP they)) (VP (VB let) (NP (PRP them)))) (VP (VB drain))))
+-20.283647999732 -65.034627405843
+(S1 (S (NP (PRP they)) (VP (VBP let) (S (NP (PRP them)) (ADVP (VB drain))))))
+-20.299779487370 -64.421245070815
+(S1 (S (NP (PRP they)) (VP (VBD let) (NP (PRP them)) (ADVP (NN drain)))))
+-20.315649146824 -63.601441335326
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (SBAR (S (VP (VB drain)))))))
+-20.400207620231 -65.449985968499
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (DT them)) (VP (VB drain)))))
+-20.670629401934 -65.811616679716
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (PRP them)) (VP (NP (NN drain))))))
+-21.209449117408 -63.180573542315
+(S1 (S (NP (PRP they)) (VP (VB let) (NP (NP (PRP them)) (ADVP (NN drain))))))
+

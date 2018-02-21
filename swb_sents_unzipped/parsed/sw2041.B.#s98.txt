@@ -1,0 +1,102 @@
+50 x
+-13.210061297947 -55.290423860986
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))
+-16.623907367811 -61.912995470801
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))
+-17.002132146180 -62.050916383600
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))
+-19.151010356465 -62.991432694384
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family))))))
+-19.442604902494 -63.900056092035
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (ADVP (RB as) (NP (DT a) (NN family))))))
+-19.791218288275 -71.748034727072
+(S1 (S (NP (PRP we)) (VP (VBD did) (SBAR (S (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))))
+-20.000425179172 -77.330903607028
+(S1 (S (NP (PRP we)) (VP (VBD did) (VP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))
+-21.065925703187 -67.790605395594
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (ADVP (IN as) (NP (DT a) (NN family))))))
+-21.422128677551 -75.822102887832
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (IN as) (NP (DT a) (NN family))))))
+-21.519997798348 -81.625762684089
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (VP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))))
+-21.934212621388 -75.208171821766
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))))
+-22.044205613315 -71.921894316566
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (IN as) (NP (NP (DT a)) (NN family))))))
+-22.141193104392 -79.611674107620
+(S1 (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))
+-22.647919314954 -77.000279710910
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))
+-22.788921668345 -72.691831974611
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family)))))))
+-23.239512061648 -74.680331644520
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family)))))))
+-23.419211324506 -74.994615125263
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (ADVP (IN as) (NP (DT a) (NN family)))))))
+-23.554050586029 -75.108343937088
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (ADVP (RB as) (NP (DT a) (NN family)))))))
+-23.979311245327 -83.124681372578
+(S1 (NP (NP (PRP we)) (VP (VBD did) (S (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))
+-24.376438342703 -87.904089578911
+(S1 (S (NP (PRP we)) (VP (VBD did) (VP (NP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))))
+-24.539242326535 -84.110720429787
+(S1 (S (NP (PRP we)) (VP (VBD did) (SBAR (S (NP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))))
+-24.710923433369 -91.807219007819
+(S1 (S (NP (PRP we)) (VP (VBD did) (SBAR (S (VP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))))
+-25.041028715677 -80.513286975867
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (S (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))))
+-25.044318662694 -78.544465998660
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (PRP it)) (PP (IN as) (NP (NP (DT a)) (NN family)))))))
+-25.407126759124 -78.682386861445
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN as) (NP (NP (DT a)) (NN family)))))))
+-25.570187173530 -85.262979315804
+(S1 (NP (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))
+-25.728902954604 -85.786024547532
+(S1 (S (NP (PRP we)) (VP (VBD did) (VP (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family)))))))
+-25.855997109808 -82.526871230882
+(S1 (S (NP (PRP we)) (VP (VBD did) (SBAR (S (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family))))))))
+-25.985456179708 -78.901764763363
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (RB as) (NP (NP (DT a)) (NN family))))))
+-26.258667434093 -82.651584919094
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family))))))))
+-26.698625555130 -88.911002167238
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (NP (PRP it)) (IN as) (NP (DT a) (NN family)))))))
+-27.371075300780 -90.080883624593
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (VP (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family))))))))
+-27.716205802537 -86.619651963254
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (ADVP (RB as) (NP (NP (DT a)) (NN family))))))
+-27.910783590619 -85.434635839041
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (NP (PRP it)) (ADVP (RB as) (NP (DT a) (NN family))))))))
+-27.953422224305 -85.839286222259
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (NP (PRP it)) (ADVP (IN as) (NP (DT a) (NN family))))))))
+-28.144823696809 -87.599015208352
+(S1 (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family))))))
+-28.211629580370 -88.379505254931
+(S1 (S (NP (PRP we)) (VP (VBD did) (SBAR (S (NP (PRP it)) (PP (IN as) (NP (NP (DT a)) (NN family))))))))
+-28.229126778855 -87.837587082686
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family))))))))
+-28.653078461785 -91.506931203669
+(S1 (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (ADVP (RB as) (NP (DT a) (NN family))))))
+-28.670544807371 -84.987620811642
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family)))))))
+-29.415034527135 -88.895536806959
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (ADVP (RB as) (NP (DT a) (NN family)))))))
+-29.623339827724 -88.602164013175
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (PRP it)) (PP (RB as) (NP (NP (DT a)) (NN family)))))))
+-29.906989429254 -93.808463326832
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (S (NP (NP (PRP it)) (PP (IN as) (NP (DT a) (NN family)))))))))
+-29.980702004827 -89.052789972810
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (ADVP (IN as) (NP (NP (DT a)) (NN family))))))
+-30.114134211692 -90.590663790535
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (PP (RB as) (NP (NP (DT a)) (NN family)))))))
+-30.128342133990 -93.701183117238
+(S1 (S (NP (PRP we)) (VP (VBD did) (NP (NP (PRP it)) (IN as) (NP (NP (DT a)) (NN family))))))
+-30.339207234332 -91.839642299611
+(S1 (S (NP (PRP we)) (VP (VBD did) (S (NP (NP (PRP it)) (PP (IN as) (NP (NP (DT a)) (NN family))))))))
+-30.603697581507 -91.223466887726
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (ADVP (IN as) (NP (DT a) (NN family)))))))
+-31.188901126211 -91.292123479677
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (S (NP (PRP it)) (PP (RB as) (NP (DT a) (NN family))))))))
+-31.482063630322 -93.631750166490
+(S1 (S (NP (NP (PRP we)) (VP (VBD did) (NP (PRP it)) (PP (IN as) (NP (NP (DT a)) (NN family)))))))
+

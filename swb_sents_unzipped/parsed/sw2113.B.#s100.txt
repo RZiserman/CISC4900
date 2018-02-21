@@ -1,0 +1,102 @@
+50 x
+-18.499051551532 -57.963413159909
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))
+-20.948762396516 -64.917759609314
+(S1 (S (RB Unfortunately) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))
+-21.062060895209 -62.512586067218
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-21.445402065472 -64.812907227920
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals))))))
+-22.684624025913 -68.375632339893
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VB do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))
+-22.745393122035 -66.861694315329
+(S1 (S (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-22.796712664824 -68.166550837833
+(S1 (S (INTJ (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))
+-22.851874231615 -70.404007852837
+(S1 (SBAR (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-23.486099083240 -69.017964750764
+(S1 (S (ADJP (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))))
+-23.696200909748 -69.826521909727
+(S1 (FRAG (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))))
+-23.704867576734 -67.803216265160
+(S1 (ADJP (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))))
+-23.852422109149 -69.362080135228
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals)))))))
+-23.895112910457 -71.767253677324
+(S1 (S (RB Unfortunately) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals))))))
+-24.078604466154 -73.620660478647
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NP (NNS animals)))))))
+-24.107303618715 -69.601762145787
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (DT any) (NNS animals)))))))
+-24.199795671773 -75.619108541979
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (RB any) (NNS animals))))))
+-24.387666384419 -71.042524797891
+(S1 (FRAG (SBAR (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))))
+-24.405401131193 -72.752860120142
+(S1 (FRAG (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-24.595448114437 -76.440512496085
+(S1 (SBAR (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-24.636655553984 -72.863092556310
+(S1 (FRAG (ADVP (RB Unfortunately)) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))))
+-24.670456706373 -73.633475367492
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any)) (NP (NNS animals))))))
+-24.924832222084 -74.209633510905
+(S1 (S (RB Unfortunately) (NP (PRP we)) (VP (VB do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))
+-24.926509442690 -77.037278962899
+(S1 (SQ (RB Unfortunately) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))
+-25.009219271808 -76.490119238365
+(S1 (SBAR (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-25.073288204540 -69.468412166863
+(S1 (FRAG (ADJP (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))))
+-25.255293639184 -77.484186086347
+(S1 (S (NP (RB Unfortunately) (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))
+-25.491182626915 -74.409437575563
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VB do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-25.535754333188 -73.711188383339
+(S1 (S (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals)))))))
+-25.558855105393 -76.689104509061
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (NP (DT any)) (NNS animals))))))
+-25.642235445556 -77.253501920847
+(S1 (SBAR (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals)))))))
+-25.650118351131 -76.681967874535
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VB do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals))))))
+-25.743063178765 -75.016044905843
+(S1 (S (INTJ (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals))))))
+-26.121879559156 -78.043134676473
+(S1 (S (VP (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals))))))))
+-26.142972621547 -73.049207662043
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (DT any)) (NP (NNS animals)))))))
+-26.166847533215 -76.249984999176
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (S (NP (DT any) (NNS animals)))))))
+-26.187120348106 -76.999054945783
+(S1 (ADJP (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-26.261750475181 -75.867458818775
+(S1 (S (ADJP (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals)))))))))
+-26.298384105353 -77.815436729755
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (NP (DT any)) (NP (NNS animals)))))))
+-26.471852301688 -76.676015977738
+(S1 (FRAG (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals))))))))
+-26.480518965887 -74.652710333171
+(S1 (ADJP (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals))))))))
+-26.557014463699 -76.556108595192
+(S1 (S (RB Unfortunately) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (DT any) (NNS animals)))))))
+-26.641613809831 -78.169833385955
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any) (NP (NNS animals))))))))
+-26.765642459604 -74.150935053096
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (DT any) (NNS animals))))))))
+-27.072166014469 -76.892005842722
+(S1 (S (ADVP (RB Unfortunately)) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (SBAR (S (NP (DT any) (NNS animals))))))))
+-27.140171365991 -78.527132028723
+(S1 (S (RB Unfortunately) (S (NP (PRP we)) (VP (VB do) (RB n't) (VP (VB have) (NP (DT any) (NNS animals)))))))
+-27.178027598360 -77.892018865902
+(S1 (FRAG (SBAR (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals))))))))
+-27.463742197262 -78.182648274801
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT any)) (NP (NNS animals)))))))
+-27.848939593693 -76.317906234874
+(S1 (FRAG (ADJP (RB Unfortunately) (SBAR (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (NP (DT any) (NNS animals)))))))))
+-28.448974686431 -78.500043301207
+(S1 (S (RB Unfortunately) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (DT any) (NNS animals))))))))
+-28.801311465224 -77.598380569352
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (DT any)) (NP (NNS animals))))))))
+

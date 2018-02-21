@@ -1,0 +1,62 @@
+30 x
+-9.948652993179 -38.107058331257
+(S1 (S (NP (PRP We)) (VP (VBP use) (NP (DT a) (NN lot)))))
+-12.110662704776 -42.607819430025
+(S1 (S (NP (PRP We)) (VP (VB use) (NP (DT a) (NN lot)))))
+-12.367871752524 -47.191737900164
+(S1 (S (NP (PRP We)) (VP (NN use) (NP (DT a) (NN lot)))))
+-16.213631280343 -54.211181927905
+(S1 (S (NP (PRP We)) (VP (VBP use) (S (NP (DT a) (NN lot))))))
+-17.790038926965 -57.174375002758
+(S1 (S (NP (PRP We)) (VP (VBP use) (NP (NP (DT a)) (NN lot)))))
+-17.900130782629 -57.594779007008
+(S1 (S (NP (PRP We)) (VP (VB use) (S (NP (DT a) (NN lot))))))
+-19.392636831135 -64.595945586059
+(S1 (NP (NP (PRP We)) (VP (VB use) (NP (DT a) (NN lot)))))
+-19.863384993000 -62.144503435436
+(S1 (S (NP (NP (PRP We)) (VP (VB use) (NP (DT a) (NN lot))))))
+-20.141601983685 -61.745036904388
+(S1 (S (NP (PRP We)) (VP (VB use) (NP (NP (DT a)) (NN lot)))))
+-20.465154701830 -66.053303119499
+(S1 (S (NP (PRP We)) (VP (NN use) (NP (NP (DT a)) (NN lot)))))
+-20.546541066334 -70.965631337376
+(S1 (NP (NP (PRP We)) (VP (VBP use) (NP (DT a) (NN lot)))))
+-20.999741944487 -72.255851280896
+(S1 (NP (NP (PRP We)) (VP (NN use) (NP (DT a) (NN lot)))))
+-21.087567835597 -68.354236533220
+(S1 (S (NP (NP (PRP We)) (VP (VBP use) (NP (DT a) (NN lot))))))
+-21.362785700962 -69.644456455132
+(S1 (S (NP (NP (PRP We)) (VP (NN use) (NP (DT a) (NN lot))))))
+-23.771226780613 -71.768612341719
+(S1 (S (NP (PRP We)) (VP (VBP use) (S (NP (NP (DT a)) (NN lot))))))
+-24.173540196498 -76.777714583985
+(S1 (NP (NP (PRP We)) (VP (VB use) (S (NP (DT a) (NN lot))))))
+-24.892292668363 -74.326272433362
+(S1 (S (NP (NP (PRP We)) (VP (VB use) (S (NP (DT a) (NN lot)))))))
+-25.803980782898 -75.152209420823
+(S1 (S (NP (PRP We)) (VP (VB use) (S (NP (NP (DT a)) (NN lot))))))
+-25.929695099636 -84.927526668263
+(S1 (NP (NP (PRP We)) (VP (VBP use) (S (NP (DT a) (NN lot))))))
+-26.551501268899 -82.316131864108
+(S1 (S (NP (NP (PRP We)) (VP (VBP use) (S (NP (DT a) (NN lot)))))))
+-27.418011860317 -83.733162995134
+(S1 (NP (NP (PRP We)) (VP (VB use) (NP (NP (DT a)) (NN lot)))))
+-27.965549819394 -81.281720844512
+(S1 (S (NP (NP (PRP We)) (VP (VB use) (NP (NP (DT a)) (NN lot))))))
+-28.328552972602 -90.032948274204
+(S1 (NP (NP (PRP We)) (VP (VBP use) (NP (NP (DT a)) (NN lot)))))
+-28.946369544653 -87.421553470049
+(S1 (S (NP (NP (PRP We)) (VP (VBP use) (NP (NP (DT a)) (NN lot))))))
+-29.099905896887 -91.117416255820
+(S1 (NP (NP (PRP We)) (VP (NN use) (NP (NP (DT a)) (NN lot)))))
+-29.539739450574 -88.506021430056
+(S1 (S (NP (NP (PRP We)) (VP (NN use) (NP (NP (DT a)) (NN lot))))))
+-32.066349806555 -94.335144997799
+(S1 (NP (NP (PRP We)) (VP (VB use) (S (NP (NP (DT a)) (NN lot))))))
+-32.785102278420 -91.883702847177
+(S1 (S (NP (NP (PRP We)) (VP (VB use) (S (NP (NP (DT a)) (NN lot)))))))
+-33.481935895481 -102.484957082078
+(S1 (NP (NP (PRP We)) (VP (VBP use) (S (NP (NP (DT a)) (NN lot))))))
+-34.103742061956 -99.873562277922
+(S1 (S (NP (NP (PRP We)) (VP (VBP use) (S (NP (NP (DT a)) (NN lot)))))))
+

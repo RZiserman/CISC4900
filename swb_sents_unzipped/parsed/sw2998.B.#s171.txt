@@ -1,0 +1,102 @@
+50 x
+-18.918173945357 -67.914743355053
+(S1 (S (CC But) (NP (NP (DT that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-19.596038508880 -67.654129907265
+(S1 (S (CC But) (NP (DT that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-20.490463119044 -71.104647223971
+(S1 (S (CC But) (NP (DT that)) (VP (PP (TO to) (NP (PRP me))) (VBD was) (NP (NN pollution)))))
+-21.526158118627 -69.047550917238
+(S1 (S (CC But) (NP (WDT that) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-21.598709283984 -75.095263237542
+(S1 (S (CC But) (NP (NP (DT that)) (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-21.823663067514 -70.682213924425
+(S1 (S (CC But) (NP (NP (IN that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-22.020456808009 -76.988035214235
+(S1 (S (CC But) (S (NP (NP (DT that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution))))))
+-22.597775665067 -75.857817394000
+(S1 (S (CC But) (SBAR (IN that) (S (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))))
+-22.678185471501 -76.377764703436
+(S1 (S (CC But) (NP (NP (DT that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (ADVP (NN pollution)))))
+-23.055746730482 -72.107167909832
+(S1 (S (CC But) (NP (WDT that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-23.108796959021 -73.002589087191
+(S1 (FRAG (CC But) (SBAR (IN that) (S (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))))
+-23.225757058274 -77.132104282358
+(S1 (S (CC But) (NP (NP (NN that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-23.367826867326 -76.117151334686
+(S1 (S (CC But) (NP (DT that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (ADVP (NN pollution)))))
+-23.401520675107 -79.563131685729
+(S1 (S (CC But) (S (NP (DT that)) (VP (PP (TO to) (NP (PRP me))) (VBD was) (NP (NN pollution))))))
+-23.422048421183 -75.599637356753
+(S1 (S (CC But) (NP (IN that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-23.600086688749 -75.388753846156
+(S1 (S (CC But) (NP (NP (RB that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-23.660361246951 -78.091029772110
+(S1 (S (CC But) (S (NP (DT that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution))))))
+-23.705980904434 -75.557685226538
+(S1 (S (CC But) (NP (WDT that)) (VP (PP (TO to) (NP (PRP me))) (VBD was) (NP (NN pollution)))))
+-24.051454165651 -76.381034521418
+(S1 (S (CC But) (NP (NP (WDT that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-24.148480449763 -75.559574149429
+(S1 (S (CC But) (PP (RB that) (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-24.325499891542 -79.945142385569
+(S1 (S (CC But) (ADVP (RB that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-24.361347815756 -79.668862282619
+(S1 (S (CC But) (WHNP (WHNP (WDT that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-24.642470071476 -75.018047438405
+(S1 (SINV (CC But) (ADVP (RB that)) (PP (TO to) (NP (PRP me))) (VBD was) (NP (NN pollution))))
+-24.673688711989 -76.797185838145
+(S1 (S (CC But) (S (NP (WDT that) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution))))))
+-24.727608781348 -79.050154673459
+(S1 (S (CC But) (NP (IN that)) (VP (PP (TO to) (NP (PRP me))) (VBD was) (NP (NN pollution)))))
+-24.768040367250 -78.398727241016
+(S1 (S (CC But) (NP (NP (IN that)) (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-24.809944446912 -78.550213338541
+(S1 (S (CC But) (ADVP (IN that) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution)))))
+-24.829635747572 -79.319646463074
+(S1 (S (CC But) (SBAR (IN that) (FRAG (PP (TO to) (NP (PRP me))))) (VP (VBD was) (NP (NN pollution)))))
+-24.896985111820 -76.140768782096
+(S1 (FRAG (CC But) (SBAR (DT that) (S (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))))
+-25.030248302348 -78.533952949917
+(S1 (S (CC But) (S (NP (NP (IN that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (NP (NN pollution))))))
+-25.286000072135 -79.425173190525
+(S1 (SINV (CC But) (ADVP (RB that)) (PP (TO to) (NP (PRP me))) (VP (VBD was)) (NP (NN pollution))))
+-25.286169647558 -77.510572265621
+(S1 (S (CC But) (NP (WDT that) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (ADVP (NN pollution)))))
+-25.360676218099 -75.767261593675
+(S1 (FRAG (CC But) (SBAR (WHNP (WDT that)) (S (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))))
+-25.371118747495 -79.543601555208
+(S1 (S (CC But) (ADVP (DT that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-25.395834477886 -75.025745216046
+(S1 (SINV (CC But) (ADVP (DT that)) (PP (TO to) (NP (PRP me))) (VBD was) (NP (NN pollution))))
+-25.417264785153 -78.430964332688
+(S1 (S (CC But) (ADVP (IN that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))
+-25.448767687977 -78.552900915893
+(S1 (SINV (CC But) (ADVP (DT that) (PP (TO to) (NP (PRP me)))) (VP (VBD was)) (NP (NN pollution))))
+-25.562793075073 -76.178521478339
+(S1 (SINV (CC But) (ADVP (IN that) (PP (TO to) (NP (PRP me)))) (VP (VBD was)) (NP (NN pollution))))
+-25.583674596445 -79.145235272808
+(S1 (S (CC But) (NP (NP (IN that)) (PP (TO to) (NP (PRP me)))) (VP (VBD was) (ADVP (NN pollution)))))
+-25.797756012011 -78.194204247982
+(S1 (SINV (CC But) (ADVP (RB that) (PP (TO to) (NP (PRP me)))) (VP (VBD was)) (NP (NN pollution))))
+-25.920126221475 -76.137013368026
+(S1 (SINV (CC But) (ADVP (IN that)) (PP (TO to) (NP (PRP me))) (VBD was) (NP (NN pollution))))
+-25.932713572461 -78.998888727446
+(S1 (SINV (CC But) (ADVP (DT that) (PP (TO to) (NP (PRP me)))) (VBD was) (NP (NN pollution))))
+-26.039364478546 -79.432870968166
+(S1 (SINV (CC But) (ADVP (DT that)) (PP (TO to) (NP (PRP me))) (VP (VBD was)) (NP (NN pollution))))
+-26.046609083557 -76.624509289892
+(S1 (SINV (CC But) (ADVP (IN that) (PP (TO to) (NP (PRP me)))) (VBD was) (NP (NN pollution))))
+-26.281701896495 -78.640192059535
+(S1 (SINV (CC But) (ADVP (RB that) (PP (TO to) (NP (PRP me)))) (VBD was) (NP (NN pollution))))
+-26.388005455455 -80.011177758780
+(S1 (S (CC But) (NP (DT that)) (PP (TO to) (NP (PRP me))) (VP (VBD was) (S (NP (NN pollution))))))
+-26.407720088766 -78.222744087379
+(S1 (FRAG (CC But) (SBAR (WHNP (DT that)) (S (PP (TO to) (NP (PRP me))) (VP (VBD was) (NP (NN pollution)))))))
+-26.846013358219 -76.146341586741
+(S1 (FRAG (CC But) (SBAR (WHNP (WHNP (DT that)) (PP (TO to) (NP (PRP me)))) (S (VP (VBD was) (NP (NN pollution)))))))
+-27.260889080746 -80.134802006172
+(S1 (FRAG (CC But) (RB that) (PP (TO to) (NP (NP (PRP me)) (VP (VBD was) (NP (NN pollution)))))))
+-28.186294078395 -79.935731294887
+(S1 (FRAG (CC But) (SBAR (WHNP (WHNP (WDT that)) (PP (TO to) (NP (PRP me)))) (S (VP (VBD was) (NP (NN pollution)))))))
+

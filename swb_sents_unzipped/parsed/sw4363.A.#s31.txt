@@ -1,0 +1,102 @@
+50 x
+-13.337433620187 -44.898784446109
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (NN kind) (IN of)))))
+-14.228802765564 -49.513722882363
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NP (NN kind)) (PP (IN of))))))
+-15.065758778577 -54.430815580869
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind)) (PP (IN of)))))
+-15.496557577465 -52.987128530951
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (PP (IN of)))))
+-15.508335376622 -51.393752475748
+(S1 (S (NP (PRP They)) (VP (VBP 're) (VP (ADVP (NN kind) (IN of))))))
+-15.617843978703 -51.053630707320
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind) (RB of)))))
+-16.551305451176 -55.869980201251
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB kind) (PP (IN of)))))
+-16.857923842640 -57.387907423710
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (NN kind) (PP (IN of))))))
+-16.990975112841 -58.222775564475
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind) (PP (IN of))))))
+-17.100790872415 -58.043141021978
+(S1 (S (NP (PRP They)) (VP (VBP 're) (PP (RB kind) (PP (IN of))))))
+-17.191497816384 -55.607072735464
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind) (IN of)))))
+-17.406338310042 -60.873227317107
+(S1 (S (NP (PRP They)) (VP (VBP 're) (PP (NN kind) (PP (IN of))))))
+-17.581519403728 -61.280154854750
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind) (PP (IN of))))))
+-17.638888906807 -59.223223092711
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (QP (NN kind) (IN of))))))
+-17.670244334685 -60.003234815507
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind) (PRT (IN of))))))
+-17.750084251157 -60.647418786297
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind)) (NP (IN of)))))
+-17.811620951135 -56.223974498294
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB kind) (PP (IN of))))))
+-17.823400148219 -56.680784259750
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (ADVP (RB of)))))
+-17.938634640481 -57.453273479015
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB kind) (IN of)))))
+-17.943117392046 -56.011695542880
+(S1 (S (NP (PRP They)) (VP (VBP 're) (S (ADVP (NN kind) (IN of))))))
+-17.960703849010 -57.075650772283
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (ADVP (IN of)))))
+-18.024065536017 -60.907719559483
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind) (PRT (RP of))))))
+-18.109077591856 -59.542354087259
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (NN kind) (PP (IN of))))))
+-18.229999420790 -61.910503706083
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind)) (ADVP (RB of)))))
+-18.315711108748 -57.710318465067
+(S1 (S (NP (PRP They)) (VP (VBP 're) (VP (ADVP (RB kind) (RB of))))))
+-18.431348779775 -61.193978889776
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NP (NN kind)) (ADVP (IN of))))))
+-18.455524631551 -62.032440988941
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NP (NN kind)) (IN of)))))
+-18.488228246567 -61.668789375162
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind)) (ADVP (IN of)))))
+-18.499137697379 -60.613240641916
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (NN kind)) (PP (IN of)))))
+-18.689020223242 -58.585413071987
+(S1 (S (NP (PRP They)) (VBP 're) (VP (ADVP (NN kind) (IN of)))))
+-18.707011664902 -58.847522931717
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (PRT (RP of)))))
+-18.887372617148 -60.266996925354
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (PRT (IN of)))))
+-18.924380885848 -59.564218465166
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind)) (PP (RP of)))))
+-19.070101201219 -61.972483850550
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (NP (IN of)))))
+-19.211376082191 -61.287176423870
+(S1 (S (NP (PRP They)) (VP (VBP 're) (S (VP (ADVP (NN kind) (IN of)))))))
+-19.268659650946 -52.862477027168
+(S1 (S (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)))) (IN of)))
+-19.335341976734 -61.059350753880
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind)) (ADJP (IN of)))))
+-19.354518537882 -61.754480854574
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NP (RB kind)) (PP (IN of))))))
+-19.382073574999 -56.989608602124
+(S1 (S (NP (PRP They)) (VP (VBP 're) (S (ADVP (RB kind) (IN of))))))
+-19.408104897751 -57.660864251354
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (PP (RP of)))))
+-19.495106495753 -61.229510441867
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind) (RB of)))))
+-19.586433986815 -58.325525952007
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB kind) (ADJP (IN of)))))
+-19.673805391713 -61.176861657615
+(S1 (S (NP (PRP They)) (VP (VBP 're) (ADJP (ADVP (RB kind)) (PP (IN of))))))
+-19.698932195081 -61.023101489396
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NP (NN kind)) (ADVP (RB of))))))
+-20.018763459732 -58.053545505929
+(S1 (S (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB kind)))) (IN of)))
+-20.304198974386 -61.090888303489
+(S1 (S (NP (PRP They)) (VP (VBP 're) (RB kind) (PP (RP of)))))
+-20.543957514637 -61.659535759677
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind))) (ADVP (RB of))))
+-20.722633618968 -60.876297164011
+(S1 (S (NP (PRP They)) (VP (VBP 're) (NP (NN kind)) (ADVP (RP of)))))
+-21.506509695334 -59.450747311910
+(S1 (S (S (NP (PRP They)) (VP (VBP 're) (RB kind))) (IN of)))
+-23.403872766604 -61.871415637581
+(S1 (S (S (NP (PRP They)) (VP (VBP 're) (ADJP (RB kind)))) (IN of)))
+

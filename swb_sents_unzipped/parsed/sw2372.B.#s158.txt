@@ -1,0 +1,102 @@
+50 x
+-28.647176037155 -98.587369567386
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (ADVP (RB then)) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-28.836505362341 -98.090063926919
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))))) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-29.205078327855 -99.070271285066
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-29.929951729933 -101.579190794277
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation) (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-30.229749299847 -99.430633949318
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))))
+-30.586504902014 -103.850038421535
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-30.620602209073 -105.686568874201
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer))))) (VP (NN presentation) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))
+-30.777911869414 -102.398620329476
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (NP (RB then) (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-30.793050313096 -98.805914087321
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))))) (NP (WDT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-30.887706570667 -105.706991106130
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer))))) (VP (NN presentation) (ADVP (RB then)) (SBAR (S (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))
+-30.954622713076 -101.939553458528
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation) (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))))
+-31.311442186181 -100.282202820573
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (NP (RB then) (WDT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-31.415967873350 -101.569859473697
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (ADVP (RB then)) (NP (WDT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-31.611175885157 -104.210401085786
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-31.648938821290 -105.820164325093
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (RB then) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-31.716622315366 -104.040572099700
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (SBAR (ADVP (RB then)) (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-31.723610798371 -105.307321441343
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer)) (NP (NN presentation))))) (ADVP (RB then)) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-31.756082763970 -102.766248056464
+(S1 (S (IN If) (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-31.762916274565 -101.918307425491
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-31.955310324875 -105.370343148488
+(S1 (FRAG (SBAR (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (ADVP (RB then)) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))
+-31.993696695116 -105.388622095852
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer))))) (VP (NN presentation) (ADVP (RB then)) (SBAR (IN that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))
+-32.386867884979 -103.952719128497
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (ADVP (NP (DT a) (NN customer) (NN presentation)) (RB then))))) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-32.467987911974 -106.384524066265
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (SBAR (WHNP (RB then) (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-32.484393956156 -100.346682069338
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)))))) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-32.569548282360 -103.894785669849
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (ADVP (RB then)) (NP (IN that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-32.641291377007 -106.335842549319
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))
+-32.673609804433 -106.180526989344
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (RB then) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))))
+-32.710701385303 -104.170729360761
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (IN that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-32.741293298509 -104.400934763952
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (SBAR (ADVP (RB then)) (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-32.760383963260 -105.275167565675
+(S1 (S (IN If) (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation) (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-32.764885335801 -105.359637087399
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer))))) (VP (NN presentation) (ADVP (RB then)) (SBAR (DT that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))
+-32.787587257708 -102.278670089743
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-32.943232485101 -105.233719002849
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation) (RB then))))) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-33.120290842074 -105.178587906117
+(S1 (FRAG (IN If) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))))
+-33.272081850184 -101.062532229741
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)))))) (NP (WDT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-33.505853628745 -105.908055012940
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (DT that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-33.507917722124 -103.587537868550
+(S1 (SBAR (WHNP (IN If)) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-33.735372340568 -104.531092025013
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (IN that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-33.796099854752 -103.082542323395
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))))) (NP (IN that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-34.219372141007 -105.949569163251
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation) (RB then))))) (NP (WDT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-34.232791121414 -106.096457377761
+(S1 (SBAR (WHNP (IN If)) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation) (RB then)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-34.252268736922 -105.713245575491
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation))))) (ADVP (RB then) (IN that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-34.414086602126 -104.234175852109
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))) (SBAR (WDT that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-34.482969763892 -105.614284204462
+(S1 (S (IN If) (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))
+-34.530524611888 -106.268417677192
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)) (SBAR (DT that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-34.655181660885 -104.668569288899
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (ADVP (NP (DT a) (NN customer) (NN presentation)) (RB then))))) (NP (WDT that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+-35.438757557391 -104.594538516361
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))) (SBAR (WDT that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-36.116062185405 -105.452004462226
+(S1 (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))) (SBAR (IN that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different))))))))))
+-37.140733140671 -105.812367126478
+(S1 (FRAG (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then))) (SBAR (IN that) (S (VP (MD would) (VP (VB be) (ADJP (JJ different)))))))))))
+-37.504666386929 -105.339160465814
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN customer) (NN presentation)) (ADVP (RB then)))))) (NP (IN that)) (VP (MD would) (VP (VB be) (ADJP (JJ different))))))
+

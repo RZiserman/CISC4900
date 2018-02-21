@@ -1,0 +1,102 @@
+50 x
+-20.423283362359 -65.808693395994
+(S1 (S (VP (VB Give) (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number)))))
+-22.596046256960 -72.148159405617
+(S1 (S (VP (VBP Give) (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number)))))
+-22.875501564556 -69.444319608513
+(S1 (VP (VB Give) (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number))))
+-22.912543146022 -76.144519717915
+(S1 (SQ (VBP Give) (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number))))
+-23.484489373526 -77.783964676388
+(S1 (S (VP (VB Give) (NP (PRP them)) (NP (JJ your) (NN pen) (NN number)))))
+-23.623770646237 -79.403691366907
+(S1 (S (VP (VB Give) (S (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number))))))
+-24.117575401901 -76.948499184845
+(S1 (S (VP (VB Give) (NP (PRP them))) (NP (PRP$ your) (NN pen) (NN number))))
+-24.415914455402 -77.079621615075
+(S1 (VP (VB Give) (S (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number)))))
+-24.481348265757 -77.888778253893
+(S1 (SINV (VP (VB Give) (NP (PRP them))) (NP (PRP$ your) (NN pen) (NN number))))
+-25.047559105611 -80.326996059643
+(S1 (S (VP (VB Give) (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NN number)))))
+-25.399725935279 -83.232758329663
+(S1 (S (VP (VBP Give) (NP (PRP them)) (NP (JJ your) (NN pen) (NN number)))))
+-25.557405793441 -77.478216514330
+(S1 (S (VP (VB Give) (NP (PRP them)) (NP (PRP$ your) (NN pen)) (NP (NN number)))))
+-25.852512507103 -86.934197949157
+(S1 (S (VP (VBP Give) (S (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number))))))
+-26.051353075723 -81.419590888051
+(S1 (VP (VB Give) (NP (PRP them)) (NP (JJ your) (NN pen) (NN number))))
+-26.096283375911 -79.554696057192
+(S1 (S (VP (VB Give) (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NP (NN number))))))
+-26.112659559735 -82.000621022227
+(S1 (SQ (VP (VB Give) (NP (PRP them))) (NP (PRP$ your) (NN pen) (NN number))))
+-26.148702119778 -81.694390185608
+(S1 (S (VP (VB Give) (NP (PRP them) (NP (PRP$ your) (NN pen) (NN number))))))
+-26.202791060424 -85.426880567660
+(S1 (SINV (VP (VBP Give) (NP (PRP them))) (NP (PRP$ your) (NN pen) (NN number))))
+-26.210432397662 -80.794010762051
+(S1 (S (VP (VB Give) (NP (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number))))))
+-26.325636483205 -85.726316130067
+(S1 (VP (VB Give) (S (NP (PRP them)) (NP (JJ your) (NN pen) (NN number)))))
+-26.340723896339 -78.330640995170
+(S1 (S (VP (VB Give) (NP (PRP them)) (NP (PRP$ your) (NN pen))) (NP (NN number))))
+-26.498547865693 -79.641096732804
+(S1 (SQ (VP (VB Give) (NP (PRP them))) (NP (PRP$ your) (NN pen)) (NP (NN number))))
+-26.559545482196 -83.363777891979
+(S1 (S (VP (VB Give) (NP (PRP them)) (S (NP (PRP$ your) (NN pen) (NN number))))))
+-26.679737216597 -79.748652905044
+(S1 (VP (VB Give) (NP (PRP them) (NP (PRP$ your) (NN pen) (NN number)))))
+-26.720176973472 -83.284400764970
+(S1 (S (VP (VP (VB Give) (NP (PRP them))) (NP (PRP$ your) (NN pen) (NN number)))))
+-26.880953884481 -78.848273481486
+(S1 (VP (VB Give) (NP (NP (PRP them)) (NP (PRP$ your) (NN pen) (NN number)))))
+-27.122312693348 -85.803146477061
+(S1 (S (VP (VBP Give) (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NN number)))))
+-27.239384976725 -79.236737491607
+(S1 (VP (VB Give) (NP (PRP them)) (NP (PRP$ your) (NN pen)) (NP (NN number))))
+-27.291646048633 -81.830010623801
+(S1 (VP (VP (VB Give) (NP (PRP them))) (NP (PRP$ your) (NN pen) (NN number))))
+-27.418252501403 -87.099432428782
+(S1 (SQ (VP (VBP Give) (NP (PRP them))) (NP (PRP$ your) (NN pen) (NN number))))
+-27.418912400776 -83.962622463470
+(S1 (VP (VB Give) (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NN number))))
+-27.644435477953 -81.668938452248
+(S1 (VP (VB Give) (NP (PRP them)) (S (NP (PRP$ your) (NN pen) (NN number)))))
+-27.706589607492 -84.310159633535
+(S1 (SQ (VP (VBP Give) (NP (PRP them))) (NP (PRP$ your) (NN pen)) (NP (NN number))))
+-27.868007163665 -81.757047943659
+(S1 (VP (VB Give) (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NP (NN number)))))
+-27.944580058883 -84.644263649335
+(S1 (S (VP (VB Give) (NP (PRP them)) (S (NP (PRP$ your) (NN pen)) (NP (NN number))))))
+-28.264684059266 -84.826657443665
+(S1 (VP (VB Give) (S (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NP (NN number))))))
+-28.424864539098 -86.166389604000
+(S1 (S (VP (VBP Give) (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NP (NN number))))))
+-28.536690759230 -86.120916114237
+(S1 (SINV (VP (VB Give) (NP (PRP them)) (NP (PRP$ your) (NN pen))) (NP (NN number))))
+-28.554870198579 -82.949424255842
+(S1 (VP (VB Give) (NP (PRP them)) (S (NP (PRP$ your) (NN pen)) (NP (NN number)))))
+-28.615564051484 -87.106604187054
+(S1 (SINV (VP (VB Give) (NP (PRP them))) (NP (NP (PRP$ your) (NN pen)) (NP (NN number)))))
+-28.955743018297 -82.700154216871
+(S1 (S (VP (VB Give) (NP (PRP them) (NP (PRP$ your) (NN pen))) (NP (NN number)))))
+-28.980817305173 -85.573181837921
+(S1 (S (VP (VB Give) (NP (PRP them) (NP (NP (PRP$ your) (NN pen)) (NP (NN number)))))))
+-29.325835879953 -85.187300115208
+(S1 (VP (VB Give) (NP (PRP them)) (SBAR (S (NP (PRP$ your) (NN pen) (NN number))))))
+-29.380433988879 -85.638644977419
+(S1 (S (VP (VB Give) (NP (NP (PRP them)) (NP (PRP$ your) (NN pen)) (NP (NN number))))))
+-29.485507121992 -83.627444557357
+(S1 (VP (VB Give) (NP (PRP them) (NP (NP (PRP$ your) (NN pen)) (NP (NN number))))))
+-29.524153232697 -81.874795172412
+(S1 (S (VP (VB Give) (NP (NP (PRP them)) (NP (PRP$ your) (NN pen))) (NP (NN number)))))
+-29.950252835698 -83.692907696855
+(S1 (VP (VB Give) (NP (NP (PRP them)) (NP (PRP$ your) (NN pen)) (NP (NN number)))))
+-30.197059111947 -87.097173184926
+(S1 (VP (VB Give) (NP (NP (PRP them)) (NP (NP (PRP$ your) (NN pen)) (NP (NN number))))))
+-31.213957240495 -86.335780433365
+(S1 (VP (VB Give) (NP (PRP them) (NP (PRP$ your) (NN pen))) (NP (NN number))))
+-31.223125627683 -85.510421388906
+(S1 (VP (VB Give) (NP (NP (PRP them)) (NP (PRP$ your) (NN pen))) (NP (NN number))))
+

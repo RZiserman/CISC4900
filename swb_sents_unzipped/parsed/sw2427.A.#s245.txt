@@ -1,0 +1,102 @@
+50 x
+-18.095550812927 -75.716847480891
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-19.677637071089 -75.659600498780
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))
+-19.987697950579 -76.595497555933
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-21.081879782359 -78.311781765624
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-21.472001314694 -79.646659709660
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can))))))))
+-21.545447875874 -87.380976272793
+(S1 (S (NP (JJ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-21.768509210294 -80.067382974023
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (ADJP (JJ shaped)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-22.148588879794 -82.075299354287
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped) (SBAR (WHNP (DT that)) (S (NP (PRP I)) (VP (MD can))))))))
+-22.210780447530 -85.335948874633
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (MD can))))))))
+-22.470725297184 -83.901746858767
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (JJ shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-22.675836959788 -84.682750461574
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (S (VP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))))
+-22.824193293553 -79.534375545709
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can)))))))
+-23.062666599135 -80.096445184004
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))
+-23.118754882622 -88.838554195677
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (MD can))))))))
+-23.127534134037 -87.323729290682
+(S1 (S (NP (JJ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))
+-23.144067325924 -82.862977543537
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can))))))))
+-23.344154105784 -85.852430069585
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped))) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))
+-23.397021031776 -89.668424178750
+(S1 (S (NP (PRP$ my) (NN garden)) (VBZ is) (VP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))
+-23.437595013527 -88.259626347834
+(S1 (S (NP (JJ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-23.621514061147 -87.231317573545
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (MD can))))))))
+-23.750803464359 -84.494409778869
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (MD can)))))))
+-23.783117396282 -84.082715329286
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (ADJP (VBN shaped)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-23.818138311896 -89.217543822193
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (SBAR (S (VP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))))
+-24.022664010736 -83.881415042839
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (WHNP (DT that)) (S (NP (PRP I)) (VP (MD can)))))))
+-24.067261065634 -88.996293416198
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (MD can))))))))
+-24.130728093949 -86.366568505422
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped) (SBAR (WHNP (DT that)) (S (NP (PRP I)) (VP (MD can))))))))
+-24.197970587107 -87.442096804997
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (MD can)))))))
+-24.348310970113 -87.135973290171
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped))) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))
+-24.502071643800 -87.170708190850
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (MD can))))))))
+-24.531776845306 -89.975910557526
+(S1 (S (NP (JJ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-24.935212068975 -90.470054324600
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (VBN shaped) (SBAR (WDT that) (S (NP (PRP I)) (VP (MD can))))))))
+-25.085552402089 -86.630231951537
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can))))))))
+-25.090791647985 -86.540141289504
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (NP (JJ shaped)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))
+-25.241631201286 -87.846034001658
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (ADJP (JJ shaped)) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can))))))))
+-25.311733260624 -90.903564190121
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (S (VP (VBN shaped))) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))
+-25.367039954547 -88.160327067222
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (S (ADJP (VBN shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))))
+-25.435471591996 -90.679559786060
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (MD can))))))))
+-25.439586851005 -90.730900159658
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (ADJP (JJ shaped)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (MD can))))))))
+-25.476088368086 -88.571820650578
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (VP (JJ shaped) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can))))))))
+-25.635257063512 -89.874085334045
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (S (ADJP (JJ shaped) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can)))))))))
+-25.970337501335 -87.980597758731
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (S (VP (VBN shaped) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can)))))))))
+-26.184981480327 -90.133822913422
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped) (SBAR (WHNP (DT that)) (S (NP (PRP I)) (VP (MD can))))))))
+-26.210727521153 -88.325974237534
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (WDT that) (S (NP (PRP I)) (VP (MD can)))))))
+-26.274090356501 -91.198504337611
+(S1 (S (NP (JJ my) (NN garden)) (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can)))))))
+-26.422830725999 -83.971220230933
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped)) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can)))))))
+-26.588350624353 -91.263867768826
+(S1 (NP (PRP$ my) (NN garden) (S (VP (VBZ is) (ADJP (JJ shaped)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can))))))))
+-26.764795889064 -90.830333693004
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (S (VP (VBN shaped) (SBAR (WHNP (DT that)) (S (NP (PRP I)) (VP (MD can)))))))))
+-27.054757209404 -88.931254464093
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (MD can)))))))
+-27.733430623570 -88.318259728062
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (ADJP (VBN shaped)) (SBAR (WHNP (DT that)) (S (NP (PRP I)) (VP (MD can)))))))
+-28.758499245288 -89.828886661711
+(S1 (S (NP (PRP$ my) (NN garden)) (VP (VBZ is) (NP (JJ shaped)) (SBAR (DT that) (S (NP (PRP I)) (VP (MD can)))))))
+

@@ -1,0 +1,102 @@
+50 x
+-13.290151999547 -46.154677929465
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))
+-16.019103368045 -53.626383012904
+(S1 (S (RB hopefully) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))
+-16.472828706148 -54.819985708621
+(S1 (S (ADVP (RB hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-17.449813176600 -53.232846111195
+(S1 (S (ADVP (NNP hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))
+-17.670302199175 -59.900224997861
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VBP do) (NP (NN something))))))
+-17.761812156350 -56.910137055565
+(S1 (ADJP (RB hopefully) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-17.776216972856 -58.124885537454
+(S1 (S (ADJP (RB hopefully) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))))
+-17.915903931449 -58.287132721718
+(S1 (S (RB hopefully) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-18.169395471269 -60.431371355550
+(S1 (FRAG (RB hopefully) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-18.612425302036 -58.960567622589
+(S1 (FRAG (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-18.655824962492 -62.771030309763
+(S1 (SBAR (RB hopefully) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-18.816986513137 -60.676604722945
+(S1 (S (INTJ (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))
+-18.920563601836 -62.257878837129
+(S1 (FRAG (ADVP (RB hopefully)) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-18.975703669307 -62.957180834829
+(S1 (S (VP (NNP hopefully) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))))
+-19.069475920961 -67.723047778863
+(S1 (S (NP (NNP hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))
+-19.078786822156 -58.575332957268
+(S1 (FRAG (ADJP (RB hopefully) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))))
+-19.509739548225 -62.580461654617
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (S (VP (VB do) (NP (NN something)))))))
+-19.957213427273 -60.311726230711
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (ADVP (NN something))))))
+-19.960488183287 -63.164618517384
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (S (NP (NN something)))))))
+-20.001743557138 -66.428874173225
+(S1 (S (NP (RB hopefully) (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))
+-20.046279536705 -69.303458803541
+(S1 (S (NP (NNP hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-20.120193308787 -66.049244814249
+(S1 (S (VP (NNP hopefully) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-20.174311280508 -63.409547254817
+(S1 (FRAG (SBAR (RB hopefully) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-20.399253567672 -67.371930081300
+(S1 (S (RB hopefully) (NP (PRP they)) (VP (MD 'll) (VP (VBP do) (NP (NN something))))))
+-20.552119233200 -61.898153890352
+(S1 (S (ADVP (NNP hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-20.645226667823 -64.877981386424
+(S1 (FRAG (NP (NNP hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-20.742790445776 -68.565532777017
+(S1 (S (ADVP (RB hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VBP do) (NP (NN something)))))))
+-20.774782800035 -64.751353371258
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (VP (NN something))))))
+-21.221185744972 -65.169012388191
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (S (VP (NN something)))))))
+-21.253009337129 -68.646603582977
+(S1 (SBAR (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-21.347156798996 -69.022240383687
+(S1 (ADJP (RB hopefully) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-21.483897621732 -68.925534285604
+(S1 (FRAG (S (ADVP (RB hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-21.534450961680 -65.441196739229
+(S1 (FRAG (SBAR (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-21.589941792176 -69.748835805864
+(S1 (S (NP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))
+-21.590514081587 -65.519733590687
+(S1 (FRAG (NP (RB hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-21.612629039851 -64.230370716291
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (ADJP (NN something))))))
+-21.676313494757 -70.442801096862
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (VP (NP (NN something)))))))
+-21.730466885521 -68.890407189293
+(S1 (FRAG (S (RB hopefully) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-21.829963376227 -66.978393179591
+(S1 (S (ADVP (NNP hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VBP do) (NP (NN something))))))
+-21.962770399704 -66.491272557238
+(S1 (FRAG (ADVP (NNP hopefully)) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something))))))))
+-22.238690919511 -70.052166738056
+(S1 (S (RB hopefully) (NP (PRP they)) (VP (MD 'll) (S (VP (VB do) (NP (NN something)))))))
+-22.686164795771 -67.783431314150
+(S1 (S (RB hopefully) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (ADVP (NN something))))))
+-22.717941257497 -66.057672734036
+(S1 (FRAG (S (ADVP (NNP hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-22.802870930677 -67.242154805955
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (S (ADJP (NN something)))))))
+-22.804362833874 -68.977034009868
+(S1 (S (ADVP (RB hopefully)) (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (ADVP (NN something)))))))
+-23.290559878068 -70.474886840316
+(S1 (S (ADVP (RB hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (SBAR (S (NP (NN something))))))))
+-23.299046897795 -69.939093783283
+(S1 (FRAG (S (NP (RB hopefully) (PRP they)) (VP (MD 'll) (VP (VB do) (NP (NN something)))))))
+-23.669400728065 -69.658629836348
+(S1 (S (ADVP (NNP hopefully)) (NP (PRP they)) (VP (MD 'll) (S (VP (VB do) (NP (NN something)))))))
+-24.116874604325 -67.389894412441
+(S1 (S (ADVP (NNP hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (ADVP (NN something))))))
+-24.120149360339 -70.242786699114
+(S1 (S (ADVP (NNP hopefully)) (NP (PRP they)) (VP (MD 'll) (VP (VB do) (S (NP (NN something)))))))
+

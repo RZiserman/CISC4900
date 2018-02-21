@@ -1,0 +1,102 @@
+50 x
+-31.933685171751 -110.699396648467
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-32.734544941261 -114.725595218556
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (JJ unattended) (JJ aluminum) (NN can) (NNS smashers))))))
+-33.479874160467 -113.741718663334
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (VBN unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-34.540845664762 -117.489487487943
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (VBN unattended) (JJ aluminum) (NN can) (NNS smashers))))))
+-34.836707264386 -116.849297788208
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (VBD unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-34.895251576986 -123.250761637502
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (VP (VBD unattended) (NP (JJ aluminum) (NN can) (NNS smashers))))))))
+-34.936153005128 -121.675977724454
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (NP (JJ unattended) (NN aluminum) (NN can)) (VP (VBZ smashers)))))))
+-34.944056119124 -121.722292200252
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (VP (VBD unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))))
+-35.116464368165 -119.323544516685
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (JJR unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-35.122515262279 -121.780482888972
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))))
+-35.295502593569 -120.352092909817
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (CD unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-35.417203170267 -123.422654915014
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (VP (VBN unattended) (NP (JJ aluminum) (NN can) (NNS smashers))))))))
+-35.498057572812 -119.318864227341
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NN unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-35.853907889996 -124.159133523669
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (S (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))))
+-35.879575628124 -124.188556035009
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (S (VP (JJ unattended) (NP (JJ aluminum) (NN can) (NNS smashers))))))))
+-35.934649003104 -119.179421702261
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (IN like) (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-36.043480478806 -123.680359656134
+(S1 (S (NP (PRP they)) (VP (VBP 're) (NP (JJ like) (JJ unattended) (NN aluminum) (NN can) (NNS smashers)))))
+-36.054179564298 -118.577471519948
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (JJ unattended) (NN aluminum) (NN can)) (NP (NNS smashers)))))))
+-36.083716598470 -125.194157616911
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (NP (JJ unattended) (NN aluminum) (NN can)) (VP (NNS smashers)))))))
+-36.090237127830 -121.560015680228
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (IN like) (NP (JJ unattended) (JJ aluminum) (NN can) (NNS smashers))))))
+-36.192966067203 -122.738420818507
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (S (VP (JJ unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))))
+-36.350741030452 -121.531269947468
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VB like) (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-36.376912630131 -123.346698524163
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VB like) (NP (JJ unattended) (JJ aluminum) (NN can) (NNS smashers))))))
+-36.384250646587 -123.065753030422
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (JJ unattended) (NN aluminum) (NN can)) (VP (NNS smashers)))))))
+-36.403434231053 -124.835716453344
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers)))))))
+-36.641285516520 -120.451798063424
+(S1 (S (NP (PRP they)) (VP (VBP 're)) (PP (IN like) (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers)))))
+-36.707025719328 -121.442877716591
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (ADJP (JJ unattended)) (JJ aluminum) (NN can) (NNS smashers))))))
+-36.935683178571 -122.619139472402
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (IN like) (S (NP (VBN unattended) (NN aluminum) (NN can)) (VP (VBZ smashers)))))))
+-37.082680352502 -123.592547508376
+(S1 (S (NP (PRP they)) (VBP 're) (VP (VBP like) (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers)))))
+-37.150124322003 -123.727211336122
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (JJ unattended) (NN aluminum) (NN can)) (NNS smashers))))))
+-37.195094416029 -124.477996739533
+(S1 (S (NP (PRP they)) (VP (VBP 're)) (PP (IN like) (NP (JJ unattended) (JJ aluminum) (NN can) (NNS smashers)))))
+-37.469421579919 -122.978742944958
+(S1 (S (NP (PRP they)) (VBP 're) (VP (VBP like) (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))
+-37.483905163076 -125.090244037550
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (IN like) (S (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))))
+-37.649411872151 -124.620914695342
+(S1 (S (NP (PRP they)) (VBP 're) (VP (VBP like) (VP (VBN unattended) (NP (JJ aluminum) (NN can) (NNS smashers))))))
+-37.722527487632 -124.064853681248
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VB like) (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers)))))))
+-37.733201927761 -123.785177097756
+(S1 (S (NP (PRP they)) (VP (VBP 're) (ADVP (IN like)) (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))
+-37.848940240511 -124.457590938330
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (JJ unattended) (JJ aluminum) (NN can)) (NP (NNS smashers)))))))
+-37.866730848070 -121.947248069054
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (VBN unattended) (NN aluminum) (NN can)) (NP (NNS smashers)))))))
+-37.938071151987 -125.707025431631
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VB like) (VP (VBN unattended) (NP (JJ aluminum) (NN can) (NNS smashers)))))))
+-37.941978652115 -125.427348848139
+(S1 (S (NP (PRP they)) (VP (VBP 're) (ADVP (IN like)) (VP (VBN unattended) (NP (JJ aluminum) (NN can) (NNS smashers))))))
+-38.063069216199 -122.918144830129
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (ADJP (JJ unattended)) (NN aluminum) (NN can) (NNS smashers))))))
+-38.149270805569 -123.932765330993
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (IN like) (S (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers)))))))
+-38.162854065236 -123.494120236243
+(S1 (S (NP (PRP they)) (VP (VBP 're)) (PP (IN like) (NP (VBN unattended) (NN aluminum) (NN can) (NNS smashers)))))
+-38.177551519103 -123.983520816858
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (IN like) (NP (VBN unattended) (NN aluminum) (NN can) (NNS smashers))))))
+-38.205451414786 -123.598143526691
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (ADJP (VBN unattended)) (JJ aluminum) (NN can) (NNS smashers))))))
+-38.234642472713 -124.617501295787
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VB like) (S (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))))
+-39.035362777058 -125.685420107155
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (ADVP (IN like)) (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers))))))
+-39.130289706472 -125.261140357770
+(S1 (S (NP (PRP they)) (VP (VBP 're) (SBAR (S (VP (VBP like) (VP (VBN unattended) (NP (NN aluminum) (NN can) (NNS smashers)))))))))
+-39.150860782657 -125.073410640228
+(S1 (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (ADJP (VBN unattended)) (NN aluminum) (NN can) (NNS smashers))))))
+-39.356875212401 -124.147582795762
+(S1 (S (NP (PRP they)) (VP (VBP 're) (VP (VB like) (S (NP (JJ unattended) (NN aluminum) (NN can) (NNS smashers)))))))
+

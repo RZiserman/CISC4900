@@ -1,0 +1,102 @@
+50 x
+-12.841278561854 -41.839279894462
+(S1 (S (IN so) (NP (PRP I)) (VP (VBP have) (VP (TO to)))))
+-12.952728583163 -39.401600032359
+(S1 (S (IN so) (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-13.060340615188 -41.643450459744
+(S1 (S (RB so) (NP (PRP I)) (VP (VBP have) (VP (TO to)))))
+-13.175431936497 -39.205770597641
+(S1 (S (RB so) (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-13.434011693574 -44.095758579281
+(S1 (S (IN so) (NP (PRP I)) (VP (VBP have) (PP (TO to)))))
+-13.656715044120 -43.899929144563
+(S1 (S (RB so) (NP (PRP I)) (VP (VBP have) (PP (TO to)))))
+-13.820025570484 -46.042048581580
+(S1 (S (ADVP (RB so)) (NP (PRP I)) (VP (VBP have) (VP (TO to)))))
+-13.935116891793 -43.604368719478
+(S1 (S (ADVP (RB so)) (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-13.986984835128 -45.093310457034
+(S1 (S (IN so) (NP (PRP I)) (VP (VBP have) (X (TO to)))))
+-14.209688185675 -44.897481022316
+(S1 (S (RB so) (NP (PRP I)) (VP (VBP have) (X (TO to)))))
+-14.302917911773 -49.631493884539
+(S1 (S (CC so) (NP (PRP I)) (VP (VBP have) (VP (TO to)))))
+-14.414367933082 -47.193814022437
+(S1 (S (CC so) (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-14.416400002203 -48.298527266400
+(S1 (S (ADVP (RB so)) (NP (PRP I)) (VP (VBP have) (PP (TO to)))))
+-14.611656283652 -52.300640580893
+(S1 (SBAR (IN so) (S (NP (PRP I)) (VP (VBP have) (VP (TO to))))))
+-14.636607250627 -49.862960832069
+(S1 (SBAR (IN so) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to)))))))
+-14.895651043492 -51.887972569358
+(S1 (S (CC so) (NP (PRP I)) (VP (VBP have) (PP (TO to)))))
+-14.969373140970 -49.296079144152
+(S1 (S (ADVP (RB so)) (NP (PRP I)) (VP (VBP have) (X (TO to)))))
+-15.014229225407 -45.284638163802
+(S1 (S (RB so) (S (NP (PRP I)) (VP (VBP have) (VP (TO to))))))
+-15.104742294989 -42.846958243408
+(S1 (S (RB so) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to)))))))
+-15.511529883316 -48.339244945973
+(S1 (S (IN so) (NP (PRP I)) (VP (VBP have) (NP (TO to)))))
+-15.672681515667 -48.505591101550
+(S1 (S (IN so) (NP (PRP I)) (VP (VB have) (S (VP (TO to))))))
+-15.734233233862 -48.143415511255
+(S1 (S (RB so) (NP (PRP I)) (VP (VBP have) (NP (TO to)))))
+-15.764308002126 -47.541116848970
+(S1 (S (RB so) (S (NP (PRP I)) (VP (VBP have) (PP (TO to))))))
+-16.020106177550 -51.699143525127
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP I)) (VP (VBP have) (VP (TO to)))))))
+-16.057367760899 -48.307602541508
+(S1 (S (ADVP (IN so)) (NP (PRP I)) (VP (VBP have) (VP (TO to)))))
+-16.059827754525 -49.261463776303
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))))
+-16.135594908388 -47.980632765512
+(S1 (SQ (RB so) (NP (PRP I)) (VP (VB have) (S (VP (TO to))))))
+-16.151312196696 -51.973587796248
+(S1 (SQ (RB so) (NP (PRP I)) (VP (VBP have) (PP (TO to)))))
+-16.165150289801 -49.364050449412
+(S1 (S (RB so) (NP (PRP I)) (VP (VB have) (S (VP (TO to))))))
+-16.168817782208 -45.869922679406
+(S1 (S (ADVP (IN so)) (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-16.218889061864 -48.538668578739
+(S1 (S (RB so) (S (NP (PRP I)) (VP (VBP have) (X (TO to))))))
+-16.386906891901 -50.747609085322
+(S1 (S (CC so) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to)))))))
+-16.426314488648 -49.465290870419
+(S1 (S (IN so) (NP (PRP I)) (VP (VBP have) (SBAR (TO to)))))
+-16.493918189158 -52.542013633092
+(S1 (S (ADVP (RB so)) (NP (PRP I)) (VP (VBP have) (NP (TO to)))))
+-16.496919648393 -51.182434239561
+(S1 (S (ADVP (RB so)) (S (NP (PRP I)) (VP (VBP have) (VP (TO to))))))
+-16.587432717975 -48.744754319167
+(S1 (S (ADVP (RB so)) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to)))))))
+-16.649017841982 -49.269461435701
+(S1 (S (RB so) (NP (PRP I)) (VP (VBP have) (SBAR (TO to)))))
+-16.650100892618 -50.564081226328
+(S1 (S (ADVP (IN so)) (NP (PRP I)) (VP (VBP have) (PP (TO to)))))
+-16.684802229380 -50.831196737671
+(S1 (SQ (RB so) (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-17.203074031385 -51.561633104080
+(S1 (S (ADVP (IN so)) (NP (PRP I)) (VP (VBP have) (X (TO to)))))
+-17.443598740968 -51.893567429375
+(S1 (ADJP (RB so) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))))
+-17.483897705297 -50.536482637212
+(S1 (S (NP (RB so) (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-17.516680620638 -51.229794396493
+(S1 (FRAG (RB so) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))))
+-17.573288241912 -50.372663794482
+(S1 (S (IN so) (NP (PRP I)) (VP (VBP have) (SBAR (S (VP (TO to)))))))
+-17.625110145478 -51.106127701027
+(S1 (S (INTJ (RB so)) (NP (PRP I)) (VP (VBP have) (S (VP (TO to))))))
+-17.699452158595 -51.784603284754
+(S1 (S (RB so) (S (NP (PRP I)) (VP (VBP have) (NP (TO to))))))
+-17.795991595246 -50.176834359764
+(S1 (S (RB so) (NP (PRP I)) (VP (VBP have) (SBAR (S (VP (TO to)))))))
+-18.007281180742 -52.756480305761
+(S1 (S (RB so) (S (NP (PRP I)) (VP (VB have) (S (VP (TO to)))))))
+-18.085274216390 -51.010308279095
+(S1 (S (ADVP (IN so)) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to)))))))
+-18.120493787894 -51.854882973981
+(S1 (FRAG (CC so) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to)))))))
+

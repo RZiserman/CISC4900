@@ -1,0 +1,102 @@
+50 x
+-13.403826141591 -58.221596239837
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (NN fifty)))))))
+-13.965525620818 -61.113297613912
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (CD fifty)))))))
+-15.545174163873 -65.439840886778
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (JJ fifty)))))))
+-16.337886248853 -69.363341477592
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (JJR fifty)))))))
+-17.075498479872 -64.387987821085
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (ADJP (JJ fifty)))))))
+-18.189437497860 -68.667251039944
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PRT (RP in)) (NP (NN fifty))))))
+-18.692197584347 -72.289655075259
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (NN fifty)))))))
+-18.717835115644 -70.680293325512
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBN born) (PP (IN in) (NP (NN fifty))))))))
+-19.219008191375 -75.181356449334
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (CD fifty)))))))
+-19.375097190061 -70.688068909071
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (S (NP (NN fifty))))))))
+-19.421376914947 -72.528327481551
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (ADJP (JJR fifty)))))))
+-19.622225535733 -74.000641663608
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (S (ADJP (JJ fifty))))))))
+-19.758736441127 -71.480194899072
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (RP in) (NP (NN fifty)))))))
+-19.832654272710 -75.361889998465
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NN fifty))))))
+-19.936009509463 -70.006233200488
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born) (PP (IN in) (NP (NN fifty)))))))
+-19.938610756871 -73.571994699587
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBN born) (PP (IN in) (NP (CD fifty))))))))
+-20.043995912032 -76.067481707774
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (CD fifty))))))
+-20.103997253559 -75.429507654953
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (ADJP (JJ fifty))))))))
+-20.404835218323 -73.786195456236
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PRT (IN in)) (NP (NN fifty))))))
+-20.522924400834 -76.726830749976
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PRT (RP in)) (NP (CD fifty))))))
+-20.523121746769 -76.632138424389
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PRT (RP in)) (NP (JJR fifty))))))
+-20.621583161435 -75.480008801818
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PRT (RP in)) (NP (JJ fifty))))))
+-20.625018089112 -72.107373701419
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born)) (PP (IN in) (NP (NN fifty))))))
+-20.652643940114 -75.899571159046
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (RP in) (NP (CD fifty)))))))
+-20.758177435141 -73.823054432698
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born) (PP (IN in) (NP (CD fifty)))))))
+-20.816577255802 -75.754194024584
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (SBAR (IN in) (NN fifty))))))
+-20.831672025139 -77.898537972453
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBN born) (PP (IN in) (NP (JJ fifty))))))))
+-20.881980546564 -75.035609526325
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (VP (VBN born) (PP (IN in) (NP (NN fifty)))))))))
+-21.017168328127 -74.999075075494
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born)) (PP (IN in) (NP (CD fifty))))))
+-21.017622745842 -79.507899722200
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (JJ fifty)))))))
+-21.030489451274 -78.771430566091
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (S (ADJP (JJR fifty))))))))
+-21.296254197492 -74.506237913852
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PRT (RP in)) (S (ADJP (JJ fifty)))))))
+-21.310059623977 -73.713068157831
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (NP (IN in) (NN fifty))))))
+-21.701873438440 -76.631184572581
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born) (PP (IN in) (NP (JJ fifty)))))))
+-21.724839301010 -74.821088276819
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (VBN born) (PP (IN in) (NP (NN fifty)))))))
+-22.010823527791 -77.927310900399
+(S1 (S (NP (PRP I)) (VP (VBD was) (SBAR (S (VP (VBN born) (PP (IN in) (NP (CD fifty)))))))))
+-22.037226187959 -74.255156790228
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born) (PP (IN in) (ADJP (JJ fifty)))))))
+-22.050962014466 -79.121306575245
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (NP (QP (IN in) (CD fifty)))))))
+-22.170989923350 -78.046545246168
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (RP in) (NP (JJ fifty)))))))
+-22.208121253771 -79.522972255571
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (S (NP (CD fifty))))))))
+-22.361996385742 -76.846685062224
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (VP (VBN born) (PP (IN in) (ADJP (JJ fifty))))))))
+-22.376736165333 -76.705300118270
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (PRT (RP in)) (S (NP (NN fifty)))))))
+-22.500016863634 -77.330936091986
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (VBN born) (PP (IN in) (NP (CD fifty)))))))
+-22.547947064628 -78.456046656507
+(S1 (S (NP (NN I)) (VP (VBD was) (VP (VBN born) (PP (IN in) (ADJP (JJ fifty)))))))
+-22.819316156793 -75.752345872153
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (VBN born) (PP (IN in) (NP (NN fifty))))))))
+-22.919860831395 -79.325618348360
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born)) (PP (IN in) (NP (JJ fifty))))))
+-23.096605576160 -76.613121903850
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN born) (NP (QP (IN in) (NN fifty)))))))
+-24.138809568826 -78.096982782478
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born)) (PP (IN in) (ADJP (JJ fifty))))))
+-24.146942074679 -78.079330319287
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (VBN born)) (PP (IN in) (NP (NN fifty)))))))
+-25.204814343526 -79.534239704886
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN born) (PP (IN in) (S (NP (NN fifty))))))))
+

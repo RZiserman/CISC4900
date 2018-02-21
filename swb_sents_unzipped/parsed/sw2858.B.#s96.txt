@@ -1,0 +1,102 @@
+50 x
+-27.998114575126 -82.862833635574
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-28.374564174941 -86.706932893000
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-28.622544811453 -90.494677274106
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VB have))))))))))))
+-28.959273580141 -83.109110447815
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)))))))) (NP (PRP they)) (VP (VBP have))))
+-29.279095434057 -94.338776531533
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VB have)))))))))))
+-29.603386274007 -84.779154131600
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))))
+-30.246348423123 -92.410997770132
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VB have)))))))))))))
+-30.282356741310 -89.659352075246
+(S1 (S (NP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-30.467205923919 -87.111966163256
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-30.483841548274 -86.886789617886
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-30.632163275934 -89.277995137333
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions))))) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))
+-30.655172293003 -93.232004423940
+(S1 (S (WHNP (WP What)) (VP (POS 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-30.803163044865 -87.704875452743
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)))))))) (NP (PRP they)) (VP (VB have))))
+-30.843655526522 -90.956065420682
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))
+-30.851955548250 -92.076212080057
+(S1 (S (WHNP (WDT What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-30.934259778550 -91.165827148655
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-31.054753789203 -93.122094514320
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions))))) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))
+-31.312227312053 -95.009926406081
+(S1 (S (WHNP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-31.337890672638 -93.776612090764
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VB have)))))))))))
+-31.402008418493 -92.235299764913
+(S1 (SBAR (WHNP (WDT What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-31.515754607389 -94.518633256418
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VB have))))))))))))
+-31.550039257721 -91.412104163451
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)))))))) (NP (PRP they)) (VP (VBP have))))
+-31.840594727817 -91.414811368097
+(S1 (FRAG (X (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-32.072477625588 -89.028286659281
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-32.122036363711 -94.163477866551
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions))))) (SBAR (S (NP (PRP they)) (VP (VB have))))))))
+-32.164893245559 -92.677768831807
+(S1 (FRAG (WHNP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-32.189241532206 -90.602260113087
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)))))))) (S (NP (PRP they)) (VP (VBP have)))))
+-32.191191817557 -93.142760151754
+(S1 (FRAG (WP What) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-32.237434974816 -91.194315633359
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions))))) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))
+-32.465532141818 -94.607571315073
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (RB some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-32.539531477432 -93.082147644681
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))))
+-32.735592267731 -93.555239862274
+(S1 (FRAG (WHNP (WDT What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-32.746713781322 -95.362955915540
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WDT what) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-32.751448090104 -93.908484602928
+(S1 (S (NP (WP What)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))
+-32.952932899855 -91.135922145568
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-32.953270621233 -94.127421841262
+(S1 (FRAG (SBAR (WHNP (WDT What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))))
+-33.084500175534 -93.456769262266
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (RB some) (NP (JJ other) (NNS questions)))))))) (NP (PRP they)) (VP (VBP have))))
+-33.124825610775 -92.876649570100
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions))) (NP (PRP they))))))) (VP (VBP have))))
+-33.164031159748 -93.301951227019
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions))))) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))
+-33.295085530131 -95.414959676337
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have)))))))))))
+-33.362493235402 -95.609232836311
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WDT what) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)))))))) (NP (PRP they)) (VP (VBP have))))
+-33.419986751698 -95.189783130967
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WDT what)) (S (VP (VBP are) (NP (NP (DT some) (JJ other) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-33.493018170303 -95.469283288979
+(S1 (SBAR (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions)))))))) (NP (PRP they)) (VP (VBP have)))))
+-33.523125552122 -94.330962388846
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions) (S (NP (PRP they)) (VP (VBP have)))))))))))
+-33.635002056879 -95.146706072723
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (JJ other) (NNS questions))) (NP (PRP they))))))) (VP (VB have))))
+-33.646947015629 -95.094188506081
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some)) (NP (JJ other) (NNS questions)))))))) (NP (PRP they)) (VP (VBP have))))
+-34.002939778003 -92.584316045947
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (SBAR (S (NP (DT some) (JJ other) (NNS questions)) (NP (PRP they)) (VP (VBP have)))))))))))
+-35.608211476885 -94.500636541973
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (SBAR (S (NP (DT some) (JJ other) (NNS questions)) (NP (PRP they)) (VP (VBP have))))))))))))
+-35.745024609737 -94.076883588310
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT some) (ADJP (JJ other)) (NNS questions)) (SBAR (S (NP (PRP they)) (VP (VBP have))))))))))))
+-36.700042578314 -95.316226766404
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (DT some) (ADJP (JJ other)) (NNS questions)))))))) (NP (PRP they)) (VP (VBP have))))
+

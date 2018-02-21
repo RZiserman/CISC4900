@@ -1,0 +1,102 @@
+50 x
+-28.235977816900 -94.416835793112
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (ADJP (JJ first))))))
+-28.409667137706 -97.372002365415
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (NP (JJ first))))))
+-28.867627541977 -100.751162955258
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (NP (NN first))))))
+-29.546742323110 -98.811795161576
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))))
+-30.043845939449 -100.431403418930
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (NP (JJ first))))))))
+-30.139176709644 -101.441435986780
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (ADJP (RB first))))))
+-30.447529619844 -104.696645451395
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (NP (NN first))))))))
+-30.760304149856 -103.359673535835
+(S1 (S (NP (PRP they)) (VP (VBD were) (PRT (RP in)) (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-30.933993476238 -106.314840072333
+(S1 (S (NP (PRP they)) (VP (VBD were) (PRT (RP in)) (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (NP (JJ first))))))
+-31.099197212827 -103.178149168082
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (ADVP (IN at) (RB first)))))
+-31.404377772546 -103.874810181665
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (RB very) (JJ good) (NNP financials))) (PP (IN at) (ADJP (JJ first))))))
+-31.568770673269 -106.760674774776
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (JJ very) (JJ good) (NNP financials))) (PP (IN at) (ADJP (JJ first))))))
+-31.578067098927 -106.829976753968
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (RB very) (JJ good) (NNP financials))) (PP (IN at) (NP (JJ first))))))
+-31.930837381639 -105.415013350213
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (RB first))))))))
+-32.251461229316 -102.325167753008
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADJP (RB very) (JJ good))) (NP (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-32.304379782536 -106.230184048848
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (S (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))))
+-32.351323135449 -103.908731045926
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NNP financials)) (ADVP (IN at) (JJ first)))))))
+-32.376654722140 -107.854532380636
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NP (NNP financials)) (PP (IN at) (ADJP (JJ first))))))))
+-32.425150527820 -105.280334289507
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADJP (RB very) (JJ good))) (NP (NNP financials)) (PP (IN at) (NP (JJ first))))))
+-32.520384633727 -108.659494879350
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADJP (RB very) (JJ good))) (NP (NNP financials)) (PP (IN at) (NP (NN first))))))
+-32.559814516321 -106.455735179714
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NNP financials)) (ADVP (IN at) (RB first)))))))
+-32.612123954408 -107.727115813368
+(S1 (S (NP (PRP they)) (VP (VBD were) (PRT (RP in)) (NP (RB very) (JJ good) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-32.637606712072 -108.436840374721
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (S (ADJP (RB very) (JJ good)) (NP (NNP financials)) (PP (IN at) (ADJP (JJ first))))))))
+-32.640890989983 -104.703949361231
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (JJ first)))))))
+-32.682255355542 -109.336261836048
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (JJ very) (NN good))) (NP (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-32.781502915309 -107.722952858871
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (RB very) (JJ good) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))))
+-32.896326758503 -106.036562736931
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADJP (RB very) (JJ good)) (NP (NNP financials))) (PP (IN at) (ADJP (JJ first))))))
+-32.969758831504 -105.786939844224
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (NP (JJ first)))))))
+-33.024150282244 -104.781954082513
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (JJ very) (JJ good)) (NNP financials))) (PP (IN at) (ADJP (JJ first))))))
+-33.070016084885 -108.991729309234
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADJP (RB very) (JJ good)) (NP (NNP financials))) (PP (IN at) (NP (JJ first))))))
+-33.111662815116 -106.184958342682
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NP (NNP financials)))) (PP (IN at) (ADJP (JJ first))))))
+-33.197839608625 -107.737120654816
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (JJ very) (JJ good)) (NNP financials))) (PP (IN at) (NP (JJ first))))))
+-33.255962584501 -105.024027629977
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NX (NNP financials)))) (PP (IN at) (ADJP (JJ first))))))
+-33.278606520497 -109.342561116225
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (RB very) (JJ good) (NNP financials)) (PP (IN at) (NP (JJ first))))))))
+-33.285352141497 -109.140124914985
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NP (NNP financials)))) (PP (IN at) (NP (JJ first))))))
+-33.369498703145 -104.862082628603
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (ADVP (IN at) (JJ first)))))
+-33.429651910882 -107.979194202280
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NX (NNP financials)))) (PP (IN at) (NP (JJ first))))))
+-33.495095809261 -107.542795196950
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NX (NNP financials))) (PP (IN at) (ADJP (JJ first))))))))
+-33.514205782230 -108.605733769753
+(S1 (S (NP (PRP they)) (VP (VBD were) (PRT (RP in)) (NP (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (JJ first)))))))
+-33.515383051701 -106.799237101470
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADJP (IN in) (RB very) (JJ good)) (NP (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-33.547575334084 -108.358950315668
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADVP (RB very))) (NP (JJ good) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-33.872070254031 -106.252179477767
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADVP (RB very) (JJ good))) (NP (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-33.992199442327 -109.162403454303
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (RB very) (JJ good)) (NX (NNP financials))) (PP (IN at) (NP (JJ first))))))))
+-34.045759552534 -109.207346014266
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (ADVP (RB very) (JJ good))) (NP (NNP financials)) (PP (IN at) (NP (JJ first))))))
+-34.151032565213 -107.374565143332
+(S1 (S (NP (PRP they)) (VP (VBD were) (PRT (IN in)) (NP (ADJP (RB very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))
+-34.272497649371 -107.357048964529
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (ADJP (JJ first)))))))
+-34.423705669817 -109.176913450978
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (ADJP (JJ very) (JJ good)) (NNP financials)) (PP (IN at) (ADJP (JJ first))))))))
+-34.428506554588 -107.073895816607
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (IN in) (NP (NP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (ADJP (JJ first))))))
+-34.438495356648 -108.440039648972
+(S1 (S (NP (PRP they)) (VP (VBD were) (PP (PP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (NP (JJ first)))))))
+-35.659639643400 -107.706390488374
+(S1 (S (NP (PRP they)) (VP (VBD were) (ADVP (IN in) (NP (ADJP (RB very) (JJ good)) (NNP financials))) (PP (IN at) (ADJP (JJ first))))))
+

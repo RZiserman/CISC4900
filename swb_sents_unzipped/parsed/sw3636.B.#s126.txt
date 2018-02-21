@@ -1,0 +1,102 @@
+50 x
+-20.562833374339 -70.309791862287
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh) (NP (CD three) (NNS weeks))))))
+-20.864455659013 -69.186094825591
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh)) (NP (CD three) (NNS weeks)))))
+-20.951095541091 -67.698964789641
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (ADVP (UH uh)) (CD three) (NNS weeks)))))
+-21.625798712349 -75.891812895358
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (UH uh) (CD three) (NNS weeks)))))
+-21.759878037221 -74.507231761990
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (UH uh)) (NP (CD three) (NNS weeks)))))
+-21.770004817899 -79.818104256590
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NNP uh) (CD three) (NNS weeks)))))
+-22.146426686774 -75.026809436788
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NP (UH uh)) (CD three) (NNS weeks)))))
+-22.690336708690 -82.852714746292
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NNP uh)) (NP (CD three) (NNS weeks)))))
+-23.424565902305 -81.987650608127
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (UH uh) (NP (CD three) (NNS weeks))))))
+-24.314394341915 -77.559208260010
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (ADVP (UH uh)) (NP (CD three) (NNS weeks))))))
+-24.338707259379 -87.905681587515
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NP (NNP uh)) (CD three) (NNS weeks)))))
+-24.746601061792 -77.206715239622
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (QP (ADVP (UH uh)) (CD three)) (NNS weeks)))))
+-24.779663949141 -81.910129858362
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (ADVP (UH uh)) (NP (CD three) (NNS weeks))))))
+-25.137938662598 -89.227076663532
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NP (NNP uh)) (NP (CD three) (NNS weeks))))))
+-25.153552677349 -83.405225839869
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NP (UH uh)) (NP (CD three) (NNS weeks))))))
+-25.224547238317 -82.182987214384
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NP (UH uh) (CD three)) (NNS weeks)))))
+-25.414724379371 -83.314201169624
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (UH uh) (CD three)) (NP (NNS weeks)))))
+-25.455226987130 -82.654619139664
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (QP (NP (UH uh)) (CD three)) (NNS weeks)))))
+-25.614280055770 -87.222695517692
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NNP uh) (CD three)) (NP (NNS weeks)))))
+-25.915416642505 -83.535363551621
+(S1 (S (NP (NN I)) (VP (VBD took) (ADVP (UH uh) (NP (CD three) (NNS weeks))))))
+-26.282073618683 -84.826460621903
+(S1 (S (NP (PRP I)) (VP (VBD took) (S (ADVP (UH uh) (NP (CD three) (NNS weeks)))))))
+-26.329027024391 -82.411666514925
+(S1 (S (NP (NN I)) (VP (VBD took) (ADVP (UH uh)) (NP (CD three) (NNS weeks)))))
+-26.406634745194 -82.316040301157
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh)) (NP (NP (CD three)) (NNS weeks)))))
+-26.480182109258 -80.924536478975
+(S1 (S (NP (NN I)) (VP (VBD took) (NP (ADVP (UH uh)) (CD three) (NNS weeks)))))
+-26.670148360196 -88.130084357920
+(S1 (S (NP (PRP I)) (VP (VBD took) (S (NP (UH uh)) (NP (CD three) (NNS weeks))))))
+-26.863711401154 -81.920563507485
+(S1 (NP (NP (NN I)) (VP (VBD took) (ADVP (UH uh) (NP (CD three) (NNS weeks))))))
+-26.878680941821 -84.840672707543
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (UH uh)) (S (NP (CD three) (NNS weeks))))))
+-26.878851852004 -82.630798847417
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh)) (S (NP (CD three) (NNS weeks))))))
+-26.926467077728 -89.117384584692
+(S1 (S (NP (NN I)) (VP (VBD took) (NP (UH uh) (CD three) (NNS weeks)))))
+-26.928515805388 -87.732803451324
+(S1 (S (NP (NN I)) (VP (VBD took) (NP (UH uh)) (NP (CD three) (NNS weeks)))))
+-27.302057117827 -87.637177211252
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (UH uh)) (NP (NP (CD three)) (NNS weeks)))))
+-27.379579654940 -88.252381126122
+(S1 (S (NP (NN I)) (VP (VBD took) (NP (NP (UH uh)) (CD three) (NNS weeks)))))
+-27.381240473310 -85.858374933214
+(S1 (S (NP (PRP I)) (VP (VBD took) (SBAR (S (ADVP (UH uh) (NP (CD three) (NNS weeks))))))))
+-27.511151930624 -87.611524546717
+(S1 (NP (NP (PRP I)) (VP (VBD took) (ADVP (UH uh) (NP (CD three) (NNS weeks))))))
+-27.770041711686 -89.600196491645
+(S1 (S (NP (PRP I)) (VP (VBD took) (S (ADVP (UH uh)) (NP (CD three) (NNS weeks))))))
+-28.125701153065 -89.911378978486
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh) (NP (NP (CD three)) (NNS weeks))))))
+-28.183138094422 -88.328181800866
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh)) (NP (CD three)) (NP (NNS weeks)))))
+-28.204298208102 -87.861643159332
+(S1 (S (NP (PRP I)) (VP (VBD took) (SBAR (S (ADVP (UH uh)) (NP (CD three) (NNS weeks)))))))
+-28.232172416401 -88.497327186005
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh)) (SBAR (S (NP (CD three) (NNS weeks)))))))
+-28.569539849766 -89.725421243621
+(S1 (S (NP (PRP I)) (VP (VBD took) (ADVP (UH uh)) (ADJP (CD three) (NNS weeks)))))
+-28.584925881930 -86.327473034352
+(S1 (S (NP (NP (PRP I)) (VP (VBD took) (ADVP (UH uh) (NP (CD three) (NNS weeks)))))))
+-28.701273547939 -82.549022896088
+(S1 (NP (NP (NN I)) (VP (VBD took) (NP (ADVP (UH uh)) (CD three) (NNS weeks)))))
+-29.037684586593 -89.713447586801
+(S1 (S (NP (PRP I)) (VP (VBD took) (NP (NP (ADVP (UH uh)) (CD three)) (NNS weeks)))))
+-29.215217520571 -89.928234335412
+(S1 (S (NP (PRP I)) (VP (VBD took) (S (ADVP (ADVP (UH uh)) (NP (CD three) (NNS weeks)))))))
+-29.366608150287 -88.328405173560
+(S1 (NP (NP (NN I)) (VP (VBD took) (ADVP (UH uh)) (NP (CD three) (NNS weeks)))))
+-29.600671093621 -89.876867548091
+(S1 (NP (NP (NN I)) (VP (VBD took) (NP (NP (UH uh)) (CD three) (NNS weeks)))))
+-29.883616024623 -86.896015865368
+(S1 (S (NP (NP (NN I)) (VP (VBD took) (ADVP (UH uh) (NP (CD three) (NNS weeks)))))))
+-30.403552423080 -89.033249729101
+(S1 (S (NP (NP (PRP I)) (VP (VBD took) (NP (ADVP (UH uh)) (CD three) (NNS weeks))))))
+-30.943865568730 -89.169979905209
+(S1 (NP (NP (NN I)) (VP (VBD took) (ADVP (ADVP (UH uh)) (NP (CD three) (NNS weeks))))))
+-31.395088090620 -87.524475253971
+(S1 (S (NP (NP (NN I)) (VP (VBD took) (NP (ADVP (UH uh)) (CD three) (NNS weeks))))))
+

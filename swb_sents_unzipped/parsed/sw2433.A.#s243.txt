@@ -1,0 +1,102 @@
+50 x
+-17.723524095733 -67.590374420129
+(S1 (S (NP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-19.501841584482 -73.525221798950
+(S1 (S (ADVP (RB There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-20.793004471059 -73.330293399709
+(S1 (NP (ADVP (RB There)) (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-20.917581371011 -74.951766332476
+(S1 (NP (NP (RB There) (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-20.988087943319 -75.245096789422
+(S1 (FRAG (NP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-20.994183280954 -74.900626000612
+(S1 (S (NP (EX There)) (NP (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-21.106981621115 -74.703901383151
+(S1 (FRAG (ADVP (RB There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-21.409632421703 -74.972268631209
+(S1 (S (NP (NP (RB There) (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-21.604398432693 -81.583904921446
+(S1 (S (NP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (IN like) (S (VP (TO to) (VP (VB try)))))))))))
+-21.627814536210 -75.020081812395
+(S1 (FRAG (RB There) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-21.754403193178 -78.441665623060
+(S1 (NP (RB There) (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-21.871914610878 -80.741088471902
+(S1 (S (NP (EX There)) (VP (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))))
+-21.936444698275 -75.406781019600
+(S1 (S (NP (RB There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-21.972751835322 -80.894108094843
+(S1 (S (NP (RB There) (DT some) (NNS things)) (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))
+-22.021239105182 -77.682279539659
+(S1 (NP (NP (ADVP (RB There)) (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-22.107770003627 -79.078140596959
+(S1 (S (ADVP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-22.459373209907 -82.691129564167
+(S1 (S (NP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (SBAR (S (VP (TO to) (VP (VB try))))))))))))
+-22.493727376000 -80.973226292944
+(S1 (S (NP (ADVP (RB There)) (DT some) (NNS things)) (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))
+-22.543423516539 -77.702781946505
+(S1 (S (NP (NP (ADVP (RB There)) (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-22.596290048126 -77.173613410885
+(S1 (FRAG (NP (NP (RB There) (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-22.767575490459 -81.318391683229
+(S1 (S (ADVP (RB There)) (NP (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-22.796459049260 -82.889608547001
+(S1 (S (NP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (VBD 'd) (VP (IN like) (S (VP (TO to) (VP (VB try)))))))))))
+-22.909509058116 -79.435389340448
+(S1 (NP (ADVP (EX There)) (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-23.053216028460 -78.355497325679
+(S1 (S (NP (ADVP (RB There)) (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.167785869632 -78.612112747261
+(S1 (FRAG (RB There) (NP (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.214958612452 -82.313830669458
+(S1 (S (X (ADVP (RB There)) (NP (DT some) (NNS things))) (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))
+-23.217906232709 -82.417726610591
+(S1 (S (NP (EX There)) (DT some) (VP (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.232020452084 -77.618943826030
+(S1 (S (PP (RB There) (NP (DT some) (NNS things))) (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))
+-23.292262497953 -80.694018626192
+(S1 (FRAG (ADVP (RB There)) (NP (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.299301720889 -80.912397884209
+(S1 (FRAG (ADVP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.331553937369 -81.235214032464
+(S1 (FRAG (NP (EX There)) (NP (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.348203780868 -81.021488965990
+(S1 (NP (NP (ADVP (RB There)) (NP (DT some) (NNS things))) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-23.391821175877 -81.651607388545
+(S1 (S (NP (EX There)) (DT some) (VP (NNS things) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-23.438502871617 -80.057051005234
+(S1 (FRAG (ADVP (RB There)) (NP (DT some) (NNS things)) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))
+-23.444236855475 -81.740333192959
+(S1 (S (NP (EX There)) (NP (DT some) (NNS things)) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))
+-23.540318705803 -82.160650529794
+(S1 (S (NP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (PP (TO to) (NP (VB try))))))))))
+-23.699947849204 -79.904126858196
+(S1 (FRAG (NP (NP (ADVP (RB There)) (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.702944396703 -82.306811299565
+(S1 (S (NP (RB There) (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.771139152663 -81.867765957776
+(S1 (FRAG (NP (EX There)) (NP (DT some) (NNS things)) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))
+-23.923381745145 -79.911976541287
+(S1 (FRAG (NP (ADVP (RB There)) (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-23.935247419092 -82.115231622655
+(S1 (NP (NP (RB There) (DT some) (NNS things)) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))
+-24.032377758491 -81.682592801216
+(S1 (S (NP (EX There)) (NP (DT some) (NNS things) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-24.119972436917 -81.746654043705
+(S1 (S (NP (EX There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (S (VP (VB try))))))))))))
+-24.347933184143 -79.901139854253
+(S1 (FRAG (NP (RB There)) (NP (NP (DT some) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-24.482268515526 -82.282644860210
+(S1 (FRAG (NP (RB There) (DT some) (NNS things)) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))
+-24.577988257302 -83.260184110623
+(S1 (S (ADVP (RB There)) (NP (DT some)) (VP (NNS things) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-24.733729597354 -82.099773422193
+(S1 (S (NP (EX There)) (ADVP (DT some)) (VP (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+-24.887768724879 -83.130989369015
+(S1 (S (NP (EX There)) (NP (DT some)) (VP (NNS things) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-24.909968500522 -81.333654200147
+(S1 (S (NP (EX There)) (ADVP (DT some)) (VP (NNS things) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try))))))))))
+-25.091241203495 -82.717032600084
+(S1 (S (NP (RB There)) (NP (DT some) (NNS things) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB try)))))))))))
+

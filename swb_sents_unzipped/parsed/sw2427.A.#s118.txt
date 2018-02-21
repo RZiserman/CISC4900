@@ -1,0 +1,102 @@
+50 x
+-19.612765600080 -69.314488784982
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))
+-20.473025086124 -71.220514459181
+(S1 (S (CC and) (NP (NN boy)) (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))
+-20.677883782917 -68.934273675995
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-20.974748927565 -67.741574049256
+(S1 (FRAG (CC and) (INTJ (UH boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))))
+-21.230495011051 -71.560396423515
+(S1 (S (CC and) (ADVP (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))
+-21.336660374970 -65.912562578360
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))
+-21.538143266174 -70.840299350193
+(S1 (S (CC and) (NP (NN boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-21.699728250195 -73.379086720413
+(S1 (S (NP (CC and) (NN boy)) (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))
+-21.776671364161 -67.361358824604
+(S1 (FRAG (CC and) (INTJ (UH boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))))
+-21.961022566400 -71.976903263120
+(S1 (S (FRAG (CC and) (INTJ (UH boy))) (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))
+-22.003131278549 -72.487057105483
+(S1 (S (CC and) (S (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))
+-22.295613191100 -71.180181314528
+(S1 (S (CC and) (ADVP (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-22.314118658473 -65.532347593976
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))
+-22.764846430244 -72.998871611426
+(S1 (S (NP (CC and) (NN boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-22.814849470900 -72.106842081196
+(S1 (S (CC and) (S (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))
+-22.894084944688 -74.663850283815
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (RB really) (ADJP (JJ nice)))))
+-23.026140746449 -71.596688154132
+(S1 (S (FRAG (CC and) (INTJ (UH boy))) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-23.083459574394 -72.944900481636
+(S1 (FRAG (CC and) (NP (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))))
+-23.145522840186 -73.322396312957
+(S1 (S (CC and) (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))))
+-23.202448256497 -73.284636348820
+(S1 (X (CC and) (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))))
+-23.400458285861 -76.926165290191
+(S1 (S (CC and) (VP (NN boy) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))))
+-23.431002743644 -77.281314685839
+(S1 (S (CC and) (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADJP (ADVP (RB really)) (JJ nice)))))
+-23.579767858534 -77.174135911731
+(S1 (S (CC and) (NP (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-23.663089089438 -74.551874399069
+(S1 (FRAG (CC and) (S (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))
+-23.754344430733 -76.569875958014
+(S1 (S (CC and) (NP (NN boy)) (NP (PRP it)) (VP (VBZ is) (RB really) (ADJP (JJ nice)))))
+-23.787843279112 -73.090935595530
+(S1 (FRAG (CC and) (INTJ (UH boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (RB really) (ADJP (JJ nice)))))))
+-23.804440813670 -77.247657828179
+(S1 (S (CC and) (S (VP (NN boy) (NP (PRP it)))) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))
+-23.827827799569 -72.942181088305
+(S1 (S (CC and) (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))))
+-23.852142933778 -72.564685256984
+(S1 (FRAG (CC and) (NP (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))))
+-23.951683826297 -74.565870421684
+(S1 (X (CC and) (NP (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))))
+-23.982667737597 -75.877778612717
+(S1 (FRAG (CC and) (SBAR (NN boy) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice)))))))
+-24.004370693092 -72.904421124169
+(S1 (X (CC and) (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))))
+-24.120572625307 -77.321809966043
+(S1 (S (CC and) (ADVP (NN boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-24.169141645245 -76.545950065540
+(S1 (S (CC and) (VP (NN boy) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))))
+-24.449592968341 -75.708399950112
+(S1 (FRAG (CC and) (INTJ (UH boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADVP (RB really)) (JJ nice)))))))
+-24.467336831095 -76.160681556111
+(S1 (X (CC and) (NP (NN boy) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))))
+-24.511814355660 -76.909757922348
+(S1 (S (CC and) (ADVP (UH boy)) (NP (PRP it)) (VP (VBZ is) (RB really) (ADJP (JJ nice)))))
+-24.601543381427 -71.261924040380
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP it)) (VP (VBZ is) (RB really) (ADJP (JJ nice))))))
+-24.640547372940 -74.171659414686
+(S1 (FRAG (CC and) (S (INTJ (UH boy)) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))
+-24.720367185681 -74.185655197032
+(S1 (X (CC and) (NP (NP (NN boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))))
+-24.809061476981 -75.497563388065
+(S1 (FRAG (CC and) (SBAR (NN boy) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))))
+-24.852289222222 -75.824110939557
+(S1 (FRAG (CC and) (VP (NN boy) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (RB really) (JJ nice))))))))
+-24.886603298809 -76.867442807833
+(S1 (S (CC and) (S (VP (NN boy) (NP (PRP it)))) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice)))))
+-25.154897515746 -73.879388479216
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP it)) (VP (VBZ is) (ADJP (ADVP (RB really)) (JJ nice))))))
+-25.236020187691 -75.780466331460
+(S1 (X (CC and) (NP (NN boy) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))))
+-25.395156989269 -76.562141859119
+(S1 (FRAG (CC and) (INTJ (UH boy)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (VP (JJ nice)))))))
+-25.683037705613 -76.023891211016
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (NP (JJ nice))))))
+-25.740590058818 -75.443895714905
+(S1 (FRAG (CC and) (VP (NN boy) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADJP (JJ nice))))))))
+-25.921570826674 -74.733130386499
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (VP (JJ nice))))))
+-26.670334055780 -76.066532755287
+(S1 (FRAG (CC and) (INTJ (UH boy)) (S (NP (PRP it)) (VP (VBZ is) (S (ADJP (RB really) (JJ nice)))))))
+

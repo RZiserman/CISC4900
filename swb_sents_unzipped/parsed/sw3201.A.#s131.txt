@@ -1,0 +1,102 @@
+50 x
+-17.933622865703 -62.754609168066
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-19.613826851990 -67.354106971715
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-19.868672557053 -65.214581121162
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-19.960457771461 -71.310480543216
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (ADJP (JJ nice)) (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-20.131387944227 -66.719411277379
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.005403335866 -69.838550965143
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ nice) (NN talking)) (PP (TO to) (NP (PRP you))))))
+-21.167096066618 -69.277142004958
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-21.215053480693 -70.034396322712
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-21.471922605057 -74.232140334307
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (JJ nice) (VBG talking)) (PP (TO to) (NP (PRP you)))))))
+-21.473365554529 -67.927987286187
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.477667795305 -72.699337674256
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (JJ nice) (NN talking)) (PP (TO to) (NP (PRP you)))))))
+-21.586334939667 -68.525451463540
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))))
+-21.632935091673 -73.634849081599
+(S1 (S (NP (PRP It)) (VP (VP (VBD was) (ADJP (JJ nice))) (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.661305019520 -71.753794659820
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (ADVP (JJ nice)) (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-21.828539091107 -74.002651096910
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice)) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-21.965414270579 -73.758889365364
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ nice) (VBG talking)) (PP (TO to) (NP (PRP you))))))
+-22.047427739678 -72.281906572519
+(S1 (S (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice)))) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-22.246932259604 -75.152505321426
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-22.670045138498 -73.361827931794
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.734545272802 -72.576610403498
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADJP (JJ nice)) (SBAR (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))))
+-22.830280831833 -74.007766230928
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.860705774758 -76.013129598114
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (VP (ADJP (JJ nice)) (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-22.894740684612 -69.005053067419
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice))) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))
+-23.108199910619 -74.650759689346
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice)) (NP (VBG talking)) (PP (TO to) (NP (PRP you))))))
+-23.119495290627 -73.597793175064
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (VP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))))
+-23.173746365675 -68.902684136216
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.290123514218 -77.180832086938
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (NP (JJ nice) (NN talking)) (PP (TO to) (NP (PRP you)))))))
+-23.310111185715 -72.145150610848
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-23.364718128922 -70.014582214121
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (NP (VBG talking)) (PP (TO to) (NP (PRP you)))))))
+-23.373527443843 -74.802795867733
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-23.441114308261 -75.217554246610
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice)) (NP (NN talking)) (PP (TO to) (NP (PRP you))))))
+-23.671020585034 -76.497474007111
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (VBG talking)) (PP (TO to) (NP (PRP you))))))
+-23.780786587816 -77.083935445738
+(S1 (S (NP (PRP It)) (VP (VBD was) (PRT (JJ nice)) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-24.017674064766 -77.435265216982
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (NP (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-24.096901479465 -75.283674642980
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADJP (JJ nice) (S (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))))
+-24.163714582752 -76.502215595435
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (NN talking) (PP (TO to) (NP (PRP you)))))))
+-24.278536334806 -76.913571326039
+(S1 (S (NP (PRP It)) (VP (VBD was) (PP (JJ nice) (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-24.475909459734 -76.432558940403
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADVP (JJ nice)) (VP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-24.551224554428 -75.010156570533
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (NP (VBG talking))) (PP (TO to) (NP (PRP you))))))
+-24.660765935136 -76.469554683559
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (NP (NN talking)) (PP (TO to) (NP (PRP you)))))))
+-24.721377581471 -75.118540810842
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADJP (JJ nice) (VBG talking)) (PP (TO to) (NP (PRP you)))))))
+-24.739516238131 -76.583077373913
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (NP (NP (VBG talking)) (PP (TO to) (NP (PRP you))))))))
+-24.923937624826 -77.130712098272
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (S (VP (NN talking) (PP (TO to) (NP (PRP you)))))))))
+-24.934798462996 -75.555504679191
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-25.358031469225 -75.828878119606
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-25.373311944649 -73.177724615428
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (ADJP (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you))))))))
+-25.976031793089 -76.388576431429
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (VP (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-26.001389797659 -76.601576698081
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (JJ nice)) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))
+-26.424730246477 -77.174563087730
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (S (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+-27.013028073530 -75.618352403599
+(S1 (S (NP (PRP It)) (VP (VBD was) (S (ADJP (JJ nice) (PP (VBG talking) (PP (TO to) (NP (PRP you)))))))))
+

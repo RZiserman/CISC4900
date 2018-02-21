@@ -1,0 +1,102 @@
+50 x
+-14.210018693776 -51.163789701949
+(S1 (NP (WP what) (NP (JJ other) (NNS parts))))
+-14.355865049313 -42.837258217452
+(S1 (FRAG (X (WP what)) (NP (JJ other) (NNS parts))))
+-14.474450153256 -44.870373908619
+(S1 (SBAR (WHNP (WP what)) (S (NP (JJ other) (NNS parts)))))
+-14.578863481892 -40.009708359694
+(S1 (FRAG (SBAR (WHNP (WP what)) (FRAG (NP (JJ other) (NNS parts))))))
+-14.659464206940 -45.623228551873
+(S1 (SBAR (WHNP (WP what)) (FRAG (NP (JJ other) (NNS parts)))))
+-14.909581256950 -44.052254752823
+(S1 (FRAG (WHNP (WP what)) (NP (JJ other) (NNS parts))))
+-15.001612632068 -46.148572591906
+(S1 (FRAG (WP what) (NP (JJ other) (NNS parts))))
+-15.541228484685 -47.381561111091
+(S1 (SBAR (WDT what) (FRAG (NP (JJ other) (NNS parts)))))
+-15.647619392647 -47.213435667539
+(S1 (S (NP (WP what)) (NP (JJ other) (NNS parts))))
+-16.156977006193 -48.008695011559
+(S1 (NP (NP (WP what)) (JJ other) (NNS parts)))
+-16.207321442816 -53.644809160122
+(S1 (S (X (WP what)) (NP (JJ other) (NNS parts))))
+-16.336887021708 -57.000855443846
+(S1 (NP (WDT what) (NP (JJ other) (NNS parts))))
+-16.352603502391 -51.364225555628
+(S1 (FRAG (NP (WP what) (NP (JJ other) (NNS parts)))))
+-16.484212726690 -52.357116878232
+(S1 (SBAR (WHNP (WP what)) (S (VP (NP (JJ other) (NNS parts))))))
+-16.796890262137 -46.738370235628
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (NP (JJ other) (NNS parts))))))
+-16.980443836684 -55.106864961444
+(S1 (S (WHNP (WP what)) (VP (NP (JJ other) (NNS parts)))))
+-17.064389397752 -48.711010845638
+(S1 (FRAG (WP what) (FRAG (NP (JJ other) (NNS parts)))))
+-17.186029609196 -50.544895986098
+(S1 (SBAR (WHNP (WDT what)) (FRAG (NP (JJ other) (NNS parts)))))
+-17.421458132389 -54.844003942642
+(S1 (NP (WHNP (WP what)) (S (NP (JJ other) (NNS parts)))))
+-17.421631041401 -48.305425884107
+(S1 (FRAG (WHNP (WP what)) (FRAG (NP (JJ other) (NNS parts)))))
+-17.443297381917 -50.631197118205
+(S1 (FRAG (WHNP (WDT what)) (NP (JJ other) (NNS parts))))
+-17.731547062054 -50.897824278400
+(S1 (S (NP (WDT what)) (NP (JJ other) (NNS parts))))
+-17.910243556368 -54.503095034546
+(S1 (S (WHNP (WP what)) (VP (JJ other) (NP (NNS parts)))))
+-17.967817161237 -52.940939199535
+(S1 (NP (NP (WDT what)) (JJ other) (NNS parts)))
+-18.119777437343 -48.892982521235
+(S1 (FRAG (SBAR (WHNP (WDT what)) (FRAG (NP (JJ other) (NNS parts))))))
+-18.188086877253 -51.384664332157
+(S1 (FRAG (NP (WP what)) (NP (JJ other) (NNS parts))))
+-18.201522418278 -57.025224668768
+(S1 (S (NP (WP what)) (VP (NP (JJ other) (NNS parts)))))
+-18.211954506391 -49.597894515062
+(S1 (FRAG (WHNP (WP what)) (S (NP (JJ other) (NNS parts)))))
+-18.293665163867 -52.350827304886
+(S1 (FRAG (SBAR (WDT what) (FRAG (NP (JJ other) (NNS parts))))))
+-18.363480127364 -54.140911251725
+(S1 (SBAR (WHNP (WDT what)) (S (NP (JJ other) (NNS parts)))))
+-18.399588119508 -53.238089513375
+(S1 (X (NP (WP what)) (NP (JJ other) (NNS parts))))
+-18.806652835571 -54.225113205240
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (NP (JJ other) (NNS parts)))))))
+-18.850462735763 -52.486183652479
+(S1 (X (NP (NP (WP what)) (JJ other) (NNS parts))))
+-18.965286411587 -51.772626705354
+(S1 (FRAG (X (NP (WP what))) (NP (JJ other) (NNS parts))))
+-19.149317054114 -52.218956504544
+(S1 (S (NP (NP (WP what)) (JJ other) (NNS parts))))
+-19.190167077550 -55.246955155708
+(S1 (FRAG (NP (NP (WP what)) (NP (JJ other) (NNS parts)))))
+-19.252865170412 -55.424963792743
+(S1 (FRAG (X (WP what)) (FRAG (NP (JJ other) (NNS parts)))))
+-19.354440630685 -50.941779212010
+(S1 (FRAG (WHNP (WP what)) (PP (JJ other) (NP (NNS parts)))))
+-19.799325849109 -54.953984351571
+(S1 (FRAG (WHNP (WP what)) (SBAR (S (NP (JJ other) (NNS parts))))))
+-19.885336252137 -55.403786622059
+(S1 (FRAG (NP (WDT what)) (NP (JJ other) (NNS parts))))
+-19.889570296795 -54.555808029888
+(S1 (FRAG (NP (NP (WP what)) (JJ other) (NNS parts))))
+-19.981369186367 -54.884368249489
+(S1 (FRAG (WHNP (WDT what)) (FRAG (NP (JJ other) (NNS parts)))))
+-20.589166969703 -55.981245778551
+(S1 (FRAG (SBAR (WHNP (WDT what)) (S (NP (JJ other) (NNS parts))))))
+-20.622809997498 -54.623646931986
+(S1 (FRAG (WHNP (WP what)) (S (VP (JJ other) (NP (NNS parts))))))
+-20.686794507093 -56.455390264403
+(S1 (SBAR (WHNP (WP what)) (S (ADJP (JJ other)) (NP (NNS parts)))))
+-20.859392198570 -56.176836880444
+(S1 (FRAG (WHNP (WDT what)) (S (NP (JJ other) (NNS parts)))))
+-21.373012632388 -54.904529735928
+(S1 (FRAG (X (WP what)) (NP (ADJP (JJ other)) (NNS parts))))
+-21.524176328876 -56.067150470032
+(S1 (SBAR (WHNP (WP what)) (S (NP (ADJP (JJ other)) (NNS parts)))))
+-21.698584694815 -52.076979837246
+(S1 (FRAG (SBAR (WHNP (WP what)) (FRAG (NP (ADJP (JJ other)) (NNS parts))))))
+-21.940968340024 -56.119526271299
+(S1 (FRAG (WHNP (WP what)) (NP (ADJP (JJ other)) (NNS parts))))
+

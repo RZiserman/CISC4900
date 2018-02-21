@@ -1,0 +1,102 @@
+50 x
+-54.399588049830 -184.815288102201
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))
+-54.520664374843 -181.088444575222
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))
+-55.125452998754 -184.997371677045
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-55.128359106165 -184.896898781141
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))
+-55.926354055533 -183.790045104411
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-56.516196045031 -184.510907141670
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))
+-56.531658844945 -185.049473128243
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NNS brothers) (CC and) (NNS sisters)))))
+-56.568742659182 -184.369412316110
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-56.922126128111 -184.697345230522
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (PDT quite) (DT a) (JJ few) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))
+-57.278900728946 -183.770392110965
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NP (UH uh)) (NNS brothers) (CC and) (NNS sisters)))))
+-57.343208781746 -185.126428277251
+(S1 (S (NP (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (QP (RB quite) (DT a) (JJ few)) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-57.828229405335 -183.439883107805
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))
+-57.880182417374 -184.519569839577
+(S1 (S (NP (NP (PRP$ My) (NN mother) (POS 's)) (NP (NP (NN father) (POS 's)) (NN family))) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))
+-57.949305730348 -179.713039580826
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))
+-58.172536949369 -184.964138608478
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (NNP uh) (NNS brothers) (CC and) (NNS sisters))))))))
+-58.201641979972 -185.517831750873
+(S1 (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))))
+-58.269344198876 -184.340898338608
+(S1 (S (NP (PRP$ My) (NN mother) (POS 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))
+-58.638646364259 -183.621966682649
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-58.641552471670 -183.521493786745
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))
+-58.695330071159 -185.501575323527
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (UH uh) (NP (NNS brothers) (CC and) (NNS sisters))))))
+-58.792457395108 -181.790988223894
+(S1 (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))))
+-58.907617492383 -181.237295081499
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters))))))))
+-58.940798942768 -184.929592023948
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (UH uh) (NNS brothers) (CC and) (NNS sisters)))))
+-59.003683509401 -182.824709523232
+(S1 (S (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters))))))))
+-59.317021512071 -184.238748991035
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (S (NP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))
+-59.395681808294 -185.146222168944
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))))
+-59.439547421038 -182.414640110016
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-59.677528093705 -185.045749287418
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))))))
+-59.770252571553 -184.492588927580
+(S1 (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))))
+-59.944837400536 -183.135502147275
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))
+-59.960300200450 -183.674068133848
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NNS brothers) (CC and) (NNS sisters)))))
+-59.997384014687 -182.994007321715
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-60.031184576324 -185.071955950405
+(S1 (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))))
+-60.053360909828 -183.938895785185
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))))
+-60.214075386721 -184.518262808010
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))))
+-60.246708501755 -181.911372584593
+(S1 (NP (NP (PRP$ My) (NN mother) (VBZ 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters)))))))
+-60.247353410787 -184.866834855194
+(S1 (S (NP (NP (PRP$ My) (NN mother) (POS 's)) (NN father)) (VP (POS 's) (SBAR (S (NP (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NNP uh) (NNS brothers) (CC and) (NNS sisters))))))))
+-60.707542084451 -182.394987116570
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NP (UH uh)) (NNS brothers) (CC and) (NNS sisters)))))
+-60.716936333173 -185.213450790343
+(S1 (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))))
+-60.771850137251 -183.751023282856
+(S1 (S (NP (PRP$ My) (NN mother) (VBZ 's)) (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (QP (RB quite) (DT a) (JJ few)) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))
+-60.892367682484 -185.198323634521
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NNS brothers) (CC and) (NNS sisters))))))))
+-60.901673619201 -184.612973288278
+(S1 (NP (NP (PRP$ My) (NN mother) (VBZ 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (PDT quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))))
+-60.980813022570 -184.659757647948
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))))))
+-61.389303925041 -185.275278958025
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (ADVP (QP (RB quite) (DT a) (JJ few)) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))))
+-61.435266796094 -185.192340311104
+(S1 (NP (NP (PRP$ My) (NN mother) (VBZ 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters)))))))
+-61.462132826088 -184.472935759638
+(S1 (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NP (UH uh)) (NNS brothers) (CC and) (NNS sisters)))))))
+-61.645023636485 -183.919242617243
+(S1 (S (NP (PRP$ My) (NN mother)) (VP (VBZ 's) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NP (UH uh)) (NNS brothers) (CC and) (NNS sisters))))))))
+-61.673358940381 -185.506657058975
+(S1 (S (NP (NP (PRP$ My) (NN mother) (POS 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NP (UH uh)) (NNS brothers) (CC and) (NNS sisters))))))))
+-61.842582199821 -185.333835151041
+(S1 (NP (NP (PRP$ My) (NN mother) (VBZ 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (NP (RB quite) (DT a) (JJ few) (UH uh)) (NP (NNS brothers) (CC and) (NNS sisters))))))))
+-62.866215045858 -184.593320120337
+(S1 (NP (NP (PRP$ My) (NN mother) (VBZ 's)) (SBAR (S (NP (NP (NN father) (POS 's)) (NN family)) (VP (VBD had) (NP (QP (RB quite) (DT a) (JJ few)) (NP (UH uh)) (NNS brothers) (CC and) (NNS sisters)))))))
+

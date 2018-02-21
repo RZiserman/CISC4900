@@ -1,0 +1,102 @@
+50 x
+-21.702418216294 -79.817410566161
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places))))))
+-22.406217527279 -79.734422537699
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places))))))
+-23.551889998218 -83.593002766956
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-24.107152302140 -87.705905702217
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (JJ very) (JJ nice) (NNS places))))))
+-24.810951613125 -87.622917673754
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (JJ very) (JJ nice) (NNS places))))))
+-24.828503404422 -84.134952481049
+(S1 (FRAG (CC and) (SBAR (IN so) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places))))))))
+-24.911948512317 -83.494424307067
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places))))))))
+-24.940034764976 -86.699596582738
+(S1 (S (CC and) (S (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-24.943035554227 -82.910373772015
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places)))))))
+-24.977085661844 -86.586061876107
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (RB very) (JJ nice) (NNS places))))))
+-25.381620712142 -83.084419543840
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places))))))))
+-25.525083984668 -88.117713127545
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PRT (RB very)) (NP (JJ nice) (NNS places))))))
+-25.559083646957 -86.880537302232
+(S1 (S (CC and) (ADVP (IN so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places))))))
+-25.632781479503 -85.561793198193
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-25.646834865211 -82.827385743553
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places)))))))
+-25.680884972829 -86.503073847645
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (RB very) (JJ nice) (NNS places))))))
+-26.019130532975 -87.673695675652
+(S1 (S (CC and) (S (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-26.228883295653 -88.034725099082
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PRT (RB very)) (NP (JJ nice) (NNS places))))))
+-26.255442837124 -88.273187452324
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (JJ very) (JJ nice)) (NNS places))))))
+-26.308623399047 -84.500714544222
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PP (RB very) (NP (JJ nice) (NNS places)))))))
+-26.332658625758 -87.359218375465
+(S1 (FRAG (CC and) (SBAR (RB so) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places))))))))
+-26.336580790487 -85.478805169731
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-26.426252683151 -88.658286693439
+(S1 (FRAG (CC and) (ADVP (RB so)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-26.826557443768 -90.361654076901
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (RB very) (JJ nice) (NNS places)))))))
+-26.955709836151 -86.685965972809
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places))))))))
+-26.959242148108 -88.190199423862
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (JJ very) (JJ nice)) (NNS places))))))
+-27.012422712819 -84.417726515760
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PP (RB very) (NP (JJ nice) (NNS places)))))))
+-27.019807590551 -89.467196604777
+(S1 (FRAG (CC and) (S (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-27.104604736880 -90.656129503027
+(S1 (S (CC and) (ADVP (IN so)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-27.299933584275 -90.742313776785
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (ADJP (RB very) (JJ nice)) (NP (NNS places))))))
+-27.356781696582 -88.824595924628
+(S1 (FRAG (CC and) (S (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-27.541410845333 -90.513730439828
+(S1 (FRAG (CC and) (RB so) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))
+-27.645455761427 -89.337385398987
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (ADJP (RB very) (JJ nice)) (NNS places))))))))
+-27.915467524280 -90.227033345938
+(S1 (S (CC and) (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (RB very) (JJ nice) (NNS places)))))))
+-28.000786413758 -88.276306745016
+(S1 (S (CC and) (ADVP (RB so)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PP (RB very) (NP (JJ nice) (NNS places))))))))
+-28.186615957868 -90.263075617013
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (RB very) (JJ nice) (NNS places))))))))
+-28.229189075143 -87.227915686903
+(S1 (FRAG (CC and) (SBAR (IN so) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places)))))))))
+-28.343854605696 -89.792559788591
+(S1 (S (CC and) (S (ADVP (RB so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places))))))))
+-28.365247550250 -86.587387512921
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places)))))))))
+-28.619266835264 -90.144045317476
+(S1 (S (CC and) (RB so) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (RB very) (JJ nice) (NNS places)))))))
+-28.656288157692 -89.853070853786
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (NP (RB very) (JJ nice) (NNS places))))))))
+-28.799700987677 -89.973500508086
+(S1 (S (CC and) (ADVP (IN so)) (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places)))))))
+-28.834919752862 -86.177382749693
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places)))))))))
+-28.918934997631 -89.879335113081
+(S1 (FRAG (CC and) (SBAR (IN so) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))))
+-29.054993475526 -89.238806939099
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))))
+-29.259493919962 -88.818256459110
+(S1 (FRAG (CC and) (SBAR (IN so) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PP (RB very) (NP (JJ nice) (NNS places)))))))))
+-29.401019227858 -88.177728285128
+(S1 (FRAG (CC and) (ADVP (RB so)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PP (RB very) (NP (JJ nice) (NNS places)))))))))
+-29.524665678138 -88.828802175872
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (NP (ADJP (RB very) (JJ nice)) (NNS places)))))))))
+-29.736478463691 -90.452181581319
+(S1 (FRAG (CC and) (SBAR (RB so) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (ADJP (RB very) (JJ nice)) (NP (NNS places)))))))))
+-29.870691427682 -87.767723521901
+(S1 (FRAG (CC and) (RB so) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PP (RB very) (NP (JJ nice) (NNS places)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-17.241320776902 -60.531526374106
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature)))))
+-19.043979744676 -63.283814677416
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature))))))
+-20.269529707018 -63.509909237627
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature))))))
+-20.344364283706 -62.238466580944
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature))))))
+-20.702760102021 -68.170117095278
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature)))))))
+-20.806260194156 -68.644924769588
+(S1 (S (CC And) (SBAR (S (NP (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature)))))))
+-20.985404986869 -71.636432536375
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (NP (NN human) (NN nature)))))
+-21.937727173670 -71.534370949726
+(S1 (FRAG (S (CC And) (NP (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature))))))
+-22.193410266389 -64.990754796984
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature)))))))
+-22.526784696562 -71.003318951326
+(S1 (S (NP (CC And) (NP (PRP he))) (VP (VBZ goes) (NP (JJ human) (NN nature)))))
+-22.532094473145 -69.717139928362
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (SBAR (S (NP (JJ human) (NN nature)))))))
+-22.901719841854 -74.388720839685
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (NP (NN human) (NN nature))))))
+-23.307754955857 -73.949098069420
+(S1 (S (NP (CC And) (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature)))))
+-23.388643177668 -75.867348019055
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (VP (NP (JJ human) (NN nature))))))
+-23.407159212490 -65.216849234961
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature)))))))
+-23.804713515742 -77.196245420056
+(S1 (FRAG (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (NP (JJ human) (NN nature)))))))
+-23.840464717345 -73.593514046837
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (VP (JJ human) (NP (NN nature))))))
+-23.884822940330 -75.008891129417
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human) (NP (NN nature))))))
+-23.936965915003 -75.330245369045
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human)) (NP (NN nature)))))
+-23.989135685204 -70.351864783735
+(S1 (S (CC And) (SBAR (S (NP (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature))))))))
+-24.079221198588 -76.011107789621
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human) (NN nature)))))
+-24.157499793069 -69.877057109424
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature))))))))
+-24.158644826498 -76.204535711863
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (S (NP (NN human) (NN nature))))))
+-24.201511414197 -74.614815399897
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (NP (NN human) (NN nature))))))
+-24.447515746800 -72.469428006136
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (SBAR (S (NP (JJ human) (NN nature))))))))
+-24.704315483328 -77.570003993141
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (NP (ADJP (JJ human)) (NN nature)))))
+-24.732503899210 -76.905324476678
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (S (VP (JJ human) (NP (NN nature)))))))
+-24.950254953930 -73.241310947061
+(S1 (FRAG (S (CC And) (NP (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature)))))))
+-25.222214189380 -78.619636376863
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (VP (NP (JJ human) (NN nature)))))))
+-25.293380541606 -76.277815721942
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (S (ADJP (JJ human) (NN nature))))))
+-25.404623027991 -72.695522531928
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (SBAR (S (NP (JJ human) (NN nature))))))))
+-25.602456113366 -72.710259158164
+(S1 (S (NP (CC And) (NP (PRP he))) (VP (VBZ goes) (S (NP (JJ human) (NN nature))))))
+-25.620026985136 -77.761179250208
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human) (NP (NN nature)))))))
+-25.632206776270 -76.345802404645
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (VP (JJ human) (NP (NN nature)))))))
+-25.712719296050 -78.082533624521
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human)) (NP (NN nature))))))
+-25.842129590610 -77.893757239926
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ goes) (S (ADJP (JJ human)) (NP (NN nature))))))
+-26.019285923659 -77.355730503304
+(S1 (FRAG (CC And) (SBAR (S (NP (PRP he)) (VP (VBZ goes) (SBAR (S (NP (JJ human) (NN nature)))))))))
+-26.097969643394 -78.763395910412
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human) (NN nature))))))
+-26.103745309181 -78.956823927904
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (S (NP (NN human) (NN nature)))))))
+-26.211504218582 -77.830538177615
+(S1 (S (CC And) (SBAR (S (NP (PRP he)) (VP (VBZ goes) (SBAR (S (NP (JJ human) (NN nature)))))))))
+-26.410798462660 -75.656038276258
+(S1 (S (NP (CC And) (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature))))))
+-26.423317622034 -77.788508075606
+(S1 (FRAG (S (NP (CC And) (NP (PRP he))) (VP (VBZ goes) (NP (JJ human) (NN nature))))))
+-26.437124707783 -78.845730891865
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (VP (NP (JJ human) (NN nature)))))))
+-26.876535436461 -76.571896919647
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (VP (JJ human) (NP (NN nature)))))))
+-26.903740388449 -77.987273667206
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human) (NP (NN nature)))))))
+-26.954144037456 -78.903185539625
+(S1 (FRAG (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (S (NP (JJ human) (NN nature))))))))
+-26.960123125604 -78.308628172440
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human)) (NP (NN nature))))))
+-27.098138646707 -78.989490327410
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (ADJP (JJ human) (NN nature))))))
+-27.142426524289 -79.030103937983
+(S1 (S (CC And) (S (NP (PRP he)) (VP (VBZ goes) (S (ADJP (JJ human) (NN nature)))))))
+-27.409337258070 -79.182918365881
+(S1 (FRAG (CC And) (S (NP (PRP he)) (VP (VBZ goes) (S (NP (NN human) (NN nature)))))))
+

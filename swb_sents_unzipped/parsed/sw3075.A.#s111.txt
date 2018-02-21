@@ -1,0 +1,102 @@
+50 x
+-20.789928017684 -77.244183057457
+(S1 (S (INTJ (UH Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-21.439490605464 -79.254463833122
+(S1 (S (RB Well) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-21.591555386245 -81.218051556770
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-21.810572739883 -83.022621393262
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-21.952570809211 -83.934620625529
+(S1 (S (INTJ (UH Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-22.183611108185 -86.350828354785
+(S1 (S (ADVP (RB Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-22.250346751667 -83.890004035818
+(S1 (S (ADVP (RB Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-22.515304301473 -85.813693467751
+(S1 (S (RB Well) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-22.640514352048 -79.927251231153
+(S1 (S (INTJ (RB Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-22.925254388778 -86.028117788897
+(S1 (S (RB Well) (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.060382766119 -82.456069186972
+(S1 (S (INTJ (UH Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RB up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.184617698079 -85.482264797899
+(S1 (S (X (RB Well) (NP (PRP I))) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.227447879298 -82.762421048016
+(S1 (S (NP (RB Well) (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.321029274326 -83.223434946036
+(S1 (S (FRAG (RB Well) (NP (PRP I))) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.394373579568 -83.296848018363
+(S1 (S (INTJ (UH Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (ADVP (RB up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.470394231810 -84.520373617470
+(S1 (S (PP (RB Well) (NP (PRP I))) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.478237180535 -85.436825774278
+(S1 (X (RB Well) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))))
+-23.481190278014 -85.643025052566
+(S1 (S (INTJ (RB Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBN grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.516401463610 -83.901119730467
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.648047301856 -84.990542457139
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))
+-23.667996132852 -81.344727226246
+(S1 (FRAG (ADVP (RB Well)) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))
+-23.709945353899 -84.466349962638
+(S1 (S (RB Well) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RB up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.737467350649 -82.236053850869
+(S1 (S (INTJ (UH Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (ADVP (RB up) (PP (IN in) (NP (NNP Dallas)))))))
+-23.884739226894 -85.926538170037
+(S1 (S (ADVP (UH Well) (NP (PRP I))) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-23.922492778681 -86.429937686286
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RB up)) (PP (IN in) (NP (NNP Dallas))))))
+-24.013417280183 -81.840573965557
+(S1 (FRAG (INTJ (UH Well)) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))
+-24.043829843805 -86.881159207803
+(S1 (NP (RB Well) (NN I) (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))
+-24.043936167347 -85.307128794028
+(S1 (S (RB Well) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (ADVP (RB up)) (PP (IN in) (NP (NNP Dallas))))))
+-24.111970464295 -83.035462327509
+(S1 (FRAG (RB Well) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))
+-24.183470319061 -86.850444339931
+(S1 (S (ADVP (UH Well)) (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-24.387029941217 -84.246334626535
+(S1 (S (RB Well) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (ADVP (RB up) (PP (IN in) (NP (NNP Dallas)))))))
+-24.518691095771 -86.556354156898
+(S1 (S (ADVP (RB Well)) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))
+-24.587926063211 -86.209922350182
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (PP (IN in) (NP (NNP Dallas)))))))
+-24.717943476031 -83.979294159672
+(S1 (S (ADVP (RB Well) (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-24.751524411895 -85.160506723639
+(S1 (S (INTJ (UH Well)) (VP (NN I) (SBAR (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))))
+-24.910969100483 -85.139137360669
+(S1 (S (INTJ (RB Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RB up)) (PP (IN in) (NP (NNP Dallas))))))
+-25.244959913932 -85.979916192059
+(S1 (S (INTJ (RB Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (ADVP (RB up)) (PP (IN in) (NP (NNP Dallas))))))
+-25.254189754201 -85.608554785880
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (ADVP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-25.256304400293 -86.293861842469
+(S1 (S (RB Well) (VP (NN I) (SBAR (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))))
+-25.354187279364 -86.893522879905
+(S1 (FRAG (RB Well) (SBAR (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))))
+-25.588053685014 -84.919122024565
+(S1 (S (INTJ (RB Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (ADVP (RB up) (PP (IN in) (NP (NNP Dallas)))))))
+-25.729812652524 -86.953388764556
+(S1 (FRAG (ADVP (RB Well)) (NP (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))))
+-25.742389236519 -86.718925213322
+(S1 (S (RB Well) (ADVP (PRP I)) (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-25.752248781352 -84.086773342195
+(S1 (FRAG (INTJ (RB Well)) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))
+-25.832927516172 -86.536315827251
+(S1 (S (INTJ (UH Well)) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBD grew) (PP (RP up) (PP (IN in) (NP (NNP Dallas)))))))
+-25.991494881886 -85.661156846794
+(S1 (S (INTJ (UH Well)) (NP (NP (PRP I)) (ADVP (PRP I))) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas))))))
+-26.002158035287 -86.556613355761
+(S1 (FRAG (ADVP (RB Well)) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD grew) (PRT (RB up)) (PP (IN in) (NP (NNP Dallas)))))))
+-26.441055962886 -86.868911150676
+(S1 (S (INTJ (RB Well)) (VP (NN I) (SBAR (S (NP (PRP I)) (VP (VBD grew) (PRT (RP up)) (PP (IN in) (NP (NNP Dallas)))))))))
+-26.506188689274 -86.336597812867
+(S1 (FRAG (ADVP (RB Well)) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (PP (IN in) (NP (NNP Dallas))))))))
+-26.851609836604 -86.832444552178
+(S1 (FRAG (INTJ (UH Well)) (NP (PRP I)) (S (NP (PRP I)) (VP (VBD grew) (ADVP (RB up) (PP (IN in) (NP (NNP Dallas))))))))
+

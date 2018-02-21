@@ -1,0 +1,102 @@
+50 x
+-12.018943318493 -42.010121302036
+(S1 (S (CC And) (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))
+-12.976598745554 -41.570586771193
+(S1 (S (CC And) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-13.777821422411 -46.887123656012
+(S1 (S (CC And) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-13.981401420015 -46.732973368705
+(S1 (S (CC And) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-14.597515736105 -48.525898441302
+(S1 (S (CC And) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know)))))
+-15.373606308897 -53.810331780870
+(S1 (S (CC And) (NP (PRP I)) (NP (PRP I)) (S (VP (VBP do) (RB n't) (VP (VB know))))))
+-15.637132715989 -46.611099190248
+(S1 (FRAG (CC And) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-15.880413236736 -49.756015036281
+(S1 (S (NP (CC And) (NP (PRP I))) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))
+-16.077137641791 -50.700050540332
+(S1 (FRAG (CC And) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-16.563204664169 -46.270471364130
+(S1 (S (NP (CC And) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBP do) (RB n't) (VP (VB know)))))
+-16.593953198562 -51.754474971457
+(S1 (S (CC And) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know))))))
+-16.601845802156 -56.933199789977
+(S1 (S (CC And) (NP (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))))
+-16.718585036210 -53.261483533052
+(S1 (FRAG (S (CC And) (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-16.758048860430 -57.071263529405
+(S1 (S (CC And) (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know)))))
+-16.878628133303 -49.691457000414
+(S1 (FRAG (CC And) (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-17.132230642831 -49.165592034919
+(S1 (FRAG (CC And) (S (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know))))))
+-17.272501256317 -55.170854044717
+(S1 (S (CC And) (S (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-17.281005281696 -51.371169697154
+(S1 (S (CC And) (ADVP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))
+-17.424670375299 -54.276190908234
+(S1 (S (CC And) (NP (PRP I)) (ADVP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))
+-17.535980465753 -53.505464329701
+(S1 (FRAG (CC And) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-17.550667745878 -57.791337613197
+(S1 (S (CC And) (NP (PRP I)) (NP (PRP I)) (VP (VB do) (RB n't) (VP (VB know)))))
+-17.684118300522 -52.828499903766
+(S1 (S (NP (CC And) (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))
+-17.804035246191 -56.631728998562
+(S1 (S (CC And) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know)))))))
+-17.821429902450 -57.086604297696
+(S1 (FRAG (CC And) (NP (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))))
+-18.042382654114 -59.412208672926
+(S1 (FRAG (CC And) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))))
+-18.370937738678 -58.314844488557
+(S1 (FRAG (S (CC And) (NP (PRP I)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-18.728073130456 -57.821852777311
+(S1 (FRAG (CC And) (NP (NN I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-18.811426671300 -61.707928009875
+(S1 (S (CC And) (NP (PRP I)) (NP (PRP I)) (S (VP (VB do) (RB n't) (VP (VB know))))))
+-18.863799397333 -60.281642073285
+(S1 (FRAG (S (CC And) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-18.895433960725 -60.280798264863
+(S1 (FRAG (S (CC And) (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))))
+-18.976321921952 -61.794115596074
+(S1 (S (CC And) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know))))))
+-19.072528195472 -56.214014108238
+(S1 (S (CC And) (NP (NP (PRP I)) (ADVP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know)))))
+-19.082920727325 -57.570304316456
+(S1 (FRAG (CC And) (NP (NNP I)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))))
+-19.262867880313 -57.309503015109
+(S1 (S (CC And) (S (NP (PRP I)) (ADVP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-19.453609964197 -59.959735271513
+(S1 (S (CC And) (ADVP (NN I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))))
+-19.463008861780 -61.438338974325
+(S1 (S (CC And) (NP (PRP I)) (NP (NN I)) (VP (VBP do) (RB n't) (VP (VB know)))))
+-19.807636612851 -61.074844432840
+(S1 (FRAG (S (CC And) (NP (NP (PRP I)) (NP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know))))))
+-19.992458425216 -55.456494089882
+(S1 (FRAG (CC And) (S (NP (PRP I)) (ADVP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-20.002164313449 -59.540314623513
+(S1 (S (NP (NP (CC And) (PRP I)) (NP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know)))))
+-20.115940588782 -58.271740305587
+(S1 (S (CC And) (S (ADVP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-20.198967083418 -60.627266566680
+(S1 (FRAG (CC And) (NP (NN I)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-20.251577017926 -61.672241417617
+(S1 (FRAG (CC And) (S (NP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know))))))
+-20.277152080956 -52.268488565445
+(S1 (FRAG (S (NP (CC And) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBP do) (RB n't) (VP (VB know))))))
+-20.498699850288 -60.375718105825
+(S1 (FRAG (CC And) (NP (NNP I)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-20.585322653332 -60.351117905471
+(S1 (FRAG (S (NP (CC And) (NP (PRP I))) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+-20.874174356292 -59.442590674986
+(S1 (S (CC And) (S (NP (NP (PRP I)) (ADVP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know))))))
+-21.298070280007 -61.331613591499
+(S1 (S (NP (CC And) (NP (NP (PRP I)) (NP (PRP I)))) (VP (VBP do) (RB n't) (VP (VBP know)))))
+-21.607243102198 -56.853707701855
+(S1 (FRAG (CC And) (S (NP (NP (PRP I)) (ADVP (PRP I))) (VP (VBP do) (RB n't) (VP (VB know))))))
+-21.652253952267 -58.282323855633
+(S1 (S (NP (CC And) (NP (NP (PRP I)) (ADVP (PRP I)))) (VP (VBP do) (RB n't) (VP (VB know)))))
+-22.232965582658 -60.388805435792
+(S1 (FRAG (CC And) (S (ADVP (PRP I)) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))))))
+

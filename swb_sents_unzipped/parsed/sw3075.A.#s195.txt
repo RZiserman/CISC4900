@@ -1,0 +1,102 @@
+50 x
+-17.171913992262 -48.630793074430
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-18.912407257886 -55.619343906820
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (ADJP (JJ interesting)))))
+-19.070030376993 -58.330827356409
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-20.392813955918 -63.235169599434
+(S1 (S (INTJ (UH Oh)) (DT that) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-20.425947886031 -60.423741167201
+(S1 (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-20.566797635349 -65.699004348327
+(S1 (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (ADJP (JJ interesting)))))))
+-20.652531954314 -57.177497043778
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-20.827225693466 -57.133155719173
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (JJ interesting)))))
+-20.904910423776 -55.402659068637
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-20.906091256288 -61.992421545732
+(S1 (S (INTJ (UH Oh)) (WHNP (WDT that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-21.028933436957 -57.367263184827
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-21.380119612170 -55.687765788650
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-21.673546407254 -59.381855320733
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-21.844247120591 -59.683453571951
+(S1 (FRAG (INTJ (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting))))))
+-21.879376713700 -57.794221537956
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (VP (JJ interesting)))))
+-21.900037154520 -64.370402854420
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (NP (JJ interesting)))))
+-21.928748129579 -65.594213944338
+(S1 (S (NP (UH Oh) (IN that)) (VP (POS 's) (ADJP (JJ interesting)))))
+-21.964966510100 -65.520937511451
+(S1 (S (NP (UH Oh) (IN that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-22.128868864706 -65.543874364491
+(S1 (NP (UH Oh) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-22.154701078963 -61.490567267279
+(S1 (SBAR (ADVP (UH Oh)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting))))))
+-22.155534542620 -59.869817513299
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADVP (JJ interesting)))))
+-22.163866367381 -63.226284699139
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (POS 's) (ADJP (JJ interesting)))))
+-22.279881771091 -64.185327694202
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (POS 's) (S (ADJP (JJ interesting))))))
+-22.300357343730 -63.326323889267
+(S1 (S (NP (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-22.323000937020 -65.666502850206
+(S1 (S (INTJ (UH Oh) (RB that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-22.328148305292 -63.873053160007
+(S1 (FRAG (NP (UH Oh) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting))))))))
+-22.349221379723 -60.320063293903
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (POS 's) (ADJP (JJ interesting)))))
+-22.437026682297 -61.300531369791
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (POS 's) (ADJP (JJ interesting)))))
+-22.482369860438 -63.344154761274
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (IN that) (S (VP (POS 's) (ADJP (JJ interesting)))))))
+-22.537455105592 -61.047093701954
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (S (ADJP (JJ interesting))))))
+-22.619828095567 -62.244140237189
+(S1 (FRAG (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ interesting))))))
+-22.890883169881 -61.723520895616
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-22.993130848033 -65.017901655407
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (ADJP (JJ interesting)))))))
+-23.172986816267 -65.243194132896
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-23.437336245497 -62.021496888767
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (VP (ADJP (JJ interesting))))))
+-23.458694163890 -64.542857415417
+(S1 (FRAG (ADVP (UH Oh)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-23.581541348467 -62.274702730893
+(S1 (S (ADVP (UH Oh)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-23.583212905657 -65.260276530889
+(S1 (FRAG (INTJ (UH Oh)) (NP (DT that)) (S (VP (VBZ 's) (ADJP (JJ interesting))))))
+-23.679615831330 -65.965966970800
+(S1 (FRAG (NP (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting))))))))
+-23.801671372787 -64.488659884619
+(S1 (FRAG (INTJ (UH Oh)) (X (IN that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-24.255549016995 -65.942169206345
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (ADJP (JJ interesting)))))))
+-24.307843655519 -65.679859688521
+(S1 (S (ADVP (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (JJ interesting)))))
+-24.438006944608 -65.713227430710
+(S1 (FRAG (INTJ (UH Oh)) (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ interesting))))))))
+-24.474163251162 -65.869625827307
+(S1 (FRAG (INTJ (UH Oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (JJ interesting)))))))
+-24.545480685192 -63.905021713380
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ 's) (NP (JJ interesting)))))
+-24.838064873672 -64.282200756100
+(S1 (S (ADVP (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ interesting)))))
+-24.936025043587 -64.190128433393
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (NP (JJ interesting)))))
+-25.665053048426 -64.566087532163
+(S1 (S (INTJ (UH Oh)) (NP (IN that)) (VP (VBZ 's) (VP (JJ interesting)))))
+-25.699522888269 -66.026232539020
+(S1 (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (VP (ADVP (JJ interesting))))))
+-26.120493810821 -64.851194252176
+(S1 (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBZ 's) (VP (JJ interesting)))))
+

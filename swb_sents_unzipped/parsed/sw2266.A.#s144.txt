@@ -1,0 +1,102 @@
+50 x
+-18.309677084981 -69.884401493578
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-19.889933331682 -73.305708862480
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-20.026240336545 -73.040109302666
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-21.912503861486 -78.512181416510
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim)))))))
+-22.067478456122 -76.197249043419
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-22.306742689088 -81.966342271198
+(S1 (S (NP (PRP I)) (VP (RB just) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim)))))))
+-22.406262102653 -77.626636321728
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke) (PP (IN with) (S (NP (NNP Jim)))))))
+-23.189195113072 -78.461530307536
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke) (PRT (RP with)) (NP (NNP Jim)))))
+-23.551542132549 -80.331340907683
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke)) (PP (IN with) (NP (NNP Jim)))))
+-23.712551062006 -85.246579518860
+(S1 (S (NP (NP (PRP I)) (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-23.717411821323 -80.835994328006
+(S1 (S (NP (PRP I) (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-23.764537901439 -78.237226158835
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke) (PRT (IN with)) (NP (NNP Jim)))))
+-23.861463940368 -79.373224759757
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke) (NP (IN with) (NNP Jim)))))
+-23.986518349355 -81.047943690631
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD spoke) (PP (IN with) (S (NP (NNP Jim)))))))
+-23.998962025112 -80.550478675994
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD spoke) (PRT (RP with)) (NP (NNP Jim)))))
+-24.122825354217 -80.782344130817
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD spoke) (PP (IN with) (S (NP (NNP Jim)))))))
+-24.451168296216 -84.216692373745
+(S1 (S (NP (NN I)) (ADVP (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-24.518082395465 -79.466115589250
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD spoke) (NP (IN with) (NNP Jim)))))
+-24.673665830479 -80.326174527293
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD spoke) (PRT (IN with)) (NP (NNP Jim)))))
+-24.899198636836 -83.023980974102
+(S1 (S (NP (NN I) (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-24.968620789726 -81.617238207352
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD spoke) (PRT (RP with)) (NP (NNP Jim)))))
+-25.025839198881 -79.929545881806
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke) (SBAR (IN with) (S (NP (NNP Jim)))))))
+-25.043310532690 -85.934946204074
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VBD spoke)) (PP (IN with) (NP (NNP Jim))))))
+-25.235904594384 -84.246217126768
+(S1 (S (ADVP (PRP I) (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-25.322936722422 -87.209963698776
+(S1 (S (ADVP (NP (PRP I)) (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-25.489495378093 -81.392934058652
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD spoke) (PRT (IN with)) (NP (NNP Jim)))))
+-25.564982185231 -80.892629945889
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD spoke) (SBAR (IN with) (S (NP (NNP Jim)))))))
+-25.586421403083 -82.528932609001
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD spoke) (NP (IN with) (NNP Jim)))))
+-25.672327167780 -87.372400182833
+(S1 (S (NP (NN I)) (RB just) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-25.911561784069 -86.254416164425
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VP (VBD spoke) (PP (IN with) (S (NP (NNP Jim))))))))
+-25.958879148917 -87.637999742647
+(S1 (S (NP (NN I)) (VP (ADVP (RB just)) (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-26.154858877396 -87.557058483860
+(S1 (NP (NP (NN I)) (VP (ADVP (RB just)) (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-26.164063473795 -83.939483871570
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD spoke) (PP (IN with) (S (NP (NNP Jim)))))))
+-26.440028762513 -86.392225460244
+(S1 (NP (NP (NN I) (RB just)) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-26.497282387395 -88.926505001024
+(S1 (S (NP (PRP I)) (RB just) (VP (VP (VBD spoke)) (PP (IN with) (NP (NNP Jim))))))
+-26.567418882093 -85.684122606539
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke)) (PP (IN with) (S (NP (NNP Jim))))))
+-26.753056190445 -83.085253692844
+(S1 (S (NP (PRP I)) (RB just) (VP (VBD spoke) (SBAR (IN with) (S (NP (NNP Jim)))))))
+-26.846442925332 -87.747570082425
+(S1 (S (NP (NP (NN I)) (ADVP (RB just))) (VP (VBD spoke) (PP (IN with) (NP (NNP Jim))))))
+-26.860406321303 -84.774377948105
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD spoke) (PRT (RP with)) (NP (NNP Jim)))))
+-27.111832741119 -86.495592446475
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD spoke) (SBAR (IN with) (FRAG (NP (NNP Jim)))))))
+-27.187371429260 -86.070094298209
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VP (VBD spoke) (NP (IN with) (NNP Jim))))))
+-27.317958521142 -89.027174972867
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VP (VBD spoke) (PRT (RP with)) (NP (NNP Jim))))))
+-27.544633465670 -84.550073799404
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD spoke) (PRT (IN with)) (NP (NNP Jim)))))
+-27.649358342661 -85.686072349754
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD spoke) (NP (IN with) (NNP Jim)))))
+-27.650931726381 -87.458676510557
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD spoke) (SBAR (IN with) (FRAG (NP (NNP Jim)))))))
+-27.813996838996 -88.578229156156
+(S1 (S (NP (PRP I) (RB just)) (VP (VBD spoke) (PP (IN with) (S (NP (NNP Jim)))))))
+-27.829701038872 -88.163659221728
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VP (VBD spoke) (PRT (IN with)) (NP (NNP Jim))))))
+-28.502647667403 -89.035927267256
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD spoke)) (PP (IN with) (NP (NNP Jim)))))
+-28.786010274413 -88.107858629551
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VP (VBD spoke) (SBAR (IN with) (S (NP (NNP Jim))))))))
+-28.791545790022 -86.242393433597
+(S1 (S (NP (NP (PRP I)) (ADVP (RB just))) (VP (VBD spoke) (SBAR (IN with) (S (NP (NNP Jim)))))))
+

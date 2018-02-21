@@ -1,0 +1,102 @@
+50 x
+-15.633311292795 -53.881630704656
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (PP (TO to))))))))
+-16.009280862932 -51.885427640401
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))))
+-16.069631550157 -56.044617298459
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (X (TO to))))))))
+-16.164706228793 -57.574986226791
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (PP (TO to))))))))
+-16.540675796142 -55.578783162536
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))))
+-16.601026483367 -59.737972820593
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (X (TO to))))))))
+-17.110839431729 -58.156249095146
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (VP (TO to))))))))
+-17.464040928559 -59.696394530956
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (X (PP (TO to)))))))))
+-17.646949054939 -61.849604617280
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (VP (TO to))))))))
+-17.717159274406 -57.006957798781
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (SBAR (TO to))))))))
+-17.995435861769 -63.389750053090
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (X (PP (TO to)))))))))
+-18.248554207616 -60.700313320916
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (SBAR (TO to))))))))
+-18.339703194180 -61.293119818360
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (NP (TO to))))))))
+-18.871098127390 -64.986475340495
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (NP (TO to))))))))
+-19.147515482917 -60.680511193759
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (PP (TO to)))))))))
+-19.319999174653 -66.132633106277
+(S1 (S (CC and) (IN if) (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (PP (TO to))))))
+-19.378587472001 -64.136430042022
+(S1 (S (CC and) (IN if) (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))
+-19.676989497157 -62.805245313132
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (X (TO to)))))))))
+-19.697468031101 -60.405869272933
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (S (VP (TO to))))))))))
+-19.735105577359 -61.401969957636
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (ADJP (VBG getting) (PP (TO to))))))))
+-19.743147518915 -64.373866715893
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (PP (TO to)))))))))
+-20.033796146682 -66.750380670157
+(S1 (S (CC and) (PP (IN if) (NP (DT this))) (VP (VBZ is) (VP (VBG getting) (PP (TO to))))))
+-20.092384446818 -64.754177605902
+(S1 (S (CC and) (PP (IN if) (NP (DT this))) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))
+-20.256433956533 -61.994967358394
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (SBAR (S (VP (TO to))))))))))
+-20.270710197672 -66.480477318742
+(S1 (X (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))))
+-20.272621533154 -66.498600835266
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (X (TO to)))))))))
+-20.287291801894 -64.195346362136
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting))))) (VP (TO to))))
+-20.293100067099 -64.099224795067
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (S (VP (TO to))))))))))
+-20.510569310569 -65.095325479771
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (ADJP (VBG getting) (PP (TO to))))))))
+-20.649954331315 -66.729602921172
+(S1 (S (CC and) (ADVP (IN if)) (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (PP (TO to))))))
+-20.672133047570 -66.061631540687
+(S1 (S (CC and) (VP (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (PP (TO to))))))))
+-20.708542631451 -64.733399856917
+(S1 (S (CC and) (ADVP (IN if)) (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))
+-20.787828889744 -65.688322880529
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (SBAR (S (VP (TO to))))))))))
+-21.051232617706 -64.065428476432
+(S1 (S (CC and) (VP (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))))
+-21.071398878346 -66.457022545629
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (X (PP (TO to))))))))))
+-21.280164717579 -67.023852994099
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (VP (TO to)))))))))
+-21.542951149824 -60.455968758045
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (PP (TO to))))))))
+-21.915967217173 -58.459765693790
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (S (VP (TO to)))))))))
+-21.939861804398 -62.618955351847
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (X (TO to))))))))
+-22.120476259507 -66.445178516699
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (SBAR (TO to)))))))))
+-22.184662076337 -64.858330595937
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting))))) (PP (TO to))))
+-22.328107098971 -63.441596240100
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (ADJP (VBG getting)) (S (VP (TO to))))))))
+-22.981069685970 -64.730587148534
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (VP (TO to))))))))
+-23.029429881694 -67.184092467142
+(S1 (X (CC and) (S (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting))))) (VP (TO to)))))
+-23.155901414281 -67.134951762235
+(S1 (S (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (ADJP (VBG getting)) (S (VP (TO to))))))))
+-23.162351181756 -66.611106083539
+(S1 (FRAG (CC and) (SBAR (IN if) (S (NP (DT this)) (VP (VBZ is) (ADJP (ADJP (VBG getting)) (PP (TO to))))))))
+-23.334271182800 -66.270732584344
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (X (PP (TO to)))))))))
+-23.567560928647 -63.581295852169
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (VP (VBG getting) (SBAR (TO to))))))))
+-24.509069029946 -67.254849247147
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (PP (TO to)))))))))
+-25.059021578130 -66.980207326321
+(S1 (FRAG (CC and) (SBAR (WHNP (IN if)) (S (NP (DT this)) (VP (VBZ is) (S (VP (VBG getting) (S (VP (TO to))))))))))
+

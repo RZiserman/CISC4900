@@ -1,0 +1,102 @@
+50 x
+-26.284639652344 -105.263035954325
+(S1 (S (NP (DT this)) (VP (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-26.742711477556 -99.883128210951
+(S1 (S (NP (DT this)) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-26.980015549609 -99.921938244380
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-27.190429235231 -108.222652818384
+(S1 (S (NP (DT this)) (VP (MD might) (VP (VBP age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))))
+-27.220051000184 -105.548750280166
+(S1 (S (NP (DT this)) (VP (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-27.431531234596 -108.791587773776
+(S1 (S (NP (DT this)) (VP (MD might) (VP (NN age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-27.758243775645 -106.484155003912
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (SBAR (S (NP (PRP me)) (VP (VBP date) (NP (PRP me)) (ADVP (RB here))))))))
+-27.763733422607 -100.168842536792
+(S1 (S (NP (DT this)) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))
+-27.822588880019 -102.876624846918
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-27.915426914175 -100.207652570222
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))
+-27.933627220915 -103.410466888825
+(S1 (S (NP (DT this)) (MD might) (VP (NN age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-28.125840638827 -108.508367279671
+(S1 (S (NP (DT this)) (VP (MD might) (VP (VBP age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))))
+-28.307648206971 -105.392167050977
+(S1 (S (NP (DT this)) (MD might) (VP (NN age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-28.452553182436 -109.077302099617
+(S1 (S (NP (DT this)) (VP (MD might) (VP (NN age) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-28.758000283615 -103.162339308205
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-28.954649168755 -103.696181214666
+(S1 (S (NP (DT this)) (MD might) (VP (NN age) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))
+-29.225424420567 -108.970918674495
+(S1 (S (DT this) (VP (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-29.343224582689 -105.677881512264
+(S1 (S (NP (DT this)) (MD might) (VP (NN age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-29.438014147667 -108.760172997871
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (SBAR (S (NP (PRP me)) (VP (VBP date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-29.530559466228 -108.806786253270
+(S1 (S (NP (DT this)) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (PRT (RB here)))))))
+-29.692132372991 -103.591010931121
+(S1 (S (DT this) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-29.767863529918 -108.845596286700
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (PRT (RB here)))))))
+-29.801389826538 -108.961512479333
+(S1 (FRAG (S (NP (DT this)) (VP (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))))
+-29.929655911762 -107.934241844833
+(S1 (S (NP (DT this) (NN might)) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-30.245645543996 -105.900133493383
+(S1 (S (NP (DT this) (NN might)) (VP (NN age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-30.251788378961 -103.581604723846
+(S1 (FRAG (S (NP (DT this)) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-30.339062168942 -106.835443741908
+(S1 (S (NP (DT this) (NN might) (NN age)) (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))
+-30.411630524015 -105.657039281070
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)))) (ADVP (RB here)))))
+-30.576643551804 -108.115557898952
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (NP (PRP me)) (S (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-30.623367162930 -107.881833760005
+(S1 (S (NP (DT this) (NN might)) (VP (NN age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-30.713154348709 -103.876725256962
+(S1 (S (DT this) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))
+-30.810918620255 -108.903681205242
+(S1 (S (NP (DT this) (MD might)) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-30.865067287480 -108.219956170674
+(S1 (S (NP (DT this) (NN might)) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))
+-31.126494840187 -107.892316767682
+(S1 (S (NP (DT this)) (MD might) (VP (NN age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)))) (ADVP (RB here)))))
+-31.272810326801 -103.867319049687
+(S1 (FRAG (S (NP (DT this)) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-31.320773891836 -106.185847819224
+(S1 (S (NP (DT this) (NN might)) (VP (NN age) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))
+-31.338131904660 -107.121158141537
+(S1 (S (NP (DT this) (NN might) (NN age)) (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))
+-31.512054927522 -108.401272314040
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (NP (PRP me)) (S (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))
+-31.658943538648 -108.167548221292
+(S1 (S (NP (DT this) (NN might)) (VP (NN age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-31.706861902813 -107.990737486897
+(S1 (SBAR (DT this) (S (VP (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))))
+-32.150373189969 -109.140938589394
+(S1 (S (NP (DT this)) (MD might) (VP (VBP age) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (PRP me))))) (ADVP (RB here)))))
+-32.190251903236 -102.610829731410
+(S1 (SBAR (DT this) (S (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))))
+-32.291400162689 -103.380045277108
+(S1 (FRAG (NP (DT this) (NN might) (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here))))))
+-32.293713474894 -108.500322171619
+(S1 (FRAG (SBAR (S (NP (DT this)) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))))
+-32.642273250652 -108.276451812738
+(S1 (SBAR (DT this) (S (VP (MD might) (VP (VBP age) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))))
+-33.094944118097 -109.054197332368
+(S1 (NP (NP (DT this) (NN might) (NN age)) (SBAR (S (NP (PRP me)) (VP (VB date) (NP (PRP me)) (ADVP (RB here)))))))
+-33.209981098406 -103.665759738395
+(S1 (FRAG (NP (DT this) (NN might) (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))
+-33.211273878954 -102.896544057251
+(S1 (SBAR (DT this) (S (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here)))))))))
+-33.239913784042 -108.251479946796
+(S1 (FRAG (NP (DT this) (NN might) (NN age)) (S (NP (PRP me)) (VP (VBP date) (NP (PRP me)) (ADVP (RB here))))))
+-33.314735422734 -108.786036497460
+(S1 (FRAG (SBAR (S (NP (DT this)) (VP (MD might) (NP (NN age)) (S (NP (PRP me)) (VP (VB date) (NP (NP (PRP me)) (ADVP (RB here))))))))))
+

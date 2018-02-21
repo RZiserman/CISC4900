@@ -1,0 +1,102 @@
+50 x
+-12.602424214893 -47.352742434830
+(S1 (S (NP (DT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-13.417878031778 -46.920904848684
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-15.475186279445 -56.147373097583
+(S1 (S (DT that) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-15.529710319900 -48.956372400060
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))))
+-15.561591266451 -51.082444433481
+(S1 (SBAR (DT that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-15.831199228625 -54.059686221977
+(S1 (NP (WHNP (WDT that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-15.899837465554 -54.389804866245
+(S1 (SBAR (IN that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-16.058897749565 -60.314564317762
+(S1 (S (NP (DT that)) (VP (VBZ makes) (NP (JJ my) (NN foot)))))
+-16.073783708865 -54.657892328642
+(S1 (S (WHNP (WDT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-16.176942077258 -58.341677433953
+(S1 (S (NP (DT that)) (VP (NNS makes) (NP (PRP$ my) (NN foot)))))
+-16.331880412468 -55.175920013298
+(S1 (S (NP (DT that)) (VP (VBZ makes) (S (NP (PRP$ my) (NN foot))))))
+-16.414002379434 -53.825254193476
+(S1 (SBAR (WDT that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-16.673496223663 -59.882726731617
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (JJ my) (NN foot))))))
+-16.700786751896 -52.989437353383
+(S1 (S (NP (IN that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-16.777069608744 -53.272585137900
+(S1 (S (NP (WDT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-17.092153085414 -54.744082376007
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (S (NP (PRP$ my) (NN foot)))))))
+-17.170798740852 -54.807996187418
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-17.249039673773 -55.416362425878
+(S1 (SBAR (WHNP (DT that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-17.505319069172 -54.348936546268
+(S1 (FRAG (SBAR (IN that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))))
+-17.725916338991 -57.068881578364
+(S1 (S (RB that) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-17.773809460816 -58.962889336386
+(S1 (PP (IN that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-17.826375595367 -60.962792820941
+(S1 (SBAR (S (NP (DT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-17.998464274414 -57.298344871531
+(S1 (FRAG (WHNP (WDT that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-18.299007281073 -59.441613286843
+(S1 (SBAR (WHNP (IN that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-18.650444998749 -62.676904712423
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ makes)) (NP (PRP$ my) (NN foot)))))
+-18.690398911784 -61.918194282993
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (JJ my) (NN foot)))))))
+-18.904009146068 -61.713844580655
+(S1 (NP (IN that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-19.088753257584 -62.574578310466
+(S1 (S (NP (IN that)) (VP (NNS makes) (NP (PRP$ my) (NN foot)))))
+-19.106717981827 -60.850736255930
+(S1 (FRAG (NP (DT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-19.113979225547 -61.928115851732
+(S1 (S (NP (WDT that)) (VP (NNS makes) (NP (PRP$ my) (NN foot)))))
+-19.173184499476 -62.546849164976
+(S1 (S (PP (IN that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))))
+-19.203985373535 -56.779549927383
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (S (NP (PRP$ my) (NN foot))))))))
+-19.230856140087 -58.905621960804
+(S1 (SBAR (DT that) (S (VP (VBZ makes) (S (NP (PRP$ my) (NN foot)))))))
+-19.271290136882 -58.989652836306
+(S1 (FRAG (SBAR (WDT that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))))
+-19.535538573898 -61.882863719428
+(S1 (NP (WHNP (WDT that)) (S (VP (VBZ makes) (S (NP (PRP$ my) (NN foot)))))))
+-19.576182694287 -62.805103862607
+(S1 (FRAG (NP (DT that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-19.619642716402 -62.212982393568
+(S1 (SBAR (IN that) (S (VP (VBZ makes) (S (NP (PRP$ my) (NN foot)))))))
+-19.718731546440 -62.481069907110
+(S1 (S (WHNP (WDT that)) (VP (VBZ makes) (S (NP (PRP$ my) (NN foot))))))
+-19.726305190686 -61.758319342821
+(S1 (FRAG (PP (IN that) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))))
+-19.826926807495 -62.431067491075
+(S1 (FRAG (WHNP (WDT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-20.088277433070 -61.648431720799
+(S1 (SBAR (WDT that) (S (VP (VBZ makes) (S (NP (PRP$ my) (NN foot)))))))
+-20.480783329470 -60.812614931851
+(S1 (S (NP (IN that)) (VP (VBZ makes) (S (NP (PRP$ my) (NN foot))))))
+-20.485129485462 -61.247869813991
+(S1 (FRAG (SBAR (WHNP (IN that)) (S (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))))
+-20.511535986319 -61.095762716368
+(S1 (S (NP (WDT that)) (VP (VBZ makes) (S (NP (PRP$ my) (NN foot))))))
+-20.809739214671 -62.631173571151
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ makes) (S (NP (PRP$ my) (NN foot)))))))
+-21.225124320021 -62.172114073590
+(S1 (FRAG (SBAR (IN that) (S (VP (VBZ makes) (S (NP (PRP$ my) (NN foot))))))))
+-21.305554342378 -62.022776835033
+(S1 (FRAG (NP (WDT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+-21.351540982619 -60.759195752712
+(S1 (FRAG (S (NP (WDT that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-21.465053455550 -60.508654746625
+(S1 (FRAG (S (NP (IN that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot))))))
+-22.055407219700 -62.853683620381
+(S1 (FRAG (NP (IN that)) (VP (VBZ makes) (NP (PRP$ my) (NN foot)))))
+

@@ -1,0 +1,102 @@
+50 x
+-39.746709258317 -123.187459245538
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-39.810318161661 -122.958604695682
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-40.000935961289 -123.091363370045
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-40.282251577699 -122.565480976676
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-40.445109862793 -122.469385101183
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-40.468010491615 -123.879012607477
+(S1 (S (RB Well) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-40.512750886153 -122.348516526773
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))
+-40.531619394960 -123.650158057621
+(S1 (S (RB Well) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-40.576359789498 -122.119661976917
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))
+-40.622172093094 -122.232986035061
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-40.642088333356 -123.997691648584
+(S1 (S (ADVP (RB Well)) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))
+-40.705697236701 -123.768837098728
+(S1 (S (ADVP (RB Well)) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))
+-40.722237166709 -123.782916731984
+(S1 (S (RB Well) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-40.766977589125 -122.252420651280
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))
+-40.865792281007 -123.671651063374
+(S1 (S (INTJ (UH Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-40.896315036328 -123.901595773091
+(S1 (S (ADVP (RB Well)) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))
+-40.929401156474 -123.442796513518
+(S1 (S (INTJ (UH Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-40.991367925742 -124.037697991667
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (RB better) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-41.003552783120 -123.257034338615
+(S1 (S (RB Well) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-41.048293205536 -121.726538257912
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))
+-41.120018956101 -123.575555187881
+(S1 (S (INTJ (UH Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-41.166411096092 -123.160938463122
+(S1 (S (RB Well) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-41.167108703323 -124.181455060690
+(S1 (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-41.177630652739 -123.375713379722
+(S1 (S (ADVP (RB Well)) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))
+-41.211151490630 -121.630442382419
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))
+-41.298328134720 -122.581434329601
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-41.340488937832 -123.279617504229
+(S1 (S (ADVP (RB Well)) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))
+-41.343473326393 -122.924539397000
+(S1 (S (RB Well) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-41.361937038064 -122.352579779745
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-41.388213720931 -121.394043316297
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))
+-41.401334572511 -123.049672794513
+(S1 (S (INTJ (UH Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-41.517551168134 -123.043218438107
+(S1 (S (ADVP (RB Well)) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))
+-41.552554837692 -122.485338454108
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RB better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-41.564192857605 -122.953576919020
+(S1 (S (INTJ (UH Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-41.741255115784 -122.717177852898
+(S1 (S (INTJ (UH Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-41.757409553579 -123.198755272902
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (RB better) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))
+-41.833870454102 -121.959456060740
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-41.920866124830 -124.168733826085
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (ADVP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))
+-41.933150303282 -123.342512341926
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))
+-41.956851340114 -123.419084079591
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))
+-41.996728739196 -121.863360185246
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-42.173790969497 -121.626961119125
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))))
+-42.336502023195 -123.687832632565
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))
+-42.464276563293 -123.817403152438
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (PRP it))))) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)))) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))
+-42.542986802145 -123.431673075730
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (RB better) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))))
+-42.660800643534 -123.970427873850
+(S1 (S (INTJ (RB Well)) (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-42.718727551848 -123.575430144754
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (NN taste) (ADVP (RBR better)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))
+-42.742428588680 -123.652001882419
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (JJR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))))
+-42.860542381859 -124.050320955265
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADVP (RBR better)))) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))))))))))))))
+-43.122079271762 -123.920750435392
+(S1 (S (RB Well) (S (NP (PRP it)) (VP (MD will) (VP (VB make) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (S (NP (PRP them)) (VP (VB taste) (ADJP (ADJP (RBR better)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))))))))))))))))
+

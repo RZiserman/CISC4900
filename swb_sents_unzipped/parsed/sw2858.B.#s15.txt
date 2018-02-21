@@ -1,0 +1,102 @@
+50 x
+-15.178937770386 -50.927304683359
+(S1 (NP (NP (JJ Same) (JJ same) (NN situation)) (ADVP (RB here))))
+-16.674853913094 -56.487356679448
+(S1 (NP (JJ Same) (JJ same) (NN situation) (RB here)))
+-17.279805345548 -58.849644761740
+(S1 (NP (JJ Same) (JJ same) (NN situation) (ADVP (RB here))))
+-17.722115774996 -54.693522691493
+(S1 (FRAG (NP (NP (JJ Same) (JJ same) (NN situation)) (ADVP (RB here)))))
+-17.973500059550 -60.817494392908
+(S1 (NP (NP (JJ Same) (JJ same) (NN situation)) (RB here)))
+-18.323138257481 -57.064478233042
+(S1 (NP (NP (JJ Same) (JJ same) (NN situation)) (NP (RB here))))
+-18.479092322381 -57.074202795174
+(S1 (S (NP (NP (JJ Same) (JJ same) (NN situation)) (ADVP (RB here)))))
+-18.653711382766 -55.732691923077
+(S1 (FRAG (NP (JJ Same) (JJ same) (NN situation)) (ADVP (RB here))))
+-19.197425857653 -60.236895775371
+(S1 (S (NP (JJ Same) (JJ same) (NN situation)) (ADVP (RB here))))
+-19.347420350550 -57.920446563620
+(S1 (S (NP (JJ Same) (JJ same) (NN situation)) (ADJP (RB here))))
+-19.349943027438 -59.366498741747
+(S1 (FRAG (NP (JJ Same) (JJ same) (NN situation) (RB here))))
+-19.889247789102 -61.565125058117
+(S1 (FRAG (NP (JJ Same) (JJ same) (NN situation) (ADVP (RB here)))))
+-20.245602814572 -60.858222296738
+(S1 (ADVP (NP (JJ Same) (JJ same) (NN situation)) (RB here)))
+-20.491917924402 -56.276439308907
+(S1 (FRAG (NP (JJ Same) (JJ same) (NN situation)) (ADJP (RB here))))
+-20.611953550308 -63.315916212505
+(S1 (S (NP (JJ Same) (JJ same) (NN situation) (RB here))))
+-20.614256393541 -60.171167783877
+(S1 (FRAG (NP (NP (JJ Same) (JJ same) (NN situation)) (NP (RB here)))))
+-20.704706053553 -60.202695373458
+(S1 (FRAG (NP (JJ Same) (JJ same) (NN situation)) (NP (RB here))))
+-20.895579020635 -68.044399478778
+(S1 (S (VP (JJ Same) (NP (NP (JJ same) (NN situation)) (ADVP (RB here))))))
+-20.916014457649 -64.968240911186
+(S1 (NP (NP (JJ Same)) (NP (JJ same) (NN situation)) (ADVP (RB here))))
+-20.923663948000 -66.659044386938
+(S1 (FRAG (JJ Same) (NP (NP (JJ same) (NN situation)) (ADVP (RB here)))))
+-21.024642673670 -62.426015339261
+(S1 (ADJP (NP (JJ Same) (JJ same) (NN situation)) (RB here)))
+-21.095786847143 -65.996540256381
+(S1 (S (NP (JJ Same) (JJ same) (NN situation) (ADVP (RB here)))))
+-21.177637306283 -66.803022695849
+(S1 (FRAG (NP (NP (JJ Same) (JJ same) (NN situation)) (RB here))))
+-21.415424284839 -65.667973756199
+(S1 (S (NP (JJ Same)) (NP (NP (JJ same) (NN situation)) (ADVP (RB here)))))
+-21.516391830843 -64.467502339060
+(S1 (S (ADJP (JJ Same)) (NP (NP (JJ same) (NN situation)) (ADVP (RB here)))))
+-21.573646783247 -64.261077933819
+(S1 (NP (NP (NP (JJ Same)) (JJ same) (NN situation)) (ADVP (RB here))))
+-21.646076304856 -66.536350648324
+(S1 (NP (NP (ADJP (JJ Same) (JJ same)) (NN situation)) (ADVP (RB here))))
+-21.664538268171 -64.491922705669
+(S1 (FRAG (ADJP (JJ Same)) (NP (NP (JJ same) (NN situation)) (ADVP (RB here)))))
+-21.773209522628 -69.187458286879
+(S1 (S (VP (JJ Same) (NP (JJ same) (NN situation) (ADVP (RB here))))))
+-21.858236674824 -62.568685315035
+(S1 (FRAG (ADVP (NP (JJ Same) (JJ same) (NN situation)) (RB here))))
+-21.876420794845 -65.730143783096
+(S1 (S (ADJP (NP (JJ Same) (JJ same) (NN situation)) (RB here))))
+-22.319553363033 -67.313825284358
+(S1 (NP (NP (JJ Same) (NX (JJ same) (NN situation))) (ADVP (RB here))))
+-22.487469578409 -66.386674031537
+(S1 (NP (NP (ADJP (JJ Same)) (JJ same) (NN situation)) (ADVP (RB here))))
+-22.605504086290 -66.308462165822
+(S1 (S (NP (NP (JJ Same) (JJ same) (NN situation)) (NP (RB here)))))
+-22.696900592028 -64.889938882075
+(S1 (FRAG (ADJP (NP (JJ Same) (JJ same) (NN situation)) (RB here))))
+-22.864991247498 -69.190025800189
+(S1 (NP (ADJP (JJ Same)) (JJ same) (NN situation) (RB here)))
+-23.143247630755 -68.981338119221
+(S1 (NP (NP (NP (JJ Same)) (JJ same) (NN situation)) (NP (RB here))))
+-23.200190438576 -67.616320736759
+(S1 (NP (NP (JJ Same)) (ADVP (NP (JJ same) (NN situation)) (RB here))))
+-23.254141478760 -69.244651632456
+(S1 (S (ADVP (NP (JJ Same) (JJ same) (NN situation)) (RB here))))
+-23.257693606548 -67.192730103004
+(S1 (FRAG (NP (JJ Same) (JJ same) (NN situation)) (PP (RB here))))
+-23.311069602310 -69.088350768586
+(S1 (FRAG (ADJP (JJ Same) (NP (JJ same) (NN situation))) (ADVP (RB here))))
+-23.341109998531 -67.961636422994
+(S1 (NP (NP (NP (JJ Same)) (NP (JJ same) (NN situation))) (ADVP (RB here))))
+-23.382774329038 -68.124203895859
+(S1 (FRAG (JJ Same) (ADVP (NP (JJ same) (NN situation)) (RB here))))
+-23.735351567349 -67.019158604649
+(S1 (FRAG (NP (NP (JJ Same)) (NP (JJ same) (NN situation))) (ADVP (RB here))))
+-23.958698331824 -68.932610295414
+(S1 (FRAG (ADJP (JJ Same)) (NP (NP (JJ same) (NN situation)) (NP (RB here)))))
+-24.116824771131 -68.027295882074
+(S1 (FRAG (NP (NP (NP (JJ Same)) (JJ same) (NN situation)) (ADVP (RB here)))))
+-24.669899534269 -68.137389463723
+(S1 (FRAG (NP (ADJP (JJ Same)) (JJ same) (NN situation)) (ADVP (RB here))))
+-24.677207149498 -68.412070193109
+(S1 (FRAG (ADJP (JJ Same)) (ADVP (NP (JJ same) (NN situation)) (RB here))))
+-25.573558108986 -67.562905990479
+(S1 (FRAG (NP (NP (JJ Same)) (NP (JJ same) (NN situation))) (ADJP (RB here))))
+-26.508106075906 -68.681136849553
+(S1 (FRAG (NP (ADJP (JJ Same)) (JJ same) (NN situation)) (ADJP (RB here))))
+

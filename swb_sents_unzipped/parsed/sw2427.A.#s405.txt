@@ -1,0 +1,102 @@
+50 x
+-24.729470031357 -92.879884718680
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))
+-25.693276610897 -90.953059382891
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-25.757518141264 -96.935799623817
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))
+-27.025546451617 -99.127691551739
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (NN yellow) (NNS peppers)) (NP (DT this) (NN year)))))
+-27.481648202759 -97.989740411657
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-28.104662418396 -103.105733479155
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (JJ yellow) (NN peppers)) (NP (DT this) (NN year)))))
+-28.124798082340 -100.704214254686
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (JJ yellow) (NNS peppers))) (NP (DT this) (NN year))))
+-28.186645213309 -102.998661510044
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (NN yellow) (NNS peppers)) (NP (DT this) (NN year)))))
+-28.360007897471 -101.292076585933
+(S1 (S (NP (PRP We)) (VP (VBD planted) (SBAR (S (NP (DT some) (NN yellow)) (VP (VBZ peppers) (NP (DT this) (NN year))))))))
+-28.394218978313 -99.094432339499
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (DT some) (NN yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-28.597647075253 -106.424961266406
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (JJ yellow) (NN peppers)) (NP (DT this) (NN year)))))
+-29.062775353295 -107.473441190327
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (ADJP (RB some) (JJ yellow)) (NNS peppers)) (NP (DT this) (NN year)))))
+-29.459519825965 -105.152662599105
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (RB some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))
+-29.489987761766 -105.903399656883
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (ADJP (RB some) (JJ yellow)) (NNS peppers)) (NP (DT this) (NN year))))))
+-29.798381182018 -106.463332515260
+(S1 (S (NP (PRP We)) (VP (VBD planted) (DT some) (NP (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))
+-29.877269428388 -108.845771991173
+(S1 (S (NP (PRP We)) (VP (VBD planted) (S (NP (DT some) (NN yellow)) (VP (VBZ peppers) (NP (DT this) (NN year)))))))
+-29.929427628933 -103.804208927006
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (NP (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-30.065302671761 -108.549340920884
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (DT some) (JJ yellow) (NN peppers)) (NP (DT this) (NN year))))))
+-30.222129827941 -105.462597056322
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (NP (JJ yellow) (NNS peppers))) (NP (DT this) (NN year)))))
+-30.227413766611 -106.604327060497
+(S1 (S (NP (PRP We)) (VP (VP (VBD planted) (NP (DT some) (JJ yellow) (NNS peppers))) (NP (DT this) (NN year)))))
+-30.241923012547 -101.905156783120
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (RB some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-30.388066324073 -103.691950832715
+(S1 (S (NP (PRP We)) (VP (VBD planted) (S (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-30.395643394237 -106.952021087745
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (NN yellow) (NNS peppers))) (NP (DT this) (NN year))))
+-30.415987988539 -106.131113368265
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (NP (DT some) (NN yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-30.626545671596 -104.171714496604
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (JJ yellow) (NX (NNS peppers))) (NP (DT this) (NN year)))))
+-30.674837651349 -103.429076749093
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (DT some) (JJ yellow) (NX (NNS peppers))) (NP (DT this) (NN year))))))
+-30.715860135722 -104.445317981271
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (NX (JJ yellow) (NNS peppers))) (NP (DT this) (NN year)))))
+-30.749545453342 -106.820852316162
+(S1 (S (NP (PRP We)) (VP (VBN planted) (S (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-30.842534329173 -108.887014555471
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (JJ yellow) (NNS peppers))) (NP (DT this) (NN year))))
+-30.900485014758 -104.624129550522
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (DT some) (NX (JJ yellow) (NNS peppers))) (NP (DT this) (NN year))))))
+-30.967405662674 -107.579333622722
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (NP (JJ yellow) (NNS peppers))) (NP (DT this) (NN year)))))
+-31.023150815865 -105.962598845522
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (JJ yellow) (NX (NNS peppers))) (NP (DT this) (NN year)))))
+-31.318862420050 -105.818877644414
+(S1 (S (NP (PRP We)) (VP (VBD planted) (SBAR (S (NP (DT some) (JJ yellow)) (VP (VBZ peppers) (NP (DT this) (NN year))))))))
+-31.388776032963 -107.089451302338
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (NX (JJ yellow) (NNS peppers))) (NP (DT this) (NN year)))))
+-31.442555356153 -107.269616526500
+(S1 (S (NP (PRP We)) (VP (VBD planted) (SBAR (S (NP (DT some) (NN yellow)) (VP (NNS peppers) (NP (DT this) (NN year))))))))
+-31.452122050274 -102.090405981328
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (ADJP (JJ yellow)) (NNS peppers)) (NP (DT this) (NN year)))))
+-31.510495192278 -107.927091465913
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (DT some)) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))
+-31.527982233815 -108.605648807308
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (NP (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-31.634933782269 -100.157438588157
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (DT some) (ADJP (JJ yellow)) (NNS peppers)) (NP (DT this) (NN year))))))
+-31.773455916046 -108.941837811887
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (NP (RB some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-32.219463969943 -105.703989355254
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (ADJP (JJ yellow)) (NNS peppers)) (NP (DT this) (NN year)))))
+-32.279459132172 -107.148730366394
+(S1 (S (NP (PRP We)) (VP (VBN planted) (S (NP (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))))
+-32.295428943010 -107.520208065015
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (JJ yellow) (NNS peppers)) (S (NP (DT this) (NN year))))))
+-32.456440653350 -108.160122408991
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (ADJP (DT some) (JJ yellow)) (NNS peppers)) (NP (DT this) (NN year))))))
+-32.549570731614 -108.988966030827
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (DT some) (JJ yellow) (NNS peppers)) (S (NP (DT this) (NN year))))))
+-32.655862915080 -108.282838101236
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (DT some) (JJ yellow) (NNS peppers)) (SBAR (S (NP (DT this) (NN year)))))))
+-32.661028199260 -105.729694296754
+(S1 (S (NP (PRP We)) (VP (VBD planted) (SBAR (S (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))))
+-32.880613179134 -105.806155520529
+(S1 (S (NP (PRP We)) (VP (VBD planted) (NP (NP (NP (DT some)) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year))))))
+-32.971815851904 -107.117975480570
+(S1 (S (NP (PRP We)) (VP (VBD planted) (S (NP (NP (DT some) (JJ yellow) (NNS peppers)) (NP (DT this) (NN year)))))))
+-33.317457425768 -107.194119616923
+(S1 (S (NP (PRP We)) (VP (VBN planted) (NP (NP (DT some) (ADJP (JJ yellow)) (NNS peppers)) (NP (DT this) (NN year))))))
+

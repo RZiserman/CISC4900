@@ -1,0 +1,102 @@
+50 x
+-15.443115361948 -59.747988742588
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (PP (IN with) (NP (NN junk)))))))
+-16.965501498534 -64.365301612606
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (VP (VBN bombarded) (PP (IN with) (NP (NN junk))))))))
+-17.026348269843 -68.612632065295
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBD bombarded) (PP (IN with) (NP (NN junk)))))))
+-17.745381899351 -64.975134519370
+(S1 (S (NP (PRP They)) (VP (VB get) (VP (VBN bombarded) (PP (IN with) (NP (NN junk)))))))
+-18.394172783232 -64.306298094659
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (PP (IN with) (S (NP (NN junk))))))))
+-18.641140569272 -64.604774881367
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (PP (IN with) (S (VP (NN junk))))))))
+-18.796850335348 -72.133933536408
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (PP (IN with) (NP (VB junk)))))))
+-18.805363673784 -63.446174457426
+(S1 (S (NP (PRP They)) (VP (VBP get) (PP (VBN bombarded) (PP (IN with) (NP (NN junk)))))))
+-19.401445268739 -71.723836251095
+(S1 (S (NP (PRP They)) (VP (VB get) (S (VP (VBN bombarded) (PP (IN with) (NP (NN junk))))))))
+-19.518267101786 -69.230239164427
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (PP (IN with) (NN junk))))))
+-19.916558939332 -68.923611030712
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (VP (VBN bombarded) (PP (IN with) (S (NP (NN junk)))))))))
+-19.919440895158 -72.861565796739
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBD bombarded) (PP (IN with) (S (NP (NN junk))))))))
+-20.112127620353 -65.241698811071
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBN bombarded) (PP (IN with) (NP (NN junk)))))))
+-20.123674323256 -75.013998479512
+(S1 (S (NP (PRP They)) (VBP get) (VP (VBD bombarded) (PP (IN with) (NP (NN junk))))))
+-20.162551018410 -73.160042583448
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBD bombarded) (PP (IN with) (S (VP (NN junk))))))))
+-20.163526725372 -69.222087817421
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (VP (VBN bombarded) (PP (IN with) (S (VP (NN junk)))))))))
+-20.168713953698 -66.239926211967
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (ADJP (VBN bombarded) (PP (IN with) (NP (NN junk))))))))
+-20.263175867764 -72.486871605457
+(S1 (S (NP (PRP They)) (VP (VBP get) (SBAR (S (VP (VBN bombarded) (PP (IN with) (NP (NN junk)))))))))
+-20.696439320635 -69.533443871441
+(S1 (S (NP (PRP They)) (VP (VB get) (VP (VBN bombarded) (PP (IN with) (S (NP (NN junk))))))))
+-20.762647805671 -67.518958504244
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (SBAR (IN with) (S (NP (NN junk))))))))
+-20.943407106674 -69.831920658149
+(S1 (S (NP (PRP They)) (VP (VB get) (VP (VBN bombarded) (PP (IN with) (S (VP (NN junk))))))))
+-21.040653282976 -73.847552190363
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (VP (VBN bombarded) (PP (IN with) (NN junk)))))))
+-21.226730810556 -72.571773498021
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (VP (VBN bombarded))) (PP (IN with) (NP (NN junk))))))
+-21.273328964117 -74.110024311084
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBD bombarded) (PP (IN with) (NP (NN junk)))))))
+-21.561812166852 -68.900699221196
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (SBAR (IN with) (S (VP (NN junk))))))))
+-21.680880280857 -72.772637303667
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (SBAR (IN with) (NN junk))))))
+-21.820533639188 -74.457384941209
+(S1 (S (NP (PRP They)) (VP (VB get) (VP (VBN bombarded) (PP (IN with) (NN junk))))))
+-21.827086515562 -71.848577407005
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (PRT (IN with)) (NP (NN junk))))))
+-22.279319300323 -72.959622341488
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (NP (IN with) (NN junk))))))
+-22.360294168655 -72.704649754436
+(S1 (S (NP (PRP They)) (VP (VBP get) (PP (VBN bombarded) (PP (IN with) (NN junk))))))
+-22.387024898911 -72.375972802717
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBN bombarded) (ADVP (IN with) (NN junk))))))
+-22.390444471549 -74.004043935291
+(S1 (S (NP (PRP They)) (VP (VBP get) (VP (VBD bombarded) (SBAR (IN with) (S (NP (NN junk))))))))
+-22.432231277286 -70.319037437045
+(S1 (S (NP (PRP They)) (VP (VB get) (ADJP (VBN bombarded) (PP (IN with) (NP (NN junk)))))))
+-22.446052519553 -70.783572521845
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBN bombarded)) (PP (IN with) (NP (NN junk))))))
+-22.527965328071 -72.268777007193
+(S1 (S (NP (PRP They)) (VP (VB get) (PP (VBN bombarded) (PP (IN with) (NP (NN junk)))))))
+-22.680143021233 -72.928325282114
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (VP (VBN bombarded) (SBAR (IN with) (S (NP (NN junk)))))))))
+-22.716151641760 -73.919087831295
+(S1 (S (NP (PRP They)) (VP (VB get) (S (ADJP (VBN bombarded) (PP (IN with) (NP (NN junk))))))))
+-22.729004585445 -70.126871377297
+(S1 (S (NP (PRP They)) (VP (VBP get) (PP (VBN bombarded) (PP (IN with) (S (NP (NN junk))))))))
+-22.930446769950 -73.437671129862
+(S1 (S (NP (PRP They)) (VP (VB get) (VP (VBN bombarded) (SBAR (IN with) (S (NP (NN junk))))))))
+-22.975972368697 -70.425348164005
+(S1 (S (NP (PRP They)) (VP (VBP get) (PP (VBN bombarded) (PP (IN with) (S (VP (NN junk))))))))
+-23.479307382414 -74.310065999066
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (VP (VBN bombarded) (SBAR (IN with) (S (VP (NN junk)))))))))
+-23.729611131131 -74.819411846814
+(S1 (S (NP (PRP They)) (VP (VB get) (VP (VBN bombarded) (SBAR (IN with) (S (VP (NN junk))))))))
+-23.833089014093 -71.127093289884
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBN bombarded) (PP (IN with) (S (NP (NN junk))))))))
+-23.889675347437 -72.125320690780
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (ADJP (VBN bombarded) (PP (IN with) (S (NP (NN junk)))))))))
+-24.080056800132 -71.425570076593
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBN bombarded) (PP (IN with) (S (VP (NN junk))))))))
+-24.136643133477 -72.423797477489
+(S1 (S (NP (PRP They)) (VP (VBP get) (S (ADJP (VBN bombarded) (PP (IN with) (S (VP (NN junk)))))))))
+-24.887934976589 -71.882599190174
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBN bombarded) (SBAR (IN with) (S (NP (NN junk))))))))
+-25.244797345794 -73.661494189847
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (ADJP (VBN bombarded)) (PP (IN with) (NP (NN junk)))))))
+-25.388663358459 -74.961746878051
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBN bombarded)) (PP (IN with) (S (NP (NN junk)))))))
+-26.034331634703 -74.509886730096
+(S1 (S (NP (PRP They)) (VP (VBP get) (ADJP (VBN bombarded) (SBAR (IN with) (S (VP (NN junk))))))))
+

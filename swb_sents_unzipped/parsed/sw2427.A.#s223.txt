@@ -1,0 +1,102 @@
+50 x
+-12.624060672905 -51.639696715322
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (PP (IN through) (NP (PRP it))))))
+-13.465587939934 -55.304389977813
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (PP (IN through) (NP (PRP it))))))
+-15.348167918202 -56.441485828861
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (PP (IN through) (NP (PRP it))))))
+-15.385634068984 -58.967807215739
+(S1 (S (NP (PRP They)) (VP (ADVP (RB really)) (VBP go) (PP (IN through) (NP (PRP it))))))
+-15.408631564515 -57.749030700991
+(S1 (S (NP (PRP They)) (RB really) (VP (VBP go) (PP (IN through) (NP (PRP it))))))
+-16.145807904912 -60.859508177295
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (S (VP (VBP go) (PP (IN through) (NP (PRP it)))))))
+-16.200373201291 -62.869772982350
+(S1 (S (NP (PRP They)) (VP (ADVP (RB really)) (VB go) (PP (IN through) (NP (PRP it))))))
+-16.786187239437 -64.335104719212
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (S (VP (VB go) (PP (IN through) (NP (PRP it)))))))
+-16.905846223681 -59.768530221779
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (PRT (RP through)) (NP (PRP it)))))
+-17.083882262190 -62.908609995671
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (ADVP (RB through)) (NP (PRP it)))))
+-17.225526945435 -61.469022327645
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (ADVP (RB through)) (NP (PRP it)))))
+-17.444779572386 -58.995150199030
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (PRT (RP through)) (NP (PRP it)))))
+-17.597011525871 -67.274833927180
+(S1 (S (NP (PRP They)) (VP (ADVP (RB really)) (VP (VB go) (PP (IN through) (NP (PRP it)))))))
+-18.216655415558 -67.187715353265
+(S1 (S (NP (PRP They)) (VP (RB really) (VP (VB go) (PP (IN through) (NP (PRP it)))))))
+-18.219906040621 -67.079721853690
+(S1 (S (NP (PRP They)) (VP (ADVP (RB really)) (VP (VBP go) (PP (IN through) (NP (PRP it)))))))
+-18.320031392000 -63.552454296110
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (PP (RP through) (NP (PRP it))))))
+-18.548549973384 -65.570499442993
+(S1 (S (NP (NP (PRP They)) (ADVP (RB really))) (VP (VBP go) (PP (IN through) (NP (PRP it))))))
+-18.551155405032 -66.703621353054
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (IN through) (NP (PRP it)))))
+-18.663431884851 -61.392595649477
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (PP (RB through) (NP (PRP it))))))
+-18.752323069373 -60.905626054930
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (PRT (RP through)) (NP (PRP it)))))
+-18.815465818257 -62.858029108031
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (PP (RP through) (NP (PRP it))))))
+-19.011033278245 -64.045705860875
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (ADVP (RB through)) (NP (PRP it)))))
+-19.299967386228 -65.866510463494
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (ADVP (RP through)) (NP (PRP it)))))
+-19.372755890390 -65.934661986608
+(S1 (S (NP (PRP They)) (VP (ADVP (RB really)) (VB go) (PRT (RP through)) (NP (PRP it)))))
+-19.567567076994 -66.989792875664
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (ADVP (IN through)) (NP (PRP it)))))
+-19.593183889562 -65.435277996173
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (ADVP (IN through)) (NP (PRP it)))))
+-19.626555454153 -66.886015956501
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (PP (RB through) (NP (PRP it))))))
+-19.732997999130 -64.366018547447
+(S1 (S (NP (PRP They)) (VP (ADVP (RB really)) (VBP go) (PRT (RP through)) (NP (PRP it)))))
+-19.763504754476 -66.508670293904
+(S1 (S (ADVP (PRP They) (RB really)) (VP (VBP go) (PP (IN through) (NP (PRP it))))))
+-19.780669237045 -67.578356313313
+(S1 (S (NP (PRP They)) (RB really) (VP (VBP go) (ADVP (RB through)) (NP (PRP it)))))
+-19.975623763996 -65.104484184698
+(S1 (S (NP (PRP They)) (RB really) (VP (VBP go) (PRT (RP through)) (NP (PRP it)))))
+-20.122772415690 -67.392633255659
+(S1 (S (ADVP (PRP They) (RB really)) (VP (VB go) (PP (IN through) (NP (PRP it))))))
+-20.131286457428 -68.799244756311
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (S (VP (VB go) (PRT (RP through)) (NP (PRP it))))))
+-20.166508243267 -64.689550147158
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (PP (RP through) (NP (PRP it))))))
+-20.240396959732 -66.686675242834
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (PP (IN through) (S (NP (PRP it)))))))
+-20.385884190114 -67.194830206372
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (ADVP (IN through) (NP (PRP it))))))
+-20.433735416752 -67.840717317701
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (IN through) (NP (PRP it)))))
+-20.476945473495 -67.692016216703
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (ADVP (IN through) (NP (PRP it))))))
+-20.706636928674 -66.965251703692
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VBP go) (ADVP (RP through)) (NP (PRP it)))))
+-20.886523926515 -68.214961563705
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (S (VP (VBP go) (PRT (RP through)) (NP (PRP it))))))
+-21.089554228657 -66.336379384087
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (PRT (RP through)) (S (NP (PRP it))))))
+-21.117014513306 -70.098931690127
+(S1 (S (NP (PRP They)) (ADVP (RB really)) (VP (VB go) (PP (IN through) (S (NP (PRP it)))))))
+-21.146444243071 -67.003606328698
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (ADVP (RP through)) (NP (PRP it)))))
+-21.229501879250 -67.501929635146
+(S1 (S (NP (PRP They)) (RB really) (VP (VBP go) (PP (RB through) (NP (PRP it))))))
+-21.279069480931 -68.720706149895
+(S1 (S (NP (PRP They)) (VP (ADVP (RB really)) (VBP go) (PP (RB through) (NP (PRP it))))))
+-21.346310009867 -68.967363093700
+(S1 (S (NP (PRP They)) (RB really) (VP (VBP go) (PP (RP through) (NP (PRP it))))))
+-21.450147058048 -68.126888740868
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (ADVP (IN through)) (NP (PRP it)))))
+-21.538204132420 -68.023111807549
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (PP (RB through) (NP (PRP it))))))
+-22.359525437824 -68.829112018251
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (ADVP (IN through) (NP (PRP it))))))
+-22.936031093863 -67.473475279954
+(S1 (S (NP (PRP They)) (RB really) (VP (VB go) (PRT (RP through)) (S (NP (PRP it))))))
+

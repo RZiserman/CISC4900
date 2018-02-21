@@ -1,0 +1,102 @@
+50 x
+-7.730760275283 -35.460999849421
+(S1 (S (NP (DT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-10.721178434950 -43.580071538658
+(S1 (S (NP (DT That)) (VP (VBD was) (VP (NP (NNP Tuesday) (NN night))))))
+-10.886901748233 -42.996015776308
+(S1 (S (DT That) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-10.926131180599 -38.790667645512
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-11.526628047571 -41.451670540758
+(S1 (S (WHNP (WDT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-11.998501942623 -39.821115455266
+(S1 (SBAR (DT That) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-12.174044327522 -38.686078765128
+(S1 (S (NP (WDT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-12.496339908615 -42.804816037816
+(S1 (SBAR (IN That) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-12.509825050619 -43.928774345009
+(S1 (FRAG (S (NP (DT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-12.791599961717 -42.193668701135
+(S1 (S (NP (IN That)) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-12.915145494697 -40.768895577875
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-12.924719052287 -48.854328428004
+(S1 (SBAR (S (NP (DT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-13.085570481276 -44.409504767131
+(S1 (NP (WHNP (WDT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-13.622839144729 -43.919010049201
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-13.764050275356 -46.909739429519
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBD was) (VP (NP (NNP Tuesday) (NN night)))))))
+-13.894615959536 -51.115087440798
+(S1 (S (DT That) (VP (VBD was) (VP (NP (NNP Tuesday) (NN night))))))
+-13.903794900476 -48.187747436405
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-13.951367235287 -45.390146119519
+(S1 (S (RB That) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-13.995367258394 -44.302692878670
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-14.012778734738 -45.612051319933
+(S1 (SBAR (WDT That) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-14.170996573225 -43.101286633785
+(S1 (FRAG (SBAR (IN That) (S (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-14.475541930781 -49.856909676936
+(S1 (FRAG (NP (DT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-14.556995197237 -49.570742229995
+(S1 (S (WHNP (WDT That)) (VP (VBD was) (VP (NP (NNP Tuesday) (NN night))))))
+-14.799383207380 -47.940187239274
+(S1 (SBAR (DT That) (S (VP (VBD was) (VP (NP (NNP Tuesday) (NN night)))))))
+-14.819887496348 -47.813808557968
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-14.835943545256 -49.083840741417
+(S1 (PP (IN That) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-14.882974133676 -49.252504767116
+(S1 (FRAG (NP (DT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-15.187115414401 -46.805150454365
+(S1 (S (NP (WDT That)) (VP (VBD was) (VP (NP (NNP Tuesday) (NN night))))))
+-15.197992256719 -50.754742898115
+(S1 (SINV (NP (DT That)) (VBD was) (NP (NNP Tuesday) (NN night))))
+-15.368882267372 -50.923887821823
+(S1 (SBAR (IN That) (S (VP (VBD was) (VP (NP (NNP Tuesday) (NN night)))))))
+-15.745942459453 -48.887967361883
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBD was) (VP (NP (NNP Tuesday) (NN night))))))))
+-15.853795561384 -50.312740390372
+(S1 (S (NP (IN That)) (VP (VBD was) (VP (NP (NNP Tuesday) (NN night))))))
+-15.919321496996 -47.865064947893
+(S1 (S (NP (WHNP (WDT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-16.041966540876 -48.992663411741
+(S1 (SINV (RB That) (VP (VBD was)) (NP (NNP Tuesday) (NN night))))
+-16.121741873319 -48.689197201030
+(S1 (SINV (ADVP (DT That)) (VP (VBD was)) (NP (NNP Tuesday) (NN night))))
+-16.401334233623 -50.208797768109
+(S1 (S (NP (RB That)) (VP (VBD was) (NP (NNP Tuesday) (NN night)))))
+-16.607488956215 -49.861850524711
+(S1 (SINV (ADVP (RB That)) (VP (VBD was)) (NP (NNP Tuesday) (NN night))))
+-16.767445883261 -48.287115024914
+(S1 (SINV (ADVP (DT That)) (VBD was) (NP (NNP Tuesday) (NN night))))
+-16.783107793385 -50.515523193300
+(S1 (FRAG (IN That) (SBAR (S (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-16.790733582767 -50.719210507388
+(S1 (FRAG (SBAR (WDT That) (S (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-16.812794333945 -49.459768348595
+(S1 (SINV (ADVP (RB That)) (VBD was) (NP (NNP Tuesday) (NN night))))
+-16.902116226349 -51.257853854333
+(S1 (FRAG (NP (WHNP (WDT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-16.969918745742 -47.220247821409
+(S1 (FRAG (S (NP (WDT That)) (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-16.997280469606 -49.957404093787
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night)))))))
+-17.036416804769 -51.220358417792
+(S1 (FRAG (SBAR (IN That) (S (VP (VBD was) (VP (NP (NNP Tuesday) (NN night))))))))
+-17.609736381133 -50.881905462326
+(S1 (FRAG (NP (WDT That)) (S (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-17.623926015329 -51.450469101886
+(S1 (SINV (ADVP (IN That)) (VP (VBD was)) (NP (NNP Tuesday) (NN night))))
+-17.768462725363 -50.714187501704
+(S1 (FRAG (S (NP (IN That)) (VP (VBD was) (NP (NNP Tuesday) (NN night))))))
+-17.872177449058 -51.048386925770
+(S1 (SINV (ADVP (IN That)) (VBD was) (NP (NNP Tuesday) (NN night))))
+-18.260516586918 -51.140147160178
+(S1 (SINV (NP (WDT That)) (VBD was) (NP (NNP Tuesday) (NN night))))
+

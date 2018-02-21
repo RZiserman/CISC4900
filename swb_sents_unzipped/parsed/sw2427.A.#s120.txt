@@ -1,0 +1,102 @@
+50 x
+-25.305350952027 -94.120280242152
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around)))))))
+-26.150996757941 -93.214341077322
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around))))))
+-26.631495676893 -97.058824330917
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (VBZ hoses)) (ADVP (RB around)))))))
+-26.658466776351 -94.523465555277
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around))))))))
+-26.659018786950 -97.776372845357
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (PP (IN around)))))))
+-26.771477791223 -97.377041745305
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (IN around)))))))
+-26.970361826827 -95.211263864976
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (PP (IN around))))))
+-27.066403388083 -99.069021393939
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around)))))))
+-27.171361120902 -93.617526366930
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around)))))))
+-27.254215230233 -94.753581300407
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (NP (VBG dragging) (NNS hoses)) (PRT (RP around)))))
+-27.302641170826 -99.252992275821
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (NP (VBG dragging) (NNS hoses)) (ADVP (RB around)))))
+-27.364986566487 -98.179558158483
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (PP (IN around))))))))
+-27.368961242434 -96.037398173908
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (ADVP (RB around))))))
+-27.477244060788 -95.614449154584
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (PP (IN around)))))))
+-27.477445570760 -97.780227058430
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (IN around))))))))
+-27.585495779300 -95.164362076981
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (PRT (RP around))))))
+-27.615280766120 -98.702116203874
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (PRT (RP around)))))))
+-27.644009960863 -98.551302158365
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (NP (NP (VBG dragging) (NNS hoses)) (ADVP (RB around))))))
+-27.653842606748 -97.982949922103
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NP (NNS hoses)) (ADVP (RB around)))))))
+-27.778459102108 -98.034320961561
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (PP (IN around))))))
+-27.823069998430 -97.462009644042
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (S (VP (VBG dragging) (NP (VBZ hoses)) (ADVP (RB around))))))))
+-27.871703355819 -95.654008834594
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (IN around))))))
+-27.884266431801 -95.156766423868
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (NP (VBG dragging) (NNS hoses)) (PRT (RP around))))))
+-27.971028797270 -98.163082165573
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around))))))
+-28.109492923261 -95.567547366589
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (PRT (RP around)))))))
+-28.209518183257 -97.799988164038
+(S1 (S (NP (PRP it)) (VP (ADVP (RB sure)) (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around)))))))
+-28.227784105395 -96.440583463516
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (ADVP (RB around)))))))
+-28.231369968444 -99.105301516999
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (PRT (RP around))))))))
+-28.244919676779 -96.057194124202
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (IN around)))))))
+-28.301185426069 -98.437506251169
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (PP (IN around)))))))
+-28.332488055821 -99.499477458917
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RP around)))))))
+-28.578427421793 -97.987419173566
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (PRT (RP around))))))
+-28.581085284029 -99.238163937409
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (NP (VBG dragging) (NNS hoses)) (PRT (IN around)))))
+-28.809017704927 -97.976926346202
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (PP (RP around)))))))
+-28.879084042425 -98.709986221344
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (SBAR (S (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around)))))))))
+-29.098115482709 -98.386135211711
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (NP (NNS hoses)) (ADVP (RB around))))))))
+-29.178943101778 -95.504635889073
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (PP (RP around))))))
+-29.209350199099 -98.477065931179
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (ADVP (IN around))))))
+-29.215579665754 -98.390604463174
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (PRT (RP around)))))))
+-29.335396110672 -98.954487413908
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (NP (NP (VBG dragging) (NNS hoses)) (ADVP (RB around)))))))
+-29.425106904463 -98.380111659327
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (S (VP (VBG dragging) (NP (NNS hoses)) (PP (RP around))))))))
+-29.426033398715 -99.330414315104
+(S1 (S (NP (PRP it)) (RB sure) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around))))))
+-29.456894035478 -97.745860872239
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RP around))))))
+-29.565361188613 -97.804047002470
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (SBAR (S (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RB around))))))))
+-29.595946755739 -95.907821178681
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (PP (RP around)))))))
+-29.598410610060 -98.880251220787
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (ADVP (IN around)))))))
+-29.740231776439 -98.149046161847
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (NNS hoses)) (ADVP (RP around)))))))
+-30.198974457059 -98.327692985658
+(S1 (S (NP (PRP it)) (ADVP (RB sure)) (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (PP (RP around))))))
+-30.729133211020 -98.730878275266
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (S (VP (VBZ beats) (VP (VBG dragging) (NP (VBZ hoses)) (PP (RP around)))))))
+-30.904323489300 -99.343287058539
+(S1 (S (NP (PRP it)) (ADJP (JJ sure)) (SBAR (S (VP (VBZ beats) (NP (VBG dragging) (NNS hoses)) (PRT (RP around)))))))
+

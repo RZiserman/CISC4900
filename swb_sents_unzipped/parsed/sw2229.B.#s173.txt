@@ -1,0 +1,102 @@
+50 x
+-18.427794975762 -62.029460309249
+(S1 (SQ (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons))))
+-19.410121746318 -63.664530780024
+(S1 (X (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons))))
+-19.462222976852 -61.912501353078
+(S1 (FRAG (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons))))
+-19.470238968852 -65.964948364984
+(S1 (NP (CC Or) (CC or) (NNP Richard) (NNP Simmons)))
+-19.779040065864 -60.864950480652
+(S1 (SQ (CC Or) (FRAG (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-20.427980796808 -72.759622268312
+(S1 (NP (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons))))
+-20.535764514221 -68.394869267475
+(S1 (UCP (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons))))
+-20.635374816988 -61.346834083618
+(S1 (FRAG (CC Or) (PP (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-20.854636655019 -60.958810144647
+(S1 (FRAG (CC Or) (FRAG (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-21.217361469263 -64.828236637468
+(S1 (SQ (CC Or) (CC or) (FRAG (NP (NNP Richard) (NNP Simmons)))))
+-21.365378640645 -69.116466630504
+(S1 (NP (CC Or) (NP (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-21.382665734884 -65.634286086347
+(S1 (FRAG (CC Or) (NP (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-21.463581823515 -66.115249205985
+(S1 (UCP (ADVP (CC Or)) (CC or) (NP (NNP Richard) (NNP Simmons))))
+-21.693396477513 -66.439351747513
+(S1 (X (CC Or) (PP (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-21.740457521374 -70.572473235262
+(S1 (X (NP (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-21.882845401586 -71.551555126913
+(S1 (NP (NP (CC Or)) (CC or) (NP (NNP Richard) (NNP Simmons))))
+-21.944573432844 -69.099689893513
+(S1 (S (CC Or) (NP (CC or) (NNP Richard) (NNP Simmons))))
+-22.056280037161 -71.894442623696
+(S1 (S (CC Or) (NP (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-22.087500375183 -72.239170530562
+(S1 (S (ADJP (CC Or) (CC or) (NNP Richard) (NNP Simmons))))
+-22.114497009370 -71.002074386274
+(S1 (FRAG (NP (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-22.135587183352 -68.665704378261
+(S1 (FRAG (CC Or) (VP (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-22.163783664240 -69.635645340485
+(S1 (S (ADVP (CC Or) (CC or)) (NP (NNP Richard) (NNP Simmons))))
+-22.239754143366 -71.121508299078
+(S1 (ADJP (CC Or) (CC or) (NNP Richard) (NNP Simmons)))
+-22.314263240736 -70.183487033043
+(S1 (NP (CC Or) (NP (CC or) (NNP Richard) (NNP Simmons))))
+-22.370587744910 -70.279627916004
+(S1 (S (CC Or) (ADVP (CC or)) (NP (NNP Richard) (NNP Simmons))))
+-22.428550427488 -70.194166840079
+(S1 (SQ (CC Or) (CC or) (ADJP (NNP Richard) (NNP Simmons))))
+-22.454353672518 -67.749498017512
+(S1 (X (ADVP (CC Or) (CC or)) (NP (NNP Richard) (NNP Simmons))))
+-22.463392569544 -71.367847218561
+(S1 (FRAG (UCP (CC Or) (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-22.484574253555 -68.438135498645
+(S1 (FRAG (NP (NP (CC Or)) (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-22.512873375316 -67.530766494406
+(S1 (FRAG (ADVP (CC Or) (CC or)) (NP (NNP Richard) (NNP Simmons))))
+-22.526144249176 -67.889181509844
+(S1 (X (NP (NP (CC Or)) (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-22.598867119369 -66.680315750520
+(S1 (SQ (CC Or) (FRAG (PP (CC or) (NP (NNP Richard) (NNP Simmons))))))
+-22.654581513047 -66.919578344296
+(S1 (FRAG (CC Or) (NP (CC or) (NNP Richard) (NNP Simmons))))
+-22.717043739208 -70.397604584734
+(S1 (SQ (CC Or) (PP (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-23.161940065870 -67.928861039905
+(S1 (FRAG (CC Or) (CC or) (FRAG (NP (NNP Richard) (NNP Simmons)))))
+-23.380567418013 -71.930517267700
+(S1 (X (NP (CC Or) (CC or) (NNP Richard) (NNP Simmons))))
+-23.536964213825 -69.518034045800
+(S1 (FRAG (UCP (ADVP (CC Or)) (CC or) (NP (NNP Richard) (NNP Simmons)))))
+-23.617952378627 -70.138181963195
+(S1 (FRAG (CC Or) (CC or) (ADJP (NNP Richard) (NNP Simmons))))
+-23.657563222524 -66.774175414516
+(S1 (FRAG (CC Or) (FRAG (PP (CC or) (NP (NNP Richard) (NNP Simmons))))))
+-23.877932689046 -69.348510199847
+(S1 (SQ (CC Or) (FRAG (CC or) (ADJP (NNP Richard) (NNP Simmons)))))
+-24.306584600031 -72.416218322553
+(S1 (S (ADVP (CC Or) (CC or)) (ADJP (NNP Richard) (NNP Simmons))))
+-24.428388699761 -72.406619768241
+(S1 (FRAG (PP (CC Or) (NP (CC or) (NP (NNP Richard) (NNP Simmons))))))
+-24.480876695846 -70.562252865631
+(S1 (SQ (CC Or) (FRAG (CC or) (FRAG (NP (NNP Richard) (NNP Simmons))))))
+-24.510018843213 -72.757633645243
+(S1 (FRAG (PP (CC Or) (PP (CC or) (NP (NNP Richard) (NNP Simmons))))))
+-24.692859353710 -72.000609409581
+(S1 (SQ (CC Or) (CC or) (FRAG (ADJP (NNP Richard) (NNP Simmons)))))
+-24.753594997607 -72.859177392603
+(S1 (SQ (CC Or) (FRAG (CC or) (NP (NP (NNP Richard)) (NP (NNP Simmons))))))
+-24.943383134201 -69.442369863842
+(S1 (FRAG (CC Or) (FRAG (CC or) (ADJP (NNP Richard) (NNP Simmons)))))
+-25.142413252309 -71.336818423927
+(S1 (FRAG (CC Or) (S (NP (CC or) (NNP Richard) (NNP Simmons)))))
+-25.545591755001 -70.656112529626
+(S1 (FRAG (CC Or) (FRAG (CC or) (FRAG (NP (NNP Richard) (NNP Simmons))))))
+-25.829191589550 -72.953037056598
+(S1 (FRAG (CC Or) (FRAG (CC or) (NP (NP (NNP Richard)) (NP (NNP Simmons))))))
+

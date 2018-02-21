@@ -1,0 +1,102 @@
+50 x
+-19.325841692929 -68.514059192222
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three)))))))
+-19.682603398372 -71.622920580426
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three))))))
+-21.723978576137 -71.755332728782
+(S1 (S (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-21.769032057051 -77.897100042499
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (NP (CD two)) (CC or) (NP (CD three)))))))
+-22.080740281580 -74.864194116986
+(S1 (S (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three)))))))
+-22.114616038935 -78.743304225457
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VBP have) (NP (QP (CD two) (CC or) (CD three)))))))
+-22.376382755003 -81.974378541200
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VBP have) (NP (CD two) (CC or) (CD three))))))
+-22.565007668589 -76.091179372728
+(S1 (FRAG (CC And) (ADVP (RB sometimes)) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three)))))))))
+-22.803491396820 -76.103368374629
+(S1 (S (CC And) (RB sometimes) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three)))))))
+-22.921769374032 -79.200040760932
+(S1 (FRAG (CC And) (ADVP (RB sometimes)) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three))))))))
+-22.934224185185 -74.914841285396
+(S1 (FRAG (CC And) (RB sometimes) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three)))))))))
+-23.047203008676 -83.628309524771
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (MD might) (VP (VBP have) (NP (CD two) (CC or) (CD three)))))
+-23.160253102263 -79.212229762833
+(S1 (S (CC And) (RB sometimes) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three))))))
+-23.212635819400 -77.672815073079
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (CD two) (CC or) (CD three)))))))
+-23.255132906035 -78.279343456617
+(S1 (FRAG (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-23.290985887840 -78.023702673601
+(S1 (FRAG (CC And) (RB sometimes) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three))))))))
+-23.314927191056 -80.430782097003
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (MD might) (VP (VBP have) (NP (QP (CD two) (CC or) (CD three))))))
+-23.611894608690 -81.388204844822
+(S1 (FRAG (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three)))))))
+-23.641887510623 -76.521731836724
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (QP (CD two) (CC or) (CD three))))))))
+-23.768312730129 -78.579770414282
+(S1 (S (CC And) (ADVP (RB sometimes)) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-24.076630300370 -79.595049824566
+(S1 (FRAG (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-24.125074435572 -81.688631802487
+(S1 (S (CC And) (ADVP (RB sometimes)) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three)))))))
+-24.167168940259 -81.138373579059
+(S1 (S (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (NP (CD two)) (CC or) (NP (CD three))))))))
+-24.323315119355 -81.984577762018
+(S1 (S (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VBP have) (NP (QP (CD two) (CC or) (CD three))))))))
+-24.430534372853 -82.405525103837
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (ADVP (CD two) (CC or) (CD three))))))
+-24.433392005813 -82.703911212771
+(S1 (FRAG (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three)))))))
+-24.578958865412 -85.150888768917
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))
+-24.585081838210 -85.215652077760
+(S1 (S (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VBP have) (NP (CD two) (CC or) (CD three)))))))
+-24.672425959117 -78.105775165764
+(S1 (S (ADVP (CC And) (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three)))))))
+-25.029187661773 -81.214636553968
+(S1 (S (ADVP (CC And) (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three))))))
+-25.344460971041 -84.184322979049
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (NP (CD two)) (CC or) (NP (CD three))))))))
+-25.377414549307 -84.297882135674
+(S1 (FRAG (CC And) (RB sometimes) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (NP (CD two)) (CC or) (NP (CD three)))))))))
+-25.451439664055 -83.463505769474
+(S1 (FRAG (CC And) (ADVP (RB sometimes)) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-25.475114055693 -80.997429077577
+(S1 (FRAG (CC And) (RB sometimes) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-25.668718161203 -85.144086318632
+(S1 (FRAG (CC And) (RB sometimes) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VBP have) (NP (QP (CD two) (CC or) (CD three)))))))))
+-25.671806786607 -80.914088609639
+(S1 (S (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (CD two) (CC or) (CD three))))))))
+-25.831875761136 -84.106290465782
+(S1 (FRAG (CC And) (RB sometimes) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three)))))))
+-25.881930006769 -81.299026074366
+(S1 (S (CC And) (RB sometimes) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-26.101058475043 -79.763005373284
+(S1 (S (CC And) (S (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (QP (CD two) (CC or) (CD three)))))))))
+-26.140407194299 -82.508338333216
+(S1 (S (CC And) (S (RB sometimes) (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-26.219081560219 -84.044487292695
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (PRP you)) (VP (MD might) (VP (VB have) (ADJP (QP (CD two) (CC or) (CD three)))))))
+-26.238691712211 -84.407887462571
+(S1 (S (CC And) (RB sometimes) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (CD two) (CC or) (CD three)))))))
+-26.628732749060 -85.249935253585
+(S1 (FRAG (CC And) (ADVP (RB sometimes)) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (CD two) (CC or) (CD three)))))))))
+-26.843085394083 -84.182475280710
+(S1 (S (CC And) (NP (RB sometimes) (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three)))))))
+-26.997949265655 -84.073597166254
+(S1 (FRAG (CC And) (RB sometimes) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (CD two) (CC or) (CD three)))))))))
+-27.057984440284 -84.098852017230
+(S1 (FRAG (CC And) (ADVP (RB sometimes)) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (QP (CD two) (CC or) (CD three))))))))))
+-27.119537214515 -84.111041019130
+(S1 (S (CC And) (RB sometimes) (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (QP (CD two) (CC or) (CD three))))))))
+-27.427200954092 -82.922513929898
+(S1 (FRAG (CC And) (RB sometimes) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB have) (S (NP (QP (CD two) (CC or) (CD three))))))))))
+-28.257053581806 -84.805329070156
+(S1 (S (ADVP (CC And) (RB sometimes)) (S (NP (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+-28.700165559526 -84.463920288561
+(S1 (S (CC And) (S (NP (RB sometimes) (PRP you)) (VP (MD might) (VP (VB have) (NP (QP (CD two) (CC or) (CD three))))))))
+

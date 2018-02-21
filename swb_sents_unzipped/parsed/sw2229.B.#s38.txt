@@ -1,0 +1,102 @@
+50 x
+-14.505125473536 -55.467546077228
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VB do) (NP (DT that)))))
+-15.286438433440 -59.256761723319
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VBP do) (NP (DT that)))))
+-17.623760045827 -65.506026351109
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VB do) (NP (DT that)))))))))
+-17.708402560982 -65.362246778667
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VBP do) (NP (DT that)))))))))
+-17.840561652616 -63.187430292546
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VBP do) (NP (IN that)))))
+-17.901432636686 -59.722396079102
+(S1 (FRAG (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VB do) (NP (DT that))))))
+-18.403762349318 -65.456301049533
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (NNS things)) (VP (VB do) (NP (DT that)))))))
+-18.406481729248 -62.752782273323
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VB do) (NP (IN that)))))
+-18.409811104191 -67.863113932143
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))) (VP (VB do) (NP (DT that)))))
+-18.419514762323 -64.128392610947
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things) (S (VP (VB do) (NP (DT that))))))))
+-18.559052899549 -68.810173668749
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))) (SBAR (S (VP (VB do) (NP (DT that)))))))
+-18.560667306728 -64.394555262029
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))) (S (VP (VBP do) (NP (DT that))))))
+-18.583663986126 -65.049179335722
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))) (S (VP (VB do) (NP (DT that))))))
+-18.789876382542 -63.098133791955
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VB do) (NP (DT that)))))
+-18.871267123598 -65.201999917261
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VBP do) (RB that))))
+-18.875528427962 -64.549755147222
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VB do) (NP (DT that))))))))))
+-18.946282827329 -64.405975574780
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VBP do) (NP (DT that))))))))))
+-19.215761940059 -69.151514528550
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VBP do) (ADVP (RB that)))))
+-19.287768187842 -66.970341977169
+(S1 (NP (DT a) (NN lot) (SBAR (IN of) (S (NP (NNS things)) (VP (VBP do) (NP (DT that)))))))
+-19.307581498450 -68.344903890670
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VB do) (RB that))))
+-19.325467773716 -63.045935446895
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (S (VP (VB do) (NP (DT that))))))
+-19.329576657368 -65.525552356296
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VB do) (NP (DT that))))))))))
+-19.404049067588 -66.101048742297
+(S1 (FRAG (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VBP do) (NP (DT that))))))
+-19.414219169736 -65.381772783854
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VBP do) (NP (DT that))))))))))
+-19.490322735849 -64.500029694959
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (NNS things)) (VP (VB do) (NP (DT that))))))))
+-19.568945471071 -62.222913213681
+(S1 (FRAG (NP (DT a) (NN lot)) (SBAR (IN of) (S (NP (NNS things)) (VP (VBP do) (NP (DT that)))))))
+-19.598865762747 -68.211269743735
+(S1 (NP (DT a) (NN lot) (SBAR (IN of) (S (NP (NNS things)) (VP (VB do) (NP (DT that)))))))
+-19.625846593458 -63.172121407060
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things) (S (VP (VB do) (NP (DT that)))))))))
+-19.704599938600 -68.771009914703
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (S (VP (VB do) (NP (DT that))))))))
+-19.724706590819 -66.994141594335
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VBP do) (NP (WDT that)))))
+-19.831255842554 -68.964629440316
+(S1 (S (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))) (VP (VB do) (NP (DT that)))))
+-20.058725940283 -68.284814917906
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VB do) (NP (WDT that)))))
+-20.109578932982 -65.475826964000
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (S (NP (NNS things)) (VP (VB do) (NP (DT that))))))))
+-20.125331373865 -64.147918616133
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things) (S (VP (VB do) (NP (DT that)))))))))
+-20.321217199693 -69.498063555146
+(S1 (NP (NP (DT a) (NN lot)) (SBAR (IN of) (S (NP (NNS things)) (VP (VBP do) (NP (DT that)))))))
+-20.324659166158 -69.292915347894
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VBP do) (NP (IN that)))))))))
+-20.475402811585 -64.848144320887
+(S1 (FRAG (NP (DT a) (NN lot)) (SBAR (IN of) (S (NP (NNS things)) (VP (VB do) (NP (DT that)))))))
+-20.894347939735 -67.814738710817
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (S (VP (VB do) (NP (DT that)))))))))
+-20.953448356904 -68.325223831256
+(S1 (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))) (S (VP (VBP do) (NP (IN that))))))
+-20.958518791309 -67.808952895252
+(S1 (FRAG (NP (DT a) (NN lot) (SBAR (IN of) (S (NP (NNS things)) (VP (VBP do) (NP (DT that))))))))
+-21.269616366214 -69.049880661819
+(S1 (FRAG (NP (DT a) (NN lot) (SBAR (IN of) (S (NP (NNS things)) (VP (VB do) (NP (DT that))))))))
+-21.410416550142 -68.790535919890
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (S (VP (VB do) (NP (DT that)))))))))
+-21.425422153330 -69.265623893214
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VBP do) (S (ADJP (IN that))))))
+-21.477901093425 -69.430022833521
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things))) (S (VP (VB do) (NP (DT that)))))))
+-21.495403545505 -68.336644144008
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VBP do) (NP (IN that))))))))))
+-21.518716561929 -69.539021683651
+(S1 (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things) (SBAR (S (VP (VB do) (NP (DT that))))))))))
+-21.537387658247 -66.153581782909
+(S1 (FRAG (NP (DT a) (NN lot)) (SBAR (IN of) (S (NP (NNS things)) (VP (VBP do) (NP (IN that)))))))
+-21.633962386186 -67.007632275197
+(S1 (FRAG (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (VP (VB do) (NP (IN that))))))
+-21.861649265912 -69.312441353081
+(S1 (FRAG (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS things)) (SBAR (S (VP (VBP do) (NP (IN that))))))))))
+-23.002897402077 -68.168151373100
+(S1 (FRAG (NP (DT a) (NN lot)) (SBAR (IN of) (S (NP (NNS things)) (VP (VBP do) (RB that))))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.453288621956 -71.744516400628
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (DT that) (CD five) (NNS minutes)))))
+-22.050991458299 -68.202344619482
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (IN that) (CD five) (NNS minutes)))))
+-22.669785159916 -74.870623228108
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (QP (RB that) (CD five)) (NNS minutes)))))
+-22.737689189989 -71.643593847673
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (VP (PP (IN that) (NP (CD five) (NNS minutes)))))))
+-22.943978965850 -69.828217056636
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (S (PP (IN that) (NP (CD five) (NNS minutes)))))))
+-23.046996512607 -72.930019879718
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (RB that) (CD five) (NNS minutes)))))
+-23.400441030943 -77.464428453993
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (PP (IN that) (NP (CD five) (NNS minutes))))))
+-23.539694344354 -75.199549976546
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (VP (IN that) (NP (CD five) (NNS minutes))))))
+-23.540368384785 -73.999561110691
+(S1 (SINV (ADVP (UH Oh)) (VBZ is) (PP (IN that) (NP (CD five) (NNS minutes)))))
+-23.634338225049 -75.659546794462
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (QP (DT that) (CD five)) (NNS minutes)))))
+-23.941173773129 -75.653583578946
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (SBAR (IN that) (S (NP (CD five) (NNS minutes)))))))
+-24.111154341166 -67.832831147330
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (S (PP (IN that) (NP (CD five) (NNS minutes)))))))
+-24.343447601200 -75.457799408938
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (ADJP (IN that) (NP (CD five) (NNS minutes))))))
+-24.368299635591 -75.285949953554
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (RB that) (NP (CD five) (NNS minutes)))))
+-24.593426513465 -76.541875355058
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (NP (DT that) (CD five) (NNS minutes)))))
+-24.711790375148 -76.562429920946
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (QP (IN that) (CD five)) (NNS minutes)))))
+-24.989106029449 -72.396244353260
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (IN that) (S (NP (CD five) (NNS minutes))))))
+-24.994562307021 -72.999703573912
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (NP (IN that) (CD five) (NNS minutes)))))
+-25.029307425983 -79.467209576486
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (ADVP (RB that)) (NP (CD five) (NNS minutes)))))
+-25.097344681657 -80.591751365935
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (IN that) (NP (CD five) (NNS minutes))))))
+-25.306146441611 -78.554205377442
+(S1 (NP (UH Oh) (VP (VBZ is) (NP (IN that) (CD five) (NNS minutes)))))
+-25.384976718775 -79.761076986333
+(S1 (NP (UH Oh) (VP (VBZ is) (S (PP (IN that) (NP (CD five) (NNS minutes)))))))
+-25.578636648046 -76.440952693468
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (VP (PP (IN that) (NP (CD five) (NNS minutes)))))))
+-25.684622175538 -80.362621409974
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (NP (DT that) (QP (CD five) (NNS minutes))))))
+-25.724645129468 -73.135186844518
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (IN that) (FRAG (NP (CD five) (NNS minutes))))))
+-25.776863058821 -77.741487192485
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (ADVP (IN that) (NP (CD five) (NNS minutes))))))
+-25.782297101147 -74.625576033976
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (S (PP (IN that) (NP (CD five) (NNS minutes)))))))
+-25.788356828638 -79.667982182538
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (NP (QP (RB that) (CD five)) (NNS minutes)))))
+-25.863607279322 -76.505665236732
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (SBAR (WDT that) (FRAG (NP (CD five) (NNS minutes)))))))
+-25.881684075653 -79.432127952716
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (SBAR (IN that) (FRAG (NP (CD five) (NNS minutes)))))))
+-25.912964873626 -80.145318572700
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (NP (DT that) (CD five) (NNS minutes))))
+-25.965437443934 -80.019030746015
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (ADVP (IN that)) (NP (CD five) (NNS minutes)))))
+-26.138025184339 -80.271973762580
+(S1 (SINV (ADVP (UH Oh)) (VBZ is) (NP (DT that) (CD five) (NNS minutes))))
+-26.165568181329 -77.727378834148
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (NP (RB that) (CD five) (NNS minutes)))))
+-26.329077173066 -77.753810024495
+(S1 (SINV (ADVP (UH Oh)) (VBZ is) (NP (IN that) (CD five) (NNS minutes))))
+-26.363642949216 -81.037237893951
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (ADVP (RB that) (NP (CD five) (NNS minutes))))))
+-26.380641802411 -79.996908822341
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (VP (IN that) (NP (CD five) (NNS minutes))))))
+-26.443285392353 -77.627154834615
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (NP (IN that) (CD five) (NNS minutes))))
+-26.478991252672 -75.965722299618
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (S (VP (PP (IN that) (NP (CD five) (NNS minutes))))))))
+-26.587296825702 -77.108224652170
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (S (VP (IN that) (NP (CD five) (NNS minutes)))))))
+-26.774476116559 -80.456905748892
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (NP (QP (DT that) (CD five)) (NNS minutes)))))
+-26.788454981851 -80.450942534899
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (SBAR (IN that) (S (NP (CD five) (NNS minutes)))))))
+-27.090473230453 -80.630931394858
+(S1 (S (NP (UH Oh)) (VP (VBZ is) (SBAR (DT that) (S (NP (CD five) (NNS minutes)))))))
+-27.161467042045 -80.255158255117
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (ADJP (IN that) (NP (CD five) (NNS minutes))))))
+-27.364702944345 -80.083308712565
+(S1 (S (ADVP (UH Oh)) (VP (VBZ is) (RB that) (NP (CD five) (NNS minutes)))))
+-27.955474590919 -77.589077383941
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (WDT that) (FRAG (NP (CD five) (NNS minutes))))))
+-28.074837692451 -80.000495287379
+(S1 (VP (ADVP (UH Oh)) (VBZ is) (NP (IN that) (CD five) (NNS minutes))))
+-28.102377137303 -78.558866914215
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (WHNP (IN that)) (S (NP (CD five) (NNS minutes))))))
+-28.217780364968 -80.047665709844
+(S1 (S (VP (ADVP (UH Oh)) (VBZ is) (NP (IN that) (CD five) (NNS minutes)))))
+-28.331815943709 -78.713882628532
+(S1 (SINV (ADVP (UH Oh)) (VP (VBZ is)) (SBAR (WHNP (WDT that)) (FRAG (NP (CD five) (NNS minutes))))))
+

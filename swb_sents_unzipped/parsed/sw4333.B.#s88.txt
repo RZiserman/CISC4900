@@ -1,0 +1,102 @@
+50 x
+-19.620502999269 -67.084730823856
+(S1 (S (ADVP (RB even) (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-20.176551991221 -68.668578047017
+(S1 (S (ADVP (RB even)) (VP (ADVP (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-20.207190251058 -68.316033221028
+(S1 (S (RB even) (VP (ADVP (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-20.400839333718 -68.693911139614
+(S1 (S (RB even) (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-20.552570995819 -70.035589192874
+(S1 (S (RB even) (ADVP (RB just)) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-20.586517715264 -72.637899616038
+(S1 (S (ADVP (RB even) (RB just)) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-20.790563459943 -70.534235100369
+(S1 (S (CONJP (RB even) (RB just)) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-20.959969660485 -71.091333276748
+(S1 (S (ADVP (RB even)) (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-21.144779072843 -69.980915275770
+(S1 (S (VP (ADVP (RB even) (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-21.275994190044 -72.804749352094
+(S1 (S (NP (RB even) (RB just)) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-21.298911084790 -73.156094214555
+(S1 (S (ADVP (RB even)) (ADVP (RB just)) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-21.862577900241 -72.522456327776
+(S1 (S (RB even) (VP (ADVP (RB just)) (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.040103314094 -71.882317037965
+(S1 (S (ADVP (RB even)) (RB just) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.075260756653 -74.190093650092
+(S1 (S (ADVP (RB even)) (RB just) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.161724729287 -70.665629740960
+(S1 (VP (ADVP (RB even) (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))
+-22.269915903485 -72.994329837094
+(S1 (S (RB even) (S (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-22.349213226109 -72.978348328451
+(S1 (S (ADVP (RB even)) (S (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-22.359126032930 -73.775082944768
+(S1 (S (CONJP (RB even) (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.403957126163 -75.728708625733
+(S1 (S (RB even) (RB just) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.489986791955 -75.034229205623
+(S1 (S (ADVP (RB even)) (VP (ADVP (RB just)) (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.633714605979 -74.983636071718
+(S1 (S (VP (ADVP (RB even)) (ADVP (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.789555925593 -74.848660119679
+(S1 (S (RB even) (RB just) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.951263882455 -74.394413957509
+(S1 (FRAG (ADVP (RB even) (RB just)) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-22.981254188054 -73.464142973713
+(S1 (FRAG (RB even) (VP (ADVP (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-23.014877585939 -76.322252630491
+(S1 (S (ADVP (RB even) (RB just)) (S (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-23.060816969399 -73.548484028636
+(S1 (FRAG (ADVP (RB even) (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-23.206945940370 -77.428297236484
+(S1 (S (VP (ADVP (RB even) (RB just)) (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-23.258300129840 -75.112714303931
+(S1 (S (ADVP (RB even) (RB just)) (VP (VB say) (PRT (RP for)) (NP (DT a) (JJ small) (NN business)))))
+-23.269168034658 -71.413772268892
+(S1 (FRAG (RB even) (RB just) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-23.309737349541 -74.799275742394
+(S1 (S (RB even) (VP (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-23.317521275368 -74.212298647584
+(S1 (VP (ADVP (RB even)) (ADVP (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))
+-23.422398587891 -75.540096419694
+(S1 (S (NP (RB even)) (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-23.505260158068 -77.516357518718
+(S1 (S (NP (RB even) (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-23.608691945111 -76.331781577678
+(S1 (S (ADVP (RB even)) (VP (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-23.828412160637 -75.460619969404
+(S1 (S (RB even) (ADVP (RB just)) (VP (VBP say) (VP (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-23.956467592108 -76.933491820819
+(S1 (S (ADVP (RB even)) (VP (ADVP (RB just)) (VB say) (PRT (RP for)) (NP (DT a) (JJ small) (NN business)))))
+-23.987105807341 -76.580946829862
+(S1 (S (RB even) (VP (ADVP (RB just)) (VB say) (PRT (RP for)) (NP (DT a) (JJ small) (NN business)))))
+-24.048488611289 -76.721894619689
+(S1 (S (RB even) (ADVP (RB just)) (VP (VB say) (PRT (RP for)) (NP (DT a) (JJ small) (NN business)))))
+-24.090480534761 -75.959265876900
+(S1 (S (CONJP (RB even) (RB just)) (VP (VBP say) (VP (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-24.166049021183 -73.313961927064
+(S1 (FRAG (CONJP (RB even) (RB just)) (S (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-24.214966049036 -76.833354268130
+(S1 (FRAG (RB even) (RB just) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-24.239377277237 -75.264679742950
+(S1 (FRAG (VP (ADVP (RB even) (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-24.273800054831 -77.509793745556
+(S1 (ADJP (RB even) (RB just) (S (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-24.341872659682 -77.321966368791
+(S1 (FRAG (ADVP (RB even)) (VP (ADVP (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-24.405284046554 -72.032401428394
+(S1 (FRAG (CONJP (RB even) (RB just)) (S (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-24.671547167820 -75.913948550839
+(S1 (FRAG (ADVP (RB even)) (RB just) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-24.685727083584 -76.463325501546
+(S1 (FRAG (ADVP (RB even)) (ADVP (RB just)) (VP (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-24.742122980440 -77.332653525488
+(S1 (FRAG (S (VP (ADVP (RB even) (RB just)) (VB say) (PP (IN for) (NP (DT a) (JJ small) (NN business)))))))
+-24.963994901389 -77.309255390743
+(S1 (FRAG (ADVP (RB even)) (ADVP (RB just)) (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))
+-25.085874488197 -77.193086981723
+(S1 (FRAG (ADJP (RB even) (RB just) (S (VP (VBP say) (PP (IN for) (NP (DT a) (JJ small) (NN business))))))))
+

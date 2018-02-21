@@ -1,0 +1,102 @@
+50 x
+-44.976343337573 -148.868932744114
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-45.803900887149 -147.670876711042
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-46.826696678434 -150.064600338993
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-47.034645293573 -154.138477469266
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WHNP (WRB how) (JJ heavy)) (NP (DT the) (NN car) (NN industry))) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-47.160870176310 -154.930962406535
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby))) (VP (VBZ is))))))))
+-47.349863229797 -155.219733494601
+(S1 (S (CC and) (S (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))
+-47.650582585697 -156.099833474292
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy) (NP (DT the) (NN car) (NN industry))) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.053916827243 -153.832744626827
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (JJ heavy) (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.054326686701 -157.492473255950
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WHNP (WRB how) (JJ heavy)) (NP (DT the) (NN car)) (NN industry)) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.119198177018 -156.519814428310
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))
+-48.177420779373 -154.021677461529
+(S1 (S (CC and) (S (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))
+-48.196359901614 -154.086511677536
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (NP (JJ heavy) (DT the) (NN car) (NN industry))) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.418169651872 -158.619095555390
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy) (NP (DT the) (NN car) (NN industry))) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.450810500976 -155.135580238322
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (ADJP (JJ heavy))) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.486430808117 -156.627222954176
+(S1 (S (CC and) (NP (NN passing)) (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.518434781005 -155.991831186538
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby))) (VP (VBZ is))))))))
+-48.541769581988 -154.341753903412
+(S1 (FRAG (CC and) (S (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))))))
+-48.582557323302 -157.044819875617
+(S1 (S (CC and) (NP (VBG passing)) (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.821063194170 -156.126630012355
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby))) (VP (VBZ is))))))))
+-48.826481579005 -158.711540740170
+(S1 (S (CC and) (VP (VBG passing) (NP (DT the) (NN law))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-48.951745635571 -158.054048988395
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (ADJP (JJ heavy)) (NP (DT the) (NN car) (NN industry))) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-49.021871618152 -159.354924165482
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car)) (VP (NN industry) (SBAR (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-49.095870654497 -155.688479208912
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))
+-49.200216570657 -156.415401089480
+(S1 (S (CC and) (S (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))
+-49.209860531776 -159.370780176640
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (FRAG (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))
+-49.210245150196 -159.223624016003
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby))) (VP (VBZ is))))))))
+-49.313988329815 -155.429166921104
+(S1 (S (CC and) (NP (NN passing)) (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-49.369327131564 -153.143697870340
+(S1 (FRAG (CC and) (S (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))))))
+-49.410114845000 -155.846763842545
+(S1 (S (CC and) (NP (VBG passing)) (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-49.487960248052 -158.419824248019
+(S1 (S (CC and) (PP (VBG passing) (NP (DT the) (NN law))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-49.693929315709 -158.588152919188
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (ADJP (JJ heavy) (NP (DT the) (NN car) (NN industry)))) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-49.782374339161 -157.194177143599
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))
+-49.827725284077 -158.860935445057
+(S1 (S (CC and) (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-49.874119559682 -156.058385641311
+(S1 (FRAG (CC and) (VP (NN passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-50.025126377620 -159.018979982627
+(S1 (S (CC and) (S (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))))))
+-50.066006526168 -156.187446290409
+(S1 (FRAG (CC and) (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADJP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-50.315517797628 -157.221768214947
+(S1 (S (CC and) (PP (VBG passing) (NP (DT the) (NN law))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-50.336784121100 -157.822890549054
+(S1 (S (CC and) (NP (NN passing)) (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-50.392122922849 -155.537421498291
+(S1 (FRAG (CC and) (S (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))))))
+-50.432910664163 -158.240487470496
+(S1 (S (CC and) (NP (VBG passing)) (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-50.701677109258 -154.860329608239
+(S1 (FRAG (CC and) (VP (NN passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-50.893564075744 -154.989390257337
+(S1 (FRAG (CC and) (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-51.057980660247 -157.397447305295
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (NP (JJ heavy))) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))
+-51.108716486370 -158.765729986572
+(S1 (FRAG (CC and) (VP (NN passing) (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))))
+-51.420583557336 -157.780892604125
+(S1 (S (CC and) (S (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)))))))))) (VP (VBZ is))))
+-51.526886571513 -159.060337452868
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (VP (NP (DT the) (NN car) (NN industry)) (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))))
+-51.619343071658 -159.305565786125
+(S1 (FRAG (CC and) (S (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (JJ heavy) (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is))))))))))))
+-51.724472900543 -157.254053236189
+(S1 (FRAG (CC and) (VP (NN passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-51.916359867028 -157.383113885287
+(S1 (FRAG (CC and) (VP (VBG passing) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry)) (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))))))
+-52.862454283493 -157.614039442245
+(S1 (S (CC and) (S (VP (VBG passing) (NP (DT the) (NN law)))) (VP (VBZ depends) (PP (IN on) (SBAR (WHNP (WRB how) (JJ heavy)) (S (NP (DT the) (NN car) (NN industry))))) (SBAR (S (NP (DT the) (NN automobile) (NN lobby)) (VP (VBZ is)))))))
+

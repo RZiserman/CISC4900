@@ -1,0 +1,102 @@
+50 x
+-15.486245019778 -58.840865619540
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (ADVP (RB though))))))))
+-16.130516594761 -68.408352122021
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (PP (IN though))))))))
+-16.185177220300 -62.923209502405
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (ADVP (IN though))))))))
+-17.532838474238 -68.404069833674
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (NP (IN though))))))))
+-17.583978135906 -68.322530382661
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (PRT (IN though))))))))
+-18.708605617900 -68.695568550962
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (PRT (RB though))))))))
+-19.015640188568 -68.165916570328
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (VP (ADVP (IN though)))))))))
+-19.056822176327 -66.870749201698
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (RB though)))))))
+-19.238112109796 -67.997358482709
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (ADJP (IN though))))))))
+-19.409090984572 -67.195445148298
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (PP (RB though))))))))
+-19.634428733912 -67.904734465186
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (VP (ADVP (RB though)))))))))
+-19.715692880875 -70.870072825934
+(S1 (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP they)) (VP (VBP graze) (ADVP (RB though)))))))
+-19.814933547416 -66.808930291047
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (NP (RB though))))))))
+-19.924969855636 -69.233303821156
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (ADVP (RB though)))))
+-20.278283621323 -71.738614154046
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (ADVP (IN though)))))))))
+-20.358585249105 -69.646447579439
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (ADVP (RB though)))))))))
+-20.394377665118 -73.920169603099
+(S1 (S (NP (PRP I)) (VP (VB guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (ADVP (RB though))))))))
+-20.407592010881 -70.159471761661
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (VP (RB though))))))))
+-20.416988761456 -65.701593728673
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (ADJP (RB though))))))))
+-20.612617038062 -78.633966781507
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (VP (IN though))))))))
+-20.732332495397 -74.952416708799
+(S1 (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP they)) (VP (VBP graze) (ADVP (IN though)))))))
+-20.851095898605 -71.553379932860
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze)) (ADVP (RB though)))))))
+-20.920419926882 -72.381167910653
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (ADJP (IN though)))))))))
+-21.115249952474 -74.687268494560
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (VP (ADVP (IN though))))))))))
+-21.184944228679 -78.002513485964
+(S1 (S (NP (PRP I)) (VP (VB guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (ADVP (IN though))))))))
+-21.276708347893 -78.800790261395
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (PP (IN though)))))
+-21.329787298586 -67.505725813993
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (ADJP (RB though)))))))))
+-21.512673440158 -73.315647704020
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (ADVP (IN though)))))
+-21.824852151786 -74.564670204623
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (VP (ADVP (RB though))))))))))
+-21.982872528623 -76.952207265394
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (NP (IN though)))))))))
+-22.116386497181 -77.237703208931
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (SBAR (RB though))))))))
+-22.373388404634 -78.362645995008
+(S1 (S (NP (PRP I)) (VP (VB guess) (S (NP (PRP they)) (VP (VBP graze) (ADVP (RB though)))))))
+-22.502554104580 -77.607744570848
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze)) (ADVP (IN though)))))))
+-22.797379419909 -76.906366254497
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (VP (RB though)))))))))
+-22.812052611825 -78.714968529131
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (PRT (IN though)))))
+-22.920091254976 -78.796507802860
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (NP (IN though)))))
+-23.047908709819 -79.088006697431
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (PRT (RB though)))))
+-23.306739637423 -78.899956408092
+(S1 (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP they)) (VP (VBP graze) (RB though))))))
+-23.458750131156 -77.263187256187
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (RB though))))
+-23.666511353703 -77.587883287673
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (PP (RB though)))))
+-23.991074437358 -76.614614938188
+(S1 (S (S (NP (PRP I)) (VP (VBP guess) (NP (PRP they)))) (VP (VBP graze) (ADVP (RB though)))))
+-23.998043485831 -78.297172624425
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (VP (ADVP (RB though))))))
+-24.129577508513 -78.838137497441
+(S1 (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP they)) (VP (VBP graze) (NP (RB though)))))))
+-24.268026327275 -78.558354729568
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (VP (ADVP (IN though))))))
+-24.313414944155 -77.201368260232
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (NP (RB though)))))
+-24.440193181776 -78.389796582603
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (ADJP (IN though)))))
+-24.566395472552 -77.730800935067
+(S1 (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP they)) (VP (VBP graze) (ADJP (RB though)))))))
+-24.730298449436 -76.094031828567
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (ADJP (RB though)))))
+-25.198106702029 -78.502731588677
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP they)) (VP (VBP graze) (S (NP (RB though)))))))))
+-25.763445345900 -77.898163797158
+(S1 (S (NP (PRP I)) (VBP guess) (NP (PRP they)) (VP (VBP graze) (S (ADJP (RB though))))))
+

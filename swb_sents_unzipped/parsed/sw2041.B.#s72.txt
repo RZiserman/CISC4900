@@ -1,0 +1,102 @@
+50 x
+-18.023751994293 -67.627973292857
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-19.032708798112 -69.913358861152
+(S1 (S (ADVP (RB So)) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-19.068748575879 -72.320666337964
+(S1 (SBAR (IN So) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))
+-19.909484884362 -71.966573071432
+(S1 (S (IN So) (NP (NP (PRP it)) (NP (PRP it))) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-20.149027977034 -72.063057038017
+(S1 (S (RB So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-20.245557427108 -72.234138879032
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))))
+-20.428390304040 -75.046977916498
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (VB dance))))))
+-20.636595473535 -74.224301019948
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (NP (JJ like) (NN dance)))))
+-20.808149657089 -76.429502040148
+(S1 (S (CC So) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))
+-21.190608249340 -73.827128367549
+(S1 (S (RB So) (NP (NP (PRP it)) (NP (PRP it))) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-21.339997278948 -69.625541136041
+(S1 (FRAG (ADVP (RB So)) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))
+-21.404179325071 -77.332363484793
+(S1 (S (ADVP (RB So)) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (VB dance))))))
+-21.510564924152 -76.074689541742
+(S1 (S (ADVP (RB So)) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))
+-21.614429780844 -77.816412974574
+(S1 (S (ADVP (RB So)) (NP (NP (PRP it)) (NP (PRP it))) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-21.645552277354 -76.509686588242
+(S1 (S (ADVP (RB So)) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (NP (JJ like) (NN dance)))))
+-21.660755356786 -78.916994175643
+(S1 (SBAR (IN So) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (NP (JJ like) (NN dance))))))
+-21.724842553781 -78.227478054071
+(S1 (S (PP (IN So) (NP (PRP it))) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-21.780283854646 -75.081738926723
+(S1 (S (ADVP (IN So)) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-21.857302284764 -78.578633511861
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (SBAR (IN like) (S (VP (VB dance)))))))
+-21.980657560085 -74.364832924115
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (VP (IN like) (NP (NN dance))))))
+-22.016759107665 -76.406467167914
+(S1 (FRAG (RB So) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))))
+-22.017842147611 -70.980244610816
+(S1 (FRAG (RB So) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))
+-22.153771756522 -77.834022571843
+(S1 (S (X (IN So) (NP (PRP it))) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-22.515061283603 -78.562900798522
+(S1 (S (IN So) (NP (NP (PRP it)) (NP (PRP it))) (VP (VBZ is) (NP (JJ like) (NN dance)))))
+-22.573992549352 -78.557587817839
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (VP (IN like) (S (VP (VB dance)))))))
+-22.666038300606 -78.023071152371
+(S1 (S (NP (RB So) (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-22.689838720507 -77.127194901537
+(S1 (FRAG (RB So) (NP (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))))
+-22.758135394259 -78.996287647218
+(S1 (S (X (RB So) (NP (PRP it))) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-22.761871456276 -78.659384765108
+(S1 (S (RB So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (NP (JJ like) (NN dance)))))
+-22.766161158015 -78.830466716711
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (NP (JJ like) (NN dance)))))))
+-22.923541167581 -79.057525884944
+(S1 (SBAR (IN So) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (VP (IN like) (NP (NN dance)))))))
+-22.929669654064 -78.750667988498
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (S (NP (NN dance)))))))
+-22.959948023904 -76.650218492410
+(S1 (S (ADVP (RB So)) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (VP (IN like) (NP (NN dance))))))
+-23.227698597980 -77.628537513480
+(S1 (S (CC So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (NP (IN like) (NN dance)))))
+-23.234534408120 -77.855873354055
+(S1 (S (ADVP (IN So) (NP (PRP it))) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-23.566665491875 -76.046668804644
+(S1 (S (IN So) (NP (NP (PRP it)) (ADVP (PRP it))) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-23.676826367611 -78.122080814961
+(S1 (S (PP (RB So) (NP (PRP it))) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-23.795435042761 -77.942807964707
+(S1 (S (ADVP (RB So) (PRP it)) (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-23.846278530153 -78.703432702690
+(S1 (S (IN So) (NP (NP (PRP it)) (NP (PRP it))) (VP (VBZ is) (VP (IN like) (NP (NN dance))))))
+-23.883037186887 -76.221868789423
+(S1 (FRAG (ADVP (RB So)) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (NP (JJ like) (NN dance))))))
+-23.948332105907 -77.044545759682
+(S1 (FRAG (ADVP (RB So)) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (VB dance)))))))
+-24.054286651597 -78.970998426012
+(S1 (FRAG (SBAR (IN So) (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (VP (IN like) (NP (NN dance))))))))
+-24.076267202826 -78.799916669275
+(S1 (S (RB So) (NP (PRP it)) (NP (PRP it)) (VP (VBZ is) (VP (IN like) (NP (NN dance))))))
+-24.151415897772 -78.972646277812
+(S1 (FRAG (PP (IN So) (NP (PRP it))) (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))
+-24.560882055551 -77.576572264198
+(S1 (FRAG (RB So) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (NP (JJ like) (NN dance))))))
+-24.626176974570 -78.399249234457
+(S1 (FRAG (RB So) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (VB dance)))))))
+-24.831140346854 -77.907224100762
+(S1 (S (RB So) (NP (NP (PRP it)) (ADVP (PRP it))) (VP (VBZ is) (PP (IN like) (NP (NN dance))))))
+-24.934463211992 -78.796829721915
+(S1 (FRAG (ADVP (IN So)) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (PP (IN like) (NP (NN dance)))))))
+-25.046851125103 -76.362400795859
+(S1 (FRAG (ADVP (RB So)) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (VP (IN like) (NP (NN dance)))))))
+-25.724695993766 -77.717104270634
+(S1 (FRAG (RB So) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ is) (VP (IN like) (NP (NN dance)))))))
+

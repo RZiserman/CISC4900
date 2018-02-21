@@ -1,0 +1,102 @@
+50 x
+-10.045221985098 -38.596589595372
+(S1 (S (NP (PRP They)) (VP (VBP release) (NP (DT that)))))
+-11.832729293645 -42.836256715215
+(S1 (S (NP (PRP They)) (VP (VB release) (NP (DT that)))))
+-11.867709186096 -41.438152014981
+(S1 (S (NP (PRP They)) (VP (VBP release) (NP (IN that)))))
+-12.377014538067 -45.777285937923
+(S1 (S (NP (PRP They)) (VP (NN release) (NP (DT that)))))
+-13.806812825520 -47.466773120674
+(S1 (S (NP (PRP They)) (VP (NN release) (NP (IN that)))))
+-13.899704087657 -45.365895938238
+(S1 (S (NP (PRP They)) (VP (VB release) (NP (IN that)))))
+-13.983160986086 -45.244863316770
+(S1 (S (NP (PRP They)) (VP (VBP release) (NP (WDT that)))))
+-14.178608816997 -55.945514988053
+(S1 (S (NP (PRP They)) (VP (VBP release) (PP (IN that)))))
+-14.192971201604 -50.348140214270
+(S1 (S (NP (PRP They)) (VP (VBP release) (ADVP (RB that)))))
+-14.565819654257 -51.266482996425
+(S1 (S (NP (PRP They)) (VP (VBP release) (PRT (IN that)))))
+-14.761791754409 -52.715714984934
+(S1 (S (NP (PRP They)) (VP (VBP release) (NP (NN that)))))
+-14.860282592579 -49.568078152608
+(S1 (S (NP (PRP They)) (VP (VBP release) (RB that))))
+-15.052247362896 -51.060745535603
+(S1 (S (NP (PRP They)) (VP (VBP release) (ADVP (IN that)))))
+-15.280235296480 -50.910079048271
+(S1 (S (NP (PRP They)) (VP (VBP release) (ADVP (DT that)))))
+-15.373875843022 -54.280345602728
+(S1 (S (NP (PRP They)) (VP (NN release) (ADVP (RB that)))))
+-15.459436863672 -54.448159805939
+(S1 (S (NP (PRP They)) (VP (VBP release) (PRT (RB that)))))
+-15.594125657027 -53.938536261436
+(S1 (S (NP (PRP They)) (VP (NN release) (PRT (IN that)))))
+-15.643975420764 -50.403132377663
+(S1 (S (NP (PRP They)) (VP (NN release) (NP (WDT that)))))
+-15.686849510653 -49.695059582324
+(S1 (S (NP (PRP They)) (VP (VBP release) (ADJP (IN that)))))
+-15.722722363170 -55.689398960595
+(S1 (S (NP (PRP They)) (VP (VB release) (PRT (RB that)))))
+-15.822027497157 -52.500294629446
+(S1 (S (NP (PRP They)) (VP (VB release) (ADVP (RB that)))))
+-15.836157630145 -53.393210607727
+(S1 (S (NP (PRP They)) (VP (VB release) (PRT (IN that)))))
+-15.924172605602 -50.897928500753
+(S1 (S (NP (PRP They)) (VP (VB release) (NP (WDT that)))))
+-15.990249494672 -55.640564967974
+(S1 (S (NP (PRP They)) (VP (VBP release) (SBAR (DT that)))))
+-16.021668068371 -53.509843838349
+(S1 (S (NP (PRP They)) (VP (VB release) (RB that))))
+-16.039035937632 -50.373440764172
+(S1 (S (NP (PRP They)) (VP (VBP release) (NP (RB that)))))
+-16.073603986468 -49.535462681641
+(S1 (S (NP (PRP They)) (VP (VBP release) (S (ADJP (IN that))))))
+-16.093518867451 -55.727580627875
+(S1 (S (NP (PRP They)) (VP (NN release) (ADVP (IN that)))))
+-16.160313036142 -55.116294559678
+(S1 (S (NP (PRP They)) (VP (VBP release) (S (NP (DT that))))))
+-16.223677895585 -52.832978797126
+(S1 (S (NP (PRP They)) (VP (VBP release) (SBAR (S (NP (DT that)))))))
+-16.450804262306 -50.994833414684
+(S1 (S (NP (PRP They)) (VP (VBP release) (S (ADVP (IN that))))))
+-16.470474235809 -49.514887380534
+(S1 (S (NP (PRP They)) (VP (VBP release) (ADJP (RB that)))))
+-16.515245294314 -52.548500476687
+(S1 (S (NP (PRP They)) (VP (VBP release) (VP (ADVP (IN that))))))
+-16.671068964210 -55.353335699174
+(S1 (S (NP (PRP They)) (VP (VBP release) (PP (RB that)))))
+-16.696129820522 -54.559057225720
+(S1 (S (NP (PRP They)) (VP (VBP release) (VP (ADVP (RB that))))))
+-16.738923318254 -52.722894545871
+(S1 (S (NP (PRP They)) (VP (VB release) (ADVP (IN that)))))
+-16.952152565953 -51.461887587004
+(S1 (S (NP (PRP They)) (VP (VB release) (S (ADJP (IN that))))))
+-16.980936430379 -55.165817381574
+(S1 (S (NP (PRP They)) (VP (VBP release) (ADJP (DT that)))))
+-16.981093228245 -55.469781292056
+(S1 (S (NP (PRP They)) (VP (NN release) (NP (RB that)))))
+-17.172005316767 -54.721126894043
+(S1 (S (NP (PRP They)) (VP (VB release) (ADVP (DT that)))))
+-17.263255040920 -54.061432174309
+(S1 (S (NP (PRP They)) (VP (VBP release) (S (NP (IN that))))))
+-17.282416522192 -55.468760940952
+(S1 (S (NP (PRP They)) (VP (VBP release) (S (ADVP (RB that))))))
+-17.429754765359 -54.808063667031
+(S1 (S (NP (PRP They)) (VP (VB release) (NP (RB that)))))
+-17.431050714251 -54.619401759023
+(S1 (S (NP (PRP They)) (VP (VBP release) (S (VP (ADVP (IN that)))))))
+-17.536109540595 -54.648067491730
+(S1 (S (NP (PRP They)) (VP (NN release) (SBAR (S (NP (DT that)))))))
+-17.648355146437 -53.165321104260
+(S1 (S (NP (PRP They)) (VP (VB release) (ADJP (RB that)))))
+-17.799901452053 -56.272413883530
+(S1 (S (NP (PRP They)) (VP (NN release) (ADJP (IN that)))))
+-17.883892587442 -53.226123884922
+(S1 (S (NP (PRP They)) (VP (VBP release) (S (ADJP (RB that))))))
+-17.925470019023 -53.687358535632
+(S1 (S (NP (PRP They)) (VP (VB release) (S (ADVP (IN that))))))
+-18.127925528370 -55.603697237399
+(S1 (S (NP (PRP They)) (VP (VB release) (ADJP (IN that)))))
+

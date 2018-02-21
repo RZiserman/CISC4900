@@ -1,0 +1,102 @@
+50 x
+-44.958180117735 -167.881308848804
+(S1 (S (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (VB tread) (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))
+-46.079462133447 -170.278354902032
+(S1 (S (S (NP (PRP I)) (VP (VB like) (NP (DT the) (VB tread) (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))
+-46.287106882176 -168.349278334078
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))))
+-46.600171376786 -168.728815902098
+(S1 (S (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (VB tread) (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there)))))))
+-47.381649520822 -170.619978009382
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-47.388343619612 -169.862735550904
+(S1 (S (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (ADJP (VB tread) (NN mill))))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))
+-47.469869889105 -169.196785492316
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-47.518394806333 -170.704972661243
+(S1 (S (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (VB tread) (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (NN master) (NP (PRP myself)) (PP (IN over) (NP (EX there)))))))
+-47.631275928444 -169.957606490395
+(S1 (S (NP (PRP I)) (VP (VB like) (S (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))))
+-47.721453392498 -171.125861955326
+(S1 (S (S (NP (PRP I)) (VP (VB like) (NP (DT the) (VB tread) (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there)))))))
+-47.932747153805 -168.351229274393
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair)))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))
+-48.124021085873 -170.032514566549
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (NN master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-48.180600797714 -171.001664130800
+(S1 (S (NP (PRP I)) (SBAR (IN like) (S (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))))
+-48.353694841179 -167.973442930023
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself))) (PP (IN over) (NP (EX there))))))))
+-48.523181787617 -170.880175447617
+(S1 (S (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (ADJP (VB tread)) (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))
+-48.808561859479 -170.278409061562
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair) (NN master))) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))
+-48.819846386258 -169.580547673379
+(S1 (S (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (VB tread) (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)))) (PP (IN over) (NP (EX there)))))
+-48.901878517978 -169.198736346416
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair)))) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))
+-48.970435157494 -170.805113648632
+(S1 (S (NP (PRP I)) (VP (VB like) (S (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-49.005516413478 -170.256580142860
+(S1 (S (S (NP (PRP I)) (VP (VB like) (S (NP (DT the)) (VP (VB tread) (NP (NN mill)))))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))
+-49.030334850785 -170.710242604199
+(S1 (S (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (ADJP (VB tread) (NN mill))))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there)))))))
+-49.458595425086 -171.146859723247
+(S1 (S (S (NP (PRP I)) (VP (ADVP (IN like) (DT the)) (VB tread) (NP (NN mill)))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))
+-49.486220218543 -170.454035104047
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself)))) (PP (IN over) (NP (EX there))))))
+-49.487890652380 -169.722737579961
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (NP (DT the) (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair) (NN master))) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))
+-49.850433251043 -167.403842664559
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))))
+-49.900762857108 -168.951539587838
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-50.489451049433 -169.012170820876
+(S1 (S (NP (PRP I)) (VP (VB like) (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))))
+-50.647507672529 -171.104087196154
+(S1 (S (S (NP (PRP I)) (VP (VB like) (S (NP (DT the)) (VP (VB tread) (NP (NN mill)))))) (CC and) (S (NP (DT the) (NN stair)) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there)))))))
+-50.872808177466 -166.305004508479
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself))) (PP (IN over) (NP (EX there))))))))
+-51.033196230094 -168.251349822796
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-51.125304375765 -168.609970743209
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair) (NN master))) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))
+-51.225896784174 -167.955450318083
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair) (NN master))) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))
+-51.258067241630 -169.586550017720
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))
+-51.333157626581 -170.056228461280
+(S1 (S (NP (PRP I)) (SBAR (IN like) (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))))
+-51.360700585875 -170.638995544257
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the)) (VP (VB tread) (S (NP (NP (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))))))
+-51.427824022334 -171.193498435524
+(S1 (S (NP (PRP I)) (VP (VBP like) (SBAR (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))))
+-51.430980712323 -167.948116974598
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair)))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there)))))
+-51.621774292302 -170.917117959302
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the)) (VP (VB tread) (NP (NP (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PRT (RP over)) (ADVP (RB there))))))))
+-51.828610306362 -169.859677979113
+(S1 (S (NP (PRP I)) (VP (VB like) (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-51.849199929755 -170.903735514575
+(S1 (S (NP (PRP I)) (SBAR (IN like) (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-52.008371318955 -170.280426936180
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair))) (VP (NN master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-52.135168762707 -168.785596785693
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself)))) (PP (IN over) (NP (EX there))))))
+-52.144738164121 -171.102940872545
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself))) (PP (IN over) (NP (EX there))))))))
+-52.400112076496 -168.795624046620
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair)))) (VP (VB master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))
+-52.728115251527 -170.821618663727
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself))) (PP (IN over) (NP (EX there))))))))
+-52.799938547091 -171.031092760795
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself)))) (PP (IN over) (NP (EX there))))))
+-53.208664207593 -170.670138909171
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the)) (VP (VB tread) (NP (NP (NN mill)) (CC and) (NP (DT the) (NN stair) (NN master))) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))))
+-53.612513025402 -170.895463719342
+(S1 (S (NP (PRP I)) (VP (VBP like) (DT the) (VP (VB tread) (NP (NP (NN mill)) (CC and) (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself)))) (PRT (RP over)) (ADVP (RB there))))))
+-53.633971385606 -170.798632058065
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (NP (VB tread) (NN mill)) (CC and) (NP (DT the) (NN stair)))) (VP (NN master) (NP (PRP myself)) (PP (IN over) (NP (EX there))))))
+-54.321779012490 -171.109844294464
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (VP (DT the) (VP (VB tread) (NP (NP (NN mill)) (CC and) (NP (NP (DT the) (NN stair) (NN master)) (NP (PRP myself)))) (PRT (RP over)) (ADVP (RB there))))))))
+

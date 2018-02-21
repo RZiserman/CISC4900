@@ -1,0 +1,102 @@
+50 x
+-19.463283039448 -70.235736567975
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (VBN a-))))))
+-20.168763759328 -70.754033308731
+(S1 (SBAR (WHADVP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-20.358800743594 -64.794563149388
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-20.612671221324 -72.763387038887
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (VBG a-))))))
+-20.732323715368 -72.255632949139
+(S1 (SBAR (WHADVP (WRB when)) (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-20.937472880535 -70.216996449076
+(S1 (S (SBAR (WHADVP (WRB when)) (FRAG (WHADVP (WRB when)))) (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))
+-21.061324462956 -71.115126487601
+(S1 (FRAG (WHADVP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-21.153333382238 -75.658169833746
+(S1 (S (SBAR (WHADVP (WRB when)) (FRAG (WHADVP (WRB when)))) (NP (PRP they)) (VP (VBD were) (VP (VBN a-)))))
+-21.270945352303 -72.086988453775
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (NP (NNS a-))))))
+-21.400807746615 -72.369881564735
+(S1 (SBAR (WHADVP (WRB when)) (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))))
+-21.626955556511 -75.771415466314
+(S1 (SBAR (WHADVP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (JJ a-)))))))
+-21.667657030846 -72.873401596059
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (NP (CD a-))))))
+-21.678057965967 -73.871756624673
+(S1 (SBAR (WHADVP (WRB when)) (FRAG (WHADVP (WRB when))) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-21.748308850165 -73.533539746780
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (VBN a-)))))))
+-21.789465640776 -69.811945306972
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (JJ a-))))))
+-21.932346053819 -71.171589006553
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJR a-))))))
+-21.960671317263 -71.411188813138
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (NP (NN a-))))))
+-22.007063443139 -72.666290138187
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADVP (RB a-))))))
+-22.034597919814 -74.193828485831
+(S1 (NP (WRB when) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-22.092098022124 -70.870755995374
+(S1 (FRAG (WRB when) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-22.365564565196 -74.930771827755
+(S1 (FRAG (SBAR (WHADVP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))))
+-22.438953926566 -75.234378572743
+(S1 (S (SBAR (WHADVP (WRB when)) (FRAG (WHADVP (WRB when)))) (NP (PRP they)) (VP (VBD were) (VP (JJ a-)))))
+-22.485004290138 -76.132508645185
+(S1 (FRAG (WHADVP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (JJ a-)))))))
+-22.634219854311 -68.092366328193
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-22.857016912041 -76.061190217693
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (VBG a-)))))))
+-22.862724246540 -70.843545341344
+(S1 (FRAG (ADVP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-23.110110747025 -75.525500875740
+(S1 (NP (NP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-23.141505172372 -75.173369715810
+(S1 (FRAG (FRAG (WHADVP (WRB when))) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-23.291011154404 -75.726926859369
+(S1 (SBAR (WHADVP (WRB when)) (S (INTJ (WRB when)) (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-23.298290287947 -74.754189966412
+(S1 (SBAR (WHNP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-23.312620812274 -74.405268082264
+(S1 (SBAR (ADVP (WRB when)) (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-23.387515986519 -75.888138152958
+(S1 (FRAG (WRB when) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (JJ a-)))))))
+-23.395996361026 -75.527241424893
+(S1 (FRAG (WHADVP (WRB when)) (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))))
+-23.413144182243 -73.040941565596
+(S1 (SBAR (WHADVP (WRB when)) (S (ADVP (WRB when)) (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-23.533348926398 -73.574373630781
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (NP (JJ a-))))))
+-23.612130701116 -75.359163045818
+(S1 (FRAG (INTJ (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-)))))))
+-23.687246993020 -75.384791632580
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (NP (NNS a-)))))))
+-23.840376184966 -72.588688481941
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADVP (JJ a-))))))
+-23.945944149680 -74.621785515192
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (VBN a-))))))
+-24.064114181494 -73.109748485777
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (JJ a-)))))))
+-24.170696804536 -74.469392185358
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJR a-)))))))
+-24.241452517980 -74.708991991943
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (NP (NN a-)))))))
+-24.286404073722 -75.860927498927
+(S1 (FRAG (ADVP (WRB when)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (VP (JJ a-)))))))
+-24.291374536694 -75.275377811682
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADVP (JJR a-))))))
+-24.316535445402 -75.269806552483
+(S1 (FRAG (WRB when) (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))))
+-24.328703689362 -75.614681444479
+(S1 (SBAR (WHADVP (ADVP (WRB when)) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ a-))))))
+-24.403941443856 -75.964093316992
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADVP (RB a-)))))))
+-24.839464680801 -72.848887961503
+(S1 (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (S (ADJP (JJ a-)))))))
+-26.115795295683 -75.886491660746
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (ADVP (JJ a-)))))))
+-27.114883791518 -76.146691140308
+(S1 (FRAG (SBAR (WHADVP (WRB when) (WRB when)) (S (NP (PRP they)) (VP (VBD were) (S (ADJP (JJ a-))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-8.668710126682 -36.426564878552
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))
+-11.860409863865 -38.602662601726
+(S1 (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-12.430953410455 -47.913187668149
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB be) (NP (JJ neat))))))
+-12.527722669543 -48.038297181369
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB be) (VP (JJ neat))))))
+-12.714989666690 -39.689041044541
+(S1 (S (NP (WDT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))
+-12.796129527188 -46.534518106951
+(S1 (S (DT That) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))
+-13.117175993313 -41.843083198594
+(S1 (S (NP (IN That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))
+-13.383941545231 -45.160902353369
+(S1 (S (WHNP (WDT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))
+-13.399630481194 -41.628209261179
+(S1 (SBAR (DT That) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-13.698974462689 -49.262120322722
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB be) (S (ADJP (JJ neat)))))))
+-13.874959213512 -46.173502118037
+(S1 (FRAG (S (NP (DT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-13.897699696838 -40.346969418814
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))))
+-13.988993122741 -47.752332888012
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB be) (ADVP (JJ neat))))))
+-14.235277141819 -45.187746340754
+(S1 (SBAR (IN That) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-14.529900760310 -47.060302937166
+(S1 (S (RB That) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))
+-14.626291448523 -52.288507680932
+(S1 (SBAR (S (NP (DT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-14.833667463486 -53.655740469058
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB be) (FRAG (ADJP (JJ neat)))))))
+-14.903269507786 -45.251057264654
+(S1 (SBAR (WDT That) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-15.007667809126 -45.922121597681
+(S1 (SBAR (WHNP (DT That)) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-15.104029899909 -49.443266246357
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))))
+-15.375304987727 -50.214394904543
+(S1 (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (VP (JJ neat)))))))
+-15.440681947639 -50.089285391323
+(S1 (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (NP (JJ neat)))))))
+-15.739638561888 -44.882019827611
+(S1 (FRAG (SBAR (IN That) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))))
+-15.834278231827 -47.556016025371
+(S1 (FRAG (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-16.211026366919 -51.123500642225
+(S1 (SBAR (WHNP (WDT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))
+-16.253885982044 -52.042863601229
+(S1 (PP (IN That) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-16.476201712340 -51.300773347358
+(S1 (S (NP (WDT That)) (VP (MD would) (VP (VB be) (VP (JJ neat))))))
+-16.477232950464 -51.175663834138
+(S1 (S (NP (WDT That)) (VP (MD would) (VP (VB be) (NP (JJ neat))))))
+-16.540323659168 -52.604141139830
+(S1 (FRAG (NP (DT That)) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-16.663194359925 -49.928430611186
+(S1 (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (ADVP (JJ neat)))))))
+-16.769737086661 -51.438218045895
+(S1 (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (S (ADJP (JJ neat))))))))
+-16.879419277086 -53.329705988191
+(S1 (S (NP (IN That)) (VP (MD would) (VP (VB be) (NP (JJ neat))))))
+-16.922259477331 -50.598785971009
+(S1 (SBAR (WHNP (IN That)) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-16.979902564967 -53.114832050776
+(S1 (SBAR (DT That) (S (VP (MD would) (VP (VB be) (NP (JJ neat)))))))
+-17.003734336175 -53.454815501411
+(S1 (S (NP (IN That)) (VP (MD would) (VP (VB be) (VP (JJ neat))))))
+-17.012326105055 -53.239941563996
+(S1 (SBAR (DT That) (S (VP (MD would) (VP (VB be) (VP (JJ neat)))))))
+-17.410517049700 -51.958701721631
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (VP (JJ neat))))))))
+-17.477971780612 -51.833592208411
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (NP (JJ neat))))))))
+-17.674327779460 -48.678332488584
+(S1 (FRAG (S (NP (WDT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-17.688724771119 -50.124295478282
+(S1 (FRAG (SBAR (WDT That) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))))
+-17.745254005486 -52.524596488711
+(S1 (S (NP (WDT That)) (VP (MD would) (VP (VB be) (S (ADJP (JJ neat)))))))
+-18.035272662750 -51.014809054001
+(S1 (S (NP (WDT That)) (VP (MD would) (VP (VB be) (ADVP (JJ neat))))))
+-18.160996726890 -50.689300502497
+(S1 (FRAG (S (NP (IN That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat)))))))
+-18.202414977253 -52.953977270639
+(S1 (SBAR (DT That) (S (VP (MD would) (VP (VB be) (ADVP (JJ neat)))))))
+-18.437458989373 -53.168851208055
+(S1 (S (NP (IN That)) (VP (MD would) (VP (VB be) (ADVP (JJ neat))))))
+-18.700484192898 -51.672737428274
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (ADVP (JJ neat))))))))
+-18.717976737185 -51.672542597777
+(S1 (FRAG (SBAR (S (NP (WDT That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))))
+-18.807026916846 -53.182524862984
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (MD would) (VP (VB be) (S (ADJP (JJ neat)))))))))
+-19.001430804896 -52.140184360761
+(S1 (FRAG (SBAR (WHNP (IN That)) (S (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))))
+-19.409376075911 -53.687303842074
+(S1 (FRAG (SBAR (S (NP (IN That)) (VP (MD would) (VP (VB be) (ADJP (JJ neat))))))))
+

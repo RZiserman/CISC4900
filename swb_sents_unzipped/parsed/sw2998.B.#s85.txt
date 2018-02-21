@@ -1,0 +1,102 @@
+50 x
+-30.557667094197 -112.391625423543
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (NNS th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-30.942990905854 -110.187290257548
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBG th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-31.460145606317 -103.528851069937
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-31.962036401468 -110.746402031099
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBN th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-32.166188267049 -114.303913381379
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBG th-) (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-32.286916848836 -113.603457799448
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (NN th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-32.335827821762 -107.155387965625
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-32.667080130692 -114.271694150976
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBN th-) (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-33.046110693098 -114.814290086629
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NNS th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-33.093914225252 -113.221287987842
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBG th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-33.410883543349 -110.821813371558
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-33.428965462834 -110.616110301965
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (SBAR (S (NP (JJ th-) (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-33.430224403836 -112.489330246735
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-33.518120223223 -114.592273243623
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (NNS th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-33.611068925715 -106.562848800231
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-33.743673503053 -112.551471336394
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (JJ th-) (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-33.903444034880 -112.387938077628
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBG th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-33.942088409705 -114.581259285042
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADVP (RB th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-33.951081055721 -109.686481379916
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (ADJP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-34.112959748744 -113.780399761393
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBN th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-34.420598735343 -105.729498890017
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-34.486751141160 -110.189385695919
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-34.516067643069 -115.061702893425
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (S (VP (VBG th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-34.699068097212 -114.132737965606
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (VBN th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-34.916884901279 -115.170838627667
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (SBAR (S (NP (NN th-) (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-34.922489558372 -112.947049851180
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (VBN th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-35.296280950788 -109.356035785705
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-35.372035273477 -112.842235432678
+(S1 (S (CC And) (NP (PRP I)) (VP (VB think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-35.561806862747 -113.855811101852
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-35.579888782232 -113.650108032259
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (SBAR (S (NP (JJ th-) (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-35.742997103510 -112.429018071768
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-))))) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))
+-36.102004375119 -112.720479110210
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (ADJP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-36.102451654831 -113.675288973884
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-)) (ADVP (RB there))))))) (VP (VBP are) (NP (NNS solutions)))))
+-36.241298247754 -112.743662179495
+(S1 (S (NP (CC And) (NP (PRP I))) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-36.308169300826 -115.124767828846
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (RB there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-36.344348326108 -110.610752499522
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-36.371336672375 -113.022461191638
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-36.389418591860 -112.816758122045
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (SBAR (S (NP (JJ th-) (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-36.390677560740 -114.689978066815
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-36.520301781026 -115.124767828846
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (RB there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-36.704126659957 -114.752119156475
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (VP (JJ th-) (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-36.775717640635 -111.481637405723
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-))))))) (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))
+-36.911534184747 -111.887129199996
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (ADJP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-37.120948678801 -113.537801414437
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that) (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-37.220030541553 -114.237289395210
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))
+-38.341731545506 -113.644750229816
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-38.405746855994 -114.696614149748
+(S1 (S (CC And) (NP (PRP I)) (VP (VBP think) (SBAR (WHNP (DT that)) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions))))))))))))
+-38.696866080414 -114.629665992802
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-))))) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))
+-39.304801455134 -112.811400319602
+(S1 (FRAG (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (DT that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NNS solutions)))))))))))))
+-39.677243528126 -115.213566449601
+(S1 (S (CC And) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (ADJP (JJ th-))))))) (VP (ADVP (RB there)) (VBP are) (NP (NNS solutions)))))
+

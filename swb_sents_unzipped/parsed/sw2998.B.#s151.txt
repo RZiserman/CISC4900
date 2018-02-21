@@ -1,0 +1,102 @@
+50 x
+-69.714232541990 -217.946935704035
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-70.323946559428 -225.716312039934
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (NP (DT that) (JJ ranking) (NN order)) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))))
+-70.671322373560 -221.106519957836
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-70.759453050208 -222.570986279172
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (NNP uh) (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-71.084156966316 -224.177683988646
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-71.581018997821 -225.723753322007
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (NP (DT that) (JJ ranking) (NN order)) (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America)))))))))
+-71.633690341649 -222.380656685140
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (NN ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-71.716542853900 -225.730570532973
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (NNP uh) (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.114157470409 -226.508096697695
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (SBAR (IN that) (FRAG (PP (IN in) (NP (DT that) (JJ ranking) (NN order))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.285722670008 -227.337268242447
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.389796355538 -224.492502032812
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (NP (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.513268123857 -223.872844942765
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (SBAR (WHNP (WDT that)) (FRAG (PP (IN in) (NP (DT that) (JJ ranking) (NN order))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.548218995242 -226.037668493308
+(S1 (FRAG (PP (ADVP (RB Well)) (IN since) (IN since) (NP (NNP Texas) (CC and) (NNP Louisiana))) (CC and) (NP (NP (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.642726647449 -226.625447153701
+(S1 (NP (NP (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America)))))))
+-72.665037512775 -224.289768825306
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas)) (CC and) (NP (NNP Louisiana) (CC and) (NNP uh) (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.678910849867 -227.004707260278
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (NNP uh) (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (NN ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.846495180206 -226.863839682036
+(S1 (NP (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas)) (CC and) (NP (NP (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-72.851721837583 -226.923111294645
+(S1 (S (PP (ADVP (RB Well)) (IN since) (IN since) (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (NNP uh) (NNP California)))) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))
+-73.001469285505 -222.896556901053
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (ADVP (UH uh)) (NP (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-73.003896604371 -227.270974688991
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (NNP uh) (NNP California))) (SBAR (WHNP (WDT that)) (FRAG (PP (IN in) (NP (DT that) (JJ ranking) (NN order))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-73.036283517469 -222.462236689149
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order))))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))
+-73.099931222414 -224.433700339196
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (UH uh))) (NP (NP (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-73.232205941603 -223.144293229964
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (NP (NP (DT that) (JJ ranking) (NN order)) (NP (DT the) (JJS worst) (NNS pollutants))) (PP (IN in) (NP (NNP America)))))))))
+-73.263315283072 -226.325113654287
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (NP (DT that) (JJ ranking) (NN order)) (PP (NP (DT the) (JJS worst) (NNS pollutants)) (IN in) (NP (NNP America)))))))))
+-73.442396534208 -225.995904406977
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (UH uh))) (NP (NP (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America)))))))))
+-73.458934005989 -223.286936697789
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America)))))))
+-73.469580246666 -226.287579651020
+(S1 (S (PP (ADVP (RB Well)) (IN since) (IN since) (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California))) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))
+-73.528721537534 -222.828307894143
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (ADVP (UH uh)) (NP (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-73.669404757518 -226.538203856428
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh)) (NP (NP (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-73.714833827549 -227.032429121406
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (SBAR (WHNP (WDT that)) (FRAG (PP (IN in) (NP (DT that) (VBG ranking) (NN order))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-73.748897421161 -225.621820942950
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order))))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))
+-73.958559117075 -226.056141154854
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (ADVP (UH uh)) (NP (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-74.340982563470 -227.106728109428
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (ADVP (IN that) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-74.341461081742 -226.370414159615
+(S1 (FRAG (PP (ADVP (RB Well)) (IN since) (IN since) (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (UH uh)))) (NP (NP (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-74.404741597559 -226.446520951590
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order)))) (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America)))))))
+-74.485811341226 -225.987892147944
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (ADVP (UH uh)) (NP (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-74.761271179059 -227.238675285036
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (NP (NP (DT that) (VBG ranking) (NN order)) (NP (DT the) (JJS worst) (NNS pollutants))) (PP (IN in) (NP (NNP America)))))))))
+-74.815031417128 -226.895957670254
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (NN ranking) (NN order))))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))
+-74.920927085164 -227.330277882159
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (ADVP (UH uh)) (NP (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (NN ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-75.028779206825 -224.094965530802
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (DT the) (JJS worst) (NNS pollutants))) (PP (IN in) (NP (NNP America)))))))
+-75.109344193312 -227.262489905369
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas) (CC and) (NNP Louisiana)) (CC and) (NP (NP (UH uh)) (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-75.285579276977 -224.164190629390
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (DT the) (JJS worst) (NNS pollutants))) (PP (IN in) (NP (NNP America))))))
+-75.297194071102 -225.574499890763
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas)) (CC and) (NP (NNP Louisiana))) (CC and) (NP (NP (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-75.448179337193 -227.262028875248
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (ADVP (UH uh)) (NP (NNP California))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (NN ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-75.755080470432 -224.917426096836
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (DT the) (JJS worst) (NNS pollutants)))) (PP (IN in) (NP (NNP America)))))
+-75.974586798394 -227.254549784603
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order)))) (NP (DT the) (JJS worst) (NNS pollutants))) (PP (IN in) (NP (NNP America)))))))
+-76.017368415753 -227.001730774196
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (DT that)) (PP (IN in) (NP (NP (NP (WDT that) (JJ ranking) (NN order)) (NP (DT the) (JJS worst) (NNS pollutants))) (PP (IN in) (NP (NNP America)))))))))
+-76.231386868547 -227.323774883191
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (NNP uh) (NNP California)) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (VBG ranking) (NN order)))) (NP (DT the) (JJS worst) (NNS pollutants))) (PP (IN in) (NP (NNP America))))))
+-76.695451650724 -226.799835995314
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NP (NNP Texas)) (CC and) (NP (NP (NNP Louisiana)) (CC and) (NP (NNP uh) (NNP California)))) (NP (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order)))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))))
+-76.979828649013 -227.343608879257
+(S1 (FRAG (CONJP (RB Well) (RB since) (IN since)) (NP (NP (NNP Texas) (CC and) (NNP Louisiana) (CC and) (ADVP (UH uh)) (NP (NNP California))) (NP (NP (DT that)) (PP (IN in) (NP (DT that) (JJ ranking) (NN order))))) (NP (NP (DT the) (JJS worst) (NNS pollutants)) (PP (IN in) (NP (NNP America))))))
+

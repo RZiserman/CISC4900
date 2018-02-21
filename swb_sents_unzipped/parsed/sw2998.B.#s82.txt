@@ -1,0 +1,102 @@
+50 x
+-15.311326881854 -53.027100836417
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-15.567505771952 -51.537492569534
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-16.051023525957 -54.124587569882
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (NN lead) (NN pollution)))))
+-16.257338543898 -52.658222175896
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (NN lead) (NN pollution)))))
+-18.382008034701 -58.184908909056
+(S1 (SINV (ADVP (RB There)) (VBZ 's) (NP (DT the) (JJ lead) (NN pollution))))
+-19.205288738597 -64.599788520653
+(S1 (S (ADVP (RB There)) (VP (POS 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-19.218721031270 -59.488090590160
+(S1 (SINV (ADVP (RB There)) (VBZ 's) (NP (DT the) (NN lead) (NN pollution))))
+-19.506557591944 -68.422169888823
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (VB lead) (NN pollution)))))
+-19.615967204471 -66.181035466731
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (VB lead) (NN pollution)))))
+-19.888321756241 -64.598324518355
+(S1 (S (RB There) (VP (VBZ 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-19.895121510543 -65.720518127015
+(S1 (S (ADVP (RB There)) (VP (POS 's) (NP (DT the) (NN lead) (NN pollution)))))
+-20.100059707592 -61.225759218223
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (NN lead)) (NP (NN pollution)))))
+-20.101667361873 -68.506713106551
+(S1 (S (ADVP (RB There)) (VP (VBZ 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-20.146221647029 -63.201575573673
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (NN lead)) (NP (NN pollution)))))
+-20.198380402193 -66.117207765024
+(S1 (S (RB There) (VP (POS 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-20.351356037009 -64.609922988854
+(S1 (S (NP (EX There)) (VP (VBZ 's) (S (NP (DT the) (JJ lead) (NN pollution))))))
+-20.514017818255 -63.081854322284
+(S1 (S (NP (RB There)) (VP (VBZ 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-20.533300877276 -63.687586082591
+(S1 (S (NP (RB There)) (VP (POS 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-20.553092081110 -62.023112668795
+(S1 (S (NP (EX There)) (VP (POS 's) (S (NP (DT the) (JJ lead) (NN pollution))))))
+-20.628018400344 -65.695811251820
+(S1 (S (RB There) (VP (VBZ 's) (NP (DT the) (NN lead) (NN pollution)))))
+-20.815272513293 -62.040245694499
+(S1 (S (NP (EX There)) (VP (POS 's) (S (NP (DT the) (NN lead) (NN pollution))))))
+-20.872285795192 -64.627056014559
+(S1 (S (NP (EX There)) (VP (VBZ 's) (S (NP (DT the) (NN lead) (NN pollution))))))
+-20.888213171351 -67.237937371386
+(S1 (S (RB There) (VP (POS 's) (NP (DT the) (NN lead) (NN pollution)))))
+-21.195070472506 -63.882964270289
+(S1 (SINV (ADVP (EX There)) (VBZ 's) (NP (DT the) (JJ lead) (NN pollution))))
+-21.223133649223 -64.808315688953
+(S1 (S (NP (RB There)) (VP (POS 's) (NP (DT the) (NN lead) (NN pollution)))))
+-21.253714465146 -64.179341055749
+(S1 (S (NP (RB There)) (VP (VBZ 's) (NP (DT the) (NN lead) (NN pollution)))))
+-21.322569223901 -66.312723570756
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT the) (NN lead)) (NN pollution)))))
+-21.431813961078 -67.551693990258
+(S1 (S (NP (EX There)) (VP (VBZ 's) (DT the) (VP (VB lead) (NP (NN pollution))))))
+-21.461671160891 -64.788072800902
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT the) (NN lead)) (NP (NN pollution))))))
+-21.548669538387 -67.444937750626
+(S1 (S (NP (EX There)) (VP (VBZ 's) (SBAR (S (NP (DT the) (JJ lead) (NN pollution)))))))
+-21.658675818706 -64.479520293484
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT the) (NN lead)) (NN pollution)))))
+-21.876904267401 -69.276762801250
+(S1 (S (VP (ADVP (RB There)) (VBZ 's) (NP (DT the) (JJ lead) (NN pollution)))))
+-21.909940192238 -67.462070554304
+(S1 (S (NP (EX There)) (VP (VBZ 's) (SBAR (S (NP (DT the) (NN lead) (NN pollution)))))))
+-22.016704822999 -67.878108415108
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (ADJP (VB lead)) (NN pollution)))))
+-22.031783469075 -65.186145951393
+(S1 (SINV (ADVP (EX There)) (VBZ 's) (NP (DT the) (NN lead) (NN pollution))))
+-22.193967550296 -64.682474270895
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT the) (NN lead)) (NP (NN pollution))))))
+-22.377730779298 -66.771695893887
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (ADJP (VB lead)) (NN pollution)))))
+-22.387825748588 -64.001663220658
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (ADJP (JJ lead)) (NN pollution)))))
+-22.433651948030 -68.119138548752
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (JJ lead)) (NP (NN pollution)))))
+-22.743610067675 -62.895250699438
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (ADJP (JJ lead)) (NN pollution)))))
+-22.870004178343 -67.486741389756
+(S1 (S (NP (EX There)) (VP (POS 's) (SBAR (S (NP (DT the) (JJ lead) (NN pollution)))))))
+-23.073596432194 -67.503874193435
+(S1 (S (NP (EX There)) (VP (POS 's) (SBAR (S (NP (DT the) (NN lead) (NN pollution)))))))
+-23.106935274928 -68.940697520826
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (JJ lead)) (NP (NN pollution)))))
+-23.192480343703 -68.259130526543
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT the)) (JJ lead) (NN pollution)))))
+-23.235676019355 -68.825138353146
+(S1 (SINV (ADVP (RB There)) (VBZ 's) (NP (NP (DT the) (NN lead)) (NN pollution))))
+-23.295852821735 -68.619813959175
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT the) (JJ lead)) (NN pollution)))))
+-23.430707177003 -67.279224060996
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT the)) (NN lead) (NN pollution)))))
+-23.665015691090 -65.959521447755
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT the)) (JJ lead) (NN pollution)))))
+-23.900536987919 -68.480458689652
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (DT the) (ADJP (NN lead)) (NN pollution)))))
+-23.956195657881 -65.388756506787
+(S1 (S (NP (EX There)) (VP (POS 's) (NP (NP (DT the)) (NN lead) (NN pollution)))))
+

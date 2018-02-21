@@ -1,0 +1,102 @@
+50 x
+-11.443433318863 -38.510896820819
+(S1 (PP (ADVP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end))))
+-12.010948464519 -38.622734117582
+(S1 (FRAG (ADVP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-12.345863696432 -40.072488003976
+(S1 (S (PP (ADVP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end)))))
+-12.606134397285 -39.833165683099
+(S1 (FRAG (PP (ADVP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end)))))
+-13.518725487064 -43.657464550886
+(S1 (PP (ADVP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-14.283254018252 -48.755277495722
+(S1 (SBAR (S (PP (ADVP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end))))))
+-14.521412102969 -43.815494028980
+(S1 (FRAG (ADVP (IN at) (JJS least) (PP (IN at) (NP (DT the) (NN end))))))
+-15.064729126971 -46.527661756500
+(S1 (FRAG (PP (ADVP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-15.427575804187 -51.961496799677
+(S1 (S (PP (IN at) (NP (NP (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))))
+-15.442437802663 -52.768794686787
+(S1 (PP (IN at) (NP (NP (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-15.519734455580 -53.022080586657
+(S1 (S (PP (IN at) (RBS least) (PP (IN at) (NP (DT the) (NN end))))))
+-15.651587268911 -53.647329947132
+(S1 (PP (IN at) (JJS least) (PP (IN at) (NP (DT the) (NN end)))))
+-15.682781170950 -54.145182173687
+(S1 (PP (IN at) (RBS least) (PP (IN at) (NP (DT the) (NN end)))))
+-15.709436904039 -47.220658507821
+(S1 (FRAG (ADVP (ADVP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-15.743440179825 -51.577235590480
+(S1 (X (PP (ADVP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end)))))
+-15.832223408660 -51.438342845232
+(S1 (S (PP (ADVP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-15.846743158410 -47.660676471742
+(S1 (PP (PP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-15.891256767793 -46.363632338626
+(S1 (FRAG (PP (IN at) (ADJP (JJS least) (PP (IN at) (NP (DT the) (NN end)))))))
+-15.948477413068 -51.677850455627
+(S1 (FRAG (PP (IN at) (NP (NP (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))))
+-16.000061216675 -50.057168796365
+(S1 (PP (IN at) (ADJP (JJS least) (PP (IN at) (NP (DT the) (NN end))))))
+-16.157513761574 -51.461968311304
+(S1 (FRAG (SBAR (S (PP (ADVP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end)))))))
+-16.307834397312 -49.536062664881
+(S1 (S (PP (IN at) (RBS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-16.395658950537 -50.451479564855
+(S1 (FRAG (S (PP (ADVP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end))))))
+-16.454096624136 -51.246437710218
+(S1 (S (PP (IN at) (ADJP (JJS least) (PP (IN at) (NP (DT the) (NN end)))))))
+-16.515645479755 -52.877356449274
+(S1 (S (ADVP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-16.638261600210 -53.179885074953
+(S1 (S (ADVP (IN at) (RBS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-16.687506545879 -48.075476609756
+(S1 (S (PP (IN at) (ADJP (JJS least))) (PP (IN at) (NP (DT the) (NN end)))))
+-16.767726455934 -52.175713063677
+(S1 (PP (IN at) (NP (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-16.996945830862 -50.864393252980
+(S1 (S (PP (IN at) (NP (JJS least))) (PP (IN at) (NP (DT the) (NN end)))))
+-17.085072574507 -48.318532410517
+(S1 (FRAG (PP (IN at) (ADJP (JJS least))) (PP (IN at) (NP (DT the) (NN end)))))
+-17.153791140170 -46.067763886684
+(S1 (FRAG (PP (IN at) (ADJP (ADJP (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))))
+-17.223488139037 -49.626445490563
+(S1 (PP (PP (IN at) (ADJP (JJS least))) (PP (IN at) (NP (DT the) (NN end)))))
+-17.228815451302 -54.282893432837
+(S1 (PP (PP (IN at) (JJS least)) (IN at) (NP (DT the) (NN end))))
+-17.234977006965 -50.253879207810
+(S1 (FRAG (PP (PP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-17.240784107469 -54.089238832846
+(S1 (FRAG (PP (IN at) (NP (NP (RBS least)) (PP (IN at) (NP (DT the) (NN end)))))))
+-17.262595586265 -49.761300344423
+(S1 (PP (IN at) (ADJP (ADJP (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-17.620039499773 -53.806850623775
+(S1 (PP (PP (IN at) (RBS least)) (PP (IN at) (NP (DT the) (NN end)))))
+-17.634642802009 -53.178415393519
+(S1 (NP (QP (IN at) (JJS least) (IN at) (DT the) (NN end))))
+-17.681082541453 -51.643603381628
+(S1 (PP (PP (IN at) (NP (JJS least))) (PP (IN at) (NP (DT the) (NN end)))))
+-17.771629676514 -50.950569258276
+(S1 (S (PP (IN at) (ADJP (ADJP (JJS least)) (PP (IN at) (NP (DT the) (NN end)))))))
+-17.964626608631 -52.927846153559
+(S1 (S (PP (PP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-18.046926422390 -52.598739142109
+(S1 (FRAG (UCP (ADVP (IN at) (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))
+-18.140679924165 -55.115857674245
+(S1 (S (PP (IN at) (NP (ADJP (ADJP (JJS least)) (PP (IN at) (NP (DT the) (NN end))))))))
+-18.611721987591 -52.219648226631
+(S1 (FRAG (PP (PP (IN at) (ADJP (JJS least))) (PP (IN at) (NP (DT the) (NN end))))))
+-18.623190629540 -54.205023624995
+(S1 (PP (PP (IN at) (NP (RBS least))) (PP (IN at) (NP (DT the) (NN end)))))
+-19.069316390008 -54.236806117695
+(S1 (FRAG (PP (PP (IN at) (NP (JJS least))) (PP (IN at) (NP (DT the) (NN end))))))
+-19.284049047135 -54.893615269146
+(S1 (S (PP (PP (IN at) (ADJP (JJS least))) (PP (IN at) (NP (DT the) (NN end))))))
+-19.342659304179 -52.299106155879
+(S1 (S (NP (QP (IN at) (JJS least) (IN at) (DT the) (NN end)))))
+-19.439355314104 -54.475277542385
+(S1 (PP (ADVP (IN at) (JJS least)) (IN at) (NP (NP (DT the)) (NN end))))
+-19.674620463336 -54.587114859180
+(S1 (FRAG (ADVP (IN at) (JJS least)) (PP (IN at) (NP (NP (DT the)) (NN end)))))
+

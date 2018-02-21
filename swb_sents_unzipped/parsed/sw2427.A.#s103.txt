@@ -1,0 +1,102 @@
+50 x
+-11.689306071473 -51.068592160671
+(S1 (S (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (VP (VB inspect) (NP (PRP it))))))))
+-12.007366574590 -48.727456111425
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (VP (TO to) (VP (VB inspect) (NP (PRP it))))))))
+-13.482945186598 -55.977246933902
+(S1 (S (NP (PRP You)) (VP (VBN got) (S (VP (TO to) (VP (VB inspect) (NP (PRP it))))))))
+-14.905111696653 -57.006213465279
+(S1 (S (NP (PRP You)) (VP (VBD got) (SBAR (S (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))))
+-15.975803163365 -59.419333686628
+(S1 (S (NP (PRP You)) (VP (VBP got) (SBAR (S (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))))
+-16.257266301889 -60.311043172034
+(S1 (S (NP (PRP You)) (VP (VBD got) (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-17.033155206424 -64.119100212471
+(S1 (S (NP (PRP You)) (VP (VBN got) (SBAR (S (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))))
+-17.480879044771 -61.877394702212
+(S1 (S (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (VP (VB inspect) (S (NP (PRP it)))))))))
+-17.798939547888 -59.536258652966
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (VP (TO to) (VP (VB inspect) (S (NP (PRP it)))))))))
+-17.859829031698 -61.968426211968
+(S1 (S (NP (PRP You)) (VP (VBP got) (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-18.390901389997 -64.882758069219
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-18.428542923965 -65.711406991044
+(S1 (S (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (S (VP (VB inspect) (NP (PRP it)))))))))
+-18.538855495460 -74.054685701353
+(S1 (S (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (VP (VBP inspect) (NP (PRP it))))))))
+-18.670236461369 -71.089289873127
+(S1 (NP (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (VP (VB inspect) (NP (PRP it))))))))
+-18.700355827588 -67.680899603450
+(S1 (S (NP (PRP You)) (VP (VBD got) (S (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-18.784426945082 -63.370270941798
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (VP (TO to) (S (VP (VB inspect) (NP (PRP it)))))))))
+-18.916912437577 -71.713549652107
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (VP (TO to) (VP (VBP inspect) (NP (PRP it))))))))
+-19.274518162685 -66.786049475442
+(S1 (S (NP (PRP You)) (VP (VBN got) (S (VP (TO to) (VP (VB inspect) (S (NP (PRP it)))))))))
+-19.342901127121 -74.879222255242
+(S1 (NP (NP (PRP You)) (VP (VBN got) (S (VP (TO to) (VP (VB inspect) (NP (PRP it))))))))
+-19.415701072650 -69.171589230892
+(S1 (S (NP (PRP You)) (VBP got) (VP (TO to) (VP (VB inspect) (NP (PRP it))))))
+-19.606592722761 -67.202716328979
+(S1 (S (NP (PRP You)) (VP (VBD got) (PP (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-19.708005151016 -69.868100972465
+(S1 (S (NP (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))))
+-19.832814462152 -73.523607819543
+(S1 (S (NP (PRP You)) (VP (VBD got)) (VP (TO to) (VP (VB inspect) (NP (PRP it))))))
+-19.929355022528 -70.412179420567
+(S1 (S (NP (PRP You)) (VP (VBN got) (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-20.061725160714 -73.756100477839
+(S1 (S (NP (PRP You)) (VP (VBN got) (S (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-20.281943036091 -70.620061764274
+(S1 (S (NP (PRP You)) (VP (VBN got) (S (VP (TO to) (S (VP (VB inspect) (NP (PRP it)))))))))
+-20.315458037626 -73.355308663684
+(S1 (S (NP (PRP You)) (VP (VBN got)) (VP (TO to) (VP (VB inspect) (NP (PRP it))))))
+-20.332649296866 -69.932540651813
+(S1 (S (NP (PRP You)) (VP (VBP got) (PP (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-20.366849720575 -68.988170697788
+(S1 (S (NP (PRP You)) (VP (VBD got) (PP (TO to) (S (VP (VB inspect) (NP (PRP it))))))))
+-20.371828528271 -68.095319681808
+(S1 (S (NP (PRP You)) (VP (VBD got) (SBAR (TO to) (S (VP (VB inspect) (NP (PRP it))))))))
+-20.382841420771 -70.902244247678
+(S1 (S (NP (PRP You)) (VP (VBN got) (PP (TO to) (VP (VB inspect) (NP (PRP it)))))))
+-20.437813012017 -73.721957476314
+(S1 (S (NP (NP (PRP You)) (VP (VBN got) (S (VP (TO to) (VP (VB inspect) (NP (PRP it)))))))))
+-20.630197790588 -71.013111227918
+(S1 (S (NP (PRP You)) (VP (VBN got) (PP (TO to) (S (VP (VB inspect) (NP (PRP it))))))))
+-20.667418563527 -70.223322914496
+(S1 (S (NP (PRP You)) (VP (VBP got) (PP (TO to) (S (VP (VB inspect) (NP (PRP it))))))))
+-20.719463669952 -67.815016006820
+(S1 (S (NP (PRP You)) (VP (VBD got) (SBAR (S (VP (TO to) (VP (VB inspect) (S (NP (PRP it))))))))))
+-20.964992802062 -70.476654736669
+(S1 (S (NP (PRP You)) (VP (VBP got) (SBAR (TO to) (S (VP (VB inspect) (NP (PRP it))))))))
+-21.279890766135 -74.878432236180
+(S1 (S (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (S (VP (VBP inspect) (NP (PRP it)))))))))
+-21.332765046507 -71.649028267858
+(S1 (S (NP (PRP You)) (VP (VBD got) (SBAR (S (VP (TO to) (S (VP (VB inspect) (NP (PRP it))))))))))
+-21.498336228509 -72.799859782834
+(S1 (S (NP (PRP You)) (VP (VBP got) (SBAR (S (TO to) (VP (VBP inspect) (NP (PRP it))))))))
+-21.657336930731 -72.104573930497
+(S1 (S (NP (PRP You)) (VP (VBD got) (SBAR (TO to) (S (VP (VBP inspect) (NP (PRP it))))))))
+-21.686590469252 -72.537296186934
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (VP (TO to) (S (VP (VBP inspect) (NP (PRP it)))))))))
+-21.745561266257 -74.691435170517
+(S1 (S (NP (PRP You)) (VP (VBD got) (PP (TO to) (VP (VBP inspect) (NP (PRP it)))))))
+-21.790155136663 -70.228136228169
+(S1 (S (NP (PRP You)) (VP (VBP got) (SBAR (S (VP (TO to) (VP (VB inspect) (S (NP (PRP it))))))))))
+-22.253077352886 -71.119845629322
+(S1 (S (NP (PRP You)) (VP (VBD got) (VP (TO to) (VP (VB inspect) (S (NP (PRP it))))))))
+-22.301464254523 -74.485908985358
+(S1 (S (NP (PRP You)) (VP (VBP got) (SBAR (TO to) (S (VP (VBP inspect) (NP (PRP it))))))))
+-22.408485728844 -74.062148489207
+(S1 (S (NP (PRP You)) (VP (VBP got) (SBAR (S (VP (TO to) (S (VP (VB inspect) (NP (PRP it))))))))))
+-23.351749119316 -72.662964355653
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (TO to) (VP (VB inspect) (S (NP (PRP it))))))))
+-23.483495309166 -73.491613050260
+(S1 (S (NP (PRP You)) (VP (VBD got) (S (VP (TO to) (S (VP (VB inspect) (S (NP (PRP it))))))))))
+-23.839379330283 -71.150477001014
+(S1 (S (NP (PRP You)) (VP (VBP got) (S (VP (TO to) (S (VP (VB inspect) (S (NP (PRP it))))))))))
+-23.855640082694 -72.777228669256
+(S1 (S (NP (PRP You)) (VP (VBP got) (VP (TO to) (VP (VB inspect) (S (NP (PRP it))))))))
+

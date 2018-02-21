@@ -1,0 +1,102 @@
+50 x
+-9.594958031944 -36.726719026990
+(S1 (S (NP (DT that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))
+-13.074810462119 -47.062344438149
+(S1 (S (DT that) (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))
+-13.078711704632 -41.822953523329
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-13.180413972398 -41.415165261798
+(S1 (S (NP (IN that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))
+-13.557391344067 -44.830213765690
+(S1 (S (WHNP (WDT that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))
+-14.027781192425 -44.300451973364
+(S1 (S (NP (DT that)) (VP (VBZ is) (ADVP (RB so)) (ADJP (JJ frightening)))))
+-14.086449128299 -42.508641591920
+(S1 (S (NP (WDT that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))
+-14.161830850166 -42.838730560364
+(S1 (SBAR (DT that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-14.294002923860 -46.071823033853
+(S1 (SBAR (IN that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-14.417125363205 -44.518488350361
+(S1 (S (NP (DT that)) (VP (VBZ is) (RB so) (ADJP (JJ frightening)))))
+-14.465469939360 -48.215463976354
+(S1 (S (NP (DT that)) (VP (VBZ is) (ADJP (IN so) (JJ frightening)))))
+-14.746704418701 -45.839869273747
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-14.763444242876 -48.358113323789
+(S1 (S (NP (DT that)) (VP (VBZ is) (NP (RB so) (JJ frightening)))))
+-15.025961799397 -49.084854446796
+(S1 (S (NP (DT that)) (VP (VBZ is) (ADJP (ADVP (RB so)) (JJ frightening)))))
+-15.031229490029 -43.021799553735
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))))
+-15.137475329547 -51.747705755128
+(S1 (SBAR (S (NP (DT that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-15.287445652112 -45.785211030225
+(S1 (NP (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-15.639226441430 -47.172648277610
+(S1 (SBAR (WHNP (DT that)) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-15.734749716926 -48.833521424589
+(S1 (S (RB that) (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))
+-15.780258606243 -45.867380622925
+(S1 (FRAG (SBAR (IN that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))))
+-16.027291323622 -52.534289809314
+(S1 (S (NP (DT that)) (VP (VBZ is) (VP (ADVP (RB so)) (JJ frightening)))))
+-16.050988386570 -49.658588867647
+(S1 (PP (IN that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-16.244466754015 -48.727302919879
+(S1 (SBAR (WDT that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-16.508655439097 -50.933742822967
+(S1 (S (NP (DT that)) (VP (VBZ is) (VP (RB so) (ADJP (JJ frightening))))))
+-16.525845322056 -49.384026308994
+(S1 (FRAG (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-16.779057186021 -51.123631582962
+(S1 (SBAR (WHNP (IN that)) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-16.988814854486 -51.517620472086
+(S1 (S (NP (DT that)) (VP (VBZ is) (ADJP (ADVP (IN so)) (JJ frightening)))))
+-17.393549469717 -49.396686621174
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB so)) (ADJP (JJ frightening))))))
+-17.528856418048 -53.311698472694
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (IN so) (JJ frightening))))))
+-17.560335965799 -49.614723077994
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB so) (ADJP (JJ frightening))))))
+-17.589546139666 -48.988898208172
+(S1 (S (NP (IN that)) (VP (VBZ is) (ADVP (RB so)) (ADJP (JJ frightening)))))
+-17.627608385911 -52.709780807056
+(S1 (S (NP (RB that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))
+-17.643443160459 -51.725172988159
+(S1 (S (NP (DT that)) (VP (VBZ is) (ADVP (IN so)) (ADJP (JJ frightening)))))
+-17.930345916169 -53.242548739264
+(S1 (S (PP (IN that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))))
+-17.995329536440 -52.454018874081
+(S1 (FRAG (PP (IN that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))))
+-18.035198277446 -49.206934585169
+(S1 (S (NP (IN that)) (VP (VBZ is) (RB so) (ADJP (JJ frightening)))))
+-18.047445980814 -52.903910211163
+(S1 (S (NP (IN that)) (VP (VBZ is) (ADJP (IN so) (JJ frightening)))))
+-18.105765734547 -52.403946712063
+(S1 (S (WHNP (WDT that)) (VP (VBZ is) (ADVP (RB so)) (ADJP (JJ frightening)))))
+-18.252883039117 -53.046559558598
+(S1 (S (NP (IN that)) (VP (VBZ is) (NP (RB so) (JJ frightening)))))
+-18.332683065251 -50.412463658209
+(S1 (SBAR (DT that) (S (VP (VBZ is) (ADVP (RB so)) (ADJP (JJ frightening))))))
+-18.430945458327 -52.621983089061
+(S1 (S (WHNP (WDT that)) (VP (VBZ is) (RB so) (ADJP (JJ frightening)))))
+-18.450310960429 -50.592278833499
+(S1 (FRAG (S (NP (IN that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-18.617142744567 -50.082374538293
+(S1 (S (NP (WDT that)) (VP (VBZ is) (ADVP (RB so)) (ADJP (JJ frightening)))))
+-18.649681291333 -50.630500115029
+(S1 (SBAR (DT that) (S (VP (VBZ is) (RB so) (ADJP (JJ frightening))))))
+-18.927434697951 -53.055080042727
+(S1 (FRAG (SBAR (WDT that) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))))
+-18.955496146203 -52.766314151479
+(S1 (FRAG (SBAR (WHNP (IN that)) (S (VP (VBZ is) (ADJP (RB so) (JJ frightening)))))))
+-18.955716407347 -50.300410915291
+(S1 (S (NP (WDT that)) (VP (VBZ is) (RB so) (ADJP (JJ frightening)))))
+-19.204551112306 -51.653148567900
+(S1 (FRAG (S (NP (WDT that)) (VP (VBZ is) (ADJP (RB so) (JJ frightening))))))
+-19.346067255114 -50.595532651580
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB so)) (ADJP (JJ frightening)))))))
+-19.512853751197 -50.813569108400
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB so) (ADJP (JJ frightening)))))))
+

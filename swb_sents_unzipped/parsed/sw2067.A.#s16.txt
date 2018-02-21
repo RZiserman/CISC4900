@@ -1,0 +1,102 @@
+50 x
+-13.383650353666 -44.213098209527
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-13.485291067737 -44.621445077574
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-13.975857034738 -49.306916656956
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-14.266473107754 -49.127627539649
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-14.446887954835 -48.190089386700
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-14.462554580685 -48.551626445468
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-14.489963710843 -50.756775873259
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-14.596540152669 -44.943254801548
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-15.154040229371 -50.770760037525
+(S1 (SBAR (RB Well) (DT that) (S (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-15.335000285664 -52.285661521726
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (POS 's) (NP (DT the) (NN idea)))))
+-15.580603995682 -54.628994017602
+(S1 (S (NP (RB Well) (DT that)) (VP (POS 's) (NP (DT the) (NN idea)))))
+-15.760451367863 -53.579021392956
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (POS 's) (NP (DT the) (NN idea)))))
+-15.763048189075 -54.876444232490
+(S1 (SBAR (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-15.802149414709 -51.694882454495
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-15.891423063284 -55.385528165838
+(S1 (ADJP (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-15.938761250741 -51.266791761899
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-16.108294188298 -54.657586390040
+(S1 (S (RB Well) (NP (DT that)) (VP (POS 's) (NP (DT the) (NN idea)))))
+-16.155116758933 -53.156644919839
+(S1 (S (CONJP (RB Well) (RB that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-16.213107207024 -53.383955413788
+(S1 (S (NP (RB Well) (WDT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-16.321063423694 -50.726197445226
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-16.395765575732 -55.108065154496
+(S1 (SBAR (RB Well) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-16.440986640868 -51.825406476194
+(S1 (FRAG (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-16.485194486929 -50.416112901214
+(S1 (SINV (CONJP (RB Well) (IN that)) (VBZ 's) (NP (DT the) (NN idea))))
+-16.635766049271 -51.543344072879
+(S1 (ADJP (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-16.661573235050 -52.758092487946
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea))))))))
+-16.677159202733 -51.435607002689
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-16.883334346049 -55.371070053266
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (POS 's) (NP (DT the) (NN idea)))))))
+-16.981470974827 -50.526496436672
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-17.002545183620 -53.855048782701
+(S1 (S (ADVP (RB Well)) (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-17.066792978434 -54.746760476144
+(S1 (FRAG (NP (NP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN idea))))))))
+-17.192530028152 -55.142448587337
+(S1 (FRAG (RB Well) (SBAR (DT that) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-17.247132362943 -55.352578904062
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (POS 's) (NP (DT the) (NN idea)))))
+-17.261494697125 -53.631517492327
+(S1 (SINV (CONJP (RB Well) (RB that)) (VBZ 's) (NP (DT the) (NN idea))))
+-17.269955342858 -51.678417791793
+(S1 (S (INTJ (UH Well)) (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-17.307090170533 -54.531098810706
+(S1 (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-17.313709628673 -50.241389845197
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-17.347880187561 -50.171627369318
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-17.429316677224 -55.441485141865
+(S1 (SBAR (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-17.438949542464 -51.393311071781
+(S1 (S (INTJ (UH Well)) (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-17.791422598546 -54.886732871730
+(S1 (S (ADVP (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-17.989877117077 -53.208539974582
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea))))))))
+-18.086628251405 -55.294793099022
+(S1 (S (ADVP (RB Well)) (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-18.091308254484 -54.687857897617
+(S1 (FRAG (CONJP (RB Well) (RB that)) (S (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-18.128468958200 -53.287295073815
+(S1 (S (ADVP (RB Well)) (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-18.309345187948 -55.227588558612
+(S1 (FRAG (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea))))))
+-18.433012990578 -52.000227515767
+(S1 (S (INTJ (RB Well)) (NP (WDT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-18.731370656578 -55.236152501931
+(S1 (S (ADJP (RB Well)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+-18.764734653183 -51.715120795754
+(S1 (S (INTJ (RB Well)) (NP (IN that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-18.856651813810 -55.201738961435
+(S1 (FRAG (CONJP (RB Well) (IN that)) (VP (VBZ 's) (NP (DT the) (NN idea)))))
+-18.888947626449 -55.029466605122
+(S1 (FRAG (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (NP (DT the) (NN idea)))))))
+

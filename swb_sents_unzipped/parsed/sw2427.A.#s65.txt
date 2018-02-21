@@ -1,0 +1,102 @@
+50 x
+-102.098880470715 -326.993058255695
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (NP (UH oh)) (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))))))
+-102.651765076703 -329.516493243375
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (NP (UH oh)) (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (NNS turnips) (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that)))))))))))))))
+-102.829712745290 -325.171201421836
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-103.067539655186 -327.070643523431
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (NP (UH oh)) (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))))))
+-103.261140317100 -329.298537105002
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (NP (UH oh)) (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))))
+-103.290534808037 -326.826240081577
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-103.304394897166 -329.415235901721
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (NNS turnips) (NNS carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-103.366629489417 -328.102296303714
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NNS carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-103.382597379155 -327.694636409516
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (NNS turnips) (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-103.440089926635 -327.906264986755
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))
+-103.569846462008 -324.847407219484
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-103.649095996778 -328.905627653401
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (SBAR (S (NP (NNS radishes) (CC and) (NNS turnips)) (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))
+-103.649920509964 -328.910879825800
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)) (NP (NNS tomatoes)))) (NP (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-103.659565879179 -329.555046655573
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (JJ turnips) (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-103.843419441903 -329.349675069257
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (NNS turnips) (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-103.934319512452 -329.335469919958
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NN carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-103.943518018338 -329.149349628231
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NNS radishes) (CC and) (NNS turnips)) (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))
+-103.964743463923 -327.075300801055
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))
+-103.966915623884 -329.091441699369
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (NNS turnips) (NNS carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.030668524756 -326.502445879225
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.065616846558 -329.109165822742
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (NP (UH oh)) (NNS tomatoes)))) (NP (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.106763206136 -327.778502101362
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NNS carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.122664159705 -329.435458772634
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (NP (UH oh)) (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes)) (CC and) (NP (NP (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))))))
+-104.174330105873 -327.370842207164
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (NNS turnips) (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-104.399862726682 -328.587085623448
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)) (NP (NNS tomatoes)))) (NP (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.425565526670 -328.730339460795
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))
+-104.451298605897 -329.231252453221
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (JJ turnips) (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-104.567585268883 -329.433540761103
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NNS carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.635152168621 -329.025880866905
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (NP (NP (NNS turnips) (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-104.674453229170 -329.011675717606
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NN carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.796591385167 -329.400118695657
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (NP (UH oh)) (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that))))))))))))))
+-104.819065143276 -328.785371620390
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (NP (UH oh)) (NNS tomatoes)))) (NP (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))
+-104.929829534280 -327.613601938776
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes)) (CC and) (NP (NP (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-105.390651597027 -329.268640598516
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes)) (CC and) (NP (NP (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))))
+-105.527423687620 -327.578261861798
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that)))))))))))
+-105.557303400009 -328.214962446241
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that)))))))))))))))
+-105.602263113717 -329.444241074981
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (NP (JJ carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that)))))))))))))))
+-105.681521539264 -329.358315997970
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))))))
+-105.753217057449 -328.807540490538
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (JJ carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that)))))))))))
+-105.765250597516 -329.477703963393
+(S1 (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (SBAR (S (NP (NP (UH oh)) (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that))))))))))))))
+-105.988245722489 -329.233300521539
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VBZ peppers) (NP (NP (NNS radishes) (CC and) (NNS turnips)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that)))))))))))
+-106.267557404338 -327.254467659446
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that)))))))))))
+-106.353878026728 -327.891168243889
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that)))))))))))))))
+-106.398837740435 -329.120446872629
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (NP (JJ carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that)))))))))))))))
+-106.478096165982 -329.034521795617
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that))))))))))))))
+-106.493350774167 -328.483746288186
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (JJ carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that)))))))))))
+-106.662454378375 -329.482361241017
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that))))))))))
+-106.728379439207 -328.909506319187
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (RB not) (VP (NNS turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NNS things))) (PP (IN like) (NP (DT that)))))))))))
+-106.814700089475 -329.546206903630
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (ADVP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (NP (NNS carrots) (NNS beets)) (CC and) (NP (NP (NNS things)) (PP (IN like) (NP (DT that)))))))))))))))
+-106.997585028043 -329.426726482021
+(S1 (S (S (NP (PRP we)) (ADVP (RB just)) (VP (VBP do) (NP (UH oh)))) (NP (NNS tomatoes) (NN bell)) (VP (VP (VBZ peppers) (NP (NNS radishes))) (CC and) (VP (VBZ turnips) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (RB not) (VP (VBZ turnips) (NP (JJ carrots) (NNS beets) (CC and) (NNS things)) (PP (IN like) (NP (DT that)))))))))))))
+

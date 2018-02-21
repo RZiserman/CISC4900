@@ -1,0 +1,102 @@
+50 x
+-9.373868375342 -42.378466367132
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NN show)))))
+-11.413757375467 -46.687549561313
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (NN show)))))
+-12.754438218400 -44.945326113690
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (NN show)))))
+-12.962247396230 -50.327902165703
+(S1 (S (NP (PRP I)) (VP (IN like) (NP (DT the) (NN show)))))
+-13.445535221321 -47.130032886533
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NN show))))))
+-13.597300601578 -52.098097791339
+(S1 (NP (NP (NN I)) (PP (IN like) (NP (DT the) (NN show)))))
+-13.598990947414 -48.858308084690
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NN show))))))
+-14.240082680549 -57.006191590188
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (VB show)))))
+-15.301399098467 -52.034597387328
+(S1 (FRAG (S (NP (PRP I)) (VP (VB like) (NP (DT the) (NN show))))))
+-15.379506944329 -59.950385295182
+(S1 (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (NN show)))))
+-15.400823338058 -51.253931142857
+(S1 (S (NP (PRP I)) (VP (VB like) (S (NP (DT the) (NN show))))))
+-15.596833612629 -53.716621090984
+(S1 (S (NP (NP (NN I)) (PP (IN like) (NP (DT the) (NN show))))))
+-15.620550849420 -61.047156555606
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (DT the) (VB show)))))
+-15.761977374620 -53.947591445391
+(S1 (FRAG (NP (NP (NN I)) (PP (IN like) (NP (DT the) (NN show))))))
+-16.013802534134 -53.527306593128
+(S1 (S (NP (PRP I)) (VP (IN like) (S (NP (DT the) (NN show))))))
+-16.217337713261 -58.350942441150
+(S1 (S (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (NN show))))))
+-16.218510882199 -55.004536425734
+(S1 (FRAG (NP (PRP I)) (PP (IN like) (NP (DT the) (NN show)))))
+-16.232796652894 -51.507150929230
+(S1 (S (NP (NN I)) (PP (IN like) (NP (DT the) (NN show)))))
+-16.276246050330 -57.509571538380
+(S1 (S (NP (PRP I)) (VP (VBP like) (NP (NP (DT the)) (NN show)))))
+-16.630537413577 -57.953886978750
+(S1 (S (NP (PRP I)) (VP (VBP like) (SBAR (S (NP (DT the) (NN show)))))))
+-16.830897886302 -54.996146010284
+(S1 (FRAG (NP (NN I)) (PP (IN like) (NP (DT the) (NN show)))))
+-17.017258403671 -58.990033747445
+(S1 (FRAG (NP (PRP I)) (VP (VB like) (NP (DT the) (NN show)))))
+-17.070834621581 -59.069368726276
+(S1 (S (NP (PRP I)) (VP (VBP like) (DT the) (VP (VB show)))))
+-17.088606847858 -60.770352271228
+(S1 (FRAG (NP (PRP I)) (VP (VBP like) (NP (DT the) (NN show)))))
+-17.627866067887 -61.934926534859
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the) (VB show)))))
+-17.675590855030 -53.609874574156
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (NN show)))))))
+-17.734488216214 -50.568433236576
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the))) (VP (VBP show))))
+-17.842588610678 -60.891342585723
+(S1 (S (NP (PRP I)) (VP (VB like) (S (NP (DT the) (VB show))))))
+-17.852323784075 -62.294058891282
+(S1 (FRAG (NP (NP (PRP I)) (PP (IN like) (NP (DT the) (NN show))))))
+-17.872283873287 -62.082145937458
+(S1 (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (VB show))))))
+-17.921601935501 -55.432309499387
+(S1 (S (NP (PRP I)) (VP (VBP like) (SBAR (S (DT the) (VP (VBP show)))))))
+-17.979273613196 -59.707691063705
+(S1 (FRAG (S (NP (PRP I)) (VP (IN like) (NP (DT the) (NN show))))))
+-18.588224394337 -61.888555396140
+(S1 (S (NP (PRP I)) (VP (VB like) (NP (NP (DT the)) (NN show)))))
+-18.792668028020 -54.566956741485
+(S1 (S (NP (PRP I)) (ADVP (IN like) (DT the)) (VP (VBP show))))
+-18.812670608860 -62.633163259217
+(S1 (S (NP (PRP I)) (VP (VBP like) (DT the) (VP (VBP show)))))
+-18.820908095817 -60.894191963604
+(S1 (S (NP (PRP I)) (VP (VBP like) (SBAR (S (NP (DT the)) (VP (VBP show)))))))
+-18.829065186739 -59.305766702209
+(S1 (S (NP (PRP I)) (PP (IN like) (S (NP (DT the) (NN show))))))
+-19.051713098741 -62.481349091758
+(S1 (S (NP (PRP I)) (VP (VB like) (SBAR (S (NP (DT the) (NN show)))))))
+-19.292291724633 -56.600978992462
+(S1 (FRAG (S (NP (PRP I)) (VP (VB like) (S (NP (DT the) (NN show)))))))
+-19.559647426475 -63.296918350062
+(S1 (FRAG (S (NP (PRP I)) (PP (IN like) (NP (DT the) (NN show))))))
+-19.749305572041 -59.788268906651
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (NP (DT the)) (NN show)))))
+-20.012419890152 -59.399843610951
+(S1 (S (NP (PRP I)) (VP (ADVP (IN like) (DT the)) (VBP show))))
+-20.073071997348 -60.188599058019
+(S1 (S (NP (PRP I)) (PP (IN like) (NP (DT the))) (VP (VB show))))
+-20.156840847321 -60.965561078935
+(S1 (S (NP (PRP I)) (VP (VB like) (SBAR (S (DT the) (VP (VBP show)))))))
+-20.448893839810 -62.824758551700
+(S1 (S (NP (NP (PRP I)) (PP (IN like) (NP (DT the)))) (VP (VBP show))))
+-20.541559658434 -63.044152466479
+(S1 (S (NP (PRP I)) (ADVP (IN like) (DT the)) (VP (VB show))))
+-20.915235930326 -62.907095538841
+(S1 (FRAG (S (NP (PRP I)) (VP (IN like) (S (NP (DT the) (NN show)))))))
+-21.244529615459 -61.936299871804
+(S1 (S (NP (NP (PRP I)) (ADVP (IN like) (DT the))) (VP (VBP show))))
+-22.255577614299 -61.912151266886
+(S1 (FRAG (S (NP (PRP I)) (VP (VBP like) (SBAR (S (DT the) (VP (VBP show))))))))
+-22.942854152960 -62.282113712108
+(S1 (FRAG (S (NP (PRP I)) (ADVP (IN like) (DT the)) (VP (VBP show)))))
+

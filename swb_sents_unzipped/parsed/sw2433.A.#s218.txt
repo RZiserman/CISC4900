@@ -1,0 +1,102 @@
+50 x
+-43.043972690888 -142.600508244514
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-43.411600119951 -141.641432752889
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-44.008330050436 -146.894211648943
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBN said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-44.174152728889 -147.006118646572
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))
+-44.375957479500 -145.935136157318
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBN said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-44.457230111837 -150.046284881166
+(S1 (S (PP (IN Like) (NP (DT that) (NN orthopedist))) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))
+-44.717433177953 -146.047043154947
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))
+-44.722356227651 -148.895032800973
+(S1 (S (IN Like) (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))
+-44.819255155172 -147.675831831782
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))
+-44.952285914502 -150.588928482462
+(S1 (SINV (PP (IN Like) (NP (DT that) (NN orthopedist))) (VP (VBD said) (PP (TO to) (NP (PRP me)))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))
+-45.000510533023 -149.087209389541
+(S1 (S (PP (IN Like) (NP (DT that) (NN orthopedist))) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))
+-45.002732695106 -146.961695937377
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))
+-45.265636648837 -147.935957309348
+(S1 (S (IN Like) (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))
+-45.495566335687 -149.629852990836
+(S1 (SINV (PP (IN Like) (NP (DT that) (NN orthopedist))) (VP (VBD said) (PP (TO to) (NP (PRP me)))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))
+-45.538794128412 -148.249718518166
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))))
+-45.602022874669 -150.109729082272
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (SBAR (PP (TO to) (NP (PRP me))) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))
+-45.688484163692 -145.812475634174
+(S1 (S (PP (IN Like) (NP (DT that) (NN orthopedist))) (S (VP (VBN said) (PP (TO to) (NP (PRP me))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-45.905878830597 -147.290643026541
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))))
+-46.056111564878 -144.853400142549
+(S1 (S (PP (IN Like) (NP (DT that) (NN orthopedist))) (S (VP (VBN said) (PP (TO to) (NP (PRP me))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-46.145303295854 -149.150653590647
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (SBAR (PP (TO to) (NP (PRP me))) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))
+-46.312570469600 -149.426345661379
+(S1 (FRAG (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-46.320224355051 -150.138632823202
+(S1 (S (IN Like) (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-46.422182969301 -150.330809504714
+(S1 (S (PP (IN Like) (NP (DT that) (NN orthopedist))) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-46.461312018258 -150.086165779128
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (S (NP (PRP he)) (VP (VBD said))) (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))
+-46.687309057237 -149.179557331577
+(S1 (S (IN Like) (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-46.692690375054 -150.684962160413
+(S1 (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))
+-46.855850890786 -148.467270169754
+(S1 (FRAG (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-46.915465426783 -150.107677004025
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (JJS orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-47.276285925661 -148.037431414693
+(S1 (S (SBAR (IN Like) (S (NP (IN that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-47.283092827969 -149.148601512400
+(S1 (S (SBAR (IN Like) (S (NP (DT that) (JJS orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-47.428774432145 -147.066918772282
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBN said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))))
+-47.643913326846 -147.078355923068
+(S1 (S (SBAR (IN Like) (S (NP (IN that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-47.647244167911 -150.173663327037
+(S1 (S (PP (IN Like) (NP (DT that) (NN orthopedist))) (S (VP (VBN said) (PP (TO to) (NP (PRP me))))) (NP (PRP he)) (VP (VBD said) (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))
+-47.677211841245 -150.669945532973
+(S1 (FRAG (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))))
+-47.771590917648 -150.382575773006
+(S1 (FRAG (IN Like) (SBAR (IN that) (S (NP (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-47.801182353331 -146.107843280657
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBN said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))))
+-47.824081248334 -150.362491666819
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (ADVP (RB orthopedist)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-47.998208586468 -150.399014414559
+(S1 (S (SBAR (IN Like) (S (NP (IN that) (NN orthopedist)) (VP (VBN said) (PP (TO to) (NP (PRP me)))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-48.044296543430 -149.710870041348
+(S1 (FRAG (SBAR (IN Like) (S (NP (DT that) (NN orthopedist)) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))))
+-48.049665473298 -149.238543937317
+(S1 (S (PP (IN Like) (NP (DT that) (JJS orthopedist))) (S (VP (VBN said) (PP (TO to) (NP (PRP me))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-48.112752981124 -150.805637899704
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBN said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))))))
+-48.417292874484 -148.279468445692
+(S1 (S (PP (IN Like) (NP (DT that) (JJS orthopedist))) (S (VP (VBN said) (PP (TO to) (NP (PRP me))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-48.479837683310 -149.846562408079
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBN said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))))))
+-48.678132380739 -150.475768562194
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBD said) (PP (TO to) (NP (PRP me))) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-49.221412801925 -149.516693070569
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBD said) (PP (TO to) (NP (PRP me))) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))))
+-49.243114152014 -150.449302155972
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBD said) (PP (TO to) (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))))))
+-49.584792181110 -150.580326218960
+(S1 (S (PP (IN Like) (ADVP (IN that) (JJS orthopedist))) (S (VP (VBN said) (PP (TO to) (NP (PRP me))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-49.952419582295 -149.621250727335
+(S1 (S (PP (IN Like) (ADVP (IN that) (JJS orthopedist))) (S (VP (VBN said) (PP (TO to) (NP (PRP me))))) (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (VBP do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))
+-50.184230689241 -149.850933276926
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBN said) (SBAR (TO to) (S (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said))))) (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane))))))))))))
+-50.809795263263 -148.904051286169
+(S1 (FRAG (IN Like) (SBAR (WHNP (WDT that)) (S (VP (VBP orthopedist) (VP (VBN said) (S (VP (TO to) (S (NP (NP (PRP me)) (SBAR (S (NP (PRP he)) (VP (VBD said))))) (VP (VB do) (RB n't) (VP (VB worry) (NP (NNP Diane)))))))))))))
+

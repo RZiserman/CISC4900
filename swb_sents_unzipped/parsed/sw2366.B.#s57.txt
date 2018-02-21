@@ -1,0 +1,102 @@
+50 x
+-43.718570955678 -153.689009558197
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-45.028396513768 -157.496346257855
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (ADJP (RB all) (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-45.064364378366 -161.176054046994
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music))))) (PRN (CC but) (ADVP (RB basically))) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-45.087866886132 -162.003862299070
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (POS 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-45.420319533494 -161.309885997728
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music))))) (FRAG (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))))
+-46.121446474703 -162.479975100763
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music))))) (CC but) (ADVP (RB basically))) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-46.217689906921 -164.189762792954
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music))))) (FRAG (CC but) (RB basically) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))))
+-46.604182438889 -163.719309110204
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (CONJP (CC but) (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-46.705290772021 -163.535580878862
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (PRN (CC but) (ADVP (RB basically))) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-47.139863425710 -159.823953791082
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (IN that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-47.197803153595 -162.237032608600
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (RB because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-47.210422304609 -162.992907215049
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))
+-47.238695192505 -162.705940733408
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (IN that)) (VP (POS 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-47.334834153537 -163.737157261030
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (RB all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-47.345621786954 -164.432544126342
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))
+-47.399576995793 -163.432566954275
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (UCP (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))) (CC but) (SBAR (ADVP (RB basically)) (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))))
+-47.460253717499 -163.160308625551
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NP (NN music)) (FRAG (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))))))))
+-47.653556468213 -160.806047036805
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (ADJP (DT all) (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-47.758102794255 -160.969263113943
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (WDT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-47.790015710916 -153.865804027018
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-48.110179534142 -163.618397980935
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (UCP (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))))
+-48.309512333942 -162.599052335458
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (S (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music))))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-48.311431980086 -164.607797806889
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-48.413240235280 -164.249019962791
+(S1 (S (NP (PRP I)) (VP (VBD was) (UCP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-48.449688983799 -163.631290490740
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (ADJP (RB all) (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (IN that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-48.668957807764 -162.896416048019
+(S1 (S (NP (PRP I)) (VP (VBD was) (UCP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (CC but) (RB basically) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-49.067928352344 -164.776599813601
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (ADJP (RB all) (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (WDT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-49.135809161481 -161.352848515815
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music))))) (PRN (CC but) (ADVP (RB basically))) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-49.159311669247 -162.180656767891
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (POS 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-49.491764316609 -161.486680466549
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music))))) (FRAG (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))))
+-49.506964400995 -163.536941239672
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (DT all) (NP (NP (JJ different) (NNS kinds)) (PP (IN of) (NP (NN music))))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-49.625746498907 -162.825351072594
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (NX (JJ different) (NNS kinds))) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-49.709475519590 -163.769810013174
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (DT all) (JJ different) (NNS kinds))) (PP (IN of) (NP (NN music)))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-50.192891257818 -162.656769569584
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music))))) (CC but) (ADVP (RB basically))) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-50.289134690037 -164.366557261775
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music))))) (FRAG (CC but) (RB basically) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))))
+-50.675627222004 -163.896103579025
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (CONJP (CC but) (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-50.776735527259 -163.712375347683
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (PRN (CC but) (ADVP (RB basically))) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-51.211308208826 -160.000748259903
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (IN that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-51.269247936711 -162.413827077421
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (RB because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-51.281867087724 -163.169701683870
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))
+-51.310139975621 -162.882735202229
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (IN that)) (VP (POS 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-51.338723998908 -163.609361455281
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (UCP (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))) (CC but) (SBAR (ADVP (RB basically)) (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))))
+-51.417066570069 -164.609338595163
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))
+-51.531698500615 -163.337103094372
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NP (NN music)) (FRAG (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked))))))))))))))))
+-51.829547577370 -161.146057582764
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (WDT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-52.049326537257 -163.795192481941
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (UCP (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))))
+-52.380957117057 -162.775846804279
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (S (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music))))))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+-52.484684990518 -164.425814431612
+(S1 (S (NP (PRP I)) (VP (VBD was) (UCP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-52.740402590879 -163.073210516840
+(S1 (S (NP (PRP I)) (VP (VBD was) (UCP (VP (VBN influenced) (PP (IN by) (NP (NP (DT all) (ADJP (JJ different)) (NNS kinds)) (PP (IN of) (NP (NN music)))))) (CC but) (RB basically) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))))
+-52.771633711355 -163.411263113972
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN influenced) (PP (IN by) (NP (DT all) (ADJP (JJ different)) (NNS kinds))) (PP (IN of) (NP (NN music)))))) (CC but) (ADVP (RB basically)) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD worked)))))))))
+

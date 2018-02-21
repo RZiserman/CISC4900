@@ -1,0 +1,102 @@
+50 x
+-22.136495960315 -72.095814315764
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-23.160539207347 -77.377397745778
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-23.937580360489 -78.650119013177
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADVP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-24.155819288378 -77.097165620159
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (RB really) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-24.476493756123 -76.504112432925
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (ADVP (RB really)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-24.587764316278 -79.053638024947
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADVP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-24.609483779162 -79.589176283641
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (RB really) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))))
+-24.834535738231 -78.754062706417
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (RB really) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-25.002194266171 -78.558985195567
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (ADVP (RB really)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-25.031411126149 -83.895078834747
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADVP (RB really)) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-25.038458508689 -77.352959959929
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-25.054148196356 -78.487441145801
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB really) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-25.264839733364 -82.822986269784
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (RB really) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-25.340460555821 -78.323566237505
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB really) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))))
+-25.525080142544 -80.674229529416
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (S (ADVP (RB really)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-25.668595996598 -81.961018016160
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))))
+-25.801486747638 -77.749487925942
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (S (ADVP (RB really)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-25.892709842217 -84.479883356042
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (RB really) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-25.910242327182 -82.645689451954
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-25.963794505117 -84.035778614943
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (NP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))))
+-25.986421743809 -81.832233083092
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB really) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-26.025173812753 -85.961171209718
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (NP (PRP it))) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))
+-26.100699515189 -83.961337105672
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB really) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.126494376035 -81.410791294544
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (WHNP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.129739570402 -84.538152661001
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (ADVP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.362866235253 -80.515664334764
+(S1 (S (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))
+-26.500065307771 -84.607694697879
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (ADVP (RB really)) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.500996097538 -84.770157792724
+(S1 (S (NP (PRP it)) (VP (POS 's) (S (ADJP (RB really) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))))
+-26.618122630723 -84.212880978562
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (RB really) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.655670840046 -85.627052870625
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really) (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.830225421416 -84.141109614709
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.932724575889 -85.373050050262
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (ADVP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.985946655670 -84.895480860091
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-26.988829641482 -85.199386010661
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB really) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance)))))))))
+-27.202109526117 -85.956491963568
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (S (NP (DT a) (JJ hard) (NN balance)))))))))
+-27.212034439715 -83.836499662229
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (S (ADVP (RB really)) (NP (PRP it)) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-27.215103696746 -84.294557623107
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (RB really) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-27.224740705932 -82.438229537652
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-27.426348422502 -85.349216460575
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (WHNP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-27.440717113192 -82.440742839052
+(S1 (S (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (NP (PRP it)))) (VP (POS 's) (NP (DT a) (JJ hard) (NN balance)))))
+-27.449180547934 -84.834816274809
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-27.492537840888 -84.615470284060
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-27.553041584817 -83.443785082939
+(S1 (S (NP (PRP it) (VBZ 's)) (ADJP (RB really) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-27.582801244819 -85.681623493595
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-27.617110703812 -83.679016779381
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB really)) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))
+-27.656494868513 -81.139362067959
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (RB really) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-27.920631247890 -85.063326380774
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance)))))))))
+-28.280736023261 -85.539933116125
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (S (RB really) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ hard) (NN balance))))))))
+-28.352557491058 -82.262249418845
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (JJ hard)) (NN balance))))))))
+-28.434925726901 -83.570717689665
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB really)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (ADJP (RB hard)) (NN balance))))))))
+

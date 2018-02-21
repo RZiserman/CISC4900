@@ -1,0 +1,102 @@
+50 x
+-20.233057428087 -76.238717210334
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out)))))
+-20.645992121918 -75.171265256544
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out)))))
+-20.732593289360 -77.135959411118
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PRT (RP out)))))
+-21.549644865417 -77.303185077685
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PRT (RP out)))))
+-21.638140247052 -80.912714286345
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RB out)))))
+-21.812377869045 -82.072100701631
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PRT (RB out)))))
+-21.889866090558 -78.738998560110
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (RB out)))))
+-21.964243161191 -80.855964794189
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PP (IN out)))))
+-22.051074938095 -79.845262332556
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RB out)))))
+-22.219110292212 -79.340962480820
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (ADVP (RB out)))))
+-22.377177855022 -79.788512840400
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PP (IN out)))))
+-22.476586643982 -82.133589040207
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PP (IN out)))))
+-22.629429445102 -82.239326368198
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PRT (RB out)))))
+-22.632044986043 -78.273510527031
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (ADVP (RB out)))))
+-22.706917666615 -78.906224226678
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (RB out)))))
+-22.748063441074 -82.952769800404
+(S1 (S (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out))))))
+-22.963634417916 -81.110947977118
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (IN out)))))
+-23.212546262883 -83.850568632810
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (NP (DT the) (NN bag)) (ADVP (IN out))))))
+-23.293638220039 -82.300814706775
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PP (IN out)))))
+-23.329288161546 -81.836859155744
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag) (RP out)))))
+-23.333873463095 -82.693258892495
+(S1 (S (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out))))))
+-23.374162740400 -82.796347423948
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (ADVP (IN out)))))
+-23.425309022086 -83.956242009618
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (NP (DT the) (NN bag)) (ADVP (IN out))))))
+-23.606460073359 -83.625809374141
+(S1 (S (CC and) (RB then) (S (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out))))))
+-23.625480956714 -82.783116679021
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (NP (DT the) (NN bag)) (ADVP (IN out))))))
+-23.638897123060 -81.325241719536
+(S1 (FRAG (CC and) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out)))))))
+-23.704812194173 -81.783034237550
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag) (RP out)))))
+-23.742222852589 -80.769407201955
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag) (RP out)))))
+-23.780685991186 -81.278173643686
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (IN out)))))
+-23.787097434231 -81.728895470159
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (ADVP (IN out)))))
+-23.817329543734 -80.555817989654
+(S1 (FRAG (CC and) (RB then) (SBAR (S (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out)))))))
+-23.989117189374 -82.210817224339
+(S1 (FRAG (CC and) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PRT (RP out)))))))
+-24.145182062519 -80.794808418663
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (ADVP (RP out)))))
+-24.465844386285 -81.911930068649
+(S1 (FRAG (CC and) (RB then) (SBAR (S (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PRT (RP out)))))))
+-24.468302012848 -82.599099057353
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PP (RP out)))))
+-24.481778602059 -83.694484799464
+(S1 (S (CC and) (S (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out))))))
+-24.521863767442 -81.950259904117
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag) (RP out)))))
+-24.558116753562 -79.727356464874
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (ADVP (RP out)))))
+-24.666180357118 -81.316515711094
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (RP out)))))
+-24.745725996141 -81.738182026668
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PP (RP out)))))
+-24.881236703891 -81.531647103564
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PP (RP out)))))
+-25.131647065454 -83.929740664136
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (ADVP (NP (DT the) (NN bag)) (IN out)))))
+-25.240984225396 -83.914299425221
+(S1 (FRAG (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out))))))
+-25.317327216450 -83.813856466445
+(S1 (FRAG (CC and) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (RB out)))))))
+-25.483231933175 -81.483741377661
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (RP out)))))
+-25.562777569411 -81.905407693235
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (PP (RP out)))))
+-25.749081887388 -83.797832768303
+(S1 (FRAG (CC and) (S (RB then) (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (PRT (RP out))))))
+-25.786855350572 -83.514969310755
+(S1 (FRAG (CC and) (RB then) (SBAR (S (NP (PRP they)) (VP (VB dump) (NP (DT the) (NN bag)) (ADVP (RB out)))))))
+-25.816934569982 -83.495687135396
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP dump) (NP (NP (DT the) (NN bag)) (ADVP (RP out))))))
+-25.969313242860 -83.658063260628
+(S1 (FRAG (CC and) (RB then) (SBAR (S (NP (PRP they)) (VP (VBP dump) (NP (DT the) (NN bag)) (ADVP (RB out)))))))
+

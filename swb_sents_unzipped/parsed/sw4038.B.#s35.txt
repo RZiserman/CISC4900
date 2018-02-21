@@ -1,0 +1,50 @@
+24 x
+-7.410426944525 -31.765889574252
+(S1 (S (NP (DT the) (NN judge)) (VP (VBD did))))
+-12.854343280482 -42.615723344909
+(S1 (NP (DT the) (NN judge) (VBD did)))
+-12.904316154623 -46.519280707599
+(S1 (NP (NP (DT the) (NN judge)) (VP (VBD did))))
+-14.514184894845 -48.590581198916
+(S1 (S (NP (DT the) (NN judge)) (S (VP (VBD did)))))
+-15.295456331987 -56.013744127760
+(S1 (NP (NP (DT the) (VB judge)) (VP (VBD did))))
+-15.702846386423 -50.344449671778
+(S1 (S (NP (NP (DT the) (NN judge)) (VP (VBD did)))))
+-15.754130561697 -45.306644544364
+(S1 (S (NP (DT the) (NN judge) (VBD did))))
+-15.774171059549 -49.596012222806
+(S1 (NP (DT the) (NN judge) (S (VP (VBD did)))))
+-16.016779039835 -59.651949842122
+(S1 (S (NP (DT the) (VB judge)) (VP (VBD did))))
+-16.868008467018 -54.652540189206
+(S1 (S (DT the) (VP (VBP judge) (VP (VBD did)))))
+-16.936536365864 -50.732453418440
+(S1 (S (NP (NP (DT the)) (NN judge)) (VP (VBD did))))
+-17.993339799226 -58.168847796094
+(S1 (S (DT the) (VP (VB judge) (VP (VBD did)))))
+-18.014953665768 -58.654868654868
+(S1 (S (NP (DT the)) (VP (VBP judge) (VP (VBD did)))))
+-18.287441692168 -57.041769057445
+(S1 (S (DT the) (VP (VBP judge) (S (VP (VBD did))))))
+-18.524969909678 -61.186055028916
+(S1 (S (NP (NP (DT the) (VB judge)) (VP (VBD did)))))
+-19.302802084541 -55.015671846592
+(S1 (S (NP (DT the) (NN judge) (S (VP (VBD did))))))
+-19.428004328706 -61.044097526253
+(S1 (S (NP (DT the)) (VP (VBP judge) (S (VP (VBD did))))))
+-19.520861821082 -61.007792394885
+(S1 (S (DT the) (VP (VB judge) (S (VP (VBD did))))))
+-20.337638223891 -64.540062975477
+(S1 (S (NP (DT the)) (VP (VB judge) (VP (VBD did)))))
+-21.054440070852 -64.103420083206
+(S1 (NP (NP (NP (DT the)) (NN judge)) (VP (VBD did))))
+-21.862831894596 -67.379007530758
+(S1 (S (NP (DT the)) (VP (VB judge) (S (VP (VBD did))))))
+-22.959026991155 -76.476641466786
+(S1 (S (NP (DT the) (VB judge)) (S (VP (VBD did)))))
+-23.654388353259 -67.928589276842
+(S1 (S (NP (NP (NP (DT the)) (NN judge)) (VP (VBD did)))))
+-23.862390213396 -67.557145043104
+(S1 (S (NP (NP (DT the)) (NN judge)) (S (VP (VBD did)))))
+

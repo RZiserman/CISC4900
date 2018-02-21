@@ -1,0 +1,86 @@
+42 x
+-7.641191384147 -36.614216259717
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VB recall)))))
+-11.750229547305 -40.858795000297
+(S1 (S (NP (PRP I)) (MD can) (VP (VBP recall))))
+-12.037799557069 -48.870030407306
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (VBP recall)))))
+-12.925273304883 -48.033473968177
+(S1 (S (NP (PRP I)) (MD can) (VP (VB recall))))
+-13.220835063151 -52.898500452507
+(S1 (S (NP (PRP I)) (VP (MD can) (VP (NN recall)))))
+-13.805048791799 -52.783825387901
+(S1 (S (NP (NN I)) (VP (MD can) (VP (VB recall)))))
+-13.911876143856 -52.106917891707
+(S1 (S (NP (PRP I)) (VP (MD can) (S (VP (VB recall))))))
+-16.069182699075 -55.950637943522
+(S1 (S (NP (PRP I)) (MD can) (VP (NN recall))))
+-16.453636748926 -56.919382780276
+(S1 (S (NP (PRP I)) (VP (MD can) (S (VP (VBP recall))))))
+-16.957853180634 -58.486077445609
+(S1 (S (NP (PRP I)) (VP (MD can) (S (VP (NN recall))))))
+-18.319649806722 -65.039639535490
+(S1 (S (NP (NN I)) (VP (MD can) (VP (VBP recall)))))
+-18.535977198000 -64.551440948922
+(S1 (NP (NP (NN I)) (VP (MD can) (VP (VB recall)))))
+-18.814572672655 -63.501697579474
+(S1 (S (NP (NN I)) (MD can) (VP (VB recall))))
+-18.872462764296 -70.768723999323
+(S1 (NP (NP (PRP I)) (VP (MD can) (VP (VB recall)))))
+-18.991558562350 -61.000240498541
+(S1 (S (NP (NN I)) (MD can) (VP (VBP recall))))
+-19.504696118803 -69.068109580691
+(S1 (S (NP (NN I)) (VP (MD can) (VP (NN recall)))))
+-19.905047845241 -69.484672120868
+(S1 (S (NP (NP (PRP I)) (VP (MD can) (VP (VB recall))))))
+-20.076420051509 -68.276527019891
+(S1 (S (NP (NN I)) (VP (MD can) (S (VP (VB recall))))))
+-21.293291889515 -69.495058706457
+(S1 (S (NP (NP (NN I)) (VP (MD can) (VP (VB recall))))))
+-21.614070531518 -69.223673451678
+(S1 (S (NP (NN I)) (MD can) (VP (NN recall))))
+-22.736173498578 -73.088991908460
+(S1 (S (NP (NN I)) (VP (MD can) (S (VP (VBP recall))))))
+-22.971453343139 -76.756326337607
+(S1 (NP (NP (NN I)) (VP (MD can) (VP (VBP recall)))))
+-23.242400733498 -74.655686573793
+(S1 (S (NP (NN I)) (VP (MD can) (S (VP (NN recall))))))
+-23.265055812435 -82.973609388008
+(S1 (NP (NP (PRP I)) (VP (MD can) (VP (VBP recall)))))
+-23.437484904321 -77.707555021385
+(S1 (NP (NP (NN I)) (VP (MD can) (S (VP (VB recall))))))
+-23.773283970616 -83.924838071786
+(S1 (NP (NP (PRP I)) (VP (MD can) (S (VP (VB recall))))))
+-24.295165226984 -79.881924010229
+(S1 (NP (NP (NN I)) (VP (MD can) (VP (NN recall)))))
+-24.519785253380 -81.689557509553
+(S1 (S (NP (NP (PRP I)) (VP (MD can) (VP (VBP recall))))))
+-24.742326551562 -82.640786193331
+(S1 (S (NP (NP (PRP I)) (VP (MD can) (S (VP (VB recall)))))))
+-24.786426633280 -86.099207060630
+(S1 (NP (NP (PRP I)) (VP (MD can) (VP (NN recall)))))
+-25.585535520025 -84.815155182175
+(S1 (S (NP (NP (PRP I)) (VP (MD can) (VP (NN recall))))))
+-25.815791961943 -81.743711836983
+(S1 (NP (NP (NN I)) (VP (MD can) (S (VP (VBP recall))))))
+-26.000145916654 -81.699944095143
+(S1 (S (NP (NP (NN I)) (VP (MD can) (VP (VBP recall))))))
+-26.108707931239 -87.960994887384
+(S1 (NP (NP (PRP I)) (VP (MD can) (S (VP (VBP recall))))))
+-26.131257095836 -82.651172778920
+(S1 (S (NP (NP (NN I)) (VP (MD can) (S (VP (VB recall)))))))
+-26.863944616541 -83.854055741713
+(S1 (NP (NP (NN I)) (VP (MD can) (S (VP (NN recall))))))
+-27.055725962299 -84.825541767764
+(S1 (S (NP (NP (NN I)) (VP (MD can) (VP (NN recall))))))
+-27.299894872185 -86.676943008929
+(S1 (S (NP (NP (PRP I)) (VP (MD can) (S (VP (VBP recall)))))))
+-27.354519522837 -90.071338792115
+(S1 (NP (NP (PRP I)) (VP (MD can) (S (VP (NN recall))))))
+-28.090085909583 -88.787286913660
+(S1 (S (NP (NP (PRP I)) (VP (MD can) (S (VP (NN recall)))))))
+-28.780942032671 -86.687329594518
+(S1 (S (NP (NP (NN I)) (VP (MD can) (S (VP (VBP recall)))))))
+-29.560962851857 -88.797673499249
+(S1 (S (NP (NP (NN I)) (VP (MD can) (S (VP (NN recall)))))))
+

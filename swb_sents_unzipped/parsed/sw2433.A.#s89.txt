@@ -1,0 +1,102 @@
+50 x
+-13.040377147875 -42.807539656491
+(S1 (PP (IN for) (NP (QP (RB about) (CD four)) (NNS weeks))))
+-13.107181229974 -42.727412474212
+(S1 (PP (IN for) (NP (IN about) (CD four) (NNS weeks))))
+-13.957851149098 -42.911593044092
+(S1 (S (PP (IN for) (NP (QP (RB about) (CD four)) (NNS weeks)))))
+-13.990282687258 -42.831465803010
+(S1 (S (PP (IN for) (NP (IN about) (CD four) (NNS weeks)))))
+-14.102586767194 -41.715239891123
+(S1 (FRAG (PP (IN for) (NP (QP (RB about) (CD four)) (NNS weeks)))))
+-14.191359309293 -41.635112703039
+(S1 (FRAG (PP (IN for) (NP (IN about) (CD four) (NNS weeks)))))
+-14.324375950154 -47.051453603911
+(S1 (PP (IN for) (NP (RB about) (CD four) (NNS weeks))))
+-14.841477982717 -44.393479015844
+(S1 (PP (IN for) (NP (QP (IN about) (CD four)) (NNS weeks))))
+-15.167803424956 -47.155506667871
+(S1 (S (PP (IN for) (NP (RB about) (CD four) (NNS weeks)))))
+-15.268436397909 -46.502515386080
+(S1 (PP (IN for) (IN about) (NP (CD four) (NNS weeks))))
+-15.386585561110 -45.959153797471
+(S1 (FRAG (PP (IN for) (NP (RB about) (CD four) (NNS weeks)))))
+-15.536118733940 -44.497532403445
+(S1 (S (PP (IN for) (NP (QP (IN about) (CD four)) (NNS weeks)))))
+-15.875129428789 -50.338774616245
+(S1 (PP (IN for) (PP (IN about) (NP (CD four) (NNS weeks)))))
+-15.925656062036 -43.301179250476
+(S1 (FRAG (PP (IN for) (NP (QP (IN about) (CD four)) (NNS weeks)))))
+-16.014059906974 -51.890437453954
+(S1 (X (PP (IN for) (NP (QP (RB about) (CD four)) (NNS weeks)))))
+-16.080864025314 -51.810310390903
+(S1 (X (PP (IN for) (NP (IN about) (CD four) (NNS weeks)))))
+-16.233905717751 -52.220983658790
+(S1 (SBAR (IN for) (S (NP (QP (RB about) (CD four)) (NNS weeks)))))
+-16.692582762340 -48.991214302304
+(S1 (FRAG (IN for) (NP (QP (RB about) (CD four)) (NNS weeks))))
+-16.842651620441 -52.102100542574
+(S1 (S (ADJP (IN for) (PP (IN about) (NP (CD four) (NNS weeks))))))
+-17.432460380792 -53.326019993103
+(S1 (NP (IN for) (QP (RB about) (CD four) (NNS weeks))))
+-17.530391351674 -54.402961610880
+(S1 (PP (IN for) (NP (QP (RB about) (CD four) (NNS weeks)))))
+-17.549845340217 -51.712228157827
+(S1 (S (PP (IN for) (IN about) (NP (CD four) (NNS weeks)))))
+-17.565483916665 -53.153181110074
+(S1 (FRAG (IN for) (PP (IN about) (NP (CD four) (NNS weeks)))))
+-17.612793595992 -55.226259218812
+(S1 (SBAR (IN for) (FRAG (PP (IN about) (NP (CD four) (NNS weeks))))))
+-17.618982471692 -50.115808361479
+(S1 (FRAG (PP (IN for) (IN about) (NP (CD four) (NNS weeks)))))
+-17.695591595593 -53.806923018143
+(S1 (SBAR (IN for) (S (NP (QP (IN about) (CD four)) (NNS weeks)))))
+-17.741702594262 -54.190276689402
+(S1 (FRAG (PP (IN for) (NP (IN about) (NP (CD four) (NNS weeks))))))
+-17.763649377955 -51.928264411009
+(S1 (FRAG (IN for) (NP (IN about) (CD four) (NNS weeks))))
+-17.815160741815 -53.476376813307
+(S1 (X (PP (IN for) (NP (QP (IN about) (CD four)) (NNS weeks)))))
+-18.070346847178 -52.268532860355
+(S1 (FRAG (ADVP (IN for)) (PP (IN about) (NP (CD four) (NNS weeks)))))
+-18.096181726346 -52.692165812659
+(S1 (FRAG (SBAR (IN for) (S (NP (QP (RB about) (CD four)) (NNS weeks))))))
+-18.182958586822 -54.245821029732
+(S1 (FRAG (PP (IN for) (PP (IN about) (NP (CD four) (NNS weeks))))))
+-18.193449851990 -55.096059136589
+(S1 (PP (IN for) (NP (QP (IN about) (CD four) (NNS weeks)))))
+-18.261004974647 -53.700316263511
+(S1 (S (NP (IN for)) (NP (QP (RB about) (CD four)) (NNS weeks))))
+-18.353923636715 -54.434049208936
+(S1 (FRAG (IN for) (NP (RB about) (CD four) (NNS weeks))))
+-18.364930237805 -54.595963959400
+(S1 (NP (IN for) (QP (IN about) (CD four) (NNS weeks))))
+-18.480289299739 -55.244954352434
+(S1 (S (ADVP (IN for) (PP (IN about) (NP (CD four) (NNS weeks))))))
+-18.517267661992 -53.274536780904
+(S1 (FRAG (S (PP (IN for) (NP (QP (RB about) (CD four)) (NNS weeks))))))
+-18.571667660152 -53.194409539822
+(S1 (FRAG (S (PP (IN for) (NP (IN about) (CD four) (NNS weeks))))))
+-18.579210837181 -50.577153661657
+(S1 (FRAG (IN for) (NP (QP (IN about) (CD four)) (NNS weeks))))
+-18.603208873125 -53.392702598893
+(S1 (FRAG (ADJP (IN for) (PP (IN about) (NP (CD four) (NNS weeks))))))
+-18.752396731381 -53.883860542185
+(S1 (FRAG (PP (IN for) (NP (QP (RB about) (CD four) (NNS weeks))))))
+-19.034339834531 -54.264052800507
+(S1 (FRAG (ADVP (IN for) (PP (IN about) (NP (CD four) (NNS weeks))))))
+-19.075188680924 -54.050220214850
+(S1 (FRAG (X (IN for)) (NP (QP (RB about) (CD four)) (NNS weeks))))
+-19.128499098375 -55.265560786075
+(S1 (FRAG (SBAR (IN for) (FRAG (PP (IN about) (NP (CD four) (NNS weeks)))))))
+-19.430893136030 -53.777191132854
+(S1 (FRAG (WHNP (IN for)) (PP (IN about) (NP (CD four) (NNS weeks)))))
+-19.437423691697 -54.576958067894
+(S1 (FRAG (PP (IN for) (NP (QP (IN about) (CD four) (NNS weeks))))))
+-19.579836064187 -54.278105172012
+(S1 (FRAG (SBAR (IN for) (S (NP (QP (IN about) (CD four)) (NNS weeks))))))
+-20.117503706833 -54.860476140257
+(S1 (FRAG (S (PP (IN for) (NP (QP (IN about) (CD four)) (NNS weeks))))))
+-20.454497881488 -55.286255622864
+(S1 (S (NP (IN for)) (NP (QP (IN about) (CD four)) (NNS weeks))))
+

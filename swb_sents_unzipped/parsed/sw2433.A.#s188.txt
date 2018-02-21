@@ -1,0 +1,102 @@
+50 x
+-22.955955070136 -89.314535131844
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-23.064523531271 -87.500639361225
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming)))))))))
+-23.191333318766 -87.823846493187
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming))))))))
+-23.200828711542 -88.078305149860
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming)))))))))
+-23.215260019631 -89.637742263807
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming)))))))))
+-23.414623721991 -88.713534429771
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming))))))))
+-23.622412373407 -89.892200920479
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-23.871548043986 -88.910145904410
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-23.874398033121 -87.096250133790
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming)))))))))
+-23.968702545856 -90.527430200390
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming)))))))))
+-23.989030160981 -89.097791845238
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming)))))))))
+-24.008905363729 -91.030751679947
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (VBG swimming)))))))))
+-24.131420609511 -91.254568316659
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-24.154770017273 -88.190693739410
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming)))))))))
+-24.202825171430 -89.733021125149
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming))))))))
+-24.230129482892 -89.693109038267
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming)))))))))
+-24.268210313223 -91.353958811909
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (VBG swimming))))))))
+-24.356407489605 -90.164277583625
+(S1 (S (NP (CD one) (NN thing) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming)))))))))
+-24.356939270386 -90.016316170229
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming))))))))
+-24.390725559006 -91.577775448621
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming)))))))))
+-24.420473407812 -90.659251123630
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-24.443470235956 -88.688200474293
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming))))))))
+-24.556271697803 -89.933924506241
+(S1 (S (NP (CD one) (NN thing) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming)))))))))
+-24.643334444155 -88.457847396909
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming))))))))
+-24.675428914225 -88.741340786603
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming)))))))))
+-24.682072151138 -90.004589510029
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-24.766763580262 -91.294480403541
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming)))))))))
+-24.875293119636 -88.510987709220
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming)))))))))
+-24.914303539272 -90.520970403594
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (NP (JJ like) (NN swimming))))))))
+-24.924498337579 -90.626362452512
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (VBG swimming)))))))))
+-24.942971463925 -89.210180434788
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming)))))))))
+-24.958307329554 -90.844177535556
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (NP (JJ like) (NN swimming)))))))
+-24.987714944635 -91.495383784634
+(S1 (S (NP (CD one) (NN thing) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-24.997549059821 -90.502096244913
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming)))))))))
+-25.040003984742 -89.288719810832
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming)))))))))
+-25.047013583361 -90.850179089224
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-25.050608719542 -91.098636192229
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (NP (JJ like) (NN swimming))))))))
+-25.097012576090 -90.555236557223
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-25.207272855774 -90.019306675302
+(S1 (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming)))))))))
+-25.306736369255 -90.072446987612
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-25.382800973748 -88.879848474867
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (NP (NN swimming)))))))))
+-25.480133185544 -90.771639713180
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-25.569968993909 -90.116581176159
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like) (NP (JJ like) (NN swimming))))))))
+-25.582665181947 -88.649495397483
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (NP (NN swimming)))))))))
+-25.850340975274 -91.211024781779
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like) (NP (JJ like) (NN swimming))))))))
+-25.910103110401 -90.693744245487
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-26.119826903566 -90.210954675876
+(S1 (FRAG (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VB like) (PP (IN like) (S (VP (VBG swimming))))))))))
+-26.927467197432 -87.892655691013
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP like))))) (PP (IN like) (NP (NN swimming)))))
+-27.457966219095 -88.470321649815
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBP like))))) (PP (IN like) (NP (NN swimming)))))
+-28.604215269657 -89.133357393215
+(S1 (S (NP (NP (CD one) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP like))))) (PP (IN like) (NP (NN swimming)))))
+

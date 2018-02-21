@@ -1,0 +1,102 @@
+50 x
+-35.263865991329 -119.666351029317
+(S1 (S (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's)))))))) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))
+-35.480014492764 -122.919479813816
+(S1 (S (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (POS 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-35.829482632714 -119.045956474524
+(S1 (S (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-36.480100808790 -119.975528056820
+(S1 (S (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-36.605998813250 -123.575104265218
+(S1 (S (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VBZ 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-36.842353112250 -124.319977613837
+(S1 (S (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (POS 's)))))))) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))
+-37.109968223662 -123.523539902972
+(S1 (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (POS 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-37.326812173082 -122.380210432838
+(S1 (NP (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-37.433927222047 -123.474929163007
+(S1 (S (NP (DT the) (NX (NX (NN budget) (NNS restraints)) (CC and) (NX (NNS things)))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (POS 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-37.459436363612 -119.650016563680
+(S1 (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))
+-37.581433071194 -123.899394635873
+(S1 (S (NP (DT the) (NN budget)) (NP (NP (NNS restraints) (CC and) (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-37.653270522436 -123.973664000263
+(S1 (NP (DT the) (NN budget) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (POS 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-37.777745210776 -123.893525933325
+(S1 (S (NP (DT the) (NN budget) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's)))))))) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))
+-37.783395334118 -119.601405823715
+(S1 (S (NP (DT the) (NX (NX (NN budget) (NNS restraints)) (CC and) (NX (NNS things)))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-37.979902913277 -121.337324854182
+(S1 (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NP (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-38.002738662385 -120.100140660971
+(S1 (NP (DT the) (NN budget) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))
+-38.064531865010 -123.110897647643
+(S1 (NP (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-38.110054511810 -120.579588145976
+(S1 (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))))
+-38.127825492115 -124.271266870069
+(S1 (S (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (VP (VB like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-38.235952544148 -124.179164354374
+(S1 (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VBZ 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))
+-38.319152791000 -124.630081850678
+(S1 (S (NP (DT the) (NN budget)) (NP (NP (NNS restraints) (CC and) (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))
+-38.362807593431 -121.349568981271
+(S1 (S (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-38.434013510195 -120.530977406012
+(S1 (S (NP (DT the) (NX (NX (NN budget) (NNS restraints)) (CC and) (NX (NNS things)))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-38.559911514654 -124.130553614409
+(S1 (S (NP (DT the) (NX (NX (NN budget) (NNS restraints)) (CC and) (NX (NNS things)))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VBZ 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-38.653356810584 -121.029712243267
+(S1 (NP (DT the) (NN budget) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))))
+-38.717622605206 -122.068012068987
+(S1 (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NP (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))
+-38.779254842922 -124.629288451665
+(S1 (NP (DT the) (NN budget) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VBZ 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))
+-39.013425769507 -122.279140563567
+(S1 (S (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))))
+-39.132343177201 -123.967380938652
+(S1 (S (NP (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-39.142892477873 -120.866905083934
+(S1 (FRAG (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (SBAR (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-39.167035212020 -120.942796232969
+(S1 (FRAG (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-39.175639980344 -124.687499813456
+(S1 (S (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NNS things))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (POS 's) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-39.405248960632 -123.999369947822
+(S1 (NP (DT the) (NP (NN budget) (NNS restraints)) (CC and) (NP (NP (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-39.525108120294 -120.813976474164
+(S1 (S (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NNS things))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-39.784687504656 -124.088616404005
+(S1 (FRAG (NP (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-39.817653388096 -121.872367815265
+(S1 (FRAG (NP (NP (DT the) (NN budget)) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))))
+-39.870062897008 -124.698068153457
+(S1 (S (NP (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))
+-39.872168890166 -123.160854032396
+(S1 (FRAG (NP (DT the) (NN budget)) (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-39.923107200451 -124.116867115689
+(S1 (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NP (NNS things)) (PP (IN like) (SBAR (WHNP (WDT that)) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))
+-39.989739784024 -121.827492206447
+(S1 (FRAG (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (SBAR (IN like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-40.067912990039 -122.708684808491
+(S1 (FRAG (NP (DT the) (NN budget) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-40.142968680439 -124.730057162627
+(S1 (NP (DT the) (NP (NN budget) (NNS restraints)) (CC and) (NP (NP (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))
+-40.155654670729 -124.731403358510
+(S1 (FRAG (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NP (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))
+-40.175726296370 -121.743548056460
+(S1 (S (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NNS things))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-40.204214049054 -124.729069780923
+(S1 (S (NP (NP (DT the) (NN budget) (NNS restraints)) (CC and) (NP (NP (NNS things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))
+-40.468894691709 -122.077779633301
+(S1 (S (NP (DT the) (NP (NN budget) (NNS restraints)) (CC and) (NP (NNS things))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it) (VBZ 's)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))
+-40.522787066242 -124.090425614693
+(S1 (FRAG (NP (DT the) (NN budget)) (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))
+-40.718531166116 -123.638256390788
+(S1 (FRAG (NP (DT the) (NN budget) (SBAR (S (NP (NNS restraints) (CC and) (NNS things)) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))))))
+-41.119512867785 -123.007351215597
+(S1 (S (NP (DT the) (NP (NN budget) (NNS restraints)) (CC and) (NP (NNS things))) (VP (VBP like) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult))))))))))))
+-41.272877829409 -124.235298576626
+(S1 (FRAG (NP (DT the) (NN budget) (NNS restraints) (CC and) (NNS things)) (SBAR (WHPP (IN like) (WHNP (WDT that))) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJ difficult)))))))))))
+

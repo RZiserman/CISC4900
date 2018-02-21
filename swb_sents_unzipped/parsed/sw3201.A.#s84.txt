@@ -1,0 +1,102 @@
+50 x
+-23.794350418219 -80.657649776907
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (ADJP (JJ pretty)))))
+-24.186356604442 -78.673276865776
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty)))))))))
+-24.293861055520 -84.689708007924
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (ADVP (RB pretty)))))
+-24.394988529211 -81.578589181265
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (RB pretty))))
+-24.566479815502 -82.705334968956
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADVP (RB pretty)))))))))
+-24.663472516769 -79.594216158194
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty))))))))
+-24.825918005507 -77.200876975510
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty))))))))))
+-25.325151736567 -81.232935078691
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADVP (RB pretty))))))))))
+-25.348266763787 -83.076158163223
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (ADJP (RB pretty)))))
+-25.422144437834 -78.121816267929
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty)))))))))
+-25.519718888575 -82.111823276112
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know)))) (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty)))))
+-25.635984440010 -81.091785252092
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (RB pretty)))))))))
+-25.676497117899 -85.959181000689
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (PRT (RB pretty)))))))))
+-25.814912928054 -83.686586362281
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (NP (RB pretty)))))
+-26.013452327876 -86.143881507129
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know)))) (NP (NN phone) (NNS books)) (VP (VBP are) (ADVP (RB pretty)))))
+-26.033464387551 -81.702213392501
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (NP (RB pretty)))))))))
+-26.115662753568 -83.032762680470
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know)))) (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty))))
+-26.394656361075 -79.619385361826
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (RB pretty))))))))))
+-26.420493722232 -86.104825689430
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (NP (JJ pretty)))))
+-26.435169038965 -84.486781110424
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (PRT (RB pretty))))))))))
+-26.743333691729 -84.120452719650
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (NP (JJ pretty)))))))))
+-26.792136308616 -80.229813502236
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (NP (RB pretty))))))))))
+-27.078577444143 -84.530331662428
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know)))) (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (RB pretty)))))
+-27.382895092795 -82.648052829385
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (NP (JJ pretty))))))))))
+-27.548898698411 -85.140759861486
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know)))) (NP (NN phone) (NNS books)) (VP (VBP are) (NP (RB pretty)))))
+-27.601947676721 -84.870811939091
+(S1 (S (IN Because) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty))))))))
+-27.975426669048 -85.791751231510
+(S1 (S (IN Because) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty)))))))
+-28.491828904643 -87.405690712599
+(S1 (S (SBAR (RB Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (ADJP (JJ pretty)))))
+-28.531892965599 -87.350351272177
+(S1 (S (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty)))))))))
+-28.557834695667 -87.231838524209
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADVP (JJ pretty)))))))))
+-28.563632454883 -87.538949399478
+(S1 (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (NP (NN phone) (NNS books))))) (VP (VBP are) (S (ADJP (RB pretty))))))
+-28.612307151252 -85.819875064082
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (S (ADJP (JJ pretty))))))))))
+-28.722834433862 -85.813710761500
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty)))))))))
+-28.810240656077 -86.542290601392
+(S1 (S (RB Because) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty))))))))
+-28.836614539954 -85.554576447901
+(S1 (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (S (ADJP (RB pretty))))))))))
+-28.947938595077 -87.289320325407
+(S1 (S (IN Because) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (RB pretty))))))))
+-29.080325305806 -86.212430379998
+(S1 (FRAG (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty))))))))))
+-29.197396096733 -85.759438633944
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADVP (JJ pretty))))))))))
+-29.199950346189 -86.734650053919
+(S1 (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty))))))))
+-29.251868552317 -84.347475173817
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (S (ADJP (JJ pretty)))))))))))
+-29.289818650915 -83.742404410016
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty))))))))))
+-29.469080080404 -87.463229893810
+(S1 (S (RB Because) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty)))))))
+-29.481136330802 -86.334901797628
+(S1 (FRAG (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (JJ pretty)))))))))
+-29.576290387382 -86.324813613665
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (S (ADVP (RB pretty)))))))))))
+-29.595286461020 -84.082176557635
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (S (ADJP (RB pretty)))))))))))
+-29.664873716133 -87.133369672416
+(S1 (FRAG (IN Because) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty)))))))))
+-29.886045083242 -84.663343702435
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty)))))))))
+-30.188841343129 -87.255841090047
+(S1 (FRAG (IN Because) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (RB pretty))))))))
+-30.858557009271 -86.160912796332
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (ADJP (RB pretty))))))))))
+-31.256036956812 -86.771340936742
+(S1 (FRAG (SBAR (WHNP (IN Because)) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (NN phone) (NNS books)) (VP (VBP are) (NP (RB pretty))))))))))
+

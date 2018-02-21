@@ -1,0 +1,102 @@
+50 x
+-18.337021016172 -67.356346464740
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (PP (IN through) (NP (PRP it))))))
+-19.720157979583 -71.303661934272
+(S1 (S (VBD Did) (NP (PRP you)) (VP (NN cry) (PP (IN through) (NP (PRP it))))))
+-19.923876496976 -68.244222186218
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (PP (IN through) (NP (PRP it))))))))
+-20.144683296751 -68.971858413598
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (PP (IN through) (NP (PRP it)))))))))
+-20.945562036269 -69.076187972481
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (NP (PRP it)))))
+-21.374133521289 -73.442657971443
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (NN cry) (PP (IN through) (NP (PRP it)))))))))
+-21.380967313770 -72.690426285089
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (NN cry) (PP (IN through) (NP (PRP it))))))))
+-21.416873492771 -76.229691081755
+(S1 (S (VP (VBD Did) (NP (PRP you)) (VP (VB cry) (PP (IN through) (NP (PRP it)))))))
+-21.613688387057 -77.057194223563
+(S1 (S (VP (VBD Did) (NP (PRP you))) (VP (VB cry) (PP (IN through) (NP (PRP it))))))
+-21.851960345884 -74.870954867875
+(S1 (S (VP (VBD Did) (NP (PRP you)) (NP (NN cry)) (PP (IN through) (NP (PRP it))))))
+-21.948069570838 -73.953359325971
+(S1 (S (VP (VBD Did) (NP (PRP you) (NN cry)) (PP (IN through) (NP (PRP it))))))
+-22.123991732859 -74.808091266406
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (ADVP (RB through)) (NP (PRP it)))))
+-22.459747032814 -76.621239120395
+(S1 (S (VP (VBD Did) (NP (PRP you)) (S (VP (VB cry) (PP (IN through) (NP (PRP it))))))))
+-22.526088466515 -75.060245590944
+(S1 (S (VBD Did) (NP (PRP you)) (VP (NN cry) (PRT (RP through)) (NP (PRP it)))))
+-22.607029421469 -74.732425393423
+(S1 (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (PP (IN through) (NP (PRP it)))))))
+-22.858011683615 -76.159889566919
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry))) (PP (IN through) (NP (PRP it))))))
+-22.938720387213 -78.789509081350
+(S1 (S (VBD Did) (NP (PRP you)) (VP (NP (NN cry)) (PP (IN through) (NP (PRP it))))))
+-23.031686827169 -76.602930406279
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (IN through) (NP (PRP it)))))
+-23.050190709028 -70.691700100871
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (NP (PRP it))))))))
+-23.087372871982 -69.964063609038
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (NP (PRP it)))))))
+-23.165993095434 -76.715227309125
+(S1 (S (VP (VBD Did) (NP (PRP you)) (NP (NP (NN cry)) (PP (IN through) (NP (PRP it)))))))
+-23.167594935512 -75.475014379054
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (PP (IN through) (NP (PRP it))))))))
+-23.222052633125 -77.212917488425
+(S1 (S (VP (VBD Did) (NP (PRP you)) (S (VP (NN cry) (PP (IN through) (NP (PRP it))))))))
+-23.349586356394 -76.877789028861
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (PP (RP through) (NP (PRP it))))))
+-23.625416086949 -75.607836879442
+(S1 (S (VP (VBD Did) (NP (NP (PRP you) (NN cry)) (PP (IN through) (NP (PRP it)))))))
+-23.896376472953 -76.507377274854
+(S1 (SINV (VBD Did) (NP (NP (PRP you) (NN cry)) (PP (IN through) (NP (PRP it))))))
+-23.994720066403 -77.199241484956
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (NN cry) (PRT (RP through)) (NP (PRP it))))))))
+-24.022319412338 -76.447009917204
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (NN cry) (PRT (RP through)) (NP (PRP it)))))))
+-24.041486653483 -75.695966824900
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (ADVP (RB through)) (NP (PRP it)))))))
+-24.045970794323 -77.959277002766
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (PP (RB through) (NP (PRP it))))))
+-24.147041311316 -76.423603324484
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (ADVP (RB through)) (NP (PRP it))))))))
+-24.202087864546 -78.777035895676
+(S1 (S (VP (VBD Did) (NP (PRP you))) (VP (VB cry) (PRT (RP through)) (NP (PRP it)))))
+-24.304312385826 -77.759262553019
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (ADVP (RP through)) (NP (PRP it)))))
+-24.341457455094 -78.089897039672
+(S1 (S (VP (VBD Did) (NP (PRP you)) (ADVP (NN cry)) (PP (IN through) (NP (PRP it))))))
+-24.556022584680 -78.119364389214
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (ADVP (IN through)) (NP (PRP it)))))
+-24.923993720517 -79.340848522230
+(S1 (S (VP (VBD Did) (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (NP (PRP it))))))
+-24.940307444410 -77.765664750339
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (PP (RP through) (NP (PRP it))))))))
+-24.971132802944 -77.490805999552
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (IN through) (NP (PRP it)))))))
+-24.988520486839 -78.218442447860
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (IN through) (NP (PRP it))))))))
+-25.113808226973 -78.493300977719
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (PP (RP through) (NP (PRP it)))))))))
+-25.190668301274 -78.341080657504
+(S1 (S (VP (VBD Did) (NP (PRP you)) (S (VP (VB cry) (PRT (RP through)) (NP (PRP it)))))))
+-25.571247439263 -76.452266816243
+(S1 (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (NP (PRP it))))))
+-25.640709883698 -77.307613993839
+(S1 (S (VBD Did) (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (S (NP (PRP it))))))
+-25.797083172339 -78.847152724244
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (PP (RB through) (NP (PRP it))))))))
+-25.976910957788 -77.194856066327
+(S1 (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (NP (PRP it)))))))
+-26.183060039238 -78.647138111513
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (ADVP (RP through)) (NP (PRP it)))))))
+-26.269549197071 -79.374774611097
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (ADVP (RP through)) (NP (PRP it))))))))
+-26.328255508091 -79.007239947708
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (ADVP (IN through)) (NP (PRP it)))))))
+-27.674938244155 -78.923126044193
+(S1 (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (S (NP (PRP it)))))))))
+-27.712120415473 -78.195489575755
+(S1 (S (VP (VBD Did) (S (NP (PRP you)) (VP (VB cry) (PRT (RP through)) (S (NP (PRP it))))))))
+

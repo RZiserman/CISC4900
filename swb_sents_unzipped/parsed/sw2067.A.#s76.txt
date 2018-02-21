@@ -1,0 +1,102 @@
+50 x
+-15.475407964813 -61.907720712180
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (NP (DT that))))))
+-16.103968515411 -60.457482711447
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (NP (DT that)))))))
+-17.068012993591 -66.206988050938
+(S1 (SBAR (IN Because) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (DT that))))))
+-17.572675665259 -64.822980051576
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (NP (IN that))))))
+-17.696573563703 -64.756750120242
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (DT that)))))))
+-18.036551435857 -63.372742050843
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (NP (IN that)))))))
+-18.262697280052 -65.852999216436
+(S1 (S (PP (IN Because) (NP (PRP they))) (NP (PRP they)) (VP (VBP figure) (NP (DT that)))))
+-18.283216502036 -67.982647800191
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VB figure) (NP (DT that))))))
+-18.487648397593 -69.840670444683
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (X (IN that))))))
+-18.815194239943 -70.809893741582
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADVP (RB that))))))
+-18.951524168191 -68.390432443950
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (X (IN that)))))))
+-19.191674279808 -67.536420962039
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VB figure) (NP (DT that)))))))
+-19.290063454071 -71.145271849661
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (PRT (IN that))))))
+-19.339764354037 -69.122247390334
+(S1 (SBAR (IN Because) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (IN that))))))
+-19.414739769462 -68.629691353365
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (NP (WDT that))))))
+-19.466918188131 -70.029831671330
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (RB that)))))
+-19.578457260541 -69.359655740850
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADVP (RB that)))))))
+-19.741355255114 -68.119871156433
+(S1 (S (IN Because) (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (DT that)))))
+-19.753939224669 -69.695033848929
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (PRT (IN that)))))))
+-19.803640144149 -67.672009459638
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (IN that)))))))
+-19.911921731820 -71.371832575584
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADVP (DT that))))))
+-19.938169138448 -71.522499062916
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADVP (IN that))))))
+-20.029295450060 -67.179453352632
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (NP (WDT that)))))))
+-20.083048025978 -70.229521234036
+(S1 (S (ADVP (RB Because)) (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (NP (DT that)))))
+-20.129106167525 -70.500753458704
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (SBAR (S (NP (DT that))))))))
+-20.161052667498 -68.768258555832
+(S1 (S (PP (IN Because) (NP (PRP they))) (NP (PRP they)) (VP (VBP figure) (NP (IN that)))))
+-20.230181208729 -68.579593670597
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (RB that))))))
+-20.345697737441 -72.417015202352
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (X (DT that)))))))
+-20.402044909046 -70.072261062183
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADVP (IN that)))))))
+-20.496196067210 -71.858101628820
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (SBAR (DT that)))))))
+-20.519584680211 -72.130102532069
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VB figure) (NP (DT that)))))))
+-20.540482279630 -69.921594574851
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADVP (DT that)))))))
+-20.617171815831 -70.759990724960
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VB figure) (NP (IN that))))))
+-20.703758636388 -70.156812949323
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADJP (IN that))))))
+-20.757666718123 -69.050515457971
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (SBAR (S (NP (DT that)))))))))
+-20.821420852593 -69.817622608708
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (S (ADJP (IN that)))))))
+-21.167634406986 -68.706574948591
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADJP (IN that)))))))
+-21.187635758432 -71.276993341750
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (S (ADVP (IN that)))))))
+-21.223684621544 -69.976640747533
+(S1 (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADJP (RB that))))))
+-21.285296623191 -68.367384607975
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (S (ADJP (IN that))))))))
+-21.360944816390 -70.313763886808
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VB figure) (NP (IN that)))))))
+-21.432551410206 -69.588840293131
+(S1 (S (RB Because) (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (DT that)))))
+-21.651511529030 -69.826755341018
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (S (ADVP (IN that))))))))
+-21.757737008352 -71.478720761428
+(S1 (FRAG (SBAR (IN Because) (S (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (WDT that)))))))
+-21.814194302559 -71.035130495829
+(S1 (S (IN Because) (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (IN that)))))
+-21.945417337905 -70.676073868662
+(S1 (S (PP (RB Because) (NP (PRP they))) (NP (PRP they)) (VP (VBP figure) (NP (DT that)))))
+-21.986947642142 -68.526402746800
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (ADJP (RB that)))))))
+-23.086909326267 -71.692532045072
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (SBAR (S (VP (VBP that)))))))))
+-23.131273734166 -72.058045811256
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (NP (PRP they)) (VP (VBP figure) (S (ADJP (RB that))))))))
+-23.468528867652 -72.504099632527
+(S1 (S (RB Because) (NP (NP (PRP they)) (NP (PRP they))) (VP (VBP figure) (NP (IN that)))))
+

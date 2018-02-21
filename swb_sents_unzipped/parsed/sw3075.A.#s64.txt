@@ -1,0 +1,102 @@
+50 x
+-15.885405213191 -64.524345969928
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-19.316613728551 -72.105175653922
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never)) (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-20.079165408195 -67.601529750547
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise))))))
+-20.190609823159 -78.942511636452
+(S1 (S (NP (PRP I)) (VP (VB 've) (ADVP (RB never)) (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-20.868501591726 -77.682915626444
+(S1 (S (NP (PRP I)) (VBP 've) (VP (ADVP (RB never)) (VBN been) (PP (IN on) (NP (DT a) (NN cruise))))))
+-21.336186347093 -73.719324509764
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN been) (PP (RP on) (NP (DT a) (NN cruise)))))))
+-21.358542120774 -77.946102741961
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-21.899993537295 -83.747968981915
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (S (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise))))))))
+-21.955523546711 -84.973491080859
+(S1 (S (NP (PRP I)) (VP (VBP 've) (SBAR (S (ADVP (RB never)) (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-22.023841729179 -71.953057198729
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN been) (PRT (IN on)) (NP (DT a) (NN cruise))))))
+-22.404946599005 -83.492782238843
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (S (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-22.464265170727 -89.207654128874
+(S1 (S (NP (PRP I)) (VP (VBP 've) (S (ADVP (RB never)) (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise))))))))
+-22.692160655731 -78.699030542871
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-22.794176212276 -83.339373865691
+(S1 (S (NP (PRP I)) (VP (VB 've) (VP (ADVP (RB never)) (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-22.934575917332 -82.658654286026
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (PP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-23.442063922003 -88.328790345216
+(S1 (S (NP (PRP I)) (VP (VBP 've) (S (VP (ADVP (RB never)) (VBN been) (PP (IN on) (NP (DT a) (NN cruise))))))))
+-23.445597686769 -79.511142625582
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (ADJP (VBN been)) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-23.475532685208 -80.723867249300
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (VBN been)) (PP (IN on) (NP (DT a) (NN cruise))))))
+-24.046236963595 -79.546211650524
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never)) (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise))))))
+-24.120474399114 -88.425941609430
+(S1 (S (NP (NN I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-24.197939025396 -87.615242686156
+(S1 (S (NP (PRP I)) (VP (VBP 've) (SBAR (S (VP (ADVP (RB never)) (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-24.246194212657 -81.373576711193
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (RB never) (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-24.431307426454 -81.300154193758
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never)) (VBN been) (PP (RP on) (NP (DT a) (NN cruise)))))))
+-24.599869398271 -83.450816376127
+(S1 (S (NP (PRP I)) (VP (VB 've) (ADVP (RB never)) (VP (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise))))))
+-25.101706988745 -85.911271875421
+(S1 (S (NP (PRP I)) (VBP 've) (VP (RB never) (VBN been) (PP (IN on) (NP (DT a) (NN cruise))))))
+-25.355161114062 -88.877976776355
+(S1 (S (NP (NN I)) (VBP 've) (VP (ADVP (RB never)) (VBN been) (PP (IN on) (NP (DT a) (NN cruise))))))
+-25.448209309538 -81.023286392369
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (VP (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise))))))
+-25.471907652583 -86.200353019524
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (S (ADJP (VBN been) (PP (IN on) (NP (DT a) (NN cruise))))))))
+-25.499495067061 -88.137490176287
+(S1 (S (NP (PRP I)) (VP (VB 've) (ADVP (RB never)) (VP (VBN been) (PP (RP on) (NP (DT a) (NN cruise)))))))
+-25.624768528566 -85.098834684650
+(S1 (S (NP (PRP I)) (VBP 've) (VP (ADVP (RB never)) (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise)))))
+-25.743951061074 -85.451887128068
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADJP (ADVP (RB never)) (VBN been)) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-25.855509370086 -88.034325988982
+(S1 (S (NP (PRP I)) (VP (VBP 've) (SBAR (S (ADVP (RB never)) (VP (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise))))))))
+-25.863925697236 -88.151569516633
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (ADVP (RB never)) (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-26.046173262328 -89.237512357886
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (ADVP (RB never)) (VBN been)) (PP (IN on) (NP (DT a) (NN cruise))))))
+-26.091745528217 -86.808803773078
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (S (VP (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise)))))))
+-26.130392889599 -87.037692715193
+(S1 (S (NP (PRP I)) (VBP 've) (VP (ADVP (RB never)) (VBN been) (PP (RP on) (NP (DT a) (NN cruise))))))
+-26.171758544579 -83.897739098707
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never)) (VBN been) (PRT (IN on)) (NP (DT a) (NN cruise))))))
+-26.181762568135 -89.875724229761
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADJP (RB never) (S (VP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-26.318805659924 -86.553616949484
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (S (VP (VBN been) (PRT (RP on)) (NP (DT a) (NN cruise))))))))
+-26.378386701878 -86.417221816545
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADJP (RB never) (VBN been)) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-26.642555892074 -88.816665233869
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (S (ADJP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-26.686441606467 -87.802343824310
+(S1 (S (NP (PRP I)) (VP (VB 've) (ADVP (RB never)) (VP (VBN been) (PRT (IN on)) (NP (DT a) (NN cruise))))))
+-26.703552418677 -87.141081281797
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (VP (VBN been) (PP (RP on) (NP (DT a) (NN cruise)))))))
+-27.205628473111 -87.118825973604
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (ADJP (VBN been)) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-27.450059200521 -85.374813840551
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (VP (VBN been) (PRT (IN on)) (NP (DT a) (NN cruise))))))
+-27.801657530864 -89.580916591016
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (ADJP (VBN been) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-27.821757291827 -89.706719967866
+(S1 (S (NP (PRP I)) (VBP 've) (VP (ADVP (RB never)) (VBN been) (PRT (IN on)) (NP (DT a) (NN cruise)))))
+-28.199864066119 -90.097969775608
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (VBN been) (PP (RP on) (NP (DT a) (NN cruise)))))))
+-28.672464541986 -89.872267709116
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (VBN been)) (PP (RP on) (NP (DT a) (NN cruise))))))
+-28.998582365251 -89.304620807553
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (ADJP (VBN been)) (PP (RP on) (NP (DT a) (NN cruise)))))))
+

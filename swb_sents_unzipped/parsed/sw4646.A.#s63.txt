@@ -1,0 +1,102 @@
+50 x
+-22.852916848042 -85.429224287594
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-23.627339638300 -86.610147420678
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess))))))
+-23.659117468929 -82.421188510086
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP guess))))
+-24.556989039348 -84.104503806472
+(S1 (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)))) (NP (PRP I)) (VP (VBP guess))))
+-24.566755720722 -91.481482214030
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VB guess))))))
+-24.630442225314 -85.078670747909
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))))))
+-25.001706684371 -93.621760627963
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))
+-25.029507737508 -91.130928736562
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VB guess))))))))))
+-25.169338842299 -86.259593943209
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess))))))))))
+-25.454229924673 -88.803760706522
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))) (NP (PRP I)) (VP (VBP guess))))
+-25.593385275377 -95.941548344530
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (PRN (S (NP (PRP I)) (VP (VBP guess)))))))
+-25.752679086861 -96.097230991174
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (S (NP (PRP it)) (NP (PRP I)) (VP (VBP guess))))))
+-25.877987460937 -89.664617657937
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))))) (NP (PRP I)) (VP (VBP guess))))
+-26.123854174010 -90.720261985940
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))
+-26.376689031874 -90.349945644220
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))))))) (NP (PRP I)) (VP (VBP guess))))
+-26.631427893832 -96.665708002786
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VB guess)))))))))))
+-26.724572256341 -93.066900541145
+(S1 (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)))) (S (NP (PRP I)) (VP (VBP guess)))))
+-26.739219860006 -93.271207116956
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))))))
+-26.742460403223 -88.558524057394
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))))))) (S (NP (PRP I)) (VP (VBP guess)))))
+-26.758355530118 -92.565440280056
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))))))
+-26.816488981588 -88.134080187449
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))))))
+-26.965066759359 -91.901185207595
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess)))))))
+-27.141066626526 -92.764087116364
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))))
+-27.234086403782 -94.186338176102
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VB guess)))))))))))
+-27.297252149891 -93.746363475356
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess)))))))))))
+-27.313283279390 -95.069563886939
+(S1 (S (SBAR (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (NP (PRP I)) (VP (VBP guess))))
+-27.355307809376 -95.590994860692
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (PRN (S (NP (PRP I)) (VP (VBP guess)))))))))))
+-27.355385598573 -89.315003382750
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess)))))))))))
+-27.388540638352 -92.420568184612
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (S (NP (PRP it)))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-27.444061277707 -93.527701867068
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))))))) (NP (PRP I)) (VP (VB guess))))
+-27.527610201780 -96.772520000947
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VB guess)))))))
+-27.620678839068 -91.697070463935
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VB need) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP guess))))
+-27.679963243511 -93.945010311664
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess)))))))))
+-27.859454662655 -95.085366125968
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))
+-27.865338531679 -92.858240637837
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP you)) (VP (VB need) (NP (PRP it))))))) (NP (PRP I)) (VP (VBP guess))))
+-28.015549325770 -95.746677421552
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (S (NP (PRP it)) (NP (PRP I)) (VP (VBP guess))))))))))
+-28.148246129034 -96.759114545474
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (NP (VB guess))))))))))
+-28.162963431398 -93.601491317696
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (S (NP (PRP it)))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess))))))
+-28.271955820595 -94.333389926884
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))))) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))))
+-28.925266616280 -96.326616556496
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))))))))
+-28.944402286392 -95.620849719596
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))))))))
+-28.961330395231 -95.801953205244
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))))) (S (NP (PRP I)) (VP (VBP guess)))))
+-29.068790797581 -95.514313122184
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))))) (S (NP (PRP I)) (VP (VBP guess)))))))
+-29.092612829658 -91.095847703490
+(S1 (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (S (NP (PRP it)))))) (NP (PRP you)) (VP (VBP need) (NP (PRP it)))) (NP (PRP I)) (VP (VBP guess))))
+-29.185203194859 -95.243139101647
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))) (S (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))) (NP (PRP I)) (VP (VBP guess)))))
+-29.316235912831 -96.690312262284
+(S1 (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (S (NP (PRP I)) (VP (VBP guess)))))))))))
+-29.327113382800 -95.819496555904
+(S1 (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))))))
+-29.337541165333 -95.444876144534
+(S1 (FRAG (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))))))) (NP (PRP I)) (VP (VBP guess)))))
+-29.460031966167 -96.487281191528
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (NP (NP (PRP it)) (SBAR (S (NP (PRP you)) (VP (VBP need) (NP (PRP it))))))))) (S (NP (PRP I)) (VP (VBP guess)))))
+-29.989853714983 -95.795104603540
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP need) (S (NP (PRP it)))))) (S (NP (PRP you)) (VP (VBP need) (NP (PRP it)))) (NP (PRP I)) (VP (VBP guess))))
+

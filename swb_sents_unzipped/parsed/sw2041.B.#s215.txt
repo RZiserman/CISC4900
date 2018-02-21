@@ -1,0 +1,102 @@
+50 x
+-14.141301114343 -52.626964831398
+(S1 (PP (IN as) (NP (DT a) (JJ fit) (NN person))))
+-14.959809726087 -52.928907295120
+(S1 (FRAG (PP (IN as) (NP (DT a) (JJ fit) (NN person)))))
+-15.434689171133 -55.162295550074
+(S1 (S (PP (IN as) (NP (DT a) (JJ fit) (NN person)))))
+-15.600664760592 -56.919967406962
+(S1 (PP (IN as) (NP (DT a) (VBN fit) (NN person))))
+-15.960178121851 -54.766719863831
+(S1 (NP (RB as) (DT a) (JJ fit) (NN person)))
+-16.309048231650 -56.452179324872
+(S1 (PP (IN as) (NP (DT a) (NN fit) (NN person))))
+-16.475225614578 -57.221910006863
+(S1 (FRAG (PP (IN as) (NP (DT a) (VBN fit) (NN person)))))
+-16.922610451808 -59.455298105341
+(S1 (S (PP (IN as) (NP (DT a) (VBN fit) (NN person)))))
+-17.116146137222 -54.926157227287
+(S1 (FRAG (IN as) (NP (DT a) (JJ fit) (NN person))))
+-17.235629962909 -56.754121855807
+(S1 (FRAG (PP (IN as) (NP (DT a) (NN fit) (NN person)))))
+-17.281184623453 -59.644460894907
+(S1 (NP (IN as) (DT a) (JJ fit) (NN person)))
+-17.648120182866 -58.987510023529
+(S1 (S (PP (IN as) (NP (DT a) (NN fit) (NN person)))))
+-17.876213468212 -55.345015057482
+(S1 (FRAG (IN as) (NP (DT a) (NN fit) (NN person))))
+-17.905622141007 -58.808671013404
+(S1 (NP (RB as) (DT a) (NN fit) (NN person)))
+-18.003486210356 -56.170954089207
+(S1 (NP (QP (RB as) (DT a) (JJ fit)) (NN person)))
+-18.096684883179 -57.512824264147
+(S1 (FRAG (IN as) (NP (DT a) (VBN fit) (NN person))))
+-18.256835711528 -60.713284671676
+(S1 (NP (IN as) (DT a) (NN fit) (NN person)))
+-18.306779964648 -60.450165885839
+(S1 (NP (RB as) (DT a) (VBN fit) (NN person)))
+-18.392382156696 -54.269522281240
+(S1 (FRAG (PP (IN as) (NP (DT a) (NN fit))) (NP (NN person))))
+-18.471525986393 -56.975443740532
+(S1 (FRAG (NP (RB as) (DT a) (JJ fit) (NN person))))
+-18.572771402091 -59.478064787901
+(S1 (PP (IN as) (NP (NP (DT a) (NN fit)) (NP (NN person)))))
+-18.604871239711 -60.576443481688
+(S1 (FRAG (IN as) (NP (DT a) (VB fit) (NN person))))
+-18.702191345868 -57.266691995607
+(S1 (FRAG (RB as) (NP (DT a) (JJ fit) (NN person))))
+-19.079525480487 -58.872265942092
+(S1 (NP (QP (RB as) (DT a) (NN fit)) (NN person)))
+-19.201528101761 -60.178260722112
+(S1 (NP (IN as) (NP (DT a) (NN fit)) (NN person)))
+-19.362822629082 -59.290262745055
+(S1 (FRAG (PP (IN as) (NP (NP (DT a) (NN fit)) (NP (NN person))))))
+-19.387239687095 -62.110001972826
+(S1 (SQ (RB as) (NP (DT a) (JJ fit) (NN person))))
+-19.553604533368 -60.661303220979
+(S1 (S (PP (IN as) (NP (DT a) (NN fit))) (NP (NN person))))
+-19.625472173751 -59.096295285903
+(S1 (NP (QP (IN as) (DT a) (NN fit)) (NN person)))
+-19.753259653579 -60.145338923313
+(S1 (FRAG (RB as) (NP (DT a) (VBN fit) (NN person))))
+-19.771274025726 -61.383192693434
+(S1 (FRAG (X (IN as)) (NP (DT a) (JJ fit) (NN person))))
+-19.785891043695 -58.801708025487
+(S1 (FRAG (RB as) (NP (DT a) (NN fit) (NN person))))
+-19.923410903774 -60.596858165288
+(S1 (PP (IN as) (NP (DT a) (NN fit)) (NP (NN person))))
+-19.925309568965 -59.226292325114
+(S1 (NP (RB as) (NP (DT a) (NN fit)) (NN person)))
+-19.968792703640 -61.514245343993
+(S1 (S (PP (IN as) (NP (NP (DT a) (NN fit)) (NP (NN person))))))
+-20.008379103906 -59.526974765235
+(S1 (NP (NP (RB as) (DT a) (NN fit)) (NN person)))
+-20.031452861897 -61.850402051488
+(S1 (FRAG (ADVP (RB as)) (NP (DT a) (JJ fit) (NN person))))
+-20.041845736307 -59.996313588572
+(S1 (PP (IN as) (NP (DT a) (ADJP (JJ fit)) (NN person))))
+-20.236540500239 -62.246365569386
+(S1 (FRAG (NP (RB as) (DT a) (NN fit) (NN person))))
+-20.272070612459 -60.047924439282
+(S1 (FRAG (IN as) (NP (NP (DT a) (NN fit)) (NP (NN person)))))
+-20.349230205066 -60.359886761678
+(S1 (NP (NP (RB as) (DT a) (NN fit)) (NP (NN person))))
+-20.490439071411 -61.887061168044
+(S1 (NP (NP (IN as) (DT a) (NN fit)) (NN person)))
+-20.633041776423 -62.279325782947
+(S1 (FRAG (X (IN as)) (NP (DT a) (NN fit) (NN person))))
+-20.668926009035 -59.440809389335
+(S1 (FRAG (NP (QP (RB as) (DT a) (JJ fit)) (NN person))))
+-20.860354353626 -60.298256077475
+(S1 (FRAG (PP (IN as) (NP (DT a) (ADJP (JJ fit)) (NN person)))))
+-21.030015241210 -60.955829637162
+(S1 (NP (RB as) (DT a) (ADJP (JJ fit)) (NN person)))
+-21.194916189188 -61.467340545093
+(S1 (NP (IN as) (DT a) (ADJP (JJ fit)) (NN person)))
+-21.574716304889 -58.811512133506
+(S1 (FRAG (IN as) (NP (DT a) (ADJP (JJ fit)) (NN person))))
+-22.340932757959 -61.831089955652
+(S1 (FRAG (RB as) (NP (NP (DT a) (NN fit)) (NP (NN person)))))
+-23.258243284138 -61.444026754913
+(S1 (FRAG (RB as) (NP (DT a) (ADJP (JJ fit)) (NN person))))
+

@@ -1,0 +1,102 @@
+50 x
+-18.957488090291 -61.765741942595
+(S1 (S (NP (PRP We)) (VP (VBP think) (NP (RB about) (IN that) (DT a) (NN lot)))))
+-19.241358893063 -69.222600443927
+(S1 (S (NP (PRP We)) (VP (VBP think) (SBAR (IN about) (S (PP (IN that) (NP (DT a) (NN lot))))))))
+-19.245588274925 -69.316004324965
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about)) (PP (IN that) (NP (DT a) (NN lot))))))
+-19.600099621322 -65.737253787632
+(S1 (S (NP (PRP We)) (VP (VBP think) (SBAR (IN about) (IN that) (S (NP (DT a) (NN lot)))))))
+-19.656935713717 -65.829769112910
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (NP (DT that) (DT a) (NN lot))))))
+-19.952653903802 -67.137674203101
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (IN that) (NP (DT a) (NN lot))))))
+-20.011060614158 -61.877985618932
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (NP (IN that) (DT a) (NN lot))))))
+-20.376968932547 -68.224122729436
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (NP (DT that) (NP (DT a) (NN lot)))))))
+-20.640002651836 -66.296305127265
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (NP (DT that) (DT a) (NN lot))))))
+-20.686803758007 -66.249768794536
+(S1 (S (NP (PRP We)) (VP (VB think) (NP (RB about) (IN that) (DT a) (NN lot)))))
+-20.706560935090 -71.530398781251
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (PP (IN that) (NP (DT a) (NN lot)))))))
+-20.949859260586 -67.997562010449
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (IN that) (NP (DT a) (NN lot))))))
+-20.994127549490 -62.344521633287
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (NP (IN that) (DT a) (NN lot))))))
+-21.232199808456 -72.281442456821
+(S1 (S (NP (PRP We)) (VP (VBP think) (SBAR (IN about) (FRAG (PP (IN that) (NP (DT a) (NN lot))))))))
+-21.319213829534 -66.546888674251
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (NP (RB that) (DT a) (NN lot))))))
+-21.360035867878 -68.690658743792
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (NP (DT that) (NP (DT a) (NN lot)))))))
+-21.399634857511 -73.017235291634
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (S (PP (IN that) (NP (DT a) (NN lot))))))))
+-21.596209258348 -70.670344763722
+(S1 (S (NP (PRP We)) (VP (VBP think) (SBAR (RB about) (IN that) (S (NP (DT a) (NN lot)))))))
+-21.633637779249 -72.598458597780
+(S1 (S (NP (PRP We)) (VP (VBP think) (SBAR (IN about) (FRAG (IN that) (NP (DT a) (NN lot)))))))
+-21.644811040714 -72.018191884984
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (PP (IN that) (NP (DT a) (NN lot)))))))
+-21.788532097569 -68.975198063660
+(S1 (S (NP (PRP We)) (VP (VBP think) (ADJP (IN about) (PP (IN that) (NP (DT a) (NN lot)))))))
+-21.853684704143 -71.956456639180
+(S1 (S (NP (PRP We)) (VP (VB think) (SBAR (IN about) (IN that) (S (NP (DT a) (NN lot)))))))
+-21.971071223384 -69.497123597662
+(S1 (S (NP (PRP We)) (VP (VBP think) (PRT (RP about)) (NP (DT that) (DT a) (NN lot)))))
+-22.003477885331 -72.155669178407
+(S1 (S (NP (PRP We)) (VP (VBP think) (RB about) (DT that) (NP (DT a) (NN lot)))))
+-22.056349041553 -65.980736318649
+(S1 (S (NP (PRP We)) (VP (VBP think) (PRT (RP about)) (NP (IN that) (DT a) (NN lot)))))
+-22.302280767653 -67.013424688607
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (NP (RB that) (DT a) (NN lot))))))
+-22.336625953507 -73.231334720468
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (S (PP (IN that) (NP (DT a) (NN lot))))))))
+-22.368583956956 -67.803270469473
+(S1 (S (NP (PRP We)) (VP (VB think) (PRT (RP about)) (NP (IN that) (DT a) (NN lot)))))
+-22.451180490853 -72.792913472144
+(S1 (S (NP (PRP We)) (VP (VBP think) (VP (ADVP (RB about)) (PP (IN that) (NP (DT a) (NN lot)))))))
+-22.523183873298 -71.162519329722
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (WHNP (WDT that)) (NP (DT a) (NN lot))))))
+-22.612006662794 -71.892131698980
+(S1 (S (NP (PRP We)) (VP (VBP think) (VP (ADVP (IN about)) (PP (IN that) (NP (DT a) (NN lot)))))))
+-22.704390709234 -68.592902019648
+(S1 (S (NP (PRP We)) (VP (VBP think) (PRT (RP about)) (NP (RB that) (DT a) (NN lot)))))
+-22.774542230268 -71.258870464480
+(S1 (S (NP (PRP We)) (VP (VBP think) (RB about) (NP (DT that) (DT a) (NN lot)))))
+-23.093690778806 -71.413523501182
+(S1 (S (NP (PRP We)) (VP (VBP think) (ADVP (RB about)) (NP (IN that) (DT a) (NN lot)))))
+-23.169871342074 -67.742483151380
+(S1 (S (NP (PRP We)) (VP (VBP think) (RB about) (NP (IN that) (DT a) (NN lot)))))
+-23.238974424270 -71.797167508277
+(S1 (S (NP (PRP We)) (VP (VBP think) (RB about) (RB that) (NP (DT a) (NN lot)))))
+-23.311105108694 -70.636174371469
+(S1 (S (NP (PRP We)) (VP (VBP think) (ADVP (IN about)) (NP (IN that) (DT a) (NN lot)))))
+-23.360418197895 -72.040434316034
+(S1 (S (NP (PRP We)) (VP (VBP think) (ADJP (RB about) (PP (IN that) (NP (DT a) (NN lot)))))))
+-23.435673479513 -70.354648719233
+(S1 (S (NP (PRP We)) (VP (VBP think) (RB about) (NP (RB that) (DT a) (NN lot)))))
+-23.437633938740 -71.004625928812
+(S1 (S (NP (PRP We)) (VP (VB think) (PRT (RP about)) (NP (RB that) (DT a) (NN lot)))))
+-23.567166890795 -71.907733013301
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (WHNP (WDT that)) (NP (DT a) (NN lot))))))
+-23.644850580295 -73.105624996961
+(S1 (S (NP (PRP We)) (VP (VBP think) (S (ADJP (RB about) (PP (IN that) (NP (DT a) (NN lot))))))))
+-23.852722577529 -70.887545840453
+(S1 (S (NP (PRP We)) (VP (VBP think) (PRT (RB about)) (NP (IN that) (DT a) (NN lot)))))
+-23.971116990399 -71.899941359734
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (S (NP (IN that) (DT a) (NN lot)))))))
+-23.974373961748 -71.078359415407
+(S1 (S (NP (PRP We)) (VP (VBP think) (PRT (IN about)) (NP (IN that) (DT a) (NN lot)))))
+-24.257140260569 -72.913133848837
+(S1 (S (NP (PRP We)) (VP (VBP think) (PP (IN about) (S (NP (RB that) (DT a) (NN lot)))))))
+-24.437573601795 -73.134214907059
+(S1 (S (NP (PRP We)) (VP (VB think) (PRT (RB about)) (NP (IN that) (DT a) (NN lot)))))
+-24.700820101569 -73.085988153537
+(S1 (S (NP (PRP We)) (VP (VBP think) (ADJP (RB about) (SBAR (IN that) (S (NP (DT a) (NN lot))))))))
+-24.958850946395 -72.114040788567
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (S (NP (IN that) (DT a) (NN lot)))))))
+-25.244874216565 -73.127233277671
+(S1 (S (NP (PRP We)) (VP (VB think) (PP (IN about) (S (NP (RB that) (DT a) (NN lot)))))))
+

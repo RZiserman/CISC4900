@@ -1,0 +1,102 @@
+50 x
+-10.434692345425 -47.792573096877
+(S1 (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))
+-13.047319174038 -54.717486928181
+(S1 (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time)))))
+-13.226657037716 -55.027403819315
+(S1 (S (CC but) (ADVP (RB now)) (S (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-13.634488661437 -54.387237297135
+(S1 (S (CC but) (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-13.856512288728 -54.558726658025
+(S1 (S (CC but) (RB now) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))
+-14.295071449428 -54.538867614040
+(S1 (FRAG (CC but) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))))
+-14.365759473810 -53.064806201727
+(S1 (S (ADVP (CC but) (RB now)) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))
+-15.057603451101 -58.066961084321
+(S1 (FRAG (CC but) (ADVP (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))))
+-15.953364130210 -61.407671720629
+(S1 (FRAG (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-15.998730108249 -63.357517875058
+(S1 (S (CC but) (ADVP (RB now)) (S (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time))))))
+-16.068633426921 -61.401343207668
+(S1 (S (CC but) (S (ADVP (RB now)) (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time))))))
+-16.406435022343 -58.614228449023
+(S1 (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (S (NP (DT the) (NN time))))))
+-16.498130704390 -61.514365434770
+(S1 (S (CC but) (RB now) (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time)))))
+-16.643162535623 -58.722197176744
+(S1 (FRAG (CC but) (RB now) (SBAR (S (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time)))))))
+-16.915286772246 -59.778265625644
+(S1 (FRAG (CC but) (RB now) (S (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-16.992435529382 -60.265311710518
+(S1 (S (ADVP (CC but) (ADVP (RB now))) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))
+-17.065215713211 -60.126777365789
+(S1 (FRAG (CC but) (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-17.072310563947 -59.331005764863
+(S1 (S (ADVP (CC but) (RB now)) (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time)))))
+-17.087188074061 -61.779754070457
+(S1 (FRAG (CC but) (ADVP (RB now)) (SBAR (S (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time)))))))
+-17.097984668915 -62.533422325906
+(S1 (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (NP (NP (DT the)) (NN time)))))
+-17.430209556502 -62.474305063720
+(S1 (FRAG (CC but) (ADVP (RB now)) (S (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-17.459965200362 -60.187389035065
+(S1 (S (CC but) (NP (RB now) (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))
+-17.494845537150 -61.782641634183
+(S1 (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT the) (NN time)))))))
+-17.593223368313 -64.980649853352
+(S1 (FRAG (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time))))))
+-18.091136951675 -64.573903284967
+(S1 (S (CC but) (S (RB now) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-18.288186108384 -67.500136766149
+(S1 (FRAG (S (CC but) (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time)))))))
+-18.378466287208 -67.864519058810
+(S1 (S (CC but) (ADVP (RB now)) (NP (NN I)) (VP (VBP have) (NP (DT the) (NN time)))))
+-19.185071081101 -64.420544700709
+(S1 (S (CC but) (NP (RB now) (PRP I)) (VP (VB have) (NP (DT the) (NN time)))))
+-19.208865688512 -65.768901118597
+(S1 (FRAG (CC but) (RB now) (S (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time))))))
+-19.284112148392 -65.849059043729
+(S1 (S (CC but) (ADVP (RB now)) (S (NP (PRP I)) (VP (VBP have) (S (NP (DT the) (NN time)))))))
+-19.423660081898 -67.082670005850
+(S1 (S (ADVP (CC but) (ADVP (RB now))) (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time)))))
+-19.564836097169 -67.426630229381
+(S1 (S (CC but) (ADVP (RB now)) (NP (PRP I)) (VP (VB have) (S (NP (DT the) (NN time))))))
+-19.691943772113 -65.208892521549
+(S1 (S (CC but) (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (S (NP (DT the) (NN time)))))))
+-19.792621409699 -67.288701950895
+(S1 (FRAG (S (ADVP (CC but) (RB now)) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-19.828254965646 -65.380382010171
+(S1 (S (CC but) (RB now) (NP (PRP I)) (VP (VBP have) (S (NP (DT the) (NN time))))))
+-19.886613156284 -68.089441516793
+(S1 (FRAG (CC but) (S (ADVP (RB now)) (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time))))))
+-20.156615094150 -63.741184304669
+(S1 (S (CC but) (S (NP (RB now) (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-20.199991553703 -68.473166733242
+(S1 (FRAG (CC but) (RB now) (NP (NP (PRP I)) (VP (VB have) (NP (DT the) (NN time))))))
+-20.337502150727 -63.886461553873
+(S1 (S (ADVP (CC but) (RB now)) (NP (PRP I)) (VP (VBP have) (S (NP (DT the) (NN time))))))
+-20.467199679441 -69.017472350111
+(S1 (S (CC but) (ADVP (RB now)) (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT the) (NN time))))))))
+-20.670327632587 -65.360523087898
+(S1 (FRAG (CC but) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (NP (DT the) (NN time))))))))
+-20.729441505880 -68.388026289792
+(S1 (FRAG (CC but) (S (RB now) (NP (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+-20.875031303162 -68.377305827931
+(S1 (S (CC but) (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT the) (NN time))))))))
+-20.916665483241 -68.548795195331
+(S1 (S (CC but) (RB now) (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT the) (NN time)))))))
+-21.029051797300 -67.805655430755
+(S1 (S (ADVP (CC but) (RB now)) (NP (PRP I)) (VP (VBP have) (NP (NP (DT the)) (NN time)))))
+-21.425912668322 -67.054874739033
+(S1 (S (ADVP (CC but) (RB now)) (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT the) (NN time)))))))
+-21.432859634260 -68.888616558179
+(S1 (FRAG (CC but) (ADVP (RB now)) (SBAR (S (NP (PRP I)) (VP (VBP have) (S (NP (DT the) (NN time))))))))
+-21.527596121445 -67.378031561593
+(S1 (S (CC but) (S (NP (RB now) (PRP I)) (VP (VB have) (NP (DT the) (NN time))))))
+-21.726083609031 -68.528936238331
+(S1 (FRAG (CC but) (RB now) (SBAR (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT the) (NN time)))))))))
+-22.358827410398 -65.691828645017
+(S1 (FRAG (CC but) (S (NP (RB now) (PRP I)) (VP (VBP have) (NP (DT the) (NN time))))))
+

@@ -1,0 +1,102 @@
+50 x
+-25.993428260947 -90.559883092110
+(S1 (FRAG (CC but) (RB here) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-26.236064374181 -92.633986422490
+(S1 (FRAG (CC but) (ADVP (RB here)) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-26.273990092056 -88.669700202689
+(S1 (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-27.840269908011 -91.485280994910
+(S1 (FRAG (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-28.073452398841 -96.671987188250
+(S1 (FRAG (CC but) (RB here) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NN Ari-))))))
+-28.272321104203 -99.517547092583
+(S1 (FRAG (CC but) (RB here) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNPS Ari-))))))
+-28.289984312075 -98.746090518631
+(S1 (FRAG (CC but) (ADVP (RB here)) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NN Ari-))))))
+-28.514736201456 -97.395873499553
+(S1 (FRAG (CC but) (RB here) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-28.692564582256 -97.445288573082
+(S1 (PP (CC but) (PP (ADVP (RB here)) (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-28.753482590950 -94.781804298830
+(S1 (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NN Ari-)))))
+-28.811746363944 -94.979473923739
+(S1 (UCP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-28.927801194493 -97.489480345690
+(S1 (S (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-28.962724787981 -97.608234251452
+(S1 (FRAG (CC but) (RB here) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (JJ Ari-))))))
+-28.980540484312 -97.627364203162
+(S1 (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNPS Ari-)))))
+-29.062235145553 -98.957483739047
+(S1 (FRAG (CC but) (ADVP (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-29.222985701215 -99.682337581833
+(S1 (FRAG (CC but) (ADVP (RB here)) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (JJ Ari-))))))
+-29.367699624232 -99.403137725942
+(S1 (FRAG (CC but) (RB here) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNS Ari-))))))
+-29.470278963375 -98.039913370833
+(S1 (FRAG (CC but) (ADVP (RB here) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-)))))))
+-29.500331280089 -95.718051362032
+(S1 (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (JJ Ari-)))))
+-29.758492092205 -100.412976883771
+(S1 (PP (CONJP (CC but) (RB here)) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-29.806073959644 -98.494978671757
+(S1 (FRAG (CC but) (PP (PP (ADVP (RB here)) (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-29.919415335905 -97.597385091051
+(S1 (FRAG (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NN Ari-))))))
+-29.971619270069 -93.629640734397
+(S1 (FRAG (CC but) (UCP (ADVP (RB here) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-29.997881747340 -97.512954836522
+(S1 (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNS Ari-)))))
+-30.185161392055 -100.442944995384
+(S1 (FRAG (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNPS Ari-))))))
+-30.214989568463 -97.868262518187
+(S1 (FRAG (UCP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-30.258844409363 -100.260869388476
+(S1 (FRAG (PP (CC but) (PP (ADVP (RB here)) (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-30.426055846974 -99.832125821382
+(S1 (FRAG (CC but) (RB here) (PP (IN in) (NP (NNP California)) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-30.494323255707 -101.040360649408
+(S1 (X (CC but) (PP (PP (ADVP (RB here)) (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-30.502447889926 -98.544772872169
+(S1 (FRAG (CC but) (RB here) (PP (IN in) (NP (NP (NNP California)) (CC and) (NP (IN in) (NNP Ari-))))))
+-30.672722619859 -96.529019279869
+(S1 (FRAG (CC but) (RB here) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (ADJP (JJ Ari-))))))
+-30.680242475045 -98.533632154253
+(S1 (FRAG (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (JJ Ari-))))))
+-30.784467523957 -98.496868335592
+(S1 (FRAG (CC but) (RB here) (PP (IN in) (NP (NNP California))) (PP (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-30.929096432851 -100.335968978706
+(S1 (FRAG (CC but) (ADVP (RB here)) (PP (IN in) (NP (NP (NNP California)) (CC and) (NP (IN in) (NNP Ari-))))))
+-30.932983533093 -98.603122610250
+(S1 (FRAG (CC but) (ADVP (RB here)) (PP (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (ADJP (JJ Ari-))))))
+-31.198166009394 -99.820102376839
+(S1 (FRAG (CC but) (UCP (ADVP (RB here) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (NN Ari-))))))
+-31.210329111968 -94.638836390449
+(S1 (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (ADJP (JJ Ari-)))))
+-31.331150392932 -100.328535628743
+(S1 (FRAG (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (NP (NNS Ari-))))))
+-31.726109815475 -97.545813365199
+(S1 (FRAG (CC but) (UCP (ADVP (ADVP (RB here)) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (NNP Ari-))))))
+-31.843343270227 -100.954913005857
+(S1 (FRAG (CC but) (ADVP (RB here) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-31.886677353814 -100.283911713980
+(S1 (FRAG (CC but) (RB here) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (ADJP (JJ Ari-)))))
+-31.941195345602 -100.257119878130
+(S1 (UCP (FRAG (CC but) (ADVP (RB here)) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-31.982274587626 -100.222675912902
+(S1 (FRAG (CC but) (UCP (ADVP (RB here) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (JJ Ari-))))))
+-32.281991615935 -100.954928805071
+(S1 (UCP (FRAG (CC but) (RB here) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (NNP Ari-)))))
+-32.390240306923 -97.454417182670
+(S1 (FRAG (PP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (PP (IN in) (ADJP (JJ Ari-))))))
+-32.657323504243 -99.796395868547
+(S1 (FRAG (CC but) (RB here) (PP (IN in) (NP (NNP California))) (PP (CC and) (IN in) (NP (NNP Ari-)))))
+-33.468429821687 -100.866962541661
+(S1 (FRAG (CC but) (UCP (ADVP (RB here) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (ADJP (JJ Ari-))))))
+-33.671661934397 -100.453879233010
+(S1 (FRAG (CC but) (FRAG (UCP (ADVP (RB here) (PP (IN in) (NP (NNP California)))) (CC and) (PP (IN in) (NP (NNP Ari-)))))))
+-34.413368059044 -97.908809708936
+(S1 (UCP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (ADVP (IN in)) (ADJP (JJ Ari-))))
+-35.592970703470 -101.118820477243
+(S1 (FRAG (UCP (CONJP (CC but) (RB here)) (PP (IN in) (NP (NNP California))) (CC and) (ADVP (IN in)) (ADJP (JJ Ari-)))))
+

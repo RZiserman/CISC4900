@@ -1,0 +1,102 @@
+50 x
+-11.722896893030 -51.580935432823
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (NN hand))))))
+-14.203794550796 -59.573077799835
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (RB hand))))))
+-14.736384001880 -56.797088866944
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-15.802254327387 -60.520980508666
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-16.682942150458 -69.009504944461
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (VB hand))))))
+-17.113326717777 -66.992059465601
+(S1 (S (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (NN hand))))))
+-17.515129737495 -64.058811384615
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (S (VP (NN hand)))))))
+-18.024600254555 -66.632128123215
+(S1 (S (NP (PRP I)) (VP (VBD did) (SBAR (S (NP (PRP it)) (PP (IN by) (NP (NN hand))))))))
+-18.137496090882 -65.832511800589
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (RB hand)))))))
+-18.187380206578 -68.818078472657
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN by) (NP (RB hand)))))))
+-18.615707531492 -72.883733251807
+(S1 (S (NP (PRP I)) (VP (VBD did) (VP (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-18.906656526880 -67.982413028966
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (S (NP (NN hand)))))))
+-18.919478487298 -73.870212360454
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (S (VP (VB hand)))))))
+-18.974513981559 -71.677858826110
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NN hand)))))
+-19.285459924411 -67.654179184476
+(S1 (NP (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (NN hand))))))
+-19.721712394756 -74.984201832613
+(S1 (S (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (RB hand))))))
+-19.779964593839 -72.208212899722
+(S1 (S (NP (NN I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-19.911470106555 -77.178592328868
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (VP (NP (PRP it)) (PP (IN by) (NP (NN hand))))))))
+-20.045258836973 -77.793248987603
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN by) (NP (VB hand)))))))
+-20.422471584595 -73.678235946832
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (NP (PRP it)) (PP (IN by) (NP (NN hand))))))))
+-20.619771999064 -76.270662015289
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (VB hand)))))))
+-20.652893209697 -74.528751101298
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (SBAR (IN by) (S (VP (VB hand)))))))
+-20.749608364927 -73.845950827634
+(S1 (NP (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (NN hand))))))
+-20.846418729258 -80.875875618820
+(S1 (S (NP (PRP I)) (VP (VBD did) (VP (NP (PRP it)) (PP (IN by) (NP (RB hand)))))))
+-20.849490580394 -71.625546268285
+(S1 (NP (NP (NN I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-21.059175952171 -75.573629497221
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NN hand))))))
+-21.153684891922 -71.476739445090
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (S (VP (NN hand))))))))
+-21.194156638625 -72.561899480801
+(S1 (S (NP (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-21.259776449347 -75.932104541444
+(S1 (S (NP (NN I)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-21.377304637260 -75.969301991680
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (SBAR (IN by) (NN hand)))))
+-21.390355636346 -75.667551056860
+(S1 (S (NP (PRP I)) (VP (VBD did) (SBAR (S (NP (PRP it)) (PP (IN by) (NP (RB hand))))))))
+-21.437878885434 -73.683149351013
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (SBAR (IN by) (S (VP (NN hand)))))))
+-21.481838267614 -72.823603416174
+(S1 (S (NP (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-22.193392402177 -75.646321551488
+(S1 (NP (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (RB hand))))))
+-22.277209071800 -76.523486965813
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (SBAR (IN by) (S (NP (NN hand)))))))
+-22.363178819746 -79.322090290162
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (S (VP (VB hand))))))))
+-22.545211678519 -75.400341089441
+(S1 (S (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (S (NP (NN hand))))))))
+-22.843839899832 -78.383145833714
+(S1 (NP (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-22.905559562242 -79.469935417393
+(S1 (S (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (S (VP (NN hand)))))))
+-22.940967791292 -78.848665603989
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (NP (PRP it)) (IN by) (NP (RB hand))))))
+-23.153758877647 -79.944459744805
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN by) (NN hand))))))
+-23.308564704842 -81.243635833367
+(S1 (S (NP (NN I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (RB hand)))))))
+-23.600860177809 -76.794970499983
+(S1 (S (NP (NP (NN I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (NN hand))))))))
+-23.613990664263 -76.959264149719
+(S1 (NP (NP (NN I)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN by) (NP (NN hand)))))))
+-23.718934486391 -80.554041847814
+(S1 (S (NP (NP (PRP I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (RB hand)))))))
+-23.843379433318 -77.099094486881
+(S1 (S (NP (NP (PRP I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (NN hand))))))))
+-24.046568527126 -77.640890472340
+(S1 (S (NP (PRP I)) (VP (VBD did) (NP (NP (PRP it)) (PP (IN by) (S (VP (NN hand))))))))
+-24.345284514593 -80.815745783187
+(S1 (S (NP (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (NP (RB hand)))))))
+-24.677637489397 -80.660969201930
+(S1 (NP (NP (NN I)) (VP (VBD did) (S (NP (PRP it)) (PP (IN by) (NP (RB hand)))))))
+-25.077692793966 -80.132055221000
+(S1 (NP (NP (NN I)) (VP (VBD did) (NP (PRP it)) (PP (IN by) (S (VP (NN hand)))))))
+

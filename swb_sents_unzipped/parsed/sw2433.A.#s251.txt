@@ -1,0 +1,102 @@
+50 x
+-17.639647941528 -62.236810874605
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-18.592238093818 -62.141860103754
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there))))))
+-20.063408220732 -64.276470488795
+(S1 (S (NP (EX there)) (VP (VBD was) (ADVP (NP (DT some) (NN girl)) (RB there)))))
+-20.152046114233 -66.538205866022
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl) (EX there)))))
+-20.251617596354 -64.532301433704
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl))) (NP (EX there))))
+-20.765804064166 -70.040042779193
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl)) (NP (EX there)))))
+-20.872114447429 -68.496927736251
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl))) (ADVP (RB there))))
+-21.226692231249 -70.485436162359
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl)) (NP (RB there)))))
+-21.406680376419 -68.456625214676
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (EX there))))))
+-21.609385407302 -74.357211710737
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl)) (PRT (RB there)))))
+-21.647591151633 -73.355051567393
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (NP (EX there))))))
+-21.742790700284 -70.464350302183
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl) (RB there)))))
+-21.830257431097 -71.779405487354
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (NP (RB there))))))
+-21.986811669276 -68.674006490004
+(S1 (S (NP (EX there)) (VP (VBD was) (S (NP (DT some) (NN girl)) (ADVP (RB there))))))
+-22.027728969072 -70.657933252143
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl)) (ADVP (EX there)))))
+-22.035315004057 -72.882764896797
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl)) (PP (RB there)))))
+-22.076474860274 -70.590866771029
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some)) (NN girl)) (ADVP (RB there)))))
+-22.314646282322 -68.628390403703
+(S1 (S (NP (RB there)) (VP (VBD was) (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-22.385877453756 -71.348617892152
+(S1 (S (NP (EX there)) (VP (VBD was) (S (NP (DT some)) (VP (NN girl) (ADVP (RB there)))))))
+-22.413490685981 -74.898230812919
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (EX there)))))
+-22.518694656321 -75.059898997422
+(S1 (S (ADVP (RB there)) (VP (VBD was) (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-22.645226380915 -73.178681973634
+(S1 (S (RB there) (VP (VBD was) (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-22.867055221220 -70.934432583496
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl))) (NP (RB there))))
+-22.893230516083 -71.772806324111
+(S1 (S (NP (EX there)) (VP (VBD was) (SBAR (S (NP (DT some)) (VP (NN girl) (ADVP (RB there))))))))
+-23.148427549016 -72.022308751794
+(S1 (S (ADVP (RB there)) (VP (VBD was) (NP (DT some) (NN girl))) (NP (EX there))))
+-23.153765332364 -72.638453921268
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (NP (DT some)) (NN girl)) (ADVP (RB there))))))
+-23.235941599858 -69.461319690897
+(S1 (SINV (ADVP (RB there)) (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-23.289025243612 -68.533439632852
+(S1 (S (NP (RB there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there))))))
+-23.306318964311 -74.473162893987
+(S1 (S (NP (EX there)) (VP (VBD was) (ADVP (NP (DT some) (NN girl)) (EX there)))))
+-23.397590422730 -71.159494567555
+(S1 (S (NP (EX there)) (VP (VBD was) (S (NP (NP (DT some) (NN girl)) (ADVP (RB there)))))))
+-23.532201921855 -74.964948033872
+(S1 (S (ADVP (RB there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there))))))
+-23.622227542205 -73.083731202783
+(S1 (S (RB there) (VP (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there))))))
+-23.878928332147 -72.343352045182
+(S1 (S (NP (EX there)) (VP (VBD was) (S (NP (DT some)) (VP (NN girl) (NP (EX there)))))))
+-24.111742250128 -73.036047065845
+(S1 (SINV (ADVP (RB there)) (VBD was) (NP (DT some) (NN girl) (EX there))))
+-24.130338019711 -74.998759858132
+(S1 (SINV (NP (EX there)) (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-24.288704651506 -72.767540286944
+(S1 (S (NP (EX there)) (VP (VBD was) (SBAR (S (NP (DT some)) (VP (NN girl) (NP (EX there))))))))
+-24.401939220515 -74.493778118493
+(S1 (SINV (ADVP (RB there)) (VBD was) (NP (DT some) (NN girl)) (NP (RB there))))
+-24.458161972553 -75.198903564667
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (DT some) (NN girl))) (ADVP (EX there))))
+-24.462779427684 -73.569697715330
+(S1 (S (NP (EX there)) (VP (VBD was) (S (NP (DT some)) (VP (NN girl) (NP (RB there)))))))
+-24.590430529027 -72.929785395121
+(S1 (S (NP (RB there)) (VP (VBD was) (NP (DT some) (NN girl) (EX there)))))
+-24.637556461526 -70.668050017894
+(S1 (S (NP (RB there)) (VP (VBD was) (ADVP (NP (DT some) (NN girl)) (RB there)))))
+-24.750332915100 -72.886357330128
+(S1 (S (NP (EX there)) (VP (VBD was) (NP (NP (DT some)) (NN girl))) (NP (EX there))))
+-24.781093482148 -70.923880962803
+(S1 (S (NP (RB there)) (VP (VBD was) (NP (DT some) (NN girl))) (NP (EX there))))
+-24.915314450473 -74.886575783808
+(S1 (S (NP (EX there)) (VP (VBD was) (S (ADVP (NP (DT some) (NN girl)) (RB there))))))
+-24.976072227043 -73.993885957093
+(S1 (S (NP (EX there)) (VP (VBD was) (SBAR (S (NP (DT some)) (VP (NN girl) (NP (RB there))))))))
+-25.575184275223 -74.888507265349
+(S1 (S (NP (RB there)) (VP (VBD was) (NP (DT some) (NN girl))) (ADVP (RB there))))
+-25.599013401308 -74.782036933493
+(S1 (SINV (ADVP (EX there)) (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-25.697494066423 -72.581560257180
+(S1 (SINV (NP (RB there)) (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (RB there)))))
+-25.955862331212 -74.848204743774
+(S1 (S (NP (RB there)) (VP (VBD was) (NP (NP (DT some) (NN girl)) (ADVP (EX there))))))
+-26.593882050070 -75.065586019102
+(S1 (S (NP (RB there)) (VP (VBD was) (S (NP (DT some) (NN girl)) (ADVP (RB there))))))
+

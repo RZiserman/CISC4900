@@ -1,0 +1,102 @@
+50 x
+-20.264219267942 -63.017296280511
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (DT no) (JJ big) (NN thing)))))
+-20.698606347656 -63.325895454245
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (ADJP (RB no) (JJ big)) (NN thing)))))
+-20.992858685510 -65.004781811866
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (DT no) (JJ big) (NN thing)))))
+-21.174701539991 -61.596004426398
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (NP (RB no) (DT no) (JJ big) (NN thing)))))
+-21.257923975240 -60.286106114782
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))
+-21.309325937340 -64.377122078121
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (DT no) (NP (DT no) (JJ big) (NN thing)))))
+-21.321743199381 -62.737079949825
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (RB no) (JJ big) (NN thing)))))
+-21.427245768011 -65.313380985600
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (ADJP (RB no) (JJ big)) (NN thing)))))
+-21.741114284780 -61.713693706944
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (RB no) (NP (DT no) (JJ big) (NN thing)))))
+-21.790677284105 -62.252634233955
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (ADJP (DT no) (JJ big)) (NN thing)))))
+-21.887679093474 -69.266461610336
+(S1 (S (ADVP (RB so)) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (DT no) (JJ big) (NN thing)))))
+-21.903340957559 -63.583489957753
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (NP (RB no) (DT no) (JJ big) (NN thing)))))
+-21.986563395595 -62.273591646136
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))
+-22.037965354908 -66.364607609476
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (DT no) (NP (DT no) (JJ big) (NN thing)))))
+-22.050382616949 -64.724565481180
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (RB no) (JJ big) (NN thing)))))
+-22.322066173188 -69.575060784070
+(S1 (S (ADVP (RB so)) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (ADJP (RB no) (JJ big)) (NN thing)))))
+-22.372246954154 -67.953289803829
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (NP (DT no) (JJ big) (NN thing))))))
+-22.469753702348 -63.701179238299
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (RB no) (NP (DT no) (JJ big) (NN thing)))))
+-22.519316704461 -64.240119765309
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (ADJP (DT no) (JJ big)) (NN thing)))))
+-22.798161365523 -67.845169756223
+(S1 (S (ADVP (RB so)) (NP (DT that)) (VP (VBZ 's) (NP (RB no) (DT no) (JJ big) (NN thing)))))
+-22.881383800772 -66.535271444607
+(S1 (S (ADVP (RB so)) (NP (DT that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))
+-22.945203024913 -68.986245279650
+(S1 (S (ADVP (RB so)) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (RB no) (JJ big) (NN thing)))))
+-23.064167162250 -69.045587916181
+(S1 (S (IN so) (NP (IN that)) (VP (VBZ 's) (NP (DT no) (DT no) (JJ big) (NN thing)))))
+-23.206384978236 -68.999954269891
+(S1 (SBAR (IN so) (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing))))))
+-23.364574110312 -67.962859036769
+(S1 (S (ADVP (RB so)) (NP (DT that)) (VP (VBZ 's) (RB no) (NP (DT no) (JJ big) (NN thing)))))
+-23.414137109637 -68.501799563779
+(S1 (S (ADVP (RB so)) (NP (DT that)) (VP (VBZ 's) (NP (DT no) (ADJP (DT no) (JJ big)) (NN thing)))))
+-23.498554241963 -69.354187089915
+(S1 (S (IN so) (NP (IN that)) (VP (VBZ 's) (NP (DT no) (ADJP (RB no) (JJ big)) (NN thing)))))
+-23.510250943103 -69.330694507656
+(S1 (S (IN so) (NP (WDT that)) (VP (VBZ 's) (NP (DT no) (DT no) (JJ big) (NN thing)))))
+-23.928396830511 -67.624296062069
+(S1 (S (IN so) (NP (IN that)) (VP (VBZ 's) (NP (RB no) (DT no) (JJ big) (NN thing)))))
+-23.944638022817 -69.639293681389
+(S1 (S (IN so) (NP (WDT that)) (VP (VBZ 's) (NP (DT no) (ADJP (RB no) (JJ big)) (NN thing)))))
+-24.026843087581 -66.901842437722
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (ADVP (RB no) (RB no)) (NP (JJ big) (NN thing)))))
+-24.042012884547 -66.314397750452
+(S1 (S (IN so) (NP (IN that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))
+-24.121691093689 -68.765371585495
+(S1 (S (IN so) (NP (IN that)) (VP (VBZ 's) (NP (DT no) (RB no) (JJ big) (NN thing)))))
+-24.347062589189 -68.667345296319
+(S1 (SBAR (RB so) (IN that) (S (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing))))))
+-24.374457656364 -67.909402653543
+(S1 (S (IN so) (NP (WDT that)) (VP (VBZ 's) (NP (RB no) (DT no) (JJ big) (NN thing)))))
+-24.544554433060 -69.529018464392
+(S1 (FRAG (SBAR (IN so) (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))))
+-24.567774874542 -69.050478176970
+(S1 (S (IN so) (NP (WDT that)) (VP (VBZ 's) (NP (DT no) (RB no) (JJ big) (NN thing)))))
+-24.581511158300 -67.741985342615
+(S1 (S (IN so) (NP (IN that)) (VP (VBZ 's) (RB no) (NP (DT no) (JJ big) (NN thing)))))
+-24.590625178413 -68.280925869625
+(S1 (S (IN so) (NP (IN that)) (VP (VBZ 's) (NP (DT no) (ADJP (DT no) (JJ big)) (NN thing)))))
+-24.680466682401 -66.599504341926
+(S1 (S (IN so) (NP (WDT that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))
+-24.755482505149 -68.889327969076
+(S1 (S (RB so) (NP (DT that)) (VP (VBZ 's) (ADVP (RB no) (RB no)) (NP (JJ big) (NN thing)))))
+-24.938952677275 -68.943451289385
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (ADVP (DT no) (RB no)) (NP (JJ big) (NN thing)))))
+-24.990345667191 -68.592101399629
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (NP (RB no) (RB no) (JJ big) (NN thing)))))
+-25.036708959266 -68.566032461099
+(S1 (S (IN so) (NP (WDT that)) (VP (VBZ 's) (NP (DT no) (ADJP (DT no) (JJ big)) (NN thing)))))
+-25.097640442886 -69.618971915118
+(S1 (S (IN so) (NP (DT that)) (VP (VBZ 's) (ADVP (UH no)) (NP (DT no) (JJ big) (NN thing)))))
+-25.112886481153 -68.027091934089
+(S1 (S (IN so) (NP (WDT that)) (VP (VBZ 's) (RB no) (NP (DT no) (JJ big) (NN thing)))))
+-25.408692837779 -69.611781593423
+(S1 (S (RB so) (NP (IN that)) (VP (VBZ 's) (NP (RB no) (DT no) (JJ big) (NN thing)))))
+-25.522308891815 -68.301883281807
+(S1 (S (RB so) (NP (IN that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))
+-25.675709750969 -68.586989873281
+(S1 (S (RB so) (NP (WDT that)) (VP (VBZ 's) (ADVP (RB no)) (NP (DT no) (JJ big) (NN thing)))))
+-26.061807165568 -69.729470873969
+(S1 (S (RB so) (NP (IN that)) (VP (VBZ 's) (RB no) (NP (DT no) (JJ big) (NN thing)))))
+

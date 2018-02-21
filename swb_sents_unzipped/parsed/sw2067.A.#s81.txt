@@ -1,0 +1,102 @@
+50 x
+-41.554129506897 -145.306002960910
+(S1 (S (CC And) (NP (UH uh) (UCP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then)))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-41.770023748966 -149.654432128168
+(S1 (S (CC And) (NP (UH uh) (UCP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then)))) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-42.375755940401 -149.778842803290
+(S1 (S (CC And) (ADVP (UH uh)) (PP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then))) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-42.581084568375 -149.396475528528
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (SBAR (IN that) (S (NP (JJ whole) (NN month)) (ADVP (CC and) (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))))
+-42.805382814074 -152.344720331741
+(S1 (S (CC And) (ADVP (UH uh)) (PP (IN during) (UCP (NP (DT that) (JJ whole) (NN month)) (CC and) (ADVP (RB then)))) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-42.935427879110 -146.753513750993
+(S1 (S (CC And) (ADVP (UH uh)) (PP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-43.209113044331 -150.377367149419
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (NP (DT that) (JJ whole) (NN month)) (CC and) (S (ADVP (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))))
+-43.345231888248 -152.257617682138
+(S1 (S (CC And) (NP (UH uh)) (PP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then))) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-43.466633534966 -149.909759673657
+(S1 (S (CC And) (ADVP (UH uh)) (PP (IN during) (UCP (NP (DT that) (JJ whole) (NN month)) (CC and) (ADVP (RB then)))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-43.618486895992 -152.322562295862
+(S1 (S (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (VP (CC and) (RB then) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-43.750248584062 -148.677529429868
+(S1 (S (CC And) (NP (UH uh)) (PP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-43.785117856706 -151.273901593731
+(S1 (S (CC And) (NP (UH uh) (UCP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then)))) (VP (VB pay) (NP (PRP it))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))
+-43.820406770406 -147.286201599251
+(S1 (S (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month) (CC and) (RB then))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-43.945560485930 -150.914029964023
+(S1 (S (CC And) (S (NP (UH uh) (UCP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then)))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-43.964006122777 -151.446368704648
+(S1 (S (CC And) (ADVP (UH uh) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (ADVP (CC and) (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-44.233511577876 -148.518295432270
+(S1 (S (CC And) (NP (UH uh) (UCP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then)))) (VP (VBP pay) (NP (PRP it))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))
+-44.266693199431 -150.749676576794
+(S1 (S (CC And) (NP (UH uh) (PP (IN during) (NP (DT that) (JJ whole) (NN month) (CC and) (RB then)))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-44.281454267796 -151.833775352533
+(S1 (S (CC And) (NP (UH uh)) (PP (IN during) (UCP (NP (DT that) (JJ whole) (NN month)) (CC and) (ADVP (RB then)))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-44.337248345392 -150.703162323193
+(S1 (S (CC And) (ADVP (UH uh) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (ADVP (CC and) (RB then)) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-44.370191993616 -152.167536444028
+(S1 (S (CC And) (ADVP (UH uh)) (PP (IN during) (NP (NP (DT that) (JJ whole) (NN month)) (CC and) (ADVP (RB then)))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-44.379989704798 -148.564085783806
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (S (ADVP (RB then)) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-44.483289088490 -149.813342373583
+(S1 (S (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month) (CC and) (RB then))) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-44.635227503237 -149.210217278127
+(S1 (S (CC And) (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month) (CC and) (RB then))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-44.770823567797 -150.261339191506
+(S1 (FRAG (CC And) (ADVP (UH uh)) (SBAR (IN during) (S (NP (DT that) (JJ whole) (NN month)) (ADVP (CC and) (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))))
+-45.046618004237 -152.102626786317
+(S1 (FRAG (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-45.060773816069 -149.584707156940
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (ADVP (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-45.095794420320 -149.972767569601
+(S1 (FRAG (CC And) (S (NP (UH uh) (UCP (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (ADVP (RB then)))) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-45.097584450496 -146.563993508231
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (S (RB then) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-45.205937215452 -151.381220443315
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (NP (DT that) (JJ whole) (NN month)) (CC and) (S (RB then) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))))
+-45.234129425921 -151.684822846617
+(S1 (FRAG (CC And) (VP (VP (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (ADVP (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-45.245101865813 -148.089616522905
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-45.418457503544 -150.189732212583
+(S1 (FRAG (CC And) (VP (VP (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-45.452765036337 -152.292117252432
+(S1 (S (CC And) (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month) (CC and) (RB then))) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))
+-45.892424618670 -151.733171915671
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (NP (DT that) (JJ whole) (NN month)) (CC and) (S (VP (ADVP (RB then)) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))))
+-46.191886518979 -150.994833428992
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (S (RB then) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-46.209281769943 -151.731004623256
+(S1 (FRAG (CC And) (S (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (ADVP (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))))
+-46.473910608036 -150.799171623402
+(S1 (FRAG (CC And) (S (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))))
+-46.591628848511 -150.817360388369
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (RB then) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-46.654079699242 -149.214476052441
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (ADVP (RB then)) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-46.733288193120 -151.996476188027
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (S (VP (ADVP (RB then)) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-46.827435309094 -151.314591742119
+(S1 (FRAG (CC And) (VP (VP (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (ADVP (RB then)) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-47.005705840223 -149.101242669287
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-47.141609522564 -152.356357935317
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VP (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))))
+-47.179061477953 -151.201358358964
+(S1 (FRAG (CC And) (VP (VP (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-47.430424666685 -150.447129283870
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (RB then) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-47.879530303116 -151.360773518757
+(S1 (FRAG (CC And) (S (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (ADVP (RB then)) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))))
+-47.928901219513 -151.712752704081
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (S (VP (ADVP (RB then)) (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-48.108997998527 -151.911809202142
+(S1 (FRAG (CC And) (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (RB then) (VB pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+-48.225024457446 -151.810797769783
+(S1 (FRAG (CC And) (S (VP (VP (NP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month)))) (CC and) (VP (ADVP (RB then)) (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month))))))))))
+-48.284675803999 -152.264213362295
+(S1 (FRAG (CC And) (ADVP (UH uh)) (PP (IN during) (NP (DT that) (JJ whole) (NN month))) (CC and) (S (NP (RB then)) (VP (VBP pay) (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN month)))))))))
+

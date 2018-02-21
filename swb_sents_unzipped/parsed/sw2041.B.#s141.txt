@@ -1,0 +1,102 @@
+50 x
+-33.379333070628 -109.127922538263
+(S1 (NP (RB Not) (RB just) (NN exercise) (CC but) (NN health) (NN health) (JJ related) (NNS ideas)))
+-33.419825620225 -108.791865461686
+(S1 (NP (RB Not) (RB just) (NN exercise) (CC but) (NN health) (NN health) (VBN related) (NNS ideas)))
+-33.879210537394 -110.923013587652
+(S1 (NP (NP (RB Not) (RB just) (NN exercise) (CC but) (NN health) (NN health)) (NP (VBN related) (NNS ideas))))
+-33.988895114975 -111.875443092529
+(S1 (NP (NP (RB Not) (RB just) (NN exercise) (CC but) (NN health) (NN health)) (NP (JJ related) (NNS ideas))))
+-34.446551084940 -111.228841897988
+(S1 (S (NP (RB Not) (RB just) (NN exercise) (CC but) (NN health)) (VP (NN health) (NP (JJ related) (NNS ideas)))))
+-35.114364695844 -110.964826455111
+(S1 (FRAG (RB Not) (NP (NP (RB just) (NN exercise) (CC but) (NN health) (NN health)) (NP (VBN related) (NNS ideas)))))
+-35.305247448668 -111.917255832984
+(S1 (FRAG (RB Not) (NP (NP (RB just) (NN exercise) (CC but) (NN health) (NN health)) (NP (JJ related) (NNS ideas)))))
+-35.541184719921 -110.553380896486
+(S1 (FRAG (RB Not) (NP (RB just) (NN exercise) (CC but) (NN health) (NN health) (VBN related) (NNS ideas))))
+-35.590695753526 -112.499548304808
+(S1 (NP (RB Not) (RB just) (NP (NN exercise)) (CC but) (NP (NN health) (NN health) (VBN related) (NNS ideas))))
+-35.681852855190 -111.743855692053
+(S1 (FRAG (RB Not) (NP (RB just) (NN exercise) (CC but) (NN health) (NN health) (JJ related) (NNS ideas))))
+-35.766044673432 -108.642971815862
+(S1 (FRAG (RB Not) (RB just) (NP (NN exercise) (CC but) (NN health) (NN health) (VBN related) (NNS ideas))))
+-35.809208375140 -110.445332414278
+(S1 (NP (CONJP (RB Not) (RB just)) (NP (NN exercise)) (CC but) (NP (NN health) (NN health) (VBN related) (NNS ideas))))
+-35.827940155887 -111.174125385535
+(S1 (NP (RB Not) (RB just) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (VBN related) (NNS ideas)))))
+-35.859296453337 -110.997003036863
+(S1 (NP (CONJP (RB Not) (RB just)) (NP (NN exercise)) (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))
+-35.904572894833 -112.126554614853
+(S1 (NP (RB Not) (RB just) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (JJ related) (NNS ideas)))))
+-35.906712752946 -109.833446405271
+(S1 (FRAG (RB Not) (RB just) (NP (NN exercise) (CC but) (NN health) (NN health) (JJ related) (NNS ideas))))
+-35.969577451680 -111.457674271900
+(S1 (S (CONJP (RB Not) (RB just)) (VP (NN exercise) (CC but) (NN health) (NP (NN health) (VBN related) (NNS ideas)))))
+-35.997535846926 -111.456019678346
+(S1 (S (RB Not) (ADVP (RB just)) (VP (NN exercise) (CC but) (NN health) (NP (NN health) (VBN related) (NNS ideas)))))
+-36.018844031405 -110.209694976853
+(S1 (FRAG (ADVP (RB Not) (RB just)) (NP (NN exercise) (CC but) (NN health) (NN health) (VBN related) (NNS ideas))))
+-36.051319061646 -109.792155881818
+(S1 (FRAG (ADVP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (VBN related) (NNS ideas)))))
+-36.060607203955 -111.045390746983
+(S1 (FRAG (ADVP (RB Not) (RB just)) (NP (NN exercise) (CC but) (NN health) (NN health) (JJ related) (NNS ideas))))
+-36.154463644827 -109.149231089619
+(S1 (S (CONJP (RB Not) (RB just)) (VP (VBP exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-36.168293061349 -110.744585259692
+(S1 (FRAG (ADVP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (JJ related) (NNS ideas)))))
+-36.176934807893 -108.413074558377
+(S1 (S (RB Not) (ADVP (RB just)) (VP (VBP exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-36.351283560847 -112.611283543332
+(S1 (S (RB Not) (NP (RB just) (NN exercise) (CC but) (NN health)) (VP (NN health) (NP (JJ related) (NNS ideas)))))
+-36.430306256111 -107.663990913963
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (VBN related) (NNS ideas)))))
+-36.547280255814 -108.616420291837
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (JJ related) (NNS ideas)))))
+-36.564106566922 -108.688954235508
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NN exercise) (CC but) (NN health) (NN health) (VBN related) (NNS ideas))))
+-36.605869767350 -109.524650005638
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NN exercise) (CC but) (NN health) (NN health) (JJ related) (NNS ideas))))
+-36.674977666950 -111.364722443537
+(S1 (FRAG (RB Not) (RB just) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (VBN related) (NNS ideas)))))
+-36.759220036963 -111.731106498629
+(S1 (S (ADVP (RB Not) (RB just)) (VP (VBP exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-36.791951666652 -112.317151821410
+(S1 (FRAG (RB Not) (RB just) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (NP (JJ related) (NNS ideas)))))
+-36.919175522232 -111.746469906384
+(S1 (S (RB Not) (VP (ADVP (RB just)) (VB exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-36.990148346428 -110.396912004059
+(S1 (S (RB Not) (ADVP (RB just)) (VP (VB exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-37.203372246956 -112.476636448280
+(S1 (S (CONJP (RB Not) (RB just)) (VP (VBP exercise) (PP (CC but) (NP (NN health) (NN health) (VBN related) (NNS ideas))))))
+-37.225843410022 -111.740479917039
+(S1 (S (RB Not) (ADVP (RB just)) (VP (VBP exercise) (PP (CC but) (NP (NN health) (NN health) (VBN related) (NNS ideas))))))
+-37.244232545945 -111.097282559405
+(S1 (S (ADVP (RB Not) (RB just)) (VP (VB exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-37.292787684394 -110.900767869853
+(S1 (FRAG (ADVP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (VP (VBN related) (NP (NNS ideas))))))
+-37.671774850981 -108.772602769880
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (VP (VBN related) (NP (NNS ideas))))))
+-38.060136910264 -112.181134108838
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise)) (CC but) (NP (NN health) (NN health) (VBN related) (NNS ideas)))))
+-38.133276174217 -112.732804850990
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise)) (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas)))))
+-38.389524404691 -110.684847077013
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise)) (PP (IN but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-38.400419494908 -109.899570136224
+(S1 (FRAG (ADVP (RB Not) (RB just)) (NP (NP (NN exercise)) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-38.445592494280 -111.841238145376
+(S1 (FRAG (ADVP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (VP (VBN related) (S (NP (NNS ideas)))))))
+-38.536643941500 -110.650472427620
+(S1 (FRAG (CONJP (RB Not) (RB just)) (S (VP (VBP exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas)))))))
+-38.779406689373 -107.771405116360
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise)) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-38.793123109234 -110.561564070906
+(S1 (FRAG (RB Not) (RB just) (NP (NP (NN exercise)) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas))))))
+-38.824579660867 -109.713073045403
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise) (CC but) (NN health) (NN health)) (VP (VBN related) (S (NP (NNS ideas)))))))
+-39.432595035724 -111.256337946984
+(S1 (FRAG (CONJP (RB Not) (RB just)) (S (VP (VB exercise) (PP (CC but) (NP (NN health) (NN health) (JJ related) (NNS ideas)))))))
+-39.824752554746 -111.098810223419
+(S1 (FRAG (CONJP (RB Not) (RB just)) (NP (NP (NN exercise)) (PP (CC but) (NP (NN health) (NN health) (VBN related) (NNS ideas))))))
+

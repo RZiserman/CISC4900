@@ -1,0 +1,102 @@
+50 x
+-15.572477799621 -55.935513658949
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))
+-16.176500975678 -56.102739325516
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))
+-17.141377358289 -62.888687562449
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (NN crush) (NP (PRP them)))))
+-18.229342033672 -64.601620580439
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (NN crush) (NP (PRP them)))))
+-18.534468217129 -61.459782038409
+(S1 (FRAG (CC and) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))))
+-18.796225821252 -61.160894882719
+(S1 (FRAG (CC and) (RB then) (SBAR (S (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))))
+-19.131113302701 -65.035282804446
+(S1 (S (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-19.192955550001 -66.873406062382
+(S1 (S (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-19.391574893220 -65.593268780323
+(S1 (S (CC and) (RB then) (S (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-19.662270823598 -62.546171503009
+(S1 (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them))))))
+-20.266293999655 -62.713397169576
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them))))))
+-20.304510454308 -67.124558470680
+(S1 (FRAG (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-20.416166987149 -67.077699964603
+(S1 (S (CC and) (S (RB then) (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-20.465932854466 -67.685253999527
+(S1 (FRAG (S (CC and) (RB then) (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-20.766588690969 -65.022945476212
+(S1 (S (ADVP (CC and) (RB then)) (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))
+-20.953939173075 -71.184559478517
+(S1 (FRAG (CC and) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (NN crush) (NP (PRP them)))))))
+-21.226683598284 -70.885672740444
+(S1 (FRAG (CC and) (RB then) (SBAR (S (NP (PRP they)) (VP (NN crush) (NP (PRP them)))))))
+-21.345211552836 -69.559352955257
+(S1 (FRAG (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-21.373952761182 -68.374987726837
+(S1 (FRAG (CC and) (RB then) (S (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-21.469949009404 -68.497691073250
+(S1 (FRAG (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-21.572235241317 -72.322238070636
+(S1 (FRAG (CC and) (RB then) (NP (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-21.595532129732 -73.733696367879
+(S1 (FRAG (CC and) (ADVP (RB then)) (NP (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-21.819685235060 -75.641645157586
+(S1 (S (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (NN crush) (NP (PRP them))))))
+-21.960066878220 -70.256808014760
+(S1 (S (CC and) (NP (RB then) (PRP they)) (VP (VB crush) (NP (PRP them)))))
+-21.986459922646 -68.960633051305
+(S1 (FRAG (CC and) (S (RB then) (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-22.440340767148 -72.255468022166
+(S1 (FRAG (CC and) (RB then) (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))
+-22.593588586156 -73.424924359940
+(S1 (S (ADVP (CC and) (RB then)) (NP (PRP they)) (VP (NN crush) (NP (PRP them)))))
+-22.808856948621 -68.070439946296
+(S1 (FRAG (CC and) (ADVP (RB then)) (SBAR (S (NP (PRP they)) (VP (VB crush) (S (NP (PRP them))))))))
+-23.070614552743 -67.771552790606
+(S1 (FRAG (CC and) (RB then) (SBAR (S (NP (PRP they)) (VP (VB crush) (S (NP (PRP them))))))))
+-23.210691719958 -75.482195122457
+(S1 (FRAG (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (NN crush) (NP (PRP them))))))
+-23.226934175530 -76.217494566939
+(S1 (FRAG (CC and) (RB then) (S (NP (PRP they)) (VP (NN crush) (NP (PRP them))))))
+-23.232127722218 -76.506297609818
+(S1 (FRAG (S (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))))
+-23.351116314193 -71.645940712333
+(S1 (S (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-23.412958561493 -73.484063970269
+(S1 (S (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-23.416524144206 -72.133085991355
+(S1 (S (ADVP (CC and) (RB then)) (S (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-23.423166266203 -73.742922515653
+(S1 (S (ADVP (CC and) (ADVP (RB then))) (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))
+-23.611577904712 -72.203926688210
+(S1 (S (CC and) (RB then) (S (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-23.780800579704 -74.678454464959
+(S1 (FRAG (ADVP (CC and) (RB then)) (SBAR (S (NP (PRP they)) (VP (VB crush) (NP (PRP them)))))))
+-23.907833713708 -76.372688201953
+(S1 (S (CC and) (NP (RB then) (PRP they)) (VP (NN crush) (NP (PRP them)))))
+-23.988652009309 -76.692749455969
+(S1 (FRAG (CC and) (S (RB then) (NP (PRP they)) (VP (NN crush) (NP (PRP them))))))
+-24.398130155800 -73.735216378567
+(S1 (FRAG (S (CC and) (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-24.559552555958 -74.295911907414
+(S1 (FRAG (S (CC and) (RB then) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-24.628851154705 -75.612104907149
+(S1 (S (CC and) (S (NP (RB then) (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-24.636169998641 -73.688357872490
+(S1 (S (CC and) (S (RB then) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-24.856381714946 -71.633603320272
+(S1 (S (ADVP (CC and) (RB then)) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them))))))
+-25.194444048891 -75.984240221350
+(S1 (FRAG (S (ADVP (CC and) (RB then)) (NP (PRP they)) (VP (VB crush) (NP (PRP them))))))
+-25.662241351540 -76.170010863144
+(S1 (FRAG (CC and) (ADVP (RB then)) (S (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-25.690982559886 -74.985645634724
+(S1 (FRAG (CC and) (RB then) (S (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-25.786978810895 -75.108348981137
+(S1 (FRAG (CC and) (S (ADVP (RB then)) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+-26.303489724138 -75.571290959192
+(S1 (FRAG (CC and) (S (RB then) (NP (PRP they)) (VP (VB crush) (S (NP (PRP them)))))))
+

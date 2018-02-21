@@ -1,0 +1,60 @@
+29 x
+-12.140977237310 -37.041845610527
+(S1 (FRAG (WHADVP (WRB How)) (PP (IN about) (NP (PRP yourself)))))
+-13.270614727458 -41.282061048864
+(S1 (FRAG (WRB How) (PP (IN about) (NP (PRP yourself)))))
+-14.468248410815 -52.084700068935
+(S1 (NP (WRB How) (PP (IN about) (NP (PRP yourself)))))
+-15.641994722808 -47.825301136809
+(S1 (FRAG (WRB How) (RB about) (NP (PRP yourself))))
+-15.752143644883 -49.098978724522
+(S1 (FRAG (WHADVP (WRB How)) (RB about) (NP (PRP yourself))))
+-16.380716644504 -53.931363063095
+(S1 (NP (NP (WRB How)) (PP (IN about) (NP (PRP yourself)))))
+-16.907163291939 -52.088129784337
+(S1 (SBAR (WHADVP (WRB How)) (S (PP (IN about) (NP (PRP yourself))))))
+-17.509208365496 -55.275892547425
+(S1 (FRAG (WHADVP (WRB How) (RB about)) (NP (PRP yourself))))
+-17.528316671759 -53.589170139755
+(S1 (FRAG (WHADVP (WRB How)) (PP (RB about) (NP (PRP yourself)))))
+-17.879937665814 -55.582252645262
+(S1 (SBAR (WHADVP (WRB How) (RB about)) (S (NP (PRP yourself)))))
+-18.352452841891 -58.001896240866
+(S1 (FRAG (NP (WRB How) (PP (IN about) (NP (PRP yourself))))))
+-18.919239101907 -57.829385578092
+(S1 (FRAG (WRB How) (PP (RB about) (NP (PRP yourself)))))
+-19.222676573170 -57.252776112001
+(S1 (FRAG (NP (NP (WRB How)) (PP (IN about) (NP (PRP yourself))))))
+-19.246821970155 -65.417872604488
+(S1 (NP (WRB How) (PP (RB about) (NP (PRP yourself)))))
+-19.395013443535 -54.977540433204
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (PP (IN about) (NP (PRP yourself)))))))
+-20.342425597230 -58.471663123732
+(S1 (FRAG (SBAR (WHADVP (WRB How) (RB about)) (S (NP (PRP yourself))))))
+-20.711860752836 -57.414636170762
+(S1 (FRAG (WHADVP (WRB How)) (PP (IN about) (S (NP (PRP yourself))))))
+-21.191614014632 -67.264535598648
+(S1 (NP (NP (WRB How)) (PP (RB about) (NP (PRP yourself)))))
+-21.840040812984 -61.654851609099
+(S1 (FRAG (WRB How) (PP (IN about) (S (NP (PRP yourself))))))
+-21.945813364102 -68.840288859972
+(S1 (NP (WRB How) (PP (IN about) (S (NP (PRP yourself))))))
+-22.753215966858 -70.529414935698
+(S1 (SBAR (WHADVP (WRB How)) (S (PP (RB about) (NP (PRP yourself))))))
+-23.109588114020 -71.335068776418
+(S1 (FRAG (NP (WRB How) (PP (RB about) (NP (PRP yourself))))))
+-23.882616797791 -70.686951854132
+(S1 (NP (NP (WRB How)) (PP (IN about) (S (NP (PRP yourself))))))
+-23.967581588976 -68.643091420992
+(S1 (SBAR (WHADVP (WRB How)) (S (PP (IN about) (S (NP (PRP yourself)))))))
+-24.022111853298 -70.585948647553
+(S1 (FRAG (NP (NP (WRB How)) (PP (RB about) (NP (PRP yourself))))))
+-25.223163587484 -73.418825732018
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (PP (RB about) (NP (PRP yourself)))))))
+-25.830017795178 -74.757485031902
+(S1 (FRAG (NP (WRB How) (PP (IN about) (S (NP (PRP yourself)))))))
+-26.455431740573 -71.532502069859
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (PP (IN about) (S (NP (PRP yourself))))))))
+-26.724576726457 -74.008364903038
+(S1 (FRAG (NP (NP (WRB How)) (PP (IN about) (S (NP (PRP yourself)))))))
+

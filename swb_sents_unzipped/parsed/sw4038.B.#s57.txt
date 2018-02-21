@@ -1,0 +1,102 @@
+50 x
+-11.394173553519 -47.218282539284
+(S1 (S (NP (DT that)) (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))
+-13.549176838310 -53.057978368755
+(S1 (S (NP (DT that)) (VP (VBD was) (ADVP (RB probably) (NP (PRP it))))))
+-14.110011282125 -50.547950432390
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it))))))
+-14.147928951543 -51.231677358064
+(S1 (S (NP (DT that)) (VP (VBD was) (RB probably) (NP (PRP it)))))
+-14.303406964346 -54.753298573105
+(S1 (S (DT that) (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))
+-14.308994455364 -50.785538847165
+(S1 (S (NP (DT that)) (VP (VBD was) (PP (RB probably) (NP (PRP it))))))
+-14.667131104106 -53.208953230621
+(S1 (S (WHNP (WDT that)) (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))
+-14.710952944587 -52.783384044616
+(S1 (S (NP (DT that)) (VP (VBD was) (S (ADVP (RB probably)) (NP (PRP it))))))
+-14.894539517564 -52.933434098579
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably))) (NP (PRP it)))))
+-14.949540195671 -54.737057194725
+(S1 (S (NP (DT that)) (VP (VBD was) (VP (RB probably) (NP (PRP it))))))
+-15.066569100252 -54.136183248275
+(S1 (S (NP (DT that)) (VP (VBD was) (ADJP (RB probably) (NP (PRP it))))))
+-15.497069084141 -54.562098824694
+(S1 (SBAR (IN that) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it))))))
+-15.559154252270 -50.443361454992
+(S1 (S (NP (WDT that)) (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))
+-15.712447696837 -51.133256890826
+(S1 (S (NP (DT that)) (VP (VBD was) (ADVP (RB probably)) (S (NP (PRP it))))))
+-16.020313999953 -53.950951390999
+(S1 (S (NP (IN that)) (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))
+-16.123902177817 -57.272501873447
+(S1 (S (NP (DT that)) (VP (VBD was) (NP (RB probably) (PRP it)))))
+-16.184489466222 -52.526178364754
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))))
+-16.306094180785 -56.166787399732
+(S1 (NP (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it))))))
+-16.307879657703 -55.686056999934
+(S1 (FRAG (S (NP (DT that)) (VP (VBD was) (ADVP (RB probably)) (NP (PRP it))))))
+-16.484331541341 -56.387646235389
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably) (NP (PRP it)))))))
+-16.586331087911 -56.741205972689
+(S1 (S (NP (DT that)) (VP (VBD was) (SBAR (S (ADVP (RB probably)) (NP (PRP it)))))))
+-16.605993728792 -57.309446686663
+(S1 (S (NP (DT that)) (VP (VBD was) (ADVP (RB probably) (PRP it)))))
+-16.794594969042 -55.676292836079
+(S1 (SBAR (WHNP (DT that)) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it))))))
+-16.887512548772 -54.561345151645
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (RB probably) (NP (PRP it))))))
+-16.969017701661 -54.911662030943
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably))) (NP (PRP it))))))
+-17.034881041183 -54.115206732255
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (RB probably) (NP (PRP it)))))))
+-17.182808423523 -57.147428809382
+(S1 (S (RB that) (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))
+-17.206206019052 -57.369334106811
+(S1 (SBAR (WDT that) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it))))))
+-17.207159851538 -54.858569420663
+(S1 (FRAG (SBAR (IN that) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it)))))))
+-17.245781546940 -55.749279413061
+(S1 (S (NP (DT that)) (VP (VBD was) (S (VP (RB probably) (NP (PRP it)))))))
+-17.331522983507 -56.698952816247
+(S1 (S (NP (DT that)) (VP (VBD was) (S (ADJP (RB probably)) (NP (PRP it))))))
+-17.348630563478 -56.059975533595
+(S1 (FRAG (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably)) (NP (PRP it))))))
+-17.403420224618 -56.113051911823
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (S (ADVP (RB probably)) (NP (PRP it)))))))
+-17.512480928631 -57.222348049401
+(S1 (S (WHNP (WDT that)) (VP (VBD was) (RB probably) (NP (PRP it)))))
+-17.686281067061 -56.283057284462
+(S1 (S (NP (WDT that)) (VP (VBD was) (ADVP (RB probably) (NP (PRP it))))))
+-17.690260845952 -56.776209538502
+(S1 (S (WHNP (WDT that)) (VP (VBD was) (PP (RB probably) (NP (PRP it))))))
+-17.899885656341 -57.465850989079
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (RB probably) (NP (PRP it)))))))
+-18.402086719294 -54.456756273771
+(S1 (S (NP (WDT that)) (VP (VBD was) (RB probably) (NP (PRP it)))))
+-18.416641186595 -54.462924819700
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably)) (S (NP (PRP it)))))))
+-18.436733606752 -57.385517324751
+(S1 (S (NP (DT that)) (VP (VBD was) (RB probably) (S (NP (PRP it))))))
+-18.568871393115 -54.010617762873
+(S1 (S (NP (WDT that)) (VP (VBD was) (PP (RB probably) (NP (PRP it))))))
+-18.794511295126 -56.008462960324
+(S1 (S (NP (WDT that)) (VP (VBD was) (S (ADVP (RB probably)) (NP (PRP it))))))
+-18.936428252319 -57.496390320052
+(S1 (S (NP (DT that)) (VP (VBD was) (VP (RB probably) (S (NP (PRP it)))))))
+-18.961567083998 -57.518207698880
+(S1 (S (NP (IN that)) (VP (VBD was) (PP (RB probably) (NP (PRP it))))))
+-18.961990732869 -56.539573084008
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (RB probably) (NP (PRP it)))))))
+-18.985405247425 -57.123927582163
+(S1 (S (WHNP (WDT that)) (VP (VBD was) (ADVP (RB probably)) (S (NP (PRP it))))))
+-19.109359225280 -56.093434664618
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (PP (RB probably) (NP (PRP it))))))))
+-19.267915477303 -57.361262163982
+(S1 (S (NP (WDT that)) (VP (VBD was) (ADJP (RB probably) (NP (PRP it))))))
+-19.877428398376 -54.358335806533
+(S1 (S (NP (WDT that)) (VP (VBD was) (ADVP (RB probably)) (S (NP (PRP it))))))
+-20.491119370692 -56.441152752063
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB probably)) (S (NP (PRP it))))))))
+

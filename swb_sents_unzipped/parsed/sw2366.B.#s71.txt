@@ -1,0 +1,102 @@
+50 x
+-40.561611877350 -138.815168059992
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-40.733875392524 -140.305128393602
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-43.417035305974 -144.926787893084
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-43.538967584844 -144.591917919109
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (VP (JJ classical) (NP (NN music))))))
+-43.589298821148 -146.416748226695
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-43.727612656797 -149.587288721646
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (RBS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-43.794526061624 -148.097328388036
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (RBS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-43.903700917896 -146.081878252719
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (VP (JJ classical) (NP (NN music))))))
+-44.301041345521 -142.644135154331
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NP (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-44.593023498220 -146.505943815992
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (ADVP (RB -s)) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-44.714634316871 -147.117030908332
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (ADJP (JJ classical)) (NP (NN music)))))
+-44.792664253998 -150.862880119383
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (ADJP (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-44.842685522045 -148.606991241942
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (ADJP (JJ classical)) (NP (NN music)))))
+-44.901228531451 -149.820159515653
+(S1 (SBAR (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-44.987504400977 -148.057935377468
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (JJ -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-45.057866810564 -150.747843644566
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (JJS most) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-45.062392716804 -146.957994108599
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ my) (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-45.073492046624 -151.310119849263
+(S1 (SBAR (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-45.135721545926 -148.097639728863
+(S1 (FRAG (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-45.230130353616 -152.237803978177
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (JJS most) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-45.307985088978 -149.587600062473
+(S1 (FRAG (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-45.394206910109 -147.235489050325
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ my) (NNP C) (NNP D)) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-45.484117899786 -149.441579746442
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (VP (ADVP (RB -s)) (VBP are) (NP (JJ classical) (NN music)))))
+-45.798323694755 -151.854699263321
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-45.838481764550 -151.415131877587
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (VP (VBD -s) (SBAR (S (VP (VBP are) (NP (JJ classical) (NN music))))))))
+-46.036961316048 -149.750912025647
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (ADJP (JJ classical)) (NN music)))))
+-46.071004674100 -151.240872359257
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (ADJP (JJ classical)) (NN music)))))
+-46.130158136665 -150.021707383249
+(S1 (FRAG (PP (IN in) (NP (NN fact))) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-46.130803174049 -149.636058634568
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ my) (NNP C) (NNP D)) (ADVP (RB -s))))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-46.302421651838 -151.511667716859
+(S1 (FRAG (PP (IN in) (NP (NN fact))) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-46.462565490590 -150.703537628086
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (VP (JJ classical) (NP (NN music)))))))
+-46.726207241938 -149.131158161095
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ my) (NNP C) (NNP D)) (JJ -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-46.827298823642 -152.193497961697
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (VP (JJ classical) (NP (NN music)))))))
+-47.156464774145 -148.755754987424
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NP (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+-47.178558784698 -149.925934426273
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (NP (JJ classical)) (NP (NN music)))))
+-47.198132927749 -151.415894759883
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NNS -s)))) (VP (VBP are) (NP (JJ classical)) (NP (NN music)))))
+-47.278397053015 -148.420885013449
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NP (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (VP (JJ classical) (NP (NN music))))))
+-47.304097311663 -149.272678888828
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (NP (JJ -s)) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-47.497019756514 -148.105893604084
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (NP (NNS -s)) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-47.533955529795 -151.926295482375
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (RBS most)) (PP (IN of) (NP (PRP$ my) (NP (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-47.587644484578 -151.633727735531
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D) (NN -s)))) (VP (VBP are) (S (NP (JJ classical) (NN music))))))
+-47.769068974592 -152.282693675109
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (ADVP (RB -s)) (VP (VBP are) (VP (JJ classical) (NP (NN music))))))
+-48.168446932270 -147.856820547033
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ my) (NNP C) (NNP D)) (ADVP (JJ -s))))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-48.237863579425 -150.391756898339
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (NP (NN -s)) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-48.309532238646 -151.050837811488
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D))) (ADJP (JJ -s))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-48.374784054247 -150.426729166080
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (ADVP (JJ -s)) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-48.392217042570 -150.671175709697
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ my) (NNP C) (NNP D)) (ADJP (JJ -s))))) (VP (VBP are) (NP (JJ classical) (NN music)))))
+-48.454063785042 -150.945998002671
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NP (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (ADJP (JJ classical)) (NP (NN music)))))
+-48.783730423691 -150.921528955394
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NNP C) (NNP D)))) (VP (ADVP (JJ -s)) (VBP are) (NP (JJ classical) (NN music)))))
+-48.875151014097 -151.926606823202
+(S1 (FRAG (S (PP (IN in) (NP (NN fact))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ my) (NP (NNP C) (NNP D)) (NN -s)))) (VP (VBP are) (NP (JJ classical) (NN music))))))
+

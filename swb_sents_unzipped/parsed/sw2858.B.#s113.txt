@@ -1,0 +1,102 @@
+50 x
+-13.287473467174 -54.160394777645
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-15.071160333780 -60.212333349710
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-15.407372449565 -58.508122064531
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))
+-16.146320324252 -58.486838861258
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-16.150606726627 -57.492104806630
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-16.250049116023 -58.382838308693
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-16.463713282998 -63.074032271433
+(S1 (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-16.728607250484 -65.067697715138
+(S1 (S (DT that) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-16.751129914160 -63.372761540553
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))
+-17.204478309515 -60.823269934871
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-17.266636994020 -61.758091223052
+(S1 (SBAR (DT that) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-17.329536836217 -60.260355762270
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-17.682106490701 -63.333483205575
+(S1 (S (WHNP (WDT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-17.743819176386 -63.241852097517
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-17.748775359874 -61.229758582153
+(S1 (S (NP (IN that)) (VP (POS 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-17.803013667462 -63.485181436451
+(S1 (FRAG (SBAR (IN that) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))))
+-17.912015981804 -60.378960931569
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))))
+-18.076727099509 -64.970042992793
+(S1 (S (NP (DT that)) (VP (POS 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-18.145183237110 -61.834525787794
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-18.461823292117 -64.383534215747
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-18.532713502006 -62.834566174302
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-18.572872103556 -63.203173914926
+(S1 (NP (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-18.778830201078 -66.199113039545
+(S1 (S (RB that) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-18.823072951757 -65.391188162016
+(S1 (SBAR (WDT that) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-18.953085490705 -61.818548890244
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-18.982097190664 -64.390186772996
+(S1 (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))
+-19.036220682201 -65.103961674999
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (S (NP (PRP it)))))))))))
+-19.158736134947 -66.050787835112
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (S (VP (VB put) (NP (PRP it)))))))))))
+-19.212563825694 -65.170997221757
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))
+-19.236764196042 -66.092009218058
+(S1 (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-19.449435801881 -64.608082976326
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-19.484723603264 -65.140447044363
+(S1 (S (NP (WDT that)) (VP (POS 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-19.511414371308 -64.812511048660
+(S1 (FRAG (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-19.540971480102 -62.709282392306
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-19.628119477563 -66.105818536097
+(S1 (SBAR (DT that) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-19.889501595645 -63.423017494873
+(S1 (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (JJ good)) (NN way)) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-19.994126864969 -64.154979963857
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-20.016380093474 -65.089801252038
+(S1 (SBAR (DT that) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-20.093569257153 -65.045713465919
+(S1 (S (NP (IN that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-20.192670095670 -63.592065791256
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-20.242161148502 -66.182253074681
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))
+-20.292112485067 -64.482799293318
+(S1 (FRAG (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-20.298409159559 -64.726688244614
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way)) (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-20.398069462890 -64.259277329960
+(S1 (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-20.604266082870 -65.980534754100
+(S1 (SBAR (DT that) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-20.718781148258 -63.710670960555
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))))
+-20.730977388801 -65.987468225236
+(S1 (S (NP (IN that)) (VP (POS 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-21.017506795564 -65.166235816780
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB put) (NP (PRP it)))))))))
+-21.116949184960 -66.056969318842
+(S1 (S (NP (WDT that)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))
+-21.306667137654 -64.601404462617
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN way) (SBAR (S (VP (TO to) (VP (VB put) (NP (PRP it))))))))))))
+

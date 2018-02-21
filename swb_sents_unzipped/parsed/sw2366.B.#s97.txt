@@ -1,0 +1,102 @@
+50 x
+-12.084967619598 -40.631922358269
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-12.386072977312 -43.512275424076
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (PRP$ their) (NN signal)))))
+-14.123240680377 -44.958366441882
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-15.284131262909 -51.539225295762
+(S1 (S (DT That) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-15.458567386278 -49.858973044094
+(S1 (SBAR (WHNP (WDT That)) (S (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-15.546752557685 -54.044851199691
+(S1 (S (DT That) (VP (POS 's) (NP (PRP$ their) (NN signal)))))
+-15.552540659194 -44.529700656519
+(S1 (S (NP (IN That)) (VP (POS 's) (NP (PRP$ their) (NN signal)))))
+-15.662983504123 -49.545559852057
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-15.674974250937 -51.433932320079
+(S1 (SBAR (IN That) (S (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-15.724598216145 -48.229618803676
+(S1 (SBAR (DT That) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-15.864247450669 -49.674701495551
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-16.049872984025 -49.805010786199
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-16.156101398642 -46.731883342894
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-16.217324707929 -46.850488512194
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))))
+-16.554016279096 -53.349174856677
+(S1 (S (NP (DT That)) (VP (POS 's) (S (NP (PRP$ their) (NN signal))))))
+-16.589867952728 -47.294797515495
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-16.590481840972 -55.798387816847
+(S1 (S (NP (DT That)) (S (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-16.627716413985 -48.440389118729
+(S1 (S (NP (WDT That)) (VP (POS 's) (NP (PRP$ their) (NN signal)))))
+-16.635200364229 -53.781786787520
+(S1 (SBAR (DT That) (S (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-16.692433987138 -53.617477613527
+(S1 (PP (IN That) (S (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-16.836621046259 -52.906335660746
+(S1 (S (WHNP (WDT That)) (VP (POS 's) (NP (PRP$ their) (NN signal)))))
+-16.878456322435 -48.306053368419
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-16.928151963281 -52.767515740922
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-16.938820407881 -51.862715742640
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-17.200108466496 -51.117189523112
+(S1 (FRAG (SBAR (IN That) (S (VP (POS 's) (NP (PRP$ their) (NN signal)))))))
+-17.202664378619 -51.312629962203
+(S1 (S (NP (DT That)) (VP (VBZ 's) (S (NP (PRP$ their) (NN signal))))))
+-17.379445250587 -49.956709017075
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))))
+-17.510596197633 -51.284038629285
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-17.515630603131 -51.699308048269
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (POS 's) (NP (PRP$ their) (NN signal)))))))
+-17.530252620386 -54.311555543951
+(S1 (PP (IN That) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-17.547182918167 -52.563536798682
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-17.617206839503 -52.670640620169
+(S1 (S (RB That) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-17.711403839627 -53.603350507914
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (POS 's) (NP (PRP$ their) (NN signal)))))))
+-17.786395552462 -54.122168498443
+(S1 (S (RB That) (VP (POS 's) (NP (PRP$ their) (NN signal)))))
+-17.893655051571 -56.506274524518
+(S1 (SBAR (WDT That) (S (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-17.996528877028 -55.324181139888
+(S1 (FRAG (S (NP (DT That)) (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-18.157565597045 -54.597368345761
+(S1 (SBAR (WHNP (IN That)) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-18.477311271344 -56.453260569451
+(S1 (NP (IN That) (S (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-18.542443245125 -54.916221105104
+(S1 (FRAG (NP (DT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-18.646170963496 -56.412907619961
+(S1 (FRAG (PP (IN That) (S (VP (POS 's) (NP (PRP$ their) (NN signal)))))))
+-19.163910451962 -56.319599538935
+(S1 (FRAG (SBAR (S (NP (DT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))))
+-19.189870060548 -55.639074077130
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (S (NP (PRP$ their) (NN signal)))))))
+-19.277608482066 -56.815813049290
+(S1 (S (NP (IN That)) (S (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+-19.294274916052 -56.496552213750
+(S1 (FRAG (WHNP (WDT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-19.333549944520 -54.366600089120
+(S1 (S (NP (IN That)) (VP (POS 's) (S (NP (PRP$ their) (NN signal))))))
+-20.744031179189 -56.088261684207
+(S1 (FRAG (NP (WDT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal)))))
+-20.750772891619 -54.310777377729
+(S1 (FRAG (SBAR (S (NP (IN That)) (VP (POS 's) (NP (PRP$ their) (NN signal)))))))
+-20.856893842560 -53.458721898423
+(S1 (FRAG (S (NP (IN That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-20.955686929880 -54.437371133794
+(S1 (FRAG (S (NP (WDT That)) (VP (VBZ 's) (NP (PRP$ their) (NN signal))))))
+-21.332293368644 -56.312842467055
+(S1 (FRAG (S (NP (IN That)) (VP (POS 's) (NP (PRP$ their) (NN signal))))))
+

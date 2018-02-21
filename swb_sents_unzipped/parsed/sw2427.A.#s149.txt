@@ -1,0 +1,102 @@
+50 x
+-15.213553862364 -48.915282649890
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (ADVP (NN kind) (IN of)) (JJ expensive)))))
+-15.615646928020 -53.651007422008
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (JJ expensive)))))))
+-16.330015041291 -58.340755106120
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (RB expensive)))))))
+-16.709975900001 -52.095903748541
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (ADJP (JJ expensive)))))))
+-16.933170044428 -51.774490462102
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (ADJP (JJ expensive)))))
+-17.091500573010 -58.932486380120
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (ADVP (RB expensive)))))))
+-18.279750230269 -55.638061274935
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (VP (JJ expensive))))))))
+-18.347704774587 -61.729506706583
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (RB kind) (IN of) (JJ expensive)))))
+-18.550640657441 -62.342854248910
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (CONJP (RB kind) (IN of)) (JJ expensive)))))
+-18.650261288588 -57.880322269129
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (ADVP (JJ expensive)))))))
+-19.092710980903 -62.421099077623
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (JJ expensive))))))
+-19.109898630346 -61.314376852217
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (NP (JJ expensive)))))
+-19.145695501070 -61.977459141168
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (ADVP (RB expensive)))))
+-19.316496560264 -58.774092562337
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (ADJP (JJ expensive))))))))
+-19.463757769077 -60.728028338379
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (ADVP (RB kind) (IN of)) (JJ expensive)))))
+-19.504095836743 -62.456018128689
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB kind) (PP (IN of) (ADJP (JJ expensive)))))))
+-19.512872882762 -61.618917047876
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB kind) (ADJP (RB of) (JJ expensive)))))
+-19.563026247249 -65.404316163414
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (RB expensive))))))
+-19.781956085941 -59.758398641653
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (ADVP (NN kind) (IN of)) (JJ expensive)))))
+-19.859868437617 -63.931834454089
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB kind)) (ADJP (RB of) (JJ expensive)))))
+-19.867733009475 -64.509901556331
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (NP (JJ expensive))))))
+-19.899440495287 -61.688687300496
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (RB kind) (PP (IN of) (ADJP (JJ expensive)))))))
+-19.929243055765 -60.212421880350
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (VP (JJ expensive)))))
+-19.964723385242 -61.793620666716
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (NN kind) (IN of) (JJ expensive)))))
+-20.039191619395 -63.857391884225
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB kind)) (ADJP (IN of) (JJ expensive)))))
+-20.072131160893 -62.823250435481
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (FRAG (JJ expensive)))))))
+-20.085506021143 -60.941877594185
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (ADJP (JJ expensive))))))
+-20.242054823601 -61.544474427702
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB kind) (ADJP (IN of) (JJ expensive)))))
+-20.314609668763 -63.516855458554
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB kind)) (PP (IN of) (ADJP (JJ expensive))))))
+-20.412377141723 -60.906853202645
+(S1 (S (NP (PRP It)) (VP (VBZ is) (S (ADJP (ADVP (NN kind) (IN of)) (JJ expensive))))))
+-20.496294403681 -64.062199176167
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (ADJP (RB expensive)))))))
+-20.552551648254 -61.544155138346
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB kind) (IN of)) (ADJP (JJ expensive)))))
+-20.602924234160 -62.028336379260
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (FRAG (ADJP (JJ expensive))))))))
+-20.609423007179 -64.601354713635
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB kind) (IN of) (JJ expensive)))))
+-20.633612590771 -63.619243660362
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (NN kind) (PP (IN of) (ADJP (JJ expensive)))))))
+-20.908498208385 -65.955280343885
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (ADJP (JJ expensive))))))))
+-20.944120366008 -65.851461323969
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (QP (NN kind) (IN of) (JJ expensive))))))
+-21.046103725717 -63.066887928845
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB kind) (PP (IN of) (ADJP (JJ expensive))))))
+-21.386116469748 -63.528116568251
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (NP (JJ expensive))))))))
+-21.473217484746 -63.598731149707
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (S (VP (JJ expensive)))))))
+-21.494330908743 -64.928475457585
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB kind)) (ADJP (ADVP (IN of)) (JJ expensive)))))
+-21.538501665886 -65.852885988632
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NN kind)) (PP (IN of) (ADVP (JJ expensive))))))
+-21.583029081331 -64.550075646071
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB kind) (ADJP (ADVP (RB of)) (JJ expensive)))))
+-21.701341784222 -65.132943698134
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (ADVP (JJ expensive)))))
+-21.726125827647 -62.615557934567
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB kind) (ADJP (ADVP (IN of)) (JJ expensive)))))
+-22.027826248226 -65.241468839797
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (NN kind) (IN of)) (ADJP (RB expensive)))))
+-22.040099506240 -65.390644753441
+(S1 (S (NP (PRP It)) (VP (VBZ is) (PP (RB kind) (IN of) (S (VP (JJ expensive)))))))
+-22.364777703935 -65.345541970130
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (S (ADVP (JJ expensive))))))))
+-22.418486702774 -65.723741608903
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB kind) (PP (IN of) (S (VP (JJ expensive)))))))
+-22.937759433726 -65.446041834851
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NN kind))) (PP (IN of) (ADJP (JJ expensive)))))
+

@@ -1,0 +1,102 @@
+50 x
+-21.058765756601 -79.719576333085
+(S1 (NP (RB so) (VB like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-21.726148186061 -78.499591759938
+(S1 (SBAR (RB so) (IN like) (S (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))
+-22.582232191030 -81.527053620168
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-22.741496461498 -78.762429236531
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (S (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-23.356674469300 -83.550128011707
+(S1 (S (RB so) (VP (VBP like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-23.378438528868 -82.038601906368
+(S1 (S (ADVP (RB so)) (PP (IN like) (NP (DT that))) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))
+-23.423754279359 -83.558575301050
+(S1 (SBAR (ADVP (RB so)) (IN like) (S (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))
+-23.452012380290 -84.000973796238
+(S1 (NP (RB so) (VB like) (SBAR (IN that) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-23.514266579842 -85.942921260902
+(S1 (FRAG (ADJP (RB so) (JJ like)) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-23.596696161277 -80.235561277576
+(S1 (S (RB so) (VP (VBP like) (SBAR (IN that) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-23.796812559385 -81.834526223957
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (SBAR (IN that) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-23.901316362298 -82.637958562435
+(S1 (S (RB so) (VP (VB like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-23.975610325021 -85.509225293346
+(S1 (S (RB so) (VP (VBP like) (SBAR (S (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-24.115653094380 -81.783849320773
+(S1 (FRAG (SBAR (RB so) (IN like) (S (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-24.182908954097 -86.006454217780
+(S1 (FRAG (RB so) (SBAR (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-24.214411738060 -84.490251223220
+(S1 (S (ADVP (RB so)) (VP (VBP like) (SBAR (IN that) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-24.235981320026 -83.606150019752
+(S1 (FRAG (RB so) (SBAR (IN like) (S (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-24.319744895557 -83.275294626006
+(S1 (NP (RB so) (VB like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute))))))))
+-24.365522192336 -86.203451239998
+(S1 (FRAG (RB so) (PP (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-24.737038011248 -85.819472772944
+(S1 (NP (RB so) (VB like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (PRT (IN like)) (NP (DT a) (NN minute)))))))
+-24.743761052664 -81.959655231172
+(S1 (S (RB so) (VP (VB like) (SBAR (IN that) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-24.772488204966 -80.126782011802
+(S1 (SBAR (RB so) (IN like) (S (NP (WDT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))
+-24.881432641991 -85.641475111710
+(S1 (ADJP (RB so) (JJ like) (SBAR (IN that) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-24.882364871349 -83.233047384890
+(S1 (FRAG (SBAR (ADVP (RB so)) (IN like) (S (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-24.996603066069 -85.143343760428
+(S1 (FRAG (RB so) (PP (IN like) (NP (NP (DT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-25.095747530395 -82.101621383690
+(S1 (SBAR (RB so) (IN like) (S (NP (IN that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))
+-25.101663050229 -82.055310052859
+(S1 (SBAR (RB so) (IN like) (S (NP (DT that)) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))
+-25.331822532453 -86.313926821569
+(S1 (FRAG (RB so) (SBAR (IN like) (SBAR (IN that) (S (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))))
+-25.497504790403 -80.389619488396
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (S (NP (WDT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-25.624784060708 -84.599488199796
+(S1 (SBAR (RB so) (IN like) (S (NP (DT that)) (VP (VBD took) (PRT (IN like)) (NP (DT a) (NN minute))))))
+-25.865407347198 -85.082771913089
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))))
+-25.905963205832 -82.364458860284
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (S (NP (IN that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-26.104756125666 -82.318147529453
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (S (NP (DT that)) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute))))))))
+-26.428456308263 -85.185765552914
+(S1 (SBAR (ADVP (RB so)) (IN like) (S (NP (WDT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute)))))))
+-26.640132336145 -84.862325676390
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (S (NP (DT that)) (VP (VBD took) (PRT (IN like)) (NP (DT a) (NN minute)))))))
+-26.741433021219 -85.594320045910
+(S1 (S (ADVP (RB so)) (PP (IN like) (NP (DT that))) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute))))))
+-27.002037286445 -83.791279570497
+(S1 (S (RB so) (VP (VBP like) (SBAR (IN that) (S (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))))
+-27.093048018930 -85.233340271617
+(S1 (FRAG (RB so) (SBAR (IN like) (S (NP (WDT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-27.161993113285 -83.411039572638
+(S1 (FRAG (SBAR (RB so) (IN like) (S (NP (WDT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-27.176320821254 -86.193676855357
+(S1 (S (RB so) (VP (VB like) (SBAR (WHNP (WDT that)) (S (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))))
+-27.210324387341 -85.390244516878
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (SBAR (IN that) (S (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))))
+-27.478912758548 -85.339567613694
+(S1 (FRAG (SBAR (RB so) (IN like) (S (NP (DT that)) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute))))))))
+-27.485252438714 -85.385878944526
+(S1 (FRAG (SBAR (RB so) (IN like) (S (NP (IN that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-27.887066903042 -84.860237636755
+(S1 (FRAG (SBAR (ADVP (RB so)) (IN like) (S (NP (WDT that)) (VP (VBD took) (PP (IN like) (NP (DT a) (NN minute))))))))
+-28.145245861134 -83.682500304723
+(S1 (SBAR (RB so) (IN like) (S (NP (WDT that)) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))
+-28.149102177832 -85.515373524093
+(S1 (S (RB so) (VP (VB like) (SBAR (IN that) (S (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))))
+-28.487607788351 -85.657339676611
+(S1 (SBAR (RB so) (IN like) (S (NP (IN that)) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute)))))))
+-28.600291629613 -86.226678451661
+(S1 (SBAR (RB so) (IN like) (S (NP (WDT that)) (VP (VBD took) (PRT (IN like)) (NP (DT a) (NN minute))))))
+-28.858007246571 -83.945337781317
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (S (NP (WDT that)) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute))))))))
+-29.285568261000 -85.920177153205
+(S1 (FRAG (ADVP (RB so)) (SBAR (IN like) (S (NP (IN that)) (VP (VBD took) (VP (IN like) (NP (DT a) (NN minute))))))))
+

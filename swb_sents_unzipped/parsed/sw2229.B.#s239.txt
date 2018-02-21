@@ -1,0 +1,102 @@
+50 x
+-16.125982218276 -54.206781920631
+(S1 (SBAR (RB Well) (IN that) (S (NP (PRP 's)) (VP (VBD thought)))))
+-16.366517002045 -53.322876130713
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (NP (PRP 's)) (VP (VBD thought))))))
+-16.645641488000 -55.714711224667
+(S1 (SBAR (ADVP (RB Well)) (SBAR (IN that) (S (NP (PRP 's)) (VP (VBD thought))))))
+-16.645756180548 -55.242587425048
+(S1 (ADJP (RB Well) (SBAR (IN that) (S (NP (PRP 's)) (VP (VBD thought))))))
+-16.670351844803 -48.188196233807
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (VP (VBN thought)))))
+-16.724039018743 -56.218961388668
+(S1 (S (ADJP (RB Well) (SBAR (IN that) (S (NP (PRP 's)) (VP (VBD thought)))))))
+-16.768077204875 -48.596543101854
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (VP (VBN thought)))))
+-16.800304402837 -53.491691371502
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (NP (PRP 's)) (VP (VBD thought))))))
+-17.058662139685 -56.422121467572
+(S1 (ADVP (ADVP (RB Well)) (SBAR (IN that) (S (NP (PRP 's)) (VP (VBD thought))))))
+-17.383844328891 -53.102725563929
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (VP (VBN thought)))))
+-17.539648707930 -56.947498008421
+(S1 (SBAR (RB Well) (DT that) (S (NP (PRP 's)) (VP (VBD thought)))))
+-17.581239127782 -50.428993794321
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (NN thought)))))
+-17.686217977854 -50.837340662368
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (NN thought)))))
+-17.733589445972 -52.165187410979
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (VP (VBN thought)))))
+-17.821726350961 -53.282014605164
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN thought))))))
+-17.883241646595 -48.918352825827
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (VP (VBN thought)))))
+-18.051483828354 -56.907783326751
+(S1 (FRAG (ADJP (RB Well) (SBAR (IN that) (S (NP (PRP 's)) (VP (VBD thought)))))))
+-18.210982309394 -54.745857985733
+(S1 (SBAR (RB Well) (DT that) (S (VP (VBZ 's) (VP (VBN thought))))))
+-18.438626783932 -55.669980402703
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ 's) (VP (VBN thought))))))
+-18.536968081870 -55.343523124443
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (NN thought)))))
+-18.543718960620 -52.526724393677
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN thought)))))))
+-18.644476728952 -54.405984971494
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (NN thought)))))
+-18.683808144831 -54.701295469506
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ 's) (VP (VBN thought)))))
+-18.789421572566 -54.731873821467
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN thought)))))))
+-18.794128929574 -51.159150386342
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (NN thought)))))
+-18.817433315464 -55.241889710107
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBN thought)))))))
+-18.916404376384 -53.802864548375
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (VP (VBD thought)))))
+-18.992791466456 -54.211211416422
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (VP (VBD thought)))))
+-19.148759169255 -55.522812241751
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NN thought))))))
+-19.248252552249 -52.381268921657
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (ADJP (VBN thought)))))
+-19.350587882320 -52.789615789704
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (VBN thought)))))
+-19.489734138456 -55.410704950897
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (VP (VBN thought)))))))
+-19.654708601679 -55.146391093931
+(S1 (SINV (CONJP (RB Well) (IN that)) (VBZ 's) (NP (NN thought))))
+-19.710409175001 -54.767522030263
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NN thought)))))))
+-19.837329807947 -56.972671458053
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NN thought)))))))
+-19.873922074810 -56.942093030020
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ 's) (NP (NN thought)))))
+-19.956847192497 -54.146725310832
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (VP (VBN thought))))))
+-20.129294175388 -54.533021140395
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (VP (VBD thought)))))
+-20.222566896811 -54.216487869477
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (VP (VBN thought)))))
+-20.311490153418 -56.358260098830
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (VBN thought)))))
+-20.449765692389 -55.368409096060
+(S1 (S (INTJ (UH Well)) (NP (IN that)) (VP (VBZ 's) (VP (VBN thought)))))
+-20.461142351252 -53.111425513678
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (VBN thought)))))
+-20.734022367964 -54.501594460952
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ 's) (VP (VBN thought)))))
+-20.975720494784 -55.653515816073
+(S1 (S (INTJ (UH Well)) (NP (WDT that)) (VP (VBZ 's) (VP (VBN thought)))))
+-21.145829696790 -56.457285429992
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (NP (NN thought)))))
+-21.286167459368 -56.719797159862
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (VBN thought)))))))
+-21.306033297878 -56.387522954112
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (NP (NN thought))))))
+-21.465154803944 -56.742392021466
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ 's) (NP (NN thought)))))
+-21.673591921321 -55.690218820034
+(S1 (S (INTJ (RB Well)) (NP (IN that)) (VP (VBZ 's) (VP (VBN thought)))))
+-22.185564383716 -55.975325540047
+(S1 (S (INTJ (RB Well)) (NP (WDT that)) (VP (VBZ 's) (VP (VBN thought)))))
+

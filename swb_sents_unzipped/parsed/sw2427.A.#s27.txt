@@ -1,0 +1,102 @@
+50 x
+-13.291299681838 -45.047571141681
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (JJ cheap) (NN entertainment)))))
+-13.463870705809 -45.562530052138
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ cheap) (NN entertainment)))))
+-14.510017124355 -48.006495864575
+(S1 (NP (NP (PRP It) (POS 's)) (JJ cheap) (NN entertainment)))
+-15.520416599459 -53.448968420824
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB cheap)) (NP (NN entertainment)))))
+-16.794151873469 -52.451701502784
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ cheap)) (NP (NN entertainment)))))
+-17.353187660235 -53.821096447665
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ cheap) (NN entertainment)))))
+-17.457569803886 -55.625889614016
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB cheap) (NP (NN entertainment)))))
+-17.681275777345 -57.125099394462
+(S1 (NP (NP (PRP It) (POS 's)) (NN cheap) (NN entertainment)))
+-17.896321163983 -58.896716642952
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NN cheap) (NN entertainment)))))
+-17.907140229764 -55.666466856709
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (JJ cheap) (NN entertainment))))))
+-17.954301787386 -58.716045221436
+(S1 (NP (NP (NP (PRP It)) (POS 's)) (JJ cheap) (NN entertainment)))
+-18.011449071160 -52.761917150475
+(S1 (S (NP (NP (PRP It) (POS 's)) (JJ cheap) (NN entertainment))))
+-18.061333690096 -59.884799431729
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (NN cheap) (NN entertainment)))))
+-18.076354917565 -58.056656539814
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ cheap)) (NP (NN entertainment)))))
+-18.104195250023 -56.764004237277
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ cheap) (NN entertainment)))))
+-18.113122942355 -59.082376445378
+(S1 (NP (PRP It) (POS 's) (JJ cheap) (NN entertainment)))
+-18.118577773759 -56.886126158619
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ cheap) (NP (NN entertainment))))))
+-18.145433435335 -55.211569753731
+(S1 (S (NP (PRP It) (VBZ 's)) (NP (JJ cheap) (NN entertainment))))
+-18.224386488883 -55.344265781816
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ cheap)) (NP (NN entertainment)))))
+-18.374198386864 -59.987953915295
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB cheap) (NN entertainment)))))
+-18.623625132600 -60.063775425920
+(S1 (S (NP (PRP It) (POS 's)) (NP (JJ cheap) (NN entertainment))))
+-18.720321553134 -61.990459349965
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB cheap) (NN entertainment)))))
+-19.001478165043 -58.935926909413
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (JJ cheap) (NP (NN entertainment))))))
+-19.058776855839 -62.207304804458
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB cheap)) (VP (NN entertainment)))))
+-19.084746506724 -56.366338307715
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (JJ cheap) (NN entertainment))))))
+-19.090870459624 -61.500488845460
+(S1 (NP (PRP It) (VBZ 's) (NN cheap) (NN entertainment)))
+-19.170840808584 -60.575128763653
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (JJ cheap) (NP (NN entertainment))))))
+-19.380731978382 -63.151694204118
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADVP (RB cheap)) (NN entertainment)))))
+-19.399245454692 -62.550416955790
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (NP (JJ cheap) (NN entertainment))))))
+-19.412853679799 -62.756957743367
+(S1 (NP (NP (PRP It) (POS 's)) (NP (JJ cheap) (NN entertainment))))
+-19.723018794657 -59.971915760067
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADJP (JJ cheap)) (NN entertainment)))))
+-19.808190693267 -63.379236801232
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (JJ cheap) (NP (NN entertainment)))))))
+-19.920115259377 -59.574369882204
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (JJ cheap) (NN entertainment)))))))
+-20.093396212923 -61.309243470110
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (ADJP (JJ cheap)) (NN entertainment)))))
+-20.237858659876 -63.927116395995
+(S1 (NP (NP (PRP It) (VBZ 's)) (JJ cheap) (NN entertainment)))
+-20.261918570603 -61.541102695552
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB cheap) (NN entertainment)))))
+-20.352836453732 -62.589340758720
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (JJ cheap) (NN entertainment))))))
+-20.637102452248 -62.930982272174
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADVP (JJ cheap)) (NN entertainment)))))
+-20.727041276810 -64.107478781625
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (ADVP (JJ cheap)) (NN entertainment)))))
+-20.727535993656 -62.549144594722
+(S1 (NP (NP (PRP It) (POS 's)) (ADJP (JJ cheap)) (NN entertainment)))
+-20.800374244736 -63.623040024265
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ cheap) (NN entertainment)))))
+-20.814276005786 -61.503112276889
+(S1 (S (NP (PRP It)) (VP (POS 's) (SBAR (S (NP (JJ cheap) (NN entertainment)))))))
+-20.911055145284 -63.877215406772
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (JJ cheap) (NP (NN entertainment)))))))
+-20.999815876741 -63.957206600557
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADJP (RB cheap)) (NN entertainment)))))
+-21.176282239608 -62.005832592806
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (JJ cheap) (NN entertainment))))))
+-21.476694566348 -63.905383991293
+(S1 (S (NP (PRP It) (POS 's) (JJ cheap) (NN entertainment))))
+-21.521110904281 -63.471466595407
+(S1 (S (NP (NP (NP (PRP It)) (POS 's)) (JJ cheap) (NN entertainment))))
+-21.769072010494 -63.579087723978
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (JJ cheap) (NN entertainment))))
+-21.774702100624 -62.140096945479
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (JJ cheap)) (NP (NN entertainment))))))
+-22.173199245350 -64.102602165449
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ cheap)) (VP (NN entertainment)))))
+

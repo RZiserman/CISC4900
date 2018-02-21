@@ -1,0 +1,102 @@
+50 x
+-13.046359995463 -49.268453020113
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (NP (DT that)))))
+-13.487689366661 -49.657236153608
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems)) (NP (DT that))))
+-13.857963123954 -49.197404455431
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (NP (DT that)))))
+-14.566485031529 -50.116652722318
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (NP (IN that)))))
+-14.706414312367 -50.576149744376
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (NP (DT that)))))
+-15.289426610021 -50.045604157636
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (NP (IN that)))))
+-16.225546491222 -51.424349446581
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (NP (IN that)))))
+-16.533465735334 -56.641293423117
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VP (VBZ seems) (NP (DT that))))))
+-16.585563885710 -55.018058958677
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (NP (WDT that)))))
+-16.620816755484 -58.162474455004
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (ADVP (RB that)))))
+-16.769005474412 -58.481018500046
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (PRT (IN that)))))
+-16.772897876695 -54.449569212371
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems)) (NP (IN that))))
+-16.846754986837 -56.711704308862
+(S1 (S (NP (NP (PRP it)) (ADVP (RB just))) (VP (VBZ seems) (NP (DT that)))))
+-16.860912661394 -52.946440295302
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (ADJP (RB that)))))
+-17.130047505864 -54.344953916420
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (ADJP (IN that)))))
+-17.291244279102 -54.006567730979
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems)) (NP (WDT that))))
+-17.418719222414 -54.947010393994
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (NP (WDT that)))))
+-17.526812809741 -59.549926826838
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (RB that))))
+-17.660575394364 -61.058784957285
+(S1 (S (NP (PRP it)) (VP (RB just) (VP (VBZ seems) (NP (DT that))))))
+-17.667279376919 -59.025790731393
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (PRT (IN that)))))
+-17.668700494023 -58.528789170761
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (ADVP (IN that)))))
+-17.774367801361 -59.869573664904
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (S (NP (DT that))))))
+-18.008176992428 -57.955766476322
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VP (VBZ seems) (NP (IN that))))))
+-18.202170992615 -56.325755682939
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (NP (WDT that)))))
+-18.311940479208 -55.638519242409
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (S (ADJP (IN that))))))
+-18.339172103055 -59.470171292063
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (ADVP (RB that)))))
+-18.445258614104 -59.788715234668
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (PRT (IN that)))))
+-18.456194589928 -61.082619059172
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (ADJP (DT that)))))
+-18.579267922543 -54.254136820077
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (ADJP (RB that)))))
+-18.592025822904 -57.559904011067
+(S1 (S (NP (NP (PRP it)) (ADVP (RB just))) (VP (VBZ seems) (NP (IN that)))))
+-18.622524912465 -56.771023776540
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (S (ADVP (IN that))))))
+-18.704589323047 -60.252028792775
+(S1 (S (NP (PRP it) (RB just)) (VP (VBZ seems) (NP (DT that)))))
+-18.806300587013 -55.652650441195
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (ADJP (IN that)))))
+-18.906105306073 -59.847924506846
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (S (ADVP (RB that))))))
+-19.192299648599 -58.071249959632
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (ADJP (RB that)))))
+-19.245168109919 -60.857623489341
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (RB that))))
+-19.344953664382 -59.836486007820
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (ADVP (IN that)))))
+-19.451613756449 -61.177270225597
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (S (NP (DT that))))))
+-19.472352406480 -60.164488552172
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (S (NP (IN that))))))
+-19.631435653069 -59.469763580749
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (ADJP (IN that)))))
+-19.773819316323 -60.076558127151
+(S1 (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ seems) (S (ADJP (RB that))))))
+-19.988193571508 -56.946215803103
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (S (ADJP (IN that))))))
+-20.298778004765 -58.078720337234
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (S (ADVP (IN that))))))
+-20.308336665091 -60.052399271392
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (S (ADJP (IN that))))))
+-20.448867299114 -61.100228494980
+(S1 (S (NP (PRP it) (RB just)) (VP (VBZ seems) (NP (IN that)))))
+-20.618921098348 -61.184903805523
+(S1 (S (NP (PRP it)) (VP (ADVP (RB just)) (VBZ seems) (S (ADVP (IN that))))))
+-20.624460578374 -61.155621067540
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (S (ADVP (RB that))))))
+-20.867474294225 -60.389691384563
+(S1 (S (NP (NP (PRP it)) (ADVP (RB just))) (VP (VBZ seems) (ADJP (RB that)))))
+-21.148605498781 -61.472185112866
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (S (NP (IN that))))))
+-21.492174588624 -61.384254687845
+(S1 (S (NP (PRP it)) (RB just) (VP (VBZ seems) (S (ADJP (RB that))))))
+

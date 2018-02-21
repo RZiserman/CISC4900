@@ -1,0 +1,102 @@
+50 x
+-19.928122347833 -75.972513649670
+(S1 (S (`` Proba-) (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))
+-21.940427870211 -86.329604249051
+(S1 (S (VP (VBG Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-22.216348654149 -84.531401274450
+(S1 (S (VP (VB Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-22.563838856401 -80.810374608680
+(S1 (ADJP (JJ Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-22.590284591491 -82.480719503789
+(S1 (S (ADJP (JJ Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-22.944874491452 -84.760363434896
+(S1 (S (`` Proba-) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-23.002220795400 -85.412971987224
+(S1 (NP (NNS Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-23.070954507328 -85.192130275306
+(S1 (NP (NN Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-23.120578086823 -83.093007586080
+(S1 (S (VP (VBD Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-23.122302562184 -87.031071430833
+(S1 (NP (JJ Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-23.203420304753 -86.364935005597
+(S1 (NP (NP (NNS Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-23.241856591338 -85.004525028972
+(S1 (S (VP (NN Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-23.280769875592 -85.291424743062
+(S1 (NP (NP (NN Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-23.438058720209 -85.715635214296
+(S1 (NP (NN Proba-) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-23.550377867415 -87.365966898651
+(S1 (NP (JJ Proba-) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-23.690055856997 -84.533413271111
+(S1 (NP (NP (JJ Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-23.984546508155 -86.882160069617
+(S1 (VP (VB Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-24.089240506113 -88.863164691892
+(S1 (NP (NNS Proba-) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-24.106915040940 -83.358020362066
+(S1 (FRAG (ADJP (JJ Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-24.148292219876 -87.660634497897
+(S1 (S (NP (NP (NNS Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-24.233348557489 -87.527323762082
+(S1 (S (VP (VBN Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-24.626651877460 -89.660108554324
+(S1 (S (RB Proba-) (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))
+-24.693330205734 -81.835862381761
+(S1 (FRAG (ADJP (JJ Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-24.698609911139 -86.296008243156
+(S1 (FRAG (NP (NP (NN Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-24.711116207969 -85.638897651883
+(S1 (FRAG (NP (NN Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-24.717370446837 -89.546960334988
+(S1 (S (VP (JJ Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-24.738495988292 -88.046044969842
+(S1 (FRAG (NP (NP (NNS Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-24.782849402391 -87.457437187453
+(S1 (NP (NP (NN Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-24.884461017761 -86.804296513035
+(S1 (NP (NP (NNP Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-24.912935962075 -86.911008618574
+(S1 (VP (VBN Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-24.993547331244 -89.951037305390
+(S1 (NP (NP (NNP Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-25.032044927265 -88.714331968883
+(S1 (FRAG (JJ Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-25.080883699109 -84.341825205963
+(S1 (FRAG (VP (VBD Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-25.135961158754 -89.595072109181
+(S1 (ADJP (JJ Proba-) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-25.235002332422 -89.415321030659
+(S1 (FRAG (NP (CD Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-25.283410305564 -88.875417720570
+(S1 (S (NP (NP (NN Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-25.690567810957 -88.075697655334
+(S1 (S (ADJP (ADJP (JJ Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-25.717704769341 -89.749287191323
+(S1 (FRAG (`` Proba-) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-25.757232347844 -87.077492018924
+(S1 (ADJP (ADJP (JJ Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-25.802100092938 -90.007817155231
+(S1 (VP (VBD Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-25.804708656034 -89.668641249553
+(S1 (FRAG (RB Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-25.906560469343 -89.711920439699
+(S1 (NP (NP (JJ Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-25.919820421043 -89.991432069345
+(S1 (FRAG (NP (NN Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-26.052100110456 -88.725426491722
+(S1 (FRAG (NP (NP (JJ Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-26.158637850681 -87.307155376954
+(S1 (FRAG (NP (NNP Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-26.248895145918 -88.733964852147
+(S1 (FRAG (ADJP (JJ Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will))))))
+-26.370627238471 -88.675503297265
+(S1 (ADJP (JJ Proba-) (SBAR (S (NP (PRP we)) (VP (ADVP (RB probably)) (VP (MD will)))))))
+-26.497518766013 -89.890234063628
+(S1 (FRAG (VP (VBN Proba-) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+-26.692062312655 -89.736148026357
+(S1 (FRAG (NP (JJ Proba-)) (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))
+-27.190950096440 -89.133479409334
+(S1 (FRAG (ADJP (ADJP (JJ Proba-)) (SBAR (S (NP (PRP we)) (ADVP (RB probably)) (VP (MD will)))))))
+

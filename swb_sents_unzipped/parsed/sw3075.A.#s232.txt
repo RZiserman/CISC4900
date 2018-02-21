@@ -1,0 +1,102 @@
+50 x
+-9.111669785739 -29.877537966263
+(S1 (FRAG (CC and) (PP (IN of) (NP (NN course)))))
+-9.983179684625 -35.595451738394
+(S1 (S (CC and) (PP (IN of) (NP (NN course)))))
+-11.323832131674 -36.847920662819
+(S1 (PP (CC and) (PP (IN of) (NP (NN course)))))
+-11.464122632758 -37.004675706827
+(S1 (X (CC and) (PP (IN of) (NP (NN course)))))
+-11.974455836375 -37.881712063005
+(S1 (SQ (CC and) (PP (IN of) (NP (NN course)))))
+-12.265743004856 -35.727165312966
+(S1 (SQ (CC and) (FRAG (PP (IN of) (NP (NN course))))))
+-12.663959767038 -36.444230193147
+(S1 (FRAG (CC and) (FRAG (PP (IN of) (NP (NN course))))))
+-12.701724965850 -39.492090949092
+(S1 (FRAG (PP (CC and) (PP (IN of) (NP (NN course))))))
+-13.570318318546 -39.824883914718
+(S1 (PP (CC and) (IN of) (NP (NN course))))
+-13.648719056002 -43.500644878840
+(S1 (S (PP (CC and) (PP (IN of) (NP (NN course))))))
+-13.834584437968 -45.189409689264
+(S1 (UCP (CC and) (PP (IN of) (NP (NN course)))))
+-13.904275325392 -40.360713516842
+(S1 (FRAG (CC and) (S (PP (IN of) (NP (NN course))))))
+-14.026551355226 -40.779722007862
+(S1 (X (CC and) (S (PP (IN of) (NP (NN course))))))
+-14.388820669770 -48.028633443419
+(S1 (S (CC and) (S (PP (IN of) (NP (NN course))))))
+-14.724636926106 -41.525669608700
+(S1 (FRAG (PP (CC and) (IN of) (NP (NN course)))))
+-14.727858134021 -44.349908906663
+(S1 (FRAG (CC and) (IN of) (NP (NN course))))
+-14.881661079831 -43.398380807332
+(S1 (S (PP (CC and) (IN of) (NP (NN course)))))
+-14.884966751199 -43.302520228923
+(S1 (NP (QP (CC and) (IN of)) (NN course)))
+-15.354174496099 -48.559815476239
+(S1 (FRAG (UCP (CC and) (PP (IN of) (NP (NN course))))))
+-15.596788663419 -42.684413582166
+(S1 (SQ (CC and) (FRAG (IN of) (NP (NN course)))))
+-15.831789357798 -47.332145621687
+(S1 (S (CC and) (NP (IN of) (NN course))))
+-15.837883205428 -42.750160012195
+(S1 (FRAG (CC and) (FRAG (IN of) (NP (NN course)))))
+-16.712159692602 -47.871700084209
+(S1 (FRAG (CC and) (NP (IN of) (NN course))))
+-16.742997696371 -49.030142534896
+(S1 (FRAG (CC and) (SBAR (S (PP (IN of) (NP (NN course)))))))
+-16.950727520080 -52.968263977959
+(S1 (FRAG (CC and) (PP (IN of) (NN course))))
+-16.996892440115 -53.351638891363
+(S1 (X (PP (CC and) (PP (IN of) (NP (NN course))))))
+-17.201872122245 -50.960645499123
+(S1 (NP (CC and) (NP (IN of) (NN course))))
+-17.417251905738 -58.013425438267
+(S1 (S (CC and) (PP (IN of) (NN course))))
+-17.565959879889 -46.896715569870
+(S1 (FRAG (NP (QP (CC and) (IN of)) (NN course))))
+-17.713984012267 -50.593345402687
+(S1 (FRAG (CC and) (ADVP (IN of) (NN course))))
+-17.890333003660 -55.883836974026
+(S1 (S (CC and) (NP (IN of) (NP (NN course)))))
+-18.003645951875 -49.564164225052
+(S1 (X (CC and) (NP (IN of) (NN course))))
+-18.056758881978 -50.882626387564
+(S1 (X (CC and) (PP (IN of) (S (NP (NN course))))))
+-18.173753938081 -50.443437276442
+(S1 (S (NP (QP (CC and) (IN of)) (NN course))))
+-18.263147792008 -56.347135621448
+(S1 (X (CC and) (PP (IN of) (NN course))))
+-18.274814746919 -55.610559692723
+(S1 (S (CC and) (ADVP (IN of) (NN course))))
+-18.408908826201 -53.283284520825
+(S1 (X (PP (CC and) (IN of) (NP (NN course)))))
+-18.583231182284 -56.763350299304
+(S1 (X (CC and) (IN of) (NP (NN course))))
+-18.709202877790 -53.952111723382
+(S1 (FRAG (CC and) (PP (IN of) (S (NP (NN course))))))
+-18.820927275390 -54.946600501619
+(S1 (S (CC and) (S (NP (IN of) (NN course)))))
+-18.964994816297 -56.886741276755
+(S1 (FRAG (CC and) (NP (IN of) (NP (NN course)))))
+-19.057702285616 -57.914998836020
+(S1 (NP (CC and) (NP (IN of) (NP (NN course)))))
+-19.545213542891 -56.947097554305
+(S1 (FRAG (CC and) (ADVP (IN of) (NP (NN course)))))
+-19.664288096536 -53.352977122461
+(S1 (SQ (CC and) (FRAG (NP (IN of) (NN course)))))
+-20.251673619090 -54.560621216781
+(S1 (FRAG (CC and) (FRAG (NP (IN of) (NN course)))))
+-20.745768869088 -57.674557338513
+(S1 (FRAG (NP (CC and) (NP (IN of) (NN course)))))
+-20.755060049521 -56.559497694362
+(S1 (SQ (CC and) (FRAG (ADVP (IN of) (NP (NN course))))))
+-20.810070275235 -55.084484815640
+(S1 (FRAG (CC and) (S (NP (IN of) (NN course)))))
+-20.816001473942 -55.168176457021
+(S1 (X (CC and) (S (NP (IN of) (NN course)))))
+-21.162366474004 -57.276562650418
+(S1 (FRAG (CC and) (FRAG (ADVP (IN of) (NP (NN course))))))
+

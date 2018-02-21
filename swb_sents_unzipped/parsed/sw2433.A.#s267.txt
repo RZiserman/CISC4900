@@ -1,0 +1,102 @@
+50 x
+-21.291284470997 -72.858955939982
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (DT that)) (ADVP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-21.717659567776 -69.984788567292
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (RB that) (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-21.758410541714 -70.716260839018
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (DT that)) (PP (RB far) (IN of) (NP (DT a) (NN drive))))))
+-21.804143325706 -69.472377796075
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (DT that)) (PP (ADVP (RB far)) (IN of) (NP (DT a) (NN drive)))))))
+-21.890780164911 -70.286644787042
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (DT that) (JJ far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-22.080040760252 -70.225555239787
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (DT that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-22.188808275162 -73.708837229967
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (RB that) (RB far)) (PP (IN of) (NP (DT a) (NN drive))))))
+-22.394039252548 -73.185190871835
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (DT that)) (PP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-22.428783696902 -70.699700489497
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (DT that)) (PP (RB far) (IN of) (NP (DT a) (NN drive)))))))
+-22.512617015467 -73.331466123740
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (DT that)) (PP (ADVP (RB far)) (IN of) (NP (DT a) (NN drive))))))
+-22.866379275901 -73.115922436067
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (IN that) (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-22.896398759885 -71.223777486516
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-22.962057237437 -74.715612907186
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-23.018751617863 -69.418343113889
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (IN that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-23.144414514897 -70.188605488546
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (IN that) (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-23.255715622385 -71.777820161097
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (RB that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-23.290274256841 -76.606980313562
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN that) (S (ADVP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))))
+-23.294731818161 -76.749595198450
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN that) (S (ADJP (JJ far) (PP (IN of) (NP (DT a) (NN drive)))))))))
+-23.331826763205 -71.753295359580
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (ADVP (RB that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-23.509484664148 -75.547788735706
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB not) (DT that) (RB far)) (PP (IN of) (NP (DT a) (NN drive))))))
+-23.671148526974 -76.049850386711
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (DT that) (RB far)) (PP (IN of) (NP (DT a) (NN drive))))))
+-23.742277435059 -75.614767105958
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN that) (S (PP (RB far) (IN of) (NP (DT a) (NN drive))))))))
+-23.772067221364 -74.328494871380
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (IN that) (RB far)) (PP (IN of) (NP (DT a) (NN drive))))))
+-23.950755550140 -75.593789726417
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN that) (FRAG (ADVP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))))
+-23.978044368901 -74.685252353623
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (ADVP (RB that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-23.992379772310 -77.082603347923
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB not) (DT that) (JJ far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-24.043603103099 -76.105731859215
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN that) (S (ADJP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))))
+-24.140588807783 -76.455265784255
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (IN that)) (ADVP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-24.278712302028 -73.864655026239
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (RB that) (RB far))) (PP (IN of) (NP (DT a) (NN drive)))))
+-24.356074431808 -75.914963627317
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN that) (FRAG (RB far) (PP (IN of) (NP (DT a) (NN drive))))))))
+-24.506854625688 -74.068632359414
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB not) (DT that)) (PP (ADVP (RB far)) (IN of) (NP (DT a) (NN drive)))))))
+-24.584537553500 -74.312570683290
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (IN that)) (PP (RB far) (IN of) (NP (DT a) (NN drive))))))
+-24.685118394397 -72.712480921380
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (IN that)) (PP (RB far) (IN of) (NP (DT a) (NN drive)))))))
+-24.687506038297 -77.002908523738
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (IN that) (RB far)) (PP (IN of) (NP (DT a) (NN drive))))))
+-24.835216399559 -76.279906342268
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB not) (IN that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-24.890099382886 -74.474722778385
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (RB not) (DT that)) (PP (RB far) (IN of) (NP (DT a) (NN drive))))))
+-24.951910704763 -72.678688811923
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (IN that)) (PP (ADVP (RB far)) (IN of) (NP (DT a) (NN drive)))))))
+-25.131494996884 -75.295955052836
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (RB not) (DT that)) (PP (RB far) (IN of) (NP (DT a) (NN drive)))))))
+-25.192249207121 -76.781500716108
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (IN that)) (PP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-25.382462800796 -76.205749878694
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (RB not) (DT that)) (PP (RB far) (IN of) (NP (DT a) (NN drive))))))
+-25.525728093719 -76.943652811203
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (RB not) (DT that)) (PP (RB far) (PP (IN of) (NP (DT a) (NN drive)))))))
+-25.644305856639 -77.089928063107
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (RB not) (DT that)) (PP (ADVP (RB far)) (IN of) (NP (DT a) (NN drive))))))
+-25.746706931052 -76.205668182983
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (DT that) (RB far))) (PP (IN of) (NP (DT a) (NN drive)))))
+-25.760913608230 -74.484312667652
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (IN that) (RB far))) (PP (IN of) (NP (DT a) (NN drive)))))
+-25.811297816855 -76.752497581018
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (IN that) (FRAG (ADVP (RB far)) (PP (IN of) (NP (DT a) (NN drive))))))))
+-25.872585810041 -76.927775968012
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (IN that)) (PP (ADVP (RB far)) (IN of) (NP (DT a) (NN drive))))))
+-26.194739658778 -76.220806570816
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (ADVP (IN that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-26.249754626911 -77.151812025513
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (ADVP (IN that) (RB far)) (PP (IN of) (NP (DT a) (NN drive)))))))
+-26.267996408893 -77.012698040108
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (IN that) (PP (RB far) (IN of) (NP (DT a) (NN drive)))))))
+-26.670533287494 -77.017667900313
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB that) (PP (RB far) (IN of) (NP (DT a) (NN drive)))))))
+

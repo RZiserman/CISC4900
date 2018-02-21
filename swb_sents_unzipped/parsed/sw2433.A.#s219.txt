@@ -1,0 +1,102 @@
+50 x
+-31.031620963164 -110.985479832465
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something))))))))))))
+-31.672719405249 -109.905931046239
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))))
+-32.088132978236 -112.553956406433
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something))))))))))))
+-32.636825661293 -112.827557508950
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something))))))))))))
+-33.554844526053 -116.254407004250
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))))
+-34.100721011274 -116.844651682353
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))))
+-34.322746828766 -117.372435943898
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (NP (CD thirty)) (NP (NN something)))))))))))))
+-34.391511231877 -117.782935422855
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))))
+-34.456988272626 -118.644857759794
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (VP (PP (IN at) (NP (CD thirty) (NN something)))))))))))))
+-34.548002269725 -115.765102647898
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something))))))))))
+-34.557662571657 -118.692001075033
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (NP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something))))))))))))
+-34.591009026915 -119.892384950867
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh))))) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))
+-34.737247299893 -113.971694639588
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty)) (NN something)))))))))))
+-34.963415870590 -118.413128127409
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))))
+-34.963845298729 -116.292887157671
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (NP (CD thirty)) (NP (NN something))))))))))))
+-35.182816577493 -119.997094567044
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)))) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something))))))))
+-35.187969581525 -118.686729281947
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))))
+-35.228906067311 -120.531036637328
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)))))) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something))))))))
+-35.293930714711 -117.565308973568
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (VP (PP (IN at) (NP (CD thirty) (NN something))))))))))))
+-35.379258843838 -118.940912517865
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (NP (CD thirty)) (NP (NN something)))))))))))))
+-35.513500259820 -120.213334333762
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (PP (IN at) (NP (CD thirty) (NN something)))))))))))))
+-35.566864449856 -112.892145853361
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty)) (NN something))))))))))
+-35.657199527148 -119.942802541017
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (S (ADVP (UH uh)) (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (CD thirty) (NN something)))))))))))
+-35.658076012611 -119.421572781374
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're))) (PP (IN at) (NP (CD thirty) (NN something)))))))))
+-35.683624025549 -118.599630997227
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (VP (IN at) (NP (CD thirty) (NN something))))))))))))
+-35.723511927664 -119.836488409679
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (NP (IN at) (CD thirty) (NN something)))))))))))
+-35.793759314965 -115.540171213555
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty)) (NN something)))))))))))
+-35.927951526894 -119.214513620383
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (NP (CD thirty)) (NP (NN something)))))))))))))
+-36.062192942877 -120.486935436279
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (PP (IN at) (NP (CD thirty) (NN something)))))))))))))
+-36.168531477932 -115.444235581270
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (PP (IN at) (ADJP (CD thirty) (NN something))))))))))))
+-36.342451998022 -115.813772316073
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty)) (NN something)))))))))))
+-36.470700679441 -119.638097140967
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (QP (CD thirty) (NN something))))))))))))
+-36.527100301634 -117.520082211000
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (VP (IN at) (NP (CD thirty) (NN something)))))))))))
+-36.553129049748 -118.756939623452
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (NP (IN at) (CD thirty) (NN something))))))))))
+-36.562178465645 -119.737936920639
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (NP (ADJP (CD thirty) (NN something))))))))))))
+-36.740136040620 -120.168107571195
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (IN at) (NP (CD thirty) (NN something))))))))))))
+-36.809629920017 -114.364686795044
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (ADJP (CD thirty) (NN something)))))))))))
+-36.959433090205 -118.368967429508
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty) (NN something))))))))))))
+-37.225043493004 -117.012712155238
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (ADJP (CD thirty) (NN something))))))))))))
+-37.288828723677 -120.441708673712
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (IN at) (NP (CD thirty) (NN something))))))))))))
+-37.290437001987 -120.182107273420
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (ADVP (IN at) (NP (CD thirty) (NN something)))))))))))
+-37.448989542782 -119.240621811372
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty)) (NN something))))))))))
+-37.773736176061 -117.286313257756
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (ADJP (CD thirty) (NN something))))))))))))
+-37.789050212289 -117.289418643281
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty) (NN something)))))))))))
+-37.798504223926 -119.579921588960
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (S (ADJP (CD thirty) (NN something))))))))))))
+-37.806347348003 -119.830866489476
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (INTJ (UH uh)) (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty)) (NN something))))))))))
+-38.015945105276 -119.937444003476
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty) (NN something))))))))))))
+-38.442147314332 -118.751317455021
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty)) (NN something)))))))))
+-38.564637788333 -120.211045105993
+(S1 (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD said) (ADVP (UH uh)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (QP (IN at) (CD thirty) (NN something))))))))))))
+-39.684912784494 -120.223858396704
+(S1 (S (NP (PRP he)) (VP (VBZ says) (S (NP (PRP he)) (VP (VBD said) (INTJ (UH uh)) (S (NP (PRP you)) (VP (VBP 're) (PP (IN at) (ADJP (CD thirty) (NN something))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-16.937113017429 -51.293759193153
+(S1 (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-17.746506323732 -53.902235603721
+(S1 (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))
+-18.271487776373 -54.610727954046
+(S1 (S (RB Unfortunately) (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-19.080881082676 -57.219204364614
+(S1 (S (RB Unfortunately) (NP (DT that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))
+-19.386671582966 -58.214510021855
+(S1 (SBAR (ADVP (RB Unfortunately)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))
+-19.599907879154 -60.681240656370
+(S1 (S (NP (RB Unfortunately) (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-19.938272798899 -58.626448242771
+(S1 (FRAG (ADVP (RB Unfortunately)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-19.960677071880 -56.958718687851
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))
+-19.965849093972 -59.945810673352
+(S1 (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (VBZ 's) (ADJP (ADVP (RB probably)) (JJ true)))))
+-20.214678022870 -59.098700679926
+(S1 (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (VBZ 's) (RB probably) (ADJP (JJ true)))))
+-20.306010760948 -63.737076213512
+(S1 (S (ADVP (RB Unfortunately)) (WHNP (WDT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-20.314050345996 -60.822986486079
+(S1 (SBAR (ADVP (RB Unfortunately)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (RB probably) (JJ true))))))
+-20.397752043005 -60.984673462588
+(S1 (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (NP (JJ true)))))
+-20.409301185458 -63.289717066938
+(S1 (S (NP (RB Unfortunately) (DT that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))
+-20.411327620582 -56.390964880268
+(S1 (S (ADVP (RB Unfortunately)) (NP (IN that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-20.467432260302 -60.746498358123
+(S1 (FRAG (RB Unfortunately) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-20.485017342621 -63.538162801062
+(S1 (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (POS 's) (ADJP (RB probably) (JJ true)))))
+-20.782010523787 -58.398462905475
+(S1 (S (ADVP (RB Unfortunately)) (NP (WDT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-20.865651561929 -61.234924706994
+(S1 (FRAG (ADVP (RB Unfortunately)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))))
+-21.019765471090 -63.784037597389
+(S1 (SBAR (ADVP (RB Unfortunately)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-21.023470343578 -59.567194940703
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (DT that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true))))))
+-21.084310830040 -61.319774658084
+(S1 (SBAR (RB Unfortunately) (DT that) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))
+-21.199102530545 -63.354974822346
+(S1 (FRAG (RB Unfortunately) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))))
+-21.244411922885 -58.999441290836
+(S1 (S (ADVP (RB Unfortunately)) (NP (IN that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))
+-21.300223852916 -63.262779434245
+(S1 (S (RB Unfortunately) (NP (DT that)) (VP (VBZ 's) (ADJP (ADVP (RB probably)) (JJ true)))))
+-21.308588612755 -61.274564407929
+(S1 (SBAR (RB Unfortunately) (IN that) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))
+-21.447759700201 -61.256514246764
+(S1 (FRAG (RB Unfortunately) (SBAR (IN that) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-21.493533377090 -61.006939316043
+(S1 (S (ADVP (RB Unfortunately)) (NP (WDT that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))
+-21.549052781814 -62.415669440819
+(S1 (S (RB Unfortunately) (NP (DT that)) (VP (VBZ 's) (RB probably) (ADJP (JJ true)))))
+-21.771897365024 -62.747815050462
+(S1 (S (ADJP (RB Unfortunately) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))))
+-21.786700556842 -61.815129038710
+(S1 (FRAG (RB Unfortunately) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-21.930738450243 -61.409893739334
+(S1 (FRAG (ADVP (RB Unfortunately)) (SBAR (IN that) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-21.994180648381 -60.639019589716
+(S1 (S (RB Unfortunately) (NP (IN that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-22.008583083527 -62.347295305834
+(S1 (SBAR (ADVP (RB Unfortunately)) (IN that) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))
+-22.031519059325 -64.039175949606
+(S1 (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (VBZ 's) (NP (RB probably) (JJ true)))))
+-22.074465604534 -60.924126181191
+(S1 (S (RB Unfortunately) (NP (WDT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))
+-22.104808735325 -63.927480159568
+(S1 (FRAG (S (ADVP (RB Unfortunately)) (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))
+-22.110939041033 -61.533066635395
+(S1 (ADJP (RB Unfortunately) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-22.155675140282 -63.928251122308
+(S1 (SBAR (RB Unfortunately) (DT that) (S (VP (VBZ 's) (ADJP (RB probably) (JJ true))))))
+-22.187663521218 -63.257681636993
+(S1 (SBAR (ADVP (RB Unfortunately)) (SBAR (IN that) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-22.388338932998 -63.883040872152
+(S1 (SBAR (RB Unfortunately) (IN that) (S (VP (VBZ 's) (ADJP (RB probably) (JJ true))))))
+-22.526881120443 -63.864990710987
+(S1 (FRAG (RB Unfortunately) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))))
+-22.785988457838 -63.532602591758
+(S1 (S (RB Unfortunately) (NP (WDT that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))
+-22.827264950684 -63.247496000284
+(S1 (S (RB Unfortunately) (NP (IN that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))
+-23.010488770486 -64.018370203558
+(S1 (FRAG (ADVP (RB Unfortunately)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))))
+-23.210887613882 -64.141542931454
+(S1 (ADJP (RB Unfortunately) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (RB probably) (JJ true)))))))
+-23.403467498839 -63.198262537098
+(S1 (FRAG (ADJP (RB Unfortunately) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))))
+-23.518019303004 -62.806784189177
+(S1 (FRAG (SBAR (ADVP (RB Unfortunately)) (IN that) (S (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true)))))))
+-23.745200593022 -64.195906367041
+(S1 (S (ADVP (RB Unfortunately)) (NP (IN that)) (VP (VBZ 's) (RB probably) (ADJP (JJ true)))))
+-24.096036554983 -63.991798536077
+(S1 (S (ADVP (RB Unfortunately)) (S (NP (IN that)) (VP (VBZ 's) (ADVP (RB probably)) (ADJP (JJ true))))))
+

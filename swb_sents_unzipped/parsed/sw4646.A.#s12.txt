@@ -1,0 +1,102 @@
+50 x
+-34.026459408268 -115.069710143320
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-34.315736803515 -116.020757401796
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-35.705746793997 -118.956679161757
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))))
+-35.747000386641 -120.109524681526
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))))
+-36.220147203729 -123.771123355801
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))))
+-36.710155720152 -119.669378513298
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VB know) (NP (NNS bananas))))))))))
+-36.797864249507 -116.948614870029
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-36.850856092796 -120.822224033067
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (S (NP (PRP you)) (VP (VB know) (NP (NNS bananas))))))))))
+-36.877720585897 -126.860124906799
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))))
+-37.087141616876 -117.899662128504
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-37.279931061901 -124.728246569037
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))
+-37.735092499378 -123.415209599226
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VB know) (NP (NNS bananas)))))))))))
+-37.741973810295 -126.912332594691
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (NP (NP (NN sort)) (PP (IN of) (S (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))))
+-37.848794878618 -127.737114430663
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (CONJP (RB sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-37.884903265514 -126.029020262051
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NP (PRP she)) (ADVP (NN sort) (IN of))) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-37.997047021580 -127.658092378514
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))
+-38.009253969347 -127.445083481887
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (RB sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-38.123816674625 -124.366256857701
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VB know) (NP (NNS bananas)))))))))))
+-38.144768986964 -126.939143575987
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (RB sort) (PP (IN of))) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-38.162697989846 -129.168092129629
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (RB sort) (PP (IN of))) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-38.204452444016 -127.244149739291
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-38.228311805358 -120.835583888466
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas)))))))))))
+-38.269565398003 -121.988429408235
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas)))))))))))
+-38.488420639263 -128.195196997766
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-38.497099465855 -128.013463079502
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (RB sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-38.506011836930 -128.480660529146
+(S1 (S (NP (PRP I)) (VP (VP (VBP mean) (NP (PRP she))) (CONJP (RB sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))
+-38.862811317630 -128.615215730251
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))
+-38.872846237734 -128.370791730055
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VB know) (NP (NNS bananas)))))))))
+-38.991552017090 -125.650028082510
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas)))))))))))
+-39.138719601704 -127.740648416435
+(S1 (S (NP (PRP I)) (VP (VBP mean) (NP (NP (PRP she) (NN sort)) (PP (IN of) (S (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))))))
+-39.252863768088 -124.865908196796
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (PRP she)))) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))
+-39.267087460275 -125.325443123243
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-39.466113675522 -126.276490381718
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-39.649125399258 -128.739029633508
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas)))))))))))
+-39.817753961663 -129.327915081791
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VB know) (NP (NNS bananas)))))))
+-40.051335875263 -126.607151295746
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas)))))))))
+-40.487151055206 -129.138686448336
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NP (PRP she) (NN sort)) (PP (IN of))) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))))))
+-40.513378623657 -128.791237321400
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (NP (NP (NN sort)) (PP (IN of) (S (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))))
+-40.519612032941 -129.536997105223
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))
+-40.620199719857 -129.616019157372
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (CONJP (RB sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-40.656308078875 -127.907924988760
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NP (PRP she)) (ADVP (NN sort) (IN of))) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-40.780658782708 -129.323988208595
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (ADVP (RB sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-40.829184152092 -128.954675572397
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (PRP she)))) (ADVP (NN sort) (IN of)) (VP (VBD went) (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas)))))))
+-40.916173800326 -128.818048302695
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP she)) (VP (ADVP (RB sort) (PP (IN of))) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-40.946374818126 -129.212412141680
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))))
+-40.947354875296 -129.229423993177
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (PRP she)))) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NNS bananas))))))))
+-40.975857285256 -129.123054466000
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-42.024268581449 -126.744812923505
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (PRP she)))) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas)))))))))
+-42.038492273636 -127.204347849952
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN she)) (VP (ADVP (NN sort) (IN of)) (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+-42.237518488883 -128.155395108427
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NN she)) (ADVP (NN sort) (IN of)) (VP (VBD went) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (NNS bananas))))))))))))
+

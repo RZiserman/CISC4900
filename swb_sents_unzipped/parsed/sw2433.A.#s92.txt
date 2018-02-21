@@ -1,0 +1,102 @@
+50 x
+-18.567942213496 -62.263040381020
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics)))))
+-18.625226715488 -60.137368970724
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))
+-18.719805712663 -62.814106912227
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics)))))
+-18.777309994654 -60.688435501931
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))
+-18.877914026144 -63.738424776857
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics)))))
+-18.935418308135 -61.612753366561
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))
+-19.761343405150 -62.875789226656
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics)))))
+-19.818847687142 -60.750117816359
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))
+-19.925764086743 -62.694920435795
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP like) (NP (NN aerobics))))))
+-20.020663554751 -64.820591846091
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics))))))
+-20.065110693179 -65.722816071540
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (PP (IN like) (NP (NN aerobics)))))
+-20.112790896374 -63.049828845479
+(S1 (SQ (RB Well) (NP (PRP I)) (VP (VB like) (NP (NN aerobics)))))
+-20.244488689580 -65.438551454321
+(S1 (SQ (RB Well) (NP (PRP I)) (PP (IN like) (NP (NN aerobics)))))
+-20.286729688686 -64.477984861510
+(S1 (SQ (RB Well) (NP (PRP I)) (VP (VB like) (NP (NNS aerobics)))))
+-20.305531496449 -63.614468915410
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP like) (NP (NN aerobics))))))
+-20.400430964457 -65.740140325707
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics))))))
+-20.436571427223 -67.100327088852
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NN aerobics))))))))
+-20.682955331383 -65.885578720431
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))))
+-20.729941785232 -69.225998499149
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics))))))))
+-20.778146999391 -68.011250130728
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics)))))))
+-20.865303046554 -66.459463922524
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))))
+-20.948698890025 -68.084960336998
+(S1 (S (NP (RB Well) (PRP I)) (VP (VBP like) (NP (NNS aerobics)))))
+-21.002922447830 -68.882476474337
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (PP (IN like) (NP (NNS aerobics)))))
+-21.005241274028 -68.349081136081
+(S1 (SQ (RB Well) (NP (PRP I)) (PP (IN like) (NP (NNS aerobics)))))
+-21.026402694562 -68.585135332820
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics)))))))
+-21.030151454915 -67.219580248134
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VB like) (NP (NN aerobics)))))
+-21.047450623797 -68.206013268754
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VB like) (NP (NNS aerobics)))))
+-21.078835072017 -65.959288926702
+(S1 (S (NP (RB Well) (PRP I)) (VP (VBP like) (NP (NN aerobics)))))
+-21.132776539771 -66.619562349614
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VB like) (NP (NN aerobics)))))
+-21.145880787989 -67.072223763140
+(S1 (S (RB Well) (NP (PRP I)) (VP (VB like) (NP (NN aerobics)))))
+-21.150295488653 -67.605995370234
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VB like) (NP (NNS aerobics)))))
+-21.154260941114 -68.526805232588
+(S1 (SQ (RB Well) (NP (NP (PRP I)) (PP (IN like) (NP (NN aerobics))))))
+-21.163179956872 -68.058656783760
+(S1 (S (RB Well) (NP (PRP I)) (VP (VB like) (NP (NNS aerobics)))))
+-22.016245564189 -66.701023762932
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP like) (S (NP (NNS aerobics))))))
+-22.061590699189 -67.550774622134
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NN aerobics))))))))
+-22.168109063356 -67.252090294139
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP like) (S (NP (NNS aerobics))))))
+-22.262905157197 -69.676446032431
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NNS aerobics))))))))
+-22.326217376837 -68.176408158769
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP like) (S (NP (NNS aerobics))))))
+-22.335774415765 -67.700846215155
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VB like) (NP (NN aerobics)))))
+-22.337491518421 -69.453400308690
+(S1 (FRAG (ADVP (RB Well)) (SBAR (S (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))))
+-22.353073584648 -68.687279235775
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VB like) (NP (NNS aerobics)))))
+-22.558036291495 -68.620364050044
+(S1 (S (NP (RB Well) (PRP I)) (PP (IN like) (NP (NN aerobics)))))
+-22.631359596400 -69.609505164102
+(S1 (S (ADVP (UH Well)) (NP (PRP I)) (VP (VBP like) (NP (NN aerobics)))))
+-22.835315867067 -67.182771283828
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP like) (S (NP (NN aerobics))))))
+-22.987399149022 -67.733837815035
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP like) (S (NP (NN aerobics))))))
+-23.145507459715 -68.658155679665
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP like) (S (NP (NN aerobics))))))
+-23.209646755843 -67.313772608567
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP like) (S (NP (NNS aerobics))))))
+-23.433058341991 -69.258575108892
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP like) (S (NP (NNS aerobics)))))))
+-24.028936838721 -67.795520129463
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP like) (S (NP (NN aerobics))))))
+-24.099944674869 -69.740322629788
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP like) (S (NP (NN aerobics)))))))
+

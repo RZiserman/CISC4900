@@ -1,0 +1,102 @@
+50 x
+-14.867211301630 -52.325068098108
+(S1 (SQ (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys)))))
+-16.593886429147 -56.268781187818
+(S1 (SQ (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys)))))
+-17.743742561181 -60.693466826894
+(S1 (SQ (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys)))))
+-18.799295671860 -68.464646292261
+(S1 (S (VP (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))
+-18.841148298645 -69.131312146815
+(S1 (SINV (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys)))))
+-18.867393383012 -67.405431261269
+(S1 (SQ (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))
+-19.716115214397 -70.666531190365
+(S1 (SINV (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))
+-20.099327681392 -71.966139215132
+(S1 (S (VP (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys))))))
+-20.378961000967 -70.789948246014
+(S1 (SQ (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys))))))
+-20.754878556347 -73.720410505036
+(S1 (SINV (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys)))))
+-21.225796094675 -76.404206309193
+(S1 (S (VP (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys))))))
+-21.234818102352 -74.051048175110
+(S1 (SINV (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys))))))
+-21.426436039592 -74.012771975426
+(S1 (S (VP (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys)))))))
+-21.680617465972 -77.365701893908
+(S1 (SINV (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys)))))
+-21.683866145696 -75.283333727770
+(S1 (SQ (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys))))))
+-21.926200918134 -76.175175143943
+(S1 (VP (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys)))))
+-22.532884777081 -78.544433656866
+(S1 (SINV (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys))))))
+-22.571821270760 -77.397288960170
+(S1 (S (VP (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys)))))))
+-22.831963184985 -81.617258796352
+(S1 (S (VP (VBP are) (VP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys)))))))
+-23.191995745667 -79.676668066815
+(S1 (VP (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys)))))
+-23.439866046836 -76.570268749105
+(S1 (S (VP (VBP are) (S (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys)))))))
+-23.483102802357 -77.841889286381
+(S1 (S (VP (VBP are) (PP (NP (PRP you)) (IN into) (NP (DT the) (NNPS Cowboys))))))
+-23.884862829489 -81.890674441927
+(S1 (S (VP (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys)))))))
+-24.229514501730 -85.118751719223
+(S1 (S (VP (VBP are) (VP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys)))))))
+-24.392190670950 -84.114735160875
+(S1 (VP (VBP are) (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys)))))
+-24.667916270102 -81.343382209253
+(S1 (S (VP (VBP are) (PP (NP (PRP you)) (IN into) (NP (DT the) (NNP Cowboys))))))
+-24.719644430490 -80.373860675497
+(S1 (S (VP (VBP are) (S (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys)))))))
+-24.740965562123 -84.279407091082
+(S1 (S (VP (VBP are) (PP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys)))))))
+-24.945988136065 -82.243557665272
+(S1 (SQ (VBP are) (NP (NP (PRP you)) (IN into) (NP (DT the) (NNPS Cowboys)))))
+-24.996141076340 -83.221977923354
+(S1 (VP (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))
+-25.243252215013 -89.556818813284
+(S1 (S (VP (VBP are) (VP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys)))))))
+-25.503641106514 -84.035077039171
+(S1 (SINV (VBP are) (NP (NP (PRP you)) (IN into) (NP (DT the) (NNPS Cowboys)))))
+-25.728527309086 -84.689226939224
+(S1 (S (VP (VBP are) (S (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys)))))))
+-25.799982724385 -85.781449303313
+(S1 (S (VP (VBP are) (PP (NP (PRP you)) (IN into) (NP (DT the) (NNS Cowboys))))))
+-26.038356839981 -84.072533664431
+(S1 (VP (VBP are) (S (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))
+-26.170110088295 -86.606494908098
+(S1 (VP (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys))))))
+-26.269384571972 -86.666985514318
+(S1 (S (VP (VBP are) (SBAR (S (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))))
+-26.300339531227 -87.907880059322
+(S1 (S (VP (VBP are) (PP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys)))))))
+-26.718390157876 -85.476114089798
+(S1 (S (VP (VBP are) (S (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))))
+-26.815976871820 -87.387687595233
+(S1 (S (VP (VBP are) (NP (NP (PRP you)) (IN into) (NP (DT the) (NNPS Cowboys))))))
+-26.995160389078 -90.664640871201
+(S1 (S (VP (VBP are) (S (VP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))))
+-27.269290848998 -91.069832090736
+(S1 (SQ (VBP are) (NP (NP (PRP you)) (IN into) (NP (DT the) (NNS Cowboys)))))
+-27.346719001635 -87.876125590824
+(S1 (VP (VBP are) (S (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys))))))
+-27.357014986702 -91.942831353519
+(S1 (VP (VBP are) (VP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNPS Cowboys))))))
+-27.364917530462 -86.986598946072
+(S1 (VP (VBP are) (PP (NP (PRP you)) (IN into) (NP (DT the) (NNPS Cowboys)))))
+-27.437159947626 -90.470577440711
+(S1 (S (VP (VBP are) (SBAR (S (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys))))))))
+-27.521623559024 -91.099880389855
+(S1 (VP (VBP are) (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNS Cowboys))))))
+-27.571343463920 -91.047154838944
+(S1 (SQ (VBP are) (NP (NP (PRP you)) (IN into) (NP (DT the) (NNP Cowboys)))))
+-27.759302906044 -88.860631074542
+(S1 (S (VP (VBP are) (S (NP (NP (PRP you)) (PP (IN into) (NP (DT the) (NNP Cowboys))))))))
+-28.515493816207 -90.488091868944
+(S1 (VP (VBP are) (PP (NP (PRP you)) (IN into) (NP (DT the) (NNP Cowboys)))))
+

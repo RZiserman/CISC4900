@@ -1,0 +1,102 @@
+50 x
+-23.023193913473 -83.741223198377
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet))))))
+-23.126557177966 -80.664369071858
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-23.505700716799 -81.755482720257
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet))))))
+-23.717738464744 -81.219376953866
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-25.888517680256 -87.899626493993
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (PP (IN like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-26.336579197799 -95.182943490722
+(S1 (NP (NP (PRP it) (POS 's)) (PP (IN like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet)))))
+-26.368023057339 -89.975897023666
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (VB like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-26.449964361486 -90.840074949408
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (VB like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-26.584706475241 -86.439177687805
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (CD ten) (NNS feet)))) (PP (IN by) (NP (CD five) (NNS feet)))))
+-26.723964091155 -91.559573009634
+(S1 (S (NP (PRP it)) (VP (VBZ 's)) (PP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-26.805052515884 -92.364494279501
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))))
+-26.878128705404 -88.176148404131
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (PP (IN like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-26.974795894801 -92.237234069649
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-26.985768603968 -89.477290282572
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-27.178871916775 -88.450929753882
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-27.273195549943 -89.024272607081
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-27.494306232967 -90.202385943603
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (IN like) (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))
+-27.602075708547 -92.286289969741
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (VB like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-27.733579273104 -90.012008759822
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (QP (IN like) (CD ten)) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))
+-27.756604475621 -88.158246825704
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (CD ten) (NNS feet)))) (PP (IN by) (NP (CD five) (NNS feet)))))
+-27.761907205648 -93.917920191241
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (VB like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-27.983847796126 -88.385450024062
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (VP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-28.056815038358 -94.903154169242
+(S1 (S (NP (PRP it)) (VP (POS 's)) (PP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-28.187191601975 -91.182944816975
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (NP (IN like) (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-28.268628134288 -94.778626296964
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (IN like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-28.372644300685 -94.826591738975
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))))
+-28.480236397176 -94.223389697203
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet))))))
+-28.521972074208 -93.845304165790
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (NP (CD ten)) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-28.525229470321 -93.214025292969
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (JJ like) (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))
+-28.625987457585 -95.461036542482
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (IN like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet))))))
+-28.667485627602 -94.699331529123
+(S1 (S (NP (PRP it)) (VP (POS 's) (SBAR (IN like) (S (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-28.683136537650 -91.519097421506
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (NP (QP (IN like) (CD ten)) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-28.684814857344 -94.839606265743
+(S1 (S (NP (PRP it) (POS 's)) (PP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-28.854491297207 -94.799532999114
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (IN like) (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-28.859797995246 -92.181649428934
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-28.862171418415 -92.471553961459
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (QP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-28.938790166656 -94.863321325939
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (QP (CD five) (NNS feet)))))))
+-28.991512223541 -94.928526833102
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (VB like) (S (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))))
+-29.102668760987 -94.400312047798
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (NP (NP (CD ten)) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-29.113595971897 -94.802066264789
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-29.157072168943 -94.869446725092
+(S1 (S (NP (PRP it)) (VP (POS 's) (ADJP (JJ like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-29.230771642882 -95.135685603645
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (QP (IN like) (CD ten)) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-29.346649564638 -95.106272856908
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (NP (CD five)) (NNS feet))))))))
+-29.368284205193 -93.026561843468
+(S1 (S (NP (PRP it)) (VP (POS 's) (PP (IN like) (NP (NP (QP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-29.378297419745 -94.949861472418
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADVP (IN like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-29.393910985085 -94.255079209791
+(S1 (S (NP (PRP it) (VBZ 's)) (VP (IN like) (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))
+-29.395029482676 -94.094712955499
+(S1 (S (NP (PRP it)) (VP (POS 's) (VP (VB like) (S (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet))))))))
+-29.433696293838 -95.472700866861
+(S1 (S (NP (PRP it)) (VP (POS 's) (NP (NP (JJ like) (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-30.435331396511 -95.268014157171
+(S1 (S (NP (PRP it) (VBZ 's)) (VP (IN like) (NP (NP (CD ten) (NNS feet)) (PP (IN by) (NP (CD five) (NNS feet)))))))
+-30.868365579231 -93.527033394168
+(S1 (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJ like) (NP (CD ten) (NNS feet))) (PP (IN by) (NP (CD five) (NNS feet)))))))
+

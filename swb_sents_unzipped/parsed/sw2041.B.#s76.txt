@@ -1,0 +1,102 @@
+50 x
+-16.718206812518 -60.338026932885
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me))))))
+-16.809973027038 -60.478954756808
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-16.974375703998 -60.372860278686
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me))))))))
+-17.325713707803 -63.482069937723
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier)) (PP (IN for) (NP (PRP me)))))))
+-17.388092045984 -61.740650299017
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me))))))
+-17.479858257716 -61.881578122940
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-17.571608481519 -64.516767467799
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me))))))
+-17.644260934676 -61.775483644818
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me))))))))
+-17.663374693251 -64.657695291722
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-17.827777370211 -64.551600813600
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me))))))))
+-17.995598938481 -64.884693303855
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier)) (PP (IN for) (NP (PRP me)))))))
+-18.179115374016 -67.660810472637
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier)) (PP (IN for) (NP (PRP me)))))))
+-18.412667295222 -67.901821439065
+(S1 (S (CC so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me))))))
+-18.504433506954 -68.042749262988
+(S1 (S (CC so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-18.668836183914 -67.936654784866
+(S1 (S (CC so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me))))))))
+-18.712609663574 -69.061778401029
+(S1 (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me)))))))
+-18.761178093489 -69.202706070874
+(S1 (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me)))))))))
+-18.925580770449 -69.096611592752
+(S1 (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me)))))))))
+-19.062278599473 -65.038178810747
+(S1 (S (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me)))))))
+-19.110847012661 -65.179106418952
+(S1 (S (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me)))))))))
+-19.238454869226 -67.989131509852
+(S1 (S (CC so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier)))) (PP (IN for) (NP (PRP me)))))
+-19.275249689621 -65.073011940830
+(S1 (S (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me)))))))))
+-19.576637984363 -67.986631476149
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (RB easier)) (PP (IN for) (NP (PRP me)))))))
+-19.721703190426 -68.182221599868
+(S1 (S (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-19.870245838312 -67.444234466543
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (RB easier) (PP (IN for) (NP (PRP me))))))))
+-19.929774349977 -69.138825077982
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me))))))))
+-19.978342779892 -69.279752747827
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))))
+-20.002547198553 -65.649995778269
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me)))))))
+-20.051115611741 -65.790923386474
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me)))))))))
+-20.142745456852 -69.173658269705
+(S1 (FRAG (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me))))))))))
+-20.208369003190 -68.702439324971
+(S1 (S (ADVP (IN so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier))) (PP (IN for) (NP (PRP me))))))
+-20.214536435158 -68.520941225339
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (RB easier))) (PP (IN for) (NP (PRP me))))))
+-20.215518288701 -65.684828908353
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me)))))))))
+-20.246523215040 -69.389254842281
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (RB easier)) (PP (IN for) (NP (PRP me)))))))
+-20.270354022991 -66.870000987598
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (RBR easier))) (PP (IN for) (NP (PRP me))))))
+-20.300135217710 -68.843367148894
+(S1 (S (ADVP (IN so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-20.464537894670 -68.737272670772
+(S1 (S (ADVP (IN so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (PRP me))))))))
+-20.488285112007 -67.572149381792
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (NP (NP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-20.534756055193 -69.626319575439
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (RBR easier) (PP (IN for) (NP (PRP me))))))))
+-20.540131068990 -68.846857832675
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (RB easier) (PP (IN for) (NP (PRP me))))))))
+-20.557804598543 -65.741010526016
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (JJR easier))) (PP (IN for) (NP (PRP me))))))
+-20.594967789193 -65.363773474564
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (JJR easier)) (PP (IN for) (NP (PRP me)))))))
+-20.661971789506 -68.794038567390
+(S1 (S (RB so) (S (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-20.940239253669 -68.272624353731
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (RBR easier))) (PP (IN for) (NP (PRP me))))))
+-21.158170345472 -68.974772747924
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (NP (NP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+-21.227689829220 -67.143633892148
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (JJR easier))) (PP (IN for) (NP (PRP me))))))
+-21.264853022658 -66.766396840697
+(S1 (S (RB so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (JJR easier)) (PP (IN for) (NP (PRP me)))))))
+-21.407337385197 -68.570841283825
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (ADJP (RBR easier)) (PP (IN for) (NP (PRP me))))))))
+-21.448369458194 -69.542514009479
+(S1 (S (ADVP (RB so)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (JJR easier)) (PP (IN for) (NP (PRP me)))))))
+-22.533459907310 -69.442477063645
+(S1 (S (IN so) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADVP (ADVP (JJR easier)) (PP (IN for) (NP (PRP me))))))))
+

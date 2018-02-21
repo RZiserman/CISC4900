@@ -1,0 +1,102 @@
+50 x
+-13.404637756237 -47.058379738302
+(S1 (S (RB Not) (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-13.617757760380 -49.022752757660
+(S1 (S (VP (RB Not) (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-14.587769968096 -46.892580024523
+(S1 (FRAG (RB Not) (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-14.924421714062 -51.759396103338
+(S1 (S (RB Not) (S (VP (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-15.519654944983 -55.759159313540
+(S1 (S (VP (RB Not) (VBG getting) (SBAR (S (VP (TO to) (VP (VB go))))))))
+-15.843680154775 -51.141384047818
+(S1 (FRAG (S (RB Not) (VP (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-16.074805398004 -58.494313915151
+(S1 (S (VP (RB Not) (S (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))))
+-16.262181204501 -56.408855203280
+(S1 (VP (RB Not) (S (VP (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-16.313679809742 -54.027855334602
+(S1 (FRAG (S (VP (RB Not) (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-16.471890870619 -56.314043311797
+(S1 (S (ADVP (RB Not)) (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-16.486603819091 -51.948857011249
+(S1 (FRAG (VP (RB Not) (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-16.555851013811 -54.720987459234
+(S1 (FRAG (VP (RB Not) (S (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))))
+-16.860942930158 -56.626190779214
+(S1 (S (ADVP (RB Not)) (S (VP (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-16.885325549995 -60.681273959305
+(S1 (S (VP (RB Not) (VP (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-17.009347202310 -58.787095164967
+(S1 (S (RB Not) (VP (VBG getting) (SBAR (S (VP (TO to) (VP (VB go))))))))
+-17.176312592146 -57.388400294758
+(S1 (VP (RB Not) (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-17.482399033456 -55.700532550712
+(S1 (FRAG (VP (RB Not) (VP (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-17.529256858832 -59.426111439225
+(S1 (S (VP (ADVP (RB Not)) (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-17.614624953212 -56.205300396862
+(S1 (S (RB Not) (VP (VBG getting) (PP (TO to) (VP (VB go))))))
+-17.741271603485 -56.803313686802
+(S1 (FRAG (RB Not) (VP (VBG getting) (SBAR (S (VP (TO to) (VP (VB go))))))))
+-17.803971602111 -54.987977956363
+(S1 (S (RB Not) (VP (VBG getting) (PP (TO to) (NP (VB go))))))
+-17.858633959952 -58.524176370274
+(S1 (S (NP (RB Not)) (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-17.910876948219 -54.896893762889
+(S1 (FRAG (ADVP (RB Not)) (VP (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-17.993319352457 -59.983282998521
+(S1 (S (RB Not) (VP (VBG getting) (VP (TO to) (VP (VB go))))))
+-18.002414355467 -59.230640235005
+(S1 (S (VP (RB Not) (VBG getting) (PP (TO to) (VP (VB go))))))
+-18.012992833238 -57.437092680196
+(S1 (S (RB Not) (VP (VBG getting) (S (TO to) (VP (VB go))))))
+-18.090459017923 -58.583046913908
+(S1 (S (VP (RB Not) (VBG getting) (SBAR (TO to) (S (VP (VB go)))))))
+-18.117964882560 -56.822217148115
+(S1 (S (RB Not) (VP (VBG getting) (S (VP (TO to) (S (VP (VB go))))))))
+-18.191761001578 -58.013317794506
+(S1 (S (VP (RB Not) (VBG getting) (PP (TO to) (NP (VB go))))))
+-18.208343167380 -59.401465699554
+(S1 (S (VP (RB Not) (VBG getting) (S (TO to) (VP (VB go))))))
+-18.215576997132 -60.764261890481
+(S1 (FRAG (S (VP (RB Not) (VBG getting) (SBAR (S (VP (TO to) (VP (VB go)))))))))
+-18.316595096702 -58.786590167474
+(S1 (S (VP (RB Not) (VBG getting) (S (VP (TO to) (S (VP (VB go))))))))
+-18.432406469835 -59.474247308346
+(S1 (S (RB Not) (VP (VBG getting) (PP (TO to) (NP (NN go))))))
+-18.461416543519 -59.330731684840
+(S1 (FRAG (VP (RB Not) (VBG getting) (SBAR (S (VP (TO to) (VP (VB go))))))))
+-18.650723336878 -60.129113044439
+(S1 (S (RB Not) (NP (VBG getting)) (VP (TO to) (VP (VB go)))))
+-18.795335797492 -60.321446691431
+(S1 (FRAG (S (ADVP (RB Not)) (VP (VBG getting) (S (VP (TO to) (VP (VB go))))))))
+-18.808101541411 -56.469602122832
+(S1 (FRAG (RB Not) (VP (VBG getting) (PP (TO to) (VP (VB go))))))
+-18.935843757523 -55.252279667009
+(S1 (FRAG (RB Not) (VP (VBG getting) (PP (TO to) (NP (VB go))))))
+-18.946270478772 -57.689844741196
+(S1 (FRAG (RB Not) (VP (VBG getting) (S (TO to) (VP (VB go))))))
+-19.054562615418 -56.656417434336
+(S1 (FRAG (RB Not) (VP (VBG getting) (S (VP (TO to) (S (VP (VB go))))))))
+-19.146389457136 -60.816056400438
+(S1 (S (RB Not) (VP (VBG getting) (PP (TO to) (S (VP (VB go)))))))
+-19.297583469935 -59.688994321497
+(S1 (S (RB Not) (S (VP (VBG getting) (PP (TO to) (NP (VB go)))))))
+-19.333583272915 -57.978842328472
+(S1 (FRAG (ADJP (RB Not) (VBG getting)) (S (VP (TO to) (VP (VB go))))))
+-19.398536755247 -59.738549018991
+(S1 (FRAG (RB Not) (VP (VBG getting) (PP (TO to) (NP (NN go))))))
+-19.665666662754 -60.442806176341
+(S1 (FRAG (VP (ADVP (RB Not)) (VBG getting) (S (VP (TO to) (VP (VB go)))))))
+-20.053667351749 -60.288304706378
+(S1 (FRAG (S (RB Not) (VP (VBG getting) (PP (TO to) (VP (VB go)))))))
+-20.243014000648 -59.070982265879
+(S1 (FRAG (S (RB Not) (VP (VBG getting) (PP (TO to) (NP (VB go)))))))
+-20.265916176935 -60.328597759023
+(S1 (FRAG (RB Not) (VP (VBG getting) (SBAR (TO to) (S (VP (VB go)))))))
+-20.557007281097 -60.905221457631
+(S1 (FRAG (S (RB Not) (VP (VBG getting) (S (VP (TO to) (S (VP (VB go)))))))))
+-20.722808670551 -60.815460808953
+(S1 (FRAG (VP (RB Not) (VBG getting) (PP (TO to) (NP (VB go))))))
+

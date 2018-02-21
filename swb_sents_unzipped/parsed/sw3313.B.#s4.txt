@@ -1,0 +1,102 @@
+50 x
+-22.228723189106 -77.503520467229
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-23.136446256581 -82.434924340108
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-24.002361032030 -80.779566564123
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))
+-24.900533074984 -81.829964550842
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-24.933071752293 -85.710970437002
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))
+-25.240926021341 -82.608626831201
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (RB rather) (ADJP (RB rather) (JJ broad)) (NN topic)))))
+-25.268186227731 -86.417157961017
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-25.618889969629 -88.410823404723
+(S1 (S (DT That) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-25.630500169707 -85.106442503720
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather)) (JJ broad) (NN topic)))))
+-25.943495243085 -83.452349572552
+(S1 (S (NP (IN That)) (VP (POS 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-26.214208541579 -86.644327286561
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather)) (RB rather) (JJ broad)) (NN topic)))))
+-26.225042027448 -84.166395624455
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-26.237286938150 -83.603481451855
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-26.370350078132 -88.129363610725
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (DT a) (RB rather) (ADJP (RB rather) (JJ broad)) (NN topic)))))
+-26.401532110840 -86.107331990042
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (RB rather) (RB rather) (JJ broad) (NN topic)))))
+-26.411396993864 -89.752076765877
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (DT a) (ADJP (RB rather) (RB rather)) (JJ broad) (NN topic)))))
+-26.471766606519 -86.405648063047
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (QP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))
+-26.502685294769 -89.811107965751
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (ADJP (RB rather) (JJ broad))) (NN topic)))))
+-26.586471978533 -86.676608895160
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-26.591182052194 -86.828307126036
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))))
+-26.594502972537 -83.722086621154
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))))
+-26.674170920696 -85.106010647736
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic))))))
+-26.880663902847 -88.781621960126
+(S1 (SBAR (WHNP (WDT That)) (S (VP (POS 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-26.924074563096 -87.962314267540
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (ADVP (RB rather)) (JJ broad)) (NN topic)))))
+-27.041824073443 -89.693204057911
+(S1 (SBAR (IN That) (S (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic))))))
+-27.048782156943 -85.177651477379
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-27.068574793157 -89.989494218783
+(S1 (S (NP (DT That)) (VP (POS 's) (NP (DT a) (RB rather) (RB rather) (JJ broad) (NN topic)))))
+-27.156902624488 -86.546299604511
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-27.175512399789 -89.639113849882
+(S1 (SBAR (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-27.439197883730 -89.920447153410
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADVP (RB rather) (RB rather)) (JJ broad) (NN topic)))))
+-27.479686391665 -87.363038034762
+(S1 (S (NP (WDT That)) (VP (POS 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-27.581187502489 -88.734313851601
+(S1 (SBAR (WDT That) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-27.727235329604 -87.641891072573
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (QP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-27.740120738797 -86.728395669445
+(S1 (S (NP (IN That)) (VP (POS 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))
+-27.801385639950 -89.865879321507
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (QP (RB rather) (RB rather) (JJ broad))) (NN topic)))))
+-27.826401590919 -86.935070914814
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (RB rather) (ADJP (RB rather) (JJ broad)) (NN topic))))))
+-27.921942582240 -88.155636738245
+(S1 (FRAG (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-27.953284803011 -89.542238729130
+(S1 (S (RB That) (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic)))))
+-27.998679873160 -87.442441721349
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))
+-28.010924783861 -86.879527548748
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic))))))
+-28.178010448374 -89.432886587333
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather)) (JJ broad) (NN topic))))))
+-28.360109821457 -89.952654992054
+(S1 (S (WHNP (WDT That)) (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))
+-28.365743409775 -89.435134907643
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (RB rather) (RB rather) (JJ broad)) (NN topic))))))
+-28.368140818249 -86.998132718048
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))))
+-28.822419999867 -88.453697574273
+(S1 (S (NP (WDT That)) (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic)))))
+-28.930540470200 -89.822345701405
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (ADJP (ADVP (RB rather) (RB rather)) (JJ broad)) (NN topic))))))
+-29.177399064636 -89.146788843168
+(S1 (S (NP (IN That)) (VP (POS 's) (NP (DT a) (RB rather) (ADJP (RB rather) (JJ broad)) (NN topic)))))
+-29.237244862470 -89.271501988427
+(S1 (S (NP (IN That)) (VP (VBZ 's) (NP (DT a) (RB rather) (ADJP (RB rather) (JJ broad)) (NN topic)))))
+-29.249489773172 -88.708587815826
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (RB rather) (ADJP (RB rather) (JJ broad)) (NN topic))))))
+-29.520371491259 -88.827192985126
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ 's) (NP (DT a) (RB rather) (ADJP (RB rather) (JJ broad)) (NN topic)))))))
+

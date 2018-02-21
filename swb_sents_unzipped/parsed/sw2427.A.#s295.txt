@@ -1,0 +1,102 @@
+50 x
+-14.665931520040 -52.887803977631
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-15.009131505972 -53.120361119894
+(S1 (S (IN Like) (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))
+-15.567122939313 -51.667640118683
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-15.891976675207 -54.760349382951
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-16.742508428617 -57.493042823287
+(S1 (PP (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-16.998039110061 -54.275072350405
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-17.045494436405 -54.516600161475
+(S1 (S (VP (VB Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-17.062181405994 -56.282281245283
+(S1 (S (IN Like) (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))
+-17.862399033841 -59.699123392281
+(S1 (S (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-18.013135110822 -63.551647728725
+(S1 (S (PP (IN Like) (NP (PRP I))) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))
+-18.016072321624 -56.392195635035
+(S1 (FRAG (IN Like) (SBAR (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-18.058164620737 -59.384966797131
+(S1 (FRAG (PP (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-18.097490692806 -58.434420877475
+(S1 (SBAR (WHNP (IN Like)) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-18.284796650502 -62.263653067305
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ just)))))))))
+-18.326493956288 -62.308127611273
+(S1 (S (VP (VB Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-18.500677826879 -61.717802718132
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))
+-18.574670171626 -60.157912104231
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (RB just)))))))))
+-18.588820075191 -58.519640220087
+(S1 (FRAG (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-18.677408806699 -62.295033576808
+(S1 (S (VP (VB Like) (SBAR (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))))
+-18.774046930800 -61.906183624104
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VB say) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))
+-18.859641061840 -61.950360004551
+(S1 (S (IN Like) (NP (PRP I)) (VP (VBP say) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))
+-18.917870160346 -60.390469246494
+(S1 (S (IN Like) (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (RB just))))))))
+-18.935487756434 -62.496210209568
+(S1 (S (IN Like) (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ just))))))))
+-19.046843775164 -62.782162108941
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB just)))))))))
+-19.066877549775 -61.043489208357
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ just))))))))))
+-19.083967872547 -63.335853766359
+(S1 (PP (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-19.106984598984 -60.739500745455
+(S1 (S (VP (VBP Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-19.151818476058 -63.450798556485
+(S1 (S (ADVP (IN Like)) (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))
+-19.214895002531 -61.579203657077
+(S1 (S (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-19.353302301317 -61.857565670359
+(S1 (S (VP (VB Like) (SBAR (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))))
+-19.390043761096 -63.014719251204
+(S1 (S (IN Like) (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB just))))))))
+-19.401869246152 -60.497638859184
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-19.405724515734 -58.404534780482
+(S1 (FRAG (SBAR (WHNP (IN Like)) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-19.475861593687 -58.937748245283
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (RB just))))))))))
+-19.484277824720 -59.175540774576
+(S1 (FRAG (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-19.486773580040 -63.464848374703
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB just)))))))))
+-19.528592960387 -59.439018519349
+(S1 (VP (VB Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-19.654453091376 -59.723545314308
+(S1 (FRAG (IN Like) (SBAR (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+-19.715114716281 -61.556806236401
+(S1 (SBAR (WHNP (IN Like)) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-19.800715329580 -62.030457509552
+(S1 (SBAR (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (RB just)))))))))
+-19.880109365654 -61.420906591558
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VB say) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-19.947377361767 -63.428115671607
+(S1 (S (IN Like) (NP (PRP I)) (VP (VB say) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))
+-19.948035194437 -61.561998249993
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB just))))))))))
+-20.004017696907 -61.662434308987
+(S1 (S (VP (VB Like) (S (NP (PRP I)) (VP (VB say) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))
+-20.528056750522 -63.650921440080
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ just))))))))))
+-20.900527455742 -63.576975153330
+(S1 (FRAG (S (VP (VB Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)))))))))))
+-20.906777764434 -61.545180477006
+(S1 (FRAG (SBAR (IN Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (RB just))))))))))
+-20.954233090778 -61.786708288075
+(S1 (S (VP (VB Like) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (RB just))))))))))
+-20.970920057579 -63.552389371884
+(S1 (S (IN Like) (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (RB just))))))))
+-21.228219526912 -62.261806874433
+(S1 (FRAG (SBAR (WHNP (IN Like)) (S (NP (PRP I)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))))))))))
+

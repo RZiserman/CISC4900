@@ -1,0 +1,102 @@
+50 x
+-12.631685989958 -45.147055887693
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (NP (JJR less)))))
+-14.013445102720 -46.365512761221
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (NP (JJR less))))))
+-14.518532428578 -46.490501413529
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (ADJP (JJR less)))))
+-14.598274591301 -47.718853481039
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (NP (RBR less)))))
+-15.110898337223 -51.062636996246
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (ADVP (RBR less)))))
+-15.197836547961 -53.327516328737
+(S1 (S (CC And) (NP (PRP it)) (VP (NNS costs) (NP (JJR less)))))
+-15.747232507007 -56.584736437355
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (ADVP (RB less)))))
+-16.006853460369 -47.708958416278
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADJP (JJR less))))))
+-16.143682994063 -48.937310354567
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (NP (RBR less))))))
+-16.303265174999 -48.408972807365
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ costs) (NP (JJR less))))))
+-16.433491280831 -52.281094157214
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADVP (RBR less))))))
+-16.539102177764 -52.711344009383
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (ADVP (JJR less)))))
+-16.752458803852 -56.192003074165
+(S1 (S (CC And) (NP (PRP it)) (VP (NNS costs) (NP (RBR less)))))
+-16.820910636879 -53.451484617715
+(S1 (S (CC And) (NP (PRP it)) (ADJP (NP (NNS costs)) (JJR less))))
+-16.861990514964 -52.222099622711
+(S1 (X (CC And) (S (NP (PRP it)) (VP (VBZ costs) (NP (JJR less))))))
+-16.988612860614 -57.803193598323
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADVP (RB less))))))
+-17.463495659788 -57.700558651363
+(S1 (S (CC And) (S (NP (PRP it)) (VP (NNS costs) (NP (JJR less))))))
+-17.616107665655 -54.164243688328
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (S (ADJP (JJR less))))))
+-17.632594397969 -55.295501092624
+(S1 (FRAG (S (CC And) (NP (PRP it)) (VP (VBZ costs) (NP (JJR less))))))
+-17.698045831371 -53.929801170351
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADVP (JJR less))))))
+-17.802947875270 -56.632256293223
+(S1 (S (NP (CC And) (NP (PRP it))) (VP (VBZ costs) (NP (JJR less)))))
+-17.954414545705 -55.116263956327
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (ADJP (RBR less)))))
+-18.108168034145 -55.398653693210
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (S (ADVP (RBR less))))))
+-18.194059524285 -49.752418444677
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADJP (JJR less))))))
+-18.374533137554 -53.262301431955
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ costs) (S (ADJP (RBR less))))))
+-18.382181806342 -50.980770400711
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ costs) (NP (RBR less))))))
+-18.437676731096 -57.893627442537
+(S1 (S (NP (CC And) (PRP it)) (VP (VBZ costs) (NP (JJR less)))))
+-18.618019455844 -55.331967454919
+(S1 (S (CC And) (NP (PRP it)) (NP (NNS costs)) (ADJP (JJR less))))
+-18.752784839160 -53.565545157463
+(S1 (X (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADJP (JJR less))))))
+-18.811184435717 -54.324554042599
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADVP (RBR less))))))
+-18.937775943687 -55.382700827511
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (S (ADJP (JJR less)))))))
+-18.939353179094 -54.793897216057
+(S1 (X (CC And) (S (NP (PRP it)) (VP (VBZ costs) (NP (RBR less))))))
+-18.989111085925 -55.283671561297
+(S1 (S (CC And) (NP (PRP it)) (NP (NNS costs)) (ADJP (RBR less))))
+-19.255425853826 -56.200326760832
+(S1 (S (CC And) (NP (PRP it)) (ADVP (NP (NNS costs)) (RBR less))))
+-19.407872522043 -56.638946729937
+(S1 (FRAG (S (CC And) (NP (PRP it)) (VP (VBZ costs) (ADJP (JJR less))))))
+-19.574364972100 -57.867298685970
+(S1 (FRAG (S (CC And) (NP (PRP it)) (VP (VBZ costs) (NP (RBR less))))))
+-19.593485602177 -56.617110832393
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (S (ADVP (RBR less)))))))
+-19.606384864708 -56.334720959075
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADJP (RBR less))))))
+-19.616795160755 -57.317909657634
+(S1 (S (CC And) (NP (PRP it)) (VP (NNS costs) (S (ADJP (JJR less))))))
+-19.689794316678 -57.975701819060
+(S1 (S (NP (CC And) (NP (PRP it))) (VP (VBZ costs) (ADJP (JJR less)))))
+-19.765160922007 -56.101606712676
+(S1 (S (CC And) (NP (PRP it) (VBZ costs)) (ADJP (JJR less))))
+-19.859850705586 -54.480758571138
+(S1 (S (CC And) (S (NP (PRP it)) (VP (VBZ costs) (S (ADJP (RBR less)))))))
+-19.971574200431 -57.304159677508
+(S1 (X (CC And) (S (NP (PRP it)) (ADJP (NP (NNS costs)) (JJR less)))))
+-20.055580258350 -57.090931445042
+(S1 (S (CC And) (NP (PRP it)) (VP (NNS costs) (S (ADJP (RBR less))))))
+-20.127060249046 -55.973261055736
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ costs) (ADVP (JJR less))))))
+-20.159445294140 -57.934633709455
+(S1 (S (CC And) (NP (PRP it) (NNS costs)) (ADJP (RBR less))))
+-20.350357559632 -55.863971796791
+(S1 (S (CC And) (NP (PRP it) (VBZ costs)) (ADJP (RBR less))))
+-20.480320736010 -57.752903350051
+(S1 (FRAG (CC And) (S (NP (PRP it)) (ADJP (NP (NNS costs)) (JJR less)))))
+-21.322272958088 -57.426160784339
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ costs) (S (ADJP (JJR less)))))))
+-22.193026462775 -56.524218527966
+(S1 (FRAG (CC And) (S (NP (PRP it)) (VP (VBZ costs) (S (ADJP (RBR less)))))))
+

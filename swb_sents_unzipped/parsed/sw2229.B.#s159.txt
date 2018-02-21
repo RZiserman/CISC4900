@@ -1,0 +1,102 @@
+50 x
+-22.661121311330 -85.090307514507
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-25.251902859377 -90.746599195124
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (JJ incline)))))
+-25.758643892310 -96.097480504801
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NNS incline)))))
+-25.877826322637 -96.774375399635
+(S1 (S (NP (JJ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-27.727445703537 -96.634755170311
+(S1 (S (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-27.774531868542 -94.619837642972
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (S (NP (DT an) (NN incline))))))
+-28.258364063866 -98.388625985650
+(S1 (NP (PRP$ my) (NN treadmill) (S (VP (VBZ has) (NP (DT an) (NN incline))))))
+-28.373422737471 -102.430667080252
+(S1 (S (NP (JJ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (JJ incline)))))
+-29.081808760404 -107.781548389929
+(S1 (S (NP (JJ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NNS incline)))))
+-29.209754524982 -102.825930369100
+(S1 (NP (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-29.247372719369 -97.654648919674
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (S (NP (DT an) (JJ incline))))))
+-29.338913456801 -100.978182761054
+(S1 (S (NP (NP (PRP$ my)) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-29.579723295078 -101.287554428652
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (NP (NP (DT an)) (NN incline)))))
+-29.621543084889 -100.955418612029
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (ADJP (DT an) (JJ incline)))))
+-30.011382280190 -107.443799360232
+(S1 (S (NP (PRP$ my) (NNS treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-30.033708362735 -102.291046850928
+(S1 (S (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (NP (DT an) (JJ incline)))))
+-30.154611045962 -103.388559940427
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (SBAR (S (NP (DT an) (NN incline)))))))
+-30.167912297632 -106.592526141891
+(S1 (S (NP (PRP$ my) (NN treadmill)) (S (VP (VBZ has) (NP (DT an) (NN incline))))))
+-30.258865310883 -100.566586469035
+(S1 (S (NP (PRP$ my) (NX (NN treadmill))) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-30.485277495668 -107.641928160605
+(S1 (S (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (NP (DT an) (NNS incline)))))
+-30.887432568219 -105.078706739015
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (S (NP (DT an) (NNS incline))))))
+-30.991236871484 -106.303905528100
+(S1 (S (NP (JJ my) (NN treadmill)) (VP (VBZ has) (S (NP (DT an) (NN incline))))))
+-31.242208944282 -112.607958025348
+(S1 (NP (NP (JJ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-31.254886429009 -104.002698581937
+(S1 (S (NP (PRP$ my) (NN treadmill) (S (VP (VBZ has) (NP (DT an) (NN incline)))))))
+-31.358638005895 -107.635759252007
+(S1 (S (NP (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NN incline))))))
+-31.626494192577 -106.897562991954
+(S1 (NP (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-31.681178052324 -104.241210279274
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (S (ADJP (DT an) (JJ incline))))))
+-31.819836380417 -105.294523044903
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (ADJP (NP (DT an)) (JJ incline)))))
+-31.929694979758 -106.634474441671
+(S1 (S (NP (NP (PRP$ my)) (NN treadmill)) (VP (VBZ has) (NP (DT an) (JJ incline)))))
+-31.948781120421 -109.395798975944
+(S1 (NP (PRP$ my) (NN treadmill) (S (VP (VBZ has) (NP (DT an) (NNS incline))))))
+-32.064304950488 -104.044917666267
+(S1 (NP (PRP$ my) (NN treadmill) (S (VP (VBZ has) (NP (DT an) (JJ incline))))))
+-32.368892591887 -109.338716804802
+(S1 (S (NP (JJ my) (NN treadmill)) (VP (VBZ has) (S (NP (DT an) (JJ incline))))))
+-32.436436040568 -111.985355751347
+(S1 (S (NP (NP (PRP$ my)) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NNS incline)))))
+-32.525253305401 -110.474746624032
+(S1 (S (NP (NP (JJ my)) (NN treadmill)) (VP (VBZ has) (NP (DT an) (NN incline)))))
+-32.606389318164 -108.332397937064
+(S1 (NP (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (NP (DT an) (JJ incline)))))
+-32.701655849749 -106.164285298776
+(S1 (S (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (S (NP (DT an) (NN incline))))))
+-32.849646833840 -106.222878149652
+(S1 (S (NP (PRP$ my) (NX (NN treadmill))) (VP (VBZ has) (NP (DT an) (JJ incline)))))
+-33.126232098466 -112.248817822508
+(S1 (S (NP (PRP$ my) (NN treadmill)) (S (VP (VBZ has) (NP (DT an) (JJ incline))))))
+-33.356387894650 -111.573759459329
+(S1 (S (NP (PRP$ my) (NX (NN treadmill))) (VP (VBZ has) (NP (DT an) (NNS incline)))))
+-33.374859539626 -111.484121618818
+(S1 (NP (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (S (NP (DT an) (NN incline))))))
+-33.421342101746 -107.918155912513
+(S1 (NP (PRP$ my) (NN treadmill) (S (VP (VBZ has) (S (NP (DT an) (NN incline)))))))
+-33.889977806151 -109.199096575478
+(S1 (S (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (S (NP (DT an) (JJ incline))))))
+-34.452324005649 -110.507712889519
+(S1 (S (NP (NP (PRP$ my)) (NN treadmill)) (VP (VBZ has) (S (NP (DT an) (NN incline))))))
+-34.483319008248 -112.499866267833
+(S1 (S (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (ADJP (DT an) (JJ incline)))))
+-34.484580904746 -111.180828260008
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (S (ADJP (NP (DT an)) (JJ incline))))))
+-34.737363119844 -109.658990262554
+(S1 (S (NP (PRP$ my) (NN treadmill) (S (VP (VBZ has) (NP (DT an) (JJ incline)))))))
+-34.738610113637 -112.404030559918
+(S1 (NP (NP (PRP$ my) (JJ treadmill)) (VP (VBZ has) (NP (DT an) (JJ incline)))))
+-35.178739332956 -111.954064017342
+(S1 (S (NP (PRP$ my) (NN treadmill)) (VP (VBZ has) (S (NP (NP (DT an)) (NN incline))))))
+-35.315449669731 -110.096116597500
+(S1 (S (NP (PRP$ my) (NX (NN treadmill))) (VP (VBZ has) (S (NP (DT an) (NN incline))))))
+-36.096458791149 -110.952967189215
+(S1 (NP (PRP$ my) (NN treadmill) (S (VP (VBZ has) (S (NP (DT an) (JJ incline)))))))
+

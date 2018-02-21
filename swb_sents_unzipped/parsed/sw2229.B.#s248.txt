@@ -1,0 +1,102 @@
+50 x
+-15.143997827620 -52.728452396943
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later)))))
+-15.842732939708 -53.489253310098
+(S1 (S (VP (VBP Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later)))))
+-16.353449718724 -54.267833153063
+(S1 (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later))))
+-17.436677947266 -55.500919930488
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (RBR later)))))
+-17.684471132188 -58.592098289763
+(S1 (S (VP (NN Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later)))))
+-17.801968749741 -55.323547962986
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later)))))))
+-17.954587539001 -54.927402621339
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (PRP you) (RB later))))))
+-17.976088507469 -55.594693313941
+(S1 (S (VP (VBP Talk) (PP (TO to) (NP (PRP you))) (ADVP (RBR later)))))
+-18.219693203343 -58.126738131317
+(S1 (S (VP (VBP Talk) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later)))))))
+-18.533750292603 -57.730592789669
+(S1 (S (VP (VBP Talk) (PP (TO to) (NP (PRP you) (RB later))))))
+-18.670945713305 -57.329289839354
+(S1 (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (RBR later))))
+-18.689477491396 -59.433692545598
+(S1 (FRAG (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later)))))
+-18.770434481849 -58.476170644496
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (JJ later)))))
+-18.849454749022 -58.827050757414
+(S1 (FRAG (S (VP (VBP Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later))))))
+-18.880062116011 -60.805186148158
+(S1 (S (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you)))) (ADJP (JJ later))))
+-18.929389429525 -58.353346985901
+(S1 (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you))) (ADVP (RB later))))
+-19.142575250852 -59.870627642690
+(S1 (S (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you)))) (ADVP (RB later))))
+-19.200550063725 -58.566599569616
+(S1 (S (VP (VBP Talk) (PP (TO to) (NP (PRP you))) (ADVP (JJ later)))))
+-19.214144879548 -57.581433129316
+(S1 (VP (VB Talk) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later))))))
+-19.249629034654 -61.788827308026
+(S1 (FRAG (S (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later))))))
+-19.318955631808 -57.185287787669
+(S1 (VP (VB Talk) (PP (TO to) (NP (PRP you) (RB later)))))
+-19.498920951574 -59.392559891104
+(S1 (NP (NP (VB Talk)) (PP (TO to) (NP (PRP you))) (ADVP (RB later))))
+-19.633003887621 -56.875728728775
+(S1 (S (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you)))) (ADJP (RB later))))
+-19.686828544972 -61.145699451736
+(S1 (FRAG (VP (VBP Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later)))))
+-19.709699672511 -60.125631848456
+(S1 (S (VP (NN Talk) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later)))))))
+-19.933609261771 -59.729486506809
+(S1 (S (VP (NN Talk) (PP (TO to) (NP (PRP you) (RB later))))))
+-20.048758068475 -60.811646133239
+(S1 (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (JJ later))))
+-20.189424293747 -61.912871464176
+(S1 (NP (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you)))) (ADVP (RB later))))
+-20.217230936210 -62.370655523602
+(S1 (NP (NP (NN Talk)) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later))))))
+-20.226877012907 -62.870286892642
+(S1 (FRAG (VP (NN Talk) (PP (TO to) (NP (PRP you))) (ADVP (RB later)))))
+-20.253373340614 -60.996118579918
+(S1 (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you) (RB later)))))
+-20.329450434809 -59.657028334352
+(S1 (S (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you)))) (ADJP (RBR later))))
+-20.405207551694 -61.386474776799
+(S1 (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you))) (ADVP (RBR later))))
+-20.586854759101 -61.288027193333
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (NP (PRP you)) (ADVP (RBR later)))))))
+-20.617039046856 -62.469070877066
+(S1 (NP (NP (NP (VB Talk)) (PP (TO to) (NP (PRP you)))) (ADVP (RB later))))
+-20.639970595463 -62.186865962366
+(S1 (FRAG (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you)))) (ADVP (RB later))))
+-20.642825933836 -61.185677121821
+(S1 (NP (NP (VB Talk)) (PP (TO to) (NP (PRP you) (RB later)))))
+-20.677974332221 -62.560214065505
+(S1 (NP (NP (VB Talk)) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later))))))
+-20.764072728539 -61.342656066598
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (PRP you) (JJ later))))))
+-20.910241976782 -60.932490761257
+(S1 (FRAG (S (VP (VBP Talk) (PP (TO to) (NP (PRP you))) (ADVP (RBR later))))))
+-20.934405143190 -62.495149231889
+(S1 (FRAG (VP (VB Talk) (PP (TO to) (NP (PRP you))) (ADVP (RBR later)))))
+-20.991104404846 -61.631961244014
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (PRP you))) (S (ADJP (RB later))))))
+-21.196852986628 -62.600915616777
+(S1 (S (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you)))) (ADVP (RBR later))))
+-21.325202118907 -62.097231867946
+(S1 (S (VP (VB Talk) (PP (TO to) (NP (PRP you))) (S (ADJP (RBR later))))))
+-21.485774636015 -61.052862145369
+(S1 (S (VP (VB Talk) (PP (TO to) (S (NP (PRP you)) (ADJP (RBR later)))))))
+-21.519036888372 -62.747292568370
+(S1 (FRAG (VP (VB Talk) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later)))))))
+-21.614572462798 -62.823770185396
+(S1 (S (NP (NN Talk)) (PP (TO to) (NP (NP (PRP you)) (ADVP (RB later))))))
+-21.623847640632 -62.351147226723
+(S1 (FRAG (VP (VB Talk) (PP (TO to) (NP (PRP you) (RB later))))))
+-22.005966520849 -62.723546067579
+(S1 (S (NP (NN Talk)) (PP (TO to) (NP (PRP you) (RB later)))))
+-22.615257602423 -62.367935278000
+(S1 (S (NP (NP (NN Talk)) (PP (TO to) (NP (PRP you) (RB later))))))
+

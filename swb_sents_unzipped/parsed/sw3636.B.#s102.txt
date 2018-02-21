@@ -1,0 +1,102 @@
+50 x
+-31.165433504232 -110.680404244636
+(S1 (S (CC And) (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-32.163833727068 -113.643251997325
+(S1 (S (CC And) (S (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))))
+-32.368394503734 -110.308542239637
+(S1 (FRAG (CC And) (PP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-32.719831000414 -113.004298438647
+(S1 (FRAG (CC And) (ADVP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-32.748674637787 -114.578185373735
+(S1 (S (CC And) (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNP Redwoods))))))
+-32.909258379079 -110.107424782092
+(S1 (FRAG (CC And) (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-32.919366643055 -112.677359302543
+(S1 (FRAG (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-33.242959305570 -112.928199544857
+(S1 (FRAG (CC And) (PP (NN course) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-33.338164512653 -113.236957520692
+(S1 (X (CC And) (S (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))))
+-33.462053848781 -113.321117103626
+(S1 (FRAG (CC And) (S (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))))
+-33.522261352959 -110.543980967722
+(S1 (FRAG (X (CC And) (NP (NN course))) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-33.642717431351 -115.487265194793
+(S1 (FRAG (CC And) (ADVP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-33.650345615486 -114.842148335274
+(S1 (FRAG (CC And) (PP (NN course) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNP Redwoods))))))
+-33.674164678459 -113.306480957186
+(S1 (X (CC And) (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-33.706478576925 -115.307262589206
+(S1 (S (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNP Redwoods)))))
+-33.707862419909 -112.061112936185
+(S1 (FRAG (CC And) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-33.727980953492 -114.863835560522
+(S1 (S (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-33.833161845761 -114.033137146435
+(S1 (S (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-33.846769690827 -110.619127295897
+(S1 (X (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-33.908926419430 -112.052702390928
+(S1 (X (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNP Redwoods)))))
+-33.952612429118 -115.485201952377
+(S1 (X (CC And) (PP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-33.967586254961 -115.737500897626
+(S1 (S (NP (CC And) (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNP Redwoods)))))
+-33.995893393244 -116.021468394591
+(S1 (FRAG (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-34.137214061674 -114.463375454855
+(S1 (S (NP (CC And) (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-34.138196775444 -110.681850347475
+(S1 (X (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-34.230367879956 -115.850360189291
+(S1 (S (NP (CC And) (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-34.302711435961 -114.068100891145
+(S1 (FRAG (CC And) (PP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNP Redwoods))))))
+-34.547514323419 -115.729802866241
+(S1 (FRAG (NP (CC And) (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-34.547661053756 -114.005205911190
+(S1 (FRAG (CC And) (VP (NN course) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNP Redwoods))))))
+-34.608149307025 -116.616516916269
+(S1 (FRAG (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNP Redwoods)))))
+-34.643412932549 -114.367427210239
+(S1 (FRAG (CC And) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-34.928744516446 -114.761643533493
+(S1 (FRAG (X (CC And) (NP (NN course))) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-34.941994084969 -114.137916683238
+(S1 (X (NP (CC And) (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-35.039470804186 -116.361775862159
+(S1 (FRAG (X (CC And) (NP (NN course))) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNP Redwoods)))))
+-35.159726069142 -115.910067502172
+(S1 (FRAG (CC And) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNP Redwoods))))))
+-35.297472086929 -114.483138581448
+(S1 (FRAG (X (CC And) (NP (NN course))) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNP Redwoods)))))
+-35.380479496190 -114.682315664820
+(S1 (X (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNP Redwoods)))))
+-35.406543696333 -113.803207042711
+(S1 (FRAG (CC And) (ADVP (NN course)) (NP (DT the) (DT the) (NNP Sequoias) (CC and) (DT the) (NNPS Redwoods))))
+-35.519859118213 -114.985925108934
+(S1 (X (CC And) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-35.547657045727 -116.625934868348
+(S1 (X (CC And) (NP (NN course)) (NP (DT the) (NP (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-35.749441449477 -116.206795414398
+(S1 (X (NP (CC And) (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-35.933759419703 -116.104553212370
+(S1 (FRAG (CC And) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNPS Sequoias)) (CC and) (NP (DT the) (NNP Redwoods))))))
+-36.008847627001 -114.714544700636
+(S1 (FRAG (CC And) (NP (NN course)) (NP (DT the) (DT the) (NNP Sequoias) (CC and) (DT the) (NNPS Redwoods))))
+-36.104893687134 -111.816762248580
+(S1 (X (CC And) (NP (NN course)) (NP (DT the) (DT the) (NNP Sequoias) (CC and) (DT the) (NNPS Redwoods))))
+-36.297660582250 -116.726382401837
+(S1 (X (CC And) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods))))))
+-36.326655311153 -115.691323220860
+(S1 (FRAG (CC And) (PP (NN course) (NP (DT the) (DT the) (NNP Sequoias) (CC and) (DT the) (NNPS Redwoods)))))
+-36.368637044906 -112.581166365816
+(S1 (FRAG (X (CC And) (NP (NN course))) (NP (DT the) (DT the) (NNP Sequoias) (CC and) (DT the) (NNPS Redwoods))))
+-36.644080673328 -116.361975814864
+(S1 (FRAG (CC And) (NP (NP (NN course)) (NP (DT the) (DT the) (NNP Sequoias) (CC and) (DT the) (NNPS Redwoods)))))
+-36.757800309382 -116.193399933202
+(S1 (X (CC And) (NP (NN course)) (NP (DT the) (NP (DT the) (FW Sequoias)) (CC and) (NP (DT the) (NNPS Redwoods)))))
+-37.516868361276 -115.335551613385
+(S1 (X (NP (CC And) (NN course)) (NP (DT the) (DT the) (NNP Sequoias) (CC and) (DT the) (NNPS Redwoods))))
+

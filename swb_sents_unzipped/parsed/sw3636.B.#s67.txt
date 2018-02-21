@@ -1,0 +1,102 @@
+50 x
+-17.491216220911 -64.854074341198
+(S1 (S (CC But) (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))
+-19.121175953190 -66.708285246616
+(S1 (S (CC But) (S (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-20.297830682850 -71.451862759266
+(S1 (S (CC But) (WHNP (WDT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))
+-20.400687073363 -72.030155872934
+(S1 (S (CC But) (NP (DT that)) (VP (VBZ is) (NP (NNP God) (POS 's) (NN country)))))
+-20.649581104076 -67.760607615720
+(S1 (S (CC But) (NP (IN that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))
+-20.829308912797 -69.338318254292
+(S1 (S (CC But) (NP (WDT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))
+-21.160113697608 -67.449326838518
+(S1 (FRAG (CC But) (S (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-21.171849042441 -72.132212887749
+(S1 (S (CC But) (SBAR (IN that) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-21.214292460747 -71.801063495147
+(S1 (S (CC But) (SBAR (S (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-21.269893775825 -68.661766625578
+(S1 (FRAG (CC But) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-21.311387635357 -69.237282411102
+(S1 (FRAG (CC But) (SBAR (IN that) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-21.726608876220 -68.611520767839
+(S1 (S (CC But) (NP (DT that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))
+-21.808821780278 -75.052150782175
+(S1 (S (CC But) (RB that) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))
+-22.013305485642 -73.884366778352
+(S1 (S (CC But) (S (NP (DT that)) (VP (VBZ is) (NP (NNP God) (POS 's) (NN country))))))
+-22.199426867443 -69.712560984800
+(S1 (SINV (CONJP (CC But) (RB that)) (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))
+-22.304182315557 -72.214069884329
+(S1 (FRAG (CC But) (SBAR (S (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-22.475429439559 -75.946912630101
+(S1 (S (ADVP (RB But)) (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))
+-22.489022420269 -75.501206070724
+(S1 (SBAR (CC But) (S (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-22.532414028441 -75.824290454043
+(S1 (FRAG (S (CC But) (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-22.645993870567 -74.071003862233
+(S1 (S (ADVP (CC But)) (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))
+-22.802720482564 -71.311822287666
+(S1 (FRAG (CC But) (SBAR (DT that) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-23.162052331815 -75.681020611228
+(S1 (SBAR (CC But) (SBAR (IN that) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-23.193288651952 -70.465731798503
+(S1 (S (CC But) (S (NP (DT that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country)))))))))
+-23.205563103722 -71.766935923338
+(S1 (S (CC But) (S (NP (IN that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-23.332707502197 -73.453352725830
+(S1 (S (CC But) (NP (DT that)) (VP (VBZ is) (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country)))))))
+-23.398175856160 -72.870385524766
+(S1 (S (CC But) (S (NP (WDT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-23.561022448155 -75.476003874444
+(S1 (FRAG (SBAR (CC But) (S (NP (DT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-23.575653303528 -74.936689147455
+(S1 (S (CC But) (NP (IN that)) (VP (VBZ is) (NP (NNP God) (POS 's) (NN country)))))
+-23.747821038963 -75.894198126977
+(S1 (S (CC But) (NP (DT that)) (VP (VBZ is) (NP (NP (NP (NNP God)) (POS 's)) (NN country)))))
+-23.826708193122 -73.629820848585
+(S1 (FRAG (CC But) (SBAR (WHNP (DT that)) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-24.014522439701 -75.655818414947
+(S1 (FRAG (SBAR (CC But) (SBAR (IN that) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))))
+-24.065344860060 -74.625408370253
+(S1 (FRAG (CC But) (S (NP (DT that)) (VP (VBZ is) (NP (NNP God) (POS 's) (NN country))))))
+-24.242049135277 -75.837848157313
+(S1 (FRAG (CC But) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NNP God) (POS 's) (NN country)))))))
+-24.354484396594 -75.710662558056
+(S1 (FRAG (CC But) (SBAR (WHNP (IN that)) (S (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-24.508713266224 -75.961578670838
+(S1 (S (CC But) (SBAR (S (NP (IN that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country)))))))
+-24.597295275159 -75.209309185906
+(S1 (S (CC But) (WHNP (WDT that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))
+-24.811415494990 -75.307563710677
+(S1 (S (CC But) (S (NP (DT that)) (VP (VBZ is) (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))
+-24.943691738597 -71.518054042361
+(S1 (S (CC But) (NP (IN that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))
+-24.953985143217 -72.196387926850
+(S1 (FRAG (CC But) (S (NP (IN that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-25.207871465106 -73.095764680933
+(S1 (S (CC But) (NP (WDT that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))
+-25.211682849771 -73.256065474804
+(S1 (FRAG (CC But) (S (NP (WDT that)) (VP (VBZ is) (NP (NP (NNP God) (POS 's)) (NN country))))))
+-25.278644907593 -71.206773290601
+(S1 (FRAG (CC But) (S (NP (DT that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country)))))))))
+-25.367855864329 -75.558509870426
+(S1 (S (CC But) (SBAR (S (NP (DT that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))))
+-25.756931169355 -75.889659482741
+(S1 (S (CC But) (SBAR (IN that) (S (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))))
+-26.038449889159 -72.994729006095
+(S1 (FRAG (CC But) (SBAR (IN that) (S (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))))
+-26.219642212218 -75.926438563674
+(S1 (S (CC But) (SBAR (WHNP (WDT that)) (S (VP (VBZ is)))) (NP (NNP God)) (VP (VBZ 's) (NP (NN country)))))
+-26.500930671838 -72.419213220570
+(S1 (FRAG (CC But) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))))
+-27.336393787272 -75.524382475224
+(S1 (S (CC But) (S (NP (IN that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country)))))))))
+-27.428145631578 -75.069268882659
+(S1 (FRAG (CC But) (SBAR (DT that) (S (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country))))))))))
+-29.131234335202 -75.953834378933
+(S1 (FRAG (CC But) (S (NP (IN that)) (VP (VBZ is) (SBAR (S (NP (NNP God)) (VP (VBZ 's) (NP (NN country)))))))))
+

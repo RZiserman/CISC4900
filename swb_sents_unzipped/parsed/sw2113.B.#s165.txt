@@ -1,0 +1,102 @@
+50 x
+-16.461335296049 -46.988673674079
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-16.810174926121 -47.397020542126
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-17.358422350137 -51.903203004201
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-17.524572897218 -50.965664851252
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-17.674225097840 -47.718830266100
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-18.611871054721 -52.082492123772
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny))))))
+-18.632738490077 -53.501772909778
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-18.836715902234 -55.433598170759
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (POS 's) (ADJP (JJ funny)))))
+-18.863942173433 -56.726958041989
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (POS 's) (ADJP (JJ funny)))))
+-18.899248215252 -57.776930666635
+(S1 (S (NP (RB Well) (DT that)) (VP (POS 's) (ADJP (JJ funny)))))
+-18.949740637254 -53.546335504340
+(S1 (SBAR (RB Well) (DT that) (S (VP (VBZ 's) (ADJP (JJ funny))))))
+-19.049343036168 -51.327201912284
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-19.161001071667 -58.221876026286
+(S1 (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-19.170665769114 -53.532351340074
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-19.210352690568 -57.805523039073
+(S1 (S (RB Well) (NP (DT that)) (VP (POS 's) (ADJP (JJ funny)))))
+-19.385592365316 -55.932220384391
+(S1 (S (CONJP (RB Well) (RB that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-19.425366624480 -54.470457921310
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ 's) (ADJP (JJ funny))))))
+-19.641647096012 -54.042367228715
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-19.771468684196 -56.159530878340
+(S1 (S (NP (RB Well) (WDT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-19.977234161768 -58.161103632654
+(S1 (ADJP (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-20.041097077312 -55.273159451406
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (JJ funny)))))
+-20.064858292057 -53.016965309750
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-20.360380502846 -57.652019699306
+(S1 (SBAR (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-20.365410048004 -54.211182469504
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-20.389936707383 -55.681506319453
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (JJ funny)))))
+-20.406715658599 -58.242086158551
+(S1 (ADJP (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-20.479930599530 -52.947202757298
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (ADJP (JJ funny))))))
+-20.525568149210 -53.302071901224
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-20.543171357635 -54.168886536333
+(S1 (S (INTJ (UH Well)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-20.812468827256 -58.320046309593
+(S1 (S (NP (QP (RB Well) (DT that))) (VP (VBZ 's) (ADJP (JJ funny)))))
+-20.879617624371 -56.062870538367
+(S1 (S (ADVP (RB Well)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-20.930307380304 -57.306674277522
+(S1 (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (ADJP (JJ funny))))))
+-20.950722553735 -57.918024054152
+(S1 (FRAG (RB Well) (SBAR (DT that) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-21.018380546030 -54.453993256346
+(S1 (S (INTJ (UH Well)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-21.116306459717 -57.662308336282
+(S1 (S (ADVP (UH Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-21.185913509752 -56.236973338735
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (VP (JJ funny)))))
+-21.224803377995 -58.217060608680
+(S1 (SBAR (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-21.253986876315 -56.003316043427
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (JJ funny)))))
+-21.291130454756 -58.443401924943
+(S1 (FRAG (INTJ (UH Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+-21.317907355605 -58.003163955831
+(S1 (FRAG (S (NP (RB Well) (DT that)) (VP (VBZ 's) (ADJP (JJ funny))))))
+-21.342985405630 -57.901935931566
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (ADVP (JJ funny)))))
+-21.515883316567 -54.490696260307
+(S1 (S (INTJ (RB Well)) (NP (IN that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-21.530143169824 -56.645320206781
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (VP (JJ funny)))))
+-21.630725425788 -58.070368563574
+(S1 (S (ADVP (RB Well)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-21.691825035701 -58.310282799613
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (ADVP (JJ funny)))))
+-21.957100986453 -57.463433285597
+(S1 (FRAG (CONJP (RB Well) (RB that)) (S (VP (VBZ 's) (ADJP (JJ funny))))))
+-21.977110164961 -54.775802980319
+(S1 (S (INTJ (RB Well)) (NP (WDT that)) (VP (VBZ 's) (ADJP (JJ funny)))))
+-22.149770753917 -57.522335942960
+(S1 (FRAG (NP (NP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny))))))))
+-22.398803308755 -56.967129930755
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (VP (JJ funny)))))
+-22.543347173433 -57.805042071938
+(S1 (FRAG (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (ADJP (JJ funny)))))))
+

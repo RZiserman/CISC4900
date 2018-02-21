@@ -1,0 +1,102 @@
+50 x
+-52.417903187372 -172.789913721413
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-53.858709417867 -175.127909229214
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-53.900622165208 -175.435106305139
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-54.105528146862 -175.587141783024
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-54.537212865705 -178.802313072758
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (NN kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-54.761483945315 -176.921939304551
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-54.991732325046 -178.613592125154
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.077964665074 -180.276669842805
+(S1 (S (CC But) (NP (PRP he)) (S (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot))))))))
+-55.146905816175 -174.823361178198
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-55.226742577357 -177.925137290824
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.300978159802 -178.131247480338
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.341428395702 -177.773101812939
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.381272348822 -177.774136136529
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.491024938124 -179.069883646480
+(S1 (S (CC But) (NP (NP (PRP he)) (NP (PRP he))) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.550763490476 -178.776416428090
+(S1 (S (CC But) (NP (PRP he)) (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot))))))))
+-55.588247096820 -178.232334345281
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.669921061277 -178.729817291482
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (NN kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-55.685731656726 -178.069266434708
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (IN as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.706729955824 -179.327937889476
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (RB kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.820410984747 -179.100120563965
+(S1 (S (CC But) (NP (NP (PRP he)) (NP (PRP he))) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.932212438809 -177.977652933317
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (RB not) (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-55.978019096199 -181.140308580558
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (NN kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-56.017863049319 -181.141342904148
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (NN kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-56.028992355809 -179.259934812351
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-56.414414226669 -177.161356685998
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-56.432538555540 -180.951587632954
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-56.434353415049 -179.719167237323
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-56.587909635789 -177.162390964095
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-56.667845830770 -177.519502353396
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-56.709461555192 -180.570329853081
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-56.741784390297 -180.469242988138
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-56.781628343417 -180.470277311728
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-56.818271900970 -181.114411935890
+(S1 (S (CC But) (NP (PRP he)) (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot))))))))
+-56.819775313787 -177.620589172848
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-56.936373866215 -180.866494496318
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (VP (VP (ADVP (NN kind) (IN of)) (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (ADJP (IN as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-56.937429471771 -181.067812799282
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (NN kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-56.988603091414 -180.928475520480
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-57.031413646212 -181.115446129412
+(S1 (S (CC But) (NP (PRP he)) (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot))))))))
+-57.110924880891 -181.068847077380
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (NN kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-57.157442725776 -177.365907760884
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (RB not) (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-57.168450634561 -180.714459018434
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (IN as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-57.332568433404 -180.673794108516
+(S1 (S (CC But) (NP (PRP he)) (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (ADJP (RB not) (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))
+-57.436712527555 -180.947663113013
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot))))))))
+-57.767691924281 -179.958584680648
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-57.935354241264 -179.857497861197
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-58.108849622506 -179.858532139294
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-58.340715300504 -180.316730348047
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably) (RB not)) (ADJP (ADJP (RB as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-58.414734285528 -180.102713891492
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (RB not) (ADJP (ADJP (IN as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-58.678382712493 -180.062048936083
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NP (NN something)) (PP (TO to) (NP (PRP me))))) (CONJP (RB about) (RB probably)) (ADJP (RB not) (RB as) (JJ bad) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+-59.578919591912 -180.819637513642
+(S1 (S (CC But) (NP (PRP he)) (SBAR (S (NP (PRP he)) (ADVP (RB kind) (IN of)) (VP (VP (VBD said) (NP (NN something)) (PP (TO to) (NP (PRP me)))) (CONJP (RB about) (RB probably)) (ADJP (ADJP (RB not) (IN as) (JJ bad)) (PP (IN as) (NP (PRP$ your) (NN foot)))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-15.047709394021 -66.238938050060
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-15.552264160412 -70.083037316207
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-16.497210125690 -68.155258546086
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))))
+-16.794687237068 -65.580303629159
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))
+-17.232551963993 -73.035456498453
+(S1 (S (NP (WP what)) (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-17.514754845751 -72.704583664985
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-17.792100011594 -70.262894013615
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-17.834940151172 -76.548683073430
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))
+-17.987262885113 -77.583825276002
+(S1 (S (WHNP (WP what)) (VP (POS 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-18.009738960934 -75.452316503264
+(S1 (S (WHNP (WDT what)) (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-18.192476165309 -77.736601855202
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (S (VP (VBG looking) (PP (IN for))))))))))))
+-18.239379250176 -75.611404179399
+(S1 (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-18.919084982179 -70.943630140548
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-18.946123042960 -71.482635249085
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))
+-18.964255577421 -74.620904161011
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-19.001492964921 -71.429490809797
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))
+-19.290983548570 -74.787729406695
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (NP (DT the) (NN word) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-19.302482190988 -75.326734489074
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))
+-19.404441261095 -74.284286314710
+(S1 (FRAG (X (WP what)) (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-19.481592351082 -70.536644466768
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-19.634870482917 -77.503526255748
+(S1 (FRAG (SBAR (WHNP (WDT what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))))
+-19.902651653839 -76.931344258003
+(S1 (FRAG (WHNP (WDT what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-19.995611479417 -77.077967387460
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (S (VP (VBG looking) (PP (IN for)))))))
+-20.074775960536 -76.728539614113
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-20.133587529711 -78.197414161416
+(S1 (S (WHNP (WP what)) (VP (POS 's) (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))
+-20.232222038686 -74.380743732915
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (NP (DT the) (NN word) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))
+-20.286393212377 -73.107874044618
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-20.368585713849 -72.859950636574
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))))
+-20.395623774629 -73.398955745111
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-20.750729308768 -76.951973310765
+(S1 (S (WHNP (WP what)) (VP (VBZ 's) (NP (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))
+-20.931093079964 -72.452964962794
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-20.971271352152 -77.740148588941
+(S1 (S (NP (WP what)) (VP (VBZ 's) (NP (DT the) (NN word) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-20.982769994569 -78.279153671319
+(S1 (S (NP (WP what)) (VP (VBZ 's) (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))
+-21.282705882733 -75.568989079458
+(S1 (FRAG (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))
+-21.530819399752 -74.967586104104
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-21.542318039381 -75.506591172878
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))
+-21.735893944047 -75.024194540644
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))))
+-21.912509845055 -77.333162915161
+(S1 (S (NP (WP what)) (VP (VBZ 's) (NP (DT the) (NN word) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))
+-21.944634784224 -78.857439619886
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (IN for)))))
+-22.418583318114 -78.226315552843
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PRT (IN for))))))
+-22.472057892655 -74.560600430323
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-22.487036924409 -74.357039961378
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (RP for))))))
+-22.732323056873 -77.114755554421
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PRT (RP for))))))
+-22.806002043362 -75.015674382280
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (RP for)))))))))))
+-22.903381854533 -77.982305869441
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))
+-22.990565162738 -77.131830008173
+(S1 (FRAG (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for))))))))))
+-23.330457103396 -78.844064772659
+(S1 (FRAG (X (WP what)) (VP (VBZ 's) (NP (DT the) (NN word) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for)))))))))
+-23.338038268614 -77.773389975322
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PRT (RP for)))))))))))
+-24.408201307032 -76.931994878306
+(S1 (FRAG (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT the) (NN word)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (RP for))))))))))))
+-24.445408628377 -78.850408704802
+(S1 (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN word))))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (S (ADJP (IN for)))))))
+

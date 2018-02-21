@@ -1,0 +1,102 @@
+50 x
+-16.048633038254 -51.901911341366
+(S1 (S (CC and) (NP (NN time) (NN consuming))))
+-16.742227128271 -57.292354162706
+(S1 (S (CC and) (VP (VB time) (NP (NN consuming)))))
+-16.949576193324 -54.665738314171
+(S1 (NP (CC and) (NN time) (NN consuming)))
+-16.975537219477 -49.956882824301
+(S1 (X (CC and) (NP (NN time) (NN consuming))))
+-17.070119107042 -52.652945415956
+(S1 (FRAG (CC and) (NP (NN time) (NN consuming))))
+-17.092286192016 -54.784316942845
+(S1 (NP (CC and) (NP (NN time) (NN consuming))))
+-18.350483100786 -59.533942191395
+(S1 (S (CC and) (VP (NN time) (NP (NN consuming)))))
+-18.390901952931 -56.035593749660
+(S1 (FRAG (CC and) (VP (VB time) (NP (NN consuming)))))
+-18.667593006951 -58.614698319379
+(S1 (S (CC and) (NP (NN time)) (VP (NN consuming))))
+-18.968530888824 -59.516365914586
+(S1 (S (CC and) (S (NP (NN time) (NN consuming)))))
+-18.970400168191 -60.180235884414
+(S1 (SQ (CC and) (NP (NN time) (NN consuming))))
+-19.240826325748 -60.724010278196
+(S1 (FRAG (CC and) (NP (VB time) (NN consuming))))
+-19.416548548121 -56.617259358798
+(S1 (FRAG (CC and) (VP (NN time) (NP (NN consuming)))))
+-19.456947694657 -58.325786025895
+(S1 (S (CC and) (NP (NN time)) (NP (NN consuming))))
+-19.488262051291 -56.360425972615
+(S1 (SQ (CC and) (FRAG (NP (NN time) (NN consuming)))))
+-19.531526063391 -56.308178142463
+(S1 (FRAG (CC and) (ADJP (NN time) (NN consuming))))
+-19.560472031117 -56.679904901524
+(S1 (FRAG (CC and) (ADVP (NN time)) (NP (NN consuming))))
+-19.724647893740 -58.260105701210
+(S1 (FRAG (CC and) (NP (NP (NN time)) (NP (NN consuming)))))
+-19.851427166529 -54.547291948488
+(S1 (X (CC and) (NP (NN time)) (NP (NN consuming))))
+-19.877124543910 -61.090193435205
+(S1 (X (CC and) (VP (VB time) (NP (NN consuming)))))
+-19.914527011423 -58.654273200568
+(S1 (S (CC and) (NP (NN time)) (ADJP (NN consuming))))
+-20.016508122468 -60.195582094923
+(S1 (S (CC and) (ADVP (NN time)) (NP (NN consuming))))
+-20.042217325970 -59.767348101008
+(S1 (FRAG (NP (CC and) (NN time) (NN consuming))))
+-20.062724907458 -59.778482179603
+(S1 (NP (CC and) (NP (NP (NN time)) (NP (NN consuming)))))
+-20.098637117693 -57.568070033702
+(S1 (FRAG (CC and) (FRAG (NP (NN time) (NN consuming)))))
+-20.142032246204 -61.173656183145
+(S1 (SQ (CC and) (NP (NN time)) (NP (NN consuming))))
+-20.239212766327 -61.384118158485
+(S1 (PP (CC and) (NP (NN time) (NN consuming))))
+-20.239387115559 -59.813114527702
+(S1 (S (NP (CC and) (NN time)) (VP (NN consuming))))
+-20.271506277138 -59.816315533892
+(S1 (X (CC and) (VP (NN time) (NP (NN consuming)))))
+-20.304953531742 -59.296913074625
+(S1 (X (NP (CC and) (NN time) (NN consuming))))
+-20.346582168503 -60.657920801293
+(S1 (NP (CC and) (NP (NP (NN time)) (VP (NN consuming)))))
+-20.362169930534 -59.373467131916
+(S1 (FRAG (CC and) (ADJP (NN time) (NP (NN consuming)))))
+-20.398819103166 -59.149944087253
+(S1 (FRAG (PP (CC and) (NP (NN time) (NN consuming)))))
+-20.463393799073 -58.685883966103
+(S1 (X (CC and) (S (NP (NN time) (NN consuming)))))
+-20.471991430461 -60.721778823264
+(S1 (FRAG (NP (CC and) (NP (NN time) (NN consuming)))))
+-20.518168062153 -58.602192341978
+(S1 (FRAG (CC and) (S (NP (NN time) (NN consuming)))))
+-20.623930682939 -60.709126344112
+(S1 (FRAG (CC and) (VP (NN time) (NN consuming))))
+-20.788827791008 -59.460091234526
+(S1 (S (NP (CC and) (NN time)) (NP (NN consuming))))
+-20.896131537750 -61.252125426443
+(S1 (NP (NP (CC and) (NN time)) (NN consuming)))
+-20.919967060626 -60.281954773191
+(S1 (FRAG (CC and) (NP (NP (NN time)) (VP (NN consuming)))))
+-20.988368655102 -60.473367322253
+(S1 (X (CC and) (S (VP (NN time) (NP (NN consuming))))))
+-21.022206564382 -60.557526959736
+(S1 (FRAG (CC and) (S (VP (NN time) (NP (NN consuming))))))
+-21.155035223489 -60.937577650277
+(S1 (X (PP (CC and) (NP (NN time) (NN consuming)))))
+-21.452021560614 -59.935746589861
+(S1 (FRAG (NP (CC and) (NN time)) (NP (NN consuming))))
+-21.497646651549 -61.034177109276
+(S1 (S (CC and) (NP (NN time)) (ADVP (NN consuming))))
+-21.608241726815 -61.138124640874
+(S1 (X (CC and) (NP (NP (NN time)) (NP (NN consuming)))))
+-21.743121890453 -60.253791932721
+(S1 (SQ (CC and) (FRAG (NP (NN time)) (NP (NN consuming)))))
+-21.792097211459 -60.781014528488
+(S1 (FRAG (CC and) (NP (NP (NN time)) (ADVP (NN consuming)))))
+-21.796678718412 -60.300305151180
+(S1 (S (NP (CC and) (NN time)) (ADJP (NN consuming))))
+-22.220543005067 -61.022525171533
+(S1 (FRAG (CC and) (FRAG (NP (NN time)) (NP (NN consuming)))))
+

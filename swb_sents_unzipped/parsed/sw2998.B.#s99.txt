@@ -1,0 +1,102 @@
+50 x
+-22.660281651094 -80.841941605243
+(S1 (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-22.803706157322 -78.042468857695
+(S1 (FRAG (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))))
+-23.120219407706 -78.094084273215
+(S1 (FRAG (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-23.284538247217 -81.821152324981
+(S1 (PP (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-23.869895676179 -81.288053165929
+(S1 (FRAG (PP (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))))
+-24.105734864663 -85.212077178673
+(S1 (SBAR (IN That) (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))
+-24.325399639375 -77.991528027664
+(S1 (FRAG (WHNP (WDT That)) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-24.339614657682 -86.688577816483
+(S1 (S (PP (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))))
+-24.342799097077 -85.691359970756
+(S1 (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-24.486223603304 -82.891887223208
+(S1 (FRAG (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))))
+-24.617785150983 -81.399036052255
+(S1 (SBAR (RB That) (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))
+-24.782971786477 -82.943502638728
+(S1 (FRAG (IN That) (SBAR (IN that) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-24.947290625988 -86.670570690494
+(S1 (PP (IN That) (SBAR (IN that) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-24.964430050103 -84.514486727188
+(S1 (FRAG (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (NN the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))))
+-25.107404592677 -82.798422045419
+(S1 (SBAR (WHPP (IN That) (WHNP (WDT that))) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))
+-25.237523149487 -84.566102142708
+(S1 (FRAG (IN That) (SBAR (IN that) (S (NP (DT the) (NN the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-25.354543913090 -85.622370363990
+(S1 (FRAG (SBAR (IN That) (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-25.532648052162 -86.137471531442
+(S1 (FRAG (PP (IN That) (SBAR (IN that) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))))
+-25.646165711477 -86.600584543681
+(S1 (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (NP (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful)))))))
+-25.667771297446 -85.985526579180
+(S1 (SBAR (IN That) (S (NP (IN that) (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))
+-25.789590220492 -83.801111796133
+(S1 (FRAG (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (NP (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful))))))))
+-25.899240029099 -84.181616791029
+(S1 (FRAG (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (NP (JJ awful))))))))
+-25.977997487864 -86.858991429526
+(S1 (FRAG (SBAR (IN That) (S (NP (DT that) (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-25.988152015358 -82.840946393177
+(S1 (FRAG (WHNP (WDT That)) (SBAR (IN that) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.022710686128 -86.860456573935
+(S1 (FRAG (ADVP (IN That)) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.123720782272 -84.233232206549
+(S1 (FRAG (IN That) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (NP (JJ awful)))))))
+-26.159522420877 -83.852727211653
+(S1 (FRAG (IN That) (SBAR (IN that) (S (NP (DT the) (NP (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.175554271195 -86.025414913700
+(S1 (SBAR (WHNP (WDT That)) (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))
+-26.189681667907 -84.084836441800
+(S1 (NP (NP (DT That)) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.280537529753 -86.248454417768
+(S1 (SBAR (RB That) (IN that) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))
+-26.442703381156 -84.463545897157
+(S1 (FRAG (WHNP (WDT That)) (SBAR (IN that) (S (NP (DT the) (NN the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.633344772284 -86.096435643421
+(S1 (FRAG (ADVP (RB That)) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.675890399124 -85.350042649588
+(S1 (FRAG (NP (DT That)) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.720263569070 -84.200534753393
+(S1 (FRAG (SBAR (WHPP (IN That) (WHNP (WDT that))) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-26.795837455012 -85.781084022093
+(S1 (FRAG (SBAR (IN That) (S (NP (IN that) (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-27.037185896535 -80.428202514602
+(S1 (FRAG (IN That) (SBAR (WHNP (WDT that)) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-27.304207474760 -86.605707243005
+(S1 (FRAG (SBAR (IN That) (SBAR (IN that) (S (NP (DT the) (NX (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful))))))))
+-27.347193211153 -84.130675960998
+(S1 (FRAG (WHNP (WDT That)) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (NP (JJ awful)))))))
+-27.364702652546 -83.750170966102
+(S1 (FRAG (WHNP (WDT That)) (SBAR (IN that) (S (NP (DT the) (NP (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful)))))))
+-27.505593267932 -86.657322658526
+(S1 (FRAG (IN That) (SBAR (IN that) (S (NP (DT the) (NX (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful)))))))
+-27.587889359494 -86.540422202868
+(S1 (FRAG (SBAR (IN That) (SBAR (WHNP (IN that)) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful))))))))
+-27.659563644237 -84.993017664096
+(S1 (FRAG (IN That) (SBAR (WHNP (IN that)) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-28.037236617517 -82.563750597443
+(S1 (NP (NP (DT That)) (SBAR (WHNP (IN that)) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-28.324976759476 -83.818496165645
+(S1 (FRAG (WHNP (WDT That)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-28.683757975306 -85.277620880115
+(S1 (FRAG (IN That) (SBAR (WHNP (WDT that)) (S (NP (DT the) (JJ the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-28.708721207802 -86.755072476170
+(S1 (FRAG (NP (WDT That)) (SBAR (IN that) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-28.710773496813 -86.554766412975
+(S1 (FRAG (WHNP (WDT That)) (SBAR (IN that) (S (NP (DT the) (NX (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful)))))))
+-28.819511058906 -84.890461418545
+(S1 (FRAG (WHNP (WDT That)) (SBAR (WHNP (IN that)) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (ADJP (JJ awful)))))))
+-29.976723715706 -86.186845453040
+(S1 (FRAG (IN That) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NP (DT the) (NN smell))) (VP (VBZ is) (ADJP (JJ awful)))))))
+-30.500608171101 -86.567350447936
+(S1 (FRAG (IN That) (SBAR (WHNP (WDT that)) (S (NP (DT the) (DT the) (NN smell)) (VP (VBZ is) (NP (JJ awful)))))))
+

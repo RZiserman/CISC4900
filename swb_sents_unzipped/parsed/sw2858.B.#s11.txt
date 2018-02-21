@@ -1,0 +1,102 @@
+50 x
+-15.108588394255 -45.457554905822
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (VBN married))))
+-15.140639942693 -46.499270033238
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (JJ married))))
+-16.545578808195 -57.587210158297
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADVP (RB newly)) (VP (VBN married))))
+-17.099644083961 -52.986924516254
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADVP (RB newly)) (ADJP (JJ married))))
+-17.295013614692 -59.223993700510
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (ADVP (RB newly)) (VP (VBN married)))))
+-17.390326765755 -59.639348442771
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (ADVP (RB newly)) (VBN married))))
+-17.437814140116 -52.267219072445
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (ADJP (RB newly) (JJ married)))))
+-17.635239359086 -59.609355543133
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADVP (RB newly)) (VP (VBD married))))
+-17.845077081202 -53.131315148245
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (ADJP (RB newly) (VBN married)))))
+-17.915005637650 -57.974718553495
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (ADVP (RB newly)) (VBN married)))))
+-18.081022239425 -53.238737079418
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (S (VP (VBN married))))))
+-18.269310798967 -58.358674717781
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (ADVP (RB newly)) (JJ married))))
+-18.462057613057 -55.496030419505
+(S1 (SINV (VBP Are) (NP (PRP you)) (ADJP (RB newly) (JJ married))))
+-18.504309154333 -55.190490796689
+(S1 (SINV (VBP Are) (NP (PRP you)) (ADJP (RB newly) (VBN married))))
+-18.719199500598 -58.677832273857
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADVP (RB newly)) (VP (JJ married))))
+-18.833637327186 -59.381542186497
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (RB newly) (VP (VBN married)))))
+-19.029620219304 -57.798764372500
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (ADVP (RB newly)) (VBN married))))
+-19.032691335216 -58.659977710801
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (ADVP (RB newly)) (JJ married))))
+-19.099708435583 -57.184306321089
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (VBD married))))
+-19.133989763956 -57.517332549991
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADVP (RB newly)) (ADJP (VBN married))))
+-19.283806860327 -61.559192816321
+(S1 (SQ (VBP Are) (NP (PRP you)) (NP (RB newly) (JJ married))))
+-19.505405758116 -59.212041507081
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (ADJP (RB newly) (JJ married)))))
+-19.807453897019 -65.882888597636
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (ADVP (RB newly)) (VBD married))))
+-19.995005968106 -60.708981241138
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (ADJP (RB newly) (VBN married)))))
+-20.255555031652 -65.948616005025
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (ADVP (RB newly)) (VP (VBD married)))))
+-20.413960884041 -64.656080719933
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (RB newly) (VBN married))))
+-20.454639593749 -65.997096520707
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (RB newly) (VP (VBN married)))))
+-20.468342093272 -62.376752928600
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (ADVP (RB newly)) (JJ married)))))
+-20.659567911868 -60.934337704238
+(S1 (S (VP (VBP Are) (S (NP (PRP you)) (ADJP (RB newly) (JJ married))))))
+-20.912527385079 -64.036653171099
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (RB newly) (VBN married)))))
+-21.004791181891 -63.379672980125
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (ADJP (ADVP (RB newly)) (JJ married)))))
+-21.084578347462 -62.361035325566
+(S1 (S (VP (VBP Are) (S (NP (PRP you)) (ADJP (RB newly) (VBN married))))))
+-21.200819181240 -66.073744933687
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (RB newly) (S (VP (VBN married))))))
+-21.311741398523 -64.790333561688
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (RB newly) (VP (VBD married)))))
+-21.423621358065 -63.564064316220
+(S1 (SINV (VBP Are) (NP (NP (PRP you)) (ADJP (RB newly) (VBN married)))))
+-21.446008954696 -63.740979612968
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (RB newly) (ADJP (JJ married)))))
+-21.496166499342 -64.966106187219
+(S1 (SINV (VBP Are) (NP (PRP you)) (ADJP (ADVP (RB newly)) (JJ married))))
+-21.603959180052 -60.588130669102
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (S (ADJP (JJ married))))))
+-21.641745561498 -65.354230553397
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (ADJP (ADVP (RB newly)) (VBN married)))))
+-21.743603693787 -61.383262912899
+(S1 (SQ (VBP Are) (NP (PRP you) (RB newly)) (ADJP (JJ married))))
+-22.061335165306 -59.752450198749
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (S (ADJP (VBN married))))))
+-22.063804493572 -64.540884378310
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (ADJP (RB newly) (JJ married)))))
+-22.241026462914 -63.860309979744
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (S (VP (VBD married))))))
+-22.241274691414 -66.618605232142
+(S1 (SINV (VBP Are) (NP (PRP you) (ADJP (RB newly) (VBN married)))))
+-22.320762271568 -64.864192001227
+(S1 (SQ (VBP Are) (NP (PRP you)) (ADJP (RB newly) (SBAR (S (VP (VBN married)))))))
+-22.407904773875 -65.308705590010
+(S1 (SQ (VBP Are) (NP (NP (PRP you)) (ADVP (RB newly))) (ADJP (JJ married))))
+-23.113629717685 -66.392667171844
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (RB newly) (ADJP (VBN married)))))
+-23.295409174905 -65.604590523050
+(S1 (SQ (VBP Are) (NP (PRP you)) (VP (RB newly) (S (ADJP (JJ married))))))
+-23.348846462395 -67.122962328573
+(S1 (SQ (VBP Are) (NP (PRP you)) (S (VP (RB newly) (ADJP (JJ married))))))
+-24.328467709770 -65.913670946636
+(S1 (SQ (VBP Are) (NP (PRP you) (RB newly)) (ADJP (VBN married))))
+

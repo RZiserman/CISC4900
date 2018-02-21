@@ -1,0 +1,102 @@
+50 x
+-17.051560143945 -65.928491203968
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-19.754764377762 -74.549945244303
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-19.912090777087 -68.251516803682
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-20.285539420042 -76.433801030069
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (RB first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-20.403480657840 -76.916748784692
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJS first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-20.761551389150 -72.405448459621
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))
+-20.788215097048 -70.999096927695
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (SBAR (S (VP (VBP call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))))
+-21.508210599018 -75.718397613737
+(S1 (S (DT this) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-21.712396099985 -73.176856133021
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))
+-21.811306206143 -71.999961569642
+(S1 (S (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call)))) (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))
+-21.828374155373 -77.321483973441
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (RB first) (JJ call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-21.836271855327 -74.443036439791
+(S1 (S (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call)))) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))
+-22.002342163518 -75.201543314663
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (SBAR (S (VP (VBP call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))))
+-22.107419067595 -73.060442512786
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (S (VP (VB call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))))
+-22.204970231057 -79.593888158711
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (ADVP (RB first)) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-22.426632134936 -77.067746488964
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (ADJP (VBN done)))))))))
+-22.469046990172 -77.120599451856
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (VP (VBP call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-22.506931526106 -72.926282550473
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (S (VP (VB call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-22.590695580571 -75.201693393715
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (S (VP (VBP call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))))
+-22.607328177195 -75.204808444118
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))
+-22.769476710621 -76.962995969802
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (VP (VB call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-22.965672715270 -76.397179320051
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))
+-23.029359425749 -75.772458597415
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (NP (DT the) (JJ first)) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-23.068330147666 -78.595816082036
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN call)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))
+-23.134723333587 -77.501478156157
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call))) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))
+-23.139789736393 -77.312253654704
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (VP (VB call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-23.149660344415 -78.204421203827
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (NP (NP (DT the) (JJ first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-23.442474640383 -75.700834325589
+(S1 (SBAR (DT this) (S (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-23.491035237220 -79.528611040536
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (SBAR (S (VP (VB call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))))
+-23.568218811561 -74.351531575797
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (NP (DT the) (JJ first)) (VP (VBP call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))))
+-23.574261420826 -78.074989253337
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RB first)) (NN call)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-23.710951306397 -79.394451193344
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (SBAR (S (VP (VB call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))))
+-23.717128427526 -79.404139701157
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (S (VP (VBP call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-24.273842632161 -78.041423213450
+(S1 (S (DT this) (VP (VBZ is) (NP (DT the) (JJ first) (NN call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-24.496790466695 -79.389955864129
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (VP (NN call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-24.536069294096 -79.082702458654
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first)) (VP (NN call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-24.595700475189 -79.613881271189
+(S1 (S (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (JJ call)))) (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))
+-24.797317652941 -78.553977868249
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (NP (DT the) (JJ first)) (VP (VBP call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-24.941234796904 -77.964776184088
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (NP (DT the) (JJ first)) (VP (VBP call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-24.954347920919 -78.042249956814
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first)) (S (VP (VB call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-25.075119870308 -79.618270275717
+(S1 (S (INTJ (DT this) (VBZ is)) (NP (DT the) (JJ first)) (VP (VBP call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))
+-25.102821035404 -77.412833511149
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (NP (DT the) (JJ first)) (VP (VB call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-25.138139922759 -79.143069008403
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first)) (SBAR (S (VP (VBP call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))))
+-25.186426377962 -78.788221264433
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (NP (DT the) (JJ first)) (VP (VB call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))))
+-25.287162768078 -79.390772088677
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NN call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (ADJP (VBN done)))))))))
+-25.353860446337 -77.908090237841
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first)) (S (VP (VB call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-25.385832570412 -78.654061345561
+(S1 (S (NP (DT this)) (VP (VBZ is) (SBAR (S (NP (DT the) (JJ first)) (VP (VB call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+-25.402976722279 -77.278673578298
+(S1 (S (NP (DT this)) (VP (VBZ is) (S (NP (DT the) (JJ first)) (VP (VB call) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-25.751900607724 -78.928264193106
+(S1 (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (ADJP (RB first)) (NN call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done)))))))))
+-26.634127113525 -78.023859925303
+(S1 (SBAR (DT this) (S (VP (VBZ is) (NP (DT the) (JJ first) (NN call) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done))))))))))
+

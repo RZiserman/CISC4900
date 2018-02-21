@@ -1,0 +1,102 @@
+50 x
+-14.122752099913 -46.861138899682
+(S1 (NP (DT That) (NN gravity) (NN factor)))
+-16.229284957694 -50.906715315789
+(S1 (NP (NP (DT That) (NN gravity)) (NN factor)))
+-16.747953760652 -53.539530674248
+(S1 (NP (IN That) (NN gravity) (NN factor)))
+-16.751030882649 -51.238657289446
+(S1 (FRAG (NP (DT That) (NN gravity) (NN factor))))
+-17.044639461622 -56.177739542593
+(S1 (PP (IN That) (NP (NN gravity) (NN factor))))
+-17.204155448729 -55.292586790251
+(S1 (S (NP (DT That) (NN gravity)) (VP (NN factor))))
+-17.238658211177 -60.520881101246
+(S1 (S (NP (DT That) (NN gravity)) (VP (VB factor))))
+-17.513520357086 -53.007850378835
+(S1 (S (NP (DT That) (NN gravity) (NN factor))))
+-17.637678954639 -55.153884984852
+(S1 (FRAG (IN That) (NP (NN gravity) (NN factor))))
+-17.839695414023 -55.180297771738
+(S1 (NP (DT That) (NP (NN gravity)) (NN factor)))
+-17.898492971132 -56.933507999165
+(S1 (S (PP (IN That) (NP (NN gravity) (NN factor)))))
+-17.976811562234 -55.385109800533
+(S1 (FRAG (PP (IN That) (NP (NN gravity) (NN factor)))))
+-18.054659114323 -54.532200796806
+(S1 (NP (NP (DT That)) (NN gravity) (NN factor)))
+-18.146230834953 -63.432930264591
+(S1 (NP (DT That) (NN gravity) (VB factor)))
+-18.167397824528 -56.860095795447
+(S1 (NP (IN That) (NP (NN gravity)) (NN factor)))
+-18.266563166938 -56.298625443414
+(S1 (S (NP (DT That)) (NP (NN gravity) (NN factor))))
+-18.512577794586 -57.416398207442
+(S1 (S (NP (DT That) (NN gravity)) (NP (NN factor))))
+-18.727719148814 -58.689881065171
+(S1 (NP (NP (DT That) (NN gravity)) (NP (NN factor))))
+-18.798997370371 -55.960926147684
+(S1 (FRAG (NP (DT That) (NN gravity)) (NP (NN factor))))
+-19.010778583449 -56.683024528382
+(S1 (X (NP (DT That) (NN gravity) (NN factor))))
+-19.067729151582 -55.779777413729
+(S1 (S (NP (DT That) (NN gravity)) (ADJP (NN factor))))
+-19.842857458718 -62.149176476543
+(S1 (FRAG (IN That) (NP (NP (NN gravity)) (NN factor))))
+-19.888109609957 -62.901871783055
+(S1 (S (NP (DT That) (NN gravity)) (NP (VB factor))))
+-19.902465023572 -56.821880940363
+(S1 (NP (NP (IN That)) (NN gravity) (NN factor)))
+-19.950876864687 -62.631248254303
+(S1 (FRAG (IN That) (NP (NP (NN gravity)) (NP (NN factor)))))
+-20.104745165947 -56.745415850443
+(S1 (NP (NP (WDT That)) (NN gravity) (NN factor)))
+-20.219168551713 -58.503032339371
+(S1 (S (NP (IN That) (NN gravity) (NN factor))))
+-20.250840639927 -59.232131098638
+(S1 (FRAG (NP (IN That) (NN gravity) (NN factor))))
+-20.314127731667 -63.575890690581
+(S1 (FRAG (SBAR (IN That) (S (NP (NN gravity)) (VP (VB factor))))))
+-20.337680709471 -56.387167099983
+(S1 (NP (NP (IN That) (NN gravity)) (NN factor)))
+-20.468531709141 -63.283943212319
+(S1 (NP (NP (DT That) (NN gravity)) (VP (NN factor))))
+-20.514395117846 -60.725347708737
+(S1 (FRAG (PP (IN That) (NP (NN gravity))) (NP (NN factor))))
+-20.534472756560 -60.502677506009
+(S1 (FRAG (NP (NP (DT That) (NN gravity)) (NN factor))))
+-20.589809189242 -58.989111345100
+(S1 (X (NP (DT That) (NN gravity)) (NP (NN factor))))
+-20.626766694139 -60.162673756113
+(S1 (NP (NP (WDT That) (NN gravity)) (NN factor)))
+-20.689162094291 -61.687860448915
+(S1 (S (NP (IN That)) (NP (NN gravity) (NN factor))))
+-20.706904631758 -63.609180463801
+(S1 (FRAG (PP (IN That) (NP (NP (NN gravity)) (NP (NN factor))))))
+-21.001938824816 -61.965100557260
+(S1 (FRAG (NP (NP (DT That) (NN gravity)) (NP (NN factor)))))
+-21.198867828075 -60.625303871604
+(S1 (NP (NP (NP (DT That)) (NN gravity)) (NN factor)))
+-21.289061213563 -62.365591841721
+(S1 (S (NP (NP (DT That) (NN gravity)) (NN factor))))
+-21.335261259834 -59.790532970483
+(S1 (S (NP (WDT That)) (NP (NN gravity) (NN factor))))
+-21.365911832762 -59.704125834030
+(S1 (S (NP (IN That) (NN gravity)) (VP (NN factor))))
+-21.484841867279 -60.394879868714
+(S1 (NP (NP (IN That) (NN gravity)) (NP (NN factor))))
+-21.876850999907 -62.901877394510
+(S1 (FRAG (NP (NP (DT That)) (NN gravity) (NN factor))))
+-22.368719934618 -61.827937251221
+(S1 (S (NP (IN That) (NN gravity)) (NP (NN factor))))
+-22.427697472652 -60.634660397226
+(S1 (FRAG (NP (IN That) (NN gravity)) (NP (NN factor))))
+-22.878870758402 -60.191316457508
+(S1 (S (NP (IN That) (NN gravity)) (ADJP (NN factor))))
+-23.654898333147 -62.613616259615
+(S1 (NP (NP (NP (WDT That)) (NN gravity)) (NN factor)))
+-23.918572609430 -62.690081215930
+(S1 (NP (NP (NP (IN That)) (NN gravity)) (NN factor)))
+-23.979319417886 -63.670099524100
+(S1 (FRAG (NP (NP (IN That) (NN gravity)) (NP (NN factor)))))
+

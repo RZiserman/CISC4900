@@ -1,0 +1,102 @@
+50 x
+-31.011829679738 -113.341667666664
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-31.686998863762 -113.220077954859
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-32.135402974568 -118.351192041122
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (JJ pretty) (JJ serious) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-32.779165766889 -124.315172892194
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBN got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-33.024820283351 -117.576141442960
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (RB pretty) (JJ serious) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-33.450172663571 -120.207485220503
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (NP (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-33.679217272617 -120.148568652897
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (JJ pretty) (JJ serious) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-33.893759706512 -125.094591812174
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBN got) (NP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-34.407366015056 -125.434273521241
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (DT some) (NP (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-34.636996849362 -125.218723658567
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some)) (NP (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-34.652204279333 -121.651481308478
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-34.699973119145 -118.672591219415
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (JJ pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-34.788062265992 -124.445120359832
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (ADJP (ADJP (RB pretty) (JJ serious)) (JJ deep)) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-34.834228687882 -120.180603712109
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (RB pretty) (JJ serious) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-34.906785144598 -124.502007669634
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (ADJP (RB some) (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-34.921884119077 -121.413144930190
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (QP (DT some) (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-35.005844599374 -121.111896512336
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (S (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-35.046321877033 -118.630945099744
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (PP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (IN in) (NP (PRP it))))))
+-35.241722571347 -119.690947301533
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (NX (JJ deep) (NNS parts))) (PP (IN in) (NP (PRP it))))))
+-35.316555405595 -124.601304953781
+(S1 (S (PP (IN in) (NP (NN fact))) (SBAR (S (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))))
+-35.384767312759 -122.118702903103
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts))) (PP (IN in) (NP (PRP it)))))
+-35.515505134046 -118.551001627339
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (ADJP (JJ pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-35.521577769723 -121.529891346781
+(S1 (S (PP (IN in) (NP (NN fact))) (S (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))))
+-35.622496776947 -123.943092974758
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (RB some) (ADJP (RB pretty) (JJ serious)) (NP (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-35.657530869405 -120.487531244630
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (S (NP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))))
+-35.670975359255 -125.191517439883
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (ADJP (RB pretty) (JJ serious) (JJ deep)) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-35.827789068085 -122.541778809174
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (PP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-35.830473532011 -124.720763259368
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (ADJP (DT some) (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-36.030106627605 -124.420822634728
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (ADJP (DT some) (RB pretty) (JJ serious)) (NP (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-36.087814051741 -124.479715177263
+(S1 (S (PP (IN in) (NP (NN fact))) (SBAR (S (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))))
+-36.181311643189 -125.459709134804
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (ADJP (RB some) (RB pretty) (JJ serious)) (NP (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-36.225467274763 -123.796978921131
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (QP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-36.232808880870 -121.209530017708
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (QP (DT some) (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-36.570418048131 -122.806288966432
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (JJ pretty)) (JJ serious) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-36.844222515833 -121.871990784082
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty) (JJ serious)) (ADJP (JJ deep)) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-36.946255060855 -125.538408773254
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (JJ pretty) (JJ serious)) (NP (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-36.981479985197 -125.368506794809
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (ADJP (DT some) (RB pretty) (JJ serious)) (NP (NP (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-37.075580273081 -125.289420906449
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (RB pretty)) (JJ serious) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-37.209902311837 -125.425875361586
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (PP (NP (DT some) (JJ pretty) (JJ serious) (JJ deep) (NNS parts)) (IN in) (NP (PRP it))))))
+-37.330181501446 -124.756273990395
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (QP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-37.457434972038 -125.714367686826
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (ADJP (DT some) (JJ pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))
+-37.632245991214 -123.593102166828
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (SBAR (S (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))))
+-37.667570625679 -123.622101028464
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (ADJP (JJ deep)) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-37.814116945297 -125.279570634272
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (S (NP (DT some) (ADJP (RB pretty) (JJ serious))) (NP (NP (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))))
+-38.054880690675 -125.107906858691
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (PP (NP (DT some) (RB pretty) (JJ serious) (JJ deep) (NNS parts)) (IN in) (NP (PRP it))))))
+-38.181405298337 -125.614430611234
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (SBAR (S (NP (NP (DT some) (ADJP (RB pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it)))))))))
+-38.753214575195 -123.961868776034
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (PP (NP (DT some) (ADJP (JJ pretty) (JJ serious)) (JJ deep) (NNS parts)) (IN in) (NP (PRP it))))))
+-38.887942106631 -125.021870854284
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (DT some) (ADJP (JJ pretty) (JJ serious)) (NX (JJ deep) (NNS parts))) (PP (IN in) (NP (PRP it))))))
+-39.423453203813 -124.420519402948
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (NP (NP (DT some) (RB pretty) (JJ serious) (ADJP (JJ deep)) (NNS parts)) (PP (IN in) (NP (PRP it)))))))
+-39.614992347567 -125.818454917110
+(S1 (S (PP (IN in) (NP (NN fact))) (NP (PRP it)) (VP (VBD got) (S (NP (NP (DT some) (ADJP (JJ pretty) (JJ serious)) (JJ deep) (NNS parts)) (PP (IN in) (NP (PRP it))))))))
+

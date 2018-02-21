@@ -1,0 +1,102 @@
+50 x
+-15.218210704931 -52.795154517036
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (RB close) (PP (TO to) (NP (NNP Dallas)))))))
+-17.136547315776 -55.297881923771
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (JJ close) (PP (TO to) (NP (NNP Dallas)))))))
+-17.178659136881 -60.220378637354
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (RB close)) (PP (TO to) (NP (NNP Dallas))))))
+-17.589145421893 -54.016571747984
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADJP (JJ close) (PP (TO to) (NP (NNP Dallas)))))))
+-17.996025627414 -61.212437986874
+(S1 (S (NP (PRP we)) (VP (VB live) (ADVP (RB close) (PP (TO to) (NP (NNP Dallas)))))))
+-18.745126220559 -55.367780054172
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADJP (RB close) (PP (TO to) (NP (NNP Dallas)))))))
+-18.807534726337 -63.327898254410
+(S1 (S (NP (PRP we)) (VP (VBP live) (VP (VB close) (PP (TO to) (NP (NNP Dallas)))))))
+-19.115846375949 -64.516290048460
+(S1 (S (NP (PRP we)) (ADJP (RB live) (RB close) (PP (TO to) (NP (NNP Dallas))))))
+-19.196497621181 -69.687376921846
+(S1 (S (NP (PRP we)) (ADVP (RB live)) (VP (VB close) (PP (TO to) (NP (NNP Dallas))))))
+-19.284219946400 -69.247996965430
+(S1 (S (NP (PRP we)) (ADVP (RB live)) (VP (VBP close) (PP (TO to) (NP (NNP Dallas))))))
+-19.382871545472 -62.242407640709
+(S1 (S (NP (PRP we)) (VP (VB live) (ADVP (JJ close) (PP (TO to) (NP (NNP Dallas)))))))
+-19.497301027568 -64.883667433765
+(S1 (S (NP (PRP we)) (VP (VB live) (VP (VB close) (PP (TO to) (NP (NNP Dallas)))))))
+-19.609010111427 -63.531583268687
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (ADVP (RB close)) (PP (TO to) (NP (NNP Dallas)))))))
+-19.633113034231 -60.657226509216
+(S1 (S (NP (PRP we)) (VP (VB live) (ADJP (JJ close) (PP (TO to) (NP (NNP Dallas)))))))
+-19.696830616320 -67.310179996129
+(S1 (S (NP (PRP we)) (ADJP (RB live) (JJ close) (PP (TO to) (NP (NNP Dallas))))))
+-19.884475395575 -64.764218530327
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (NN close) (PP (TO to) (NP (NNP Dallas)))))))
+-20.068236856888 -68.013278884000
+(S1 (S (NP (PRP we)) (VP (VB live) (ADVP (RB close)) (PP (TO to) (NP (NNP Dallas))))))
+-20.266661564544 -69.192744194836
+(S1 (S (NP (PRP we)) (VP (VB live) (PRT (RB close)) (PP (TO to) (NP (NNP Dallas))))))
+-20.335223107916 -61.041664773035
+(S1 (S (NP (PRP we)) (VP (VB live) (ADJP (RB close) (PP (TO to) (NP (NNP Dallas)))))))
+-20.398160279204 -65.767451429707
+(S1 (S (NP (PRP we)) (VP (VBP live) (PP (RB close) (PP (TO to) (NP (NNP Dallas)))))))
+-20.426260868100 -68.792590502924
+(S1 (S (NP (PRP we)) (VBP live) (VP (VBP close) (PP (TO to) (NP (NNP Dallas))))))
+-20.502827809978 -67.775231138705
+(S1 (S (NP (PRP we)) (VP (VBP live) (S (VP (VB close) (PP (TO to) (NP (NNP Dallas))))))))
+-20.569827702106 -65.861100653684
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADJP (JJ close)) (PP (TO to) (NP (NNP Dallas))))))
+-20.583281352122 -67.965423161633
+(S1 (S (NP (PRP we)) (VP (VBP live) (RB close) (PP (TO to) (NP (NNP Dallas))))))
+-20.602367629030 -67.733856650078
+(S1 (S (NP (PRP we)) (VP (VB live) (S (VP (VB close) (PP (TO to) (NP (NNP Dallas))))))))
+-20.663002160040 -69.780681541469
+(S1 (S (NP (PRP we)) (VP (VB live) (ADJP (JJ close)) (PP (TO to) (NP (NNP Dallas))))))
+-20.816684498088 -68.246317698859
+(S1 (S (NP (PRP we)) (VP (VBP live) (NP (NP (VB close)) (PP (TO to) (NP (NNP Dallas)))))))
+-20.836685965665 -64.134587165265
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (JJ close)) (PP (TO to) (NP (NNP Dallas))))))
+-20.918349088364 -66.888610835577
+(S1 (S (NP (PRP we)) (VP (VBP live) (NP (NP (RB close)) (PP (TO to) (NP (NNP Dallas)))))))
+-21.021816718485 -64.975375364319
+(S1 (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (RB close)) (TO to) (NP (NNP Dallas))))))
+-21.146341078293 -65.708588129964
+(S1 (S (NP (PRP we)) (VP (VBP live) (S (ADJP (JJ close) (PP (TO to) (NP (NNP Dallas))))))))
+-21.174891693265 -65.881785858649
+(S1 (S (NP (PRP we)) (VP (VBP live) (PP (JJ close) (TO to) (NP (NNP Dallas))))))
+-21.308189492914 -69.606997035954
+(S1 (S (NP (PRP we)) (VP (VBP live) (S (ADVP (RB close) (PP (TO to) (NP (NNP Dallas))))))))
+-21.337747711239 -63.271276789677
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADJP (ADVP (RB close)) (PP (TO to) (NP (NNP Dallas)))))))
+-21.464053681090 -67.968081986073
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (NN close)) (PP (TO to) (NP (NNP Dallas))))))
+-21.494125762039 -68.714186696457
+(S1 (S (NP (PRP we)) (VP (VBP live) (PP (JJ close) (PP (TO to) (NP (NNP Dallas)))))))
+-21.547813543876 -64.903860378353
+(S1 (S (NP (PRP we)) (VP (VBP live) (S (ADJP (RB close) (PP (TO to) (NP (NNP Dallas))))))))
+-21.659464216823 -68.252661574483
+(S1 (S (NP (PRP we)) (VP (VBP live) (NP (NP (JJ close)) (PP (TO to) (NP (NNP Dallas)))))))
+-21.711256319009 -69.400118419428
+(S1 (S (NP (PRP we)) (VP (VBP live) (VP (ADVP (RB close)) (PP (TO to) (NP (NNP Dallas)))))))
+-21.843846697379 -69.315438509407
+(S1 (S (NP (PRP we)) (VP (VB live) (S (ADJP (JJ close) (PP (TO to) (NP (NNP Dallas))))))))
+-21.860899864796 -68.304071834323
+(S1 (S (NP (PRP we)) (VP (VBP live) (VP (JJ close) (PP (TO to) (NP (NNP Dallas)))))))
+-22.083126907537 -68.477506031059
+(S1 (S (NP (PRP we)) (VP (VB live) (S (ADJP (RB close) (PP (TO to) (NP (NNP Dallas))))))))
+-22.201974313709 -66.644749461778
+(S1 (S (NP (PRP we)) (VP (VBP live) (PP (RB close) (TO to) (NP (NNP Dallas))))))
+-22.238913597232 -63.865547226987
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADVP (ADVP (JJ close)) (PP (TO to) (NP (NNP Dallas)))))))
+-22.247511745959 -69.299373166381
+(S1 (S (NP (PRP we)) (VP (VB live) (ADVP (JJ close)) (PP (TO to) (NP (NNP Dallas))))))
+-22.441556694905 -64.392785498854
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADJP (ADJP (JJ close)) (PP (TO to) (NP (NNP Dallas)))))))
+-22.533065066557 -68.656045486910
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADJP (RB close)) (PP (TO to) (NP (NNP Dallas))))))
+-22.813730121560 -64.086499050170
+(S1 (S (NP (PRP we)) (VP (VBP live) (ADJP (ADJP (RB close)) (PP (TO to) (NP (NNP Dallas)))))))
+-23.777281872811 -69.472253390849
+(S1 (S (NP (PRP we)) (VP (VB live) (ADJP (ADJP (RB close)) (PP (TO to) (NP (NNP Dallas)))))))
+-23.986510051690 -69.218857417070
+(S1 (S (NP (PRP we)) (VP (VBP live) (PP (ADVP (JJ close)) (TO to) (NP (NNP Dallas))))))
+

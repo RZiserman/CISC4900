@@ -1,0 +1,102 @@
+50 x
+-28.107155558683 -108.773731294526
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (ADVP (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-28.500784858714 -106.245658440792
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down)) (ADVP (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-28.680031853553 -105.639470783772
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-29.103206621528 -106.439815787864
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down)) (ADVP (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-29.282453588490 -105.833628130844
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-29.453474044042 -105.589454238548
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-29.530214096563 -108.395860833509
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-29.862493624472 -105.867787979776
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-29.922901062195 -106.824714459614
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down)) (ADVP (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-29.944142615641 -108.052988450893
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down) (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-30.053665541301 -107.299873338522
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (IN down) (NP (RB then)))))) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-30.055895806856 -105.783611585620
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-30.312641149378 -108.590018180581
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-30.312869935784 -107.593777867225
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (ADVP (RB then)) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))))))
+-30.525322797132 -107.018871806686
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down)) (ADVP (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-30.545656658012 -108.079966145389
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (RB down) (ADVP (RB then)))))) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-30.546564350578 -108.247145797965
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down) (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-30.641704623766 -108.745917774153
+(S1 (S (CC And) (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-30.644920649409 -106.061945326848
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-30.656087304115 -107.494030685594
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (IN down) (NP (RB then)))))) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-30.668288540562 -107.047714243682
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down)) (ADVP (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-30.913300744324 -106.168510257370
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-31.090936410721 -107.787935214297
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (ADVP (RB then)) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))))))
+-31.120312232890 -106.391510041438
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))
+-31.148078420826 -108.274123492461
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (RB down) (ADVP (RB then)))))) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-31.270710303376 -107.241871590754
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down)) (ADVP (RB then))))) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-31.305851353522 -107.675117989877
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down) (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-31.345959600076 -106.446843998598
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-31.415146814255 -108.695901228929
+(S1 (S (CC And) (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-31.515722479260 -106.362667604442
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-31.515962077059 -106.922002877506
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (IN down) (NP (RB then)))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-31.722733995704 -106.585667388510
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))
+-31.904877493770 -107.702095684373
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (RB down) (ADVP (RB then)))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-32.034462108525 -108.742575031948
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))))))
+-32.088278378459 -107.869275336948
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down) (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-32.128386625013 -106.641001345670
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-32.133073006320 -106.669843782666
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-32.197573867069 -108.890058576000
+(S1 (S (CC And) (S (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down))))) (ADVP (RB then)) (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-32.298389101996 -107.116160224578
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (IN down) (NP (RB then)))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-32.329003322505 -107.611276928912
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (SBAR (RB then) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))))))
+-32.672672879393 -107.628496497259
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down)) (ADVP (RB then)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))))))
+-32.687304518707 -107.896253031445
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PP (RB down) (ADVP (RB then)))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-32.909776593955 -108.707072614591
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down) (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day)))))))
+-32.915500031257 -106.864001129737
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down)) (ADVP (RB then))))) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))
+-33.112460205320 -107.805434275983
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (PRT (RP down)) (SBAR (RB then) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day)))))))))))
+-33.383562924330 -107.822653844331
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RB down)) (ADVP (RB then)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))))))
+-34.150090112998 -108.207552516081
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down)) (ADVP (RB then)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))))))
+-34.803287959242 -108.430552300149
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down)) (ADVP (RB then)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBD stuck) (NP (DT all) (NN day))))))))))
+-34.860980185812 -108.401709863153
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (RP down)) (ADVP (RB then)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))))))
+-35.514178004178 -108.624709647220
+(S1 (FRAG (CC And) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ goes) (ADVP (IN down)) (ADVP (RB then)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBN stuck) (NP (DT all) (NN day))))))))))
+

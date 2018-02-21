@@ -1,0 +1,102 @@
+50 x
+-22.401897628494 -80.979842022263
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADJP (JJR quicker)))))
+-22.471533951890 -80.477916881735
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADVP (RBR quicker)))))
+-23.214029162408 -83.900301140025
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (SBAR (IN through) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-23.227222736808 -82.898714485736
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (NP (JJR quicker)))))
+-23.432407581747 -78.690294718675
+(S1 (S (CC and) (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (JJR quicker))))))
+-23.549267228283 -80.632732611475
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (S (NP (PRP it)) (ADJP (JJR quicker))))))
+-23.736855185810 -84.540226202769
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-23.911796285509 -84.209075746928
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADVP (JJR quicker)))))
+-24.144773561863 -84.243332789210
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (S (ADJP (JJR quicker))))))
+-24.190586284338 -81.393525030055
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (JJR quicker))))))
+-24.429196889335 -82.228576634022
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADJP (RBR quicker)))))
+-24.469103118260 -84.305397326186
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (ADJP (NP (PRP it)) (JJR quicker)))))
+-24.681926622232 -84.918714470853
+(S1 (S (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADJP (JJR quicker))))))
+-24.692424298354 -83.960171695013
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it)) (ADVP (RBR quicker))))))
+-24.880543111287 -85.033513767145
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (NP (PRP it)) (ADVP (RBR quicker)))))
+-25.096862674962 -84.416789216587
+(S1 (S (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADVP (RBR quicker))))))
+-25.188969297667 -82.019853183998
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADJP (JJR quicker))))))
+-25.232048503671 -81.517927873583
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADVP (RBR quicker))))))
+-25.294752592411 -82.382479268237
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (ADJP (NP (PRP it)) (RBR quicker)))))
+-25.422901903773 -82.785458991619
+(S1 (S (CC and) (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (NP (PRP it)) (ADVP (RBR quicker)))))
+-25.470044687356 -85.087277347144
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (S (NP (PRP it)) (ADJP (RBR quicker)))))))
+-25.538759649547 -80.986996437412
+(S1 (S (CC and) (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (RBR quicker))))))
+-25.616663569236 -82.554580967391
+(S1 (S (CC and) (S (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-25.630948816733 -85.246490795168
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PP (IN through) (ADJP (NP (PRP it)) (RBR quicker))))))
+-25.878130108743 -83.221230354995
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (S (NP (PRP it)) (ADJP (RBR quicker))))))
+-26.014294319560 -83.938725336992
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (NP (JJR quicker))))))
+-26.128575033115 -84.571604819479
+(S1 (S (CC and) (S (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-26.170242982553 -84.940312160747
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (SBAR (IN through) (S (NP (PRP it)) (ADJP (JJR quicker))))))))
+-26.389299000790 -85.221385426513
+(S1 (S (CC and) (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (NP (JJR quicker))))))
+-26.420796623981 -83.587063573071
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (RBR quicker))))))
+-26.523926793652 -85.580237142041
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (S (NP (PRP it)) (ADJP (JJR quicker))))))))
+-26.540958811338 -81.672743541856
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-26.564668541261 -85.019759001298
+(S1 (S (CC and) (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (NP (PRP it)) (ADVP (JJR quicker)))))
+-26.641727039232 -84.829045512563
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (S (NP (PRP it)) (ADVP (JJR quicker))))))
+-26.660239699364 -82.961484554082
+(S1 (X (CC and) (S (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-26.698867907290 -85.249086738776
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADVP (JJR quicker))))))
+-26.757871435109 -85.332397285810
+(S1 (S (CC and) (S (NP (PRP you)) (VP (VBP zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-26.794742547953 -83.915756140571
+(S1 (S (CC and) (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADVP (JJR quicker))))))
+-26.931845169706 -85.283343726900
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (S (ADJP (JJR quicker)))))))
+-27.073605810059 -82.433536072623
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-27.189711491296 -83.268587795757
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it))) (ADJP (RBR quicker))))))
+-27.195349657443 -83.653397183376
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (JJR quicker)))))))
+-27.266016255287 -85.589837931144
+(S1 (S (CC and) (NP (PRP you)) (VP (VBP zip) (PRT (RP through)) (S (NP (PRP it)) (ADVP (JJR quicker))))))
+-27.452938833409 -85.000182634284
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PP (IN through) (NP (PRP it)) (ADVP (RBR quicker)))))))
+-27.460794745919 -85.345408419872
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (ADJP (NP (PRP it)) (JJR quicker))))))
+-27.978540977036 -84.851282686127
+(S1 (S (CC and) (S (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (RBR quicker)))))))
+-28.259887150070 -83.422490361922
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (ADJP (NP (PRP it)) (RBR quicker))))))
+-28.733015037164 -85.258186272818
+(S1 (X (CC and) (S (NP (PRP you)) (VP (VB zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (RBR quicker)))))))
+-28.843264624585 -84.261241285376
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (ADVP (RB through)) (S (NP (PRP it)) (ADJP (RBR quicker)))))))
+-29.277259082489 -84.627074615638
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (VBP zip) (PRT (RP through)) (S (NP (PRP it)) (ADJP (RBR quicker)))))))
+

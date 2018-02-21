@@ -1,0 +1,102 @@
+50 x
+-15.908700974154 -53.182207902038
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-17.748077315781 -55.920966600608
+(S1 (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))
+-18.475680683438 -62.196093985702
+(S1 (S (VP (VB Excuse) (SBAR (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))))
+-18.892793138118 -59.595768291509
+(S1 (S (VP (VB Excuse) (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))
+-19.293792250262 -61.561035333316
+(S1 (S (VP (VB Excuse) (NP (PRP me)) (S (VP (VB go) (ADVP (RB ahead)))))))
+-19.476946007431 -64.782784253693
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (PRT (RP ahead)))))))
+-19.548327018599 -68.727877972652
+(S1 (S (VP (VB Excuse) (SBAR (S (NP (PRP me)) (VP (VBP go) (ADVP (RB ahead))))))))
+-19.587536124933 -61.970174833028
+(S1 (S (VP (VB Excuse) (NP (PRP me))) (VP (VB go) (ADVP (RB ahead)))))
+-19.929217767911 -63.667907689586
+(S1 (S (VP (NN Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-19.931924292326 -68.712949610293
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (PRT (RB ahead)))))))
+-19.998160978581 -62.242582975858
+(S1 (FRAG (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))))
+-20.057021446255 -60.768223871323
+(S1 (FRAG (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-20.161854723676 -67.467524585480
+(S1 (S (VP (VB Excuse) (NP (PRP me))) (VP (VBP go) (ADVP (RB ahead)))))
+-20.214368549927 -70.210086712804
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VBP go) (ADVP (RB ahead)))))))
+-20.595391058123 -64.626986142506
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go))) (ADVP (RB ahead)))))
+-20.611826572241 -66.708635019409
+(S1 (NP (NN Excuse) (SBAR (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-20.633093556621 -62.656394247924
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADJP (RB ahead)))))))
+-20.652090228888 -67.925766842489
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (RB ahead))))))
+-20.788898204007 -65.233279110950
+(S1 (VP (VB Excuse) (SBAR (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-20.951293419058 -67.521542952263
+(S1 (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (PRT (RP ahead))))))
+-20.960876351344 -64.602398076488
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RP ahead)))))))
+-21.102722382866 -68.206499700944
+(S1 (S (VP (NN Excuse) (SBAR (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))))
+-21.130757946103 -68.393094921970
+(S1 (S (VP (VB Excuse) (S (NP (FW me)) (VP (VB go) (ADVP (RB ahead)))))))
+-21.232436982306 -62.897774362235
+(S1 (S (S (VP (VB Excuse) (NP (PRP me)))) (VP (VB go) (ADVP (RB ahead)))))
+-21.280384646109 -68.548438241196
+(S1 (S (NP (NN Excuse)) (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))
+-21.304019439256 -62.720158840851
+(S1 (FRAG (NP (NN Excuse)) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))
+-21.346798232482 -68.891877409719
+(S1 (NP (NN Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))
+-21.418810015968 -68.037539423990
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (NP (RB ahead)))))))
+-21.428204584072 -69.185752929451
+(S1 (NP (NP (NN Excuse)) (SBAR (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-21.448230839042 -67.067896278493
+(S1 (S (S (VP (VB Excuse) (NP (PRP me)))) (VP (VBP go) (ADVP (RB ahead)))))
+-21.611753571097 -65.127105084808
+(S1 (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go))) (ADVP (RB ahead))))
+-21.616304083202 -66.030731526238
+(S1 (VP (VB Excuse) (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))
+-21.635551113344 -65.481858847451
+(S1 (VP (VB Excuse) (NP (PRP me)) (S (VP (VB go) (ADVP (RB ahead))))))
+-21.796627458025 -67.768553459907
+(S1 (S (VP (VB Excuse) (NP (PRP me)) (ADVP (VB go) (RB ahead)))))
+-21.880129707885 -69.496309843313
+(S1 (FRAG (NP (NN Excuse)) (S (NP (PRP me)) (VP (VBP go) (ADVP (RB ahead))))))
+-22.038415266220 -69.475217512890
+(S1 (S (VP (VB Excuse) (NP (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-22.142780217232 -68.714004562597
+(S1 (VP (NN Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))
+-22.237777155105 -69.118463553117
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (S (ADVP (RB ahead))))))))
+-22.377269398248 -65.395152946495
+(S1 (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADJP (RB ahead))))))
+-22.481309692495 -69.502531294895
+(S1 (S (VP (VB Excuse) (NP (PRP me)) (SBAR (S (VP (VB go) (ADVP (RB ahead))))))))
+-22.740199812972 -67.341156775058
+(S1 (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RP ahead))))))
+-22.839038751616 -68.641254856556
+(S1 (S (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (S (ADJP (RB ahead))))))))
+-22.878817176445 -68.267540336680
+(S1 (FRAG (VP (NN Excuse) (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-23.012651939757 -68.656143362131
+(S1 (FRAG (S (VP (VB Excuse) (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-23.027587887859 -70.293439099134
+(S1 (FRAG (NP (NN Excuse)) (SBAR (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))))
+-23.102215995660 -70.180123616661
+(S1 (FRAG (VP (VB Excuse) (SBAR (S (NP (PRP me)) (VP (VB go) (ADVP (RB ahead))))))))
+-23.395237347877 -69.610348335637
+(S1 (S (ADVP (NN Excuse)) (NP (PRP me)) (VP (VB go) (ADVP (RB ahead)))))
+-23.687504459616 -69.620626852032
+(S1 (FRAG (VP (VB Excuse) (NP (PRP me)) (S (VP (VB go) (ADVP (RB ahead)))))))
+-23.944835687963 -69.974362516660
+(S1 (FRAG (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go))) (ADVP (RB ahead)))))
+-24.686213528721 -70.242410217209
+(S1 (FRAG (VP (VB Excuse) (S (NP (PRP me)) (VP (VB go) (ADJP (RB ahead)))))))
+

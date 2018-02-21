@@ -1,0 +1,102 @@
+50 x
+-11.840074941401 -41.829932347093
+(S1 (S (VP (VBP Have) (NP (DT a) (JJ good) (NN day)))))
+-12.350181113778 -41.812762177818
+(S1 (S (VP (VB Have) (NP (DT a) (JJ good) (NN day)))))
+-13.188235136965 -42.267795772217
+(S1 (VP (VB Have) (NP (DT a) (JJ good) (NN day))))
+-15.533645722052 -52.563260398563
+(S1 (VP (VBP Have) (NP (DT a) (JJ good) (NN day))))
+-15.952622840575 -51.074964636000
+(S1 (SINV (VBP Have) (NP (DT a) (JJ good) (NN day))))
+-16.271015607906 -49.686258391477
+(S1 (SINV (VB Have) (NP (DT a) (JJ good) (NN day))))
+-16.721590509240 -54.787271215385
+(S1 (S (VP (VBP Have) (NP (DT a) (NN good) (NN day)))))
+-17.270651982118 -54.016433814007
+(S1 (S (VP (VB Have) (NP (DT a) (NN good) (NN day)))))
+-17.340336992213 -49.331325461806
+(S1 (S (VP (VBP Have) (NP (DT a) (ADJP (JJ good)) (NN day)))))
+-17.430145037968 -52.662319604132
+(S1 (SINV (VP (VB Have)) (NP (DT a) (JJ good) (NN day))))
+-17.528720848594 -54.254805409766
+(S1 (SINV (VP (VBP Have)) (NP (DT a) (JJ good) (NN day))))
+-17.775327284565 -55.888151383979
+(S1 (S (VP (VB Have) (S (NP (DT a) (JJ good) (NN day))))))
+-17.851751950669 -57.888535571788
+(S1 (S (VP (VBP Have) (S (NP (DT a) (JJ good) (NN day))))))
+-18.020577180323 -49.355291296286
+(S1 (S (VP (VB Have) (NP (DT a) (ADJP (JJ good)) (NN day)))))
+-18.063022174999 -54.471467653605
+(S1 (VP (VB Have) (NP (DT a) (NN good) (NN day))))
+-18.641374794959 -56.376830500193
+(S1 (VP (VB Have) (S (NP (DT a) (JJ good) (NN day)))))
+-18.791941923265 -49.810325093941
+(S1 (VP (VB Have) (NP (DT a) (ADJP (JJ good)) (NN day))))
+-19.126326583415 -61.953294909528
+(S1 (S (VP (VB Have)) (NP (DT a) (JJ good) (NN day))))
+-19.547828355968 -60.562735984229
+(S1 (SINV (VBP Have) (NP (DT a) (NN good) (NN day))))
+-20.041269874930 -59.030085072777
+(S1 (SINV (VB Have) (NP (DT a) (NN good) (NN day))))
+-20.261045630950 -61.656281037876
+(S1 (S (VP (VB Have) (SBAR (S (NP (DT a) (JJ good) (NN day)))))))
+-20.369477322984 -65.520599029480
+(S1 (VP (VBP Have) (NP (DT a) (NN good) (NN day))))
+-20.538998085355 -60.517000605437
+(S1 (S (VP (VBP Have) (NP (NP (DT a)) (JJ good) (NN day)))))
+-20.554295927576 -64.188104766378
+(S1 (S (VP (VBP Have) (SBAR (S (NP (DT a) (JJ good) (NN day)))))))
+-20.657207944686 -63.964545224211
+(S1 (S (VP (VBP Have) (NP (NP (DT a) (NN good)) (NN day)))))
+-20.758085401882 -63.434577824917
+(S1 (S (VP (VBP Have) (NP (NP (DT a) (JJ good)) (NN day)))))
+-20.794677135454 -57.981155728968
+(S1 (SINV (VBP Have) (NP (DT a) (ADJP (JJ good)) (NN day))))
+-20.872250361305 -60.823152332526
+(S1 (VP (VB Have) (SBAR (S (NP (DT a) (JJ good) (NN day))))))
+-20.906035557483 -59.205389936490
+(S1 (S (VP (VB Have) (NP (NP (DT a)) (JJ good) (NN day)))))
+-20.967218383896 -60.064653315317
+(S1 (VP (VBP Have) (NP (DT a) (ADJP (JJ good)) (NN day))))
+-21.138815742574 -63.516105996252
+(S1 (S (VP (VB Have) (NP (NP (DT a) (NN good)) (NN day)))))
+-21.171121750049 -63.742576696365
+(S1 (SINV (VP (VBP Have)) (NP (DT a) (NN good) (NN day))))
+-21.203349109769 -62.986138596958
+(S1 (S (VP (VB Have) (NP (NP (DT a) (JJ good)) (NN day)))))
+-21.203686108765 -56.140069483588
+(S1 (SINV (VB Have) (NP (DT a) (ADJP (JJ good)) (NN day))))
+-21.247594668751 -62.006146147237
+(S1 (SINV (VP (VB Have)) (NP (DT a) (NN good) (NN day))))
+-21.629930497577 -59.660423767822
+(S1 (VP (VB Have) (NP (NP (DT a)) (JJ good) (NN day))))
+-21.785152029262 -65.983458587249
+(S1 (S (VP (VB Have) (S (NP (DT a) (NN good) (NN day))))))
+-21.873552642002 -63.971139715280
+(S1 (VP (VB Have) (NP (NP (DT a) (NN good)) (NN day))))
+-22.196392039197 -63.441172315986
+(S1 (VP (VB Have) (NP (NP (DT a) (JJ good)) (NN day))))
+-22.362815499798 -59.116130551338
+(S1 (SINV (VP (VB Have)) (NP (DT a) (ADJP (JJ good)) (NN day))))
+-22.370775162988 -61.160996565755
+(S1 (SINV (VP (VBP Have)) (NP (DT a) (ADJP (JJ good)) (NN day))))
+-22.581860555868 -66.472137703462
+(S1 (VP (VB Have) (S (NP (DT a) (NN good) (NN day)))))
+-23.131649039941 -65.659173843565
+(S1 (SINV (VB Have) (NP (NP (DT a) (NN good)) (NN day))))
+-23.553923121244 -66.407255824741
+(S1 (S (VP (VBP Have) (S (NP (DT a) (ADJP (JJ good)) (NN day))))))
+-23.661840768928 -64.406871636932
+(S1 (S (VP (VB Have) (S (NP (DT a) (ADJP (JJ good)) (NN day))))))
+-23.724841589488 -66.858928024903
+(S1 (SINV (VB Have) (NP (NP (DT a) (JJ good)) (NN day))))
+-24.505522496263 -65.870987094577
+(S1 (S (VP (VBP Have) (NP (NP (DT a)) (ADJP (JJ good)) (NN day)))))
+-24.547579455534 -64.895550753145
+(S1 (VP (VB Have) (S (NP (DT a) (ADJP (JJ good)) (NN day)))))
+-25.260942129422 -65.176247728946
+(S1 (S (VP (VB Have) (NP (NP (DT a)) (ADJP (JJ good)) (NN day)))))
+-25.954704981393 -65.631281657986
+(S1 (VP (VB Have) (NP (NP (DT a)) (ADJP (JJ good)) (NN day))))
+

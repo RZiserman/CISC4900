@@ -1,0 +1,102 @@
+50 x
+-21.971195874444 -82.641963602300
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-23.023266647090 -86.499270772782
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))
+-23.506579307895 -87.229793783491
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-24.772226278733 -95.344320120717
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VBP go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-24.877113588589 -90.038736699476
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-24.917524962823 -91.154799075138
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))
+-25.824297051379 -99.201627291199
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VBP go) (PP (IN for) (NP (NNP Miami))))))))))))
+-25.857553943334 -97.073264102290
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess))) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-25.947331594722 -95.015830942063
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))
+-26.307609712184 -99.932150301907
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VBP go) (PP (IN for) (NP (NNP Miami))))))))))
+-26.671742286683 -96.093665776608
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))
+-26.882977795368 -98.873138112545
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))
+-27.424214340875 -99.560087083565
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (VP (VBP guess))) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-27.438916990842 -98.735196280291
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VB guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-27.461986153748 -99.603661142534
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))
+-27.678143987303 -102.741093217892
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VBP go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-27.756161279233 -99.590323967170
+(S1 (S (NP (PRP I)) (VP (VB mean) (S (NP (PRP I)) (VP (VB guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))
+-27.926290527290 -98.012882403546
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go))))) (PP (IN for) (NP (NNP Miami)))))))))
+-28.006076746821 -96.276559357991
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (NP (IN for) (NNP Miami))))))))))))
+-28.034937782481 -96.368219181961
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (NP (PRP I)))) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-28.090630358360 -97.233635248580
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (S (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))))
+-28.228232005144 -101.928717877170
+(S1 (S (NP (PRP I)) (VP (VB mean) (NP (PRP I))) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-28.251902240905 -103.238485474360
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VBP guess) (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-28.422292275136 -102.280547824896
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VP (VB go)) (PP (IN for) (NP (NNP Miami)))))))))))))
+-28.423453846587 -97.921059878973
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go))))))) (PP (IN for) (NP (NNP Miami))))))
+-28.472491156359 -98.651829193644
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (MD could) (VP (VBP go) (PP (IN for) (NP (NNP Miami))))))))))))
+-28.689839256325 -102.828702617555
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB guess) (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))
+-28.853249297716 -102.412604039239
+(S1 (S (NP (PRP I)) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))
+-28.978361308298 -101.870189574028
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go))))) (PP (IN for) (NP (NNP Miami))))))))
+-29.058147511104 -100.133866528473
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (NP (IN for) (NNP Miami)))))))))))
+-29.130546248792 -98.083480762781
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (NN I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-29.140428258852 -100.593886131886
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PRT (RP for)) (NP (NNP Miami))))))))))))
+-29.142701125430 -101.090942419062
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (S (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-29.381762572408 -99.994274852838
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (PP (IN for) (S (NP (NNP Miami))))))))))))))
+-29.415591572908 -98.839412364414
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go))) (PP (IN for) (NP (NNP Miami)))))))))))
+-29.524561940156 -102.509136364126
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (MD could) (VP (VBP go) (PP (IN for) (NP (NNP Miami)))))))))))
+-29.541460169121 -100.864389539182
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (NP (IN for) (NNP Miami)))))))))
+-29.549769104193 -102.600712728619
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go))))) (PP (IN for) (NP (NNP Miami))))))
+-29.626013783447 -101.821465429771
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (S (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))
+-30.007874598173 -103.239659374835
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (MD could) (VP (VBP go) (PP (IN for) (NP (NNP Miami)))))))))
+-30.092532985727 -99.151572049779
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go)))))) (PP (IN for) (NP (NNP Miami))))))))
+-30.107650085008 -103.311415836551
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (S (NP (PRP I)) (VP (VBP guess) (NP (PRP I)))) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-30.182617013074 -101.940787933262
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (NN I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))))
+-30.267952924243 -103.302589410629
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (NP (PRP I)) (SBAR (S (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))))))))
+-30.467662337191 -102.696719534896
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go))) (PP (IN for) (NP (NNP Miami))))))))))
+-30.632304003288 -102.738499554348
+(S1 (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go)))))) (PP (IN for) (NP (NNP Miami)))))))
+-30.665929671091 -102.671310943971
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (NN I)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami))))))))))
+-30.739779788886 -101.385852070726
+(S1 (S (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (NP (PRP I))))))) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NNP Miami)))))))
+-30.950974995207 -103.427242545604
+(S1 (S (NP (PRP I)) (VBP mean) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go))) (PP (IN for) (NP (NNP Miami))))))))
+-30.976556228052 -101.075669863132
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (ADVP (IN for) (NP (NNP Miami)))))))))))))
+

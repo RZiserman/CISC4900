@@ -1,0 +1,102 @@
+50 x
+-19.769819409199 -67.263002314874
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just)) (ADVP (RB really)) (VP (VBP are))))
+-20.485421104832 -64.802017495805
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (VP (ADVP (RB just) (RB really)) (VBP are))))
+-20.596513247358 -64.928810374157
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (VP (ADVP (RB just)) (ADVP (RB really)) (VBP are))))
+-20.646041979630 -69.974122165460
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (CONJP (RB just) (RB really)) (VP (VBP are))))
+-20.724861396301 -68.494922617683
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (RB just) (ADVP (RB really)) (VP (VBP are))))
+-20.858172558180 -70.516790684887
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just)) (RB really) (VP (VBP are))))
+-20.968361194772 -69.804764967238
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (VP (CONJP (RB just) (RB really)) (VBP are))))
+-21.558803462472 -70.908138864789
+(S1 (S (CC but) (RB apparently) (NP (PRP they)) (ADVP (RB just)) (ADVP (RB really)) (VP (VBP are))))
+-21.704407148739 -74.175976789896
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are))))
+-22.212583054965 -70.614404140749
+(S1 (S (CC but) (ADVP (RB apparently)) (S (NP (PRP they)) (ADVP (RB just)) (ADVP (RB really)) (VP (VBP are)))))
+-22.247709875410 -71.136239137908
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (NP (PRP they)) (NP (RB just) (RB really))) (VP (VBP are))))
+-22.659336478127 -72.261629377853
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (NP (PRP they)) (ADVP (RB just) (RB really))) (VP (VBP are))))
+-22.713093587800 -74.398447834345
+(S1 (S (CC but) (RB apparently) (NP (PRP they)) (ADVP (RB just)) (RB really) (VP (VBP are))))
+-22.732336675625 -75.091156903495
+(S1 (S (CC but) (RB apparently) (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are))))
+-22.907912383185 -74.475078979325
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (VP (RB just) (ADVP (RB really)) (VBP are))))
+-22.955939946323 -72.661365009574
+(S1 (S (CC but) (ADVP (RB apparently)) (S (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are)))))
+-23.002080157664 -73.783758847428
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are))))
+-23.118056149816 -71.512715634832
+(S1 (S (CC but) (RB apparently) (NP (PRP they)) (VP (ADVP (RB just) (RB really)) (VBP are))))
+-23.229148295129 -71.639508513184
+(S1 (S (CC but) (RB apparently) (NP (PRP they)) (VP (ADVP (RB just)) (ADVP (RB really)) (VBP are))))
+-23.361929387310 -72.094775337539
+(S1 (FRAG (CC but) (RB apparently) (SBAR (S (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are))))))
+-23.375864264946 -73.876884085714
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (RB just) (VP (ADVP (RB really)) (VBP are))))
+-23.397743769130 -76.274581220791
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (NP (PRP they)) (RB just) (RB really)) (VP (VBP are))))
+-23.600996242543 -76.515463106265
+(S1 (S (CC but) (RB apparently) (NP (PRP they)) (VP (CONJP (RB just) (RB really)) (VBP are))))
+-23.728036089338 -72.468833627327
+(S1 (FRAG (CC but) (ADVP (RB apparently)) (SBAR (S (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are))))))
+-23.863615300263 -71.868923471033
+(S1 (S (CC but) (ADVP (RB apparently)) (S (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are)))))
+-23.938977473723 -73.091210712939
+(S1 (S (CC but) (ADVP (RB apparently)) (S (NP (PRP they)) (VP (ADVP (RB just) (RB really)) (VBP are)))))
+-24.030009684550 -74.698938961028
+(S1 (S (CC but) (RB apparently) (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are))))
+-24.068865030673 -73.218003559442
+(S1 (S (CC but) (ADVP (RB apparently)) (S (NP (PRP they)) (VP (ADVP (RB just)) (ADVP (RB really)) (VBP are)))))
+-24.368944576803 -75.414768223938
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (VP (ADVP (ADVP (RB just)) (RB really)) (VBP are))))
+-24.403601733802 -76.404324649077
+(S1 (S (CC but) (S (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are)))))
+-24.448608419935 -75.801802509995
+(S1 (FRAG (CC but) (RB apparently) (S (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are)))))
+-24.451413281890 -74.476473982915
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (VP (ADVP (RB just) (ADVP (RB really))) (VBP are))))
+-24.479508177796 -73.199291242278
+(S1 (S (CC but) (S (ADVP (RB apparently)) (NP (PRP they)) (VP (ADVP (RB just) (RB really)) (VBP are)))))
+-24.521302738612 -76.309383608721
+(S1 (S (CC but) (RB apparently) (NP (NP (PRP they)) (NP (RB just) (RB really))) (VP (VBP are))))
+-24.568015616404 -72.288343831426
+(S1 (FRAG (CC but) (RB apparently) (SBAR (S (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are))))))
+-24.609395734746 -73.326084088782
+(S1 (S (CC but) (S (ADVP (RB apparently)) (NP (PRP they)) (VP (ADVP (RB just)) (ADVP (RB really)) (VBP are)))))
+-24.680763827617 -75.751657483539
+(S1 (FRAG (CC but) (ADVP (RB apparently)) (S (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are)))))
+-24.681264968872 -73.229633516820
+(S1 (FRAG (CC but) (RB apparently) (SBAR (S (NP (PRP they)) (VP (ADVP (RB just) (RB really)) (VBP are))))))
+-24.727679589867 -73.702309376032
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (NP (PRP they)) (ADVP (RB just))) (VP (ADVP (RB really)) (VBP are))))
+-24.811401480157 -73.356426259087
+(S1 (FRAG (CC but) (RB apparently) (SBAR (S (NP (PRP they)) (VP (ADVP (RB just)) (ADVP (RB really)) (VBP are))))))
+-24.940840973431 -72.662402121214
+(S1 (FRAG (CC but) (ADVP (RB apparently)) (SBAR (S (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are))))))
+-24.941638496008 -76.404216392792
+(S1 (FRAG (S (CC but) (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are)))))
+-25.003434617559 -75.518493403321
+(S1 (FRAG (CC but) (S (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just) (RB really)) (VP (VBP are)))))
+-25.047371670900 -73.603691806608
+(S1 (FRAG (CC but) (ADVP (RB apparently)) (SBAR (S (NP (PRP they)) (VP (ADVP (RB just) (RB really)) (VBP are))))))
+-25.184226837184 -73.730484548875
+(S1 (FRAG (CC but) (ADVP (RB apparently)) (SBAR (S (NP (PRP they)) (VP (ADVP (RB just)) (ADVP (RB really)) (VBP are))))))
+-25.311277087743 -75.611883110536
+(S1 (S (CC but) (S (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are)))))
+-25.542624919105 -75.656350789003
+(S1 (S (CC but) (ADVP (RB apparently)) (NP (PRP they) (RB just)) (VP (ADVP (RB really)) (VBP are))))
+-25.675215276189 -75.412079962663
+(S1 (FRAG (CC but) (RB apparently) (S (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are)))))
+-25.914089341658 -75.361934936208
+(S1 (FRAG (CC but) (ADVP (RB apparently)) (S (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are)))))
+-26.236760131600 -75.128770855989
+(S1 (FRAG (CC but) (S (ADVP (RB apparently)) (NP (PRP they)) (ADVP (RB just)) (VP (ADVP (RB really)) (VBP are)))))
+

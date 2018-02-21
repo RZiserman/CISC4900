@@ -1,0 +1,102 @@
+50 x
+-27.435943619385 -103.178752599417
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-28.429950021159 -107.931494789209
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-29.823089076626 -112.529476355485
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (VB work))))))
+-29.967817105427 -110.754659197783
+(S1 (S (CC and) (S (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-30.541321962235 -113.177902568444
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBN called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-30.821214885625 -116.029903120886
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (VB work)))))))
+-30.935183511456 -112.894410249927
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (S (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-31.104039725656 -108.928783504929
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-31.160464453741 -114.993643324014
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (S (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-31.530512341750 -117.078605681496
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBN called) (S (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-31.531165364201 -115.507401432628
+(S1 (S (CC and) (S (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work))))))))
+-31.815498420464 -118.493126012576
+(S1 (S (CC and) (NP (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist))) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-31.824622870652 -112.430934248026
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-32.013375743055 -112.451517372500
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (SBAR (S (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))))
+-32.241821541430 -113.681525694721
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-32.463915336583 -113.829750778428
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJ radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-32.498531798107 -117.647152484773
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (S (NP (DT the) (NN radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work))))))))
+-32.507317893081 -116.828449021397
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (S (NP (NP (PRP me)) (PP (IN at) (NP (NN work))))))))
+-32.641969041957 -113.554729162251
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (X (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-32.723812740392 -119.746385558860
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (S (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work))))))))
+-32.730731343505 -116.955114530671
+(S1 (S (NP (CC and) (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-32.856512479435 -111.768456945120
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me))) (PP (IN at) (NP (NN work)))))
+-32.923049339924 -116.392947893516
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (VP (NP (DT the) (NN radiologist)) (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-33.094654594727 -115.182277323785
+(S1 (S (CC and) (NP (NNP Wednesday)) (NP (RB night) (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-33.266936781828 -117.204259586013
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (SBAR (S (NP (DT the) (NN radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work)))))))))
+-33.356597902488 -115.702109629885
+(S1 (S (CC and) (S (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-33.358698332897 -118.279507260997
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (VB work))))))
+-33.380692225601 -117.953973333101
+(S1 (S (CC and) (NP (NNP Wednesday)) (VP (NN night) (SBAR (S (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))))
+-33.608067587357 -118.582492968221
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJ radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-33.776259567542 -117.300171797774
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist)) (VP (VBN called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-33.782344531447 -115.905284906819
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (S (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-33.794101457730 -118.307471352043
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (X (DT the) (JJS radiologist)) (VP (VBD called) (S (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-33.853149270783 -118.928468901131
+(S1 (S (CC and) (NP (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist))) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-33.986001782522 -118.778464225380
+(S1 (S (CC and) (NP (NP (NNP Wednesday)) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-33.989832067157 -115.896844924653
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (NP (DT the) (JJS radiologist)) (VP (VB called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-34.818853043041 -119.572922795596
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (NP (DT the) (JJS radiologist)) (VP (VBN called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-34.825812158437 -117.918767308057
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (NN radiologist)) (VP (VBD called) (PP (NP (PRP me)) (IN at) (NP (NN work))))))
+-34.888335837774 -119.434331703380
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-34.928725995343 -118.031027046796
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (VP (NP (DT the) (JJS radiologist)) (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-35.193457258532 -118.254717968133
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (ADVP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-35.290348763543 -118.068598869687
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (SBAR (X (DT the) (JJS radiologist)) (S (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))))
+-35.313219444801 -118.180965153538
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (NP (PRP me)) (PP (IN at) (NP (NN work)))))))
+-35.375105320685 -119.238687411501
+(S1 (S (CC and) (NP (NNP Wednesday)) (VP (NN night) (NP (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)))) (PP (IN at) (NP (NN work))))))
+-35.499940543626 -116.425739669217
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (SBAR (S (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))))
+-35.561986348306 -119.593051562521
+(S1 (S (CC and) (NP (NP (NNP Wednesday) (NN night)) (ADJP (DT the) (JJS radiologist))) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-35.723471156506 -119.669278343470
+(S1 (S (CC and) (NP (NNP Wednesday)) (NP (RB night) (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)) (PP (IN at) (NP (NN work))))))
+-36.342973495584 -117.518487850633
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me))) (PP (IN at) (NP (NN work)))))
+-36.841843657161 -119.620695151271
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (NP (NP (DT the) (NN radiologist)) (VP (VBD called) (NP (PRP me)))) (PP (IN at) (NP (NN work)))))
+-36.944578058896 -116.358151554342
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (VP (NP (NP (DT the) (JJS radiologist)) (VP (VBD called) (NP (PRP me)))) (PP (IN at) (NP (NN work))))))
+-38.195682702221 -119.802326551925
+(S1 (S (CC and) (NP (NNP Wednesday) (NN night)) (VP (NP (NP (DT the) (JJS radiologist)) (VP (VBN called) (NP (PRP me)))) (PP (IN at) (NP (NN work))))))
+

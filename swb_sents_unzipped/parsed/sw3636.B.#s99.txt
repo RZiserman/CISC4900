@@ -1,0 +1,102 @@
+50 x
+-28.166003268493 -93.101283202552
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon)))))
+-28.595205534292 -97.062198271625
+(S1 (S (NP (EX There)) (VP (VBZ is) (VP (NN course) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon))))))
+-28.922586656010 -92.681707915972
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-29.305743558274 -99.461365051412
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (DT the) (DT the) (NNP Grand) (NNP Canyon)))))
+-29.416849134995 -99.172588438093
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (NP (DT the) (DT the) (JJ Grand) (NNP Canyon)))))
+-29.511162659695 -98.425175496269
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (NP (DT the) (JJ the) (NNP Grand) (NNP Canyon)))))
+-29.961693216395 -96.478857399045
+(S1 (SINV (ADVP (RB There)) (VBZ is) (NP (NN course)) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon))))
+-29.975702660942 -96.943923700630
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN course)) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon))))))
+-30.024413981482 -93.870806961719
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon)))))
+-30.032148904124 -93.528204776069
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-30.514824716668 -99.191558653507
+(S1 (SINV (ADVP (RB There)) (VP (VBZ is) (NP (NN course))) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon))))
+-30.549377541310 -96.478079905428
+(S1 (S (NP (EX There)) (VP (VBZ is) (ADVP (NN course)) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon)))))
+-30.616645222008 -96.759744762335
+(S1 (S (NP (EX There)) (VP (VBZ is) (VP (NN course) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-30.821496185517 -96.225190063224
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (X (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon)))))
+-30.945172181731 -100.087541434191
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN course)) (NP (DT the) (JJ the) (NNP Grand) (NNP Canyon))))))
+-30.999877428857 -99.821267750371
+(S1 (S (NP (EX There)) (VP (VBZ is) (S (VP (NN course) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon)))))))
+-31.272799356262 -96.233808272099
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-31.352728568269 -96.972409101226
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN course) (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-31.546190702901 -100.841935228434
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (X (NP (DT the) (DT the) (NNP Grand) (NNP Canyon))))))
+-31.616621927722 -100.383334159695
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (S (NP (DT the) (DT the) (NNP Grand) (NNP Canyon)))))))
+-31.871932133478 -98.552661999727
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (S (NP (DT the) (DT the) (NNP Grand) (NNP Canyon))))))
+-31.883948715713 -99.829490795690
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Grand)) (NNP Canyon)))))
+-32.065491916246 -100.689117846785
+(S1 (S (NP (EX There)) (VP (VBZ is) (ADJP (NN course)) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon)))))
+-32.068026898597 -95.658507752868
+(S1 (S (NP (EX There)) (VP (VBZ is) (ADVP (NN course)) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-32.112026221167 -98.237243094086
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (X (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-32.205121336275 -98.612414322566
+(S1 (S (NP (EX There)) (VP (VBZ is) (S (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-32.254769202220 -98.919235432797
+(S1 (SINV (ADVP (RB There)) (VBZ is) (NP (NN course) (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon))))
+-32.321609618117 -95.306757295058
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (SBAR (DT the) (S (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-32.368723834095 -97.127445765888
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (X (X (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-32.499053865429 -99.582155569977
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Grand)) (NNP Canyon))))))
+-32.540140202747 -98.376929020727
+(S1 (SINV (NP (RB There)) (VP (VBZ is) (NP (NN course))) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon))))
+-32.589780312740 -98.860533531458
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (ADVP (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon)))))
+-32.637032633979 -99.827564617785
+(S1 (S (NP (EX There)) (VP (VBZ is) (S (NP (NN course) (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-32.679397570097 -100.343057290118
+(S1 (SINV (ADVP (RB There)) (VBZ is) (NP (NN course)) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon)))))
+-32.766128502478 -99.733996476603
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (SBAR (DT the) (S (NP (DT the) (NNP Grand) (NNP Canyon))))))))
+-33.021317116573 -99.518814241081
+(S1 (S (NP (EX There)) (VP (VBZ is) (S (VP (NN course) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))))
+-33.029759361755 -100.837934462899
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN course)) (X (DT the) (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-33.072625370432 -96.684789131652
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (S (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-33.084117617160 -100.686047626578
+(S1 (S (NP (RB There)) (VP (VBZ is) (NP (NN course)) (NP (DT the) (DT the) (NNP Grand) (NNP Canyon)))))
+-33.096096030744 -99.728137134700
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN course)) (X (X (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-33.112573218610 -99.199956878567
+(S1 (S (ADVP (RB There)) (VP (VBZ is) (NP (NN course))) (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon)))))
+-33.125781729549 -99.012782806153
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (S (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))))
+-33.270564108176 -96.514324003460
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (DT the)) (S (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-33.523574739196 -100.562949739581
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course) (S (NP (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-33.561592489422 -100.574798013858
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (S (NP (DT the)) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-33.623145111808 -100.371030050898
+(S1 (S (NP (EX There)) (VP (VBZ is) (VP (NN course) (S (NP (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))))
+-33.772127999102 -100.266472339997
+(S1 (S (NP (RB There)) (VP (VBZ is) (NP (NN course) (DT the) (NP (DT the) (NNP Grand) (NNP Canyon))))))
+-33.908504443443 -98.581911662224
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (SBAR (WHNP (DT the)) (S (NP (DT the) (NNP Grand) (NNP Canyon)))))))
+-34.006227720087 -100.565678701081
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course)) (S (NP (DT the) (NP (DT the) (NNP Grand)) (NNP Canyon))))))
+-34.397887207767 -100.553762522125
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN course))) (SBAR (X (DT the)) (S (NP (DT the) (NNP Grand) (NNP Canyon))))))
+

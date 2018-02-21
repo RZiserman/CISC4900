@@ -1,0 +1,102 @@
+50 x
+-13.642119615592 -55.306442657281
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-16.079571790129 -62.151242216704
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (RB not) (VBN required)))))))))
+-16.244186381062 -64.651546782264
+(S1 (SBAR (IN That) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-16.376906321833 -60.402677271740
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-16.842962703045 -59.994888892089
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-17.058920815767 -65.642068068440
+(S1 (S (DT That) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-17.193887577707 -63.642303501753
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))
+-17.409899371444 -64.447104371336
+(S1 (FRAG (SBAR (IN That) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))))
+-17.585684961368 -61.418454308775
+(S1 (SBAR (DT That) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-17.607191384715 -63.409937395981
+(S1 (S (WHNP (WDT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-18.007624637231 -61.601523302146
+(S1 (FRAG (SBAR (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))))
+-18.039537313946 -61.088365222211
+(S1 (S (NP (WDT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-18.052756164919 -64.233211274147
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NN something) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-18.122432224479 -61.332028830176
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (JJ required)))))))))
+-18.446531467685 -61.372062241275
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-18.465434859084 -62.461561336205
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB not) (JJ required)))))))))
+-18.681041682537 -61.985745491492
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (IN that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-18.684114854040 -64.364934836453
+(S1 (NP (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-18.799243162434 -66.301545820401
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBD required)))))))))
+-18.814358496371 -67.247476831164
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (RB not) (VBN required))))))))))
+-18.841000103137 -64.419592914684
+(S1 (FRAG (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-19.065190860121 -63.943072530492
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB not) (VBN required)))))))))
+-19.094900698461 -62.348792886343
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (IN that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-19.172514816988 -62.545015804176
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (VBN required)))))))))
+-19.223798692631 -65.752372026021
+(S1 (SBAR (WHNP (DT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-19.280414877583 -66.839688451512
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (RB not) (VBN required)))))))))
+-19.496828715350 -64.807336883372
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WDT that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-19.576316640237 -62.054674631182
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (DT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-19.720423757244 -64.777151792154
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NN something)) (SBAR (IN that) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))
+-19.722396875020 -65.490153120072
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NN something) (SBAR (IN that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-20.299703809761 -62.518809676680
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (DT that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-20.629158847264 -66.760107220312
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (NP (WDT that)) (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-21.072529419950 -65.532577416966
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (NP (IN that)) (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-21.131281747720 -66.428263444635
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (JJ required))))))))))
+-21.181318176714 -66.468296855734
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-21.190599010847 -66.710413948882
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NN something) (SBAR (WDT that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-21.391832411932 -66.020475064984
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (JJ required)))))))))
+-21.415828391566 -67.081980105951
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (IN that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-21.507552892009 -65.023731177161
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NN something)) (SBAR (DT that) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))
+-21.520023983310 -66.554348456320
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NN something) (SBAR (DT that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-21.647374557926 -66.060508476083
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-21.734835046537 -67.150007571013
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB not) (JJ required)))))))))
+-21.881884772778 -66.674191726300
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (IN that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-22.295743785915 -67.037239121151
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (IN that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-22.311103349266 -67.150909245641
+(S1 (SBAR (WHNP (WDT That)) (S (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (DT that)) (S (VP (VBZ is) (RB not) (VP (VBN required))))))))))
+-22.373357907229 -67.233462038984
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (VBN required)))))))))
+-22.452274183621 -67.113951395105
+(S1 (S (NP (WDT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (JJ required)))))))))
+-22.777159730478 -66.743120865990
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (DT that)) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-22.843949168827 -67.153984806204
+(S1 (S (NP (WDT That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+-23.500546897214 -67.207255911488
+(S1 (S (NP (IN That)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (DT that) (S (VP (VBZ is) (RB not) (VP (VBN required)))))))))
+

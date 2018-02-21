@@ -1,0 +1,80 @@
+39 x
+-16.178968871025 -60.121270253238
+(S1 (S (NP (PRP$ My) (NN walkman)) (VP (VBD broke))))
+-19.199834897244 -67.674620929576
+(S1 (NP (NP (PRP$ My) (NN walkman)) (ADVP (RB broke))))
+-19.809179329348 -70.339302093670
+(S1 (S (NP (JJ My) (NN walkman)) (VP (VBD broke))))
+-19.825217736939 -69.755201361880
+(S1 (NP (NP (PRP$ My) (NN walkman)) (VP (VBD broke))))
+-20.282718158968 -69.753996748596
+(S1 (S (NP (PRP$ My) (NN walkman)) (ADVP (RB broke))))
+-20.443720828206 -70.355260106940
+(S1 (NP (PRP$ My) (NN walkman) (RB broke)))
+-20.472573829419 -69.775167882077
+(S1 (S (NP (PRP$ My) (JJ walkman)) (VP (VBD broke))))
+-21.720314747458 -73.633269239244
+(S1 (NP (NP (PRP$ My) (JJ walkman)) (ADVP (RB broke))))
+-21.961027218094 -70.357153238941
+(S1 (NP (PRP$ My) (NN walkman) (S (VP (VBD broke)))))
+-22.114318706272 -77.456648585824
+(S1 (NP (NP (JJ My) (NN walkman)) (ADVP (RB broke))))
+-22.218466334586 -73.893684858445
+(S1 (NP (NP (PRP$ My) (JJ walkman)) (VP (VBD broke))))
+-22.336018170778 -74.140516482933
+(S1 (S (NP (NP (PRP$ My) (NN walkman)) (VP (VBD broke)))))
+-22.336776778042 -73.419360489683
+(S1 (S (NP (NP (PRP$ My) (NN walkman)) (ADVP (RB broke)))))
+-22.628432416570 -74.851990361380
+(S1 (S (NP (PRP$ My) (NN walkman)) (S (VP (VBD broke)))))
+-22.730572645967 -79.537229018128
+(S1 (NP (NP (JJ My) (NN walkman)) (VP (VBD broke))))
+-23.187930590795 -73.759227847469
+(S1 (S (NP (PRP$ My) (NN walkman) (RB broke))))
+-23.865541792767 -76.591544994234
+(S1 (S (NP (PRP$ My) (NX (NN walkman))) (VP (VBD broke))))
+-23.980538518024 -81.510362467406
+(S1 (S (NP (JJ My) (NN walkman)) (ADVP (RB broke))))
+-24.222764471174 -79.609093055528
+(S1 (S (NP (PRP$ My) (JJ walkman)) (ADVP (RB broke))))
+-25.343897984536 -77.935898657219
+(S1 (S (NP (PRP$ My) (NN walkman) (S (VP (VBD broke))))))
+-25.363301907356 -82.046895041095
+(S1 (S (NP (NP (PRP$ My) (JJ walkman)) (ADVP (RB broke)))))
+-25.529833350696 -81.114402868463
+(S1 (S (NP (PRP$ My) (NX (JJ walkman))) (VP (VBD broke))))
+-25.589329875121 -81.485344697485
+(S1 (S (NP (NP (PRP$ My) (JJ walkman)) (VP (VBD broke)))))
+-25.751233617735 -83.201388260258
+(S1 (S (NP (NP (JJ My) (NN walkman)) (ADVP (RB broke)))))
+-25.947693788831 -81.939916597954
+(S1 (NP (NP (PRP$ My) (NX (JJ walkman))) (ADVP (RB broke))))
+-25.948843050471 -83.922544253508
+(S1 (S (NP (NP (JJ My) (NN walkman)) (VP (VBD broke)))))
+-26.133100234748 -82.182233134564
+(S1 (NP (NP (PRP$ My) (NX (NN walkman))) (ADVP (RB broke))))
+-26.306175519959 -82.200332217154
+(S1 (NP (NP (PRP$ My) (NX (JJ walkman))) (VP (VBD broke))))
+-26.346056563794 -85.070022201812
+(S1 (S (NP (JJ My) (NN walkman)) (S (VP (VBD broke)))))
+-26.725938567231 -84.262813566868
+(S1 (NP (NP (PRP$ My) (NX (NN walkman))) (VP (VBD broke))))
+-26.769284579964 -84.505887990219
+(S1 (S (NP (PRP$ My) (JJ walkman)) (S (VP (VBD broke)))))
+-28.091243229382 -85.924646372860
+(S1 (S (NP (PRP$ My) (NX (NN walkman))) (ADVP (RB broke))))
+-29.105060733684 -88.540987811053
+(S1 (S (NP (NP (PRP$ My) (NX (NN walkman))) (VP (VBD broke)))))
+-29.138363850948 -87.819831817803
+(S1 (S (NP (NP (PRP$ My) (NX (NN walkman))) (ADVP (RB broke)))))
+-29.247915099167 -90.093353183674
+(S1 (S (NP (PRP$ My) (NX (JJ walkman))) (ADVP (RB broke))))
+-29.683201389743 -90.537844601724
+(S1 (S (NP (NP (PRP$ My) (NX (JJ walkman))) (ADVP (RB broke)))))
+-29.769559501509 -89.976294258115
+(S1 (S (NP (NP (PRP$ My) (NX (JJ walkman))) (VP (VBD broke)))))
+-30.313664848313 -91.322265102377
+(S1 (S (NP (PRP$ My) (NX (NN walkman))) (S (VP (VBD broke)))))
+-31.825203611241 -95.845122976605
+(S1 (S (NP (PRP$ My) (NX (JJ walkman))) (S (VP (VBD broke)))))
+

@@ -1,0 +1,102 @@
+50 x
+-11.105784652606 -42.636057975995
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (ADJP (JJ handy))))))
+-14.098916264720 -50.795881310085
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (VP (JJ handy))))))
+-14.130576668465 -45.365753096187
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (ADVP (JJ handy))))))
+-14.158330776357 -48.266253270977
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (S (ADJP (JJ handy)))))))
+-14.192565576266 -50.893860877751
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (NP (JJ handy))))))
+-14.993914364072 -53.797589126352
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (VP (ADJP (JJ handy)))))))
+-16.291738220003 -56.311371661025
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (FRAG (ADJP (JJ handy)))))))
+-16.379326681464 -57.495302645244
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (PRT (JJ handy))))))
+-16.512429258369 -57.438634263314
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (FRAG (JJ handy))))))
+-17.069700973640 -54.830037152178
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (S (VP (JJ handy)))))))
+-17.299615354807 -52.362609742137
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (S (ADVP (JJ handy)))))))
+-17.466137251091 -53.441897552021
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (S (NP (JJ handy)))))))
+-17.612268713112 -58.245144382772
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (ADJP (JJ handy)))))
+-18.137556182719 -60.257813167081
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (NP (ADJP (JJ handy)))))))
+-18.453975053060 -60.518626654875
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (ADJP (JJ handy)))))))
+-18.927461290054 -61.150929025639
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (S (VP (ADJP (JJ handy))))))))
+-18.987542057507 -60.839393359761
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (S (ADJP (JJ handy))))))
+-19.249694126489 -64.003282809466
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (FRAG (NP (JJ handy)))))))
+-19.344228335244 -58.371457129629
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (ADVP (JJ handy)))))
+-19.356420176277 -62.968569472073
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (FRAG (ADVP (JJ handy)))))))
+-19.688966938824 -64.369436183945
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (NP (JJ handy)))))
+-19.859757251250 -63.846500861565
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (VP (JJ handy)))))
+-20.000849749312 -60.644939632965
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (ADVP (JJ handy)))))))
+-20.056757552060 -63.112875790072
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (S (ADJP (JJ handy))))))))
+-20.593618489924 -66.642918491902
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (NP (JJ handy)))))))
+-20.605873667743 -68.730797585178
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (SBAR (S (ADJP (JJ handy))))))))
+-20.754755350602 -66.848208677831
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (VP (ADJP (JJ handy))))))
+-20.786316061198 -66.119983125197
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (VP (JJ handy)))))))
+-21.187171278005 -67.533269116631
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (FRAG (ADJP (JJ handy))))))
+-21.213680395073 -68.578114600652
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (PRT (JJ handy)))))
+-21.407862316370 -68.660531718920
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (FRAG (JJ handy)))))
+-21.681314157762 -69.121690941463
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (VP (ADJP (JJ handy))))))))
+-21.836665783972 -63.887748183465
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (S (ADVP (JJ handy))))))
+-21.880650939452 -64.619638090912
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (S (NP (ADJP (JJ handy))))))))
+-21.959711800834 -73.645585228791
+(S1 (NP (NP (PRP It)) (VP (MD might) (VP (VB be) (ADJP (JJ handy))))))
+-22.002843216982 -69.806751532316
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (FRAG (ADJP (JJ handy))))))))
+-22.022874007815 -65.037652236925
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (S (NP (JJ handy))))))
+-22.223534255347 -70.934014134605
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (FRAG (JJ handy)))))))
+-22.225058462414 -70.851597035275
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (PRT (JJ handy)))))))
+-22.267973775396 -68.727027028416
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (S (VP (JJ handy))))))
+-22.905881278525 -66.161230613776
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (S (ADVP (JJ handy))))))))
+-23.092089502368 -67.311134667236
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (S (NP (JJ handy))))))))
+-23.197282303193 -74.752515943026
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (SBAR (S (VP (JJ handy))))))))
+-23.337189269949 -71.000509458727
+(S1 (S (NP (PRP It)) (VP (MD might) (S (VP (VB be) (S (VP (JJ handy))))))))
+-23.389286878944 -74.708091607007
+(S1 (S (NP (PRP It)) (VP (MD might) (VP (VB be) (FRAG (NP (ADJP (JJ handy))))))))
+-23.666775138743 -73.851107496199
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (NP (ADJP (JJ handy))))))
+-23.688554647913 -72.834702610881
+(S1 (S (NP (NP (PRP It)) (VP (MD might) (VP (VB be) (ADJP (JJ handy)))))))
+-24.125734089023 -75.047918901877
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (S (VP (ADJP (JJ handy)))))))
+-24.145127184490 -75.225180265072
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (FRAG (NP (JJ handy))))))
+-24.251853234279 -74.190466927680
+(S1 (S (NP (PRP It)) (MD might) (VP (VB be) (FRAG (ADVP (JJ handy))))))
+

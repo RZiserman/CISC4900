@@ -1,0 +1,102 @@
+50 x
+-22.307131247411 -77.489573211805
+(S1 (S (VP (VB let) (S (NP (PRP 's)) (VP (NN example) (NP (UH uh)))))))
+-23.098283087547 -79.395904217219
+(S1 (S (VP (VB let) (S (NP (PRP 's)) (VP (NN example) (ADVP (UH uh)))))))
+-23.205318236094 -76.328151518601
+(S1 (S (NP (NNP let) (POS 's)) (VP (NN example) (NP (UH uh)))))
+-23.389201847925 -74.522540927973
+(S1 (S (VP (VB let) (NP (PRP 's)) (ADVP (NN example) (UH uh)))))
+-23.492648229996 -74.462439072662
+(S1 (S (VP (VB let) (NP (PRP 's)) (S (VP (NN example) (NP (UH uh)))))))
+-23.819714821077 -77.742266027781
+(S1 (S (VP (VB let) (S (NP (POS 's)) (VP (NN example) (NP (UH uh)))))))
+-23.900029424008 -73.502379602016
+(S1 (S (NP (VB let) (POS 's)) (VP (NN example) (NP (UH uh)))))
+-23.971664703479 -76.797399284489
+(S1 (S (VP (VB let) (S (VP (POS 's) (NP (NN example)) (ADVP (UH uh)))))))
+-24.280299007867 -78.234482502349
+(S1 (S (NP (NNP let) (POS 's)) (VP (NN example) (ADVP (UH uh)))))
+-24.319430956193 -76.368770027295
+(S1 (S (VP (VB let) (NP (PRP 's)) (S (VP (NN example) (ADVP (UH uh)))))))
+-24.504686944330 -74.913938955884
+(S1 (VP (VB let) (NP (PRP 's)) (ADVP (NN example) (UH uh))))
+-24.793459468426 -79.648597033194
+(S1 (S (VP (VB let) (S (NP (POS 's)) (VP (NN example) (ADVP (UH uh)))))))
+-24.835351901593 -81.533252336204
+(S1 (VP (VB let) (S (NP (PRP 's)) (VP (NN example) (NP (UH uh))))))
+-24.888736317943 -79.952277766479
+(S1 (S (VP (VB let) (S (NP (VBZ 's)) (VP (NN example) (NP (UH uh)))))))
+-24.944961578448 -80.432749923507
+(S1 (S (NP (NP (NNP let) (POS 's)) (NN example)) (NP (UH uh))))
+-24.975010198570 -75.408710585765
+(S1 (S (NP (VB let) (POS 's)) (VP (NN example) (ADVP (UH uh)))))
+-25.069800212774 -77.547407720275
+(S1 (S (VP (VB let) (NP (PRP 's)) (SBAR (NN example) (FRAG (ADVP (UH uh)))))))
+-25.542918791286 -79.345789614130
+(S1 (S (VP (VB let) (NP (PRP 's)) (ADVP (NP (NN example)) (UH uh)))))
+-25.551311220857 -79.497763592680
+(S1 (S (VP (VB let) (S (VP (POS 's) (ADJP (NN example)) (ADVP (UH uh)))))))
+-25.729381845292 -81.858608771893
+(S1 (S (VP (VB let) (S (NP (VBZ 's)) (VP (NN example) (ADVP (UH uh)))))))
+-25.730523914263 -77.406944828844
+(S1 (VP (VB let) (NP (PRP 's)) (S (VP (NN example) (NP (UH uh))))))
+-25.731191782807 -80.833923498099
+(S1 (S (VP (VB let) (NP (PRP 's)) (NP (NP (NN example)) (ADVP (UH uh))))))
+-25.825656218321 -80.773752893755
+(S1 (S (VP (VB let) (S (VP (POS 's) (NP (NP (NN example)) (ADVP (UH uh))))))))
+-25.848972597988 -81.090965526314
+(S1 (S (VP (VB let) (NP (PRP 's)) (SBAR (NN example) (FRAG (NP (UH uh)))))))
+-25.898129552536 -81.893959426991
+(S1 (S (VP (VB let) (S (VP (VBZ 's) (NP (NN example)) (ADVP (UH uh)))))))
+-25.907673077140 -80.859202673117
+(S1 (S (NP (NP (NNP let) (POS 's)) (NN example)) (ADVP (UH uh))))
+-26.004803732330 -80.801376470101
+(S1 (S (VP (VB let) (POS 's) (NP (NN example)) (ADVP (UH uh)))))
+-26.012699430083 -80.495612785679
+(S1 (S (VP (VB let) (NP (PRP 's)) (S (NP (NN example)) (NP (UH uh))))))
+-26.014537052961 -80.648770626694
+(S1 (S (VP (VB let) (NP (PRP 's)) (S (ADJP (NN example)) (NP (NNP uh))))))
+-26.149167980194 -80.162884280950
+(S1 (S (VP (VB let) (NP (PRP 's)) (SBAR (S (VP (NN example) (NP (UH uh))))))))
+-26.211801212035 -78.297688263146
+(S1 (S (VP (VB let) (SBAR (S (VP (VBZ 's) (NP (NN example)) (ADVP (UH uh))))))))
+-26.366905569759 -81.131747286683
+(S1 (S (VP (VB let) (NP (VBZ 's) (NN example)) (ADVP (UH uh)))))
+-26.375103996524 -81.876533146729
+(S1 (S (NP (VBP let) (POS 's)) (VP (NN example) (NP (UH uh)))))
+-26.438335772472 -81.785945152180
+(S1 (VP (VB let) (S (NP (POS 's)) (VP (NN example) (NP (UH uh))))))
+-26.555778387692 -79.737187642042
+(S1 (VP (VB let) (NP (PRP 's)) (ADVP (NP (NN example)) (UH uh))))
+-26.563575135301 -79.390506056321
+(S1 (VP (VB let) (NP (PRP 's)) (NP (NP (NN example)) (ADVP (UH uh)))))
+-26.569814047105 -80.272518261756
+(S1 (S (VP (VB let) (SBAR (S (VP (VBZ 's) (NP (NN example)) (NP (UH uh))))))))
+-26.588383974064 -78.610456947632
+(S1 (VP (VB let) (NP (PRP 's)) (SBAR (NN example) (FRAG (ADVP (UH uh))))))
+-26.648858547673 -79.313275783477
+(S1 (VP (VB let) (NP (PRP 's)) (S (VP (NN example) (ADVP (UH uh))))))
+-26.948396036209 -82.069215392340
+(S1 (S (VP (VB let) (NP (PRP 's)) (SBAR (S (VP (NN example) (ADVP (UH uh))))))))
+-26.993019938806 -81.185186398079
+(S1 (VP (VB let) (S (VP (POS 's) (NP (NN example)) (ADVP (UH uh))))))
+-27.217118553939 -81.726801355694
+(S1 (S (VP (VB let) (NP (PRP 's)) (S (NP (NN example)) (ADVP (UH uh))))))
+-27.326200434153 -80.931095370400
+(S1 (VP (VB let) (NP (VBZ 's) (NN example)) (ADVP (UH uh))))
+-27.461649467291 -79.106397955004
+(S1 (S (VP (VB let) (SBAR (S (VP (VBZ 's) (NP (NP (NN example)) (ADVP (UH uh)))))))))
+-27.564216387456 -81.380746305510
+(S1 (S (VP (VB let) (SBAR (S (VP (VBZ 's) (NP (NP (NN example)) (NP (UH uh)))))))))
+-27.769359651766 -80.884847119950
+(S1 (VP (VB let) (NP (PRP 's)) (SBAR (S (VP (NN example) (NP (UH uh)))))))
+-27.921292489495 -80.815093775111
+(S1 (S (VP (VB let) (NP (NP (PRP 's)) (NP (NN example))) (ADVP (UH uh)))))
+-27.984090756524 -80.103544365539
+(S1 (VP (VB let) (SBAR (S (VP (VBZ 's) (NP (NN example)) (ADVP (UH uh)))))))
+-28.842708443112 -81.206491803022
+(S1 (VP (VB let) (NP (NP (PRP 's)) (NP (NN example))) (ADVP (UH uh))))
+-28.989475898993 -80.912254057398
+(S1 (VP (VB let) (SBAR (S (VP (VBZ 's) (NP (NP (NN example)) (ADVP (UH uh))))))))
+

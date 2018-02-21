@@ -1,0 +1,102 @@
+50 x
+-23.557651455440 -86.209463436761
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))
+-25.701611421555 -94.522625178356
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (NNP uh)))))))))
+-26.010479398823 -91.344720620853
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))))
+-26.903331251093 -89.330613109448
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))))
+-27.919952856193 -95.983668718944
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))))
+-28.084860339568 -95.294003633204
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (ADVP (UH uh)))))))))
+-28.195009493938 -99.657882362447
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (NNP uh))))))))))
+-28.635059918968 -101.900564401043
+(S1 (S (CC And) (NP (NNS people)) (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))
+-28.945508834135 -99.764559837782
+(S1 (FRAG (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))))
+-29.212144183583 -99.888000262154
+(S1 (S (NP (CC And) (NP (NNS people))) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))
+-29.450235775208 -97.643774851042
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (NNP uh))))))))))
+-29.592330227448 -94.245100784798
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (ADJP (JJ alternate)) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))
+-29.641816679845 -97.540764906503
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))
+-29.847886387419 -91.630328236534
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))))) (PP (IN of) (NP (UH uh)))))
+-29.944201834896 -96.326779605603
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (UH uh)))))))
+-30.156600162459 -104.296830460538
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (NNP uh))))))))))
+-30.463865834576 -101.118925903183
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))))
+-30.481560124436 -103.590511555293
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (ADJP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))
+-30.537688280163 -100.429260817295
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (ADVP (UH uh))))))))))
+-30.546013994755 -104.515717435341
+(S1 (FRAG (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))))
+-30.591488424627 -104.267776828487
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PRT (RP for)) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))
+-30.963537891234 -105.106500312991
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (ADJP (VBG looking)) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))
+-31.090466374945 -101.515054976843
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (S (NP (UH uh))))))))))
+-31.231279339515 -105.546694477882
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (NNP uh))))))))
+-31.359552651177 -99.104818614606
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))))
+-31.430540138008 -98.415153305890
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (ADVP (UH uh))))))))))
+-31.518862764867 -105.379336760858
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PRT (IN for)) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh))))))))
+-31.736290187987 -102.558262526392
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (ADJP (JJ alternate)) (NNS ways)) (PP (IN of) (NP (NNP uh)))))))))
+-32.045158173619 -99.380357968889
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (ADJP (JJ alternate)) (NNS ways)) (PP (IN of) (NP (UH uh))))))))))
+-32.094644626016 -102.676022090594
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))
+-32.150418136238 -104.162876321882
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (S (ADVP (UH uh))))))))))
+-32.228775074426 -100.287721550831
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))))) (PP (IN of) (NP (NNP uh)))))
+-32.229443553514 -104.897547859926
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (NNP uh)))))))
+-32.237358321140 -98.773318639861
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (UH uh))))))))
+-32.447161737533 -105.068208915387
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (ADVP (UH uh))))))))))
+-32.533879781067 -101.462036789694
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (UH uh))))))))
+-32.938010025888 -97.366250457484
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (ADJP (JJ alternate)) (NNS ways)) (PP (IN of) (NP (UH uh))))))))))
+-32.987496481073 -100.661914579189
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways)) (PP (IN of) (NP (UH uh)))))))))
+-33.289881630549 -99.447929278289
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (UH uh))))))))
+-33.386345819553 -102.870652707343
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (ADVP (UH uh)))))))
+-33.677396741347 -104.726774923203
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways)) (PP (IN of) (ADVP (UH uh))))))))
+-33.679393987928 -97.521613902822
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))))) (PP (IN of) (ADVP (UH uh)))))
+-33.954631639352 -104.019306066980
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (NP (ADJP (JJ alternate)) (NNS ways)) (PP (IN of) (NP (UH uh))))))))))
+-34.119539119939 -103.329640981241
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (ADJP (JJ alternate)) (NNS ways)) (PP (IN of) (ADVP (UH uh)))))))))
+-34.253221129962 -105.265796115512
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (UH uh))))))))
+-34.436146151083 -104.636204649529
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJ alternate) (NNS ways)) (PP (IN of) (S (NP (UH uh)))))))))))
+-34.690186258948 -103.908575823953
+(S1 (S (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (UH uh)))))))))
+-35.027588844859 -101.846520997107
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (S (VP (VBG looking) (PP (IN for) (NP (JJ alternate) (NNS ways)))))) (PP (IN of) (NP (UH uh)))))
+-35.572766466006 -100.997913962166
+(S1 (S (CC And) (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (ADJP (JJ alternate)) (NNS ways))))) (PP (IN of) (NP (UH uh)))))
+-35.583038114006 -101.894468312548
+(S1 (FRAG (CC And) (S (NP (NNS people)) (VP (VBP are) (VP (VBG looking) (PP (PP (IN for) (NP (JJ alternate) (NNS ways))) (PP (IN of) (NP (UH uh)))))))))
+

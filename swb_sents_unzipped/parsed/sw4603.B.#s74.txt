@@ -1,0 +1,102 @@
+50 x
+-48.762592811789 -159.103354784121
+(S1 (S (CC and) (RB well) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented))))))))
+-49.245446420086 -156.407224536305
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented)))))
+-49.267097467381 -158.310039032376
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented)))))
+-49.462634023549 -160.515549137682
+(S1 (S (CC and) (RB well) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented))))))))
+-49.581603472259 -160.598366690284
+(S1 (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (POS 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented))))))))
+-49.675475192652 -158.613188001196
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (JJ oriented)))))
+-49.697126239948 -160.516002497267
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (JJ oriented)))))
+-50.124344933302 -160.612583739621
+(S1 (S (CC and) (RB well) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (S (VP (VBN oriented)))))))))
+-50.152930528259 -159.723793396341
+(S1 (FRAG (CC and) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented))))))))))
+-50.231358186733 -161.202408942920
+(S1 (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (POS 's) (NP (PRP it)) (S (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented)))))))
+-50.338688337197 -160.584542981876
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (NP (JJ aggressive) (JJ oriented)))))
+-50.356610556192 -160.886247967535
+(S1 (S (CC and) (S (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented)))))
+-50.374118793254 -157.916453646079
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (S (VP (VBN oriented))))))
+-50.395769840550 -159.819268142149
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (S (VP (VBN oriented))))))
+-50.467315934062 -161.125059907506
+(S1 (S (S (CC and) (RB well) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented)))))
+-50.603677855279 -160.304019127764
+(S1 (S (CC and) (RB well) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (VP (VBN oriented)))))))))
+-50.671015805774 -161.135987850795
+(S1 (FRAG (CC and) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented))))))))))
+-50.732623251996 -158.764660245304
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RBR aggre-) (JJ aggressive)) (S (VP (VBN oriented))))))
+-50.754274299291 -160.667474741375
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RBR aggre-) (JJ aggressive)) (S (VP (VBN oriented))))))
+-50.812939035231 -157.607889034222
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (VP (VBN oriented))))))
+-50.834590082527 -159.510703530293
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (VP (VBN oriented))))))
+-50.960006267792 -158.568093745841
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (ADVP (JJ oriented)))))
+-50.981657315088 -160.470908241912
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (ADVP (JJ oriented)))))
+-51.035606947392 -160.828838545037
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (POS 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented)))))
+-51.186511076567 -160.417472990412
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive)) (S (VP (VBN oriented))))))
+-51.213801406358 -161.191529602985
+(S1 (FRAG (CC and) (RB well) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (NP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive) (VBN oriented))))))))))
+-51.350780376534 -159.416300345066
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RBR aggre-) (JJ aggressive)) (ADVP (JJ oriented)))))
+-51.514682677650 -161.233022351841
+(S1 (FRAG (CC and) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (S (VP (VBN oriented)))))))))))
+-51.572450794313 -160.021147031697
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (ADJP (JJ aggressive) (JJ oriented))))))
+-51.679230444759 -159.176966667823
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (ADVP (RB pretty) (RB aggre-)) (JJ aggressive)) (S (VP (VBN oriented))))))
+-51.700881492055 -161.079781163894
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (ADVP (RB pretty) (RB aggre-)) (JJ aggressive)) (S (VP (VBN oriented))))))
+-51.776177895105 -161.069113090174
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (ADJP (RB pretty) (JJ aggre-)) (JJ aggressive)) (ADVP (JJ oriented)))))
+-51.786257216457 -158.393882974085
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (ADJP (JJ oriented))))))
+-51.807908263753 -160.296697470156
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (ADJP (JJ oriented))))))
+-51.932940968505 -161.090013067627
+(S1 (S (CC and) (RB well) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (ADJP (JJ oriented)))))))))
+-51.933555008172 -160.250295595447
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (ADVP (JJ aggressive)) (ADJP (JJ oriented)))))
+-51.994015571748 -160.924457739985
+(S1 (FRAG (CC and) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (VP (VBN oriented)))))))))))
+-52.202938469297 -159.828606767585
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (ADVP (RB pretty) (RB aggre-)) (JJ aggressive)) (ADVP (JJ oriented)))))
+-52.373506057422 -161.161036068999
+(S1 (S (CC and) (RB well) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (ADJP (VBN oriented)))))))))
+-52.484665437374 -158.464905975457
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (ADJP (VBN oriented))))))
+-52.486492465934 -160.611091658528
+(S1 (S (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)))) (ADJP (JJ oriented))))
+-52.506316484670 -160.367720471528
+(S1 (S (CC and) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP it))))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (S (NP (JJ aggressive)) (ADJP (VBN oriented))))))
+-52.509385145680 -161.021874329052
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (NP (NP (JJ aggressive)) (VP (VBN oriented))))))
+-52.580201266764 -160.407388401370
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (S (ADJP (JJ oriented))))))
+-52.717452508928 -158.953295821150
+(S1 (S (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)))) (ADJP (JJ oriented))))
+-52.831676252925 -160.833574974604
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive)) (S (ADJP (VBN oriented))))))
+-53.083827490602 -159.693728479443
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (JJ aggre-)) (ADVP (JJ aggressive)) (ADJP (VBN oriented)))))
+-53.090791307670 -159.801502420375
+(S1 (S (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RBR aggre-) (JJ aggressive)))) (ADJP (JJ oriented))))
+-53.576998762555 -160.213808842894
+(S1 (S (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)))) (NP (PRP it)) (VP (VBZ seems) (ADJP (ADVP (RB pretty) (RB aggre-)) (JJ aggressive)))) (ADJP (JJ oriented))))
+-53.636206395827 -160.832212956095
+(S1 (S (S (CC and) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP it)) (SBAR (S (NP (PRP it)) (VP (VBZ seems) (ADJP (RB pretty) (RB aggre-) (JJ aggressive))))))) (ADJP (JJ oriented))))
+

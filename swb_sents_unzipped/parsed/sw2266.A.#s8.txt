@@ -1,0 +1,102 @@
+50 x
+-21.767896033905 -76.725506222382
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))
+-22.236282813616 -75.425822103630
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess)))))
+-23.617074768976 -82.786071603748
+(S1 (S (NP (NNP Barney) (NNP Fife)) (NP (PRP I)) (VP (VBP guess))))
+-24.000380200564 -84.121104373684
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VB guess)))))
+-24.172604148412 -86.577831436377
+(S1 (S (NP (NP (NNP Barney) (NNP Fife)) (NP (PRP I))) (VP (VBP guess))))
+-24.344981168910 -76.553396466905
+(S1 (FRAG (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess)))))
+-24.712551325531 -83.147876062983
+(S1 (S (NP (NNP Barney) (NNP Fife) (PRP I)) (VP (VBP guess))))
+-24.843819047125 -81.240768118820
+(S1 (S (VP (NNP Barney) (NP (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess))))))
+-25.269491031412 -85.153913339049
+(S1 (S (NP (NNP Barney)) (VP (NNP Fife) (S (NP (PRP I)) (VP (VBP guess))))))
+-25.282999204539 -83.633052629542
+(S1 (FRAG (NP (NP (NNP Barney) (NNP Fife)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-25.302546013927 -90.650858695681
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (SBAR (S (NP (PRP I)) (VP (VB guess))))))
+-25.331171143119 -88.577738151064
+(S1 (S (NP (NNP Barney) (NNP Fife)) (NP (PRP I)) (VP (VB guess))))
+-25.382503111445 -85.532435176651
+(S1 (S (NP (NNP Barney) (NNP Fife)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))
+-25.480282353251 -85.366975883357
+(S1 (S (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess)))))
+-25.541189075890 -87.230313441011
+(S1 (S (NP (NP (NNP Barney) (NNP Fife)) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-25.785978511454 -90.853112648809
+(S1 (NP (NNP Barney) (NNP Fife) (FW I) (NN guess)))
+-25.793095680256 -88.923991600962
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (NP (PRP I) (NN guess))))
+-25.935504041639 -94.032150914484
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (NP (NP (PRP I)) (VP (VB guess)))))
+-25.979484837307 -91.023327842370
+(S1 (S (NP (NNP Barney) (NNP Fife) (NNP I)) (VP (VBP guess))))
+-26.057206661819 -89.836095478358
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (NP (PRP I)) (S (VP (VB guess)))))
+-26.194427367719 -91.671236428672
+(S1 (NP (NNP Barney) (NNP Fife) (NN I) (NN guess)))
+-26.330225779353 -93.677985871260
+(S1 (S (NP (NNP Barney)) (VP (VBP Fife) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-26.446176777504 -85.645841516370
+(S1 (FRAG (NP (NNP Barney) (NNP Fife)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))
+-26.454598851295 -88.014001559823
+(S1 (S (NP (NNP Barney)) (VP (NNP Fife) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-26.510336676065 -87.846610428396
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (NP (PRP I)) (S (VP (VBP guess)))))
+-26.650614991097 -92.915774038965
+(S1 (NP (NNP Barney) (NNP Fife) (NNP I) (NN guess)))
+-27.058129667891 -93.297757007519
+(S1 (S (NP (NNP Barney)) (VP (JJ Fife) (S (NP (PRP I)) (VP (VBP guess))))))
+-27.218615005013 -94.026527587887
+(S1 (NP (NNP Barney) (NNP Fife) (PRP I) (NN guess)))
+-27.233835574696 -90.926301149019
+(S1 (S (VP (NNP Barney) (NP (NNP Fife)) (S (NP (PRP I)) (VP (VB guess))))))
+-27.282481684676 -91.403173729443
+(S1 (S (NP (NNP Barney)) (ADJP (JJ Fife) (SBAR (S (NP (PRP I)) (VP (VBP guess)))))))
+-27.294336823789 -93.555174615692
+(S1 (S (NP (NNP Barney) (NNP Fife) (PRP I)) (VP (VB guess))))
+-27.294778478712 -92.093529314187
+(S1 (FRAG (NP (NP (NNP Barney) (NNP Fife)) (NP (PRP I))) (VP (VB guess))))
+-27.364596091002 -86.961993611139
+(S1 (FRAG (NP (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess))))))
+-27.377157076557 -92.616832136386
+(S1 (S (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VB guess)))))
+-27.515396579340 -88.572696199206
+(S1 (FRAG (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VB guess)))))
+-27.669682032138 -87.793377613653
+(S1 (NP (NP (NP (NNP Barney)) (NP (NNP Fife))) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))
+-28.094211250571 -90.622055880691
+(S1 (S (NP (NP (NNP Barney) (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess))))))
+-28.106631897461 -91.403412891893
+(S1 (NP (NP (NP (NNP Barney)) (NNP Fife)) (SBAR (S (NP (PRP I)) (VP (VBP guess))))))
+-28.139876301849 -86.493693494901
+(S1 (NP (NP (NP (NNP Barney)) (NP (NNP Fife))) (S (NP (PRP I)) (VP (VBP guess)))))
+-28.175917956254 -93.776931159695
+(S1 (NP (NP (NNP Barney) (JJ Fife)) (S (NP (PRP I)) (VP (VBP guess)))))
+-28.455040400054 -91.609288076291
+(S1 (FRAG (NP (NP (NNP Barney) (NNP Fife)) (NP (PRP I))) (S (VP (VBP guess)))))
+-28.575018677172 -90.103728773140
+(S1 (NP (NP (NP (NNP Barney)) (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess)))))
+-28.790999588625 -93.806776721478
+(S1 (NP (NP (NNP Barney) (NNP Fife)) (NP (PRP I)) (SBAR (S (VP (VBP guess))))))
+-28.824185101404 -90.490695822788
+(S1 (S (NP (NNP Barney)) (ADJP (NNP Fife) (S (NP (PRP I)) (VP (VBP guess))))))
+-28.942789799350 -93.325812486300
+(S1 (FRAG (NP (NNP Barney) (NNP Fife) (NNP I)) (VP (VB guess))))
+-29.605580069494 -90.698146362164
+(S1 (FRAG (S (NP (NNP Barney) (NNP Fife) (PRP I)) (VP (VBP guess)))))
+-29.765186543368 -93.819970869737
+(S1 (FRAG (NP (NNP Barney) (JJ Fife)) (S (NP (PRP I)) (VP (VBP guess)))))
+-29.787890076175 -92.421810344389
+(S1 (FRAG (S (VP (NNP Barney) (NP (NNP Fife)) (S (NP (PRP I)) (VP (VBP guess)))))))
+-29.903230371808 -88.123192952880
+(S1 (FRAG (NP (NP (NNP Barney)) (NP (NNP Fife))) (S (NP (PRP I)) (VP (VBP guess)))))
+-30.018911321833 -92.290913649095
+(S1 (FRAG (NP (NNP Barney) (NNP Fife) (NNP I)) (S (VP (VBP guess)))))
+

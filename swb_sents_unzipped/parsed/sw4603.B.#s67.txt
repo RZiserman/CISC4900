@@ -1,0 +1,102 @@
+50 x
+-18.310842225398 -53.318006394871
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-18.412482939470 -53.726353262918
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-18.574526473078 -52.730636301743
+(S1 (SINV (CONJP (RB Well) (IN that)) (VBZ 's) (NP (CD one) (NN view))))
+-19.068454079486 -58.232535724993
+(S1 (S (NP (RB Well) (DT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-19.150615467770 -58.411824842301
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (VBZ 's) (NP (CD one) (NN view))))))
+-19.201548674254 -58.732903146012
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-19.349919879273 -55.946040892856
+(S1 (SINV (CONJP (RB Well) (RB that)) (VBZ 's) (NP (CD one) (NN view))))
+-19.374079826567 -57.294997572044
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-19.415782111484 -61.076235641889
+(S1 (S (NP (RB Well) (DT that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-19.523732027189 -54.048162986892
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-19.582863619417 -57.656534630813
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (CD one) (NN view)))))))
+-19.626999756453 -60.026263017243
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-19.709784252363 -59.861684058603
+(S1 (FRAG (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (CD one) (NN view)))))))
+-19.974842574100 -61.104828014326
+(S1 (S (RB Well) (NP (DT that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-20.318166898403 -59.875668222869
+(S1 (SBAR (RB Well) (DT that) (S (VP (VBZ 's) (NP (CD one) (NN view))))))
+-20.498504159480 -63.598562668786
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT that)) (S (VP (POS 's) (NP (CD one) (NN view))))))
+-20.687892268584 -59.478094694162
+(S1 (S (RB Well) (NP (DT that)) (VP (VBZ 's) (NP (PRP one) (NN view)))))
+-20.789532982655 -59.886441562209
+(S1 (S (INTJ (UH Well)) (NP (DT that)) (VP (VBZ 's) (NP (PRP one) (NN view)))))
+-20.851935203453 -62.261553105183
+(S1 (S (CONJP (RB Well) (RB that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-20.928357832699 -62.791485391161
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (POS 's) (NP (CD one) (NN view)))))))
+-20.963941496529 -60.799790639839
+(S1 (SBAR (RB Well) (IN that) (S (VP (VBZ 's) (NP (CD one) (NN view))))))
+-21.017881865426 -59.831105630570
+(S1 (S (CONJP (RB Well) (IN that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-21.021642236544 -62.488863599132
+(S1 (S (NP (RB Well) (WDT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-21.029849222923 -62.974294332134
+(S1 (SBAR (RB Well) (IN that) (S (VP (POS 's) (NP (CD one) (NN view))))))
+-21.070414484839 -61.818311677553
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (POS 's) (NP (CD one) (NN view)))))))
+-21.099252173240 -63.342466469083
+(S1 (S (NP (RB Well) (WDT that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-21.113680751533 -61.799820528349
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-21.145615438261 -60.371699947243
+(S1 (FRAG (RB Well) (SBAR (IN that) (S (VP (VBZ 's) (NP (CD one) (NN view)))))))
+-21.513902284008 -62.993046837887
+(S1 (S (CONJP (RB Well) (IN that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-21.617285992631 -61.987126918342
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (POS 's) (NP (CD one) (NN view)))))))
+-21.751129869753 -63.455085871335
+(S1 (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (PRP one) (NN view)))))
+-21.774868623836 -62.340431424117
+(S1 (SINV (ADVP (RB Well) (IN that)) (VP (VBZ 's)) (NP (CD one) (NN view))))
+-21.784501890253 -60.540515188033
+(S1 (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (VBZ 's) (NP (CD one) (NN view)))))))
+-21.858741175600 -60.930314661538
+(S1 (FRAG (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))))
+-21.900782070375 -60.208251286183
+(S1 (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (PRP one) (NN view)))))
+-21.915216901559 -59.631404622016
+(S1 (S (RB Well) (NP (WDT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-22.016984283782 -61.863000673291
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view))))))))
+-22.027849172140 -62.959956968045
+(S1 (S (ADVP (RB Well)) (S (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view))))))
+-22.074350827520 -63.005386877451
+(S1 (SINV (ADVP (RB Well) (IN that)) (VBZ 's) (NP (CD one) (NN view))))
+-22.153412876791 -60.648252258223
+(S1 (ADJP (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))))
+-22.172484709293 -59.276535554662
+(S1 (FRAG (CONJP (RB Well) (IN that)) (S (VP (VBZ 's) (NP (CD one) (NN view))))))
+-22.203701272378 -60.783325977138
+(S1 (S (INTJ (UH Well)) (NP (WDT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-22.247511527405 -59.346298030542
+(S1 (S (RB Well) (NP (IN that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-22.372751443984 -60.498219257125
+(S1 (S (INTJ (UH Well)) (NP (IN that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-22.468882252353 -63.636006996051
+(S1 (SBAR (ADVP (RB Well)) (IN that) (S (VP (VBZ 's) (NP (CD one) (NN view))))))
+-22.567084640091 -63.433622533096
+(S1 (S (INTJ (UH Well)) (NP (WDT that)) (VP (POS 's) (NP (CD one) (NN view)))))
+-23.062270859720 -62.392203259159
+(S1 (S (ADVP (RB Well)) (NP (IN that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-23.366758917310 -61.105135701111
+(S1 (S (INTJ (RB Well)) (NP (WDT that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+-23.465899564597 -62.313448159926
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (CD one) (NN view))))))))
+-23.698536551915 -60.820028981099
+(S1 (S (INTJ (RB Well)) (NP (IN that)) (VP (VBZ 's) (NP (CD one) (NN view)))))
+

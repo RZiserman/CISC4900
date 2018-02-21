@@ -1,0 +1,102 @@
+50 x
+-35.956281442290 -134.612309970278
+(S1 (S (CC So) (NP (PRP I)) (ADVP (RB just)) (VP (VB m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-36.373165198372 -127.976013716201
+(S1 (S (CC So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-36.474886448784 -135.523732213279
+(S1 (S (CC So) (NP (PRP I)) (ADVP (RB just)) (VP (VB m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-36.698100771309 -127.753498642136
+(S1 (S (IN So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-37.077727697759 -128.228639140945
+(S1 (S (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-37.218999529615 -135.908157444325
+(S1 (S (RB So) (NP (PRP I)) (ADVP (RB just)) (VP (VB m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-37.475325921775 -130.458288766978
+(S1 (SQ (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-37.478161029880 -131.789492402294
+(S1 (S (ADVP (RB So)) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-37.647174898481 -135.012738985040
+(S1 (S (IN So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VB m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-37.670765318915 -130.541403102858
+(S1 (SQ (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-38.206357392866 -135.844517839799
+(S1 (S (CC So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-38.444266221806 -133.585695861806
+(S1 (S (IN So) (NP (PRP I)) (VP (ADVP (RB just)) (VBD m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-38.541193849770 -134.892884341752
+(S1 (S (IN So) (NP (PRP I)) (VP (ADVP (RB just)) (VBD m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-38.568917567341 -135.420379018628
+(S1 (SQ (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))
+-38.570368545152 -133.587424230808
+(S1 (S (IN So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))))
+-38.744712753273 -134.864305074680
+(S1 (S (RB So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VB m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-38.904056613694 -134.887567903428
+(S1 (S (CC So) (NP (PRP I)) (ADJP (RB just) (JJR m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-38.917274511278 -135.775727698496
+(S1 (S (RB So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VB m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))))
+-38.929517294177 -134.127817275284
+(S1 (S (IN So) (S (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-38.993263775026 -131.615875874699
+(S1 (S (IN So) (NP (PRP I)) (VP (ADVP (RB just)) (VBP m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-39.054504984181 -133.589993317165
+(S1 (S (IN So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))))
+-39.239740356631 -134.665052829363
+(S1 (S (IN So) (NP (PRP I)) (ADJP (RB just) (JJR m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-39.284221466734 -130.063918398221
+(S1 (S (NP (RB So) (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-39.429172632843 -135.605417012653
+(S1 (S (RB So) (NP (PRP I)) (ADVP (RB just)) (VP (VBP m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-39.517532591653 -133.166270760288
+(S1 (S (CC So) (NP (PRP I)) (ADJP (ADVP (RB just)) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-39.558411182716 -135.405658338142
+(S1 (S (RB So) (NP (PRP I)) (VP (ADVP (RB just)) (VBD m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-39.610224847774 -135.491405997319
+(S1 (S (CC So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (VP (VP (ADVP (RB just)) (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-39.640108081211 -133.381236581893
+(S1 (S (RB So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))))
+-39.647713828969 -133.979383364925
+(S1 (S (RB So) (S (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-39.729509213081 -135.140193328172
+(S1 (S (RB So) (NP (PRP I)) (ADJP (RB just) (JJR m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-39.768108160499 -134.773262863732
+(S1 (S (IN So) (NP (PRP I)) (VP (ADVP (RB just)) (VBP m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-39.800243464590 -132.943755686224
+(S1 (S (IN So) (NP (PRP I)) (ADJP (ADVP (RB just)) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-39.871494536761 -135.422349471994
+(S1 (SQ (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (NP (PRP I)) (VP (VP (ADVP (RB just)) (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))
+-39.895648059342 -132.440425647427
+(S1 (S (RB So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))))
+-39.910408557218 -132.605796316898
+(S1 (S (RB So) (NP (PRP I)) (VP (ADVP (RB just)) (VBP m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-39.935160420711 -135.268890923254
+(S1 (S (IN So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (VP (VP (ADVP (RB just)) (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-40.088219128649 -134.845331016799
+(S1 (SQ (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (VP (VP (ADVP (RB just)) (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-40.270832801040 -133.418896185032
+(S1 (S (RB So) (NP (PRP I)) (ADJP (ADVP (RB just)) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-40.314787347161 -135.744031422063
+(S1 (S (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (VP (VP (ADVP (RB just)) (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+-40.347632663425 -135.662093091573
+(S1 (S (CC So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VB mow) (NP (PRP it)))) (CC and) (S (VP (VB leave) (NP (PRP it)))))))
+-40.357869520192 -135.896675574004
+(S1 (S (RB So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-40.387984542108 -135.595470138668
+(S1 (S (CC So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VBP leave) (NP (PRP it)))))))
+-40.672568236362 -135.439578017508
+(S1 (S (IN So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VB mow) (NP (PRP it)))) (CC and) (S (VP (VB leave) (NP (PRP it)))))))
+-40.685252942691 -135.763183305931
+(S1 (S (RB So) (NP (PRP I)) (VP (ADVP (RB just)) (VBP m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))
+-40.706361746800 -134.768299991272
+(S1 (S (RB So) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP m-) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))))
+-40.712920142923 -135.372955064603
+(S1 (S (IN So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VBP leave) (NP (PRP it)))))))
+-40.865432559292 -135.705838534247
+(S1 (SQ (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VB mow) (NP (PRP it)))) (CC and) (S (VP (VB leave) (NP (PRP it)))))))
+-41.092547069372 -135.848095563412
+(S1 (S (RB So) (NP (PRP I)) (ADJP (RB just) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VBP leave) (NP (PRP it)))))))
+-41.702971511727 -135.288831118335
+(S1 (S (RB So) (S (NP (PRP I)) (VP (ADVP (RB just)) (VBP m-) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it))))))))))
+-42.477326542137 -135.254175442309
+(S1 (S (NP (RB So) (PRP I)) (ADJP (ADVP (RB just)) (JJ m-)) (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VB mow) (NP (PRP it))) (CC and) (VP (VB leave) (NP (PRP it)))))))
+

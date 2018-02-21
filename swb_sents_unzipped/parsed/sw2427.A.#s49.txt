@@ -1,0 +1,102 @@
+50 x
+-14.342253301648 -53.210333127969
+(S1 (SINV (VP (VBZ Takes)) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))
+-14.466410787230 -50.736329050179
+(S1 (S (VP (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))))
+-14.471601224120 -52.856068367405
+(S1 (SINV (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))
+-14.828080993743 -54.287100623706
+(S1 (SQ (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))
+-17.095057354183 -56.565494686356
+(S1 (VP (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))
+-17.778696807095 -57.989559296495
+(S1 (S (VP (VBZ Takes) (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))
+-18.021155186701 -59.645156514462
+(S1 (SQ (VBZ Takes) (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))
+-18.720337345180 -62.081423437000
+(S1 (S (VP (VBZ Takes) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))))
+-20.010815026438 -68.411085800978
+(S1 (SINV (VP (VBZ Takes)) (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))
+-20.036370394837 -70.512165084528
+(S1 (SQ (VBZ Takes) (NP (DT a) (NN lot) (PP (IN of) (NP (NN room))))))
+-20.124680614795 -70.363320066860
+(S1 (S (VP (VBZ Takes)) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))
+-20.602001009963 -66.637362515039
+(S1 (S (VP (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NN room))))))
+-20.631547754867 -69.111366526967
+(S1 (SINV (VP (VBZ Takes)) (NP (NP (DT a) (NN lot)) (PP (IN of) (NN room)))))
+-20.705943636306 -68.956153225146
+(S1 (S (VP (VBZ Takes) (NP (DT a) (NN lot) (PP (IN of) (NP (NN room)))))))
+-20.760895677339 -68.757101766403
+(S1 (SINV (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NN room)))))
+-20.802373728257 -66.194151962879
+(S1 (VP (VBZ Takes) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))))
+-20.834939823854 -65.123094963714
+(S1 (VP (VBZ Takes) (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))
+-20.980294132842 -73.492296282859
+(S1 (SINV (VP (VBZ Takes)) (NP (DT a) (NN lot) (PP (IN of) (NP (NN room))))))
+-21.047870234491 -72.844950134738
+(S1 (SINV (VBZ Takes) (NP (DT a) (NN lot) (PP (IN of) (NP (NN room))))))
+-21.117375469264 -70.188134102877
+(S1 (SQ (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NN room)))))
+-21.390501365965 -70.221792330134
+(S1 (SQ (VP (VBZ Takes)) (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))
+-21.576637278274 -70.878617626876
+(S1 (S (VP (VBZ Takes) (SBAR (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))))))
+-21.955526031216 -76.267656171413
+(S1 (S (VP (VBZ Takes) (S (VP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))))))
+-22.524119359540 -70.567338463717
+(S1 (S (VP (VBZ Takes) (NP (DT a) (NN lot))) (PP (IN of) (NP (NN room)))))
+-22.789296395683 -74.289086906329
+(S1 (S (VP (VBZ Takes) (VP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))))
+-22.986667760478 -76.493277254954
+(S1 (S (VP (VBZ Takes) (S (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))))
+-23.228175216904 -73.462464784289
+(S1 (SQ (VBZ Takes) (NP (DT a) (NN lot)) (PP (IN of) (NN room))))
+-23.262219807490 -74.690596651657
+(S1 (VP (VBZ Takes) (NP (DT a) (NN lot) (PP (IN of) (NP (NN room))))))
+-23.384018494517 -73.979429882737
+(S1 (S (VP (VBZ Takes) (NP (DT a) (NN lot)) (PP (IN of) (NN room)))))
+-23.384351824129 -72.466528151216
+(S1 (VP (VBZ Takes) (NP (NP (DT a) (NN lot)) (PP (IN of) (NN room)))))
+-23.712412848800 -76.039505161753
+(S1 (SINV (VP (VBZ Takes)) (NP (NP (NP (DT a)) (NN lot)) (PP (IN of) (NP (NN room))))))
+-23.789975282485 -74.562177485916
+(S1 (VP (VBZ Takes) (SBAR (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room))))))))
+-23.808817161272 -75.685240401189
+(S1 (SINV (VBZ Takes) (NP (NP (NP (DT a)) (NN lot)) (PP (IN of) (NP (NN room))))))
+-24.017871287438 -77.116272855363
+(S1 (SQ (VBZ Takes) (NP (NP (NP (DT a)) (NN lot)) (PP (IN of) (NP (NN room))))))
+-24.049501024620 -76.288360176155
+(S1 (VP (VBZ Takes) (VP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN room)))))))
+-24.124508019418 -73.565501047269
+(S1 (S (VP (VBZ Takes) (NP (NP (NP (DT a)) (NN lot)) (PP (IN of) (NP (NN room)))))))
+-24.317360411107 -76.516336032625
+(S1 (SQ (VBZ Takes) (NP (NP (DT a) (NN lot)) (IN of) (NP (NN room)))))
+-24.378421261951 -74.965859086291
+(S1 (S (VP (VBZ Takes) (NP (NP (DT a) (NN lot)) (IN of) (NP (NN room))))))
+-24.433403418003 -77.042009171594
+(S1 (SINV (VP (VBZ Takes)) (NP (NP (DT a) (NN lot)) (IN of) (NP (NN room)))))
+-24.562751251266 -76.687744089506
+(S1 (SINV (VBZ Takes) (NP (NP (DT a) (NN lot)) (IN of) (NP (NN room)))))
+-24.855927567913 -77.982456914444
+(S1 (S (VP (VBZ Takes) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NN room)))))))
+-25.635594072308 -78.871255443216
+(S1 (SINV (VBZ Takes) (NP (NP (DT a) (NN lot)) (IN of) (NN room))))
+-25.711330269175 -74.898239655936
+(S1 (S (VP (VP (VBZ Takes) (NP (DT a) (NN lot))) (PP (IN of) (NP (NN room))))))
+-25.720977303840 -75.872382848764
+(S1 (S (VP (VBZ Takes) (PP (NP (DT a) (NN lot)) (IN of) (NP (NN room))))))
+-26.040655975555 -76.989446222343
+(S1 (S (VP (VBZ Takes) (NP (NP (DT a)) (NN lot)) (PP (IN of) (NP (NN room))))))
+-26.244771223973 -78.642454238207
+(S1 (SQ (VBZ Takes) (NP (NP (DT a)) (NN lot)) (PP (IN of) (NP (NN room)))))
+-26.565397163584 -79.394666683446
+(S1 (VP (VBZ Takes) (NP (NP (NP (DT a)) (NN lot)) (PP (IN of) (NP (NN room))))))
+-26.719508367146 -77.983743906120
+(S1 (S (VP (VBZ Takes) (NP (NP (DT a)) (NN lot) (PP (IN of) (NP (NN room)))))))
+-26.956555209305 -77.421463958921
+(S1 (VP (VP (VBZ Takes) (NP (DT a) (NN lot))) (PP (IN of) (NP (NN room)))))
+-27.662056804166 -78.197469066412
+(S1 (VP (VBZ Takes) (PP (NP (DT a) (NN lot)) (IN of) (NP (NN room)))))
+

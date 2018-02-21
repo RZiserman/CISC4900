@@ -1,0 +1,102 @@
+50 x
+-14.765384471077 -52.449715576962
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN motor) (NN home)))))
+-17.092538211985 -62.386193464342
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NNP motor) (NN home)))))
+-17.720093345515 -61.234478529862
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN motor)) (ADVP (RB home)))))
+-17.737182589804 -59.258876002372
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN motor) (NN home)))))
+-18.488621864432 -59.010836009574
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN motor)) (NP (NN home)))))
+-19.032983482778 -63.733459151721
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN motor) (NN home))))))
+-19.049783966268 -66.244393722883
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN motor)) (ADVP (RB home)))))
+-19.505897770451 -68.049895293186
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NNP motor) (NN home)))))
+-19.552460061517 -63.228611366587
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN motor)) (ADVP (RB home))))))
+-19.614099114201 -64.800223752825
+(S1 (S (NP (PRP I)) (VP (VBP have) (ADVP (NP (DT a) (NN motor)) (RB home)))))
+-20.183487087375 -61.948524997629
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN motor)) (ADVP (NN home))))))
+-20.394617840386 -66.935697804300
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN motor) (RB home)))))
+-20.557938934796 -63.060573139895
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN motor)) (ADVP (NN home)))))
+-20.742802964700 -65.927078868715
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN motor)) (NP (NN home))))))
+-20.822731658719 -68.988216609841
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN motor)) (NN home)))))
+-20.827200488740 -68.213791044301
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN motor)) (VP (NN home))))))
+-20.857940345309 -69.619341272495
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN motor)) (ADVP (RB home))))))
+-21.216586466380 -73.162039818469
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NNP motor) (NN home))))))
+-21.549070410951 -70.439377187845
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (NN motor) (NN home)))))))
+-21.572885096368 -72.855495029704
+(S1 (S (NP (NN I)) (VP (VBP have) (NP (DT a) (NN motor) (NN home)))))
+-21.659630789044 -69.251067451678
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN motor)) (NP (NN home))))))
+-21.695484333011 -72.869617194966
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN motor)) (RB home)))))
+-21.918968339804 -73.703790656056
+(S1 (S (NP (NN I)) (VP (VB have) (NP (DT a) (NN motor) (NN home)))))
+-21.934565477946 -69.193675722106
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN motor)) (NP (NN home)))))
+-22.034543801581 -66.680198051823
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN motor)) (ADVP (NN home)))))
+-22.037542593060 -70.654451224516
+(S1 (S (NP (PRP I)) (VP (VB have) (ADVP (NP (DT a) (NN motor)) (RB home)))))
+-22.101136689311 -70.274689179967
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (NP (DT a) (NN motor)) (ADVP (RB home)))))))
+-22.146711383079 -70.871397972313
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (NP (DT a) (NN motor)) (ADVP (RB home))))))
+-22.153563068920 -68.691644213620
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN motor) (NN home)))))
+-22.209070451955 -71.766295862242
+(S1 (S (NP (PRP I)) (VP (VB have) (S (NP (DT a) (NN motor) (NN home))))))
+-22.319558180080 -73.895759635246
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN motor)) (VP (NN home))))))
+-22.672007793047 -73.646189968485
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (DT a) (NN motor) (RB home)))))
+-23.035580642199 -75.765994351079
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (DT a) (NN motor)) (VP (NN home)))))))
+-23.090095241294 -69.369981250655
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (NP (DT a) (NN motor)) (ADVP (NN home)))))))
+-23.228933708646 -71.824719700635
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (NP (DT a) (NN motor)) (NP (NN home)))))))
+-23.542644248936 -69.591311603355
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (NP (DT a) (NN motor)) (ADVP (NN home))))))
+-23.746586803913 -76.119775014426
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (NP (DT a) (NN motor)) (NN home)))))
+-23.808117110639 -72.515829776302
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (NP (DT a) (NN motor)) (NP (NN home))))))
+-23.836735950079 -76.591899692653
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NNP motor)) (NP (NN home)))))
+-23.952392861066 -75.168703142143
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (NP (DT a) (NN motor)) (VP (NN home)))))))
+-24.003185317025 -77.472417671724
+(S1 (NP (NP (NN I)) (VP (VB have) (NP (DT a) (NN motor) (NN home)))))
+-24.090118671967 -76.560943274997
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN motor) (RB home))))))
+-24.173992131765 -75.812221649171
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (NP (DT a) (NN motor)) (VP (NN home))))))
+-24.467322065786 -77.028758567397
+(S1 (S (NP (PRP I)) (VP (VB have) (S (NP (DT a) (NN motor)) (NP (NN home))))))
+-24.735372810548 -77.940774083500
+(S1 (S (NP (PRP I)) (VP (VB have) (SBAR (S (NP (DT a) (NN motor) (NN home)))))))
+-24.781935566472 -77.696971442297
+(S1 (S (NP (PRP I)) (VP (VBP have) (S (NP (DT a) (NN motor)) (ADVP (NN home))))))
+-25.027290524084 -74.997441696321
+(S1 (S (NP (PRP I)) (VP (VB have) (NP (NP (DT a)) (NN motor) (NN home)))))
+-25.846776120592 -75.823165689849
+(S1 (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a)) (NN motor)) (NP (NN home)))))
+-26.101351478750 -77.493051717881
+(S1 (S (NP (PRP I)) (VP (VBP have) (SBAR (S (NP (NP (DT a) (NN motor)) (ADVP (NN home))))))))
+-26.461403194398 -77.256273220428
+(S1 (S (NP (PRP I)) (VP (VB have) (S (NP (NP (DT a) (NN motor)) (ADVP (NN home)))))))
+

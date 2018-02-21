@@ -1,0 +1,102 @@
+50 x
+-20.702675461291 -68.523383295077
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (NP (NNP a)))))
+-20.782551373051 -67.245478908574
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (NP (DT a)))))
+-20.943077443223 -63.149309396347
+(S1 (SINV (VBZ does) (NP (NNP California)) (VP (VB have)) (NP (DT a))))
+-21.250629668799 -67.197459456341
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (NP (NN a)))))
+-21.397411632646 -69.288295537664
+(S1 (SINV (VP (VBZ does)) (NP (NNP California) (VBP have) (NNP a))))
+-21.652812687143 -67.697956229948
+(S1 (SINV (VBZ does) (NP (NNP California)) (VP (VB have)) (NP (NNP a))))
+-21.804930678187 -69.501467655089
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (NP (FW a)))))
+-21.909092172466 -70.261039339283
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VBP have) (NP (DT a)))))
+-21.969368457821 -73.161559356759
+(S1 (SINV (VP (VBZ does)) (NP (NNP California) (VBP have) (DT a))))
+-22.000108559141 -73.449526831729
+(S1 (S (NP (NNP does) (NNP California)) (VP (VBP have) (NP (DT a)))))
+-22.127268729715 -69.247717764639
+(S1 (SINV (VBZ does) (NP (NNP California) (VBP have) (NNP a))))
+-22.141155215157 -72.086459740755
+(S1 (SQ (VBZ does) (NP (NNP California) (VBP have) (NNP a))))
+-22.184786784578 -74.148549238909
+(S1 (SQ (VBZ does) (NP (NNP California) (VBP have) (DT a))))
+-22.198319371860 -67.505541309000
+(S1 (SINV (VBZ does) (NP (NNP California)) (VP (VBP have)) (NP (DT a))))
+-22.262070112081 -74.537519589524
+(S1 (SQ (VP (VBZ does)) (NP (NNP California)) (VP (VB have) (NP (NNP a)))))
+-22.301784460974 -72.327449978514
+(S1 (SQ (VBZ does) (NP (NNP California)) (VBP have) (NP (DT a))))
+-22.341946023841 -73.259615203022
+(S1 (SQ (VP (VBZ does)) (NP (NNP California)) (VP (VB have) (NP (DT a)))))
+-22.357961281689 -69.929168146778
+(S1 (SINV (VP (VBZ does)) (NP (NNP California) (VBP have) (NN a))))
+-22.372008236165 -69.805350074049
+(S1 (SQ (VBZ does) (NP (NNP California) (VBP have) (NN a))))
+-22.538115389261 -67.938096511305
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VBP have) (ADVP (DT a)))))
+-22.594212361392 -70.423221714495
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VBP have) (NP (NN a)))))
+-22.610913476357 -71.294963180450
+(S1 (S (VP (VBZ does) (NP (NNP California) (VBP have) (NN a)))))
+-22.696795328753 -68.485963023413
+(S1 (SINV (VBZ does) (NP (NNP California) (VBP have) (NN a))))
+-22.699225560466 -73.120981596121
+(S1 (SINV (VBZ does) (NP (NNP California) (VBP have) (DT a))))
+-22.722017315119 -73.817423486489
+(S1 (S (NP (NNP does) (NNP California)) (VP (VBP have) (NP (NN a)))))
+-22.810024319589 -73.211595750789
+(S1 (SQ (VP (VBZ does)) (NP (NNP California)) (VP (VB have) (NP (NN a)))))
+-22.810504254964 -69.622222469563
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (ADVP (DT a)))))
+-23.009041989671 -68.302709360135
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (S (NP (DT a))))))
+-23.040729260839 -73.306680233627
+(S1 (S (NP (NNP does) (NNP California)) (VP (VBP have) (ADVP (DT a)))))
+-23.091639920036 -72.965667617487
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VBP have) (NP (NNP a)))))
+-23.368670467424 -70.322419797102
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (ADJP (DT a)))))
+-23.400628196300 -74.952996559875
+(S1 (SQ (VBZ does) (S (NP (NNP California)) (VP (VBP have) (NP (DT a))))))
+-23.425666779843 -72.726123878445
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VBP have) (NP (FW a)))))
+-23.440626839167 -70.735779877948
+(S1 (SINV (VBZ does) (NP (NNP California)) (VP (VB have)) (NP (FW a))))
+-23.637735056575 -71.458388803147
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VBP have) (S (NP (DT a))))))
+-23.786195099132 -72.052152392252
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VBP have) (ADJP (DT a)))))
+-23.914184573918 -72.430382946724
+(S1 (SINV (VBZ does) (NP (NNP California)) (VP (VB have)) (NP (NN a))))
+-24.120757659491 -75.320893214635
+(S1 (SQ (VBZ does) (S (NP (NNP California)) (VP (VBP have) (NP (NN a))))))
+-24.182226102839 -73.952232805753
+(S1 (SQ (VP (VBZ does)) (NP (NNP California)) (VP (VBP have) (ADVP (DT a)))))
+-24.315653460432 -75.176316190928
+(S1 (SINV (VP (VBZ does) (NP (NNP California))) (VBP have) (NP (DT a))))
+-24.463233826621 -75.043759361399
+(S1 (VP (VBZ does) (NP (NNP California) (VBP have) (NN a))))
+-24.469590376008 -74.436564938482
+(S1 (SINV (VP (VBZ does) (NP (NNP California))) (VBP have) (NP (NNP a))))
+-24.473036694936 -75.431539612906
+(S1 (S (VP (VBZ does) (SBAR (S (NP (NNP California)) (VP (VBP have) (ADVP (DT a))))))))
+-24.484145870461 -74.316845654582
+(S1 (SQ (VP (VBZ does)) (NP (NNP California)) (VP (VB have) (S (NP (DT a))))))
+-24.509367240729 -75.366856164804
+(S1 (SQ (VBZ does) (S (NP (NNP California)) (VP (VB have) (ADVP (DT a))))))
+-24.535899818121 -74.810149857502
+(S1 (SQ (VBZ does) (S (NP (NNP California)) (VP (VBP have) (ADVP (DT a))))))
+-24.844269494010 -74.357063713886
+(S1 (SINV (VBZ does) (NP (NNP California)) (VP (VBP have)) (NP (FW a))))
+-24.880164014535 -75.406587852052
+(S1 (SINV (VBZ does) (NP (NNP California)) (VP (VBP have)) (NP (NNP a))))
+-25.007225328899 -75.037909012543
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (ADJP (FW a)))))
+-25.104053921987 -74.926076262826
+(S1 (SQ (VBZ does) (NP (NNP California)) (VP (VB have) (S (NP (NNP a))))))
+

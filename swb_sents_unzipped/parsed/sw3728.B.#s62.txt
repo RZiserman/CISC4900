@@ -1,0 +1,102 @@
+50 x
+-16.002677436585 -47.995867171467
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NP (NN anything)) (VP (VBG missing)))))
+-16.457521727639 -49.586014711565
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NN anything) (VBG missing))))
+-17.533928517668 -52.190501495109
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NN anything)) (VP (VBG missing))))
+-17.678962309690 -51.701860863226
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NN anything)) (ADJP (JJ missing))))
+-18.006774238184 -49.085569713327
+(S1 (SQ (VBZ Is) (NP (EX there)) (ADJP (NN anything) (VBG missing))))
+-18.030306211131 -53.790464428626
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NN anything) (JJ missing))))
+-18.591085806153 -54.233844505539
+(S1 (SQ (VBZ Is) (RB there) (NP (NN anything)) (ADJP (JJ missing))))
+-18.611321492682 -49.790179129276
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NN anything)) (ADJP (VBG missing))))
+-19.059186626263 -52.746196996968
+(S1 (SQ (VBZ Is) (NP (RB there)) (NP (NP (NN anything)) (VP (VBG missing)))))
+-19.094745414059 -58.468412810252
+(S1 (SQ (VBZ Is) (RB there) (NP (NN anything) (VBG missing))))
+-19.300523749317 -54.336344537066
+(S1 (SQ (VBZ Is) (NP (RB there)) (NP (NN anything) (VBG missing))))
+-19.332763884270 -57.952626561944
+(S1 (SQ (VBZ Is) (RB there) (NP (NN anything)) (VP (VBG missing))))
+-19.428433641911 -59.406877783778
+(S1 (S (VP (VBZ Is) (ADVP (RB there)) (NP (NP (NN anything)) (VP (VBG missing))))))
+-19.491146797349 -59.165878423681
+(S1 (SQ (VBZ Is) (RB there) (NP (NP (NN anything)) (VP (VBG missing)))))
+-19.521784546841 -61.223496505491
+(S1 (S (VP (VBZ Is) (ADVP (RB there)) (NP (NN anything) (VBG missing)))))
+-19.730252005658 -56.103649423780
+(S1 (SQ (VBZ Is) (NP (EX there)) (ADJP (NN anything) (JJ missing))))
+-20.018703196441 -61.622383749618
+(S1 (SQ (VBZ Is) (NP (EX there) (NP (NN anything)) (VP (VBG missing)))))
+-20.025766680043 -54.662918314132
+(S1 (SQ (VBZ Is) (NP (EX there)) (ADJP (NP (NN anything)) (JJ missing))))
+-20.119428441713 -54.379982790220
+(S1 (SQ (VBZ Is) (RB there) (NP (NN anything)) (ADJP (VBG missing))))
+-20.311597940076 -59.020411237959
+(S1 (SQ (VBZ Is) (NP (EX there) (ADJP (NN anything) (VBG missing)))))
+-20.381035374558 -56.940831320610
+(S1 (SQ (VBZ Is) (NP (RB there)) (NP (NN anything)) (VP (VBG missing))))
+-20.485597462863 -60.114729762596
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NP (NN anything)) (SBAR (S (VP (VBG missing)))))))
+-20.571592138760 -59.401279054633
+(S1 (S (VP (VBZ Is) (ADVP (RB there)) (ADJP (NN anything) (VBG missing)))))
+-20.591746589757 -58.360668340511
+(S1 (SQ (VBZ Is) (RB there) (ADJP (NN anything) (VBG missing))))
+-20.606777681368 -56.452190688727
+(S1 (SQ (VBZ Is) (NP (RB there)) (NP (NN anything)) (ADJP (JJ missing))))
+-20.631008420862 -53.835899538829
+(S1 (SQ (VBZ Is) (NP (RB there)) (ADJP (NN anything) (VBG missing))))
+-20.760768859083 -61.065770534694
+(S1 (SQ (VBZ Is) (RB there) (NP (NN anything)) (NP (VBG missing))))
+-20.764128638946 -62.672862371317
+(S1 (SQ (VBZ Is) (RB there) (NP (NN anything) (JJ missing))))
+-20.789965982274 -59.322651696981
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NN anything)) (VP (JJ missing))))
+-21.009948186021 -58.540794254128
+(S1 (SQ (VBZ Is) (NP (RB there)) (NP (NN anything) (JJ missing))))
+-21.078692386885 -60.554662828271
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NP (NN anything)) (VP (JJ missing)))))
+-21.119403603359 -59.088567106362
+(S1 (SQ (VBZ Is) (NP (EX there)) (ADVP (NN anything)) (ADJP (JJ missing))))
+-21.143395067777 -59.019400512687
+(S1 (SQ (VBZ Is) (NP (NP (EX there)) (ADJP (NN anything) (VBG missing)))))
+-21.345377739005 -63.185348894602
+(S1 (SQ (VBZ Is) (NP (EX there)) (NP (NN anything) (S (VP (VBG missing))))))
+-21.352797099327 -63.361070330375
+(S1 (SQ (VBZ Is) (NP (NP (EX there)) (NP (NP (NN anything)) (VP (VBG missing))))))
+-21.521402139572 -54.540508954778
+(S1 (SQ (VBZ Is) (NP (RB there)) (NP (NN anything)) (ADJP (VBG missing))))
+-21.960402022337 -57.781091784336
+(S1 (SQ (VBZ Is) (NP (EX there)) (ADVP (NN anything)) (ADJP (VBG missing))))
+-22.148720196895 -62.134800248965
+(S1 (SQ (VBZ Is) (NP (EX there)) (ADJP (NN anything) (S (VP (VBG missing))))))
+-22.497614381049 -62.914846074269
+(S1 (SQ (VBZ Is) (NP (EX there) (ADJP (NP (NN anything)) (JJ missing)))))
+-22.547849788336 -60.853979249281
+(S1 (SQ (VBZ Is) (NP (RB there)) (ADJP (NN anything) (JJ missing))))
+-22.564479801894 -62.423207538776
+(S1 (SQ (VBZ Is) (RB there) (ADJP (NP (NN anything)) (JJ missing))))
+-22.601371913212 -62.939709898159
+(S1 (SQ (VBZ Is) (NP (EX there) (NP (NN anything))) (ADJP (VBG missing))))
+-23.042262273764 -62.644422465605
+(S1 (SQ (VBZ Is) (NP (NP (EX there)) (NN anything)) (ADJP (VBG missing))))
+-23.066079852721 -59.413248139634
+(S1 (SQ (VBZ Is) (NP (RB there)) (ADJP (NP (NN anything)) (JJ missing))))
+-23.067623189054 -62.385761786627
+(S1 (SQ (VBZ Is) (NP (NP (RB there)) (ADJP (NN anything) (VBG missing)))))
+-23.369452681538 -62.913835348997
+(S1 (SQ (VBZ Is) (NP (NP (EX there)) (ADJP (NP (NN anything)) (JJ missing)))))
+-23.454223213018 -62.589318739254
+(S1 (SQ (VBZ Is) (NP (ADVP (RB there)) (NN anything)) (ADJP (VBG missing))))
+-23.654965861225 -62.757268117657
+(S1 (SQ (VBZ Is) (NP (NP (NP (RB there)) (NP (NN anything))) (VP (VBG missing)))))
+-23.774289716062 -63.342569813066
+(S1 (SQ (VBZ Is) (NP (NP (ADVP (RB there)) (NN anything)) (ADJP (VBG missing)))))
+-24.872219314014 -62.531421609838
+(S1 (SQ (VBZ Is) (NP (RB there)) (ADVP (NN anything)) (ADJP (VBG missing))))
+

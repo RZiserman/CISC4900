@@ -1,0 +1,102 @@
+50 x
+-16.764195191736 -57.666098660618
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADVP (NN kind) (IN of)) (JJ boring)))))
+-16.832740676631 -60.895148045368
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (NP (NN boring)))))))
+-16.927443883354 -60.966790212788
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (NP (VBG boring)))))))
+-18.023910319551 -62.057457371598
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (S (VP (VBG boring))))))))
+-18.147375691709 -62.456743403331
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (NP (JJ boring)))))))
+-19.017394737155 -62.548140248607
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN kind) (IN of)) (ADJP (JJ boring)))))
+-19.055538814866 -71.274698391477
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind) (PP (IN of) (NP (NN boring)))))))
+-19.203170288458 -67.254508875684
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN kind) (IN of)) (VP (VBG boring)))))
+-19.223116598131 -71.660518324362
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind) (PP (IN of) (NP (VBG boring)))))))
+-19.614285704928 -69.368094082721
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind) (PP (IN of) (NP (VBG boring)))))))
+-19.701835525399 -62.186552986377
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (ADJP (JJ boring)))))))
+-19.702882498206 -69.296451915301
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind) (PP (IN of) (NP (NN boring)))))))
+-20.000927529098 -67.773784852014
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind) (PP (IN of) (ADJP (JJ boring)))))))
+-20.561883795022 -71.517755923265
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind)) (PP (IN of) (S (VP (VBG boring)))))))
+-20.568027002994 -71.001526949735
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind)) (PP (IN of) (NP (NN boring))))))
+-20.628225017639 -70.210488422433
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (RB kind) (IN of) (JJ boring)))))
+-20.662084757607 -69.059161007007
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind)) (PP (IN of) (S (VP (VBG boring)))))))
+-20.679493800164 -71.064927633822
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind)) (PP (IN of) (NP (VBG boring))))))
+-20.683954601915 -71.254116035706
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (NN kind) (PP (IN of) (NP (VBG boring)))))))
+-20.710752104885 -70.458761111218
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind) (PP (IN of) (S (VP (VBG boring))))))))
+-20.755066101233 -70.245274832072
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN kind) (IN of)) (NP (NN boring)))))
+-20.847750420351 -70.435497005573
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (NN kind) (PP (IN of) (S (VP (VBG boring))))))))
+-20.874967413283 -70.858047273264
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind) (PP (IN of) (NP (JJ boring)))))))
+-20.877601152694 -64.002912288927
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN kind) (IN of)) (ADJP (VBG boring)))))
+-21.080447869370 -71.590883891198
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (NN kind) (PP (IN of) (NP (NN boring)))))))
+-21.098610553495 -72.115381735142
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (RB kind) (PP (IN of) (NP (VBG boring)))))))
+-21.165012617641 -69.934959183903
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN kind) (IN of) (JJ boring)))))
+-21.221206436537 -71.006203003890
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (RB kind) (PP (IN of) (S (VP (VBG boring))))))))
+-21.258689748397 -70.213758065974
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN kind) (IN of)) (NP (JJ boring)))))
+-21.380557309129 -70.151638063899
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind) (IN of) (JJ boring)))))
+-21.421632958295 -67.542172243799
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (ADVP (JJ boring)))))))
+-21.447705807584 -69.999399034463
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (ADVP (RB kind) (IN of)) (JJ boring)))))
+-21.526743116174 -68.482121069509
+(S1 (S (NP (PRP I)) (VP (VBD was) (S (ADJP (ADVP (NN kind) (IN of)) (JJ boring))))))
+-21.704866740878 -69.208144083507
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (NN kind) (PP (IN of) (ADJP (JJ boring)))))))
+-21.714328136863 -69.453113378348
+(S1 (S (NP (PRP I)) (VP (VBD was) (RB kind) (ADJP (IN of) (JJ boring)))))
+-21.714577734545 -66.420004138031
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (ADJP (VBG boring)))))))
+-21.731416496486 -72.205969789714
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (VP (VBG boring)))))))
+-21.779107676801 -69.726999179675
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind) (IN of)) (ADJP (JJ boring)))))
+-21.824888752757 -69.530386439703
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (RB kind) (PP (IN of) (ADJP (JJ boring)))))))
+-21.849933210915 -71.530699658281
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (RB kind) (IN of) (S (VP (VBG boring)))))))
+-21.861957831955 -72.089125182760
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (JJ boring))))))
+-21.946365849761 -71.930870631468
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (NN kind) (PP (IN of) (ADJP (JJ boring)))))))
+-22.097487478231 -70.412128230365
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind)) (PP (IN of) (ADJP (JJ boring))))))
+-22.161054409493 -71.734157496040
+(S1 (S (NP (NN I)) (VP (VBD was) (ADJP (ADVP (NN kind) (IN of)) (JJ boring)))))
+-22.426329341501 -69.373838409402
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (S (ADJP (JJ boring))))))))
+-22.429427238611 -70.587856828438
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NN kind) (PP (IN of) (ADJP (JJ boring)))))))
+-22.461128436450 -72.346864659292
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind) (PP (IN of) (ADJP (VBG boring)))))))
+-22.938038658693 -71.800554056665
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (S (NP (NN boring))))))))
+-23.279545332340 -71.181771219996
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADVP (RB kind) (IN of)) (ADJP (VBG boring)))))
+-23.539431789322 -71.940575334553
+(S1 (S (NP (PRP I)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (FRAG (ADJP (JJ boring))))))))
+

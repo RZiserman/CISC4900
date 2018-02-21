@@ -1,0 +1,102 @@
+50 x
+-14.486075351173 -49.198188219018
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (DT that)) (ADVP (RB too)))))
+-15.403117169080 -53.358905252556
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (RB that) (RB too)))))
+-15.466399955728 -56.165323715688
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (DT that) (RB too)))))
+-15.781701580677 -53.153149561979
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (DT that) (RB too)))))
+-15.813952619638 -55.128446475943
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (IN that) (RB too)))))
+-15.978378754926 -52.002602275543
+(S1 (S (NP (PRP We)) (VP (VBD did) (RB that) (VP (ADVP (RB too))))))
+-16.041578099921 -51.710885563461
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (IN that) (RB too)))))
+-16.287736627498 -55.055115798088
+(S1 (S (NP (PRP We)) (VP (VBD did) (RB that) (VP (RB too)))))
+-16.729076135486 -57.396206494411
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (RB that)) (ADVP (RB too)))))
+-16.905984415473 -57.052137946826
+(S1 (S (NP (PRP We)) (VP (VBD did) (RB that) (ADVP (RB too)))))
+-16.906077742976 -55.796514177663
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (NP (DT that)) (ADVP (RB too))))))
+-17.202082660998 -58.432030457077
+(S1 (S (NP (PRP We)) (VP (VBD did) (DT that) (VP (ADVP (RB too))))))
+-17.208630625217 -60.591190150030
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (NP (DT that)) (RB too)))))
+-17.234436531796 -53.021212690999
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (IN that)) (ADVP (RB too)))))
+-17.249357637590 -61.484543979623
+(S1 (S (NP (PRP We)) (VP (VBD did) (DT that) (VP (RB too)))))
+-17.418614690708 -60.686319149602
+(S1 (S (NP (PRP We)) (VP (VBD did) (DT that) (ADVP (RB too)))))
+-17.543830804270 -57.739177331559
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (DT that)) (NP (RB too)))))
+-17.590097480355 -59.649164318850
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (RB that) (RB too)))))
+-17.763260551280 -55.363716465475
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (NP (DT that)) (ADVP (RB too))))))
+-17.976771088051 -61.005694786895
+(S1 (S (NP (PRP We)) (VP (VBD did) (PRT (RB that)) (ADVP (RB too)))))
+-18.125927733705 -55.807419479014
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (NP (DT that)) (ADJP (RB too))))))
+-18.133719666214 -52.961917988619
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (IN that) (FRAG (ADVP (RB too)))))))
+-18.276406685063 -56.877192068185
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (IN that) (S (ADVP (RB too)))))))
+-18.304205896511 -58.462897693912
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (WDT that)) (ADVP (RB too)))))
+-18.313746197740 -58.684769406940
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADJP (RB that) (RB too)))))
+-18.640262990073 -59.073853972025
+(S1 (S (NP (PRP We)) (VP (VBD did) (PRT (IN that)) (ADVP (RB too)))))
+-18.653173195582 -59.049504023161
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADJP (IN that) (RB too)))))
+-18.800851464362 -58.770389453434
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (IN that) (FRAG (RB too))))))
+-18.828552611747 -59.380338611530
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (DT that)) (ADVP (RB too)))))
+-19.087741581941 -59.361521581966
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (ADJP (IN that) (RB too))))))
+-19.089759127326 -59.655082277867
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (NP (IN that)) (ADVP (RB too))))))
+-19.237468875314 -57.932613238603
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (IN that) (S (ADJP (RB too)))))))
+-19.250478480099 -59.626756336961
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (IN that)) (ADVP (RB too)))))
+-19.339198763896 -59.573680739297
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (IN that) (ADJP (RB too))))))
+-19.353605303649 -59.728974804340
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (WDT that) (FRAG (ADVP (RB too)))))))
+-19.409916172250 -60.701095610256
+(S1 (S (NP (PRP We)) (VP (VBD did) (RB that) (NP (RB too)))))
+-19.458780588801 -60.874102709425
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (RB that)) (ADVP (RB too)))))
+-19.465171440076 -60.018440471598
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (NP (WDT that)) (RB too)))))
+-19.558241740097 -58.463068791823
+(S1 (S (NP (PRP We)) (VP (VBD did) (RB that) (ADJP (RB too)))))
+-19.684280913072 -60.819538593718
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (DT that)) (S (ADVP (RB too))))))
+-19.784715195044 -58.014458758107
+(S1 (S (NP (PRP We)) (VP (VBD did) (NP (DT that)) (S (ADJP (RB too))))))
+-19.797659150272 -60.897845060965
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADVP (NP (IN that)) (RB too)))))
+-20.360097535823 -59.694920525337
+(S1 (S (NP (PRP We)) (VP (VBD did) (ADJP (IN that) (ADVP (RB too))))))
+-20.406635173786 -59.495494683202
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (NP (WDT that)) (ADVP (RB too))))))
+-20.602148834931 -59.998237554900
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (DT that) (S (ADVP (RB too)))))))
+-20.614449903998 -59.939197696741
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (NP (WDT that)) (ADJP (RB too))))))
+-20.777122799582 -61.067728182021
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (NP (IN that)) (ADJP (RB too))))))
+-20.806330168157 -60.624025168482
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (NP (IN that)) (ADVP (RB too))))))
+-20.907719173774 -59.752294687272
+(S1 (S (NP (PRP We)) (VP (VBD did) (S (ADJP (IN that) (ADVP (RB too)))))))
+-21.699507682385 -60.215263958086
+(S1 (S (NP (PRP We)) (VP (VBD did) (SBAR (DT that) (S (ADJP (RB too)))))))
+

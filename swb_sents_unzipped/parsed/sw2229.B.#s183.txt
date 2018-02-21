@@ -1,0 +1,102 @@
+50 x
+-47.273360173046 -162.781299748249
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P) (NNP N)))))))))))))
+-48.300345866851 -165.730676554723
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNPS P) (NNP N)))))))))))))
+-48.473617157697 -168.713977271110
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (FW P) (NNP N)))))))))))))
+-48.758597299552 -164.055468008647
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (SYM E) (NNP S) (NNPS P) (NNP N)))))))))))))
+-48.794233203599 -164.014206727631
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNP P) (NNP N)))))))))))))
+-49.698039744885 -166.183458757631
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PRT (RP on)) (NP (NNP E) (NNP S) (NNP P) (NNP N))))))))))))
+-49.756722018525 -170.926436872282
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NN P) (NNP N)))))))))))))
+-49.787075725533 -168.085906954311
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P) (NNP N))))))))))))
+-49.871609802344 -166.284279821104
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E))) (NP (NNP S) (NNP P) (NNP N))))))))))))
+-50.364414919253 -171.017914614182
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNPS P) (NNP N)))))))))))))
+-50.557369458142 -169.134268526278
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E))) (NP (NNP S) (NNPS P) (NNP N))))))))))))
+-50.735948446277 -171.465488709996
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (PRP one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P) (NNP N)))))))))))))
+-50.739026185886 -168.065177826151
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NP (NNP E)) (NP (NNP S) (NNP P) (NNP N))))))))))))))
+-50.760421981022 -166.654152252163
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)))) (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P) (NNP N)))))))))
+-50.797310976356 -169.461943953868
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)) (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P) (NNP N)))))))))))
+-50.840071848723 -169.446371326873
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PRT (RP on)) (NP (NNP E) (NNP S) (NNPS P) (NNP N))))))))))))
+-50.847313996925 -170.013391158400
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (S (VP (SYM E) (NP (NNP S) (NNP P) (NNP N)))))))))))))))
+-50.890836531993 -168.340565118598
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E))) (NP (NNP S) (NNP P) (NNP N))))))))))))
+-50.892988391460 -171.035283760784
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNPS P) (NNP N))))))))))))
+-51.083580117326 -167.499474044291
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PRT (RP on)) (NP (SYM E) (NNP S) (NNPS P) (NNP N))))))))))))
+-51.307948728208 -169.318813933693
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNP P) (NNP N))))))))))))
+-51.351239824161 -169.360075214709
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (SYM E) (NNP S) (NNPS P) (NNP N))))))))))))
+-51.431554899147 -167.631791128392
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PRT (RP on)) (NP (NN E) (NNP S) (NNP P) (NNP N))))))))))))
+-51.559484281908 -168.549277660623
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (LST (LS E)) (NP (NNP S) (NNP P) (NNP N))))))))))))))
+-51.568333427790 -171.190553823772
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E))) (NP (NNP S) (NNPS P) (NNP N))))))))))))
+-51.644479252137 -170.359501136672
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NP (NNP E) (NNP S) (NNP P)) (NP (NNP N))))))))))))))
+-51.760576983067 -170.156636828911
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use))))) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P) (NNP N)))))))))
+-51.797108717683 -169.491084559657
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NP (NN E)) (NP (NNP S) (NNP P) (NNP N))))))))))))))
+-51.885557170384 -169.075121678646
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P))) (NP (NNP N))))))))))))
+-51.896457876949 -169.603529058637
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)))) (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNPS P) (NNP N)))))))))
+-51.983816465355 -169.172879277347
+(S1 (S (NP (RB There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E) (NNP S) (NNP P) (NNP N)))))))))))))
+-52.069539642657 -171.316135419852
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (X (SYM E) (NP (NNP S) (NNP P) (NNP N))))))))))))))
+-52.224322654267 -168.311334872169
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (X (X (SYM E)) (NP (NNP S) (NNP P) (NNP N))))))))))))))
+-52.281294983697 -167.887059231545
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)))) (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNP P) (NNP N)))))))))
+-52.290748640564 -169.762132232583
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (X (SYM E))) (NP (NNP S) (NNP P) (NNP N))))))))))))
+-52.318183979031 -170.694850933251
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)) (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNP P) (NNP N)))))))))))
+-52.354709309649 -167.928320512561
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)))) (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (SYM E) (NNP S) (NNPS P) (NNP N)))))))))
+-52.412623004984 -170.736112214267
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)) (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (SYM E) (NNP S) (NNPS P) (NNP N)))))))))))
+-52.494414436306 -168.503684499640
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PRT (RP on)) (FRAG (X (SYM E)) (NP (NNP S) (NNP P) (NNP N)))))))))))))
+-52.502254052124 -170.356372159129
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (S (NP (SYM E) (NNP S) (NNPS P) (NNP N))))))))))))))
+-52.536857915535 -170.789381188065
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (X (SYM E)) (NP (NNP S) (NNP P) (NNP N)))))))))))))
+-52.850278931352 -170.646995645064
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NP (SYM E)) (NNP S) (NNP P) (NNP N)))))))))))))
+-52.885291415724 -170.064172200671
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNP P))) (NP (NNP N))))))))))))
+-53.185101524983 -170.056311261545
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)))) (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PRT (RP on)) (NP (NNP E) (NNP S) (NNP P) (NNP N))))))))
+-53.281450013620 -171.389543808293
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use))))) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNP P) (NNP N)))))))))
+-53.354864339573 -171.430805089309
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use))))) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (SYM E) (NNP S) (NNPS P) (NNP N)))))))))
+-53.358671582442 -170.157132325018
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)))) (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NNP E))) (NP (NNP S) (NNP P) (NNP N))))))))
+-53.469053563982 -170.447047537745
+(S1 (S (NP (RB There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (SYM E) (NNP S) (NNPS P) (NNP N)))))))))))))
+-53.504689495908 -170.405786256730
+(S1 (S (NP (RB There)) (VP (VBD was) (NP (NP (CD one) (NN guy)) (SBAR (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PP (IN on) (NP (NN E) (NNP S) (NNP P) (NNP N)))))))))))))
+-54.679692127424 -171.372326548205
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (CD one) (NN guy)))) (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB watch) (PRT (RP on)) (NP (SYM E) (NNP S) (NNPS P) (NNP N))))))))
+

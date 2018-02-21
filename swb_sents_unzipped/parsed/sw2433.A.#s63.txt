@@ -1,0 +1,102 @@
+50 x
+-25.476342053835 -81.515060249677
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-26.312473878837 -82.726735762631
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-27.403580049467 -90.561077750402
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (RB short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-27.445211489416 -89.399557891826
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (JJ short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-27.456449161837 -88.973196531560
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (JJ short)) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-27.642585531901 -87.696568144690
+(S1 (S (CC and) (NP (RB long) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-27.874365229299 -87.643412447743
+(S1 (S (CC and) (ADVP (NP (JJ long) (NN story)) (RB short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-27.959935992667 -92.540541550652
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (JJ short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-27.994866221516 -94.183290648854
+(S1 (S (CC and) (NP (JJ long) (NN story)) (VP (JJ short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-28.045893528839 -90.184872044513
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (RB short)) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-28.364023619691 -88.908243657644
+(S1 (S (CC and) (NP (RB long) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-28.427952310580 -91.447336375086
+(S1 (S (CC and) (ADVP (JJ long) (NN story)) (ADVP (RB short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-28.527841202802 -89.683524645161
+(S1 (FRAG (CC and) (NP (JJ long) (NN story)) (SBAR (RB short) (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-28.622966073670 -93.752217063606
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (RB short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-28.735547714766 -94.503294947435
+(S1 (S (CC and) (NP (JJ long) (NN story)) (NP (JJ short) (NN I)) (VP (VBD had) (RB n't))))
+-29.280713353401 -94.344194428927
+(S1 (FRAG (CC and) (NP (NP (JJ long) (NN story) (JJ short)) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-29.431176932683 -94.773148988515
+(S1 (S (CC and) (NP (RB long) (NN story)) (ADJP (JJ short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-29.577355683684 -94.422263236529
+(S1 (S (CC and) (ADVP (JJ long) (NN story) (RB short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-29.612458728441 -94.683874250631
+(S1 (S (CC and) (ADVP (JJ long) (NN story)) (NP (JJ short) (NN I)) (VP (VBD had) (RB n't))))
+-29.661552003027 -94.583799645756
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (ADJP (JJ short)) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-29.795817874589 -92.309707380560
+(S1 (S (CC and) (ADVP (NP (JJ long) (NN story)) (JJ short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-30.037601348227 -92.632306124069
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (NP (RB n't))))))
+-30.114292252767 -93.382107066146
+(S1 (S (CC and) (ADVP (ADVP (JJ long) (NN story)) (RB short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-30.142517873692 -93.711649722865
+(S1 (S (CC and) (S (NP (JJ long) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-30.220412909202 -94.852463883504
+(S1 (FRAG (CC and) (ADVP (JJ long) (NN story)) (VP (VB short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-30.439193463233 -92.268100713729
+(S1 (FRAG (CC and) (RB long) (SBAR (NP (NN story)) (RB short) (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-30.518630121946 -94.136947711414
+(S1 (S (CC and) (NP (ADVP (RB long)) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-30.522680620088 -87.214342271707
+(S1 (FRAG (CC and) (RB long) (ADVP (NN story)) (ADJP (RB short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-30.578153914837 -91.060279744740
+(S1 (FRAG (CC and) (ADVP (JJ long) (NN story)) (SBAR (RB short) (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-30.595679080231 -94.570083840282
+(S1 (FRAG (CC and) (S (NP (JJ long) (NN story)) (ADJP (RB short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't))))))))
+-30.723461413936 -88.741024951809
+(S1 (FRAG (CC and) (RB long) (ADVP (NN story)) (ADJP (JJ short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-30.838181460519 -91.377037741000
+(S1 (S (CC and) (NP (ADJP (RB long)) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-30.873733176018 -93.843981637023
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (NP (RB n't))))))
+-30.895156678346 -93.459391694935
+(S1 (FRAG (CC and) (S (NP (JJ long) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-30.990762723750 -94.943569820101
+(S1 (S (CC and) (ADVP (JJ long) (NN story)) (ADVP (JJ short)) (NP (PRP I)) (VP (VBD had) (RB n't))))
+-31.022121317482 -94.923325235818
+(S1 (S (CC and) (S (NP (JJ long) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-31.143045699198 -92.652108113094
+(S1 (S (CC and) (NP (NP (JJ long)) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-31.596827905773 -93.543606411291
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (ADJP (RB n't))))))
+-31.599529515522 -92.588713253954
+(S1 (S (CC and) (NP (ADJP (RB long)) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-31.757603670307 -94.668834305217
+(S1 (FRAG (CC and) (ADVP (JJ long) (NN story)) (ADJP (JJ short) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+-31.761373570383 -93.238705006151
+(S1 (S (CC and) (NP (ADJP (JJ long)) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-31.810257036137 -94.671067207889
+(S1 (FRAG (CC and) (S (NP (JJ long) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't))))))
+-31.889479346988 -93.863783626048
+(S1 (S (CC and) (NP (NP (JJ long)) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-32.082020555527 -93.431784994888
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (S (ADJP (RB n't)))))))
+-32.199501695440 -91.924306114640
+(S1 (S (CC and) (NP (NP (RB long)) (NN story)) (ADJP (JJ short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-32.432959730776 -94.755281924245
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (ADJP (RB n't))))))
+-32.653462205385 -94.450380519104
+(S1 (S (CC and) (NP (ADJP (JJ long)) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-32.820436533230 -93.135981627594
+(S1 (S (CC and) (NP (NP (RB long)) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (RB n't)))))
+-32.918152383317 -94.643460507842
+(S1 (S (CC and) (NP (JJ long) (NN story)) (ADJP (RB short)) (S (NP (PRP I)) (VP (VBD had) (S (ADJP (RB n't)))))))
+-33.387612321008 -94.148740367547
+(S1 (FRAG (CC and) (RB long) (ADVP (NN story)) (ADJP (ADJP (RB short)) (SBAR (S (NP (PRP I)) (VP (VBD had) (RB n't)))))))
+

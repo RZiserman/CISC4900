@@ -1,0 +1,102 @@
+50 x
+-15.962154332967 -62.902010918934
+(S1 (S (NP (DT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-18.672500485129 -73.382054028825
+(S1 (S (NP (DT that)) (VP (VBD was) (NP (JJ my) (JJ teenage) (NNS years)))))
+-18.723956003483 -66.231678715026
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-19.033147805916 -70.437026845822
+(S1 (S (DT that) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-19.491281413499 -70.245827107330
+(S1 (SBAR (IN that) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-19.966297054254 -68.892681610272
+(S1 (S (WHNP (WDT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-20.075472734719 -67.262126524780
+(S1 (SBAR (DT that) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-20.619906847580 -68.209906647389
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-20.650073632170 -76.295339497518
+(S1 (SBAR (S (NP (DT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-20.709069851418 -66.127089834642
+(S1 (S (NP (WDT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-20.810738733401 -69.634679770649
+(S1 (S (NP (IN that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-20.956600985514 -71.369785414523
+(S1 (FRAG (S (NP (DT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-21.022010512858 -76.711721824917
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (JJ my) (JJ teenage) (NNS years))))))
+-21.056811988108 -70.542297703298
+(S1 (FRAG (SBAR (IN that) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-21.462382621933 -73.760997678199
+(S1 (S (NP (DT that)) (VP (VBD was) (NP (PRP$ my) (ADJP (JJ teenage)) (NNS years)))))
+-21.689601419612 -71.360021118715
+(S1 (SBAR (WHNP (DT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-21.804736827232 -75.254819627482
+(S1 (SBAR (WHNP (IN that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-21.806427177622 -73.053062389447
+(S1 (SBAR (WDT that) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-21.840482005959 -71.850515836645
+(S1 (NP (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-21.844531360359 -75.628758505919
+(S1 (FRAG (SBAR (S (NP (DT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-21.877463035667 -75.877105761763
+(S1 (S (NP (DT that)) (VP (VBD was) (S (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-22.271624702971 -72.831157189033
+(S1 (S (RB that) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-22.312052981614 -77.472650931208
+(S1 (S (NP (DT that)) (VP (VBD was) (SBAR (S (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-22.429113066882 -77.742169634671
+(S1 (SBAR (DT that) (S (VP (VBD was) (NP (JJ my) (JJ teenage) (NNS years))))))
+-22.572169341077 -71.743703948184
+(S1 (FRAG (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-22.879810885884 -78.936324006964
+(S1 (S (NP (NN that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-22.917961359743 -78.689949757280
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (JJ my) (JJ teenage) (NNS years)))))))
+-23.273297815940 -76.524851810931
+(S1 (PP (IN that) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-23.408194303580 -76.607132944533
+(S1 (S (NP (WDT that)) (VP (VBD was) (NP (JJ my) (JJ teenage) (NNS years)))))
+-23.715100786618 -76.667418743747
+(S1 (FRAG (NP (DT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-23.873003710490 -77.398415163300
+(S1 (FRAG (SBAR (WHNP (IN that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-24.091444846069 -77.956534262814
+(S1 (FRAG (IN that) (SBAR (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-24.118971286359 -76.693515836630
+(S1 (FRAG (NP (DT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-24.180696419661 -77.090665474290
+(S1 (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (ADJP (JJ teenage)) (NNS years))))))
+-24.350427582680 -75.306076017406
+(S1 (S (NP (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-24.460703147782 -78.643397230651
+(S1 (FRAG (WHNP (WDT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-24.491318555651 -78.160221576901
+(S1 (FRAG (SBAR (WDT that) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-24.806033808306 -77.649808837623
+(S1 (S (NP (RB that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-24.851236962554 -78.629435908438
+(S1 (SINV (ADVP (RB that)) (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))
+-24.875034398870 -77.456782584758
+(S1 (SINV (ADVP (DT that)) (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))
+-25.033070797962 -78.968894376067
+(S1 (FRAG (IN that) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-25.411880802425 -74.661258890922
+(S1 (FRAG (S (NP (WDT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-25.532213153685 -78.121113284045
+(S1 (SBAR (DT that) (S (VP (VBD was) (NP (PRP$ my) (ADJP (JJ teenage)) (NNS years))))))
+-25.563964281033 -78.698864923847
+(S1 (FRAG (NP (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))))
+-25.678475407046 -78.155198571218
+(S1 (FRAG (S (NP (IN that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-26.076647266546 -79.068893406654
+(S1 (FRAG (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (ADJP (JJ teenage)) (NNS years)))))))
+-26.209298140384 -76.986076593907
+(S1 (S (NP (WDT that)) (VP (VBD was) (NP (PRP$ my) (ADJP (JJ teenage)) (NNS years)))))
+-26.281894983817 -78.322916531840
+(S1 (FRAG (NP (WDT that)) (S (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years))))))
+-26.315570012064 -78.296819438957
+(S1 (FRAG (NP (WDT that)) (VP (VBD was) (NP (PRP$ my) (JJ teenage) (NNS years)))))
+-26.475888656906 -79.102184677470
+(S1 (S (NP (WDT that)) (VP (VBD was) (S (NP (PRP$ my) (JJ teenage) (NNS years))))))
+

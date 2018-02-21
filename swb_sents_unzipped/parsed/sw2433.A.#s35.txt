@@ -1,0 +1,102 @@
+50 x
+-29.559275426232 -96.427806688863
+(S1 (S (`` it-) (RB well) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-29.934599188174 -98.594546946480
+(S1 (S (`` it-) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-30.888207976660 -97.424116741361
+(S1 (S (INTJ (UH it-) (UH well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-30.924982185837 -100.918875370731
+(S1 (S (INTJ (JJ it-) (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-30.950337620732 -100.312371768873
+(S1 (S (INTJ (JJ it-) (UH well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-31.115315570784 -98.633528758168
+(S1 (S (ADJP (JJ it-) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-31.136466091017 -99.969458786095
+(S1 (S (ADVP (RB it-) (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-31.249079497452 -101.154433737959
+(S1 (S (`` it-) (INTJ (UH well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-31.254417529130 -100.824551883046
+(S1 (S (ADJP (JJ it-) (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-31.346254914034 -100.733364079211
+(S1 (S (NP (NNS it-)) (ADJP (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-31.392534848458 -102.556347709231
+(S1 (S (VP (VBG it-) (ADVP (RB well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-31.508390416785 -103.641996911452
+(S1 (S (`` it-) (RB well) (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB that) (JJ great)))))
+-31.544988942170 -103.452902389886
+(S1 (S (NP (PRP it-)) (ADJP (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-31.565528327584 -102.268132159115
+(S1 (S (NP (NNP it-)) (ADJP (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-31.607676609273 -100.920587013917
+(S1 (S (NP (NN it-)) (ADJP (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-31.648079200337 -103.469330560112
+(S1 (S (NP (PRP it-)) (INTJ (UH well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-31.705573163491 -102.647128998062
+(S1 (NP (NP (JJ it-) (NN well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-31.736462323582 -97.936156277895
+(S1 (ADJP (JJ it-) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-31.821328226295 -101.049441151651
+(S1 (S (`` it-) (INTJ (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-31.824973068558 -103.413329644571
+(S1 (S (INTJ (`` it-) (UH well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-32.130200841229 -103.442632940518
+(S1 (S (`` it-) (RB well) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (IN that) (JJ great)))))
+-32.134457433797 -99.353862410786
+(S1 (S (VP (VB it-) (ADVP (RB well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-32.143570381302 -103.364337973805
+(S1 (S (NP (PRP it-)) (INTJ (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-32.159773523356 -103.292265886076
+(S1 (S (ADVP (RB it-)) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-32.473557435767 -102.843418728198
+(S1 (S (INTJ (UH it-) (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-32.547400298742 -101.692025608887
+(S1 (S (INTJ (UH it-)) (INTJ (UH well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-32.648625678782 -103.852048516319
+(S1 (NP (NP (JJ it-) (NN well)) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))
+-32.665831874891 -99.414944069882
+(S1 (FRAG (ADJP (JJ it-) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-32.780485412288 -103.991890059149
+(S1 (S (NP (JJ it-)) (ADJP (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-32.846494483411 -103.091609038491
+(S1 (NP (JJ it-) (NN well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-32.891705710936 -103.412665939525
+(S1 (NP (JJ it-) (NN well) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))
+-32.934218830831 -103.798425181918
+(S1 (S (`` it-) (ADVP (RB well)) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))
+-32.996793884587 -103.415916826311
+(S1 (S (VP (VBN it-) (ADVP (RB well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-33.073947974222 -103.976227460596
+(S1 (FRAG (NP (NP (JJ it-) (NN well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-33.128907089707 -101.587033022580
+(S1 (S (INTJ (UH it-)) (INTJ (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-33.273658259227 -100.886603459022
+(S1 (FRAG (ADJP (JJ it-)) (ADJP (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-33.344713748632 -104.063853676998
+(S1 (S (ADVP (RB it-)) (INTJ (RB well)) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))
+-33.435647190094 -104.084067869520
+(S1 (FRAG (NP (JJ it-) (NN well)) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))
+-33.539739638366 -103.339426386818
+(S1 (NP (NP (NNP it-) (RB well)) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))
+-33.638717124249 -101.705985280649
+(S1 (FRAG (ADJP (JJ it-) (RB well)) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))
+-33.672893088461 -102.387231381398
+(S1 (FRAG (RB it-) (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-33.707687938342 -102.953770411890
+(S1 (FRAG (ADJP (JJ it-)) (ADVP (RB well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-34.010442470851 -102.596887083271
+(S1 (S (VP (VB it-) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-34.247258478258 -102.916083922834
+(S1 (S (VP (NN it-) (ADVP (RB well)) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-34.288559117582 -101.494657971102
+(S1 (VP (VB it-) (ADVP (RB well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-34.356586223989 -102.998581509560
+(S1 (ADJP (JJ it-) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-34.478621845605 -101.795576874631
+(S1 (FRAG (NP (NN it-) (RB well)) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))
+-34.514295240078 -102.756472469823
+(S1 (FRAG (RB it-) (ADJP (RB well) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great))))))))
+-34.567455330373 -103.934323192043
+(S1 (FRAG (ADJP (JJ it-)) (SBAR (RB well) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+-34.645519869235 -104.128301192579
+(S1 (VP (VBN it-) (ADVP (RB well)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB that) (JJ great)))))))
+

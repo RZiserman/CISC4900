@@ -1,0 +1,102 @@
+50 x
+-13.418706277310 -48.704404655627
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-13.623392051798 -50.273745624951
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-14.514262609795 -52.991414905434
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-15.051369049452 -50.886494470586
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-15.977480706795 -53.552377398883
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-16.425474738228 -54.716659602772
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-16.613634136346 -56.288598567147
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-16.626417130136 -57.154144362658
+(S1 (S (NP (RB Well) (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-16.633199796337 -57.503346978712
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))))
+-17.037186102314 -60.341847896162
+(S1 (SBAR (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-17.148997260940 -58.447630677872
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-17.180046077168 -56.261321727296
+(S1 (FRAG (ADVP (RB Well)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-17.543885763778 -64.094525983645
+(S1 (SQ (RB Well) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-17.975847872059 -60.988166702975
+(S1 (S (ADVP (UH Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-18.228874054152 -57.953794468850
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))))
+-18.361695605972 -60.934691256730
+(S1 (FRAG (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-18.844801872330 -60.980364841216
+(S1 (FRAG (SBAR (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-18.896259547668 -64.680852361091
+(S1 (ADJP (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-19.032344401160 -62.314069317481
+(S1 (FRAG (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-19.145239371669 -65.787343758339
+(S1 (SBAR (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-19.163258982817 -62.047316119425
+(S1 (FRAG (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-19.297048823435 -66.124745591654
+(S1 (S (NP (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))
+-19.394466697003 -64.206019491509
+(S1 (VP (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-19.441395714857 -62.845413860998
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Texas)))))
+-19.496333497726 -64.964733229732
+(S1 (S (VP (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-19.546926991243 -66.940579490162
+(S1 (SBAR (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-19.627079183281 -62.713411400314
+(S1 (S (ADVP (UH Well)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-19.646081492133 -64.414754830321
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Texas)))))
+-20.056035564238 -62.500692677852
+(S1 (FRAG (VP (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-20.112645533666 -64.396145811756
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNP Texas)))))
+-20.143006536146 -61.739238207808
+(S1 (FRAG (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-20.261339424812 -60.636624555115
+(S1 (FRAG (S (NP (RB Well) (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-20.298971833137 -62.401881866016
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (PP (RP in) (NP (NNP Texas))))))
+-20.317331310942 -65.965486781079
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNP Texas)))))
+-20.491993632077 -65.038751775758
+(S1 (SBAR (S (NP (RB Well) (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas)))))))
+-20.503657610412 -63.971222835339
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (PP (RP in) (NP (NNP Texas))))))
+-20.559817665966 -66.613132874366
+(S1 (FRAG (ADJP (RB Well) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-20.802445449256 -65.711100198837
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (S (NP (NNP Texas)))))))
+-20.976659599171 -66.444061943629
+(S1 (FRAG (SBAR (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-21.074058489787 -65.027503675957
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (NP (NNP Texas)))))
+-21.394528165621 -66.688892115822
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PP (RP in) (NP (NNP Texas))))))
+-21.425746772145 -65.386481288135
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (NP (IN in) (NNP Texas)))))
+-21.630432549421 -66.955822257458
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (NP (IN in) (NNP Texas)))))
+-21.745308308596 -66.578235626715
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB in)) (NP (NNP Texas)))))
+-21.875171779168 -66.198314849319
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in)) (NP (NNP Texas)))))
+-21.931634605279 -64.583971680974
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP 'm) (PP (RP in) (NP (NNP Texas))))))
+-22.111108729475 -65.594546538989
+(S1 (FRAG (SBAR (S (NP (RB Well) (PRP I)) (VP (VBP 'm) (PP (IN in) (NP (NNP Texas))))))))
+-22.414820195326 -65.076268844339
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (S (NP (NNP Texas))))))
+-22.619505972602 -66.645609813662
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP 'm) (PRT (RP in)) (S (NP (NNP Texas))))))
+-22.884420468444 -65.700737719900
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP 'm) (ADJP (IN in) (NNP Texas)))))
+

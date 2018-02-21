@@ -1,0 +1,102 @@
+50 x
+-12.409368914573 -48.301309665977
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (NP (NN one))))))))
+-13.660391876914 -53.267850925443
+(S1 (S (NP (PRP I)) (VP (VB use) (S (VP (TO to) (VP (VB have) (NP (NN one))))))))
+-13.920518654757 -50.860135396360
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (NP (CD one))))))))
+-14.491972894461 -56.022082257526
+(S1 (S (NP (PRP I)) (VP (NN use) (S (VP (TO to) (VP (VB have) (NP (NN one))))))))
+-14.726099046221 -55.053564340709
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (NP (PRP one))))))))
+-15.375302493098 -55.826676655826
+(S1 (S (NP (PRP I)) (VP (VB use) (S (VP (TO to) (VP (VB have) (NP (CD one))))))))
+-15.924648249562 -60.020105600174
+(S1 (S (NP (PRP I)) (VP (VB use) (S (VP (TO to) (VP (VB have) (NP (PRP one))))))))
+-16.040711130644 -58.580907987909
+(S1 (S (NP (PRP I)) (VP (NN use) (S (VP (TO to) (VP (VB have) (NP (CD one))))))))
+-16.494866591073 -58.073251207948
+(S1 (S (NP (PRP I)) (VP (VBP use) (SBAR (S (VP (TO to) (VP (VB have) (NP (NN one)))))))))
+-16.777368646108 -62.774336932258
+(S1 (S (NP (PRP I)) (VP (NN use) (S (VP (TO to) (VP (VB have) (NP (PRP one))))))))
+-17.218560851177 -62.497420328544
+(S1 (S (NP (PRP I)) (VP (NN use) (SBAR (S (VP (TO to) (VP (VB have) (NP (NN one)))))))))
+-17.398299727520 -61.619083025259
+(S1 (S (NP (PRP I)) (VP (VB use) (SBAR (S (VP (TO to) (VP (VB have) (NP (NN one)))))))))
+-17.511703577257 -64.789423766485
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VBP have) (NP (CD one))))))))
+-17.777222112156 -60.632076938331
+(S1 (S (NP (PRP I)) (VP (VBP use) (SBAR (S (VP (TO to) (VP (VB have) (NP (CD one)))))))))
+-18.015052314591 -62.976269946776
+(S1 (S (NP (PRP I)) (VP (VBP use) (PP (TO to) (NP (VB have) (CD one))))))
+-18.036059059308 -56.650694494946
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (S (NP (CD one)))))))))
+-18.282538910682 -61.831614744521
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (S (NP (NN one)))))))))
+-18.282775001252 -60.727907411405
+(S1 (S (NP (PRP I)) (VP (VBP use) (VP (TO to) (VP (VB have) (NP (NN one)))))))
+-18.428997080307 -59.336193585807
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (S (NP (PRP one)))))))))
+-18.459993713208 -66.787408741217
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VBP have) (NP (NN one))))))))
+-18.521738087361 -65.056246058927
+(S1 (S (NP (PRP I)) (VP (NN use) (SBAR (S (VP (TO to) (VP (VB have) (NP (CD one)))))))))
+-18.522135748150 -66.236295695619
+(S1 (NP (NP (PRP I)) (NN use) (S (VP (TO to) (VP (VB have) (NP (NN one)))))))
+-18.631243481958 -62.645658741365
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (ADVP (CD one))))))))
+-18.661533882721 -64.825505882679
+(S1 (S (NP (PRP I)) (VP (VBP use) (SBAR (S (VP (TO to) (VP (VB have) (NP (PRP one)))))))))
+-18.717335835664 -62.763248173243
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (S (VP (VB have) (NP (NN one)))))))))
+-18.767230853847 -64.058999285424
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (ADVP (NN one))))))))
+-18.882628269436 -63.286733141788
+(S1 (S (NP (PRP I)) (VP (VBP use) (VP (TO to) (VP (VB have) (NP (CD one)))))))
+-18.913628670104 -64.177908755642
+(S1 (S (NP (PRP I)) (VP (VB use) (SBAR (S (VP (TO to) (VP (VB have) (NP (CD one)))))))))
+-19.010300939792 -65.550881889670
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (TO to) (VP (VB have) (NP (NN one)))))))
+-19.060510885993 -65.150676906886
+(S1 (S (NP (PRP I)) (VBP use) (VP (TO to) (VP (VB have) (NP (NN one))))))
+-19.433983432897 -65.782161097315
+(S1 (S (NP (PRP I)) (VP (VB use) (PP (TO to) (NP (VB have) (CD one))))))
+-19.490842897649 -61.617235754411
+(S1 (S (NP (PRP I)) (VP (VB use) (S (VP (TO to) (VP (VB have) (S (NP (CD one)))))))))
+-19.491180902545 -67.329307584507
+(S1 (NP (NP (NN I) (NN use)) (SBAR (S (VP (TO to) (VP (VB have) (NP (NN one))))))))
+-19.533561873024 -66.798156003986
+(S1 (S (NP (PRP I)) (VP (VB use) (S (VP (TO to) (VP (VB have) (S (NP (NN one)))))))))
+-19.627546283648 -64.302734845272
+(S1 (S (NP (PRP I)) (VP (VB use) (S (VP (TO to) (VP (VB have) (S (NP (PRP one)))))))))
+-19.708273893290 -63.567834566161
+(S1 (NP (NP (PRP I) (NN use)) (SBAR (S (VP (TO to) (VP (VB have) (NP (NN one))))))))
+-19.737865381177 -67.709502637269
+(S1 (S (NP (PRP I)) (VBP use) (VP (TO to) (VP (VB have) (NP (CD one))))))
+-19.846540439660 -65.564568014191
+(S1 (S (NP (PRP I)) (VP (VBP use) (PP (TO to) (VP (VB have) (NP (NN one)))))))
+-20.086027320300 -67.612200000830
+(S1 (S (NP (PRP I)) (VP (VB use) (S (VP (TO to) (VP (VB have) (ADVP (CD one))))))))
+-20.147390665688 -67.480162086137
+(S1 (S (NP (PRP I)) (VP (VBP use) (VP (TO to) (VP (VB have) (NP (PRP one)))))))
+-20.238024992351 -66.589452618009
+(S1 (S (NP (PRP I)) (VP (VBP use) (PP (TO to) (S (VP (VB have) (NP (NN one))))))))
+-20.305137837983 -64.371467086494
+(S1 (S (NP (PRP I)) (VP (NN use) (S (VP (TO to) (VP (VB have) (S (NP (CD one)))))))))
+-20.517451593396 -64.567228570294
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (S (VP (VB have) (NP (CD one)))))))))
+-20.571827121724 -67.354862286721
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (TO to) (VP (VB have) (NP (CD one)))))))
+-20.629152980194 -67.056966177356
+(S1 (S (NP (PRP I)) (VP (NN use) (S (VP (TO to) (VP (VB have) (S (NP (PRP one)))))))))
+-20.638680043683 -67.113373974672
+(S1 (S (NP (PRP I)) (VP (VBP use) (SBAR (TO to) (S (VP (VB have) (NP (NN one))))))))
+-20.639612026377 -66.976966440919
+(S1 (S (NP (PRP I)) (VP (VBP use) (SBAR (S (TO to) (VP (VBP have) (NP (CD one))))))))
+-20.832280162474 -66.126660296545
+(S1 (NP (NP (PRP I) (NN use)) (SBAR (S (VP (TO to) (VP (VB have) (NP (CD one))))))))
+-20.936455791724 -65.963183421521
+(S1 (S (NP (PRP I)) (VP (VBP use) (S (VP (TO to) (VP (VB have) (ADJP (CD one))))))))
+-22.044839891495 -66.422636036916
+(S1 (S (NP (PRP I)) (VP (VBP use) (SBAR (S (VP (TO to) (VP (VB have) (S (NP (CD one))))))))))
+

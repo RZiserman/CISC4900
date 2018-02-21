@@ -1,0 +1,102 @@
+50 x
+-16.994915856760 -61.743121632428
+(S1 (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-17.784158289038 -62.051380366741
+(S1 (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-18.546747184610 -69.550324212364
+(S1 (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (NN cruises))))))
+-19.183014179138 -64.543986842303
+(S1 (FRAG (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-19.526635984156 -62.483952193788
+(S1 (FRAG (WHADVP (WRB How) (RB long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))
+-19.626954466888 -69.858582946677
+(S1 (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (NN cruises))))))
+-19.934709580558 -70.642137521048
+(S1 (SBAR (WHNP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-20.011670921417 -64.852245576616
+(S1 (FRAG (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-20.125284912988 -69.328808019940
+(S1 (S (WHNP (WRB How) (JJ long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))
+-20.433128318325 -68.290812331797
+(S1 (SBAR (WHADVP (WRB How)) (S (NP (JJ long)) (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-20.675832366988 -72.351189422240
+(S1 (FRAG (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (NN cruises)))))))
+-20.696339925941 -69.688355973203
+(S1 (S (WHNP (WRB How) (RB long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))
+-20.698724515089 -71.036328240918
+(S1 (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (VBZ cruises))))))
+-20.731306440675 -69.836652420808
+(S1 (SBAR (WHADVP (WRB How)) (S (ADVP (RB long)) (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-20.891070209613 -70.246402432972
+(S1 (FRAG (WHADVP (WRB How) (RB long)) (VP (VBP are) (NP (DT the) (NN cruises)))))
+-21.024484612413 -70.330508812285
+(S1 (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (JJ cruises))))))
+-21.184199150250 -66.526900684851
+(S1 (FRAG (WHADVP (WRB How) (JJ long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))
+-21.603662807367 -71.344586975231
+(S1 (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (VBZ cruises))))))
+-21.685688197507 -69.829245759984
+(S1 (SBAR (WHADVP (WRB How)) (S (NP (RB long)) (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-21.696730458417 -72.865948608232
+(S1 (SBAR (WHADVP (WRB How) (ADJP (JJ long))) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-21.795453959267 -72.659448156553
+(S1 (FRAG (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (NN cruises)))))))
+-21.859516694691 -70.638767546598
+(S1 (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (JJ cruises))))))
+-21.910148872205 -72.593442244385
+(S1 (S (NP (WRB How) (JJ long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))
+-21.919349563432 -74.738438362071
+(S1 (SBAR (WHNP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-22.003993759542 -72.432033610738
+(S1 (SBAR (WHADVP (WRB How)) (S (RB long) (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-22.222044507267 -70.911831460087
+(S1 (SBAR (WHADVP (WRB How)) (S (VP (ADVP (RB long)) (VBP are) (NP (DT the) (NNS cruises))))))
+-22.293905375067 -73.929554630697
+(S1 (FRAG (SBAR (WHNP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-22.420478423840 -69.190575792598
+(S1 (FRAG (WHADVP (WRB How)) (VP (ADVP (RB long)) (VBP are) (NP (DT the) (NNS cruises)))))
+-22.547159947577 -72.029077392038
+(S1 (FRAG (WHNP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-22.552228514726 -71.852167532661
+(S1 (FRAG (WHADVP (WRB How) (RB long)) (VP (VBP are) (NP (DT the) (VBZ cruises)))))
+-22.641838084242 -74.331879628385
+(S1 (SBAR (WHADVP (WRB How) (NP (JJ long))) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-22.676199795707 -74.289350924035
+(S1 (FRAG (WHADVP (WRB How) (JJ long)) (VP (VBP are) (NP (DT the) (NN cruises)))))
+-22.677290670704 -71.091677541672
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (NP (JJ long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-22.740646090968 -73.837193450793
+(S1 (FRAG (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (VBZ cruises)))))))
+-22.936054483054 -72.637517630683
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (ADVP (RB long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-23.033304048466 -72.800417526028
+(S1 (FRAG (WHNP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-23.046902705213 -73.749248038672
+(S1 (FRAG (SBAR (WHNP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-23.104458734792 -73.131374022160
+(S1 (FRAG (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (NP (DT the) (JJ cruises)))))))
+-23.129173200851 -71.308696415082
+(S1 (FRAG (WHADVP (WRB How) (RB long)) (VP (VBP are) (NP (DT the) (JJ cruises)))))
+-23.598331571069 -74.142605661432
+(S1 (SBAR (WHADVP (WRB How)) (S (ADVP (JJ long)) (VP (VBP are) (NP (DT the) (NNS cruises))))))
+-23.684998693246 -74.145452185106
+(S1 (FRAG (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (VBZ cruises)))))))
+-23.890436239886 -72.630110969859
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (NP (RB long)) (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-23.964037263804 -72.728506765943
+(S1 (SBAR (WHADVP (WRB How) (RB long)) (S (VP (VBP are) (S (NP (DT the) (NNS cruises)))))))
+-23.978905127070 -73.439632756473
+(S1 (FRAG (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (NP (DT the) (JJ cruises)))))))
+-24.208741801921 -75.232898820613
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (RB long) (VP (VBP are) (NP (DT the) (NNS cruises)))))))
+-24.426792549646 -73.712696669962
+(S1 (FRAG (SBAR (WHADVP (WRB How)) (S (VP (ADVP (RB long)) (VBP are) (NP (DT the) (NNS cruises)))))))
+-24.655151713295 -73.036765500256
+(S1 (SBAR (WHADVP (WRB How) (JJ long)) (S (VP (VBP are) (S (NP (DT the) (NNS cruises)))))))
+-24.818959566945 -75.351644906146
+(S1 (FRAG (WHADVP (WRB How) (JJ long)) (VP (VBP are) (NP (DT the) (JJ cruises)))))
+-25.328373022667 -71.811056026507
+(S1 (FRAG (WHADVP (WRB How) (RB long)) (VP (VBP are) (S (NP (DT the) (NNS cruises))))))
+-25.587709740974 -75.012214194936
+(S1 (FRAG (WHADVP (WRB How) (RB long)) (VP (VBP are) (SBAR (DT the) (S (VP (VBZ cruises)))))))
+

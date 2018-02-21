@@ -1,0 +1,102 @@
+50 x
+-17.866900464864 -58.692603423414
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (VP (VBN played) (NP (PRP it))))))
+-17.925018693661 -61.066974430563
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (VP (VBD played) (NP (PRP it))))))
+-19.478021244291 -62.563145741056
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (ADVP (RB really)) (VBD played) (NP (PRP it))))))
+-20.016604656925 -63.828808119557
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (ADVP (RB really)) (VBN played) (NP (PRP it))))))
+-20.545550050469 -67.682060911152
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never)) (ADVP (RB really)) (VBD played) (NP (PRP it))))))
+-21.148237160904 -68.338705905266
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never) (RB really)) (VP (VBD played) (NP (PRP it))))))
+-21.245553822083 -71.126385365942
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (RB really) (VP (VBD played) (NP (PRP it))))))
+-21.659317792107 -65.964334898117
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never) (RB really)) (VP (VBN played) (NP (PRP it))))))
+-21.910855320526 -69.630168297488
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (RB really) (VP (VBN played) (NP (PRP it))))))
+-22.222461875052 -69.419456009124
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (ADVP (RB really)) (VP (VBN played) (NP (PRP it))))))
+-22.289438833849 -71.793827016274
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (ADVP (RB really)) (VP (VBD played) (NP (PRP it))))))
+-22.623588111178 -71.163108472911
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never) (RB really)) (VBD played) (NP (PRP it))))))
+-22.892228535790 -69.541625429280
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (VP (VBD played) (S (NP (PRP it)))))))
+-22.932572898871 -75.470670899482
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (SBAR (S (VP (VBD played) (NP (PRP it))))))))
+-22.970070885552 -73.980321121583
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (S (ADVP (RB really)) (VP (VBD played) (NP (PRP it))))))))
+-22.971698771920 -74.030728011226
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (RB really) (S (VP (VBD played) (NP (PRP it))))))))
+-22.976097157473 -76.188289078701
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (S (VP (VBD played) (NP (PRP it)))))))
+-23.067530854429 -68.247174623622
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (VP (VBN played) (S (NP (PRP it)))))))
+-23.109808918580 -73.783216019409
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (S (VP (VBN played) (NP (PRP it)))))))
+-23.125815527360 -74.893066651361
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (S (ADVP (RB really)) (VP (VBN played) (NP (PRP it)))))))
+-23.453192120734 -77.942174370718
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never)) (ADVP (RB really)) (VBN played) (NP (PRP it))))))
+-23.485340292578 -76.666705030210
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (ADVP (RB never)) (RB really)) (VP (VBD played) (NP (PRP it))))))
+-23.508729590322 -75.574208265725
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (RB really) (VBD played) (NP (PRP it))))))
+-23.548311588476 -78.697911920020
+(S1 (S (NP (PRP I)) (VBP 've) (VP (ADVP (RB never)) (ADVP (RB really)) (VBD played) (NP (PRP it)))))
+-23.601470542115 -78.580172420548
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (S (ADVP (RB really)) (VP (VBD played) (NP (PRP it)))))))
+-23.615807117119 -75.943619100203
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really)) (PP (VBN played) (NP (PRP it))))))
+-23.874594808165 -72.868130433281
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (ADVP (RB never) (RB really)) (VBN played) (NP (PRP it))))))
+-23.956956389212 -75.106748593387
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (VP (ADVP (RB really)) (VBD played) (NP (PRP it))))))
+-23.964260233782 -74.292334023061
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (ADVP (RB never)) (RB really)) (VP (VBN played) (NP (PRP it))))))
+-24.029440741653 -74.886791387857
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (S (VP (ADVP (RB really)) (VBN played) (NP (PRP it)))))))
+-24.339578062889 -75.777465299067
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (RB really) (VBN played) (NP (PRP it))))))
+-24.350291919292 -77.970522300343
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (RB really) (VBN played)) (NP (PRP it)))))
+-24.537961722413 -72.659739583226
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (ADVP (RB really)) (VBD played) (S (NP (PRP it)))))))
+-24.554198525800 -76.139441544021
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (RB really) (S (VP (VBN played) (NP (PRP it))))))))
+-24.576928589390 -77.250564661787
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (VP (ADVP (RB really)) (VBN played) (NP (PRP it))))))
+-24.687835613150 -72.084509821847
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (ADVP (RB really)) (VBN played) (S (NP (PRP it)))))))
+-24.765617607977 -78.650556886703
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (S (ADVP (RB really)) (VP (VBN played) (NP (PRP it))))))))
+-24.792728760806 -78.144975125052
+(S1 (S (NP (PRP I)) (VP (VP (VBP 've) (ADVP (RB never)) (ADVP (RB really))) (VP (VBN played) (NP (PRP it))))))
+-24.968853284636 -78.169878302119
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (RB never) (ADVP (RB really)) (VBD played) (NP (PRP it))))))
+-25.168615091504 -75.200309533011
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (RB never) (ADVP (RB really)) (VP (VBN played) (NP (PRP it)))))))
+-25.268195829369 -78.942993674468
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (SBAR (S (VP (ADVP (RB really)) (VBD played) (NP (PRP it))))))))
+-25.338361466142 -78.121283515542
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (S (RB really) (VP (VBN played) (NP (PRP it)))))))
+-25.507681910625 -77.793500157375
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (RB really) (SBAR (S (VP (VBD played) (NP (PRP it)))))))))
+-25.632989333535 -79.103824816167
+(S1 (S (NP (PRP I)) (VP (VBP 've) (VP (RB never) (ADVP (RB really)) (VP (VBD played) (NP (PRP it)))))))
+-25.683486481480 -78.152774475573
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (RB really) (S (VP (VBD played) (NP (PRP it))))))))
+-26.115447000245 -76.813356903983
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never) (RB really)) (VP (VBD played) (S (NP (PRP it)))))))
+-26.328805854652 -75.160727414071
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (RB really) (VBN played) (S (NP (PRP it)))))))
+-26.403027032296 -78.072528932534
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (ADJP (RB really) (S (VP (VBN played) (NP (PRP it))))))))
+-26.859948181672 -75.518906098325
+(S1 (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never) (RB really)) (VP (VBN played) (S (NP (PRP it)))))))
+-27.423092264617 -78.974027209333
+(S1 (S (NP (PRP I)) (VP (VBP 've) (RB never) (ADVP (RB really)) (VP (VBN played) (S (NP (PRP it)))))))
+

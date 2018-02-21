@@ -1,0 +1,102 @@
+50 x
+-23.050133760522 -81.309718184312
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-25.154147526949 -85.343728150964
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-26.582970929025 -93.068296312261
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VBP care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-27.114658479096 -93.721448754417
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (VBP care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-27.806309554287 -92.555969968045
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (S (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas))))))))
+-28.541112339380 -95.972464572909
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (NN care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-28.777683640805 -96.049829661283
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (PRT (RP for)) (NP (NN snow) (NNS peas))))))
+-28.784116442918 -96.521588288429
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (PP (IN for) (NP (NP (NN snow)) (NNS peas)))))))
+-28.801978262313 -96.796579943995
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (PP (IN for) (NP (NN snow))) (NP (NNS peas))))))
+-28.868318518581 -96.300127959369
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (SBAR (IN for) (S (NP (NN snow) (NNS peas))))))))
+-29.068533422009 -97.842282218455
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (RB really) (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-29.148257556994 -99.704910749282
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (S (VP (VBP care) (PP (IN for) (NP (NN snow) (NNS peas))))))))
+-29.490764747584 -99.358545135617
+(S1 (S (NP (PRP I)) (VP (VBP do) (ADVP (RB n't) (RB really)) (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-29.511100789533 -96.267819395317
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (VB care) (PRT (RP for)) (NP (NN snow) (NNS peas))))))
+-29.531680433586 -100.987799711184
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (IN for) (NP (NN snow) (NNS peas))))))
+-29.761786816352 -99.145609721602
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (NP (IN for) (NN snow) (NNS peas))))))
+-29.800487884101 -96.721209269276
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (NP (NP (NN care)) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-29.957227709468 -100.250584352935
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (PP (IN for) (NP (NP (NN snow)) (NP (NNS peas))))))))
+-30.029591683006 -96.689373638477
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (NP (NN care)) (PP (IN for) (NP (NN snow) (NNS peas))))))
+-30.049755131109 -102.767136727256
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VBP care) (PP (IN for) (NP (NN snow) (NNS peas))))))
+-30.143892702285 -98.671032692273
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (RB really) (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-30.219375085793 -97.695540893774
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (NP (VB care)) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-30.245241406098 -99.140834174370
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (S (VP (NN care) (PP (IN for) (NP (NN snow) (NNS peas))))))))
+-30.454270235426 -102.762795942304
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (SBAR (S (VP (VBP care) (PP (IN for) (NP (NN snow) (NNS peas)))))))))
+-30.490714262238 -98.101084672482
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (NP (NP (VB care)) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-30.651017233627 -99.082334306080
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (VB care) (SBAR (IN for) (S (NP (NN snow) (NNS peas))))))))
+-30.700977122680 -98.761733120467
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (VB care) (NP (IN for) (NN snow) (NNS peas))))))
+-30.888130220496 -100.555598255081
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (VB care) (PP (IN for) (NP (NP (NN snow)) (NNS peas)))))))
+-30.963115521998 -100.748654368328
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (NP (VB care)) (PP (IN for) (NP (NN snow) (NNS peas))))))
+-31.186441135011 -98.968297957020
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (NP (NN care)) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-31.220769189994 -103.748578359317
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (SBAR (S (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))))
+-31.426953896830 -100.685769960782
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (NP (RB really) (NN care)) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-31.443494810569 -103.647630984017
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (S (ADVP (RB really)) (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas))))))))
+-31.467282419026 -101.585077815663
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really) (NN care)) (PP (IN for) (NP (NN snow) (NNS peas))))))
+-31.536405745867 -103.403611140398
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (PP (IN for) (S (NP (NN snow) (NNS peas))))))))
+-31.564426744035 -101.986992643233
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (RB really) (S (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))))
+-31.688475309774 -103.436644120562
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (SBAR (IN for) (S (NP (NN snow)) (NP (NNS peas))))))))
+-31.696620838212 -101.940493685823
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (NP (VB care)) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-31.712102147946 -103.778855875373
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (RB really) (VP (VB care) (PP (IN for) (NP (NN snow) (NNS peas))))))))
+-31.902351027267 -103.690918727040
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (RB really) (VB care)) (PP (IN for) (NP (NN snow) (NNS peas))))))
+-31.970325690515 -101.341486934719
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (ADJP (VB care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-32.028414117648 -102.831957721730
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (NP (RB really) (VB care)) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-32.261478162185 -102.225053086438
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (NP (NP (VB care)) (PP (IN for) (NP (NN snow) (NNS peas))))))))
+-32.359930663082 -104.016650385524
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (NP (QP (IN for) (NN snow)) (NNS peas))))))
+-32.460691533145 -102.974493071784
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB care) (PP (IN for) (NP (NN snow)) (NP (NNS peas)))))))
+-32.477040010777 -101.741035407115
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB really) (NN care)) (PP (IN for) (NP (NN snow) (NNS peas))))))
+-32.754807853477 -101.694283012764
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (ADJP (NN care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-32.798825288821 -100.786937149340
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB really)) (S (NP (NP (NN care)) (PP (IN for) (NP (NN snow) (NNS peas))))))))
+-32.983047280102 -103.022701769171
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB really) (NN care) (PP (IN for) (NP (NN snow) (NNS peas)))))))
+-33.299120969410 -103.632773784389
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (ADVP (RB really)) (VB care) (NP (QP (IN for) (NN snow)) (NNS peas))))))
+

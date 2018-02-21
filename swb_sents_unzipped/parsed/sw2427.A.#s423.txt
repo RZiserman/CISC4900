@@ -1,0 +1,102 @@
+50 x
+-16.029003490064 -59.359090301472
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (NNS beets))))))
+-16.823831999011 -60.048925558521
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (DT some) (NNS beets))))))
+-18.667992625915 -67.415598115210
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (NN beets))))))
+-18.874878740576 -66.586052776100
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (DT some) (NN beets))))))
+-19.002713193661 -67.838511314149
+(S1 (S (NP (PRP we)) (VP (VB 've) (VP (VBD got) (NP (DT some) (NNS beets))))))
+-19.921289966523 -63.274162157904
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (DT some) (NNS beets)))))))
+-20.413753068545 -72.779158118352
+(S1 (S (NP (PRP we)) (VBP 've) (VP (VBD got) (NP (DT some) (NNS beets)))))
+-20.643032229057 -72.543848663845
+(S1 (S (NP (PRP we)) (VP (VB 've) (VP (VBN got) (NP (DT some) (NNS beets))))))
+-20.984835153467 -71.164945583465
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (DT some) (JJ beets))))))
+-21.280450406746 -66.606341831954
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (S (NP (DT some) (NNS beets)))))))
+-21.301011560709 -70.782991004599
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (SBAR (S (NP (DT some)) (VP (VBZ beets))))))))
+-21.467828629513 -75.895019127887
+(S1 (S (NP (PRP we)) (VP (VB 've) (VP (VBD got) (NP (DT some) (NN beets))))))
+-21.504152035359 -74.739452633127
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (RB some) (NNS beets))))))
+-21.515124635720 -74.057524571594
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (VBZ beets))))))
+-21.618534264472 -76.987283253300
+(S1 (S (NP (PRP we)) (VP (VBP 've) (S (VP (VBD got) (NP (DT some) (NNS beets)))))))
+-21.621683790717 -72.910071011003
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (JJ beets))))))
+-21.682893862421 -74.860353481108
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (DT some) (VBZ beets))))))
+-21.696917062542 -76.046029217744
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (RB some) (NNS beets))))))
+-21.765791645400 -77.531007056218
+(S1 (S (NP (PRP we)) (VP (VBP 've) (SBAR (S (VP (VBD got) (NP (DT some) (NNS beets))))))))
+-21.827116592620 -74.128188782062
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (SBAR (S (NP (DT some)) (VP (VBZ beets))))))))
+-21.863605410974 -73.254639348288
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (NP (NNS beets)))))))
+-21.885658903007 -74.986175845187
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (S (NP (DT some)) (VP (VBZ beets)))))))
+-21.948950373240 -71.113732174764
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (DT some) (NP (NNS beets)))))))
+-22.139855819224 -78.405939796634
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (DT some)) (VP (VBZ beets)))))))
+-22.233108199739 -71.832434706087
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (DT some) (NN beets)))))))
+-22.281253532034 -76.913027991937
+(S1 (S (NP (PRP we)) (VBP 've) (VP (VBP got) (NP (DT some) (NNS beets)))))
+-22.282003345721 -70.384573300192
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (DT some)) (NP (NNS beets)))))))
+-22.633310670502 -74.980487733197
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (DT some) (NP (NNS beets))))))
+-22.654715914610 -74.287315160208
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (NP (DT some)) (NNS beets))))))
+-23.053752446139 -74.501849365108
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT some)) (NNS beets))))))
+-23.136575036395 -75.494315504780
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (NP (DT some)) (NN beets))))))
+-23.277113507996 -75.769653907260
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT some)) (NN beets))))))
+-23.457247340159 -74.513072453084
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (DT some)) (NP (NNS beets))))))
+-23.463306270232 -75.312071935124
+(S1 (S (NP (PRP we)) (VP (VB 've) (VP (VBN got) (S (NP (DT some) (NNS beets)))))))
+-23.703557727057 -77.812189647620
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (RB some) (NNS beets)))))))
+-23.774956899382 -75.677014200973
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (S (NP (DT some) (NN beets)))))))
+-23.919928862834 -72.853485409376
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (S (NP (DT some)) (NP (NNS beets)))))))
+-23.946508133394 -76.454858577272
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (DT some) (JJ beets)))))))
+-24.027981958431 -75.524776240339
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (SBAR (DT some) (S (VP (VBZ beets))))))))
+-24.074905915679 -72.540770135770
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (SBAR (S (NP (DT some) (NNS beets))))))))
+-24.098408949468 -77.607426660878
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT some)) (NP (NNS beets))))))
+-24.128901708487 -74.593251828708
+(S1 (S (NP (PRP we)) (VP (VB 've) (VP (VBD got) (S (NP (DT some) (NNS beets)))))))
+-24.316487165451 -77.443712263024
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (SBAR (DT some) (S (VP (VBZ beets))))))))
+-24.467625326305 -74.601385271502
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (SBAR (S (NP (DT some) (NNS beets))))))))
+-24.585905872270 -77.015520682807
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (NP (DT some)) (NP (NNS beets)))))))
+-24.600610379000 -76.698098692059
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (DT some) (NP (NNS beets))))))))
+-24.753966126472 -75.690686693612
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (NP (DT some)) (NP (NN beets)))))))
+-25.570363289115 -76.292586900798
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (S (NP (DT some)) (NP (NN beets)))))))
+-26.561747921792 -76.533079634990
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (NP (DT some)) (S (NP (NNS beets)))))))
+-27.140906927504 -78.811896003467
+(S1 (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (SBAR (S (NP (DT some)) (NP (NNS beets))))))))
+

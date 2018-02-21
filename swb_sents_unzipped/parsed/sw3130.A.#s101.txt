@@ -1,0 +1,102 @@
+50 x
+-11.683985483073 -39.335452515544
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB too) (JJ heavy)))))
+-12.540463515588 -41.058531047422
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (RB too) (JJ heavy)))))
+-14.786237126292 -45.734101118507
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB too) (JJ heavy)))))
+-15.304458279915 -48.495556626588
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB too) (JJ heavy)))))
+-15.828868581926 -45.282133226019
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB too)) (ADJP (JJ heavy)))))
+-15.936231836167 -46.915643271013
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB too) (JJ heavy)))))
+-15.973149852337 -50.605958605976
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (RB too) (JJ heavy))))))
+-16.021501909085 -52.585369299882
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (RB too) (NN heavy)))))
+-16.132013609802 -48.649414744394
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (RB too) (JJ heavy))))
+-16.341807979417 -54.495266981342
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (RB too) (NN heavy)))))
+-16.461691222595 -49.782758885173
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB too) (ADJP (JJ heavy)))))
+-16.461984942079 -52.879404030779
+(S1 (S (NP (PRP It)) (VP (POS 's) (RB too) (ADJP (JJ heavy)))))
+-16.539798495402 -51.667787143461
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB too)) (NP (NN heavy)))))
+-16.555277270069 -48.802342448241
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (RB too)) (JJ heavy)))))
+-16.767776083158 -56.376030014038
+(S1 (S (NP (PRP It)) (VBZ 's) (ADJP (RB too) (JJ heavy))))
+-16.901284245305 -51.293917849212
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB too) (JJ heavy)))))
+-17.038133359271 -51.722577963888
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADJP (RB too) (JJ heavy))))))
+-17.081550492896 -51.795192553946
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (RB too) (JJ heavy))))))
+-17.233684684714 -50.612931521796
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB too)) (NP (JJ heavy)))))
+-17.456245519979 -50.297912224033
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (ADVP (RB too)) (JJ heavy)))))
+-17.456338798455 -52.402131645264
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADVP (RB too)) (ADJP (JJ heavy)))))
+-17.565527904311 -56.853285738905
+(S1 (S (NP (PRP It) (POS 's)) (ADJP (RB too) (JJ heavy))))
+-17.823409413466 -54.192197619419
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (ADJP (RB too) (JJ heavy))))))
+-17.921576247218 -49.885236836470
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB too)) (VP (JJ heavy)))))
+-17.981833618990 -57.037853978064
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB too) (NP (NN heavy)))))
+-17.994536225930 -51.984999731350
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB too)) (JJ heavy)))))
+-18.092586608583 -50.982142522561
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (VP (RB too) (ADJP (JJ heavy))))))
+-18.547509054062 -56.117955150104
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB too) (NP (JJ heavy)))))
+-18.690819608488 -56.685876745425
+(S1 (S (NP (PRP It)) (VP (POS 's) (ADJP (QP (RB too) (JJ heavy))))))
+-18.929605573273 -57.738627945185
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (QP (RB too) (JJ heavy))))))
+-19.193518446623 -57.250021934997
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB too) (VP (JJ heavy)))))
+-19.243266170209 -58.998717113036
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (ADVP (RB too)) (NN heavy)))))
+-19.456670347748 -59.688409510193
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (NP (RB too) (JJ heavy))))))
+-19.570360705349 -53.813157293234
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB too)) (VP (ADJP (JJ heavy))))))
+-19.839016220833 -60.082605871607
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (ADVP (RB too)) (NN heavy)))))
+-19.947818756211 -60.048263839704
+(S1 (S (NP (PRP It)) (VP (POS 's) (NP (QP (RB too) (JJ heavy))))))
+-20.060162497758 -60.097392499270
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (RB too) (ADJP (JJ heavy)))))))
+-20.099533533129 -60.301610996517
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (RB too) (JJ heavy))))))
+-20.107815377053 -59.134697093143
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB too) (ADJP (JJ heavy))))))
+-20.219602806606 -60.791640294773
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADVP (RB too)) (ADJP (JJ heavy))))))
+-20.398272812329 -56.584528150982
+(S1 (S (NP (PRP It) (VBZ 's)) (ADJP (ADVP (RB too)) (JJ heavy))))
+-20.453174546954 -58.541072106108
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (ADJP (ADVP (RB too)) (JJ heavy))))))
+-20.511499549956 -59.601764949633
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (NP (RB too) (JJ heavy))))))
+-20.516527050672 -60.747735238846
+(S1 (S (NP (PRP It)) (VP (POS 's) (S (VP (ADVP (RB too)) (JJ heavy))))))
+-20.641287142970 -58.587752852584
+(S1 (S (NP (PRP It) (VBZ 's)) (VP (ADVP (RB too)) (JJ heavy))))
+-20.804461177218 -58.937622590953
+(S1 (S (NP (PRP It) (VBZ 's)) (ADVP (RB too)) (ADJP (JJ heavy))))
+-20.842302907542 -61.177942391760
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB too) (VP (ADJP (JJ heavy))))))
+-21.063422057461 -60.095711173429
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (ADVP (RB too)) (JJ heavy)))))
+-21.083308055150 -60.639266384549
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (VP (RB too) (ADJP (JJ heavy)))))))
+-21.253479231613 -59.730306054078
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (S (ADJP (ADVP (RB too)) (JJ heavy))))))
+

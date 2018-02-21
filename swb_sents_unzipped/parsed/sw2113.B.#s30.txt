@@ -1,0 +1,102 @@
+50 x
+-35.071624090501 -111.893215158383
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))
+-36.583796541460 -116.740554258649
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))
+-37.602472201705 -116.541700660033
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (VP (NNP Robby) (NP (NNP Robin) (NNP Williams))))))
+-37.765429613617 -126.641383033216
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (NNP uh))))) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))
+-38.775484583883 -118.866073156502
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (ADJP (NNP Robby) (NNP Robin) (NNP Williams)))))
+-38.823765045008 -124.585693941429
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (VP (NP (NNP Robby) (NNP Robin) (NNP Williams))))))
+-39.114644652664 -121.389039760299
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (VP (NNP Robby) (NP (NNP Robin) (NNP Williams))))))
+-39.227888688598 -119.260740051866
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (S (NP (NNP Robby) (NNP Robin) (NNP Williams))))))
+-39.248723972646 -130.302499681089
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (NP (NNP uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))))))
+-39.280231141801 -127.203226604529
+(S1 (S (SBAR (WHNP (WP What)) (VP (VBZ does) (NP (UH uh)))) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))
+-39.439485706667 -118.616923522853
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby)) (NP (NNP Robin) (NNP Williams))))))
+-39.674109376497 -119.866266773631
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (S (VP (NNP Robby) (NP (NNP Robin) (NNP Williams)))))))
+-39.886938946386 -125.483477761079
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (NP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))))))
+-40.013568471325 -128.284355043659
+(S1 (S (WHNP (WP What)) (VP (VBZ does) (SBAR (S (NP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))))
+-40.153720934822 -131.289868534866
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (NNP uh))))) (VP (VBZ is) (VP (NNP Robby) (NP (NNP Robin) (NNP Williams))))))
+-40.287657034842 -123.713412256768
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (ADJP (NNP Robby) (NNP Robin) (NNP Williams)))))
+-40.335937495967 -129.433033041695
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (VP (NP (NNP Robby) (NNP Robin) (NNP Williams))))))
+-40.516727559908 -124.129302521986
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby)) (NNP Robin) (NNP Williams)))))
+-40.740061139557 -124.108079152132
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (S (NP (NNP Robby) (NNP Robin) (NNP Williams))))))
+-40.885814493990 -130.814951902625
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (S (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))
+-40.912915333228 -131.359157671551
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (NP (NNP uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))))))
+-40.951658157626 -123.464262623119
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby)) (NP (NNP Robin) (NNP Williams))))))
+-41.165847280536 -126.215834488930
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NNP Robby)) (NP (NNP Robin) (NNP Williams)))))
+-41.174779297306 -123.390919694478
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (S (NP (NNP Robby)) (NP (NNP Robin) (NNP Williams))))))
+-41.186281827456 -124.713605873898
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (S (VP (NNP Robby) (NP (NNP Robin) (NNP Williams)))))))
+-41.243369070397 -128.776168667854
+(S1 (S (SBAR (WHNP (WDT What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))
+-41.493159938603 -125.037835096958
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby) (NNP Robin)) (NP (NNP Williams))))))
+-41.551130306968 -126.540135751541
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (NP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))))))
+-41.890548569535 -131.446263132945
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ does) (S (NP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))))
+-41.937366032119 -125.456275313186
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby) (NNP Robin)) (NNP Williams)))))
+-41.998508689979 -130.530981031853
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh)) (SBAR (S (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))))))
+-42.028900010866 -128.976641622252
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby)) (NNP Robin) (NNP Williams)))))
+-42.059317748604 -129.981774084712
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (ADVP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))))))
+-42.097957794671 -125.507363262003
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (S (ADJP (NNP Robby) (NNP Robin) (NNP Williams))))))
+-42.165748318495 -131.276257350050
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ does) (S (ADVP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))))
+-42.321294350588 -129.424422527423
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (NP (NNP Robby) (NNP Robin)) (NP (NNP Williams)))))
+-42.333312283957 -130.131963047155
+(S1 (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (NP (UH uh)) (VP (VBZ is) (VP (NNP Robby) (NP (NNP Robin) (NNP Williams))))))))))
+-42.557003169714 -131.559053561443
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (SBAR (S (NP (NNP Robby) (NNP Robin) (NNP Williams)))))))
+-42.678019731494 -131.063173589196
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (NP (NNP Robby)) (NP (NNP Robin) (NNP Williams)))))
+-42.686951748265 -128.238258794745
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (S (NP (NNP Robby)) (NP (NNP Robin) (NNP Williams))))))
+-42.874137776664 -129.560832164502
+(S1 (FRAG (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (NP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams)))))))))
+-42.913878906485 -131.557520662150
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (SBAR (S (VP (NNP Robby) (NP (NNP Robin) (NNP Williams))))))))
+-43.005332389562 -129.885174197224
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby) (NNP Robin)) (NP (NNP Williams))))))
+-43.449538483078 -130.303614413452
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (NP (NP (NNP Robby) (NNP Robin)) (NNP Williams)))))
+-43.545424956295 -129.047337397292
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (S (NP (NNP Robby) (NNP Robin)) (NP (NNP Williams))))))
+-43.610130245630 -130.354702362269
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh))))) (VP (VBZ is) (S (ADJP (NNP Robby) (NNP Robin) (NNP Williams))))))
+-43.662700050561 -131.587639022315
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ does) (ADVP (UH uh)) (SBAR (S (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))))))
+-43.723509109186 -131.038432075174
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (ADVP (UH uh)) (VP (VBZ is) (NP (NNP Robby) (NNP Robin) (NNP Williams))))))))))
+-43.997503644539 -131.188621037617
+(S1 (FRAG (SBAR (WHNP (WP What)) (S (VP (VBZ does) (SBAR (S (NP (UH uh)) (VP (VBZ is) (VP (NNP Robby) (NP (NNP Robin) (NNP Williams)))))))))))
+-44.614301191771 -130.872408960559
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ does) (NP (UH uh))))) (VP (VBZ is) (S (NP (NP (NNP Robby)) (NP (NNP Robin) (NNP Williams)))))))
+

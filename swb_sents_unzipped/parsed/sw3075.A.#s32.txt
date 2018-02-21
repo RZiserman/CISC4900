@@ -1,0 +1,52 @@
+25 x
+-8.709463083489 -32.635838831594
+(S1 (NP (JJ beautiful) (NNS people)))
+-12.489648346735 -40.612091288800
+(S1 (X (JJ beautiful) (NNS people)))
+-12.570725432672 -39.199589538733
+(S1 (FRAG (NP (JJ beautiful) (NNS people))))
+-12.699581248591 -38.248417779730
+(S1 (S (NP (JJ beautiful) (NNS people))))
+-13.141159827211 -43.588027098271
+(S1 (X (NP (JJ beautiful) (NNS people))))
+-14.214430437511 -40.731887463745
+(S1 (NP (ADJP (JJ beautiful)) (NNS people)))
+-14.855374575034 -45.800432653652
+(S1 (S (VP (JJ beautiful) (NP (NNS people)))))
+-15.742059730139 -39.816181946099
+(S1 (S (ADJP (JJ beautiful)) (NP (NNS people))))
+-16.334198736974 -50.075343922370
+(S1 (FRAG (JJ beautiful) (NP (NNS people))))
+-16.574553070771 -53.513697775340
+(S1 (S (VP (NP (JJ beautiful) (NNS people)))))
+-16.842035929132 -51.204781714222
+(S1 (ADJP (JJ beautiful) (NP (NNS people))))
+-17.456019135319 -46.779349839413
+(S1 (FRAG (ADJP (JJ beautiful)) (NP (NNS people))))
+-17.751025619808 -43.905613132467
+(S1 (S (NP (ADJP (JJ beautiful)) (NNS people))))
+-18.057233862473 -54.463705099714
+(S1 (S (ADJP (JJ beautiful) (NP (NNS people)))))
+-18.282403405843 -47.799680439746
+(S1 (FRAG (NP (ADJP (JJ beautiful)) (NNS people))))
+-18.486492531306 -54.101658568722
+(S1 (FRAG (S (NP (JJ beautiful) (NNS people)))))
+-18.581526552625 -53.752427172667
+(S1 (FRAG (ADJP (JJ beautiful) (NP (NNS people)))))
+-18.598194421856 -51.965262865473
+(S1 (X (NP (ADJP (JJ beautiful)) (NNS people))))
+-18.777022240828 -53.956158471094
+(S1 (FRAG (S (VP (JJ beautiful) (NP (NNS people))))))
+-21.596627944963 -65.584781925839
+(S1 (FRAG (S (VP (NP (JJ beautiful) (NNS people))))))
+-21.656648799093 -59.191630804647
+(S1 (S (VP (NP (ADJP (JJ beautiful)) (NNS people)))))
+-21.717119143513 -56.110549296879
+(S1 (FRAG (S (ADJP (JJ beautiful)) (NP (NNS people)))))
+-21.882485330379 -62.609494534960
+(S1 (FRAG (S (ADJP (JJ beautiful) (NP (NNS people))))))
+-23.544504436051 -59.758853930081
+(S1 (FRAG (S (NP (ADJP (JJ beautiful)) (NNS people)))))
+-26.678727820134 -71.262714955146
+(S1 (FRAG (S (VP (NP (ADJP (JJ beautiful)) (NNS people))))))
+

@@ -1,0 +1,90 @@
+44 x
+-9.054312708407 -35.848954132678
+(S1 (NP (JJ Beautiful) (NN country)))
+-13.160329328857 -42.791667934063
+(S1 (FRAG (NP (JJ Beautiful) (NN country))))
+-13.909936059754 -43.354024283239
+(S1 (S (NP (JJ Beautiful) (NN country))))
+-14.223366773064 -47.281583240571
+(S1 (X (NP (JJ Beautiful) (NN country))))
+-14.497779369309 -45.056661496198
+(S1 (NP (ADJP (JJ Beautiful)) (NN country)))
+-14.989656055643 -45.326663114119
+(S1 (ADJP (JJ Beautiful) (NN country)))
+-15.199568889648 -49.014331409799
+(S1 (NP (NP (JJ Beautiful)) (NN country)))
+-15.587733199291 -47.446247099167
+(S1 (ADJP (JJ Beautiful) (NP (NN country))))
+-15.650627591143 -48.658622160529
+(S1 (FRAG (JJ Beautiful) (NP (NN country))))
+-15.838326757163 -45.703537952995
+(S1 (S (ADJP (JJ Beautiful) (NN country))))
+-15.949400673369 -49.852381678494
+(S1 (NP (NP (JJ Beautiful)) (NP (NN country))))
+-16.049735051204 -44.566495822578
+(S1 (FRAG (ADJP (JJ Beautiful)) (NP (NN country))))
+-16.216830739948 -50.422323221891
+(S1 (S (VP (JJ Beautiful) (NP (NN country)))))
+-16.442172909950 -46.334251314143
+(S1 (FRAG (ADJP (JJ Beautiful) (NN country))))
+-16.815296100010 -47.034275337657
+(S1 (S (ADJP (JJ Beautiful)) (NP (NN country))))
+-17.181057873080 -50.374662666017
+(S1 (S (ADJP (JJ Beautiful) (NP (NN country)))))
+-17.445775952167 -57.052141547865
+(S1 (S (VP (NP (JJ Beautiful) (NN country)))))
+-17.464084992784 -49.993892557613
+(S1 (FRAG (ADJP (JJ Beautiful) (NP (NN country)))))
+-17.653437726344 -48.946654101431
+(S1 (FRAG (NP (ADJP (JJ Beautiful)) (NN country))))
+-18.167372553955 -51.729523865800
+(S1 (S (NP (JJ Beautiful)) (NP (NN country))))
+-18.806826937984 -54.608863237739
+(S1 (X (NP (ADJP (JJ Beautiful)) (NN country))))
+-18.819539309739 -50.633869006110
+(S1 (S (NP (ADJP (JJ Beautiful)) (NN country))))
+-18.915511055932 -55.432147643374
+(S1 (FRAG (NP (NP (JJ Beautiful)) (NN country))))
+-19.007088056199 -54.817041363659
+(S1 (FRAG (NP (NP (JJ Beautiful)) (NP (NN country)))))
+-19.800532301457 -53.849327388241
+(S1 (FRAG (S (ADJP (JJ Beautiful) (NN country)))))
+-19.826862084817 -59.214785079760
+(S1 (FRAG (S (NP (JJ Beautiful) (NN country)))))
+-19.927889523226 -60.074674177013
+(S1 (X (NP (NP (JJ Beautiful)) (NN country))))
+-20.275339575742 -58.578049039334
+(S1 (FRAG (S (VP (JJ Beautiful) (NP (NN country))))))
+-20.430510841099 -56.245121945204
+(S1 (S (NP (NP (JJ Beautiful)) (NN country))))
+-21.143170510986 -58.520452101263
+(S1 (FRAG (S (ADJP (JJ Beautiful) (NP (NN country))))))
+-22.192011532805 -61.797066271358
+(S1 (S (NP (NP (JJ Beautiful)) (NP (NN country)))))
+-22.275865521964 -63.918887988097
+(S1 (S (VP (NP (ADJP (JJ Beautiful)) (NN country)))))
+-22.929313104251 -63.336162699581
+(S1 (FRAG (S (ADJP (JJ Beautiful)) (NP (NN country)))))
+-23.000857371116 -70.569290648397
+(S1 (FRAG (S (VP (NP (JJ Beautiful) (NN country))))))
+-23.436999929138 -70.211021995413
+(S1 (S (VP (NP (NP (JJ Beautiful)) (NN country)))))
+-23.516794561872 -71.046477047232
+(S1 (X (NP (NP (JJ Beautiful)) (NP (NN country)))))
+-24.555775258158 -67.526272274636
+(S1 (FRAG (S (NP (JJ Beautiful)) (NP (NN country)))))
+-24.744780524619 -66.494629955675
+(S1 (FRAG (S (NP (ADJP (JJ Beautiful)) (NN country)))))
+-25.142726270295 -72.577403686927
+(S1 (S (VP (NP (NP (JJ Beautiful)) (NP (NN country))))))
+-26.142632605566 -70.573977260813
+(S1 (FRAG (S (NP (NP (JJ Beautiful)) (NP (NN country))))))
+-26.353282908950 -72.105882763045
+(S1 (FRAG (S (NP (NP (JJ Beautiful)) (NN country)))))
+-27.830946940913 -77.436037088629
+(S1 (FRAG (S (VP (NP (ADJP (JJ Beautiful)) (NN country))))))
+-28.992081348087 -83.728171095945
+(S1 (FRAG (S (VP (NP (NP (JJ Beautiful)) (NN country))))))
+-29.139662974346 -80.505377441946
+(S1 (FRAG (S (VP (NP (NP (JJ Beautiful)) (NP (NN country)))))))
+

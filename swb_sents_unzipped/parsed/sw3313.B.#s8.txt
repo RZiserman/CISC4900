@@ -1,0 +1,102 @@
+50 x
+-20.368112308819 -73.509931678077
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-23.202182764646 -82.997828296847
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NN Plano))))))
+-23.949199103333 -90.257890795931
+(S1 (S (NP (NNP Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-24.058270250021 -82.259284335099
+(S1 (S (ADVP (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-24.565502352140 -83.615373352888
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VB live) (PP (IN in) (NP (NNP Plano))))))
+-24.821116686959 -82.957670135760
+(S1 (FRAG (INTJ (UH Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-25.059287146140 -90.433912576516
+(S1 (S (NP (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-25.077811515766 -85.885934180791
+(S1 (FRAG (INTJ (UH Uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))))
+-25.446519260549 -92.282846066112
+(S1 (S (NP (NP (NNP Uh)) (NP (PRP we))) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-25.714946281057 -91.956106262424
+(S1 (S (NP (NNP Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-25.729549506619 -83.869496789930
+(S1 (S (ADVP (UH Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-25.764918254059 -89.903317560320
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (JJ live) (PP (IN in) (NP (NNP Plano))))))
+-25.793167030699 -86.518285751607
+(S1 (FRAG (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-25.834494344162 -85.978340084126
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (VP (PP (IN in) (NP (NNP Plano)))))))
+-25.852607401591 -87.053657010383
+(S1 (S (ADVP (NNP Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-25.903670812281 -86.298145878465
+(S1 (FRAG (NP (NNP Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-26.118950068633 -93.579802432593
+(S1 (S (NP (NNP Uh) (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-26.355543200377 -88.593715173089
+(S1 (FRAG (NP (UH Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-26.588051062814 -90.358829798718
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (ADJP (JJ live) (PP (IN in) (NP (NNP Plano))))))
+-26.670609053863 -92.132128043010
+(S1 (S (NP (UH Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-26.892340703060 -91.747180953869
+(S1 (S (ADVP (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NN Plano))))))
+-26.930494247126 -90.839531920459
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (ADJP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-26.952221120394 -89.912579348989
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PRT (RP in)) (NP (NNP Plano)))))
+-27.039685192998 -92.445566754531
+(S1 (FRAG (INTJ (UH Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NN Plano)))))))
+-27.189720281967 -93.103269971658
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VB live) (PP (IN in) (NP (NN Plano))))))
+-27.246962492186 -88.486494364228
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (S (NP (NNP Plano)))))))
+-27.280237434593 -95.373830799561
+(S1 (FRAG (INTJ (UH Uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NN Plano))))))))
+-27.620642900436 -88.540736170004
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (RP in) (NP (NNP Plano))))))
+-27.646531946912 -91.958351258431
+(S1 (S (INTJ (UH Uh)) (VP (VBP we) (VP (VB live) (PP (IN in) (NP (NNP Plano)))))))
+-27.696472930977 -88.663869465214
+(S1 (S (ADVP (NNP Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-27.705137244641 -92.247596694635
+(S1 (FRAG (ADVP (UH Uh)) (SBAR (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))))
+-27.715802936044 -93.595288581269
+(S1 (FRAG (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano))))))
+-27.864871458938 -91.157761232236
+(S1 (S (ADVP (UH Uh)) (NP (PRP we)) (VP (VB live) (PP (IN in) (NP (NNP Plano))))))
+-28.015581642446 -93.357393408700
+(S1 (S (ADVP (UH Uh)) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NN Plano)))))))
+-28.112476655791 -91.528012435776
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VB live) (PRT (RP in)) (NP (NNP Plano)))))
+-28.232597522546 -94.886514361127
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PRT (RP in)) (NP (NN Plano)))))
+-28.846983168797 -92.414995581004
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (NP (IN in) (NNP Plano)))))
+-28.888192629051 -93.832106920476
+(S1 (FRAG (INTJ (UH Uh)) (NP (PRP we)) (ADJP (JJ live) (PP (IN in) (NP (NNP Plano))))))
+-29.093714326452 -90.522027642048
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (ADVP (IN in) (NP (NNP Plano))))))
+-29.141130671462 -95.084166365924
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (S (NP (NN Plano)))))))
+-29.148993100548 -94.079449326832
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (PRT (IN in)) (NP (NNP Plano)))))
+-29.183883823902 -93.984464292431
+(S1 (FRAG (S (ADVP (UH Uh)) (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (NNP Plano)))))))
+-29.272486783805 -93.260206222880
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (ADVP (IN in)) (NP (NNP Plano)))))
+-29.321146960724 -94.244187452408
+(S1 (FRAG (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VB live) (PP (IN in) (NP (NNP Plano)))))))
+-29.449201835811 -94.833499090914
+(S1 (FRAG (INTJ (UH Uh)) (S (NP (PRP we)) (VP (VB live) (PP (IN in) (NP (NNP Plano)))))))
+-29.524652285364 -94.727692741148
+(S1 (S (ADVP (UH Uh)) (NP (PRP we)) (VP (VBP live) (VP (PP (IN in) (NP (NNP Plano)))))))
+-29.666836925164 -95.147435413502
+(S1 (S (INTJ (UH Uh)) (VP (VBP we) (ADJP (JJ live) (PP (IN in) (NP (NNP Plano)))))))
+-29.695176597971 -92.767024425229
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VB live) (PP (RP in) (NP (NNP Plano))))))
+-29.733616284056 -94.030952778886
+(S1 (S (INTJ (UH Uh)) (NP (PRP we)) (VP (VBP live) (VP (IN in) (NP (NNP Plano))))))
+-30.238007180727 -95.426078517604
+(S1 (FRAG (INTJ (UH Uh)) (S (NP (PRP we)) (VP (VBP live) (VP (PP (IN in) (NP (NNP Plano))))))))
+

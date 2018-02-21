@@ -1,0 +1,102 @@
+50 x
+-14.545128576952 -54.519125505057
+(S1 (NP (NP (CD one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VBP walk))))))
+-15.065799296277 -54.359256121595
+(S1 (S (NP (NP (CD one) (NN day)) (NP (PRP I))) (VP (VBP walk))))
+-16.005115763665 -55.366280702846
+(S1 (FRAG (NP (NP (CD one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-16.157731693809 -57.106100732304
+(S1 (S (NP (NP (CD one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-16.388891271119 -60.149823493765
+(S1 (S (NP (CD one) (NN day)) (NP (PRP I)) (VP (VBP walk))))
+-16.638800081576 -61.065973321601
+(S1 (NP (NP (CD one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VB walk))))))
+-16.740499697948 -53.570395622959
+(S1 (FRAG (NP (CD one) (NN day)) (S (NP (PRP I)) (VP (VBP walk)))))
+-16.793004089891 -58.611589773772
+(S1 (NP (NP (CD one) (NN day)) (S (NP (PRP I)) (VP (VBP walk)))))
+-17.279201792908 -61.119639056301
+(S1 (NP (CD one) (NN day) (SBAR (S (NP (PRP I)) (VP (VBP walk))))))
+-17.455291179706 -60.974119156966
+(S1 (NP (CD one) (NN day) (S (NP (PRP I)) (VP (VBP walk)))))
+-18.220207251503 -62.371650528956
+(S1 (S (NP (CD one) (NN day)) (S (NP (PRP I)) (VP (VBP walk)))))
+-18.230889924086 -64.779250380850
+(S1 (S (NP (NP (CD one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VB walk)))))))
+-18.306627574868 -62.615288564714
+(S1 (FRAG (NP (NP (CD one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VB walk)))))))
+-18.400313471787 -63.146499110601
+(S1 (S (NP (PRP one)) (VP (NN day) (S (NP (PRP I)) (VP (VBP walk))))))
+-18.438631549480 -60.941229907824
+(S1 (S (NP (CD one)) (VP (NN day) (S (NP (PRP I)) (VP (VBP walk))))))
+-18.597646375415 -67.024445355368
+(S1 (S (NP (CD one) (NN day)) (NP (PRP I)) (VP (VB walk))))
+-18.607064516380 -65.555285516782
+(S1 (NP (CD one) (NN day) (SBAR (S (NP (PRP I)) (VP (VB walk))))))
+-18.717112122438 -65.071933630536
+(S1 (NP (NP (CD one) (NN day)) (NP (PRP I) (NN walk))))
+-18.721551412920 -64.036419234933
+(S1 (S (NP (PRP one)) (VP (NN day) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-18.747695440242 -62.879475153269
+(S1 (FRAG (NP (CD one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VBP walk))))))
+-18.840911921555 -61.745613962813
+(S1 (S (NP (CD one) (NN day) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-18.856598296613 -61.831150032156
+(S1 (S (NP (CD one)) (VP (NN day) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-19.075697990392 -60.866280756664
+(S1 (FRAG (NP (CD one) (NN day)) (S (NP (PRP I)) (VP (VB walk)))))
+-19.160918493940 -60.495213892987
+(S1 (S (S (NP (CD one) (NN day))) (NP (PRP I)) (VP (VBP walk))))
+-19.218762080425 -67.256843553507
+(S1 (S (NP (NP (NN one) (NN day)) (NP (PRP I))) (VP (VBP walk))))
+-19.428904075578 -60.613488470288
+(S1 (S (NP (NP (CD one) (NN day)) (NP (NNP I))) (VP (VBP walk))))
+-19.437626935360 -64.637949907310
+(S1 (S (NP (CD one) (NN day) (NN I)) (VP (VBP walk))))
+-19.450350604447 -65.954694309191
+(S1 (NP (NP (PRP one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VBP walk))))))
+-19.503683885982 -65.614486958035
+(S1 (S (NP (NP (PRP one) (NN day)) (NP (PRP I))) (VP (VBP walk))))
+-19.753184262357 -64.393236894760
+(S1 (FRAG (NP (CD one) (NN day) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-19.789038102380 -62.550077328891
+(S1 (S (NP (NP (CD one) (NN day)) (ADVP (PRP I))) (VP (VBP walk))))
+-19.958044806398 -66.055105978226
+(S1 (S (NP (CD one)) (VP (NN day) (SBAR (S (NP (PRP I)) (VP (VB walk)))))))
+-19.989192621705 -68.260375181003
+(S1 (S (NP (PRP one)) (VP (NN day) (SBAR (S (NP (PRP I)) (VP (VB walk)))))))
+-20.052709816264 -66.405991425363
+(S1 (FRAG (NP (CD one) (NN day)) (NP (PRP I)) (VP (VB walk))))
+-20.101563067170 -65.929846377197
+(S1 (FRAG (NP (NP (CD one) (NN day)) (NP (PRP I))) (VP (VB walk))))
+-20.148261406922 -67.307562391370
+(S1 (S (NP (CD one) (NN day) (SBAR (S (NP (PRP I)) (VP (VB walk)))))))
+-20.383209703852 -64.585935423543
+(S1 (S (NP (NN one)) (VP (NN day) (S (NP (PRP I)) (VP (VBP walk))))))
+-20.637032953766 -66.803731146021
+(S1 (NP (NP (CD one) (NN day)) (NN I) (VB walk)))
+-20.768865697773 -65.475855547875
+(S1 (S (NP (NN one)) (VP (NN day) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-20.903447622493 -67.229640712654
+(S1 (S (ADJP (CD one) (NN day)) (NP (PRP I)) (VP (VBP walk))))
+-20.914417183747 -67.847394307620
+(S1 (FRAG (NP (NP (CD one) (NN day)) (S (NP (PRP I)) (VP (VBP walk))))))
+-20.995659426408 -66.930511050668
+(S1 (FRAG (NP (NN one) (NN day)) (S (NP (PRP I)) (VP (VBP walk)))))
+-20.998028418553 -66.801849674327
+(S1 (FRAG (NP (NP (PRP one) (NN day)) (SBAR (S (NP (PRP I)) (VP (VBP walk)))))))
+-21.154887619579 -67.462188059777
+(S1 (FRAG (NP (CD one) (NN day) (S (NP (PRP I)) (VP (VBP walk))))))
+-21.184362627738 -67.894452594838
+(S1 (S (ADVP (CD one) (NN day)) (NP (PRP I)) (VP (VBP walk))))
+-21.259601132632 -64.164027821030
+(S1 (S (ADJP (CD one) (NN day)) (S (NP (PRP I)) (VP (VBP walk)))))
+-21.306097269366 -65.593573824791
+(S1 (FRAG (NP (PRP one) (NN day)) (S (NP (PRP I)) (VP (VBP walk)))))
+-21.662934309320 -63.754636015431
+(S1 (FRAG (ADJP (CD one) (NN day)) (S (NP (PRP I)) (VP (VBP walk)))))
+-21.868541546608 -64.162689920637
+(S1 (S (NP (NP (CD one) (NN day)) (NP (NN I))) (VP (VBP walk))))
+-22.050284295553 -67.027067356421
+(S1 (FRAG (NP (CD one) (NN day)) (S (NP (PRP I)) (NP (VB walk)))))
+

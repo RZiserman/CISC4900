@@ -1,0 +1,102 @@
+50 x
+-13.909678129421 -52.856739361446
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))
+-15.706958764485 -55.322847172661
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go)))))))))
+-17.651449285906 -63.532295716594
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (SBAR (S (VP (TO to) (VP (VB go)))))))))
+-18.086308919156 -61.510717713211
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (TO to) (VP (VB go)))))))
+-18.734267005162 -63.613022207840
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go)))))))))
+-18.888374269354 -61.236484462043
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (NP (VB go)))))))
+-19.029267701744 -62.620576771259
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (S (VP (VB go)))))))))
+-19.163998623285 -69.880191555592
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VBP get) (S (VP (TO to) (VP (VB go))))))))
+-19.266078210970 -65.998403527809
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (SBAR (S (VP (TO to) (VP (VB go))))))))))
+-19.312938720078 -65.722753814025
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (NP (NN go)))))))
+-19.317384575294 -68.677071157064
+(S1 (S (CC but) (NP (NN I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))
+-19.640954100285 -65.853822595236
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (S (VP (VB go))))))))
+-19.789712013205 -74.647468531999
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (ADVP (RB not)) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))
+-19.883589554220 -63.976825524426
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (TO to) (VP (VB go))))))))
+-19.899190380116 -63.330284000621
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go)))))))))
+-20.054803476477 -72.982280922131
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (VP (RB not) (VB get) (S (VP (TO to) (VP (VB go))))))))
+-20.147752727656 -72.128050470790
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (S (VP (VB get) (S (VP (TO to) (VP (VB go)))))))))
+-20.170818925487 -69.807387299782
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (S (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go)))))))))
+-20.240028081026 -67.194167122831
+(S1 (FRAG (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))))
+-20.254432910311 -72.386577366352
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (VP (TO to) (VP (VB go)))))))
+-20.359641831174 -74.680990745821
+(S1 (S (CC but) (NP (PRP I)) (VP (VP (VBD did)) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))
+-20.569744004418 -63.702592273258
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (NP (VB go))))))))
+-20.625731202581 -71.702113844867
+(S1 (S (NP (CC but) (NP (PRP I))) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))
+-20.826548336808 -65.086684582474
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (S (VP (VB go))))))))))
+-20.843582144349 -72.346299366807
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VBP get) (S (VP (TO to) (VP (VB go)))))))))
+-20.889661465925 -70.834483185749
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not))) (VP (VBP get) (S (VP (TO to) (VP (VB go)))))))
+-20.904459397930 -68.188861625240
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (NP (NN go))))))))
+-20.940522527401 -73.823276150211
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (S (VP (RB not) (VB get) (S (VP (TO to) (VP (VB go)))))))))
+-21.203695595777 -73.094646615436
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not))) (VP (VB get) (S (VP (TO to) (VP (VB go)))))))
+-21.322323835349 -68.319930406452
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (S (VP (VB go)))))))))
+-21.717813122394 -73.863550925655
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VBP go))))))))
+-21.789019501937 -72.405495937652
+(S1 (S (CC but) (S (NP (NN I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go)))))))))
+-21.822025850113 -74.594158452228
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (S (VP (VB get) (S (VP (TO to) (VP (VB go))))))))))
+-21.973419338748 -72.273495031318
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (S (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))))
+-21.993313065512 -71.999052388371
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (SBAR (S (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))))
+-22.000272447611 -73.806482527922
+(S1 (S (NP (CC but) (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go))))))))
+-22.477764648858 -74.288578562989
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (SBAR (S (VP (TO to) (VP (VB go))))))))))
+-22.890472899865 -73.296133098614
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (SBAR (S (VP (TO to) (S (VP (VB go))))))))))
+-22.910897794896 -72.267000559606
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (TO to) (VP (VB go))))))))
+-23.015721666870 -74.015087146075
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (SBAR (S (RB not) (VP (VBP get) (S (VP (TO to) (VP (VB go))))))))))
+-23.243281816733 -72.583320529051
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get)))) (VP (TO to) (VP (VB go)))))
+-23.356527811488 -69.901632361697
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get))) (PP (TO to) (NP (VB go)))))
+-23.634969426600 -74.005840355770
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (SBAR (S (VP (TO to) (VP (VB go))))))))))
+-23.673853492259 -74.465160051389
+(S1 (S (CC but) (S (NP (PRP I)) (VP (VBD did) (SBAR (S (RB not) (VP (VB get) (S (VP (TO to) (VP (VB go)))))))))))
+-23.712963145095 -71.992767308437
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (NP (VB go))))))))
+-23.853856577484 -73.376859617654
+(S1 (FRAG (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (S (VP (VB go))))))))))
+-23.998495047918 -73.765535528899
+(S1 (S (CC but) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get))) (PP (TO to) (NP (NN go)))))
+-24.075821169851 -71.984262352387
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (TO to) (VP (VB go))))))))
+-24.860946420049 -71.710029101218
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (PP (TO to) (NP (VB go))))))))
+-25.018779952438 -73.094121410435
+(S1 (FRAG (CC but) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB get) (S (VP (TO to) (S (VP (VB go))))))))))
+

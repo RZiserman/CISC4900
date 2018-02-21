@@ -1,0 +1,102 @@
+50 x
+-12.423518302275 -47.214497397976
+(S1 (NP (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature)))))
+-14.108403371181 -49.008920904433
+(S1 (S (NP (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature))))))
+-14.447638953954 -48.746342379774
+(S1 (FRAG (NP (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature))))))
+-14.988531565408 -56.369739061943
+(S1 (NP (NNS things) (PP (IN of) (NP (DT that) (NN nature)))))
+-15.685162260084 -50.079235643780
+(S1 (S (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature)))))
+-15.810017917497 -55.435746034276
+(S1 (S (VP (NNS things) (PP (IN of) (NP (DT that) (NN nature))))))
+-16.748515153648 -54.586055978924
+(S1 (X (NP (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature))))))
+-17.265563464711 -57.481280990811
+(S1 (FRAG (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature)))))
+-17.445044128600 -57.480201313049
+(S1 (NP (NP (NNS things)) (PP (IN of) (NP (IN that) (NN nature)))))
+-17.467463647848 -57.451323634444
+(S1 (NP (NP (NNS things)) (PP (IN of) (NP (WDT that) (NN nature)))))
+-17.742842310808 -59.854481732969
+(S1 (NP (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NN nature)))))
+-17.886271135108 -59.654012361164
+(S1 (VP (NNS things) (PP (IN of) (NP (DT that) (NN nature)))))
+-18.398926915227 -58.305891869557
+(S1 (X (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature)))))
+-18.408658387211 -61.429777550605
+(S1 (S (NP (NNS things)) (VP (IN of) (NP (DT that) (NN nature)))))
+-18.896954478165 -63.910008711380
+(S1 (FRAG (NP (NNS things) (PP (IN of) (NP (DT that) (NN nature))))))
+-19.144528280295 -59.274624819507
+(S1 (S (NP (NP (NNS things)) (PP (IN of) (NP (IN that) (NN nature))))))
+-19.337222281186 -62.762807713782
+(S1 (NP (NP (NNS things)) (IN of) (NP (DT that) (NN nature))))
+-19.338593219542 -59.245747140902
+(S1 (S (NP (NP (NNS things)) (PP (IN of) (NP (WDT that) (NN nature))))))
+-19.492393020280 -59.012046294847
+(S1 (FRAG (NP (NP (NNS things)) (PP (IN of) (NP (IN that) (NN nature))))))
+-19.494744922502 -61.648905239426
+(S1 (S (NP (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NN nature))))))
+-19.521613402315 -58.983168616242
+(S1 (FRAG (NP (NP (NNS things)) (PP (IN of) (NP (WDT that) (NN nature))))))
+-19.650094090381 -66.865499767800
+(S1 (S (NP (NNS things) (PP (IN of) (NP (DT that) (NN nature))))))
+-19.659154192471 -63.823875285042
+(S1 (FRAG (VP (NNS things) (PP (IN of) (NP (DT that) (NN nature))))))
+-19.752647311032 -65.796685153555
+(S1 (FRAG (S (NP (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature)))))))
+-19.766962962487 -61.386326714767
+(S1 (FRAG (NP (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NN nature))))))
+-19.813217632041 -61.945616920191
+(S1 (NP (NP (NNS things)) (PP (IN of) (NP (NP (WDT that)) (NN nature)))))
+-20.047011740418 -66.970918737867
+(S1 (X (NP (NNS things) (PP (IN of) (NP (DT that) (NN nature))))))
+-20.088524794521 -66.635442977017
+(S1 (NP (NNS things) (PP (IN of) (NP (IN that) (NN nature)))))
+-20.140528996153 -65.564944507056
+(S1 (NP (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NP (NN nature))))))
+-20.373949707936 -67.333293909033
+(S1 (FRAG (S (VP (NNS things) (PP (IN of) (NP (DT that) (NN nature)))))))
+-20.394853213769 -66.606565298411
+(S1 (NP (NNS things) (PP (IN of) (NP (WDT that) (NN nature)))))
+-20.401759236500 -60.344939636138
+(S1 (S (NP (NNS things)) (PP (IN of) (NP (IN that) (NN nature)))))
+-20.493990821747 -60.316061957027
+(S1 (S (NP (NNS things)) (PP (IN of) (NP (WDT that) (NN nature)))))
+-21.016455134495 -62.719220069762
+(S1 (S (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NN nature)))))
+-21.082828027733 -65.701449852944
+(S1 (S (VP (NNS things) (PP (IN of) (NP (IN that) (NN nature))))))
+-21.323984375579 -65.265975115757
+(S1 (FRAG (S (NP (NNS things)) (PP (IN of) (NP (DT that) (NN nature))))))
+-21.428062633768 -65.672572179310
+(S1 (S (VP (NNS things) (PP (IN of) (NP (WDT that) (NN nature))))))
+-21.540377753735 -63.740040426649
+(S1 (S (NP (NP (NNS things)) (PP (IN of) (NP (NP (WDT that)) (NN nature))))))
+-21.679436295316 -64.904551421998
+(S1 (S (NP (NNS things)) (PP (IN of) (IN that) (NP (NN nature)))))
+-21.748799503560 -67.558990861090
+(S1 (FRAG (NP (NP (NNS things)) (IN of) (NP (DT that) (NN nature)))))
+-21.761927359974 -64.851759893997
+(S1 (X (NP (NP (NNS things)) (PP (IN of) (NP (IN that) (NN nature))))))
+-21.775564538240 -65.036030267825
+(S1 (S (NP (NNS things)) (VP (IN of) (NP (IN that) (NN nature)))))
+-21.785720892009 -64.822882215392
+(S1 (X (NP (NP (NNS things)) (PP (IN of) (NP (WDT that) (NN nature))))))
+-21.867367383720 -63.477461901989
+(S1 (FRAG (NP (NP (NNS things)) (PP (IN of) (NP (NP (WDT that)) (NN nature))))))
+-21.909073672799 -67.014237024677
+(S1 (S (NP (NP (NNS things)) (IN of) (NP (DT that) (NN nature)))))
+-22.067839162181 -67.226040313917
+(S1 (X (NP (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NN nature))))))
+-22.164649647833 -67.096789488854
+(S1 (FRAG (NP (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NP (NN nature)))))))
+-22.327036605060 -67.359368013513
+(S1 (S (NP (NP (NNS things)) (PP (IN of) (NP (NP (DT that)) (NP (NN nature)))))))
+-22.709470684042 -67.465213070825
+(S1 (NP (NP (NNS things)) (IN of) (NP (IN that) (NN nature))))
+-22.990204493728 -64.810355256984
+(S1 (S (NP (NNS things)) (PP (IN of) (NP (NP (WDT that)) (NN nature)))))
+

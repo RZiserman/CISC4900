@@ -1,0 +1,102 @@
+50 x
+-16.945378348226 -57.303503321753
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-18.062640223168 -57.374462089885
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-19.844488677274 -66.694272646098
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (ADJP (RB n't) (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-19.876499833298 -68.972601051025
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (VP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-20.227559742077 -68.793762408882
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar)) (PP (IN with) (NP (DT the)))))))
+-20.723057416007 -70.643805395668
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (DT the)))))))
+-20.961750549428 -66.765231414229
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (ADJP (RB n't) (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-20.986639578240 -69.043559819157
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (VP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-21.344821617019 -68.864721177014
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar)) (PP (IN with) (NP (DT the))))))))
+-21.350184532842 -64.258135332221
+(S1 (S (IN because) (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-21.517818979478 -64.644690008736
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the))))))))
+-21.650410044830 -64.563974572530
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-21.714240443778 -67.980263721805
+(S1 (S (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-21.840319288161 -70.714764163800
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (DT the))))))))
+-21.974214792956 -74.041417706807
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (VP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the))))))))
+-22.153710253343 -67.010043112167
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-22.232050262535 -64.987787668782
+(S1 (S (RB because) (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-22.293528334245 -72.016187173874
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (S (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-22.519020197779 -75.577796073479
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (ADJP (RB n't) (JJ familiar)) (PP (IN with) (NP (DT the)))))))
+-22.571456743447 -72.247233360439
+(S1 (SBAR (IN because) (S (NP (NN I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-22.617190477091 -64.036027096458
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-22.635080854420 -64.715648776868
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the)))))))))
+-22.647985700340 -70.385127063794
+(S1 (S (ADVP (RB because)) (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-22.976490263395 -71.489166899619
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (S (NP (DT the)))))))))
+-23.084354535110 -74.112376474939
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (VP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the)))))))))
+-23.405428234522 -72.688907502591
+(S1 (PP (IN because) (SBAR (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-23.410790209187 -72.087145942005
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (S (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))))
+-23.427206809141 -71.779386599784
+(S1 (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (RB n't) (JJ familiar)) (PP (IN with) (NP (DT the))))))))
+-23.482398528708 -73.876664758888
+(S1 (PP (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-23.751579889197 -71.960885084062
+(S1 (FRAG (PP (IN because) (SBAR (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))))
+-23.776315518389 -72.318192128570
+(S1 (FRAG (SBAR (IN because) (S (NP (NN I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-24.093752138337 -71.560125667750
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (S (NP (DT the))))))))))
+-24.110729456884 -71.415116951082
+(S1 (S (X (IN because)) (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-24.171725721178 -73.648904669442
+(S1 (S (IN because) (NP (PRP I)) (VP (VBD was) (ADJP (RB n't) (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-24.257951533176 -70.690346849076
+(S1 (S (ADVP (IN because)) (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-24.269930327156 -72.448047029609
+(S1 (FRAG (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-24.544468684083 -71.850345367916
+(S1 (FRAG (SBAR (IN because) (S (NP (PRP I)) (VP (VBD was) (ADJP (ADJP (RB n't) (JJ familiar)) (PP (IN with) (NP (DT the)))))))))
+-24.549520373878 -73.954743896874
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBD was) (ADJP (RB n't) (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-24.795883426100 -75.496309318187
+(S1 (SBAR (RB because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the))))))))
+-24.857400468709 -72.833035931993
+(S1 (FRAG (RB because) (SBAR (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-25.053591450871 -74.378557006004
+(S1 (S (RB because) (NP (PRP I)) (VP (VBD was) (ADJP (RB n't) (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-25.062540951122 -72.291243695718
+(S1 (S (NP (RB because) (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar) (PP (IN with) (NP (DT the)))))))
+-25.516300803351 -73.426796420802
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBD was) (ADJP (RB n't) (JJ familiar) (PP (IN with) (NP (DT the)))))))))
+-25.709641364094 -71.599322019203
+(S1 (S (IN because) (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the)))))))
+-25.899371868154 -75.526286183586
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (JJ familiar)) (PP (IN with) (NP (DT the))))))))
+-26.222850676082 -71.905161259512
+(S1 (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the))))))))
+-26.286681075029 -75.321450408787
+(S1 (S (IN because) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the))))))))
+-26.591507093786 -72.328974355765
+(S1 (S (RB because) (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the)))))))
+-26.726150884594 -74.351229799150
+(S1 (FRAG (IN because) (SBAR (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the)))))))))
+-27.189631105555 -71.377213783440
+(S1 (FRAG (SBAR (WHNP (IN because)) (S (NP (PRP I)) (VP (VBD was) (RB n't) (ADJP (ADJP (JJ familiar)) (PP (IN with) (NP (DT the)))))))))
+

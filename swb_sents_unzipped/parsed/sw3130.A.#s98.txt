@@ -1,0 +1,102 @@
+50 x
+-37.251663001842 -131.034916102881
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-37.506644884990 -130.031046203481
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))
+-38.090824893427 -133.015031101518
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (JJ mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-38.373460077237 -135.158257284239
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBD mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-38.534503375825 -131.828075023398
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VB do) (NP (PRP it)) (ADVP (RB normally))))))))
+-38.673624903659 -130.046666717661
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-38.735124808979 -135.000955258556
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-38.928606786807 -129.042796818261
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))
+-38.988171956809 -129.909852889530
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-39.243153839957 -128.905982990129
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))
+-39.512786795244 -132.026781716298
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (JJ mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-39.795421979054 -134.170007899018
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBD mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-39.827333848394 -131.889967888166
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (JJ mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-39.940335626772 -134.809804204399
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (JJ mowed)) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))
+-39.956465277643 -130.839825638178
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VB do) (NP (PRP it)) (ADVP (RB normally))))))))
+-39.996546566549 -133.324421522842
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-40.109969032204 -134.033194070887
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBD mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-40.157086710796 -134.012705873336
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-40.254882679922 -134.672990376267
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (JJ mowed)) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))
+-40.271012330792 -130.703011810046
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VB do) (NP (PRP it)) (ADVP (RB normally))))))))
+-40.326701459113 -130.533083202473
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-40.471262467125 -135.102738791287
+(S1 (S (SBAR (ADVP (RB So)) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-40.471633736068 -133.875892045204
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (ADJP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-40.562618216542 -134.269679867744
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows) (VP (VBZ gets) (VP (VBN mowed)))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-40.726244350273 -134.098868891887
+(S1 (S (SBAR (ADVP (RB So)) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))
+-40.870859723955 -129.752017448856
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-40.970446316060 -132.592176187837
+(S1 (S (RB So) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-41.046304131384 -133.488614114127
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows) (VP (VBZ gets) (VP (VBN mowed)))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-41.056626307041 -135.137369521309
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)))) (ADVP (RB normally))))))
+-41.665360914608 -134.526070073761
+(S1 (S (CC So) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (ADJP (JJ mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-41.852139942401 -135.232700920483
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows) (S (VP (VBZ gets) (VP (VBN mowed))))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-41.935443754172 -131.734731753391
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (ADJP (JJ mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-42.382662547696 -135.047896404404
+(S1 (S (SBAR (ADVP (RB So)) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-42.478588208858 -134.149120136088
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)))) (ADVP (RB normally))))))
+-42.597820856241 -133.793824738756
+(S1 (S (RB So) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (ADJP (JJ mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-42.662382024106 -133.425886411500
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))))
+-42.677882592087 -135.258789220666
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))))
+-42.726361419014 -130.953665999775
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (ADJP (JJ mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-42.793135262008 -134.012306307957
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it)) (VP (VBZ mows)))) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)))) (ADVP (RB normally))))))
+-42.930121813271 -134.126821363450
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))))
+-43.023068070561 -134.706740900536
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (SBAR (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))))
+-43.135787121254 -132.422016512100
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))))
+-43.145354245235 -134.254919321265
+(S1 (SBAR (IN So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-43.148594884676 -134.800371551678
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ mows) (SBAR (S (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))))))
+-43.397593466419 -133.122951464049
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally))))))))))
+-43.490539723709 -133.702871001136
+(S1 (SBAR (RB So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))))))
+-43.715697215310 -135.016835689963
+(S1 (S (SBAR (IN So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (ADJP (VBN mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-44.163645612089 -134.219045332016
+(S1 (FRAG (RB So) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VB do) (NP (PRP it)) (ADVP (RB normally))))))))))
+-44.259855480152 -134.235769936346
+(S1 (S (SBAR (RB So) (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (ADJP (VBN mowed))))) (NP (PRP I)) (VP (VBP do) (NP (PRP it)) (ADVP (RB normally)))))
+-44.425451957254 -134.919980283966
+(S1 (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP it) (VBZ mows)) (VP (VBZ gets) (VP (VBN mowed) (S (NP (PRP I)) (VP (VB do) (NP (PRP it)) (ADVP (RB normally))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-12.895356432078 -58.208221642718
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year))))))))
+-14.374807937740 -64.283816016195
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (S (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-15.083278566139 -66.651229782547
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year))))))))
+-15.560127969161 -60.412628319264
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them))))) (NP (JJ last) (NN year)))))
+-16.097721029903 -64.699547497058
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-16.707087170723 -66.921199845021
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)))) (NP (JJ last) (NN year))))))
+-16.744641071801 -72.726824156025
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (S (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-17.509481432255 -74.620676043147
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (SBAR (S (NP (PRP them)) (NP (JJ last) (NN year))))))))))
+-18.003935226975 -76.895690516481
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (S (NP (PRP them)) (VP (NP (JJ last) (NN year))))))))))
+-18.114816995251 -70.698388823365
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them) (NP (JJ last) (NN year)))))))))
+-18.286707063964 -73.142555636888
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-18.671173881580 -68.080843257735
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (DT them) (JJ last) (NN year))))))))
+-18.815400700330 -73.413275163050
+(S1 (S (NP (PRP We)) (VP (VBD tried) (SBAR (S (VP (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-18.899790239814 -74.381491335134
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)))) (NP (JJ last) (NN year))))))
+-19.081730902093 -79.660409666135
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VBP find) (NP (PRP them)) (NP (JJ last) (NN year))))))))
+-19.094814610753 -74.299162608332
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (DT them)) (NP (JJ last) (NN year))))))))
+-19.170588687066 -69.592765633963
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (S (NP (JJ last) (NN year)))))))))
+-19.201305214362 -73.880717228342
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (S (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-19.224784131661 -77.625988728837
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VP (VB find) (NP (PRP them))) (NP (JJ last) (NN year))))))))
+-19.235554137198 -74.792388288825
+(S1 (S (NP (PRP We)) (VP (VBN tried) (SBAR (S (VP (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-19.333801534770 -73.119339911375
+(S1 (S (NP (PRP We)) (VP (VBD tried) (VP (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year)))))))
+-19.516431027914 -76.402948310618
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year)))))))
+-19.689352231295 -66.423967489499
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them) (JJ last) (NN year))))))))
+-19.714512999888 -74.902912953493
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (S (VP (VB find) (S (NP (PRP them)) (NP (JJ last) (NN year))))))))))
+-19.775313596478 -77.425144075371
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (TO to) (VP (VB find) (S (NP (PRP them)) (NP (JJ last) (NN year))))))))
+-19.939116803018 -73.476520874864
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (NP (PRP them)) (JJ last) (NN year))))))))
+-20.198741037161 -76.410188319070
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (S (NP (DT them)) (NP (JJ last) (NN year)))))))))
+-20.285406184208 -79.051205894459
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (NP (PRP them)) (VP (NP (JJ last) (NN year))))))))))
+-20.293267105992 -79.488869536528
+(S1 (S (NP (PRP We)) (VP (VBD tried) (SBAR (S (VP (TO to) (VP (VB find) (S (NP (PRP them)) (NP (JJ last) (NN year))))))))))
+-20.303803029312 -79.141396963195
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (PRP them) (NP (JJ last) (NN year)))))))))
+-20.358510292222 -74.305047725627
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (SBAR (S (NP (JJ last) (NN year))))))))))
+-20.571255666222 -68.644574015868
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (ADVP (JJ last) (NN year))))))))
+-20.682201523134 -79.668708485952
+(S1 (S (NP (PRP We)) (VP (VBD tried) (PP (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year)))))))
+-20.882075515641 -76.523851397565
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (DT them) (JJ last) (NN year))))))))
+-20.978750626853 -79.194934604912
+(S1 (S (NP (PRP We)) (VP (VBD tried) (VP (TO to) (VP (VB find) (S (NP (PRP them)) (NP (JJ last) (NN year))))))))
+-21.159467059027 -78.049281956037
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (S (NP (PRP them)) (VP (VB last) (NP (NN year))))))))))
+-21.352078444328 -77.329471637696
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (NP (PRP them)) (SBAR (S (NP (JJ last) (NN year)))))))))))
+-21.358510821127 -78.035773773793
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (S (NP (JJ last) (NN year)))))))))
+-21.558668076347 -75.333808073409
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (NP (DT them)) (JJ last) (NN year))))))))
+-21.612542062907 -79.366693773462
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (NP (DT them)) (NP (JJ last) (NN year)))))))))
+-21.616431770049 -76.503569284878
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (DT them))))) (NP (JJ last) (NN year)))))
+-21.665352185089 -77.174071176603
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (S (VP (VB find) (NP (NP (PRP them)) (NP (JJ last) (NN year))))))))))
+-21.797695376924 -72.008630481143
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them))))) (SBAR (S (NP (JJ last) (NN year)))))))
+-21.878338265356 -74.866975629329
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (PRP them) (JJ last) (NN year))))))))
+-21.904787110702 -79.696302209175
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (TO to) (VP (VB find) (NP (NP (PRP them)) (NP (JJ last) (NN year))))))))
+-22.056409311233 -79.769905193736
+(S1 (S (NP (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (NP (JJ last) (NN year)))))))))
+-22.536166138170 -79.610665787450
+(S1 (S (NP (PRP We)) (VP (VBD tried) (VP (TO to) (VP (VB find) (NP (NP (PRP them)) (NP (JJ last) (NN year))))))))
+-22.614820336285 -72.649651198002
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (NP (PRP them)) (ADVP (JJ last) (NN year)))))))))
+-22.761067200283 -77.087582155698
+(S1 (S (NP (PRP We)) (VP (VBN tried) (S (VP (TO to) (VP (VB find) (NP (PRP them)) (ADVP (JJ last) (NN year))))))))
+-25.514114085160 -78.731034838719
+(S1 (S (NP (PRP We)) (VP (VBD tried) (S (VP (TO to) (VP (VB find) (NP (PRP them) (JJ last)) (NP (NN year))))))))
+

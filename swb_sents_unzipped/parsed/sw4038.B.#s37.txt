@@ -1,0 +1,102 @@
+50 x
+-16.066421693687 -56.975385761551
+(S1 (S (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (NP (UH uh)))))))
+-16.322807429762 -57.722181028313
+(S1 (S (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (INTJ (UH uh)))))))
+-18.158450016560 -61.746243031274
+(S1 (S (NP (PRP I)) (VP (VBD kept) (VP (VBG getting) (NP (UH uh))))))
+-18.298847610424 -61.777785729050
+(S1 (S (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (ADVP (UH uh)))))))
+-18.556106775443 -62.887131662455
+(S1 (S (NP (PRP I)) (VP (VBD kept) (VP (VBG getting) (INTJ (UH uh))))))
+-18.595181921896 -70.120937347487
+(S1 (S (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (NP (NNP uh)))))))
+-19.411521039605 -68.987473463399
+(S1 (S (NP (PRP I)) (VP (VBN kept) (S (VP (VBG getting) (NP (UH uh)))))))
+-19.608505145681 -69.734268730161
+(S1 (S (NP (PRP I)) (VP (VBN kept) (S (VP (VBG getting) (INTJ (UH uh)))))))
+-20.357190082513 -65.755762070632
+(S1 (S (NP (PRP I)) (VP (VBD kept) (VP (VBG getting) (ADVP (UH uh))))))
+-20.582286255472 -70.219464560706
+(S1 (S (NP (PRP I)) (VP (VBN kept) (VP (VBG getting) (NP (UH uh))))))
+-20.913337715572 -75.001707643734
+(S1 (S (NP (PRP I)) (VP (VBD kept) (VP (VBG getting) (NP (NNP uh))))))
+-20.983727062874 -71.587004685348
+(S1 (S (NP (PRP I)) (VP (VBN kept) (VP (VBG getting) (INTJ (UH uh))))))
+-21.288653299831 -70.282779089495
+(S1 (S (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (NP (UH uh)))))))
+-21.545039035906 -71.029574356256
+(S1 (S (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (INTJ (UH uh)))))))
+-21.686097136814 -82.133025049335
+(S1 (S (NP (PRP I)) (VP (VBN kept) (S (VP (VBG getting) (NP (NNP uh)))))))
+-21.692578196342 -73.789873430898
+(S1 (S (NP (PRP I)) (VP (VBN kept) (S (VP (VBG getting) (ADVP (UH uh)))))))
+-22.631764803136 -74.411777124840
+(S1 (S (NP (PRP I)) (VP (VBD kept) (NP (VBG getting)) (ADVP (UH uh)))))
+-22.753655684918 -78.268748881089
+(S1 (S (NP (PRP I)) (VP (VP (VBD kept)) (VP (VBG getting) (NP (UH uh))))))
+-22.841940402473 -74.273043016279
+(S1 (S (NP (PRP I)) (VP (VBN kept) (VP (VBG getting) (ADVP (UH uh))))))
+-22.869931844020 -73.054911449216
+(S1 (NP (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (NP (UH uh)))))))
+-22.873662179955 -77.026574726746
+(S1 (S (NP (PRP I)) (VP (VBD kept) (SBAR (S (VP (VBG getting) (INTJ (UH uh))))))))
+-22.926755495487 -77.898384446445
+(S1 (S (NP (PRP I)) (VP (VBD kept) (PP (VBG getting) (NP (UH uh))))))
+-22.930155345121 -76.547295968723
+(S1 (S (NP (PRP I)) (VP (VBN kept) (PP (VBG getting) (NP (UH uh))))))
+-22.964257863033 -76.279779169625
+(S1 (S (NP (PRP I)) (VP (VBD kept) (SBAR (S (VP (VBG getting) (NP (UH uh))))))))
+-22.971778455012 -79.998263791258
+(S1 (S (NP (NN I)) (VP (VBN kept) (S (VP (VBG getting) (NP (UH uh)))))))
+-23.126317580095 -73.801706715978
+(S1 (NP (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (INTJ (UH uh)))))))
+-23.155530773800 -79.409637512270
+(S1 (S (NP (PRP I)) (VP (VP (VBD kept)) (VP (VBG getting) (INTJ (UH uh))))))
+-23.168762561088 -80.745059058020
+(S1 (S (NP (NN I)) (VP (VBN kept) (S (VP (VBG getting) (INTJ (UH uh)))))))
+-23.355247122704 -75.053636359218
+(S1 (S (NP (NN I)) (VP (VBD kept) (VP (VBG getting) (NP (UH uh))))))
+-23.521079216568 -75.085179056993
+(S1 (S (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (ADVP (UH uh)))))))
+-23.629459115713 -81.654858222725
+(S1 (S (NP (PRP I)) (VP (VBD kept) (NP (VBG getting)) (NP (UH uh)))))
+-23.752903881587 -76.194524990398
+(S1 (S (NP (NN I)) (VP (VBD kept) (VP (VBG getting) (INTJ (UH uh))))))
+-24.095774674232 -80.503276955642
+(S1 (NP (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (NP (UH uh)))))))
+-24.189480070879 -81.230254888565
+(S1 (S (NP (NN I)) (VP (VBN kept) (VP (VBG getting) (NP (UH uh))))))
+-24.211469922241 -82.037695382616
+(S1 (NP (NP (NN I)) (VP (VBN kept) (S (VP (VBG getting) (NP (UH uh)))))))
+-24.335856571178 -82.331806571353
+(S1 (S (NP (PRP I)) (VP (VBN kept) (SBAR (S (VP (VBG getting) (INTJ (UH uh))))))))
+-24.352160407519 -81.250072222403
+(S1 (NP (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (INTJ (UH uh)))))))
+-24.485853884257 -81.585011014232
+(S1 (S (NP (PRP I)) (VP (VBN kept) (SBAR (S (VP (VBG getting) (NP (UH uh))))))))
+-24.590920875493 -82.597795013207
+(S1 (S (NP (NN I)) (VP (VBN kept) (VP (VBG getting) (INTJ (UH uh))))))
+-24.655600997461 -82.665994791116
+(S1 (S (NP (PRP I)) (VP (VP (VBN kept)) (VP (VBG getting) (NP (UH uh))))))
+-24.715298140870 -82.278267920447
+(S1 (S (NP (PRP I)) (VP (VP (VBD kept)) (VP (VBG getting) (ADVP (UH uh))))))
+-24.889145911101 -81.082179356934
+(S1 (S (NP (PRP I)) (VP (VBD kept) (SBAR (S (VP (VBG getting) (ADVP (UH uh))))))))
+-24.975049578113 -79.219225464807
+(S1 (S (NP (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (NP (UH uh))))))))
+-25.102357760756 -77.857311416715
+(S1 (NP (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (ADVP (UH uh)))))))
+-25.231435314189 -79.966020731568
+(S1 (S (NP (NP (PRP I)) (VP (VBD kept) (S (VP (VBG getting) (INTJ (UH uh))))))))
+-25.553987188657 -79.063155398575
+(S1 (S (NP (NN I)) (VP (VBD kept) (VP (VBG getting) (ADVP (UH uh))))))
+-25.791953174154 -77.890824692090
+(S1 (S (NP (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (NP (UH uh))))))))
+-25.972475796234 -80.914167133554
+(S1 (NP (NP (NN I)) (VP (VBD kept) (VP (VBG getting) (NP (UH uh))))))
+-26.048338910229 -78.637619958851
+(S1 (S (NP (NP (NN I)) (VP (VBD kept) (S (VP (VBG getting) (INTJ (UH uh))))))))
+-26.365554735117 -82.055055764735
+(S1 (NP (NP (NN I)) (VP (VBD kept) (VP (VBG getting) (INTJ (UH uh))))))
+

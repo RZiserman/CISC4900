@@ -1,0 +1,102 @@
+50 x
+-26.999209459068 -101.073418163283
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-28.507678947677 -104.847780587404
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (NP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-28.534663325337 -107.375483504912
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RB out)))))))))
+-28.850902395663 -102.279987038202
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-29.117881158462 -103.367022268346
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADVP (RB out)))))))))
+-29.243789971266 -107.080640172666
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (NP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-29.283926711381 -106.675619543484
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-29.339121000304 -103.043293596618
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-29.388583025196 -104.982086356813
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-29.495202660679 -105.227318594652
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (SBAR (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-29.661985763509 -107.411544751126
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too)) (ADVP (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-29.755332998926 -107.429202136792
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PP (IN out)))))))))
+-29.782957492840 -105.828095720374
+(S1 (S (RB Sometimes) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-29.910474329575 -107.430560721633
+(S1 (S (NP (RB Sometimes) (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-30.190580220668 -108.016818195985
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (JJ color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-30.345835783287 -105.479270581868
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADVP (IN out)))))))))
+-30.411408428466 -108.466725876323
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (NP (NP (RB too) (RB long)) (SBAR (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))))
+-30.540657695984 -107.832600346766
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (NP (NP (RB too) (JJ long)) (SBAR (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))))
+-30.566158841810 -108.582052379831
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RB out)))))))))
+-30.578478260342 -106.749760362402
+(S1 (S (ADVP (RB Sometimes)) (S (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-30.626350647071 -107.141384692467
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (NP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADVP (RB out)))))))))
+-30.807960479986 -108.814687798226
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (NP (RB too) (RB long) (SBAR (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))))
+-30.831979291363 -108.597450843865
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (RB long) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-31.014857530073 -107.520922699715
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (SBAR (S (VP (TO to) (VP (VB plot) (ADVP (RB out))))))))))
+-31.149376647057 -104.573591143265
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (ADVP (RB out)))))))))
+-31.187353316350 -105.418539984786
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADVP (RP out)))))))))
+-31.225275384553 -106.433887469571
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (SBAR (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-31.306464399461 -106.408694670616
+(S1 (S (RB Sometimes) (S (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-31.363298125590 -107.275690461876
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long) (S (VP (TO to) (VP (VB plot) (ADVP (RB out))))))))))
+-31.531113573036 -108.430064458092
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (SBAR (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))))
+-31.582400962775 -108.969223648546
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (ADVP (RB out)))))))))
+-31.587193553399 -108.635771011711
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PP (IN out)))))))))
+-31.634650457313 -107.034664595293
+(S1 (S (RB Sometimes) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-31.762167294048 -108.637129596552
+(S1 (S (NP (RB Sometimes) (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))
+-31.901629192234 -108.121699825437
+(S1 (S (RB Sometimes) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADVP (RB out)))))))))
+-32.011439861698 -105.336897701681
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (S (VP (TO to) (VP (VB plot) (ADVP (RB out))))))))))
+-32.110917525271 -107.836429529862
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADJP (RB out)))))))))
+-32.122869061955 -107.797971153709
+(S1 (S (RB Sometimes) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-32.136252543757 -107.804118723812
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (PP (RP out)))))))))
+-32.177696337761 -106.685839456787
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (ADVP (IN out)))))))))
+-32.305659897238 -107.886566302183
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADJP (RP out)))))))))
+-32.430171196937 -107.956329237322
+(S1 (S (ADVP (RB Sometimes)) (S (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-32.591364905524 -107.449146015202
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (S (VP (TO to) (VP (VB plot) (ADVP (IN out))))))))))
+-33.039046280823 -106.625108859705
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (ADVP (RP out)))))))))
+-33.138150525947 -108.727491574634
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (SBAR (S (VP (TO to) (VP (VB plot) (ADVP (RB out))))))))))
+-33.158157336057 -107.615263545535
+(S1 (S (RB Sometimes) (S (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (JJ long)) (S (VP (TO to) (VP (VB plot) (PRT (RP out))))))))))
+-33.161983101578 -108.719635795737
+(S1 (S (ADVP (RB Sometimes)) (S (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))))
+-33.235039838855 -108.702298775679
+(S1 (S (RB Sometimes) (S (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADVP (RB too) (RB long)) (S (VP (TO to) (VP (VB plot) (ADVP (RB out))))))))))
+-33.527264857587 -107.388415418121
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (S (VP (TO to) (VP (VB plot) (ADVP (RP out))))))))))
+-33.889969240698 -108.378570103951
+(S1 (S (RB Sometimes) (S (NP (DT the) (NN color)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ long) (S (VP (TO to) (VP (VB plot) (PRT (RP out)))))))))))
+

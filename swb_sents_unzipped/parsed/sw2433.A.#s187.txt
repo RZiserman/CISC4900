@@ -1,0 +1,102 @@
+50 x
+-14.902260685139 -51.044967292852
+(S1 (S (VP (VBZ sounds) (NP (PRP you)) (PP (IN like)))))
+-15.106342728751 -49.265939270352
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (VP (VB like))))
+-15.181375346435 -49.857573189213
+(S1 (S (VP (VBZ sounds) (SBAR (S (NP (PRP you)) (VP (VBP like)))))))
+-15.470060521421 -48.554464517314
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (ADJP (JJ like))))
+-16.553141278885 -52.765402063992
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (NP (JJ like))))
+-16.653212427861 -56.481967188823
+(S1 (S (NP (NNS sounds)) (NP (PRP you)) (VP (VBP like))))
+-16.705360910893 -57.340972158319
+(S1 (S (VP (VBZ sounds) (SBAR (S (NP (PRP you)) (VP (VB like)))))))
+-16.725189130503 -53.968741926990
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (PP (IN like))))
+-16.959196533405 -54.734316131729
+(S1 (VP (VBZ sounds) (NP (PRP you)) (PP (IN like))))
+-16.995258879478 -50.153809598032
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (ADJP (IN like))))
+-17.060797009557 -53.711278249789
+(S1 (SQ (VBZ sounds) (S (NP (PRP you)) (VP (VBP like)))))
+-17.095485564724 -55.281242654731
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (VP (VBP like))))
+-17.163064784501 -56.660612531145
+(S1 (SQ (NNS sounds) (NP (PRP you)) (VP (VB like))))
+-17.173193200664 -54.569027633147
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (NP (VB like))))
+-17.210928483029 -56.816423403617
+(S1 (S (VP (VBZ sounds) (S (NP (PRP you)) (VP (VB like))))))
+-17.325776028466 -55.727524270347
+(S1 (SQ (VP (VBZ sounds)) (NP (PRP you)) (VP (VB like))))
+-17.450097631345 -54.729681285725
+(S1 (S (VP (VBZ sounds) (S (NP (PRP you)) (VP (VBP like))))))
+-17.582247852183 -55.121983880695
+(S1 (VP (VBZ sounds) (SBAR (S (NP (PRP you)) (VP (VBP like))))))
+-17.730030060077 -57.877319024220
+(S1 (S (VP (VBZ sounds) (PP (NP (PRP you)) (IN like)))))
+-17.756495834627 -58.050100055582
+(S1 (S (VP (NNS sounds) (SBAR (S (NP (PRP you)) (VP (VBP like)))))))
+-17.985914407662 -58.564887499189
+(S1 (SQ (VBZ sounds) (S (NP (PRP you)) (VP (VB like)))))
+-18.022670521726 -61.033617259174
+(S1 (S (NP (NNS sounds)) (NP (PRP you)) (VP (VB like))))
+-18.063319660450 -55.619259906406
+(S1 (S (VP (VBZ sounds) (S (NP (PRP you)) (ADJP (JJ like))))))
+-18.108000380869 -55.411874801033
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (ADJP (VB like))))
+-18.198434635818 -55.884002771142
+(S1 (SINV (VBZ sounds) (NP (PRP you)) (ADJP (JJ like))))
+-18.256912550104 -56.827889353527
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (PP (VB like))))
+-18.482567117051 -57.409178495411
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (VP (JJ like))))
+-18.535638857065 -60.052606990868
+(S1 (S (VP (NNS sounds) (S (NP (PRP you)) (VP (VBP like))))))
+-18.652776049361 -61.897624928273
+(S1 (S (VP (NNS sounds) (S (NP (PRP you)) (VP (VB like))))))
+-18.700517247129 -57.398941093550
+(S1 (S (VP (VBZ sounds) (S (NP (PRP you)) (ADJP (IN like))))))
+-18.964065204734 -61.807859353710
+(S1 (S (VP (VBZ sounds) (PP (NP (PRP you)) (PP (IN like))))))
+-19.011744826571 -58.480143843262
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (ADJP (VBP like))))
+-19.108089347469 -60.088486427888
+(S1 (VP (VBZ sounds) (S (NP (PRP you)) (VP (VBP like)))))
+-19.116285130931 -62.007615285244
+(S1 (VP (VBZ sounds) (S (NP (PRP you)) (VP (VB like)))))
+-19.301636078371 -59.060971853545
+(S1 (SINV (VP (VBZ sounds) (NP (PRP you))) (VBP like)))
+-19.305703041439 -61.742827654726
+(S1 (SQ (VP (VBZ sounds)) (NP (PRP you)) (VP (VBP like))))
+-19.439553013251 -58.382149181270
+(S1 (SQ (VBZ sounds) (NP (PRP you) (JJ like))))
+-19.455755138750 -60.060710768733
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (ADVP (IN like))))
+-19.484489251625 -60.375881882242
+(S1 (SQ (VBZ sounds) (NP (PRP you)) (VP (ADJP (JJ like)))))
+-19.657085531426 -57.496534953340
+(S1 (SINV (VBZ sounds) (NP (PRP you)) (ADJP (IN like))))
+-19.674503251268 -58.123369151184
+(S1 (S (VP (VBZ sounds) (S (NP (PRP you)) (ADVP (IN like))))))
+-19.679158516648 -60.256513716273
+(S1 (SQ (VBZ sounds) (S (NP (PRP you)) (ADJP (JJ like)))))
+-19.866022218549 -58.901252134531
+(S1 (S (VP (VBZ sounds) (NP (PRP you) (JJ like)))))
+-19.907560643021 -58.172151167530
+(S1 (S (S (VP (VBZ sounds) (NP (PRP you)))) (ADJP (JJ like))))
+-20.078784571242 -60.891402754148
+(S1 (VP (VBZ sounds) (S (NP (PRP you)) (ADJP (JJ like)))))
+-20.447203540364 -60.637958669881
+(S1 (SQ (VBZ sounds) (S (NP (PRP you)) (ADJP (IN like)))))
+-20.458725363411 -59.897731849535
+(S1 (S (S (VP (VBZ sounds) (NP (PRP you)))) (IN like)))
+-20.501347582151 -60.701382346557
+(S1 (S (S (VP (VBZ sounds) (NP (PRP you)))) (VP (VBP like))))
+-21.020920210999 -60.797692627762
+(S1 (SQ (VBZ sounds) (S (NP (PRP you)) (ADVP (IN like)))))
+-22.151922138042 -61.510104467893
+(S1 (S (S (VP (VBZ sounds) (NP (PRP you)))) (ADJP (IN like))))
+

@@ -1,0 +1,102 @@
+50 x
+-30.136341489412 -112.075018490843
+(S1 (S (NP (NNP Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-30.755896066053 -104.448652716587
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-31.160227711292 -107.596738522253
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-31.334289447236 -112.789529670877
+(S1 (S (NP (NN Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-31.676648078235 -109.184675506796
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full)) (ADVP (RB there))))))))
+-32.080979723473 -112.332761312462
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full)) (ADVP (RB there))))))))
+-32.675564274771 -108.488448960497
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ sounds)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there)))))))
+-33.067560989780 -109.930667635869
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands) (RB full)) (ADVP (RB there))))))))
+-33.090257089775 -110.586806919387
+(S1 (S (VP (ADVP (RB Well)) (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-33.471892635019 -113.078753441535
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands) (RB full)) (ADVP (RB there))))))))
+-33.704433916952 -113.224471750706
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ sounds)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full)) (ADVP (RB there)))))))
+-33.748258780359 -109.523611472910
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-33.809443374105 -110.543667409781
+(S1 (S (RB Well) (S (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there)))))))))
+-33.833547248618 -106.388814427928
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there))))))))
+-33.856788017753 -111.010461332285
+(S1 (S (NP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-33.988125931413 -111.984283232868
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (NP (JJ full) (EX there))))))))
+-34.028233468786 -113.892815880856
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there)))))))))
+-34.169330025304 -109.556730340519
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (RB there))))))))
+-34.180627633489 -112.130627152556
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full) (NP (EX there)))))))))
+-34.188210788383 -113.764313216869
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (S (NP (PRP$ your) (NNS hands)) (ADJP (JJ full))) (ADVP (RB there))))))))
+-34.237878893856 -109.536900233594
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there))))))))
+-34.243926852997 -109.875097255916
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full)) (ADVP (RB there))))))))
+-34.312169869236 -108.658174462756
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (RB full) (NP (RB there)))))))))
+-34.412941315097 -107.176479194950
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)))))) (NP (JJ full) (EX there))))
+-34.416278693863 -113.063515093913
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (S (NP (PRP$ your) (NNS hands)) (ADJP (JJ full)) (ADVP (RB there)))))))))
+-34.583379779054 -110.974944138793
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (JJ full)) (ADVP (RB there))))))))
+-34.648258498235 -113.023183061582
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full)) (ADVP (RB there))))))))
+-34.716501514474 -111.806260268422
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (RB full) (NP (RB there)))))))))
+-34.878740890073 -112.182832749529
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (NP (PRP$ your) (NNS hands)) (ADJP (JJ full))) (ADVP (RB there))))))))
+-35.072462142186 -110.492615936463
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (JJ full) (NP (EX there)))))))))
+-35.099418914170 -112.603448141973
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (RB full)))))) (NP (EX there))))
+-35.242993162287 -111.859498718596
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)))))) (NP (JJ full) (EX there))))
+-35.368406087267 -112.621791110153
+(S1 (SINV (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)))))) (NP (JJ full) (EX there))))
+-35.405492797225 -113.393356904732
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands))))) (ADVP (RB full) (RB there)))))
+-35.476793787424 -113.640701742129
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (JJ full) (NP (EX there)))))))))
+-35.488648414106 -111.566686419374
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (NP (EX there)))))))))
+-35.651404389568 -113.634499592351
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PRT (JJ full)) (ADVP (RB there))))))))
+-35.732640735335 -110.428610671838
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ sounds)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there)))))))
+-35.759312913623 -112.962073158828
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (NP (JJ full)) (RB there))))))))
+-35.847194240075 -112.697970706666
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ sounds)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (RB full) (NP (RB there))))))))
+-36.167908272339 -112.526968630728
+(S1 (S (VP (ADVP (RB Well)) (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there))))))))
+-36.188383775913 -112.019074579112
+(S1 (S (RB Well) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (JJ full) (NP (RB there)))))))))
+-36.251137941837 -113.914893499826
+(S1 (SINV (ADVP (RB Well)) (VP (VBZ sounds)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full)) (ADVP (RB there)))))))
+-36.745958778669 -112.483829121122
+(S1 (S (RB Well) (S (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there)))))))))
+-36.919888745663 -113.733133219079
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (RB full) (NP (RB there)))))))))
+-36.934439200317 -112.950623043626
+(S1 (S (NP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there))))))))
+-36.969166366052 -113.293869891093
+(S1 (S (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full)))))) (NP (EX there))))
+-36.989975950923 -111.463773184251
+(S1 (FRAG (ADVP (RB Well)) (VP (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there))))))))
+-37.340960018486 -113.766252086688
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (PP (RB full) (NP (RB there)))))))))
+-37.411047223746 -111.496892051860
+(S1 (FRAG (VP (ADVP (RB Well)) (VBZ sounds) (SBAR (IN like) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NNS hands)) (ADVP (JJ full) (RB there))))))))
+

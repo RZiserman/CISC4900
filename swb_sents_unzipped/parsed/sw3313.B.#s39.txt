@@ -1,0 +1,102 @@
+50 x
+-18.273919451396 -53.236660384830
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))
+-18.459568560732 -54.264762480197
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))
+-18.476656683674 -58.399090926515
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (DT either))))
+-18.515346854167 -53.748614543618
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))
+-18.599295664507 -56.489952406597
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either)))))
+-18.718084086445 -58.911045085303
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP do) (RB n't) (DT either))))
+-18.772601822223 -59.427193021882
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (DT either))))
+-18.840723067278 -57.001906565385
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either)))))
+-18.895240803055 -57.518054501964
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either)))))
+-19.308623487854 -52.940049031808
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))
+-19.511360717345 -58.102479573493
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (DT either))))
+-19.633999698178 -56.193341053574
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either)))))
+-20.005698009847 -55.751230692614
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either))))))
+-20.179146569187 -60.913661194135
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP do) (RB n't) (DT either)))))
+-20.309011622534 -59.004522740652
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either))))))
+-20.446381600577 -62.412545308440
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either))))))))
+-20.505067898959 -60.545296605148
+(S1 (SBAR (RB Well) (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either))))))
+-20.621779985796 -59.159253503076
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either))))))))
+-20.630007989291 -57.944505017471
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))))
+-20.651751440304 -59.967810662038
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))))
+-20.719769868022 -57.844514742229
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either))))))
+-20.871983418477 -57.118710423600
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either)))))
+-20.893218427362 -63.006945243751
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (DT either)))))
+-20.931982236752 -60.039729542735
+(S1 (S (NP (RB Well) (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))
+-21.023083480709 -61.097806790267
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either))))))
+-21.037686346601 -63.106935381342
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (DT either))))))
+-21.057632527813 -58.146812518968
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either)))))
+-21.113410821248 -57.630664582388
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either)))))
+-21.167551369283 -61.197796822836
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either)))))))
+-21.364770019084 -63.221102467403
+(S1 (FRAG (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either)))))))
+-21.622943983592 -61.457192393781
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (CC either)))))
+-21.654125352451 -60.802326505066
+(S1 (S (ADVP (UH Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))
+-21.740282320564 -60.602806093390
+(S1 (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (RB either)))))
+-21.864371386362 -61.969146552569
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (CC either)))))
+-21.880413824928 -62.485294489149
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (CC either)))))
+-21.906687454935 -56.822099070578
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either)))))
+-21.925931429900 -61.630908188757
+(S1 (S (INTJ (UH Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (RB either)))))
+-21.942454167097 -59.609700919174
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either))))))))
+-21.960163589676 -63.031927623517
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP do) (NP (RB n't) (DT either)))))
+-21.981709723335 -61.114760252178
+(S1 (S (RB Well) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (RB either)))))
+-21.990853788975 -61.183813550203
+(S1 (FRAG (SBAR (RB Well) (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))))
+-22.056843717998 -62.919281996183
+(S1 (FRAG (ADVP (RB Well)) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (RB either)))))))
+-22.375692257089 -62.862992724539
+(S1 (FRAG (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (DT either))))))))
+-22.598404451173 -59.633280530236
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either))))))
+-22.657648020050 -61.160581040759
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (ADVP (CC either)))))
+-22.774986357022 -60.306194740367
+(S1 (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP do) (RB n't) (NP (RB either)))))
+-23.054740295061 -63.041303393181
+(S1 (S (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either))))))))
+-23.222714444555 -61.826554907577
+(S1 (ADJP (RB Well) (SBAR (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either)))))))
+-23.312476309348 -61.726564579852
+(S1 (S (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (RB either))))))
+-23.497545480379 -63.117376427445
+(S1 (S (RB Well) (S (NP (PRP I)) (VP (VBP do) (RB n't) (NP (RB either))))))
+

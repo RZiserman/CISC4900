@@ -1,0 +1,102 @@
+50 x
+-12.557430763539 -48.282441004079
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (CD one)) (PP (IN at) (NP (NN home))))))
+-13.426797292267 -48.215085941468
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NP (CD one)) (PP (IN at) (NP (NN home)))))))
+-13.500304828773 -49.268339575189
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NN one)) (PP (IN at) (NP (NN home))))))
+-14.042101501724 -52.886205139073
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (PRP one)) (PP (IN at) (NP (NN home))))))
+-14.712815049297 -51.444451191929
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NP (NN one)) (PP (IN at) (NP (NN home)))))))
+-15.116949291324 -53.304482286599
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (NN one)) (PP (IN at) (NP (NN home))))))
+-15.223899798757 -54.387404538772
+(S1 (S (NP (PRP We)) (VP (VBP have) (VP (NP (CD one)) (PP (IN at) (NP (NN home)))))))
+-15.375595704558 -55.108462772744
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (CD one)) (PP (IN at) (NP (NN home))))))
+-15.807739128725 -52.437321105082
+(S1 (S (NP (PRP We)) (VP (VBP have) (S (NP (NP (CD one)) (PP (IN at) (NP (NN home))))))))
+-15.888852882244 -55.082960565763
+(S1 (S (NP (PRP We)) (VP (VBP have) (S (NP (CD one)) (PP (IN at) (NP (NN home)))))))
+-15.917209427202 -53.318687139138
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (NP (CD one)) (PP (IN at) (NP (NN home)))))))
+-16.031573770665 -58.412723782142
+(S1 (S (NP (PRP We)) (VP (VBP have) (VP (NN one) (PP (IN at) (NP (NN home)))))))
+-16.129458954961 -58.915639180862
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (PRP one)) (PP (IN at) (NP (NN home))))))
+-16.191623126043 -55.061008813978
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (NP (NN one)) (PP (IN at) (NP (NN home)))))))
+-16.194027117332 -60.684075243628
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (CD one)) (PP (IN at) (NP (RB home))))))
+-16.222115672817 -57.078628156271
+(S1 (S (NP (PRP We)) (VP (VBP have) (S (NP (PRP one)) (PP (IN at) (NP (NN home)))))))
+-16.443939959172 -57.554161529237
+(S1 (S (NP (PRP We)) (VP (VBP have) (ADVP (CD one)) (PP (IN at) (NP (NN home))))))
+-16.750265220131 -55.231125196967
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (CD one))) (PP (IN at) (NP (NN home)))))
+-16.804162151724 -59.142160750738
+(S1 (S (NP (PRP We)) (VP (VBP have) (S (VP (NN one) (PP (IN at) (NP (NN home))))))))
+-16.979399222996 -59.800517526883
+(S1 (S (NP (PRP We)) (VP (VBP have) (S (VP (NP (CD one)) (PP (IN at) (NP (NN home))))))))
+-17.121933418874 -60.005348666025
+(S1 (S (NP (PRP We)) (VP (VBP have) (VP (NP (NP (CD one)) (PP (IN at) (NP (NN home))))))))
+-17.312172129850 -61.166269408255
+(S1 (S (NP (PRP We)) (VP (VB have) (S (NP (PRP one)) (PP (IN at) (NP (NN home)))))))
+-17.404062693198 -58.982909419298
+(S1 (S (NP (PRP We)) (VP (VBP have) (VP (NP (NN one)) (PP (IN at) (NP (NN home)))))))
+-17.429272439778 -61.669973814737
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NN one)) (PP (IN at) (NP (RB home))))))
+-17.473662473474 -60.467286184491
+(S1 (S (NP (PRP We)) (VP (VB have) (VP (NP (CD one)) (PP (IN at) (NP (NN home)))))))
+-17.735514168208 -60.785102857941
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NP (CD one)) (PP (IN at) (NP (RB home)))))))
+-17.796302081758 -60.325051141476
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (CD one)) (PP (IN at) (ADVP (NN home))))))
+-18.072780595147 -60.614345169603
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NP (PRP one)) (PP (IN at) (NP (NN home)))))))
+-18.113595356577 -61.117310422135
+(S1 (S (NP (PRP We)) (VP (VBP have) (ADVP (NN one)) (PP (IN at) (NP (NN home))))))
+-18.252471652577 -56.217023768076
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NN one))) (PP (IN at) (NP (NN home)))))
+-18.339679822353 -59.641564327867
+(S1 (S (NP (PRP We)) (VP (VBP have) (S (NP (NN one)) (PP (IN at) (NP (NN home)))))))
+-18.534507654896 -59.340567980982
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NP (CD one)) (ADVP (IN at) (NN home))))))
+-18.771264386419 -60.436870906033
+(S1 (S (NP (PRP We)) (VP (VB have) (S (NP (NP (CD one)) (PP (IN at) (NP (NN home))))))))
+-18.870958845528 -59.834889331960
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (PRP one))) (PP (IN at) (NP (NN home)))))
+-18.873300432071 -60.556268412149
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (CD one))) (PP (IN at) (NP (NN home)))))
+-18.892243399376 -62.744694857547
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NP (CD one)) (PP (IN at) (ADVP (NN home)))))))
+-18.932148244204 -61.310949712586
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NN one)) (PP (IN at) (ADVP (NN home))))))
+-18.942472323900 -61.891564205539
+(S1 (S (NP (PRP We)) (VP (VB have) (ADVP (CD one)) (PP (IN at) (NP (NN home))))))
+-19.115110958694 -60.243351926898
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (CD one)) (ADVP (IN at) (NN home)))))
+-19.119897168837 -58.752287926004
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (NN one))) (PP (IN at) (NP (NN home)))))
+-19.266780240054 -61.626686768287
+(S1 (S (NP (PRP We)) (VP (VBP have) (S (NP (NP (NN one)) (PP (IN at) (NP (NN home))))))))
+-19.415176710387 -60.788166346210
+(S1 (S (NP (PRP We)) (VP (VBP have) (PP (NP (CD one)) (IN at) (NP (NN home))))))
+-19.659655384222 -61.340780490111
+(S1 (S (NP (PRP We)) (VP (VBP have) (ADJP (CD one) (PP (IN at) (NP (NN home)))))))
+-19.697188904043 -61.188339850239
+(S1 (S (NP (PRP We)) (VP (VBP have) (ADJP (NN one) (PP (IN at) (NP (NN home)))))))
+-19.705343993905 -61.999532917826
+(S1 (S (NP (PRP We)) (VP (VBP have) (ADJP (NN one)) (PP (IN at) (NP (NN home))))))
+-19.888841895374 -60.464893060719
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NP (NN one)) (ADVP (IN at) (NN home))))))
+-19.998002971140 -61.229250498008
+(S1 (S (NP (PRP We)) (VP (VBP have) (NP (NN one)) (ADVP (IN at) (NN home)))))
+-20.075893500211 -62.338309003766
+(S1 (S (NP (PRP We)) (VP (VBP have) (PP (ADVP (CD one)) (IN at) (NP (NN home))))))
+-20.524039571100 -61.206695253280
+(S1 (S (NP (PRP We)) (VP (VBP have) (PP (ADVP (NN one)) (IN at) (NP (NN home))))))
+-20.569810108706 -62.374043321923
+(S1 (S (NP (PRP We)) (VP (VB have) (NP (NN one)) (ADVP (IN at) (NN home)))))
+

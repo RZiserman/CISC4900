@@ -1,0 +1,26 @@
+12 x
+-9.131799950998 -34.043952503019
+(S1 (S (CC and) (NP (PRP you)) (VP (MD can))))
+-10.058698968626 -34.949700876609
+(S1 (S (CC and) (S (NP (PRP you)) (VP (MD can)))))
+-11.781555360357 -39.122410604309
+(S1 (S (CC and) (SBAR (S (NP (PRP you)) (VP (MD can))))))
+-12.407917802598 -36.952263724534
+(S1 (FRAG (CC and) (S (NP (PRP you)) (VP (MD can)))))
+-12.929574949507 -39.913936034423
+(S1 (FRAG (CC and) (SBAR (S (NP (PRP you)) (VP (MD can))))))
+-13.208219854081 -41.734682975126
+(S1 (FRAG (S (CC and) (NP (PRP you)) (VP (MD can)))))
+-13.609849838588 -43.090409919882
+(S1 (S (NP (CC and) (NP (PRP you))) (VP (MD can))))
+-14.013760236653 -45.335511752266
+(S1 (S (NP (CC and) (PRP you)) (VP (MD can))))
+-14.821626689723 -47.093090886174
+(S1 (FRAG (S (CC and) (S (NP (PRP you)) (VP (MD can))))))
+-16.821015682844 -52.742367040459
+(S1 (FRAG (S (CC and) (SBAR (S (NP (PRP you)) (VP (MD can)))))))
+-17.821772768863 -49.792754334109
+(S1 (FRAG (S (NP (CC and) (NP (PRP you))) (VP (MD can)))))
+-18.114068496757 -51.637486442637
+(S1 (FRAG (S (NP (CC and) (PRP you)) (VP (MD can)))))
+

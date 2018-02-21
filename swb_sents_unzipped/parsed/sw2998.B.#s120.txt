@@ -1,0 +1,102 @@
+50 x
+-20.184781143097 -67.757718426227
+(S1 (S (CC and) (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh))))))
+-20.748025783246 -71.904097260151
+(S1 (S (CC and) (NP (PRP I)) (VP (NN kind) (PP (IN of) (NP (UH uh))))))
+-21.250374321638 -67.956910366420
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh))))))
+-21.460529215415 -71.522565594098
+(S1 (S (CC and) (NP (PRP I)) (ADJP (NN kind) (PP (IN of) (NP (UH uh))))))
+-21.910139773646 -73.717498567838
+(S1 (S (CC and) (NP (PRP I)) (ADJP (RB kind) (PP (IN of) (NP (UH uh))))))
+-22.257749518212 -76.070880167821
+(S1 (S (CC and) (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (NNP uh))))))
+-22.592829774957 -72.297584721440
+(S1 (NP (CC and) (NP (NP (PRP I) (NN kind)) (PP (IN of) (NP (UH uh))))))
+-22.913008682226 -78.221057798739
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB kind) (PP (IN of) (NP (UH uh))))))
+-22.989039085469 -74.341816157642
+(S1 (S (CC and) (NP (NP (PRP I) (NN kind)) (PP (IN of) (NP (UH uh))))))
+-23.062325490994 -74.380645899537
+(S1 (X (CC and) (S (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh)))))))
+-23.086925415938 -75.362520278565
+(S1 (S (CC and) (NP (PRP I)) (ADVP (NN kind) (PP (IN of) (NP (UH uh))))))
+-23.124451043532 -78.154696373413
+(S1 (S (CC and) (S (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh)))))))
+-23.185691444844 -75.176848942628
+(S1 (S (CC and) (NP (PRP I)) (VP (NN kind)) (PP (IN of) (NP (UH uh)))))
+-23.237510995081 -79.713802800365
+(S1 (S (CC and) (NP (PRP I)) (VP (NP (NP (NN kind)) (PP (IN of) (NP (UH uh)))))))
+-23.297011813777 -74.781334992789
+(S1 (FRAG (CC and) (NP (NP (PRP I) (NN kind)) (PP (IN of) (NP (UH uh))))))
+-23.297336014754 -76.270072108015
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (NNP uh))))))
+-23.300781288573 -79.397675778769
+(S1 (NP (CC and) (NP (NP (NN I) (NN kind)) (PP (IN of) (NP (UH uh))))))
+-23.305306066314 -80.183964277503
+(S1 (S (CC and) (NP (PRP I)) (ADJP (NN kind) (PP (IN of) (NP (NNP uh))))))
+-23.343772040551 -74.296954344900
+(S1 (FRAG (CC and) (S (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh)))))))
+-23.471720315951 -80.418791850215
+(S1 (S (CC and) (NP (PRP I)) (ADVP (RB kind)) (PP (IN of) (NP (UH uh)))))
+-23.520454192571 -79.159119682812
+(S1 (NP (CC and) (NP (NP (NP (PRP I)) (NN kind)) (PP (IN of) (NP (UH uh))))))
+-23.665780493677 -77.318077657609
+(S1 (S (CC and) (NP (PRP I)) (VP (NN kind) (PP (IN of) (ADVP (UH uh))))))
+-23.761143096232 -76.684060174168
+(S1 (S (CC and) (NP (PRP I)) (ADJP (NN kind)) (PP (IN of) (NP (UH uh)))))
+-23.956449970594 -76.281535137827
+(S1 (S (CC and) (NP (PRP I)) (NP (NN kind)) (PP (IN of) (NP (UH uh)))))
+-24.218004865812 -75.596411622035
+(S1 (S (CC and) (NP (PRP I)) (ADVP (NN kind)) (PP (IN of) (NP (UH uh)))))
+-24.281088053595 -78.673373547619
+(S1 (X (CC and) (NP (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh)))))))
+-24.307164774641 -78.804585471609
+(S1 (X (CC and) (S (NP (PRP I)) (VP (NN kind) (PP (IN of) (NP (UH uh)))))))
+-24.326955631110 -79.097957243768
+(S1 (S (CC and) (NP (PRP I)) (VP (NN kind) (ADVP (IN of) (UH uh)))))
+-24.344046128955 -75.692495858753
+(S1 (X (CC and) (NP (NP (PRP I) (NN kind)) (PP (IN of) (NP (UH uh))))))
+-24.473961171964 -77.004551789043
+(S1 (X (CC and) (NP (PRP I)) (NP (NN kind)) (PP (IN of) (NP (UH uh)))))
+-24.571053820688 -78.967886663839
+(S1 (FRAG (CC and) (ADVP (PRP I) (RB kind)) (PP (IN of) (NP (UH uh)))))
+-24.601358276711 -78.477707277435
+(S1 (FRAG (CC and) (S (NP (PRP I)) (VP (NN kind) (PP (IN of) (NP (UH uh)))))))
+-24.650730558565 -78.406212153269
+(S1 (X (CC and) (NP (PRP I)) (NP (NN kind) (PP (IN of) (NP (UH uh))))))
+-24.867002711054 -76.849588486795
+(S1 (S (CC and) (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (ADVP (UH uh))))))
+-24.878533442351 -77.344854342065
+(S1 (S (CC and) (NP (PRP I)) (ADJP (NN kind) (PP (IN of) (ADVP (UH uh))))))
+-25.099513856817 -78.214854040755
+(S1 (NP (CC and) (NP (NP (NN I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh)))))))
+-25.115364977419 -78.692341589902
+(S1 (S (CC and) (NP (PRP I)) (ADJP (RB kind) (PP (IN of) (ADVP (UH uh))))))
+-25.174534091566 -79.385644499941
+(S1 (X (CC and) (S (NP (PRP I)) (ADJP (NN kind) (PP (IN of) (NP (UH uh)))))))
+-25.231207672258 -78.658396841058
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (RB kind)) (PP (IN of) (NP (UH uh))))))
+-25.310093593610 -80.126885251848
+(S1 (X (CC and) (S (NP (PRP I)) (ADJP (RB kind) (PP (IN of) (NP (UH uh)))))))
+-25.483159839409 -77.262546428958
+(S1 (S (NP (CC and) (NP (PRP I))) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh))))))
+-25.537885675401 -78.995306061203
+(S1 (S (CC and) (NP (PRP I)) (ADVP (NN kind) (IN of) (UH uh))))
+-25.616102573724 -79.996964192675
+(S1 (S (CC and) (NP (PRP I)) (ADJP (ADJP (NN kind)) (PP (IN of) (NP (UH uh))))))
+-25.669001169814 -80.169705227935
+(S1 (FRAG (CC and) (S (NP (PRP I)) (ADJP (NN kind) (PP (IN of) (NP (UH uh)))))))
+-25.981384322463 -79.227156047372
+(S1 (S (NP (CC and) (NP (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh))))))))
+-26.012595480697 -78.901310244768
+(S1 (S (CC and) (NP (PRP I)) (ADVP (NN kind) (PP (IN of) (ADVP (UH uh))))))
+-26.053536391219 -77.986554121339
+(S1 (S (NP (CC and) (PRP I)) (NP (NP (NN kind)) (PP (IN of) (NP (UH uh))))))
+-26.163885137176 -80.391447443506
+(S1 (FRAG (NP (CC and) (NP (NP (PRP I) (NN kind)) (PP (IN of) (NP (UH uh)))))))
+-26.234932111897 -77.048780511087
+(S1 (X (CC and) (NP (PRP I)) (NP (NP (NN kind)) (PP (IN of) (ADVP (UH uh))))))
+-27.124481877707 -80.401788614881
+(S1 (S (NP (NP (CC and) (PRP I) (NN kind)) (PP (IN of) (NP (UH uh))))))
+

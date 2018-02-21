@@ -1,0 +1,102 @@
+50 x
+-25.330478970174 -85.498789623037
+(S1 (FRAG (CC and) (SBAR (IN that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-25.997150208414 -89.050298759600
+(S1 (S (CC and) (SBAR (IN that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-27.282330743494 -91.473412286459
+(S1 (SBAR (CC and) (SBAR (IN that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-27.911876242943 -91.321136411114
+(S1 (FRAG (SBAR (CC and) (SBAR (IN that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-27.921941545485 -87.973665862325
+(S1 (FRAG (CC and) (SBAR (IN that) (S (NP (POS 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-28.182873611651 -93.087572034416
+(S1 (FRAG (CC and) (SBAR (IN that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (SBAR (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-28.275576268474 -90.230865051082
+(S1 (FRAG (CC and) (SBAR (DT that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-28.588612783725 -91.525174998889
+(S1 (S (CC and) (SBAR (IN that) (S (NP (POS 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-28.748151723343 -94.514197176897
+(S1 (S (CC and) (NP (DT that) (VBZ 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))
+-28.916024860188 -94.088043987540
+(S1 (FRAG (CC and) (SBAR (IN that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RB out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-29.079475900435 -91.972169751406
+(S1 (FRAG (CC and) (SBAR (WHNP (IN that)) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-29.241537354500 -92.737868955258
+(S1 (FRAG (CC and) (SBAR (IN that) (S (NP (VBZ 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-29.527702351323 -90.006946914375
+(S1 (FRAG (CC and) (SBAR (WHNP (WDT that)) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-29.652238210155 -91.615225182864
+(S1 (S (CC and) (NP (DT that)) (VP (POS 's) (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-29.836523686077 -86.890261279381
+(S1 (S (CC and) (NP (DT that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-29.873793318805 -93.948288525748
+(S1 (SBAR (CC and) (SBAR (IN that) (S (NP (POS 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-30.244401316705 -91.166054050509
+(S1 (S (CC and) (NP (DT that)) (VP (VBZ 's) (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-30.471471628912 -88.860806457309
+(S1 (S (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB usually))))) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))
+-30.484953641698 -92.548863718295
+(S1 (FRAG (CC and) (SBAR (WHNP (DT that)) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-30.503338818254 -93.796012650402
+(S1 (FRAG (SBAR (CC and) (SBAR (IN that) (S (NP (POS 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-30.613205184603 -90.583596636634
+(S1 (S (CC and) (SBAR (IN that) (S (VP (VBZ 's) (ADVP (RB usually))))) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))
+-30.636671596447 -94.355205940747
+(S1 (S (CC and) (NP (DT that)) (VP (POS 's) (VP (ADVP (RB usually)) (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))
+-30.718011803785 -92.705741290370
+(S1 (FRAG (CC and) (SBAR (DT that) (S (NP (POS 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-30.784172516394 -93.275725643590
+(S1 (S (CC and) (SBAR (IN that) (S (VP (POS 's)))) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))
+-30.798385515127 -90.277798342045
+(S1 (S (CC and) (NP (DT that)) (VP (POS 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-31.112031185245 -93.390812328029
+(S1 (S (CC and) (SBAR (IN that) (S (VP (VBZ 's)))) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))
+-31.298053283719 -91.273835120717
+(S1 (S (CC and) (SBAR (WDT that) (S (VP (VBZ 's) (ADVP (RB usually))))) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))
+-31.298393947206 -94.340373051014
+(S1 (FRAG (CC and) (SBAR (IN that) (S (NP (PRP 's)) (ADVP (RB usually)) (VP (VBZ works) (ADJP (IN out) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-31.351758530483 -88.348492072157
+(S1 (S (CC and) (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))))
+-31.489411654794 -92.481823153663
+(S1 (FRAG (CC and) (SBAR (WHNP (WDT that)) (S (NP (POS 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-31.493847755746 -94.447045990695
+(S1 (FRAG (CC and) (SBAR (WHNP (IN that)) (S (NP (POS 's)) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))
+-31.536516111559 -91.058944260350
+(S1 (S (CC and) (NP (DT that)) (VP (VBZ 's) (ADVP (RB usually)) (SBAR (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-31.549870201555 -91.668022148703
+(S1 (S (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's)))) (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))
+-31.814037550445 -92.624284730005
+(S1 (S (CC and) (S (NP (DT that)) (VP (VBZ 's) (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-32.233105569443 -89.644929937326
+(S1 (S (CC and) (NP (DT that)) (VP (VBZ 's) (SBAR (RB usually) (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-32.653305697555 -94.479043690761
+(S1 (S (CC and) (NP (DT that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (SBAR (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))))
+-32.690865730164 -89.792678083528
+(S1 (FRAG (CC and) (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))))
+-32.969009634061 -93.979157276833
+(S1 (S (CC and) (NP (DT that)) (VP (POS 's) (SBAR (RB usually) (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-33.092755809903 -92.517175095077
+(S1 (S (CC and) (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB usually)) (SBAR (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))))
+-33.309920167519 -94.068470906422
+(S1 (FRAG (CC and) (S (NP (DT that)) (VP (VBZ 's) (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-33.601163572919 -91.771223490774
+(S1 (S (CC and) (NP (IN that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-33.840202184849 -91.103160730102
+(S1 (S (CC and) (S (NP (DT that)) (VP (VBZ 's) (SBAR (RB usually) (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))))
+-33.956773324136 -93.794462871693
+(S1 (FRAG (CC and) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))))
+-33.961435417798 -94.154091729226
+(S1 (S (CC and) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))))
+-33.982036042328 -93.524369506770
+(S1 (FRAG (CC and) (SBAR (IN that) (S (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))))
+-34.011730738182 -93.266713607407
+(S1 (S (CC and) (NP (WDT that)) (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+-34.508679800070 -93.961361042139
+(S1 (FRAG (CC and) (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB usually)) (SBAR (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))))
+-34.799160615801 -92.938281083218
+(S1 (FRAG (CC and) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (S (ADVP (RB usually)) (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))))
+-35.087447613531 -92.547346741473
+(S1 (FRAG (CC and) (S (NP (DT that)) (VP (VBZ 's) (SBAR (RB usually) (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good))))))))))))
+-35.899324456285 -94.525892148719
+(S1 (S (CC and) (NP (IN that)) (VP (VBZ 's) (SBAR (RB usually) (S (VP (VBZ works) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (RB pretty) (JJ good)))))))))))
+

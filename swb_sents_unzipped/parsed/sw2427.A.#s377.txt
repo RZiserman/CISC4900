@@ -1,0 +1,102 @@
+50 x
+-25.193909558954 -82.222738941700
+(S1 (SBAR (IN That) (S (NP (PRP 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down))))))
+-26.305266682333 -82.002023971951
+(S1 (FRAG (SBAR (IN That) (S (NP (PRP 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down)))))))
+-26.822018361458 -83.420897252848
+(S1 (SBAR (IN That) (S (NP (POS 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down))))))
+-27.273372844935 -80.890438708580
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)) (VP (VBN let) (PRT (RP down))))))
+-27.505124965628 -81.473063449047
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))) (S (VP (VB let) (PRT (RP down)))))))
+-27.514919750950 -82.400658187754
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (FW a)))))) (VP (VB let) (PRT (RP down)))))
+-27.733511396169 -84.518689459020
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (FW a)))) (S (VP (VB let) (PRT (RP down)))))))
+-27.770897211527 -81.607037568372
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)) (VP (VBN let) (ADVP (RB down))))))
+-27.840284441839 -83.123188825515
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (VB let)) (ADVP (RB down))))))))
+-27.944651970537 -82.006174993256
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)))) (VP (VB let) (PRT (RP down)))))
+-27.950243586408 -79.355032177782
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VB let) (PRT (RP down)))))
+-27.979040038236 -83.200182283099
+(S1 (FRAG (SBAR (IN That) (S (NP (POS 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down)))))))
+-28.023023523147 -83.292055083015
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down))))))
+-28.035600887645 -83.577125265752
+(S1 (SBAR (DT That) (S (NP (PRP 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down))))))
+-28.183185226634 -80.609365405087
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NN a)))))) (VP (VB let) (PRT (RP down)))))
+-28.200472631733 -83.890415776789
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)) (VP (VBD let) (PRT (RP down))))))
+-28.215514894854 -82.727396676353
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NN a)))) (S (VP (VB let) (PRT (RP down)))))))
+-28.425605313349 -83.388783173481
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)) (VP (VBD let) (ADVP (RB down))))))
+-28.451002537157 -84.091999377627
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (ADVP (NN kind) (IN of) (DT a)) (VBN let) (PRT (RP down))))))
+-28.526988582483 -84.478112788949
+(S1 (SBAR (IN That) (S (NP (PRP 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (ADVP (RP down))))))
+-28.544756495551 -82.642611666032
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)) (S (VP (VB let) (PRT (RP down)))))))
+-28.648761607541 -84.307011077536
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (VBN let)))) (PRT (RP down)))))
+-28.755186393833 -83.493578903032
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (VBN let)))) (ADVP (RB down)))))
+-28.951254756595 -81.954513189276
+(S1 (S (NP (DT That)) (VP (VBZ 's) (S (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down)))))))
+-29.216015354455 -84.155533367273
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))) (S (VP (VB let) (ADVP (RB down)))))))
+-29.343696834741 -83.606216915312
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT a) (VBN let)) (PP (RP down))))))))
+-29.573488413458 -83.945489059621
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)) (VP (VBN let) (ADVP (IN down))))))
+-29.638345705862 -84.257397819200
+(S1 (FRAG (SBAR (IN That) (S (NP (PRP 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (ADVP (RP down)))))))
+-29.799398741719 -84.470171947141
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (VBN let)))) (ADVP (IN down)))))
+-29.884861496445 -82.907102829398
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VBP let) (PRT (RP down)))))
+-29.933672725297 -82.037502054762
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VB let) (ADVP (RB down)))))
+-29.973230046739 -83.966486698551
+(S1 (FRAG (WHNP (WDT That)) (S (NP (PRP 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down))))))
+-30.009654385523 -83.291835282067
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NN a)))))) (VP (VB let) (ADVP (RB down)))))
+-30.079301695686 -83.824253405916
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VBD let) (PRT (RP down)))))
+-30.086376400670 -83.754152850904
+(S1 (S (SBAR (IN That) (S (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a))))))) (VP (VB let) (PRT (RP down)))))
+-30.419266303333 -84.636983017438
+(S1 (S (NP (DT That)) (VP (VBZ 's) (S (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (ADVP (RB down)))))))
+-30.474288382671 -84.161436056704
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NN a)))))) (VP (VBP let) (PRT (RP down)))))
+-30.516090068281 -83.423695021843
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VBD let) (ADVP (RB down)))))
+-30.689518589822 -83.728437408839
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))) (S (VP (VB let) (ADVP (RP down)))))))
+-30.908182508690 -84.191713028184
+(S1 (FRAG (WHNP (WDT That)) (S (NP (POS 's)) (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (PRT (RP down))))))
+-30.916378301435 -82.673702244974
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (VBN let)))) (ADVP (RP down)))))
+-30.961308763994 -84.656032106300
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (FW a)))))) (VP (VB let) (ADVP (RP down)))))
+-31.360722283581 -84.261548911802
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (ADVP (NN kind) (IN of) (DT a)))) (VP (VB let) (ADVP (RP down)))))
+-31.423151769452 -81.610406096328
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VB let) (ADVP (RP down)))))
+-31.624593426890 -82.864739323633
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NN a)))))) (VP (VB let) (ADVP (RP down)))))
+-31.752341474204 -83.820754865482
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VB let) (S (ADJP (RB down))))))
+-31.871735439592 -83.560564380192
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VB let) (ADVP (IN down)))))
+-32.033119965700 -84.209887059004
+(S1 (S (NP (DT That)) (VP (VBZ 's) (S (ADVP (RB kind) (IN of) (DT a)) (VP (VB let) (ADVP (RP down)))))))
+-32.329359982219 -82.882590318287
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NNP a)))))) (VP (VB let) (S (ADVP (RP down))))))
+-32.528421462445 -84.136923545592
+(S1 (S (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN kind)) (PP (IN of) (NP (NN a)))))) (VP (VB let) (S (ADVP (RP down))))))
+

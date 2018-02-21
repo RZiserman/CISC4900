@@ -1,0 +1,102 @@
+50 x
+-12.206903771672 -44.368791257648
+(S1 (S (VP (VB Get) (PRT (RP back)) (PP (IN in) (NP (NN shape))))))
+-13.212836770152 -44.798433696192
+(S1 (S (VP (VB Get) (ADVP (RB back) (PP (IN in) (NP (NN shape)))))))
+-14.011979826483 -47.861778307251
+(S1 (VP (VB Get) (PRT (RP back)) (PP (IN in) (NP (NN shape)))))
+-14.025572711647 -47.037971455543
+(S1 (S (VP (VB Get) (ADVP (RB back)) (PP (IN in) (NP (NN shape))))))
+-14.291781097712 -52.130332754111
+(S1 (S (VP (VBP Get) (ADVP (RB back)) (PP (IN in) (NP (NN shape))))))
+-14.355560569420 -52.442485161553
+(S1 (S (VP (VBP Get) (ADVP (RB back) (PP (IN in) (NP (NN shape)))))))
+-14.478981783362 -47.484181435510
+(S1 (VP (VB Get) (ADVP (RB back) (PP (IN in) (NP (NN shape))))))
+-14.641726765347 -47.438274903247
+(S1 (VP (VB Get) (ADVP (RB back)) (PP (IN in) (NP (NN shape)))))
+-14.742111884912 -54.103091798642
+(S1 (S (VP (VBP Get) (PRT (RP back)) (PP (IN in) (NP (NN shape))))))
+-14.885761570568 -50.679864401264
+(S1 (S (VP (VB Get) (PRT (RB back)) (PP (IN in) (NP (NN shape))))))
+-15.998411972399 -53.238164623997
+(S1 (S (VP (VB Get) (S (ADVP (RB back) (PP (IN in) (NP (NN shape))))))))
+-16.054814053145 -53.685297665126
+(S1 (S (VP (VB Get) (ADVP (RP back)) (PP (IN in) (NP (NN shape))))))
+-16.072429542099 -53.524159873001
+(S1 (S (VP (VB Get) (ADVP (RP back) (PP (IN in) (NP (NN shape)))))))
+-16.608773105996 -54.267928747526
+(S1 (VP (VB Get) (PRT (RB back)) (PP (IN in) (NP (NN shape)))))
+-16.632057408947 -57.346927477700
+(S1 (S (VP (VBP Get) (PRT (RB back)) (PP (IN in) (NP (NN shape))))))
+-16.685209179976 -54.153087981322
+(S1 (VP (VB Get) (ADVP (RP back)) (PP (IN in) (NP (NN shape)))))
+-16.706949400589 -58.636978060420
+(S1 (S (VP (VB Get) (NP (NN back)) (PP (IN in) (NP (NN shape))))))
+-16.914073908489 -58.075487557629
+(S1 (S (VP (VB Get) (VP (VB back) (PP (IN in) (NP (NN shape)))))))
+-17.075231086328 -54.318710874524
+(S1 (VP (VB Get) (S (ADVP (RB back) (PP (IN in) (NP (NN shape)))))))
+-17.082203580229 -55.561888918927
+(S1 (S (VP (VB Get) (PRT (JJ back)) (PP (IN in) (NP (NN shape))))))
+-17.100269952431 -59.536613566684
+(S1 (S (VP (VBP Get) (ADVP (RP back)) (PP (IN in) (NP (NN shape))))))
+-17.201450546703 -51.732835458565
+(S1 (S (VP (VB Get) (PP (ADVP (RB back)) (IN in) (NP (NN shape))))))
+-17.327444009138 -56.277394397144
+(S1 (VP (VB Get) (ADVP (RP back) (PP (IN in) (NP (NN shape))))))
+-17.415767138411 -51.552605970693
+(S1 (S (VP (VB Get) (ADVP (ADVP (RB back)) (PP (IN in) (NP (NN shape)))))))
+-17.505031237334 -59.078713242056
+(S1 (S (VP (VB Get) (ADVP (RB back) (PP (IN in) (NP (VB shape)))))))
+-17.628091138241 -57.580372116635
+(S1 (S (VP (VB Get) (ADVP (JJ back)) (PP (IN in) (NP (NN shape))))))
+-17.928473817288 -55.338875435829
+(S1 (S (VP (VB Get) (S (ADJP (RB back) (PP (IN in) (NP (NN shape))))))))
+-18.019315476232 -59.248714468606
+(S1 (S (VP (VBP Get) (ADVP (ADVP (RB back)) (PP (IN in) (NP (NN shape)))))))
+-18.089053527207 -54.084652412327
+(S1 (S (VP (VB Get) (PP (RB back) (IN in) (NP (NN shape))))))
+-18.134141617931 -58.227270895910
+(S1 (S (VP (VB Get) (ADVP (JJ back) (PP (IN in) (NP (NN shape)))))))
+-18.280350082593 -57.515257495340
+(S1 (S (VP (VB Get) (PP (RP back) (PP (IN in) (NP (NN shape)))))))
+-18.281194461448 -58.445659423854
+(S1 (VP (VB Get) (ADVP (JJ back)) (PP (IN in) (NP (NN shape)))))
+-18.434152117555 -57.377418708066
+(S1 (S (VP (VB Get) (PRT (RP back)) (PP (IN in) (S (NP (NN shape)))))))
+-18.466540595573 -57.682400348378
+(S1 (S (VP (VB Get) (NP (RB back)) (PP (IN in) (NP (NN shape))))))
+-18.536859872881 -54.102785105675
+(S1 (VP (VB Get) (ADVP (ADVP (RB back)) (PP (IN in) (NP (NN shape))))))
+-18.635981588327 -53.096017749256
+(S1 (VP (VB Get) (PP (ADVP (RB back)) (IN in) (NP (NN shape)))))
+-18.694815135416 -59.044874675222
+(S1 (VP (VB Get) (PRT (JJ back)) (PP (IN in) (NP (NN shape)))))
+-18.743125750965 -59.485262598119
+(S1 (S (VP (VB Get) (ADVP (NN back)) (PP (IN in) (NP (NN shape))))))
+-18.772638098737 -59.572081462097
+(S1 (S (VP (VB Get) (ADJP (RP back)) (PP (IN in) (NP (NN shape))))))
+-18.867321447205 -59.137213095693
+(S1 (S (VP (VB Get) (ADJP (JJ back) (PP (IN in) (NP (NN shape)))))))
+-18.926840166316 -56.419421686357
+(S1 (VP (VB Get) (S (ADJP (RB back) (PP (IN in) (NP (NN shape)))))))
+-18.927242604865 -59.122900515615
+(S1 (S (VP (VB Get) (S (ADVP (ADVP (RB back)) (PP (IN in) (NP (NN shape))))))))
+-18.981743923404 -59.475247990146
+(S1 (S (VP (VB Get) (NP (NP (RB back)) (PP (IN in) (NP (NN shape)))))))
+-19.140365342553 -57.888910439950
+(S1 (S (VP (VB Get) (PRT (RP back)) (NP (IN in) (NN shape)))))
+-19.318600300468 -55.447834667183
+(S1 (VP (VB Get) (PP (RB back) (IN in) (NP (NN shape)))))
+-19.332974857004 -59.442607445677
+(S1 (S (VP (VB Get) (ADVP (RB back) (PP (IN in) (S (NP (NN shape))))))))
+-19.338132455777 -59.151192319372
+(S1 (VP (VB Get) (PP (RP back) (PP (IN in) (NP (NN shape))))))
+-19.904570099259 -58.419452036743
+(S1 (S (VP (VB Get) (PP (RB back) (PP (IN in) (NP (NN shape)))))))
+-20.104594513362 -58.521294383302
+(S1 (S (VP (VB Get) (ADJP (RB back) (PP (IN in) (NP (NN shape)))))))
+-20.679441726744 -59.348745499738
+(S1 (VP (VB Get) (PP (RB back) (PP (IN in) (NP (NN shape))))))
+

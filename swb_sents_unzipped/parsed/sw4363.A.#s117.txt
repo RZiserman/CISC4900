@@ -1,0 +1,102 @@
+50 x
+-13.788371056442 -42.918871712589
+(S1 (S (CC but) (NP (NN nothing)) (ADJP (RB really))))
+-14.000692393809 -44.510533492304
+(S1 (S (CC but) (NP (NN nothing)) (ADVP (RB really))))
+-14.342982226799 -39.275396073012
+(S1 (FRAG (CC but) (NP (NN nothing) (RB really))))
+-15.894410995212 -53.258918088206
+(S1 (S (CC but) (VP (NN nothing) (ADVP (RB really)))))
+-16.041125123244 -44.538717903038
+(S1 (FRAG (CC but) (NP (NP (NN nothing)) (ADVP (RB really)))))
+-16.385565610167 -50.285900604801
+(S1 (NP (CC but) (NP (NP (NN nothing)) (RB really))))
+-16.435737191170 -48.725567924075
+(S1 (FRAG (CC but) (NP (NN nothing)) (ADVP (RB really))))
+-16.475586325553 -53.275535005365
+(S1 (NP (CC but) (NN nothing) (RB really)))
+-16.647943912811 -54.733915473479
+(S1 (S (CC but) (NP (NN nothing)) (VP (ADVP (RB really)))))
+-16.839462119571 -49.265360219510
+(S1 (FRAG (CC but) (NP (NP (NN nothing)) (RB really))))
+-16.875589027431 -50.604911850892
+(S1 (NP (CC but) (NP (NN nothing) (RB really))))
+-16.907346742909 -51.326974031472
+(S1 (S (CC but) (NP (NN nothing) (RB really))))
+-16.967286927969 -50.960182985861
+(S1 (X (CC but) (VP (NN nothing) (ADVP (RB really)))))
+-17.038844465578 -51.360713038763
+(S1 (S (NP (CC but) (NN nothing)) (ADJP (RB really))))
+-17.422747274592 -51.759975602172
+(S1 (NP (CC but) (NP (NP (NN nothing)) (ADVP (RB really)))))
+-17.566266677617 -49.271457477249
+(S1 (FRAG (CC but) (NP (NP (NN nothing)) (NP (RB really)))))
+-17.597912022358 -53.451246393989
+(S1 (S (NP (CC but) (NN nothing)) (ADVP (RB really))))
+-17.750020420645 -53.734883014291
+(S1 (NP (CC but) (NP (NN nothing)) (ADVP (RB really))))
+-17.778780361308 -51.258542091903
+(S1 (FRAG (CC but) (VP (NN nothing) (ADVP (RB really)))))
+-17.830383213685 -56.221765855342
+(S1 (S (CC but) (S (VP (NN nothing) (ADVP (RB really))))))
+-17.849396731261 -54.126265470892
+(S1 (S (CC but) (NP (NP (NN nothing)) (ADVP (RB really)))))
+-17.988381124706 -51.359633815494
+(S1 (FRAG (NP (CC but) (NN nothing)) (ADVP (RB really))))
+-18.015107549628 -52.813169510296
+(S1 (NP (CC but) (NP (NP (NN nothing)) (NP (RB really)))))
+-18.071743229399 -51.716071085487
+(S1 (X (CC but) (NP (NN nothing) (RB really))))
+-18.102192331138 -45.988118968197
+(S1 (FRAG (CC but) (FRAG (NP (NN nothing) (RB really)))))
+-18.205026994418 -53.014173450978
+(S1 (X (CC but) (S (VP (NN nothing) (ADVP (RB really))))))
+-18.213740621512 -50.328026280881
+(S1 (X (CC but) (S (NP (NN nothing)) (ADJP (RB really)))))
+-18.258946880515 -50.661322915176
+(S1 (X (CC but) (S (NP (NN nothing)) (ADVP (RB really)))))
+-18.507637602511 -55.153348636619
+(S1 (S (CC but) (S (NP (NN nothing)) (ADVP (RB really)))))
+-18.589337935379 -52.182312223118
+(S1 (X (CC but) (NP (NP (NN nothing)) (ADVP (RB really)))))
+-18.759600897183 -54.558085190748
+(S1 (S (NP (CC but) (NP (NN nothing))) (ADJP (RB really))))
+-18.901073836304 -56.370102292433
+(S1 (FRAG (S (CC but) (NP (NN nothing)) (ADVP (RB really)))))
+-18.923869740544 -55.406993328839
+(S1 (X (CC but) (NP (NP (NN nothing)) (RB really))))
+-18.931913505373 -54.234573645121
+(S1 (FRAG (CC but) (NP (NP (NN nothing)) (VP (ADVP (RB really))))))
+-18.954279493676 -52.976889701274
+(S1 (FRAG (NP (CC but) (NP (NN nothing))) (ADVP (RB really))))
+-19.106194516708 -56.353092945044
+(S1 (ADVP (NP (CC but) (NN nothing)) (RB really)))
+-19.219854855370 -54.716649824314
+(S1 (X (CC but) (NP (NN nothing)) (NP (RB really))))
+-19.237454088819 -53.278184256507
+(S1 (FRAG (CC but) (ADJP (NN nothing) (RB really))))
+-19.324585763963 -56.249265549254
+(S1 (X (CC but) (NP (NN nothing)) (ADJP (RB really))))
+-19.560127103906 -54.488100648577
+(S1 (FRAG (ADVP (RB but)) (NP (NN nothing) (RB really))))
+-19.561721337629 -55.461782452679
+(S1 (FRAG (CC but) (S (VP (NN nothing) (ADVP (RB really))))))
+-19.659743231644 -52.605763603444
+(S1 (FRAG (CC but) (S (NP (NN nothing)) (ADVP (RB really)))))
+-19.744154538467 -54.261479877159
+(S1 (FRAG (CC but) (FRAG (NP (NN nothing)) (ADVP (RB really)))))
+-19.846507129267 -53.140219108628
+(S1 (FRAG (CC but) (S (NP (NN nothing)) (ADJP (RB really)))))
+-19.927763187673 -56.515726228957
+(S1 (FRAG (CC but) (ADVP (NN nothing) (RB really))))
+-20.131150316522 -56.114718000489
+(S1 (FRAG (CC but) (ADVP (NP (NN nothing)) (RB really))))
+-20.162725152661 -56.158529684569
+(S1 (X (CC but) (NP (NP (NN nothing)) (NP (RB really)))))
+-20.548506954864 -54.198542287513
+(S1 (FRAG (ADVP (CC but)) (NP (NN nothing) (RB really))))
+-20.698963593695 -54.492837757951
+(S1 (FRAG (CC but) (FRAG (NP (NP (NN nothing)) (ADVP (RB really))))))
+-20.885337187692 -56.361707048709
+(S1 (X (CC but) (S (NP (NN nothing) (RB really)))))
+

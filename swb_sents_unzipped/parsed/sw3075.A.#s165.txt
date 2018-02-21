@@ -1,0 +1,102 @@
+50 x
+-26.653535418078 -86.230038015143
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-28.182974020267 -92.870423855045
+(S1 (S (NP (NNP Huh) (NNP Well)) (DT that) (VP (VBZ sounds) (ADJP (JJ wonderful)))))
+-28.488085268405 -91.759490252828
+(S1 (S (NP (NNP Huh)) (CONJP (RB Well) (IN that)) (VP (VBZ sounds) (ADJP (JJ wonderful)))))
+-28.775394305196 -91.183669700187
+(S1 (NP (NP (NNP Huh) (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-29.098432026126 -92.120770735160
+(S1 (S (NP (NNP Huh) (NNP Well)) (NP (DT that)) (VP (VBZ sounds) (ADJP (JJ wonderful)))))
+-29.134110765197 -94.515280511312
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (NP (JJ wonderful)))))))
+-29.184790053705 -91.453419568612
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ wonderful))))))))
+-29.330438071483 -97.010286911741
+(S1 (S (NP (NNP Huh) (NNP Well)) (WHNP (WDT that)) (VP (VBZ sounds) (ADJP (JJ wonderful)))))
+-29.535929967237 -91.104218067447
+(S1 (NP (NP (NNP Huh)) (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-29.603200165566 -88.539283324819
+(S1 (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-29.920880290684 -95.369783064745
+(S1 (S (NP (NNP Huh) (NNP Well) (IN that)) (VP (VBZ sounds) (ADJP (JJ wonderful)))))
+-29.990789499971 -94.304754160081
+(S1 (NP (NNP Huh) (NNP Well) (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))
+-30.096381928902 -93.502726784146
+(S1 (FRAG (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-30.253365369428 -94.835387611069
+(S1 (FRAG (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-30.298667017384 -90.810805503466
+(S1 (NP (NP (NNP Huh)) (NP (NP (NN Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-30.614820863296 -96.483402459764
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADVP (JJ wonderful)))))))
+-30.621132844523 -95.587568450444
+(S1 (X (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-30.764096757493 -93.726372159622
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (DT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-30.825768932051 -96.428198316858
+(S1 (X (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-30.833243448981 -92.291082976862
+(S1 (NP (NP (NNP Huh)) (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-30.866630191293 -90.995914830218
+(S1 (NP (NP (NNP Huh)) (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-30.955364957252 -97.215264742050
+(S1 (S (NP (NNP Huh) (NNP Well)) (RB that) (VP (VBZ sounds) (ADJP (JJ wonderful)))))
+-31.144697515495 -95.741531293509
+(S1 (S (NP (NNP Huh) (NNP Well)) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-31.192265122590 -95.529090586839
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-31.285166047166 -96.982872097598
+(S1 (S (NP (NNP Huh)) (CONJP (RB Well) (IN that)) (VP (VBZ sounds) (S (ADJP (JJ wonderful))))))
+-31.306648940824 -96.407051253657
+(S1 (NP (NP (NNP Huh) (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ wonderful))))))))
+-31.467751010401 -91.551407783473
+(S1 (NP (NP (NP (NNP Huh)) (NP (NNP Well))) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-31.483467619672 -96.148699039047
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (IN that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-31.874238478490 -92.110124663282
+(S1 (NP (NP (NNP Huh)) (ADVP (UH Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-31.927043752675 -94.343765953392
+(S1 (NP (NP (NNP Huh)) (NP (UH Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-32.014621653883 -93.773861925215
+(S1 (NP (NP (NNP Huh)) (NP (NP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-32.059423472524 -97.078467223489
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (NP (JJ wonderful))))))))
+-32.060664792266 -97.321798389600
+(S1 (NP (NP (NNP Huh) (NNP Well)) (SBAR (WDT that) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-32.067184602864 -96.327599620917
+(S1 (NP (NP (NNP Huh)) (RB Well) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ wonderful))))))))
+-32.083775515474 -96.824525820988
+(S1 (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (NP (JJ wonderful))))))))
+-32.134454803982 -93.762664878289
+(S1 (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ wonderful)))))))))
+-32.208138743210 -96.369458957460
+(S1 (FRAG (NP (NNP Huh)) (ADVP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-32.511989300196 -94.751925717081
+(S1 (NP (NP (NNP Huh)) (NP (RB Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-32.725084283153 -97.083705276100
+(S1 (FRAG (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-32.829921655800 -96.034187056935
+(S1 (NP (NP (NNP Huh)) (NP (NP (NN Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ wonderful)))))))))
+-32.932839665180 -95.860129908626
+(S1 (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (IN that) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-32.960835619983 -95.899475282606
+(S1 (FRAG (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))))
+-33.009875491834 -96.181577445918
+(S1 (NP (NP (NP (NNP Huh)) (NP (UH Well))) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-33.073438023451 -94.853428051869
+(S1 (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (DT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-33.397884826920 -96.219296383687
+(S1 (NP (NP (NNP Huh)) (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ wonderful))))))))
+-33.398774045582 -96.292053252272
+(S1 (X (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))))
+-33.420396810148 -97.318539601063
+(S1 (NP (NP (NNP Huh)) (NP (NP (NNP Well)) (SBAR (WHNP (IN that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful))))))))
+-33.582307370843 -96.589736818566
+(S1 (NP (NP (NP (NNP Huh)) (NP (RB Well))) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+-33.999005648816 -96.774789336943
+(S1 (NP (NP (NP (NNP Huh)) (NP (NNP Well))) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (S (ADJP (JJ wonderful))))))))
+-34.425627689351 -96.941529772203
+(S1 (X (NP (NP (NNP Huh)) (NP (NNP Well))) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (ADJP (JJ wonderful)))))))
+

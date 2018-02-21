@@ -1,0 +1,102 @@
+50 x
+-13.809219992741 -54.896944516246
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike))))))
+-17.012219612414 -64.970169025775
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VBP ride) (NP (DT a) (NN bike))))))
+-18.570020969460 -72.169518871206
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (NN ride) (NP (DT a) (NN bike))))))
+-19.088152608773 -67.075129673768
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB ride) (S (NP (DT a) (NN bike)))))))
+-19.402273311154 -69.016524685402
+(S1 (S (NP (PRP I)) (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike)))))
+-19.704325042810 -77.186629643528
+(S1 (S (NP (PRP I)) (VP (MD ca) (ADVP (RB n't)) (VP (VB ride) (NP (DT a) (NN bike))))))
+-19.960934676003 -71.734563472005
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (RB n't) (VP (VB ride) (NP (DT a) (NN bike)))))))
+-20.068527414674 -72.330651703222
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (RB n't) (VB ride) (NP (DT a) (NN bike))))))
+-20.488021786319 -72.835657558807
+(S1 (S (NP (NN I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike))))))
+-20.677988670106 -70.952876078966
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (NP (DT a)) (NN bike))))))
+-20.688081232607 -72.955644215879
+(S1 (S (NP (PRP I)) (MD ca) (RB n't) (VP (VBP ride) (NP (DT a) (NN bike)))))
+-21.093336799784 -73.957008943904
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VBP ride) (S (NP (DT a) (NN bike)))))))
+-21.831610087892 -81.215357499621
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (ADVP (RB n't)) (VB ride) (NP (DT a) (NN bike))))))
+-22.725052073007 -78.991452414619
+(S1 (S (NP (PRP I)) (MD ca) (VP (RB n't) (VP (VB ride) (NP (DT a) (NN bike))))))
+-22.745076577058 -77.678982586192
+(S1 (S (NP (PRP I)) (MD ca) (VP (RB n't) (VB ride) (NP (DT a) (NN bike)))))
+-22.805757625073 -79.128041301683
+(S1 (S (NP (PRP I)) (MD ca) (VP (RB n't) (VP (VBP ride) (NP (DT a) (NN bike))))))
+-23.007326244324 -82.094116360960
+(S1 (S (NP (PRP I)) (MD ca) (RB n't) (VP (NN ride) (NP (DT a) (NN bike)))))
+-23.017107005059 -83.105368415362
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (RB n't) (VP (VBP ride) (NP (DT a) (NN bike)))))))
+-23.691021405993 -82.908882068335
+(S1 (S (NP (NN I)) (VP (MD ca) (RB n't) (VP (VBP ride) (NP (DT a) (NN bike))))))
+-23.744024018167 -86.322879470132
+(S1 (S (NP (PRP I)) (VP (MD ca) (ADVP (RB n't)) (VP (VBP ride) (NP (DT a) (NN bike))))))
+-23.854063272081 -80.956199766921
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VBP ride) (NP (NP (DT a)) (NN bike))))))
+-24.165467929069 -88.666996336605
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (RB n't) (VP (NN ride) (NP (DT a) (NN bike)))))))
+-24.527104153409 -87.257627023842
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (ADVP (RB n't)) (VBP ride) (NP (DT a) (NN bike))))))
+-24.566792017987 -81.253435309156
+(S1 (S (NP (PRP I)) (MD ca) (RB n't) (VP (VB ride) (S (NP (DT a) (NN bike))))))
+-24.664563085430 -88.679730364013
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (ADVP (RB n't)) (NN ride) (NP (DT a) (NN bike))))))
+-24.697871444291 -90.501438909405
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (ADVP (RB n't)) (VP (VB ride) (NP (DT a) (NN bike)))))))
+-25.114808418841 -89.364814785983
+(S1 (S (NP (PRP I)) (VP (MD ca) (ADVP (RB n't)) (VP (VB ride) (S (NP (DT a) (NN bike)))))))
+-25.119797680224 -83.490640926488
+(S1 (NP (NP (NN I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike))))))
+-25.248822763038 -90.108231913767
+(S1 (S (NP (NN I)) (VP (MD ca) (RB n't) (VP (NN ride) (NP (DT a) (NN bike))))))
+-25.272049976339 -82.760173759587
+(S1 (S (NP (PRP I)) (MD ca) (RB n't) (VP (VBP ride) (S (NP (DT a) (NN bike))))))
+-25.366962454190 -89.522418187363
+(S1 (S (NP (PRP I)) (MD ca) (VP (RB n't) (VP (NN ride) (NP (DT a) (NN bike))))))
+-25.428642020945 -89.707923956279
+(S1 (NP (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike))))))
+-25.531611229231 -89.436710540918
+(S1 (S (NP (PRP I)) (MD ca) (VP (ADVP (RB n't)) (VB ride) (NP (DT a) (NN bike)))))
+-25.661773093739 -85.316703493485
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (RB n't) (VP (VB ride) (S (NP (DT a) (NN bike))))))))
+-25.766954405139 -85.013842716328
+(S1 (S (NP (NN I)) (VP (MD ca) (RB n't) (VP (VB ride) (S (NP (DT a) (NN bike)))))))
+-25.775563494254 -87.949797987630
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (NN ride) (NP (NP (DT a)) (NN bike))))))
+-25.788831448684 -86.238464958804
+(S1 (S (NP (NN I)) (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike)))))
+-26.324485681792 -85.072456189524
+(S1 (S (NP (PRP I)) (MD ca) (RB n't) (VP (VB ride) (NP (NP (DT a)) (NN bike)))))
+-26.363362815083 -88.135655461224
+(S1 (S (NP (PRP I)) (MD ca) (VP (ADVP (RB n't)) (VBP ride) (NP (DT a) (NN bike)))))
+-26.578543327285 -83.807082241967
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB ride) (S (NP (NP (DT a)) (NN bike)))))))
+-26.624861169581 -89.673276514566
+(S1 (S (NP (NN I)) (VP (MD ca) (VP (RB n't) (VP (VB ride) (NP (DT a) (NN bike)))))))
+-26.647977651890 -88.423872079581
+(S1 (S (NP (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike)))))))
+-26.732453911040 -90.269364745783
+(S1 (S (NP (NN I)) (VP (MD ca) (VP (RB n't) (VB ride) (NP (DT a) (NN bike))))))
+-26.829703353368 -87.790495034725
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (RB n't) (VP (VB ride) (NP (NP (DT a)) (NN bike)))))))
+-26.997366621502 -88.489298765926
+(S1 (S (NP (PRP I)) (MD ca) (VP (RB n't) (VP (VBP ride) (S (NP (DT a) (NN bike)))))))
+-27.155305094827 -88.386583265942
+(S1 (S (NP (PRP I)) (VP (MD ca) (VP (RB n't) (VB ride) (NP (NP (DT a)) (NN bike))))))
+-27.356790463684 -88.891589121526
+(S1 (S (NP (NN I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (NP (DT a)) (NN bike))))))
+-27.453003683518 -88.941674760537
+(S1 (S (NP (PRP I)) (MD ca) (RB n't) (VP (VBP ride) (NP (NP (DT a)) (NN bike)))))
+-27.779955198649 -88.434258603408
+(S1 (S (NP (NP (NN I)) (VP (MD ca) (RB n't) (VP (VB ride) (NP (DT a) (NN bike)))))))
+-28.276491978296 -90.688961512104
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VBP ride) (S (NP (NP (DT a)) (NN bike)))))))
+

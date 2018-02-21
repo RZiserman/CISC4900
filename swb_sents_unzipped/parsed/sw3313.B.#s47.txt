@@ -1,0 +1,102 @@
+50 x
+-15.619643076672 -49.247531804850
+(S1 (S (CC and) (CC and) (S (NP (NN nothing)) (VP (VBD happened)))))
+-15.678795464615 -47.322644051314
+(S1 (S (CC and) (S (CC and) (NP (NN nothing)) (VP (VBD happened)))))
+-17.033492681902 -52.719106551768
+(S1 (S (CC and) (NP (CC and) (NN nothing)) (VP (VBD happened))))
+-17.053130546033 -55.779528723951
+(S1 (S (CC and) (CC and) (NP (NN nothing)) (VP (VBD happened))))
+-17.472952053945 -57.904907165928
+(S1 (S (CC and) (CC and) (S (NP (NN nothing)) (VP (VBN happened)))))
+-17.747179109063 -55.796515101802
+(S1 (S (CC and) (S (CC and) (NP (NN nothing)) (VP (VBN happened)))))
+-18.400099410994 -59.036584277983
+(S1 (S (CC and) (NP (CC and) (NN nothing)) (VP (VBN happened))))
+-18.553956981758 -62.501849826985
+(S1 (S (CC and) (CC and) (NP (NN nothing)) (VP (VBN happened))))
+-18.920308649887 -52.968490509039
+(S1 (FRAG (CC and) (SBAR (CC and) (S (NP (NN nothing)) (VP (VBD happened))))))
+-19.082822748567 -54.161495851146
+(S1 (S (CC and) (NP (CC and) (NP (NN nothing))) (VP (VBD happened))))
+-19.305518269784 -56.971099444371
+(S1 (S (CC and) (ADVP (CC and)) (NP (NN nothing)) (VP (VBD happened))))
+-19.391306152815 -54.752791470350
+(S1 (FRAG (CC and) (S (CC and) (NP (NN nothing)) (VP (VBD happened)))))
+-19.427600399245 -57.485201112485
+(S1 (S (CC and) (S (CC and) (S (NP (NN nothing)) (VP (VBD happened))))))
+-19.637552800938 -57.572037065860
+(S1 (FRAG (CC and) (S (CC and) (NP (NN nothing)) (VP (VBN happened)))))
+-19.658319568777 -57.107035400453
+(S1 (S (CC and) (S (NP (CC and) (NN nothing)) (VP (VBD happened)))))
+-19.822969158289 -59.083028923499
+(S1 (SQ (CC and) (CC and) (S (NP (NN nothing)) (VP (VBD happened)))))
+-20.163576472196 -57.367780018303
+(S1 (FRAG (CC and) (CC and) (S (NP (NN nothing)) (VP (VBD happened)))))
+-20.333320212467 -62.362974720015
+(S1 (S (ADVP (CC and) (CC and) (NN nothing)) (VP (VBD happened))))
+-20.345379945489 -59.179458237196
+(S1 (FRAG (S (CC and) (S (CC and) (NP (NN nothing)) (VP (VBD happened))))))
+-20.377560124035 -61.366922328743
+(S1 (FRAG (CC and) (CC and) (NP (NP (NN nothing)) (VP (VBN happened)))))
+-20.500309985323 -60.615113743235
+(S1 (S (CC and) (NP (CC and) (NP (NN nothing))) (VP (VBN happened))))
+-20.536398810833 -60.442687770493
+(S1 (FRAG (CC and) (CC and) (S (NP (NN nothing)) (VP (VBN happened)))))
+-20.596092799146 -63.211570562389
+(S1 (S (CC and) (S (NP (CC and) (NN nothing)) (VP (VBN happened)))))
+-20.734454369868 -60.276562267400
+(S1 (SQ (CC and) (FRAG (CC and) (NP (NP (NN nothing)) (VP (VBN happened))))))
+-20.801617738687 -62.165241365792
+(S1 (FRAG (CC and) (CC and) (NP (NP (NN nothing)) (VP (VBD happened)))))
+-21.077612932049 -62.017380144357
+(S1 (S (VP (ADVP (CC and) (CC and) (NN nothing)) (VBN happened))))
+-21.104428914420 -58.053066647923
+(S1 (FRAG (CC and) (S (CC and) (S (NP (NN nothing)) (VP (VBD happened))))))
+-21.120525489445 -63.359086452249
+(S1 (S (CC and) (ADVP (CC and)) (NP (NN nothing)) (VP (VBN happened))))
+-21.209585541233 -61.558284334601
+(S1 (S (ADVP (CC and) (CC and)) (NP (NN nothing)) (VP (VBD happened))))
+-21.353629908270 -62.463631723753
+(S1 (FRAG (CC and) (SBAR (CC and) (S (NP (NN nothing)) (VP (VBN happened))))))
+-21.402235501733 -61.074881304449
+(S1 (SQ (CC and) (FRAG (CC and) (NP (NP (NN nothing)) (VP (VBD happened))))))
+-21.408057701627 -58.304925943322
+(S1 (SQ (CC and) (FRAG (SBAR (CC and) (S (NP (NN nothing)) (VP (VBD happened)))))))
+-21.446102608632 -61.585783428407
+(S1 (FRAG (CC and) (FRAG (CC and) (NP (NP (NN nothing)) (VP (VBN happened))))))
+-21.525116079843 -59.765669575562
+(S1 (SQ (CC and) (FRAG (CC and) (S (NP (NN nothing)) (VP (VBN happened))))))
+-21.535076800087 -56.911543094860
+(S1 (SQ (CC and) (FRAG (CC and) (S (NP (NN nothing)) (VP (VBD happened))))))
+-21.581714072806 -63.046028657441
+(S1 (FRAG (CC and) (SBAR (S (CC and) (NP (NN nothing)) (VP (VBN happened))))))
+-21.583278211903 -61.901181572646
+(S1 (FRAG (CC and) (S (NP (CC and) (NN nothing)) (VP (VBN happened)))))
+-21.665360282647 -58.545606347120
+(S1 (S (CC and) (S (NP (CC and) (NP (NN nothing))) (VP (VBD happened)))))
+-21.803397633451 -60.773597012950
+(S1 (FRAG (CC and) (FRAG (S (CC and) (NP (NN nothing)) (VP (VBD happened))))))
+-21.943713102381 -62.761040308636
+(S1 (FRAG (CC and) (S (CC and) (S (NP (NN nothing)) (VP (VBN happened))))))
+-21.955097195928 -63.094786299082
+(S1 (FRAG (CC and) (SBAR (S (CC and) (NP (NN nothing)) (VP (VBD happened))))))
+-21.972966258007 -62.268704991526
+(S1 (SQ (CC and) (FRAG (S (CC and) (NP (NN nothing)) (VP (VBD happened))))))
+-22.019504963284 -62.384102465456
+(S1 (FRAG (CC and) (FRAG (CC and) (NP (NP (NN nothing)) (VP (VBD happened))))))
+-22.138763341639 -58.220764255867
+(S1 (FRAG (CC and) (FRAG (CC and) (S (NP (NN nothing)) (VP (VBD happened))))))
+-22.147129521770 -60.078094213403
+(S1 (FRAG (CC and) (FRAG (SBAR (CC and) (S (NP (NN nothing)) (VP (VBD happened)))))))
+-22.217136091696 -60.552689516880
+(S1 (FRAG (CC and) (S (NP (CC and) (NN nothing)) (VP (VBD happened)))))
+-22.223181398606 -61.074890736569
+(S1 (FRAG (CC and) (FRAG (CC and) (S (NP (NN nothing)) (VP (VBN happened))))))
+-22.427405907520 -63.088262312286
+(S1 (S (CC and) (S (ADVP (CC and)) (NP (NN nothing)) (VP (VBD happened)))))
+-22.735760858055 -63.078625180038
+(S1 (SQ (CC and) (FRAG (CC and) (ADJP (NN nothing) (VBD happened)))))
+-24.441076533102 -62.621418592634
+(S1 (FRAG (CC and) (S (NP (CC and) (NP (NN nothing))) (VP (VBD happened)))))
+

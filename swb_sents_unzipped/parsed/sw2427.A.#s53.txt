@@ -1,0 +1,102 @@
+50 x
+-27.166551804007 -89.238685167358
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))))
+-27.798009183670 -94.282682169643
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))
+-28.561949980709 -98.602756342235
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (X (WP what)) (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))
+-28.867502653754 -100.271116508842
+(S1 (NP (NP (PRP$ my) (NN goodness)) (X (WP what) (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was))))))))
+-28.972241426594 -91.316400659673
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what) (NP (DT a) (NN mistake))) (SBAR (WHNP (WDT that)) (S (VP (VBD was))))))
+-29.033455008300 -95.740071990025
+(S1 (FRAG (NP (JJ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))))
+-29.406311507108 -99.263087785969
+(S1 (NP (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what) (DT a) (NN mistake)) (S (NP (DT that)) (VP (VBD was))))))
+-29.431437296950 -91.451351715404
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))))
+-29.660219972415 -98.806891880194
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (X (WP what) (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was))))))))
+-29.894213616498 -96.505290013883
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (DT a) (NN mistake) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))
+-30.027285167308 -98.675880009745
+(S1 (NP (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (S (NP (DT a) (NN mistake) (IN that)) (VP (VBD was))))))
+-30.184411531758 -99.126014941979
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (X (WP what)) (NP (DT a) (NN mistake) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))
+-30.497967700880 -95.514157924480
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (S (NP (DT that)) (VP (VBD was)))))))))
+-30.697373310887 -97.817787482339
+(S1 (FRAG (NP (JJ my) (NN goodness)) (WHNP (WP what) (NP (DT a) (NN mistake))) (SBAR (WHNP (WDT that)) (S (VP (VBD was))))))
+-30.895440071840 -97.542815609687
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (S (NP (DT that)) (VP (VBD was)))))))))
+-31.118893255173 -99.807024918507
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (X (WP what) (NP (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))
+-31.185477480483 -92.233506730683
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (IN that) (S (VP (VBD was)))))))))
+-31.245065888817 -99.432785075593
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what) (DT a) (NN mistake)) (SBAR (WHNP (WDT that)) (S (VP (VBD was))))))
+-31.245275022785 -100.045996927925
+(S1 (FRAG (NP (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (S (NP (DT a) (NN mistake) (IN that)) (VP (VBD was)))))))
+-31.298340501243 -97.952738538071
+(S1 (FRAG (NP (JJ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))))
+-31.303753715997 -92.622334805610
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what) (NP (DT a) (NN mistake))) (SBAR (IN that) (S (VP (VBD was))))))
+-31.312746222818 -97.287445029161
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (DT a) (NN mistake) (SBAR (IN that) (S (VP (VBD was)))))))
+-31.602944138079 -99.908169957258
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (X (WP what)) (NP (DT a) (NN mistake) (SBAR (IN that) (S (VP (VBD was)))))))
+-31.696632053911 -93.378143480503
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (DT that) (S (VP (VBD was)))))))))
+-31.699525323982 -95.237131712332
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (IN that)) (S (VP (VBD was)))))))))
+-31.760482470247 -98.432081778982
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (DT a) (NN mistake) (SBAR (DT that) (S (VP (VBD was)))))))
+-31.958374206260 -95.055500770564
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (WHNP (DT that)) (S (VP (VBD was)))))))))
+-32.061005759881 -100.455866621640
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WHNP (WP what)) (NP (DT a) (NN mistake))) (SBAR (WHNP (WDT that)) (S (VP (VBD was))))))
+-32.171615882965 -95.182966038732
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (DT that)) (S (VP (VBD was)))))))))
+-32.288769820857 -100.281128714617
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (IN that)) (S (VP (VBD was)))))))
+-32.297185553050 -98.054848694337
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what) (NP (DT a) (NN mistake))) (SBAR (S (NP (DT that)) (VP (VBD was))))))
+-32.399686294959 -100.109439069043
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (DT a) (NN mistake) (SBAR (WHNP (DT that)) (S (VP (VBD was)))))))
+-32.401141094858 -97.961828288329
+(S1 (NP (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (S (ADVP (NP (DT a) (NN mistake)) (IN that)) (VP (VBD was))))))
+-32.425941615796 -94.176771825250
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (WDT that) (S (VP (VBD was)))))))))
+-32.467651975701 -96.135171584717
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (WHNP (IN that)) (S (VP (VBD was)))))))))
+-32.495228085344 -99.230710123729
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (DT a) (NN mistake) (SBAR (WDT that) (S (VP (VBD was)))))))
+-32.511330023503 -99.446588448507
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (S (NP (DT a) (NN mistake) (IN that)) (VP (VBD was)))))
+-32.564068358727 -95.806249202249
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (IN that) (S (VP (VBD was)))))))))
+-32.564864352136 -98.987796943185
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (WDT that) (S (VP (VBD was)))))))))
+-32.619430698804 -96.056707040288
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (DT that) (S (VP (VBD was)))))))))
+-32.781609009477 -100.226963041017
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (NP (NP (DT a) (NN mistake)) (SBAR (WHNP (DT that)) (S (VP (VBD was)))))))
+-33.052380684775 -98.734893553350
+(S1 (FRAG (NP (JJ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (IN that) (S (VP (VBD was)))))))))
+-33.061617688576 -95.961873725414
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what)) (SBAR (NP (DT a) (NN mistake)) (IN that) (S (VP (VBD was))))))
+-33.065096321687 -99.253612046456
+(S1 (FRAG (NP (JJ my) (NN goodness)) (WHNP (WP what) (NP (DT a) (NN mistake))) (SBAR (IN that) (S (VP (VBD was))))))
+-33.129980475717 -99.514097124586
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (NP (DT a) (NN mistake)) (SBAR (S (NP (WDT that)) (VP (VBD was)))))))))
+-33.563535258204 -99.879530303170
+(S1 (FRAG (NP (JJ my) (NN goodness)) (SBAR (WHNP (WP what)) (FRAG (NP (DT a) (NN mistake) (SBAR (DT that) (S (VP (VBD was)))))))))
+-33.619130958699 -99.331945206509
+(S1 (FRAG (NP (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (S (ADVP (NP (DT a) (NN mistake)) (IN that)) (VP (VBD was)))))))
+-34.048701910378 -99.478452265612
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what) (NP (DT a) (NN mistake))) (SBAR (WHNP (IN that)) (S (VP (VBD was))))))
+-34.169278678899 -99.704874530595
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (WHNP (WP what) (NP (DT a) (NN mistake))) (SBAR (DT that) (S (VP (VBD was))))))
+-34.500135597048 -99.846564576482
+(S1 (FRAG (NP (PRP$ my) (NN goodness)) (SBAR (WHNP (WP what)) (S (ADVP (NP (DT a) (NN mistake)) (IN that)) (VP (VBD was))))))
+

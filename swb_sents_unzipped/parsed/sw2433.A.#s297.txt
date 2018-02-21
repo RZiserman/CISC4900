@@ -1,0 +1,102 @@
+50 x
+-23.297039239550 -80.601410765890
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks)))))
+-25.332052763589 -84.614850051959
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-25.409661034556 -86.483819606014
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks))))))
+-26.111695871828 -87.791304402391
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (NP (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks)))))))
+-26.441761013782 -86.558080847017
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (NP (CD eight) (TO to) (CD twelve) (NNS weeks)))))
+-26.481532765668 -87.237172182662
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-26.495881602105 -84.063075181451
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (S (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-26.658731314902 -84.278616866206
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (ADVP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks))))))
+-26.666847167129 -92.724734615109
+(S1 (S (NP (PRP He)) (VP (VBN told) (NP (PRP me)) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks)))))
+-26.724498777350 -87.327941806663
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (ADVP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks)))))
+-26.781450214117 -85.490817843245
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (SBAR (S (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks)))))))
+-27.046275937604 -90.129090660761
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me))) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))
+-27.071798848069 -91.383256696344
+(S1 (S (NP (PRP He)) (VP (VBD told) (S (NP (PRP me)) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-27.089985153825 -87.058799571766
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (ADVP (CD eight) (PP (TO to) (NP (CD twelve) (NNS weeks)))))))
+-27.278091196935 -86.906636986963
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (ADVP (CD eight) (TO to) (CD twelve) (NP (NNS weeks))))))
+-27.377706462548 -89.310523631056
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me) (NP (CD eight))) (PP (TO to) (NP (CD twelve) (NNS weeks))))))
+-27.380097077294 -90.726995906971
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me))) (NP (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks))))))
+-27.433580572211 -89.600646922678
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (NP (CD eight))) (PP (TO to) (NP (CD twelve) (NNS weeks))))))
+-27.480800263937 -90.370237480550
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (ADVP (CD eight) (TO to) (CD twelve) (NNS weeks)))))
+-27.672106626870 -92.361910585767
+(S1 (S (NP (PRP He)) (VP (VBD told) (S (NP (PRP me)) (NP (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks))))))))
+-27.737791046401 -92.657294429330
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (NP (NP (CD eight)) (TO to) (NP (CD twelve) (NNS weeks))))))
+-27.964989569651 -89.927539273415
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (ADVP (CD eight) (TO to) (CD twelve)) (NP (NNS weeks)))))
+-27.978221653186 -93.852328842115
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks))))))
+-28.030478257394 -94.013346361695
+(S1 (S (NP (PRP He)) (VP (VBN told) (S (NP (PRP me)) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-28.132791528502 -87.312631119343
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (NP (CD eight) (TO to) (CD twelve) (NNS weeks))))))
+-28.225934569915 -89.075717758383
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (S (NP (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks))))))))
+-28.325915193670 -93.636277833008
+(S1 (S (NP (PRP He)) (VP (VP (VBD told) (NP (PRP me))) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks)))))
+-28.363052429790 -95.012339319227
+(S1 (S (NP (PRP He)) (VP (VBD told) (PP (FW me) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-28.464790779840 -95.576958279883
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (QP (CD eight) (TO to) (CD twelve)) (NNS weeks)))))
+-28.522771192378 -89.057283312792
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (S (ADJP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-28.593007107063 -86.791940979662
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (ADVP (ADVP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks)))))))
+-28.780958030966 -91.635824681866
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me) (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks)))))))
+-28.859989205503 -89.656199309664
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (SBAR (S (ADJP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks)))))))
+-28.924329931895 -93.995255856884
+(S1 (S (NP (PRP He)) (VP (VBD told) (S (NP (PRP me)) (ADJP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-29.003429665553 -90.444823377688
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me) (NP (CD eight) (TO to) (CD twelve) (NNS weeks))))))
+-29.077719704971 -94.942544246742
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (NP (NP (QP (CD eight) (TO to) (CD twelve))) (NNS weeks)))))
+-29.095232011028 -93.246353536666
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (NP (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks))))))))
+-29.194171241756 -93.560798480684
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (S (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks)))))))
+-29.493849139635 -95.242933547301
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (NP (NP (CD eight)) (TO to) (NP (CD twelve) (NNS weeks)))))))
+-29.727968924360 -94.612046469864
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (NP (CD eight)) (PP (TO to) (NP (CD twelve) (NNS weeks)))))))
+-29.753256459067 -93.602112226263
+(S1 (S (NP (NP (PRP He)) (VP (VBD told) (NP (PRP me)))) (NP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))
+-29.753881426235 -92.803251653630
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (ADJP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-29.781382272585 -94.463526222029
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (ADVP (CD eight))) (PP (TO to) (NP (CD twelve) (NNS weeks))))))
+-29.810525756143 -92.656364421306
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me) (NP (QP (CD eight) (TO to) (CD twelve) (NNS weeks)))))))
+-29.872300408844 -94.142594868661
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (S (NP (NP (CD eight)) (TO to) (NP (CD twelve) (NNS weeks)))))))
+-30.018698392910 -94.860878775055
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NP (PRP me)) (ADVP (QP (CD eight) (TO to) (CD twelve)) (NNS weeks))))))
+-30.064846478839 -94.103098329050
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (S (NP (QP (CD eight) (TO to) (CD twelve))) (NP (NNS weeks))))))
+-30.444531108686 -93.176019430050
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (S (NP (CD eight) (TO to) (CD twelve) (NNS weeks))))))
+-30.718686350408 -94.603762001512
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (SBAR (S (NP (CD eight) (TO to) (CD twelve) (NNS weeks)))))))
+-30.837112645054 -95.491985045181
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (SBAR (S (NP (QP (CD eight) (TO to) (CD twelve))) (NP (NNS weeks)))))))
+

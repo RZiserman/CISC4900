@@ -1,0 +1,102 @@
+50 x
+-29.397239063500 -104.511372354864
+(S1 (S (CC And) (INTJ (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))
+-30.556532343919 -101.323168623732
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))))
+-30.658260511873 -105.668432682945
+(S1 (S (CC And) (ADVP (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))
+-30.874754960853 -100.355934586136
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))
+-30.953127482556 -108.001318325510
+(S1 (S (CC And) (INTJ (UH uh)) (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))
+-30.979786862896 -108.432860153405
+(S1 (S (CC And) (INTJ (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RP along))))))
+-31.261917917544 -109.097408404046
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))
+-31.422789670100 -106.018854283613
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))
+-31.708983077303 -108.350193195663
+(S1 (S (CC And) (INTJ (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (IN along))))))
+-31.923947975600 -105.161989464532
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (IN along)))))))))
+-32.058601110929 -109.158378574189
+(S1 (S (CC And) (ADVP (UH uh)) (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))
+-32.141021324669 -107.077009086411
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (JJ green) (NNS onions)) (SBAR (S (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))))
+-32.240808311269 -109.589920481487
+(S1 (S (CC And) (ADVP (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RP along))))))
+-32.309117537787 -103.845880559291
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))
+-32.343990345398 -105.413043930607
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))))
+-32.580974372250 -104.277422384678
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RP along)))))))
+-32.608042675316 -105.244656422274
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RP along)))))))))
+-32.643834034605 -108.238756858607
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RB along)))))))))
+-32.662027503661 -107.271522821011
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RB along)))))))
+-32.922426043569 -108.324447189330
+(S1 (FRAG (CC And) (S (INTJ (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))
+-32.925740552695 -109.130732600518
+(S1 (S (CC And) (INTJ (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (RB along)))))))
+-32.970004525676 -109.507253523745
+(S1 (S (CC And) (ADVP (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (IN along))))))
+-32.978678117034 -109.508800254259
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))
+-33.005337469496 -109.940342082154
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RP along))))))
+-33.090136124657 -104.194755426936
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (IN along)))))))
+-33.096136266588 -109.930608171782
+(S1 (S (FRAG (CC And) (INTJ (UH uh)) (NP (DT the) (NN green))) (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))
+-33.106345528720 -109.939798094981
+(S1 (S (CC And) (INTJ (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RP along))))))
+-33.192851033492 -106.695357519435
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (DT the) (NN green)) (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))
+-33.426662144454 -108.902989820405
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))))
+-33.734533683903 -109.857675124413
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (IN along))))))
+-33.863782236254 -109.634124063351
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (DT the) (NN green) (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))))
+-34.015336949184 -107.767368357832
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RP along)))))))
+-34.186762001069 -110.287792928599
+(S1 (S (CC And) (ADVP (UH uh)) (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (RB along)))))))
+-34.269664857079 -109.251864771406
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (IN along))))))))
+-34.281030855993 -105.942528902653
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (RB along))))))))))
+-34.405331446794 -109.334531729148
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PRT (RP along))))))))
+-34.473447769018 -106.751594363849
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RP along)))))))))
+-34.491328662683 -104.975295054767
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (RB along))))))))
+-34.524498701591 -107.684701400090
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (IN along)))))))
+-34.676448482080 -108.456027587283
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (VP (VBG coming) (PP (RP along)))))))))
+-34.746408558074 -105.784360326254
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RP along)))))))
+-34.929608368145 -109.816164545683
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along))))))))
+-35.010132041136 -107.488793549687
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (PP (RP along)))))))
+-35.506614921932 -109.542815573934
+(S1 (FRAG (CC And) (INTJ (UH uh)) (NP (NP (DT the) (NN green)) (SBAR (S (NP (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (IN along))))))))))
+-35.925691211739 -108.465241027921
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (RB along))))))))
+-36.180771135008 -109.274306299408
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (NN green) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RP along)))))))
+-36.240566443472 -110.032404209527
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (RB along)))))))))
+-36.564878260744 -108.575581726048
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (ADVP (IN along))))))))
+-36.684890196958 -106.704847652122
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (ADJP (JJ green)) (NNS onions)) (VP (VBP are) (VP (VBG coming) (ADVP (RB along)))))))
+-37.066749721392 -109.370293746404
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (DT the) (JJ green) (NNS onions)) (VP (VBP are) (S (VP (VBG coming) (PRT (RP along))))))))
+

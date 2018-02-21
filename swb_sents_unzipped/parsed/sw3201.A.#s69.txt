@@ -1,0 +1,102 @@
+50 x
+-27.140832014161 -95.936265018509
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-27.382977122323 -101.100379367362
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (S (NP (DT the) (NN door)) (VP (TO to) (VP (NN door) (NP (NN pickup))))))))
+-27.771258635466 -95.461694496816
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-27.879943160806 -103.290574529331
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (S (NP (DT the) (NN door)) (VP (TO to) (VP (NN door) (NP (NN pickup))))))))
+-28.284260645937 -102.501654858273
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (S (NP (DT the) (NN door)) (VP (TO to) (VP (NN door) (NP (NN pickup)))))))))
+-28.679376452533 -96.862970115460
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-28.920229619486 -101.404167785139
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))
+-29.064562537084 -101.103147871024
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))
+-29.435879605249 -102.567326698303
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VB have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-29.558042210485 -104.470384998764
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (S (NP (DT the) (NN door)) (VP (TO to) (VP (NN door) (NP (NN pickup))))))))
+-29.721693866903 -97.915338037251
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-29.729974731014 -102.902288368003
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-29.945681718577 -102.504423549380
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-30.661070657610 -106.188903788565
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (NP (DT the) (NN door)) (TO to) (NP (NN door) (NN pickup))))))
+-30.729226860691 -103.538571352466
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (DT the) (NN door))) (PP (TO to) (NP (NN door) (NN pickup)))))
+-30.839750050101 -102.526070933922
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))
+-30.921470619235 -105.257362586751
+(S1 (FRAG (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (S (NP (DT the) (NN door)) (VP (TO to) (VP (NN door) (NP (NN pickup)))))))))
+-30.928734045314 -99.066588170288
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup)))))
+-30.957741996760 -106.580074313739
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (DT the) (NAC (NN door) (PP (TO to) (NP (NN door)))) (NN pickup)))))
+-31.016194580038 -106.581337749060
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VB have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))
+-31.065410745222 -105.333431763836
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (TO to) (NP (NN door) (NN pickup))))))
+-31.159184240765 -102.278085033164
+(S1 (FRAG (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-31.221634003349 -99.618677558103
+(S1 (FRAG (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-31.313790866955 -105.061885549423
+(S1 (FRAG (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-31.341865327944 -103.262324064106
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (DT the) (NN door))) (PP (TO to) (NP (NN door) (NN pickup)))))
+-31.399465680740 -102.060229994145
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup)))))
+-31.501026253314 -104.332906538514
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NP (NN door)) (NP (NN pickup))))))))
+-31.531726538899 -102.825730971454
+(S1 (S (CC but) (NP (PRP they)) (RB actually) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-31.557418181874 -103.267337928822
+(S1 (S (CC but) (NP (PRP they)) (RB actually) (VP (VB have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-31.755118189315 -106.734707382479
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (TO to) (NP (NN door) (NN pickup)))))))
+-31.803038218068 -102.081469559357
+(S1 (S (CC but) (S (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-31.937156137292 -100.467863703644
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup))))))
+-32.131452880194 -103.858336016821
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NP (NN door)) (NP (NN pickup))))))))
+-32.144927056236 -106.456324459514
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NP (NN door)) (NN pickup)))))))
+-32.335765782171 -105.360518953206
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (S (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup))))))
+-32.391020801933 -102.498478857657
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (DT the) (NN door))) (PP (TO to) (NP (NN door) (NN pickup)))))
+-32.514937916119 -105.260131008392
+(S1 (FRAG (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-32.688993419540 -106.692202362042
+(S1 (S (CC but) (S (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-32.733194573734 -104.825759844324
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-32.845786918504 -105.944946031798
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VB have) (S (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup))))))
+-32.908759021452 -105.556494166464
+(S1 (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)) (NP (NN pickup))))))
+-32.984495363720 -105.639884302215
+(S1 (S (CC but) (NP (NP (PRP they)) (ADVP (RB actually))) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup)))))))
+-33.039570691686 -105.259611635464
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NP (NN door)) (NP (NN pickup)))))))))
+-33.364567087908 -106.761794444117
+(S1 (S (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (S (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup)))))))
+-33.409809491729 -104.295275340954
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup)))))
+-34.081888128358 -106.311979557256
+(S1 (S (CC but) (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NP (NN door)) (NP (NN pickup))))))))
+-34.273988279367 -103.771668732221
+(S1 (FRAG (CC but) (S (NP (PRP they)) (VP (ADVP (RB actually)) (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door) (NN pickup))))))))
+-34.316659686855 -105.882978814196
+(S1 (FRAG (S (CC but) (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup))))))
+-34.384768152713 -103.223571339135
+(S1 (FRAG (CC but) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup))))))
+-34.689201929233 -106.430624644926
+(S1 (S (CC but) (NP (PRP they)) (RB actually) (VP (VBP have) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NN door)))) (NP (NN pickup)))))
+

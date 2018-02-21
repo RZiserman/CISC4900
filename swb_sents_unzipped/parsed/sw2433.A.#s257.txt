@@ -1,0 +1,102 @@
+50 x
+-22.084919034418 -69.446125441552
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas) (NN location))))))))
+-23.960902250869 -77.110781090398
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-24.816080152646 -77.883421419993
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas)) (NP (NN location))))))))
+-25.401291472399 -82.648932994561
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (IN if) (NP (DT the) (NNP Dallas) (NN location))))))
+-26.076917449345 -80.380703552716
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PRT (IN if)) (NP (DT the) (NNP Dallas) (NN location))))))
+-26.546056768485 -80.338404498684
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (VP (PP (IN if) (NP (DT the) (NNP Dallas) (NN location))))))))
+-26.707470129842 -88.568412476795
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (PP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-27.422042168543 -85.858510351565
+(S1 (S (NP (PRP I)) (VP (VB do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas) (NN location))))))))
+-27.443006835273 -85.350326054151
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (VP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-27.444071506435 -84.941874324055
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (NP (DT the) (NNP Dallas)) (NN location))))))))
+-27.900060429144 -84.699401338465
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (VP (PP (IN if) (NP (DT the) (NNP Dallas) (NN location))))))))
+-27.961144604600 -90.630340768065
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas) (NN location))))))))
+-28.481731239130 -91.463423714727
+(S1 (S (NP (PRP I)) (VP (VB do) (RB n't) (VP (VB know) (PP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-28.801103577406 -88.725416850137
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN if) (S (NP (DT the) (NNP Dallas) (NN location))))))))
+-29.028939322052 -91.387282662359
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN if) (NP (NP (DT the) (NNP Dallas)) (NN location)))))))
+-29.120914926457 -85.629718613958
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (ADVP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-29.246611841611 -84.466724791597
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (DT the) (ADJP (NNP Dallas)) (NN location))))))))
+-29.278848996519 -90.821159275460
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN if) (NP (DT the) (NNP Dallas))) (NP (NN location))))))
+-29.355409399699 -90.714782539292
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (VP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-29.362902544549 -97.810051952423
+(S1 (S (NP (PRP I)) (VP (VBP do) (ADVP (RB n't)) (VP (VB know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas) (NN location))))))))
+-29.927094246194 -94.705618583307
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (PRT (IN if)) (NP (DT the) (NNP Dallas) (NN location))))))
+-29.957243486771 -94.295806330006
+(S1 (S (NP (PRP I)) (VP (VB do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas)) (NP (NN location))))))))
+-29.992961638887 -89.901933587310
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN if) (NP (DT the) (NNP Dallas)) (NP (NN location)))))))
+-30.085895402071 -97.038563480572
+(S1 (S (NP (PRP I)) (VP (VB do) (RB n't) (VP (VB know) (IN if) (NP (DT the) (NNP Dallas) (NN location))))))
+-30.261934849541 -93.275603849248
+(S1 (S (NP (NN I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas) (NN location))))))))
+-30.472422805623 -93.733316998563
+(S1 (S (NP (PRP I)) (VP (VB do) (RB n't) (VP (VB know) (PRT (IN if)) (NP (DT the) (NNP Dallas) (NN location))))))
+-30.485544151875 -93.627579121983
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (IN if) (S (NP (NP (DT the) (NNP Dallas)) (NP (NN location)))))))))
+-30.510847361706 -95.137703914408
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (VBP know) (PP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-30.568372281520 -96.056247059468
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (IN if) (NP (NP (DT the) (NNP Dallas)) (NN location))))))
+-30.777884363754 -92.141299120862
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN if) (NP (DT the) (ADJP (NNP Dallas)) (NN location)))))))
+-31.062863524806 -94.641572868090
+(S1 (S (NP (PRP I)) (VP (VB do) (RB n't) (VP (VB know) (VP (PP (IN if) (NP (DT the) (NNP Dallas) (NN location))))))))
+-31.101066752019 -95.157125928281
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (ADJP (VB know) (PP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-31.254739105012 -93.788017499156
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PRT (IN if)) (NP (NP (DT the) (NNP Dallas)) (NN location))))))
+-31.452299604456 -97.287738835938
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (S (VP (VB know) (SBAR (IN if) (S (NP (DT the) (NNP Dallas) (NN location)))))))))
+-31.604555087689 -96.990594028373
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN if) (S (NP (DT the) (NNP Dallas)) (NP (NN location))))))))
+-31.614093839668 -94.614906070645
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (VP (PP (IN if) (NP (NP (DT the) (NNP Dallas)) (NN location))))))))
+-31.652034382087 -92.918661009325
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (VP (PP (IN if) (S (NP (DT the) (NNP Dallas) (NN location)))))))))
+-31.915001753181 -94.363306062344
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (ADVP (IN if) (NP (NP (DT the) (NNP Dallas)) (NN location)))))))
+-32.063164081742 -98.005382753716
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (ADVP (IN if) (NP (DT the) (NNP Dallas) (NN location)))))))
+-32.574448185125 -98.732453283865
+(S1 (S (NP (PRP I)) (VP (VB do) (RB n't) (VP (VBP know) (VP (PP (IN if) (NP (DT the) (NNP Dallas) (NN location))))))))
+-32.586476343762 -99.022229988330
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (VP (IN if) (NP (NP (DT the) (NNP Dallas)) (NN location)))))))
+-32.819880754278 -93.996783717569
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (VP (PP (IN if) (NP (DT the) (NNP Dallas)) (NP (NN location))))))))
+-32.930997004745 -97.279657849107
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (VP (PP (IN if) (S (NP (DT the) (NNP Dallas) (NN location)))))))))
+-32.966041900327 -98.975902910427
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (VP (PP (IN if) (NP (NP (DT the) (NNP Dallas)) (NN location))))))))
+-33.001187763859 -97.250509192414
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (IN if) (NP (DT the) (ADJP (NNP Dallas)) (NN location))))))
+-33.297638812684 -98.152341515841
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (ADVP (IN if) (NP (NP (DT the) (NNP Dallas)) (NP (NN location))))))))
+-33.363038881371 -95.368922529148
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (VP (PP (IN if) (NP (DT the) (ADJP (NNP Dallas)) (NN location))))))))
+-33.676813704564 -94.982279619650
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PRT (IN if)) (NP (DT the) (ADJP (NNP Dallas)) (NN location))))))
+-34.201850714936 -98.357780557350
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VBP know) (VP (PP (IN if) (NP (DT the) (NNP Dallas)) (NP (NN location))))))))
+-35.292722039465 -98.151270609176
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (ADVP (IN if) (NP (DT the) (ADJP (NNP Dallas)) (NN location)))))))
+

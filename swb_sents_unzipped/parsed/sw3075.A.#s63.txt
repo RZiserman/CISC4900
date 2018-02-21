@@ -1,0 +1,102 @@
+50 x
+-24.853790749898 -83.089984846939
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-26.033021862976 -88.784000020248
+(S1 (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-26.250773268384 -86.187177897172
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-26.365509403321 -89.232387777238
+(S1 (SBAR (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-26.655879341770 -89.802728284053
+(S1 (FRAG (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-26.806043958887 -92.100474125141
+(S1 (SBAR (RB Well) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-27.014708240410 -92.952772306003
+(S1 (S (WHNP (RB Well) (WP what)) (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-27.055036078815 -89.663937171888
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-27.343733842332 -94.347861890049
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WDT what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-27.368874531507 -88.536626121909
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (VP (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-27.457728071357 -91.899745486685
+(S1 (SBAR (WHNP (ADVP (RB Well)) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-27.571029520902 -93.985628093223
+(S1 (FRAG (ADJP (JJ Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-27.810024966082 -93.444756277839
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WDT what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-27.899718311126 -92.711225449278
+(S1 (SBAR (ADVP (UH Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-27.987712001857 -90.651996347256
+(S1 (FRAG (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-28.006317976954 -93.528891927119
+(S1 (ADJP (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-28.155168843913 -92.383609486433
+(S1 (S (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBP do)))) (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))
+-28.452018597301 -92.761130222121
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-28.467123660053 -85.487387179792
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise)))))))))
+-28.548105647373 -94.230641295218
+(S1 (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (VP (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-28.633445783469 -93.470589456657
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-28.679908353132 -92.420898085490
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB do) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-28.765857049993 -91.633819172142
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (VP (PP (IN on) (NP (DT a) (NN cruise))))))))))))
+-28.913491966777 -94.306082406558
+(S1 (FRAG (WHNP (RB Well) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-28.955024426898 -93.901958556020
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise))))))))))
+-28.976069282994 -93.526518761476
+(S1 (FRAG (ADJP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-29.255936569226 -93.908913824091
+(S1 (FRAG (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-29.412418207450 -93.767741813693
+(S1 (FRAG (SBAR (WHNP (ADVP (RB Well)) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (NP (DT a) (NN cruise)))))))))))
+-29.646354773131 -91.181402353101
+(S1 (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise)))))))))
+-29.792001444922 -90.961486956545
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (VP (IN on) (NP (DT a) (NN cruise))))))))))
+-29.864106178539 -88.584580230025
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise))))))))))
+-29.967377601530 -94.320878185491
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP do))) (PP (IN on) (NP (DT a) (NN cruise)))))))
+-29.978842313476 -91.629790110091
+(S1 (SBAR (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise))))))))))
+-30.038460521722 -90.457837815099
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (S (NP (DT a) (NN cruise)))))))))))
+-30.097894640090 -93.134987147050
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (ADVP (RB on)) (NP (DT a) (NN cruise)))))))))
+-30.269212254713 -92.200130616906
+(S1 (FRAG (RB Well) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise))))))))))
+-30.325676712347 -91.584791277354
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (RP on) (NP (DT a) (NN cruise))))))))))
+-30.370738899908 -94.408605891214
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do)) (PP (IN on) (NP (DT a) (NN cruise)))))))))
+-30.601736224559 -90.780558921735
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (IN on)) (NP (DT a) (NN cruise)))))))))
+-30.725367668970 -92.061339504741
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise))))))))
+-30.803861375086 -91.686381417203
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (ADVP (IN on) (NP (DT a) (NN cruise))))))))))
+-30.986741993127 -92.876160423180
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VB do) (PRT (RP on)) (NP (DT a) (NN cruise)))))))))
+-31.071060981512 -94.297147819538
+(S1 (SBAR (WHNP (ADVP (RB Well)) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise)))))))))
+-31.188983963408 -94.058680006778
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (VP (IN on) (NP (DT a) (NN cruise)))))))))))
+-31.243887597517 -91.826469111019
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB do) (PRT (RP on)) (NP (DT a) (NN cruise))))))))
+-31.288072358380 -94.426323027594
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (NP (IN on) (DT a) (NN cruise)))))))))
+-31.385310918532 -92.892520937796
+(S1 (SBAR (ADVP (RB Well)) (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (RB on) (NP (DT a) (NN cruise)))))))))
+-31.435443040208 -93.555030865332
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PP (IN on) (S (NP (DT a) (NN cruise))))))))))))
+-31.601044912012 -93.049398680109
+(S1 (FRAG (SBAR (WHNP (RB Well) (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (RP on)) (NP (DT a) (NN cruise))))))))))
+-31.998718743045 -93.877751971968
+(S1 (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (SBAR (S (NP (PRP you)) (VP (VBP do) (PRT (IN on)) (NP (DT a) (NN cruise))))))))))
+

@@ -1,0 +1,102 @@
+50 x
+-29.680277373286 -110.797403549033
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-30.341918142966 -109.625241561916
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-30.578220778888 -106.538277702389
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-31.088056107281 -112.568144719583
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-31.213212391670 -113.689326227366
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-31.239861520690 -105.366115715272
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-31.320568569179 -112.347688609792
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-31.630661233560 -112.027645702224
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-31.731090163504 -110.242683565471
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie))))))
+-31.749696849083 -111.395982732466
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-31.830803358990 -112.705570025159
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-31.867017913475 -112.942194511404
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (NP (RB there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))))
+-31.874853133472 -112.517164240248
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-32.163659993111 -113.836341352609
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (ADVP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-32.183750882927 -113.836809165743
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (NP (EX there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))))
+-32.260616612120 -113.277778130798
+(S1 (S (CC And) (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie))))))
+-32.292301975362 -110.855483715107
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-32.383400490279 -113.766424785176
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))))
+-32.423131897025 -108.088562643796
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-32.432503729042 -110.190814187818
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-32.492444100792 -111.533408038042
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-32.728347303174 -114.118429780342
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-32.744673480269 -114.334080545300
+(S1 (FRAG (CC And) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-32.840243029228 -105.983557659376
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-33.061603370834 -109.577215505965
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (ADVP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-33.138868869621 -112.013424736021
+(S1 (S (CC And) (ADVP (UH uh)) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie))))))
+-33.165149499844 -109.018652200701
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-33.270952429453 -113.577930762983
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))
+-33.355969325546 -113.176015889557
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-33.406314249949 -113.161918558183
+(S1 (FRAG (CC And) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie)))))))))
+-33.426368326132 -113.134606072733
+(S1 (S (CC And) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-33.681473995900 -111.472925718662
+(S1 (S (FRAG (CC And) (INTJ (UH uh))) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie))))))
+-33.764461957127 -114.255854885704
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-33.980495157348 -112.003853902440
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-34.115129218927 -114.042809205195
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (PP (IN from) (NP (EX there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-34.135102411330 -112.150849963049
+(S1 (FRAG (CC And) (INTJ (UH uh)) (SBAR (S (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie))))))))
+-34.466949755703 -112.051435085721
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-34.786399564996 -113.196385924219
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (NP (EX there)) (PP (IN on) (NP (DT the) (NN way))))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-34.896070205545 -112.301771176322
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (NP (RB there)) (PP (IN on) (NP (DT the) (NN way))))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-34.913705803815 -112.950983116768
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (EX there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-34.986049200226 -113.126001588410
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there) (PP (IN on) (NP (DT the) (NN way))))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-34.986891349988 -113.229751991394
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (ADVP (RB there))) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-35.006695730610 -113.779360502287
+(S1 (FRAG (CC And) (S (INTJ (UH uh)) (NP (PRP I)) (VP (VBP think) (ADVP (IN from) (RB there)) (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-35.072256380004 -114.342199774514
+(S1 (FRAG (CC And) (INTJ (UH uh)) (FRAG (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (IN through) (NP (DT the) (NN movie))))))))))
+-35.247414728114 -112.870109777707
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there)) (PP (IN on) (NP (DT the) (NN way)))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-35.942945588916 -111.697947790590
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there)) (PP (IN on) (NP (DT the) (NN way)))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-35.949153413617 -113.736902993290
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (PP (IN from) (NP (EX there))) (PP (IN on) (NP (DT the) (NN way)))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-36.208871991423 -114.012689357672
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (EX there))) (PP (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie))))))))
+-36.347200079393 -111.745528873816
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (PP (IN from) (NP (RB there))) (PP (IN on) (NP (DT the) (NN way)))) (PP (IN through) (NP (DT the) (NN movie)))))))
+-36.975926142225 -112.840527370555
+(S1 (FRAG (CC And) (INTJ (UH uh)) (S (NP (PRP I)) (VP (VBP think) (PP (IN from) (NP (RB there))) (PP (PP (IN on) (NP (DT the) (NN way))) (PP (IN through) (NP (DT the) (NN movie))))))))
+

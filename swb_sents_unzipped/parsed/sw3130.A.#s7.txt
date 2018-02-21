@@ -1,0 +1,102 @@
+50 x
+-38.121858643965 -127.305373099635
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-38.230122563699 -131.083846709616
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (INTJ (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-39.446530216053 -127.706363211381
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-39.554794135787 -131.484836821362
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (INTJ (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-39.694223184377 -127.970719206837
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-39.938763059315 -127.883941188927
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-40.163040627519 -133.855508596665
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD come) (PRT (RP out)))))))))
+-40.255677142326 -130.555195870118
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (S (INTJ (UH uh)) (NP (DT a) (NN pickup)) (ADVP (ADVP (RB twice) (NP (DT a) (NN week))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))))
+-40.511438270605 -131.218778828644
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (IN out)))))))))
+-40.527300182714 -132.065967889656
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VB come) (PRT (RP out)))))))))
+-40.563941259428 -133.670652029602
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (INTJ (UH uh)) (NP (DT a) (NN pickup)) (ADVP (RB twice) (NP (DT a) (NN week))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-40.660884041728 -131.583761530243
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (INTJ (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-40.701318688618 -133.875589552148
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (INTJ (UH uh)) (NP (DT a) (NN pickup)) (SBAR (NP (RB twice) (DT a) (NN week)) (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-40.713459371084 -128.870670270877
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-40.731259114231 -133.093554718253
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (NP (RB twice) (DT a) (NN week) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out))))))))))
+-40.963549813277 -129.158655382142
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-41.018894756465 -128.371709318583
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-41.159318423671 -132.273505201591
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (SBAR (NP (RB twice) (DT a) (NN week)) (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-41.326750117825 -130.039794972558
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (SBAR (NP (RB twice) (DT a) (NN week)) (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-41.360361575403 -128.284931300673
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-41.445752744231 -132.516390906443
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (S (INTJ (UH uh)) (NP (DT a) (NN pickup)) (ADVP (ADVP (RB twice) (NP (DT a) (NN week))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))))
+-41.605141069388 -132.997646255557
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (ADVP (UH uh)) (DT a) (NN pickup)) (ADVP (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-41.752147566080 -133.546131418295
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (NP (DT a) (NN week)) (SBAR (WHNP (IN that)) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out))))))))))
+-41.767534788414 -130.956185981864
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (S (INTJ (UH uh)) (NP (DT a) (NN pickup)) (ADVP (ADVP (RB twice) (NP (DT a) (NN week))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))))
+-41.879775780780 -133.144349519613
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out))))))))))
+-41.985555613816 -131.984751641989
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (INTJ (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-42.021593429955 -131.797346917936
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (IN out)))))))))
+-42.031630524920 -133.839091402250
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (SBAR (NP (RB twice) (DT a) (NN week)) (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-42.083802811017 -131.884124935846
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (IN out)))))))))
+-42.099664723126 -132.731313996858
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VB come) (PRT (RP out)))))))))
+-42.123232404319 -133.494544829999
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (NP (RB twice) (DT a) (NN week) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out))))))))))
+-42.135057887172 -129.271660382623
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-42.192668657687 -132.940018734801
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RP out)))))))))
+-42.288221385364 -129.559645493888
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-42.488599712115 -132.699550690926
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (ADVP (RB twice) (NP (DT a) (NN week))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-42.593779219927 -133.683087271891
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (INTJ (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (SBAR (NP (DT a) (NN week)) (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-42.656580852064 -132.644535978948
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VB come) (PRT (RP out)))))))))
+-42.796289741724 -132.784075999886
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (IN out)))))))))
+-42.840178046319 -132.917381018189
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (S (INTJ (UH uh)) (NP (DT a) (NN pickup)) (ADVP (ADVP (RB twice) (NP (DT a) (NN week))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))))
+-42.959531975759 -132.674495313338
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (DT a) (NN pickup)) (SBAR (NP (RB twice) (DT a) (NN week)) (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-43.026739585476 -133.398636367303
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (ADVP (UH uh)) (DT a) (NN pickup)) (ADVP (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-43.126963669913 -130.440785084304
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (SBAR (NP (RB twice) (DT a) (NN week)) (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-43.269131990868 -133.545339631359
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out))))))))))
+-43.353129439917 -133.072061111150
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (IN out)))))))))
+-43.431277163833 -133.631265060898
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (UH uh)) (ADVP (NP (DT a) (NN pickup)) (RB twice)) (NP (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VB come) (PRT (RP out)))))))))
+-43.765033198099 -133.605364842003
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (NP (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RP out)))))))))
+-43.813271284203 -133.100540802672
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh) (NP (DT a) (NN pickup))) (ADVP (RB twice) (NP (DT a) (NN week))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+-44.009573073037 -133.518586824093
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (ADVP (UH uh) (NP (DT a) (NN pickup))) (RB twice) (DT a) (NN week)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RP out)))))))))
+-44.068374935263 -133.395844620401
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (NP (DT a) (NN pickup)) (ADVP (RB twice) (NP (DT a) (NN week)))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)))))))))
+-45.393046507351 -133.796834732147
+(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (ADVP (UH uh)) (NP (NP (DT a) (NN pickup)) (ADVP (RB twice) (NP (DT a) (NN week)))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP come) (ADVP (RB out)))))))))
+

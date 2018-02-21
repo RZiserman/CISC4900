@@ -1,0 +1,102 @@
+50 x
+-16.728514887617 -53.514821284261
+(S1 (S (NP (NN Pork) (NN barrel)) (VP (NNS politics))))
+-16.881177894619 -56.753121363343
+(S1 (NP (NN Pork) (NN barrel) (NNS politics)))
+-17.577694665337 -51.549330599498
+(S1 (S (NP (NN Pork) (NN barrel)) (NP (NNS politics))))
+-17.853453954153 -55.808846225173
+(S1 (NP (NP (NN Pork) (NN barrel)) (NNS politics)))
+-18.139440231150 -56.026017235954
+(S1 (NP (NP (NN Pork) (NN barrel)) (NP (NNS politics))))
+-18.832158692181 -57.604440307862
+(S1 (NP (NP (NN Pork) (NN barrel)) (NP (NN politics))))
+-18.856727666354 -58.297385045080
+(S1 (NP (NP (NN Pork) (NN barrel)) (NN politics)))
+-18.908700228867 -63.907991096621
+(S1 (NP (NN Pork) (NN barrel) (NN politics)))
+-19.400418452681 -62.725404518560
+(S1 (S (NP (NN Pork) (NN barrel)) (VP (NP (NNS politics)))))
+-19.781547747323 -57.074782699156
+(S1 (S (NP (NN Pork) (NN barrel)) (NP (NN politics))))
+-20.164786754410 -62.189158545223
+(S1 (S (NP (NN Pork) (NN barrel) (NNS politics))))
+-20.337847767226 -64.691684498213
+(S1 (S (NP (NN Pork)) (VP (NN barrel) (NP (NNS politics)))))
+-20.430723193127 -59.277996441949
+(S1 (FRAG (NP (NP (NN Pork) (NN barrel)) (NP (NNS politics)))))
+-20.453168042765 -58.434910425354
+(S1 (FRAG (NP (NN Pork) (NN barrel)) (NP (NN politics))))
+-20.706185953074 -59.902086360557
+(S1 (FRAG (NP (NN Pork) (NN barrel)) (NP (NNS politics))))
+-20.720660536536 -65.859147802734
+(S1 (NP (NP (NN Pork) (NN barrel)) (VP (NNS politics))))
+-20.860389816971 -67.973755466967
+(S1 (S (VP (NN Pork) (NP (NN barrel) (NNS politics)))))
+-20.938451869027 -64.397696621659
+(S1 (FRAG (NP (NN Pork) (NN barrel) (NNS politics))))
+-20.995648123295 -65.367193371917
+(S1 (S (NP (NN Pork)) (NP (NN barrel) (NNS politics))))
+-21.050911587950 -60.876314207310
+(S1 (FRAG (NP (NP (NN Pork) (NN barrel)) (NP (NN politics)))))
+-21.301806556222 -69.122826194854
+(S1 (NP (NP (NN Pork)) (NP (NN barrel) (NNS politics))))
+-21.360628641229 -61.502882042239
+(S1 (X (NP (NN Pork) (NN barrel)) (NP (NNS politics))))
+-21.646127351490 -63.073433978861
+(S1 (FRAG (NP (NP (NN Pork) (NN barrel)) (NNS politics))))
+-21.792201626181 -69.158317457770
+(S1 (X (NP (NN Pork) (NN barrel) (NNS politics))))
+-21.873813404685 -63.709147938284
+(S1 (S (NP (NP (NN Pork) (NN barrel)) (NNS politics))))
+-21.929396026064 -68.108584959137
+(S1 (NP (NP (NN Pork)) (NN barrel) (NNS politics)))
+-22.056939396662 -69.248220671213
+(S1 (NP (NP (NN Pork)) (NN barrel) (NN politics)))
+-22.088220236014 -65.399295321342
+(S1 (S (NP (NP (NN Pork) (NN barrel)) (NP (NNS politics)))))
+-22.164307389843 -69.892376051472
+(S1 (FRAG (NP (NN Pork) (NN barrel) (NN politics))))
+-22.197901750288 -64.410454397220
+(S1 (X (NP (NP (NN Pork) (NN barrel)) (NP (NNS politics)))))
+-22.392834825994 -69.818089440066
+(S1 (S (NP (NN Pork) (NN barrel) (NN politics))))
+-22.470884808300 -72.263243975851
+(S1 (NP (NP (NN Pork)) (NP (NN barrel) (NN politics))))
+-22.773517349137 -68.151035762844
+(S1 (FRAG (NP (NP (NN Pork) (NN barrel)) (VP (NNS politics)))))
+-22.795040851575 -71.942215092036
+(S1 (S (NP (NN Pork)) (VP (NN barrel) (NP (NN politics)))))
+-22.799167686116 -69.585048393822
+(S1 (S (NP (NN Pork) (NN barrel)) (VP (NP (NN politics)))))
+-22.948968110825 -68.620465266758
+(S1 (X (NP (NP (NN Pork) (NN barrel)) (NNS politics))))
+-22.969563661440 -63.621522491400
+(S1 (X (NP (NN Pork) (NN barrel)) (NP (NN politics))))
+-23.043957177718 -67.668506205906
+(S1 (FRAG (NP (NP (NN Pork) (NN barrel)) (NN politics))))
+-23.045132625533 -66.367876727301
+(S1 (S (NP (NP (NN Pork) (NN barrel)) (NP (NN politics)))))
+-23.103726441586 -67.547179698414
+(S1 (FRAG (S (NP (NN Pork) (NN barrel)) (VP (NNS politics)))))
+-23.172957571793 -70.189251932043
+(S1 (S (NP (NP (NN Pork) (NN barrel)) (VP (NNS politics)))))
+-23.223095222463 -72.238152613126
+(S1 (NP (NP (NN Pork)) (VP (NN barrel) (NP (NNS politics)))))
+-23.374461137594 -70.649869618692
+(S1 (FRAG (NP (NN Pork)) (NP (NN barrel) (NNS politics))))
+-23.439408617936 -72.309759430042
+(S1 (FRAG (VP (NN Pork) (NP (NN barrel) (NNS politics)))))
+-23.447787884999 -66.654817652335
+(S1 (X (NP (NP (NN Pork) (NN barrel)) (NP (NN politics)))))
+-23.610791089651 -72.374805197030
+(S1 (FRAG (NP (NP (NN Pork)) (NP (NN barrel) (NNS politics)))))
+-23.718743648028 -68.239884166582
+(S1 (S (NP (NP (NN Pork) (NN barrel)) (NN politics))))
+-23.742621599365 -67.528767758456
+(S1 (FRAG (S (NP (NN Pork) (NN barrel)) (NP (NNS politics)))))
+-24.693685826879 -71.725269550263
+(S1 (X (NP (NP (NN Pork) (NN barrel)) (NN politics))))
+-25.097616778131 -68.614336825711
+(S1 (NP (NP (NP (NN Pork)) (NP (NN barrel))) (NNS politics)))
+

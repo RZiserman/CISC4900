@@ -1,0 +1,102 @@
+50 x
+-14.564855213590 -51.983298779320
+(S1 (S (NP (DT The) (NNS kids)) (VP (VBP keep) (NP (DT those)))))
+-15.969448517662 -55.795884470801
+(S1 (S (NP (DT The) (NNS kids)) (VP (VB keep) (NP (DT those)))))
+-18.538007165068 -65.548278470543
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (NP (DT those)))))
+-18.621627104255 -65.403390520463
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VB keep) (NP (DT those)))))
+-19.688697542987 -65.273438340886
+(S1 (S (NP (DT The) (NNS kids)) (VP (VBP keep) (S (NP (DT those))))))
+-19.689491731716 -63.186113906002
+(S1 (S (NP (DT The) (NNS kids)) (VP (VBP keep) (ADVP (DT those)))))
+-20.629732386409 -67.876792538884
+(S1 (S (NP (DT The) (NNS kids)) (VP (VB keep) (S (NP (DT those))))))
+-20.645006925038 -72.212661231897
+(S1 (S (NP (DT The) (NNS kids)) (VP (VBP keep) (DT those))))
+-20.747846203242 -64.010774736066
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VBP keep) (NP (DT those)))))
+-20.759275735115 -68.450989567420
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (NP (DT those))))))
+-20.779004906546 -66.934924859737
+(S1 (S (NP (DT The) (NNS kids)) (VP (VB keep) (ADVP (DT those)))))
+-20.821870168949 -68.388571357901
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VB keep) (NP (DT those))))))
+-21.161670936863 -67.124053021461
+(S1 (S (NP (DT The) (NNS kids)) (VP (VBP keep) (ADJP (DT those)))))
+-22.288625108710 -68.362298186015
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VB keep) (NP (DT those)))))
+-22.781737725667 -70.708730328565
+(S1 (S (NP (NP (DT The)) (NNS kids)) (VP (VBP keep) (NP (DT those)))))
+-22.831447568650 -71.497978009388
+(S1 (S (NP (DT The) (NNS kids)) (VP (VB keep) (ADJP (DT those)))))
+-22.900963727465 -76.829362416201
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VB keep) (S (NP (DT those))))))
+-23.195008441987 -76.326355849791
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VB keep) (ADVP (DT those)))))
+-23.254801463939 -75.811538685097
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (ADVP (DT those)))))
+-23.428400316087 -82.225501552930
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (DT those))))
+-23.864604592563 -80.427021386150
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (S (NP (DT those))))))
+-24.541814999885 -79.758323009142
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (ADJP (DT those)))))
+-24.597470921808 -74.249607699775
+(S1 (S (NP (NP (DT The)) (NNS kids)) (VP (VB keep) (NP (DT those)))))
+-24.786520925907 -79.654248790610
+(S1 (NP (NP (DT The) (NNS kids)) (VP (VB keep) (ADJP (DT those)))))
+-25.048586347584 -78.560797129674
+(S1 (NP (NP (DT The) (NX (NNS kids))) (VP (VBP keep) (NP (DT those)))))
+-25.178268412071 -78.415909179595
+(S1 (NP (NP (DT The) (NX (NNS kids))) (VP (VB keep) (NP (DT those)))))
+-25.227590099372 -79.814543253638
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VB keep) (S (NP (DT those)))))))
+-25.419049006682 -79.311536687228
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VB keep) (ADVP (DT those))))))
+-25.525526101199 -78.714249781974
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (ADVP (DT those))))))
+-25.691480386134 -85.128212649807
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (DT those)))))
+-25.871688532640 -77.300914297631
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VBP keep) (S (NP (DT those))))))
+-25.872482718581 -75.213589862748
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VBP keep) (ADVP (DT those)))))
+-25.919362654826 -81.676017258529
+(S1 (S (NP (DT The) (NNS kids)) (VP (VBP keep) (S (ADVP (DT those))))))
+-25.967930250267 -83.543089375554
+(S1 (S (NP (DT The) (NNS kids)) (VP (VBP keep) (S (ADJP (DT those))))))
+-26.045031559822 -83.329732483027
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (S (NP (DT those)))))))
+-26.266519459247 -84.279371456528
+(S1 (S (NP (DT The) (NNS kids)) (VP (VB keep) (S (ADVP (DT those))))))
+-26.790315869901 -86.146443573552
+(S1 (S (NP (DT The) (NNS kids)) (VP (VB keep) (S (ADJP (DT those))))))
+-26.827997914691 -84.240137188642
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VBP keep) (DT those))))
+-26.943261069932 -82.661034106019
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VBP keep) (ADJP (DT those))))))
+-26.948908974669 -80.443206254098
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VB keep) (S (NP (DT those))))))
+-27.023035490602 -82.639429628047
+(S1 (S (NP (NP (DT The) (NNS kids)) (VP (VB keep) (ADJP (DT those))))))
+-27.098181494806 -79.501338574951
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VB keep) (ADVP (DT those)))))
+-27.344661926515 -79.151528978207
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VBP keep) (ADJP (DT those)))))
+-27.645614549982 -82.493267316650
+(S1 (S (NP (NP (DT The) (NX (NNS kids))) (VP (VBP keep) (NP (DT those))))))
+-27.754271109117 -82.430849107131
+(S1 (S (NP (NP (DT The) (NX (NNS kids))) (VP (VB keep) (NP (DT those))))))
+-27.905580055064 -83.998869890130
+(S1 (S (NP (NP (DT The)) (NNS kids)) (VP (VBP keep) (S (NP (DT those))))))
+-27.906374243793 -81.911545455247
+(S1 (S (NP (NP (DT The)) (NNS kids)) (VP (VBP keep) (ADVP (DT those)))))
+-29.150624156910 -84.064391724603
+(S1 (S (NP (DT The) (NX (NNS kids))) (VP (VB keep) (ADJP (DT those)))))
+-29.378553448940 -85.849484570706
+(S1 (S (NP (NP (DT The)) (NNS kids)) (VP (VBP keep) (ADJP (DT those)))))
+-29.407027310692 -85.388648088711
+(S1 (S (NP (NP (DT The)) (NNS kids)) (VP (VB keep) (ADVP (DT those)))))
+

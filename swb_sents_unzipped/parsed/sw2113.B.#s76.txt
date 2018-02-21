@@ -1,0 +1,102 @@
+50 x
+-42.938975379069 -165.303347164769
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (SBAR (S (NP (PRP I)) (VP (VBD cried)))))))))))))))))))
+-43.792161580022 -165.846345626012
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (SBAR (S (NP (PRP I)) (VP (VBD cried)))))))))))))))))))
+-43.848993815536 -166.482056410072
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (VP (VBN cried))))))))))))))))))
+-44.261234113094 -168.090822190073
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))))))))
+-44.702180044367 -167.025054871314
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (VP (VBN cried))))))))))))))))))
+-44.999733268737 -166.782366787013
+(S1 (FRAG (WHADVP (WRB when)) (NP (PRP I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))))))))
+-45.052084081104 -168.055339792520
+(S1 (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))))))))))
+-45.616383302109 -166.604598576572
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (VBN cried))))))))))))))))))
+-45.880745199579 -166.986064841563
+(S1 (FRAG (WHADVP (WRB when)) (NP (NN I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))))))))
+-46.066986904335 -167.287874482341
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))) (SBAR (S (NP (PRP I)) (VP (VBD cried)))))))))))))))
+-46.198877744208 -166.168252033112
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))))))))
+-46.338649226604 -167.961076032316
+(S1 (FRAG (WHADVP (WRB when)) (NP (PRP I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (VP (VBN cried)))))))))))))))))
+-46.469569503063 -167.147597037815
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (VBN cried))))))))))))))))))
+-46.553836964577 -162.958972532214
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried))))))))))))))))))
+-46.920173105289 -167.830872943583
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))) (SBAR (S (NP (PRP I)) (VP (VBD cried)))))))))))))))
+-47.229480735324 -168.164774086866
+(S1 (FRAG (WHADVP (WRB when)) (NP (NN I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (VP (VBN cried)))))))))))))))))
+-47.407023193409 -163.501970993456
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried))))))))))))))))))
+-47.537793729953 -167.346961278415
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (VP (VBN cried)))))))))))))))))
+-47.563037646481 -165.746447557518
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-48.106038713178 -168.083618198816
+(S1 (FRAG (WHADVP (WRB when)) (NP (PRP I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (VBN cried)))))))))))))))))
+-48.423276297402 -164.665756058692
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried)))))))))))
+-48.501150390928 -166.166031999204
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried))))))))))))))))))
+-48.554772539524 -164.437992154458
+(S1 (FRAG (WHADVP (WRB when)) (NP (PRP I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-48.695174535491 -165.710965159964
+(S1 (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))))
+-48.966849628496 -167.132296419943
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))))
+-48.996870221898 -168.287316253366
+(S1 (FRAG (WHADVP (WRB when)) (NP (NN I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (VBN cried)))))))))))))))))
+-49.156003526683 -167.634295124944
+(S1 (FRAG (WHADVP (WRB when)) (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-49.276462498356 -165.208754519935
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried)))))))))))
+-49.305183188649 -167.469503444915
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (VBN cried)))))))))))))))))
+-49.326889297353 -168.152779350684
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))))
+-49.548360736444 -166.253963621207
+(S1 (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))))
+-49.565676110366 -164.641690209008
+(S1 (FRAG (WHADVP (WRB when)) (NP (NN I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-49.723176512093 -168.203412684900
+(S1 (FRAG (WHADVP (WRB when)) (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-49.753917014995 -163.823877400557
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-49.780324831427 -167.453231083996
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))
+-49.781805527040 -167.538160034319
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))))
+-49.934962513225 -168.293029338182
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (DT that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried))))))))))))))))))
+-50.168868805403 -167.837993179493
+(S1 (FRAG (WHADVP (WRB when)) (NP (NN I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-50.339592663274 -167.653178435154
+(S1 (FRAG (WRB when) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried))))))))))))))))))
+-50.370589695875 -167.872815525683
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried)))))))))))
+-50.484034187070 -166.144775680937
+(S1 (FRAG (WHADVP (WRB when)) (NP (PRP I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))
+-50.525314572342 -167.740397999866
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-50.536384999437 -167.417748686443
+(S1 (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))
+-51.128987996274 -167.725542184551
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (DT each) (NN time) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried)))))))))))))))))
+-51.153334892105 -168.196176896397
+(S1 (FRAG (WRB when) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (S (NP (PRP I)) (ADJP (JJ cried))))))))))))))))))
+-51.365046117912 -166.348473735486
+(S1 (FRAG (WHADVP (WRB when)) (NP (NN I)) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))
+-51.389571200391 -167.960747147686
+(S1 (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))))
+-51.683178662541 -165.530660927035
+(S1 (FRAG (WHADVP (WRB when) (NP (PRP I))) (NP (DT each) (NN time) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed))))))))) (SBAR (S (NP (PRP I)) (VP (VBD cried))))))))))
+-54.309126542852 -167.530915608669
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (NP (PRP I)))))))))))))) (VP (VBD cried)))))
+-55.162312799562 -168.073914214673
+(S1 (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (NP (NP (DT each) (NN time)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT the) (NNPS Indians)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN killed) (NP (PRP I)))))))))))))) (VP (VBD cried)))))
+

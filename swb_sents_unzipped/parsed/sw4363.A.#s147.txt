@@ -1,0 +1,102 @@
+50 x
+-18.584754615709 -63.732783942850
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there)))))))))
+-20.316962132743 -65.477090705985
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there))))))))))
+-20.423224552458 -69.594139915909
+(S1 (SBAR (WDT whatever) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there)))))))))
+-20.817432033144 -68.010093329608
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (ADVP (RB there))))))))))
+-21.440958231416 -73.912076397799
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (PRT (RB there)))))))))
+-21.860131517708 -71.172592954928
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (S (NP (PRP it)) (ADVP (RB there))))))))))
+-22.000668381764 -76.313553916641
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VB want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there)))))))))
+-22.066238011941 -69.958126424123
+(S1 (FRAG (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there)))))))))
+-22.250902221192 -71.072988951215
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (NP (EX there))))))))))
+-22.509857590212 -75.480543073845
+(S1 (NP (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there)))))))))
+-22.549639547390 -69.754400092744
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (ADVP (RB there)))))))))))
+-22.655901967105 -73.871449302668
+(S1 (SBAR (WDT whatever) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (ADVP (RB there))))))))))
+-22.913185300316 -74.467377706910
+(S1 (FRAG (SBAR (WDT whatever) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there))))))))))
+-23.023784197294 -77.522315322828
+(S1 (NP (WDT whatever) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there))))))))))
+-23.097188860754 -73.247185048767
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (NP (EX there)))))))))
+-23.173165745662 -75.656383160935
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (PRT (RB there))))))))))
+-23.405636973068 -72.227688972838
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it))))) (ADVP (RB there))))))
+-23.592339034742 -72.916899718063
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (S (NP (PRP it)) (ADVP (RB there)))))))))))
+-23.698601454456 -77.033948927987
+(S1 (SBAR (WDT whatever) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (S (NP (PRP it)) (ADVP (RB there))))))))))
+-23.759646552729 -78.153888920816
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VB want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there))))))))))
+-23.842935255438 -72.817295714350
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (NP (EX there)))))))))))
+-23.891812238429 -76.571965662944
+(S1 (FRAG (WHNP (WDT whatever)) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there))))))))))
+-23.973297547676 -76.833311244004
+(S1 (FRAG (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VB want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there)))))))))
+-24.089372155153 -76.934344924274
+(S1 (SBAR (WDT whatever) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (NP (EX there))))))))))
+-24.130268895732 -75.947409313005
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (S (NP (PRP it)) (NP (EX there))))))))))
+-24.289312971650 -75.259169414004
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it) (NP (EX there))))))))))
+-24.298915429376 -74.235435810881
+(S1 (FRAG (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (ADVP (RB there))))))))))
+-24.405940134219 -74.166602991157
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (EX there)))))))))
+-24.474733148121 -74.273594247721
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)))) (NP (EX there)))))))
+-24.543992032330 -77.051178187015
+(S1 (FRAG (NP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (RB there)))))))))
+-24.603388115385 -76.930152510492
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (S (ADVP (RB there))))))))))
+-24.680371918006 -76.354487712526
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (ADVP (PRP it) (RB there)))))))))
+-24.689221895000 -74.991491811903
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (NP (EX there))))))))))
+-24.950096319803 -77.478401390579
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (S (VP (VB call) (NP (PRP it)) (ADVP (RB there))))))))))
+-24.985249201842 -75.618052296721
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it))))) (NP (EX there))))))
+-25.027525128999 -75.255427108954
+(S1 (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (ADVP (EX there))))))))))
+-25.042859165707 -74.907859289369
+(S1 (S (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)))))))) (NP (EX there))))
+-25.137844490101 -73.971995735973
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it))))) (ADVP (RB there)))))))
+-25.244106909816 -78.089044945897
+(S1 (SBAR (WDT whatever) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it))))) (ADVP (RB there))))))
+-25.341614916728 -77.397935436201
+(S1 (FRAG (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (S (NP (PRP it)) (ADVP (RB there))))))))))
+-25.701436057424 -77.298331432488
+(S1 (FRAG (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (NP (EX there))))))))))
+-25.722301932766 -77.691716076141
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (S (NP (PRP it)) (NP (EX there)))))))))))
+-25.881346008684 -77.003476177139
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it) (NP (EX there)))))))))))
+-25.997973168465 -75.910909754292
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)) (ADVP (EX there))))))))))
+-26.010958752738 -74.981408652501
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)))))))) (NP (EX there))))
+-26.066766182367 -76.017901010856
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)))) (NP (EX there))))))))
+-26.412579435040 -78.098794475661
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (ADVP (PRP it) (RB there))))))))))
+-26.577282236088 -77.362359059856
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it))))) (NP (EX there)))))))
+-26.619558163245 -76.999733872089
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (NP (PRP it)) (ADVP (EX there)))))))))))
+-27.191338339103 -74.385975100789
+(S1 (FRAG (SBAR (WHNP (WDT whatever)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP it)))))))) (ADVP (RB there))))
+

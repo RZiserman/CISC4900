@@ -1,0 +1,102 @@
+50 x
+-29.804937987929 -103.215067230957
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-31.004470021721 -109.845288503798
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NN media))))))))
+-31.264721113339 -103.669430525348
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-31.417426477835 -109.388081195134
+(S1 (S (CC So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-31.614092684398 -108.905587733087
+(S1 (S (IN So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))))
+-31.727872165549 -111.793483371177
+(S1 (SBAR (IN So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))))
+-31.955419800021 -113.663415155003
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VBD raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-32.407976637132 -110.299651798189
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NN media))))))))
+-32.644631776178 -110.476961956361
+(S1 (FRAG (SBAR (IN So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))))
+-32.767155809028 -110.903657689788
+(S1 (S (ADVP (RB So)) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-32.875200768500 -114.413879959517
+(S1 (S (NP (RB So) (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-33.052654158191 -115.535809005928
+(S1 (S (IN So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NN media)))))))))
+-33.124147048239 -108.065875253621
+(S1 (S (RB So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))))
+-33.226288445252 -110.831013732545
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (PP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-33.415202897554 -114.117778449393
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VBD raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-33.492973462529 -112.285040545695
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))) (PP (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-33.494588967200 -114.584589492625
+(S1 (S (CC So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))))
+-33.792670679078 -112.158671473955
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (VP (PP (IN by) (NP (DT the) (NNS media))))))))
+-34.022479714487 -112.968151094284
+(S1 (S (ADVP (IN So)) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-34.037215716320 -110.428214265463
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (ADJP (VBN raised)) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-34.564319134153 -114.696096526462
+(S1 (S (RB So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NN media)))))))))
+-34.596618499279 -113.861208649716
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (UCP (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-34.620867942912 -112.894717485573
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))) (PP (CC and) (IN by) (NP (DT the) (NNS media)))))))
+-34.666753938531 -115.463432843879
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (UCP (ADJP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-34.715818770663 -111.285377026935
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (PP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-34.908350297928 -113.761621494549
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (ADJP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-34.914079501835 -114.397999257593
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (UCP (S (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-34.929306502130 -114.792277588169
+(S1 (S (ADVP (RB So)) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))))
+-34.952756587940 -112.739403840086
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))) (PP (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-35.012164349980 -114.375245726088
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (IN by) (NP (DT the) (NNS media)))))))
+-35.125702630388 -114.221397654095
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (PP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-35.252453804489 -112.613034768345
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (VP (PP (IN by) (NP (DT the) (NNS media))))))))
+-35.265547791508 -112.717841484414
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (PP (PP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-35.434802951962 -115.765812328271
+(S1 (FRAG (CC So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))))
+-35.482032295010 -115.351897552025
+(S1 (S (IN So) (NP (NNS kids)) (VP (VBP are) (VP (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (VP (IN by) (NP (DT the) (NNS media)))))))
+-35.526746041730 -110.882577559853
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (ADJP (VBN raised)) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-35.534511797614 -114.634309778883
+(S1 (UCP (SBAR (IN So) (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))))))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))
+-35.934328910562 -114.630657992171
+(S1 (FRAG (RB So) (SBAR (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))))
+-36.080542041078 -115.450225782645
+(S1 (ADJP (RB So) (SBAR (S (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))))
+-36.080651068323 -113.349080779964
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))) (PP (CC and) (IN by) (NP (DT the) (NNS media)))))))
+-36.086148824690 -114.315571944107
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (UCP (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-36.156284263942 -115.917796138269
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (UCP (ADJP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-36.397880623339 -114.215984788940
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (ADJP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-36.403609827245 -114.852362551984
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (UCP (S (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-36.471947475391 -114.829609020479
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (IN by) (NP (DT the) (NNS media)))))))
+-36.558782383684 -115.681821663073
+(S1 (S (RB So) (S (NP (NNS kids)) (VP (VBP are) (PP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-36.615232927921 -114.675760948485
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (PP (VBN raised) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+-36.755078116919 -113.172204778804
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (PP (PP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (PP (IN by) (NP (DT the) (NNS media)))))))
+-36.941815392543 -115.806260846416
+(S1 (S (RB So) (NP (NNS kids)) (VP (VBP are) (VP (VP (VBN raised) (PP (IN around) (NP (PRP$ their) (NNS friends)))) (CC and) (VP (IN by) (NP (DT the) (NNS media)))))))
+-37.480540180507 -115.279022450166
+(S1 (S (RB So) (S (NP (NNS kids)) (VP (VBP are) (ADJP (VBN raised)) (PP (PP (IN around) (NP (PRP$ their) (NNS friends))) (CC and) (PP (IN by) (NP (DT the) (NNS media))))))))
+
