@@ -2,22 +2,30 @@
 
 """Author: Roman Ziserman"""
 
+"""This script iterates over all the files in a directory containing siwtchboad data files (text).
+It parses each individual sentence in every file and produces an output text file containing an nbest list of
+20 parses. The text files are named using the convention 'fileid.sentid.txt'"""
 import os
+import time
 
 from bllipparser import RerankingParser
 rrp = RerankingParser.fetch_and_load('WSJ-PTB3', verbose=True)
 
+#Time the execution of this script
+t0 = time.time()
+
+#For readability
 parsed_dir = os.getcwd() + '/parsed/' #parsed sentences will be stored here
 sents_dir = os.getcwd() + '/swb_sents/' #directory where sentences are stored
 
-#list  hold the sentences from the txt file. This list will be processed by the parser.
+#list to hold the sentences from the txt file. This list will be processed by the parser.
 sentences = []
 
-#counter to keep track of the current sentence for parsed files
-curr_sent_num = 1
+#list to hold sentence ids
+sent_id_list = []
 
-"""keep track of the current file being processed; used to create output file name.Will concatenate with
-current_Sent_num"""
+"""keep track of the current file being processed; used to create output file name. Will concatenate with
+the sentence IDs"""
 out_file_name= None 
 
 """list of files in swb_Sents directory. Will be used to  process all the files in the following loop."""
@@ -30,28 +38,32 @@ try:
 			for curr_line in data:
 				#skip all the #sentN stuff
 				if '#' in curr_line: 
+					sent_id_list.append(curr_line.strip('\n').strip('\r'))
 					continue
 				sentences.append(curr_line.strip('\n').strip('\r'))
 	
 		#Remove all the empty strings (in python3, wrap filter() in list()
 		sentences = filter(None, sentences)
 
-		"""This loop will parse each sentence in the sentences list and build a pickle file.
+		"""This loop will parse each sentence in the sentences list and store them in a text file.
 		It will stored in the parsed folder"""
-		for curr_sent in sentences:
-			nbest_list = rrp.parse(curr_sent)
+		for curr_sent in range(len(sentences)):
+			nbest_list = rrp.parse(sentences[curr_sent])
 			#create a file name for the current sentence
-			out_file_name = curr_file[:-9] + ".Sentence#" + str(curr_sent_num) + '.txt'
-			curr_sent_num = curr_sent_num + 1
+			out_file_name = curr_file[:-9] + "." + sent_id_list[curr_sent]  + '.txt'
 			
 			#dump the file into the parsed directory
 			with open(parsed_dir + out_file_name, 'w') as output:
 				print>>output, nbest_list
 
-		#reset sentence list for next iteration
-		curr_sent_num = 1 
-		#reset sentence list for next iteration
+		#reset both sentence and sentenceID lists for next iteration
 		sentences = [] 
+		sent_id_list = []
 		
+		t1= time.time()
+		elapsed = t1-t0
+
+		with open(parsed_dir + 'TOTAL_RUN_TIME.txt', 'w') as tot_time:
+			print>>tot_time, "Total runtime: " + str(elapsed) 
 except IOError as err:
 	print('File error:' + str(err))
