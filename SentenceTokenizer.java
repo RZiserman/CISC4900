@@ -5,8 +5,8 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 
 /**
- * This class takes text files from a specified directory, removes a certain regex patterns, and creates a new text
- * files sans all the instances of the specified pattern.
+ * This class takes text files from a specified directory, removes a certain regex patterns, and creates new text
+ * files sans all instances of the specified pattern.
  */
 
 public class SentenceTokenizer {
