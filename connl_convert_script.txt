@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+#Author: Roman Ziserman
+
+#This script uses the LTH Constituent-to-Dependency
+#Tool to convert ptb gold-standard trees into CoNLL 
+#format. 
+
+#The script is merely a for-loop which iterates over
+#all the files in a directory containing ptb files. It
+#then redirects the files into a converted directory
+
+
+
+for fn in ptb_no_tags/*.txt; do
+   current_file=$(echo $fn | cut --complement -c 1-12)
+    touch converted/"$current_file"  
+    java -jar pennconverter.jar -raw -f "$fn" -t converted/"$current_file"
+done
+ 
